@@ -1,6 +1,5 @@
 ### Hi there, I'm <a href="https://trinhminhtriet.com" target="_blank">Trinh Minh Triet</a> 👋
 
-
 [![Linkedin Badge](images/linkedin.png)](https://linkedin.com/in/triet-trinh)
 [![Twitter Badge](images/twitter.png)](https://twitter.com/trinhminhtriet)
 
@@ -19,5 +18,6 @@ Love interacting with the community, share knowledge and learn new things.
 - 👨 I’m Trinh Minh Triet (trinhminhtriet).
 - 😄 Pronouns: he/him/his.
 - 🏢 I currently work at EVM.
-- 💬 Ask me about anything, I am happy to help.
-- 📫 How to reach me: triet.trinh.app@gmail.com.
+- 📫 How to reach me: triet.trinh.vn@gmail.com.
+- 💬 Skype: trinhminhtriet
+- Ask me about anything, I am happy to help.
