@@ -18,6 +18,6 @@ Love interacting with the community, share knowledge and learn new things.
 - 👨 I’m Trinh Minh Triet (trinhminhtriet).
 - 😄 Pronouns: he/him/his.
 - 🏢 I currently work at EVM.
-- 📫 How to reach me: triet.trinh.vn@gmail.com.
+- 📧 How to reach me: info@trinhminhtriet.com
 - 💬 Skype: trinhminhtriet
-- Ask me about anything, I am happy to help.
+- ⁉️ Ask me about anything, I am happy to help.
