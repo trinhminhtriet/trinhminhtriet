@@ -1,15 +1,15 @@
-### Hi there, I'm <a href="https://trinhminhtriet.com" target="_blank">Trinh Minh Triet</a> 👋
+### Hi there, I'm <a href="https://trinhminhtriet.com" target="_blank" title="Trinh Minh Triet">Trinh Minh Triet</a> 👋
 
-[![Linkedin Badge](images/linkedin.png)](https://linkedin.com/in/triet-trinh)
-[![Twitter Badge](images/twitter.png)](https://twitter.com/trinhminhtriet)
+[![trinhminhtriet's LinkedIn Profile](images/linkedin.png)](https://linkedin.com/in/triet-trinh)
+[![trinhminhtriet's Facebook Profile](images/facebook.png)](hhttps://www.facebook.com/trinhminhtriet)
+[![trinhminhtriet's Twitter Profile](images/twitter.png)](https://twitter.com/trinhminhtriet)
+[![trinhminhtriet's Credly Profile](images/credly.png)](https://www.credly.com/users/trinhminhtriet)
 
 </br>
 
 ### Glad to see you here!
 
-<img align="right" alt="Gif" src="images/coding.gif" width="400" />
-
-I’m currently working on 
+<img align="right" alt="Trinh Minh Triet" src="images/coding.gif" width="400" />
 
 Love interacting with the community, share knowledge and learn new things.
 
