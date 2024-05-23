@@ -11,13 +11,12 @@
 
 <img align="right" alt="Trinh Minh Triet" src="images/coding.gif" width="400" />
 
-Love interacting with the community, share knowledge and learn new things.
+Love interacting with the community, sharing knowledge, and learning new things.
 
-**Talking about Personal Stuffs:**
+**Talking about personal stuff:**
 
 - 👨 I’m Trinh Minh Triet (trinhminhtriet).
 - 😄 Pronouns: he/him/his.
 - 🏢 I currently work at EVM.
 - 📧 How to reach me: contact@trinhminhtriet.com
 - 💬 Skype: trinhminhtriet
-- ⁉️ Ask me about anything, I am happy to help.
