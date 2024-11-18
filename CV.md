@@ -70,6 +70,22 @@ Senior Platform Engineer cum Scrum Master with over 15 years of software develop
 
 ## Projects
 
+### [Salus](https://salus.mediba.co.jp/)
+
+- **Description:** A system for sending information and alerts to check the status of employees in the event of natural disasters, earthquakes, tsunamis, volcanic eruptions, etc.
+- **Role:** Technical Lead
+- **Technologies Used:** Golang, NestJS, Aurora, GitHub Actions, Terraform, Docker, ECS, SQS, CloudWatch.
+- **Responsibilities:**
+  - Estimated project workload, timelines, and resource requirements to ensure on-time delivery.
+  - Wrote technical proposals and documentation of basic design, architecture design.
+  - Conducted code reviews and provided mentorship to developers.
+  - Conducted benchmark tests to ensure optimal performance and scalability.
+  - Performed security scans to identify and mitigate vulnerabilities.
+  - Deployed the application on AWS and set up CI/CD pipelines using GitHub Actions and CodeDeploy.
+- **Outcome:**
+  - Successfully launched the platform, providing users with personalized health recommendations.
+  - Achieved high performance and reliability through effective monitoring and logging.
+
 ### [Plus Msg](https://plus-msg.auone.jp/)
 
 - **Description:** A portal site provided by AU. In addition to using convenient services such as search, weather, transit/maps, and fortune telling, the portal also delivers the latest news on current events, sports, entertainment, etc. in real time.
