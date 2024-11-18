@@ -36,13 +36,14 @@ Senior Platform Engineer ^ Scrum Master with over 15 years of software developme
 - Mentor developers and provided technical guidance to ensure best practices.
 - Conduct code reviews and provided constructive feedback to improve code quality.
 - Analyze and resolve technical issues to maintain system stability and performance.
-- Collaborate with QA team to define test cases and ensure comprehensive test coverage.
+- Collaborate with QC team to define test cases and ensure comprehensive test coverage.
 - Conduct performance reviews and provided feedback to team members to support their professional development.
 
 ## Technical Skills
 
 - **Programming Languages:** PHP, Python, Golang, Java, Javascript.
 - **Frameworks and Libraries:** Laravel, Symfony, Spring Boot, jHipster, NestJS.
+- **Frontend:** React.
 - **Databases:** MySQL, PostgreSQL, DynamoDB, Redis.
 - **APIs:** RestAPI, GraphQL.
 - **Cloud:** AWS.
@@ -50,7 +51,8 @@ Senior Platform Engineer ^ Scrum Master with over 15 years of software developme
 - **DevOps and CI/CD:** Docker, Terraform, GitHub Actions, CodeBuild, CodeDeploy.
 - **Container Orchestration:** ECS.
 - **Monitoring and Logging:** DataDog, NewRelic, CloudWatch, Twilio.
-- **Content Management Systems (CMS):** WordPress, Drupal.
+- **Content Management Systems (CMS):** WordPress, Drupal
+- **Ecommerce Platforms:** OpenCart, Prestashop, WooCommerce.
 - **Payment Gateways:** Authorize.Net, MolPay, Onefin.
 - **Mobile Application Development:** Android.
 
@@ -75,7 +77,7 @@ Senior Platform Engineer ^ Scrum Master with over 15 years of software developme
 
 - **Description:** A system for sending information and alerts to check the status of employees in the event of natural disasters, earthquakes, tsunamis, volcanic eruptions, etc.
 - **Role:** Technical Lead
-- **Technologies Used:** Golang, NestJS, Aurora, GitHub Actions, Terraform, Docker, ECS, SQS, CloudWatch.
+- **Technologies Used:** Golang, NestJS, Aurora, Azure Active Directory, GitHub Actions, Terraform, Docker, ECS, SQS, SNS, SES, S3, Lambda, CloundFront, CloudWatch.
 - **Responsibilities:**
   - Estimated project workload, timelines, and resource requirements to ensure on-time delivery.
   - Wrote technical proposals and documentation of basic design, architecture design.
