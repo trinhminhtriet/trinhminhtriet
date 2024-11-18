@@ -39,41 +39,16 @@ Senior Platform Engineer cum Scrum Master with over 15 years of software develop
 
 ## Technical Skills
 
-### Programming Languages
-
-- **PHP:** Extensive experience in building web applications and APIs.
-- **Go:** Proficient in developing high-performance and scalable applications.
-- **Python:** Skilled in scripting, automation, and data analysis.
-- **Java:** Experienced in building enterprise-level applications and microservices.
-- **JavaScript:** Proficient in both front-end and back-end development using modern frameworks and libraries.
-
-### Frameworks and Libraries
-
-- **Laravel:** Proficient in building robust and scalable web applications.
-- **NestJS:** Proficient in building efficient and scalable server-side applications.
-- **Spring Boot:** Proficient in developing microservices and RESTful APIs.
-- **jHipster:** Experienced in generating, developing, and deploying Spring Boot and React applications.
-- **React:** Experienced in creating dynamic and responsive user interfaces.
-
-### Tools and Platforms
-
-- **Docker:** Proficient in containerizing applications for consistent and scalable deployments.
-- **AWS:** Extensive knowledge of cloud services.
-- **Git:** Skilled in version control, branching strategies, and collaborative workflows.
-
-### Databases
-
-- **MySQL:** Experienced in designing and managing relational databases for scalable applications.
-- **DynamoDB:** Proficient in working with NoSQL databases for high-performance applications.
-- **Redis:** Experienced in using in-memory data structures for caching and real-time analytics.
-
-### DevOps and CI/CD
-
-- **Terraform:** Skilled in infrastructure as code for provisioning and managing cloud resources.
-- **Jenkins:** Expertise in setting up and managing continuous integration and continuous deployment pipelines.
-- **GitHub Actions:** Proficient in automating workflows for building, testing, and deploying code.
-- **AWS CodeBuild:** Experienced in setting up and managing build processes for continuous integration.
-- **AWS CodeDeploy:** Skilled in automating application deployments to various environments.
+- **Programming Languages:** Golang, PHP, Python, Java, Javascript.
+- **Frameworks and Libraries:** Laravel, Symfony, Spring Boot, jHipster, NestJS.
+- **Databases:** MySQL, PostgreSQL, DynamoDB, Redis.
+- **Cloud:** AWS.
+- **DevOps and CI/CD:** Docker, Terraform, GitHub Actions, CodeBuild, CodeDeploy.
+- **Container Orchestration:** ECS.
+- **Monitoring and Logging:** DataDog, NewRelic, CloudWatch, Twilio.
+- **Operating Systems:** MacOS, Linux.
+- **APIs:** RestAPI, GraphQL.
+- **Mobile Application Development:** Android.
 
 ### Other Skills
 
