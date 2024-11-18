@@ -14,7 +14,7 @@
 
 ## Summary
 
-Senior Platform Engineer ^ Scrum Master with over 15 years of software development experience. Proven track record in leading teams, managing projects, and delivering quality software solutions. Seeking a challenging position as a Technical Lead to leverage my expertise in software development, team leadership, and Agile methodologies.
+Senior Platform Engineer & Scrum Master with over 15 years of software development experience. Proven track record in leading teams, managing projects, and delivering quality software solutions. Seeking a challenging position as a Technical Lead to leverage my expertise in software development, team leadership, and Agile methodologies.
 
 ## Objectives
 
@@ -33,12 +33,12 @@ Senior Platform Engineer ^ Scrum Master with over 15 years of software developme
 - Develop internal CLI tools for enhancing developer productivity.
 - Facilitate Scrum events including sprint planning, daily stand-ups, sprint reviews, and retrospectives.
 - Collaborate with cross-functional teams to define project requirements and deliverables.
-- Mentor developers and provided technical guidance to ensure best practices.
-- Conduct code reviews and provided constructive feedback to improve code quality.
+- Mentor developers and provide technical guidance to ensure best practices.
+- Conduct code reviews and provide constructive feedback to improve code quality.
 - Analyze and resolve technical issues to maintain system stability and performance.
 - Prepare or review release procedures and documentation to ensure smooth deployment.
 - Collaborate with QC team to define test cases and ensure comprehensive test coverage.
-- Conduct performance reviews and provided feedback to team members to support their professional development.
+- Conduct performance reviews and provide feedback to team members to support their professional development.
 
 ## Technical Skills
 
@@ -78,7 +78,7 @@ Senior Platform Engineer ^ Scrum Master with over 15 years of software developme
 
 - **Description:** A system for sending information and alerts to check the status of employees in the event of natural disasters, earthquakes, tsunamis, volcanic eruptions, etc.
 - **Role:** Technical Lead
-- **Technologies Used:** Golang, NestJS, Aurora, Azure Active Directory, GitHub Actions, Terraform, Docker, ECS, SQS, SNS, SES, S3, Lambda, CloundFront, CloudWatch.
+- **Technologies Used:** Golang, NestJS, Aurora, Azure Active Directory, GitHub Actions, Terraform, Docker, ECS, SQS, SNS, SES, S3, Lambda, CloudFront, CloudWatch.
 - **Responsibilities:**
   - Estimated project workload, timelines, and resource requirements to ensure on-time delivery.
   - Wrote technical proposals and documentation of basic design, architecture design.
