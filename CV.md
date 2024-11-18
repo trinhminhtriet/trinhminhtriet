@@ -40,7 +40,7 @@ Senior Platform Engineer cum Scrum Master with over 15 years of software develop
 
 ## Technical Skills
 
-- **Programming Languages:** Golang, PHP, Python, Javascript.
+- **Programming Languages:** PHP, Python, Golang, Java, Javascript.
 - **Frameworks and Libraries:** Laravel, Symfony, Spring Boot, jHipster, NestJS.
 - **Databases:** MySQL, PostgreSQL, DynamoDB, Redis.
 - **APIs:** RestAPI, GraphQL.
