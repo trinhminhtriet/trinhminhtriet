@@ -24,6 +24,7 @@ Senior Platform Engineer cum Scrum Master with over 15 years of software develop
 
 ## Management Skills
 
+- Understand and implement the (SDLC) phases including requirement analysis, design, development, testing, deployment, and maintenance.
 - Estimate project workload, timelines and resource requirements to ensure on-time delivery.
 - Write technical proposals and documentation to support project bids and stakeholder communications.
 - Build and lead a team of developers in designing, developing, and deploying scalable software solutions.
@@ -39,20 +40,21 @@ Senior Platform Engineer cum Scrum Master with over 15 years of software develop
 
 ## Technical Skills
 
-- **Programming Languages:** Golang, PHP, Python, Java, Javascript.
+- **Programming Languages:** Golang, PHP, Python, Javascript.
 - **Frameworks and Libraries:** Laravel, Symfony, Spring Boot, jHipster, NestJS.
 - **Databases:** MySQL, PostgreSQL, DynamoDB, Redis.
+- **APIs:** RestAPI, GraphQL.
 - **Cloud:** AWS.
+- **Operating Systems:** MacOS, Linux.
 - **DevOps and CI/CD:** Docker, Terraform, GitHub Actions, CodeBuild, CodeDeploy.
 - **Container Orchestration:** ECS.
 - **Monitoring and Logging:** DataDog, NewRelic, CloudWatch, Twilio.
-- **Operating Systems:** MacOS, Linux.
-- **APIs:** RestAPI, GraphQL.
+- **Content Management Systems (CMS):** WordPress, Drupal.
+- **Payment Gateways:** Authorize.Net, MolPay, Onefin.
 - **Mobile Application Development:** Android.
 
 ### Other Skills
 
 - **Agile Methodologies:** Strong advocate of Agile practices including Scrum.
-- **Test-Driven Development (TDD):** Committed to writing clean, maintainable, and testable code.
 - **Code Review:** Experienced in conducting thorough code reviews to ensure code quality and best practices.
 - **Mentorship:** Passionate about mentoring junior developers and fostering a collaborative team environment.
