@@ -83,8 +83,21 @@ Senior Platform Engineer cum Scrum Master with over 15 years of software develop
   - Performed security scans to identify and mitigate vulnerabilities.
   - Deployed the application on AWS and set up CI/CD pipelines using GitHub Actions and CodeDeploy.
 - **Outcome:**
-  - Successfully launched the platform, providing users with personalized health recommendations.
+  - Successfully launched the platform.
   - Achieved high performance and reliability through effective monitoring and logging.
+
+### [Ataru](https://enjoy.point.auone.jp/)
+
+- **Description:** A platform offering a variety of services that allow users to accumulate Ponta points.
+- **Role:** Technical Lead
+- **Technologies Used:** Laravel, Python, Docker, Terraform, AWS Lambda.
+- **Responsibilities:**
+  - Estimated project workload, timelines, and resource requirements to ensure on-time delivery.
+  - Conducted code reviews and provided mentorship to developers.
+  - Migrated from Amazon Linux 2 to Amazon Linux 2023.
+  - Upgraded Lambda functions from Python3.8 to Python3.12
+- **Outcome:**
+  - Achieved high scalability and maintainability.
 
 ### [Plus Msg](https://plus-msg.auone.jp/)
 
@@ -94,7 +107,6 @@ Senior Platform Engineer cum Scrum Master with over 15 years of software develop
 - **Responsibilities:**
   - Estimated project workload, timelines, and resource requirements to ensure on-time delivery.
   - Wrote technical proposals and documentation of basic design, architecture design.
-  - Developed backend services and APIs to support portal functionalities.
   - Conducted code reviews and provided mentorship to developers.
   - Conducted benchmark tests to ensure optimal performance and scalability.
   - Performed security scans to identify and mitigate vulnerabilities.
@@ -113,6 +125,7 @@ Senior Platform Engineer cum Scrum Master with over 15 years of software develop
   - Estimated project workload, timelines, and resource requirements to ensure on-time delivery.
   - Developed backend services and APIs to support portal functionalities.
   - Conducted code reviews and provided mentorship to developers.
+  - Migration from EC2 to ECS.
   - Deployed the application on AWS and set up CI/CD pipelines using GitHub Actions and CodeDeploy.
 - **Outcome:**
   - Achieved high performance and reliability through effective monitoring and logging.
