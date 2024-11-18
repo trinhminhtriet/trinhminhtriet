@@ -6,6 +6,7 @@
 - **Email:** contact@trinhminhtriet.com
 - **Website:** [trinhminhtriet.com](https://www.trinhminhtriet.com)
 - **LinkedIn:** [trinhminhtriet](https://linkedin.com/in/triet-trinh/)
+- **GitHub:** [trinhminhtriet](https://github.com/trinhminhtriet)
 - **Credly:** [trinhminhtriet](https://www.credly.com/users/trinhminhtriet)
 - **Skype:** trinhminhtriet
 
@@ -103,7 +104,7 @@ Senior Platform Engineer ^ Scrum Master with over 15 years of software developme
 
 - **Description:** A portal site provided by AU. In addition to using convenient services such as search, weather, transit/maps, and fortune telling, the portal also delivers the latest news on current events, sports, entertainment, etc. in real time.
 - **Role:** Technical Lead
-- **Technologies Used:** Golang, Yii2, Aurora, GitHub Actions, AWS, ECS, Terraform, NewRelic.
+- **Technologies Used:** Golang, Yii2, Aurora, GitHub Actions, Terraform, Docker, ECS, SQS, Lambda, S3, CloudFront, Route53, NewRelic.
 - **Responsibilities:**
   - Estimated project workload, timelines, and resource requirements to ensure on-time delivery.
   - Wrote technical proposals and documentation of basic design, architecture design.
@@ -120,7 +121,7 @@ Senior Platform Engineer ^ Scrum Master with over 15 years of software developme
 
 - **Description:** A portal site provided by AU. In addition to using convenient services such as search, weather, transit/maps, and fortune telling, the portal also delivers the latest news on current events, sports, entertainment, etc. in real time.
 - **Role:** Technical Lead
-- **Technologies Used:** Golang, Yii2, Aurora, GitHub Actions, AWS, ECS, Terraform, NewRelic.
+- **Technologies Used:** Golang, Yii2, Aurora, GitHub Actions, Terraform, Docker, ECS, SQS, Lambda, S3, CloudFront, Route53, NewRelic.
 - **Responsibilities:**
   - Estimated project workload, timelines, and resource requirements to ensure on-time delivery.
   - Developed backend services and APIs to support portal functionalities.
@@ -135,7 +136,7 @@ Senior Platform Engineer ^ Scrum Master with over 15 years of software developme
 
 - **Description:** A portal site provided by AU. In addition to using convenient services such as search, weather, transit/maps, and fortune telling, the portal also delivers the latest news on current events, sports, entertainment, etc. in real time.
 - **Role:** Technical Lead
-- **Technologies Used:** Golang, Yii2, Aurora, GitHub Actions, AWS, ECS, Terraform, NewRelic.
+- **Technologies Used:** Golang, Yii2, Aurora, GitHub Actions, Terraform, Docker, ECS, SQS, Lambda, S3, CloudFront, Route53, NewRelic.
 - **Responsibilities:**
   - Estimated project workload, timelines, and resource requirements to ensure on-time delivery.
   - Wrote technical proposals and documentation of basic design, architecture design.
@@ -159,3 +160,17 @@ Senior Platform Engineer ^ Scrum Master with over 15 years of software developme
   - Conduct code reviews and provide feedback to improve code quality.
 - **Outcome:**
   - Successfully launched the eLearning platform.
+
+### [DeMuze](http://www.demuzenoordwijk.nl)
+
+- **Description:** A website that allows visitors to book tickets for watching movies.
+- **Role:** Senior PHP Developer.
+- **Technologies Used:** PHP, Laravel, MySQL, CentOS
+- **Responsibilities:**
+  - Integrated FilmDepot.nl API to fetch and display film showtimes.
+  - Integrated zTicket API to get available seats.
+  - Integrated zTicket API to order tickets.
+  - Integrated third-party payment gateways iDEAL for secure transactions.
+- **Outcome:**
+  - Successfully launched the ticket booking platform.
+  - Achieved high user satisfaction through a user-friendly interface and reliable performance.
