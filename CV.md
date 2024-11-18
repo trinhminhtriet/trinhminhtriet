@@ -2,7 +2,9 @@
 
 ### Contact Information
 
+- **Phone:** +84.966.854.642
 - **Email:** contact@trinhminhtriet.com
+- **Website:** [trinhminhtriet.com](https://www.trinhminhtriet.com)
 - **LinkedIn:** [trinhminhtriet](https://linkedin.com/in/triet-trinh)
 - **Credly:** [trinhminhtriet](https://www.credly.com/users/trinhminhtriet)
 - **Skype:** trinhminhtriet
@@ -18,7 +20,7 @@ Senior Platform Engineer cum Scrum Master with over 15 years of software develop
 - Lead a team of software developers to deliver high-quality software solutions.
 - Manage software projects from inception to completion.
 - Mentor developers and help them grow in their careers.
-- Improve software development processes and practices.
+- Improve software development processes and best practices.
 
 ## Management Skills
 
@@ -39,22 +41,24 @@ Senior Platform Engineer cum Scrum Master with over 15 years of software develop
 
 ### Programming Languages
 
-- **PHP:** Proficient in developing dynamic web applications and server-side scripting.
-- **Java:** Extensive experience in building enterprise-level applications and microservices.
-- **TypeScript:** Proficient in developing scalable and maintainable web applications.
-- **Python:** Advanced proficiency in developing web applications, automation scripts, and data analysis tools.
+- **PHP:** Extensive experience in building web applications and APIs.
+- **Go:** Proficient in developing high-performance and scalable applications.
+- **Python:** Skilled in scripting, automation, and data analysis.
+- **Java:** Experienced in building enterprise-level applications and microservices.
+- **JavaScript:** Proficient in both front-end and back-end development using modern frameworks and libraries.
 
 ### Frameworks and Libraries
 
-- **Laravel:** Proficient in building robust and scalable web applications using the Laravel framework.
+- **Laravel:** Proficient in building robust and scalable web applications.
 - **NestJS:** Proficient in building efficient and scalable server-side applications.
 - **Spring Boot:** Proficient in developing microservices and RESTful APIs.
+- **jHipster:** Experienced in generating, developing, and deploying Spring Boot and React applications.
 - **React:** Experienced in creating dynamic and responsive user interfaces.
 
 ### Tools and Platforms
 
 - **Docker:** Proficient in containerizing applications for consistent and scalable deployments.
-- **AWS:** Extensive knowledge of cloud services including EC2, S3, RDS, and Lambda.
+- **AWS:** Extensive knowledge of cloud services.
 - **Git:** Skilled in version control, branching strategies, and collaborative workflows.
 
 ### Databases
@@ -73,7 +77,7 @@ Senior Platform Engineer cum Scrum Master with over 15 years of software develop
 
 ### Other Skills
 
-- **Agile Methodologies:** Strong advocate of Agile practices including Scrum and Kanban.
+- **Agile Methodologies:** Strong advocate of Agile practices including Scrum.
 - **Test-Driven Development (TDD):** Committed to writing clean, maintainable, and testable code.
 - **Code Review:** Experienced in conducting thorough code reviews to ensure code quality and best practices.
 - **Mentorship:** Passionate about mentoring junior developers and fostering a collaborative team environment.
