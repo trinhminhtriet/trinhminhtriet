@@ -67,3 +67,54 @@ Senior Platform Engineer cum Scrum Master with over 15 years of software develop
 | Persol Process & Technology Vietnam | Lead PHP Developer        | 12 2017 - 09 2019 |
 | Devinition                          | Team Leader               | 06 2013 - 08 2017 |
 | 3ForCom                             | Software Engineeer        | 02 2012 - 12 2012 |
+
+## Projects
+
+### [Plus Msg](https://plus-msg.auone.jp/)
+
+- **Description:** A portal site provided by AU. In addition to using convenient services such as search, weather, transit/maps, and fortune telling, the portal also delivers the latest news on current events, sports, entertainment, etc. in real time.
+- **Role:** Technical Lead
+- **Technologies Used:** Golang, Yii2, Aurora, GitHub Actions, AWS, ECS, Terraform, NewRelic.
+- **Responsibilities:**
+  - Estimated project workload, timelines, and resource requirements to ensure on-time delivery.
+  - Wrote technical proposals and documentation of basic design, architecture design.
+  - Developed backend services and APIs to support portal functionalities.
+  - Conducted code reviews and provided mentorship to developers.
+  - Conducted benchmark tests to ensure optimal performance and scalability.
+  - Performed security scans to identify and mitigate vulnerabilities.
+  - Deployed the application on AWS and set up CI/CD pipelines using GitHub Actions and CodeDeploy.
+- **Outcome:**
+  - Successfully launched the portal, providing users with a seamless experience.
+  - Achieved high performance and reliability through effective monitoring and logging.
+  - Reached 200 million pageviews per month.
+
+### [AU Portal](https://portal.auone.jp/)
+
+- **Description:** A portal site provided by AU. In addition to using convenient services such as search, weather, transit/maps, and fortune telling, the portal also delivers the latest news on current events, sports, entertainment, etc. in real time.
+- **Role:** Technical Lead
+- **Technologies Used:** Golang, Yii2, Aurora, GitHub Actions, AWS, ECS, Terraform, NewRelic.
+- **Responsibilities:**
+  - Estimated project workload, timelines, and resource requirements to ensure on-time delivery.
+  - Developed backend services and APIs to support portal functionalities.
+  - Conducted code reviews and provided mentorship to developers.
+  - Deployed the application on AWS and set up CI/CD pipelines using GitHub Actions and CodeDeploy.
+- **Outcome:**
+  - Achieved high performance and reliability through effective monitoring and logging.
+  - Reached 300 million pageviews per month.
+
+### [UQ Life](https://portal.uqmobile.jp/)
+
+- **Description:** A portal site provided by AU. In addition to using convenient services such as search, weather, transit/maps, and fortune telling, the portal also delivers the latest news on current events, sports, entertainment, etc. in real time.
+- **Role:** Technical Lead
+- **Technologies Used:** Golang, Yii2, Aurora, GitHub Actions, AWS, ECS, Terraform, NewRelic.
+- **Responsibilities:**
+  - Estimated project workload, timelines, and resource requirements to ensure on-time delivery.
+  - Wrote technical proposals and documentation of basic design, architecture design.
+  - Developed backend services and APIs to support portal functionalities.
+  - Conducted code reviews and provided mentorship to developers.
+  - Conducted benchmark tests to ensure optimal performance and scalability.
+  - Performed security scans to identify and mitigate vulnerabilities.
+  - Deployed the application on AWS and set up CI/CD pipelines using GitHub Actions and CodeDeploy.
+- **Outcome:**
+  - Successfully launched the portal, providing users with a seamless experience.
+  - Achieved high performance and reliability throug
