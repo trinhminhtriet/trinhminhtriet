@@ -53,8 +53,12 @@ Senior Platform Engineer cum Scrum Master with over 15 years of software develop
 - **Payment Gateways:** Authorize.Net, MolPay, Onefin.
 - **Mobile Application Development:** Android.
 
-### Other Skills
+## Experiences
 
-- **Agile Methodologies:** Strong advocate of Agile practices including Scrum.
-- **Code Review:** Experienced in conducting thorough code reviews to ensure code quality and best practices.
-- **Mentorship:** Passionate about mentoring junior developers and fostering a collaborative team environment.
+| Company                             | Position                  | Duration          |
+| ----------------------------------- | ------------------------- | ----------------- |
+| Vietlink Solutions                  | Technical Lead            | 03 2021 - Present |
+| NashTech Global                     | Senior Software Engineeer | 10 2129 - 01 2021 |
+| Persol Process & Technology Vietnam | Lead PHP Developer        | 12 2017 - 09 2019 |
+| Devinition                          | Team Leader               | 06 2013 - 08 2017 |
+| 3ForCom                             | Software Engineeer        | 02 2012 - 12 2012 |
