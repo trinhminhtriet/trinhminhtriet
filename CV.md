@@ -116,5 +116,4 @@ Senior Platform Engineer cum Scrum Master with over 15 years of software develop
   - Performed security scans to identify and mitigate vulnerabilities.
   - Deployed the application on AWS and set up CI/CD pipelines using GitHub Actions and CodeDeploy.
 - **Outcome:**
-  - Successfully launched the portal, providing users with a seamless experience.
-  - Achieved high performance and reliability throug
+  - Achieved high performance and reliability through effective monitoring and logging.
