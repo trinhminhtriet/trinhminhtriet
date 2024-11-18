@@ -53,6 +53,11 @@ Senior Platform Engineer cum Scrum Master with over 15 years of software develop
 - **Payment Gateways:** Authorize.Net, MolPay, Onefin.
 - **Mobile Application Development:** Android.
 
+## Certifications
+
+- [AWS Certified Cloud Practitioner](https://www.credly.com/badges/a6db8963-c9f1-46c9-bda4-58b6e0fb0bbe)
+- [Professional Scrum Master™ I (PSM I)](https://www.credly.com/badges/c719fb35-66c3-40db-a59d-4bc9e8b38667)
+
 ## Experiences
 
 | Company                             | Position                  | Duration          |
