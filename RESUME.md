@@ -1,6 +1,7 @@
 # Trinh Minh Triet
 
 ### Contact Information
+
 - **Email:** contact@trinhminhtriet.com
 - **LinkedIn:** [trinhminhtriet](https://linkedin.com/in/triet-trinh)
 - **Credly:** [trinhminhtriet](https://www.credly.com/users/trinhminhtriet)
@@ -14,16 +15,17 @@ Senior Platform Engineer cum Scrum Master with over 15 years of software develop
 
 ---
 
-## Experience
+## Experiences
 
-### Vietlink Solution
+### Vietlink Solutions
+
 **Technical Lead**  
-*03 2021* - Present
+_03 2021_ - Present
 
 - Estimated project workload, timelines and resource requirements to ensure on-time delivery.
 - Wrote technical proposals and documentation to support project bids and stakeholder communications.
 - Built and Led a team of developers in designing, developing, and deploying scalable software solutions.
-- Designed a robust logging and monitoring system that reduced incident response time.
+- Designed a logging and monitoring system that reduced incident response time.
 - Developed internal CLI tools for enhancing developer productivity.
 - Facilitated Scrum events including sprint planning, daily stand-ups, sprint reviews, and retrospectives.
 - Collaborated with cross-functional teams to define project requirements and deliverables.
@@ -34,10 +36,16 @@ Senior Platform Engineer cum Scrum Master with over 15 years of software develop
 - Conducted performance reviews and provided feedback to team members to support their professional development.
 
 ### NashTech Global
-**Senior Software Developer**  
-** - *Month Year*
 
-- Developed and maintained e-Learning system, contributing to full-stack development and database management.
+**Senior Software Developer**  
+_12 2019_ - _02 2021_
+
+- Designed and implemented microservices architecture to improve system scalability and maintainability.
+- Developed RESTful APIs for seamless communication between microservices.
+- Conducted performance testing and optimization to ensure efficient operation of microservices.
+- Collaborated with DevOps team to streamline CI/CD pipelines for microservices deployment.
+- Provided training and support to team members on microservices best practices and patterns.
+- Supported the team in troubleshooting and resolving technical issues.
 - Engaged in Agile processes, collaborating with Product Owner to deliver product increments and ensure timely releases.
 - Optimized performance of existing applications.
 
@@ -46,8 +54,8 @@ Senior Platform Engineer cum Scrum Master with over 15 years of software develop
 ## Education
 
 **University Name**  
-*Degree* in *Field of Study*  
-*Year of Graduation*
+_Degree_ in _Field of Study_  
+_Year of Graduation_
 
 ---
 
@@ -71,9 +79,11 @@ Senior Platform Engineer cum Scrum Master with over 15 years of software develop
 ## Projects
 
 ### Project Name
+
 - Description of the project, technologies used, and your role.
 
 ### Project Name
+
 - Description of the project, technologies used, and your role.
 
 ---
