@@ -5,7 +5,7 @@
 - **Phone:** +84.966.854.642
 - **Email:** contact@trinhminhtriet.com
 - **Website:** [trinhminhtriet.com](https://www.trinhminhtriet.com)
-- **LinkedIn:** [trinhminhtriet](https://linkedin.com/in/triet-trinh)
+- **LinkedIn:** [trinhminhtriet](https://linkedin.com/in/triet-trinh/)
 - **Credly:** [trinhminhtriet](https://www.credly.com/users/trinhminhtriet)
 - **Skype:** trinhminhtriet
 
@@ -13,7 +13,7 @@
 
 ## Summary
 
-Senior Platform Engineer cum Scrum Master with over 15 years of software development experience. Proven track record in leading teams, managing projects, and delivering quality software solutions. Seeking a challenging position as a Technical Lead to leverage my expertise in software development, team leadership, and Agile methodologies.
+Senior Platform Engineer ^ Scrum Master with over 15 years of software development experience. Proven track record in leading teams, managing projects, and delivering quality software solutions. Seeking a challenging position as a Technical Lead to leverage my expertise in software development, team leadership, and Agile methodologies.
 
 ## Objectives
 
