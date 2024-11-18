@@ -146,3 +146,16 @@ Senior Platform Engineer ^ Scrum Master with over 15 years of software developme
   - Deployed the application on AWS and set up CI/CD pipelines using GitHub Actions and CodeDeploy.
 - **Outcome:**
   - Achieved high performance and reliability through effective monitoring and logging.
+
+### [OnTrack](https://ontrack.edu.au)
+
+- **Description:** An eLearning system designed to provide comprehensive online education and training resources.
+- **Role:** Senior Software Engineer
+- **Technologies Used:** PHP, Moodle, MySQL, EC2, RDS, S3, CloudFront.
+- **Responsibilities:**
+  - Translated business requirements into technical specifications.
+  - Developed custom plugins for Moodle and integrated third-party APIs.
+  - Handle the development of new features and enhancements.
+  - Conduct code reviews and provide feedback to improve code quality.
+- **Outcome:**
+  - Successfully launched the eLearning platform.
