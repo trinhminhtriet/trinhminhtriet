@@ -174,3 +174,15 @@ Senior Platform Engineer ^ Scrum Master with over 15 years of software developme
 - **Outcome:**
   - Successfully launched the ticket booking platform.
   - Achieved high user satisfaction through a user-friendly interface and reliable performance.
+
+### [MyParcel](https://www.myparcel.nl)
+
+- **Description:** MyParcel is a web application that allows the shop to provide the shipment of the package.
+- **Role:** Senior PHP Developer.
+- **Technologies Used:** Magento, WordPress WooCommerce, Drupal Ubercart, Prestashop, OpenCart.
+- **Responsibilities:**
+  - Integrated MyParcel API to fetch and display shipping rates.
+  - Integrated MyParcel API to create shipping labels.
+  - Integrated MyParcel API to track shipments.
+- **Outcome:**
+  - Provide plugins for open source e-commerce platforms.
