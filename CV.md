@@ -36,6 +36,7 @@ Senior Platform Engineer ^ Scrum Master with over 15 years of software developme
 - Mentor developers and provided technical guidance to ensure best practices.
 - Conduct code reviews and provided constructive feedback to improve code quality.
 - Analyze and resolve technical issues to maintain system stability and performance.
+- Prepare or review release procedures and documentation to ensure smooth deployment.
 - Collaborate with QC team to define test cases and ensure comprehensive test coverage.
 - Conduct performance reviews and provided feedback to team members to support their professional development.
 
