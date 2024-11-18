@@ -62,7 +62,7 @@ Senior Platform Engineer cum Scrum Master with over 15 years of software develop
 
 | Company                             | Position                  | Duration          |
 | ----------------------------------- | ------------------------- | ----------------- |
-| Vietlink Solutions                  | Technical Lead            | 03 2021 - Present |
+| Vietlink Solutions                  | Technical Lead            | 03 2021 - 12 2024 |
 | NashTech Global                     | Senior Software Engineeer | 10 2129 - 01 2021 |
 | Persol Process & Technology Vietnam | Lead PHP Developer        | 12 2017 - 09 2019 |
 | Devinition                          | Team Leader               | 06 2013 - 08 2017 |
