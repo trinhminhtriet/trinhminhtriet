@@ -4,6 +4,7 @@
 
 ```bash
 pandoc resume.md -f markdown -t html -c style.css -s -o resume.html
+pandoc TrinhMinhTriet-SrPHP.md -f markdown -t html -c style.css -s -o TrinhMinhTriet-SrPHP.html
 ```
 
 ### HTML to PDF
