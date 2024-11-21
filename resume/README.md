@@ -6,6 +6,7 @@
 pandoc TrinhMinhTriet-TechLead.md -f markdown -t html -c style.css -s -o html/TrinhMinhTriet-TechLead.html
 pandoc TrinhMinhTriet-Senior_JS_Developer.md -f markdown -t html -c style.css -s -o html/TrinhMinhTriet-Senior_JS_Developer.html
 pandoc TrinhMinhTriet-Senior_PHP_Developer.md -f markdown -t html -c style.css -s -o html/TrinhMinhTriet-Senior_PHP_Developer.html
+pandoc TrinhMinhTriet-Java_Rakuten.md -f markdown -t html -c style.css -s -o html/TrinhMinhTriet-Java_Rakuten.html
 ```
 
 ### HTML to PDF
