@@ -14,48 +14,29 @@
 
 ## Summary
 
-Senior Platform Engineer & Scrum Master with over 15 years of software development experience. Proven track record in leading teams, managing projects, and delivering quality software solutions. Seeking a challenging position as a Technical Lead to leverage my expertise in software development, team leadership, and Agile methodologies.
+-
 
 ## Objectives
 
-- Lead a team of software developers to deliver high-quality software solutions.
-- Manage software projects from inception to completion.
-- Mentor developers and help them grow in their careers.
-- Improve software development processes and best practices.
-
-## Management Skills
-
-- Understand and implement the (SDLC) phases including requirement analysis, design, development, testing, deployment, and maintenance.
-- Estimated project workload and timelines using Agile estimation techniques.
-- Wrote technical proposals and documentation for basic design and architecture design.
-- Build and lead a team of developers in designing, developing, and deploying scalable software solutions.
-- Design a logging and monitoring system that reduced incident response time.
-- Develop internal CLI tools for enhancing developer productivity.
-- Facilitate Scrum events including sprint planning, daily stand-ups, sprint reviews, and retrospectives.
-- Collaborate with cross-functional teams to define project requirements and deliverables.
-- Mentor developers and provide technical guidance to ensure best practices.
-- Conduct code reviews and provide constructive feedback to improve code quality.
-- Analyze and resolve technical issues to maintain system stability and performance.
-- Prepare or review release procedures and documentation to ensure smooth deployment.
-- Collaborate with QC team to define test cases and ensure comprehensive test coverage.
-- Conduct performance reviews and provide feedback to team members to support their professional development.
+-
 
 ## Technical Skills
 
-- **Programming Languages:** PHP, Python, Golang, Java, Javascript.
-- **Frameworks and Libraries:** Laravel, Symfony, Spring Boot, jHipster, NestJS.
+- **Programming Languages:** PHP, Javascript, Python.
+- **Frameworks and Libraries:** Laravel, Symfony, Yii2.
 - **Frontend:** React.
 - **Databases:** MySQL, PostgreSQL, DynamoDB, Redis.
 - **APIs:** RestAPI, GraphQL.
-- **Cloud:** AWS.
+- **Amazon Web Services:** ECS, Lambda, S3, CloudFront, Route53, ElasticCache, Aurora, SQS, SNS, SES, CloudWatch.
 - **Operating Systems:** MacOS, Linux.
 - **DevOps and CI/CD:** Docker, Terraform, GitHub Actions, CodeBuild, CodeDeploy.
-- **Container Orchestration:** ECS.
+- **Code Quality Control:** SonarQube, CodeSpell
 - **Monitoring and Logging:** DataDog, NewRelic, CloudWatch, Twilio.
 - **Content Management Systems (CMS):** WordPress, Drupal
 - **Ecommerce Platforms:** OpenCart, Prestashop, WooCommerce.
 - **Payment Gateways:** Authorize.Net, MolPay, Onefin.
-- **Mobile Application Development:** Android.
+- **Project Management Tools:** Jira, Backlog.
+- **Version Control:** Git.
 
 ## Certifications
 
@@ -78,13 +59,11 @@ Senior Platform Engineer & Scrum Master with over 15 years of software developme
 
 - **Description:** A system for sending information and alerts to check the status of employees in the event of natural disasters, earthquakes, tsunamis, volcanic eruptions, etc.
 - **Role:** Technical Lead
-- **Technologies Used:** Golang, NestJS, Aurora, Azure Active Directory, GitHub Actions, Terraform, Docker, ECS, SQS, SNS, SES, S3, Lambda, CloudFront, CloudWatch.
+- **Technologies Used:** Laravel, Aurora, Azure Active Directory, GitHub Actions, Terraform, Docker, ECS, SQS, SNS, SES, S3, Lambda, CloudFront, CloudWatch.
 - **Responsibilities:**
-  - Estimated project workload and timelines using Agile estimation techniques.
-  - Authored comprehensive technical proposals and design documentation.
-  - Mentored developers to enhance team productivity.
-  - Conducted benchmark tests to ensure optimal performance and scalability.
-  - Performed security scans to identify and mitigate vulnerabilities.
+  - Developed and maintained web applications using PHP and related technologies.
+  - Collaborated with cross-functional teams to define and achieve project goals.
+  - Conducted code reviews and provided feedback to ensure code quality and adherence to best practices.
   - Automated deployment processes via GitHub Actions, CodeBuild, CodeDeploy pipelines.
 - **Outcome:**
   - Successfully launched the platform.
@@ -96,7 +75,7 @@ Senior Platform Engineer & Scrum Master with over 15 years of software developme
 - **Role:** Technical Lead
 - **Technologies Used:** Laravel, Python, Docker, Terraform, AWS Lambda.
 - **Responsibilities:**
-  - Estimated project workload, timelines, and resource requirements to ensure on-time delivery.
+  - Developed and maintained web applications using PHP and related technologies.
   - Migrated from Amazon Linux 2 to Amazon Linux 2023.
   - Upgraded Lambda functions from Python3.8 to Python3.12
 - **Outcome:**
