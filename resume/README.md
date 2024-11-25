@@ -8,6 +8,7 @@ pandoc TrinhMinhTriet-Senior_JS_Developer.md -f markdown -t html -c style.css -s
 pandoc TrinhMinhTriet-Senior_PHP_Developer.md -f markdown -t html -c style.css -s -o html/TrinhMinhTriet-Senior_PHP_Developer.html
 pandoc TrinhMinhTriet-Senior_Java_Developer.md -f markdown -t html -c style.css -s -o html/TrinhMinhTriet-Senior_Java_Developer.html
 pandoc TrinhMinhTriet-Java_Rakuten.md -f markdown -t html -c style.css -s -o html/TrinhMinhTriet-Java_Rakuten.html
+pandoc TrinhMinhTriet-SSE-ELSA.md -f markdown -t html -c style.css -s -o html/TrinhMinhTriet-SSE-ELSA.html
 ```
 
 ### HTML to PDF
