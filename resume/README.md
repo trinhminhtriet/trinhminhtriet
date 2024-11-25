@@ -9,6 +9,7 @@ pandoc TrinhMinhTriet-Senior_PHP_Developer.md -f markdown -t html -c style.css -
 pandoc TrinhMinhTriet-Senior_Java_Developer.md -f markdown -t html -c style.css -s -o html/TrinhMinhTriet-Senior_Java_Developer.html
 pandoc TrinhMinhTriet-Java_Rakuten.md -f markdown -t html -c style.css -s -o html/TrinhMinhTriet-Java_Rakuten.html
 pandoc TrinhMinhTriet-SSE-ELSA.md -f markdown -t html -c style.css -s -o html/TrinhMinhTriet-SSE-ELSA.html
+pandoc TrinhMinhTriet-SSE-CoverGo.md -f markdown -t html -c style.css -s -o html/TrinhMinhTriet-SSE-CoverGo.html
 ```
 
 ### HTML to PDF
