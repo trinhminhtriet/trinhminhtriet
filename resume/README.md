@@ -10,6 +10,7 @@ pandoc TrinhMinhTriet-Senior_Java_Developer.md -f markdown -t html -c style.css 
 pandoc TrinhMinhTriet-Java_Rakuten.md -f markdown -t html -c style.css -s -o html/TrinhMinhTriet-Java_Rakuten.html
 pandoc TrinhMinhTriet-SSE-ELSA.md -f markdown -t html -c style.css -s -o html/TrinhMinhTriet-SSE-ELSA.html
 pandoc TrinhMinhTriet-TL-CoverGo.md -f markdown -t html -c style.css -s -o html/TrinhMinhTriet-TL-CoverGo.html
+pandoc TrinhMinhTriet-SSE-GetLinks.md -f markdown -t html -c style.css -s -o html/TrinhMinhTriet-SSE-GetLinks.html
 ```
 
 ### HTML to PDF
