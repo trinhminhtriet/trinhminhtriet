@@ -11,6 +11,7 @@ pandoc TrinhMinhTriet-Java_Rakuten.md -f markdown -t html -c style.css -s -o htm
 pandoc TrinhMinhTriet-SSE-ELSA.md -f markdown -t html -c style.css -s -o html/TrinhMinhTriet-SSE-ELSA.html
 pandoc TrinhMinhTriet-TL-CoverGo.md -f markdown -t html -c style.css -s -o html/TrinhMinhTriet-TL-CoverGo.html
 pandoc TrinhMinhTriet-SSE-GetLinks.md -f markdown -t html -c style.css -s -o html/TrinhMinhTriet-SSE-GetLinks.html
+pandoc TrinhMinhTriet-SeniorWordpressDeveloper-KellerExecutiveSearch.md -f markdown -t html -c style.css -s -o html/SeniorWordpressDeveloper-KellerExecutiveSearch.html
 ```
 
 ### HTML to PDF
