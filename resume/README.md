@@ -12,6 +12,10 @@ pandoc TrinhMinhTriet-SSE-ELSA.md -f markdown -t html -c style.css -s -o html/Tr
 pandoc TrinhMinhTriet-TL-CoverGo.md -f markdown -t html -c style.css -s -o html/TrinhMinhTriet-TL-CoverGo.html
 pandoc TrinhMinhTriet-SSE-GetLinks.md -f markdown -t html -c style.css -s -o html/TrinhMinhTriet-SSE-GetLinks.html
 pandoc TrinhMinhTriet-SeniorWordpressDeveloper-KellerExecutiveSearch.md -f markdown -t html -c style.css -s -o html/SeniorWordpressDeveloper-KellerExecutiveSearch.html
+
+pandoc TrinhMinhTriet-SSE-Metadata.md -f markdown -t html -c style.css -s -o html/TrinhMinhTriet-SSE-Metadata.html
+
+pandoc TrinhMinhTriet-TL.md -f markdown -t html -c style.css -s -o html/TrinhMinhTriet-TL.html
 ```
 
 ### HTML to PDF
