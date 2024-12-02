@@ -8,7 +8,6 @@
 - **LinkedIn:** [trinhminhtriet](https://linkedin.com/in/triet-trinh/)
 - **GitHub:** [trinhminhtriet](https://github.com/trinhminhtriet)
 - **Credly:** [trinhminhtriet](https://www.credly.com/users/trinhminhtriet)
-- **Skype:** trinhminhtriet
 
 ---
 
@@ -18,10 +17,19 @@ Experienced Senior PHP Developer with a strong background in developing and main
 
 ## Objectives
 
-- To leverage my extensive experience in PHP development and project management to contribute to the success of a dynamic and innovative organization.
-- To continuously enhance my technical skills and stay updated with the latest industry trends and technologies.
-- To deliver high-quality, scalable, and secure web applications that meet business requirements and exceed user expectations.
-- To contribute to the growth and success of the organization by delivering impactful and innovative solutions.
+- To apply for the position of **Senior Wordpress Developer** at **Keller Executive Search**.
+- Utilize my technical skills to drive innovation and deliver high-quality software solutions.
+- Contribute to the growth and success of the organization through effective collaboration and problem-solving.
+
+## Management Skills
+
+- Understand and implement the (SDLC) phases including requirement analysis, design, development, testing, deployment, and maintenance.
+- Developing, and deploying scalable software solutions.
+- Design a logging and monitoring system that reduced incident response time.
+- Facilitate Scrum events including sprint planning, daily stand-ups, sprint reviews, and retrospectives.
+- Collaborate with cross-functional teams to define project requirements and deliverables.
+- Conduct code reviews and provide constructive feedback to improve code quality.
+- Analyze and resolve technical issues to maintain system stability and performance.
 
 ## Technical Skills
 

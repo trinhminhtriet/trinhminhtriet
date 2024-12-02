@@ -8,25 +8,35 @@
 - **LinkedIn:** [trinhminhtriet](https://linkedin.com/in/triet-trinh/)
 - **GitHub:** [trinhminhtriet](https://github.com/trinhminhtriet)
 - **Credly:** [trinhminhtriet](https://www.credly.com/users/trinhminhtriet)
-- **Skype:** trinhminhtriet
 
 ---
 
 ## Summary
 
-Experienced Senior PHP Developer with a strong background in developing and maintaining web applications. Proficient in PHP frameworks such as Laravel and Symfony, with extensive experience in integrating third-party APIs and payment gateways. Adept at translating business requirements into technical specifications and delivering high-quality, scalable solutions. Proven track record of successfully launching and maintaining e-commerce platforms and web applications, ensuring optimal performance and user satisfaction.
+- Senior Software Engineer with over 15 years of expertise in developing and leading web applications and services.
+- Proficient in a wide range of technologies including Typescript, Python, PHP, Golang, Java and Amazon Web Services.
+- Collaborating with cross-functional teams to deliver high-quality, scalable, and reliable software solutions.
 
 ## Objectives
 
-- To leverage my extensive experience in PHP development and project management to contribute to the success of a dynamic and innovative organization.
-- To continuously enhance my technical skills and stay updated with the latest industry trends and technologies.
-- To deliver high-quality, scalable, and secure web applications that meet business requirements and exceed user expectations.
-- To contribute to the growth and success of the organization by delivering impactful and innovative solutions.
+- To apply for the position of **Senior Backend Engineer** at **Metadata Solutions**.
+- Utilize my technical skills to drive innovation and deliver high-quality software solutions.
+- Contribute to the growth and success of the organization through effective collaboration and problem-solving.
+
+## Management Skills
+
+- Understand and implement the (SDLC) phases including requirement analysis, design, development, testing, deployment, and maintenance.
+- Developing, and deploying scalable software solutions.
+- Design a logging and monitoring system that reduced incident response time.
+- Facilitate Scrum events including sprint planning, daily stand-ups, sprint reviews, and retrospectives.
+- Collaborate with cross-functional teams to define project requirements and deliverables.
+- Conduct code reviews and provide constructive feedback to improve code quality.
+- Analyze and resolve technical issues to maintain system stability and performance.
 
 ## Technical Skills
 
-- **Programming Languages:** PHP, Javascript, Python, Bash
-- **Frameworks and Libraries:** Laravel, Symfony, Yii2.
+- **Programming Languages:** Typescript, Javascript, Python, Bash, PHP, Golang.
+- **Frameworks and Libraries:** NestJS | Laravel | Selenium, BeautifulSoup, Scrapy | Puppeteer.
 - **Frontend:** React.
 - **Databases:** MySQL, PostgreSQL, DynamoDB, Redis.
 - **APIs:** RestAPI, GraphQL.
@@ -62,7 +72,7 @@ Experienced Senior PHP Developer with a strong background in developing and main
 
 - **Description:** A system for sending information and alerts to check the status of employees in the event of natural disasters, earthquakes, tsunamis, volcanic eruptions, etc.
 - **Role:** Technical Lead
-- **Technologies Used:** Laravel, Aurora, Azure Active Directory, GitHub Actions, Terraform, Docker, ECS, SQS, SNS, SES, S3, Lambda, CloudFront, CloudWatch.
+- **Technologies Used:** NestJS, Aurora, Azure Active Directory, GitHub Actions, Terraform, Docker, ECS, SQS, SNS, SES, S3, Lambda, CloudFront, CloudWatch.
 - **Responsibilities:**
   - Developed and maintained web applications using PHP and related technologies.
   - Collaborated with cross-functional teams to define and achieve project goals.
@@ -76,7 +86,7 @@ Experienced Senior PHP Developer with a strong background in developing and main
 
 - **Description:** A platform offering a variety of services that allow users to accumulate Ponta points.
 - **Role:** Technical Lead
-- **Technologies Used:** Laravel, Python, Docker, Terraform, AWS Lambda.
+- **Technologies Used:** NestJS, Python, Docker, Terraform, AWS Lambda.
 - **Responsibilities:**
   - Developed and maintained web applications using PHP and related technologies.
   - Migrated from Amazon Linux 2 to Amazon Linux 2023.
@@ -88,7 +98,7 @@ Experienced Senior PHP Developer with a strong background in developing and main
 
 - **Description:** A portal site provided by AU. In addition to using convenient services such as search, weather, transit/maps, and fortune telling, the portal also delivers the latest news on current events, sports, entertainment, etc. in real time.
 - **Role:** Technical Lead
-- **Technologies Used:** Golang, Yii2, Aurora, GitHub Actions, Terraform, Docker, ECS, SQS, Lambda, S3, CloudFront, Route53, NewRelic.
+- **Technologies Used:** Golang, NestJS, Aurora, GitHub Actions, Terraform, Docker, ECS, SQS, Lambda, S3, CloudFront, Route53, NewRelic.
 - **Responsibilities:**
   - Estimated project workload, timelines, and resource requirements to ensure on-time delivery.
   - Wrote technical proposals and documentation of basic design, architecture design.
@@ -104,7 +114,7 @@ Experienced Senior PHP Developer with a strong background in developing and main
 
 - **Description:** A portal site provided by AU. In addition to using convenient services such as search, weather, transit/maps, and fortune telling, the portal also delivers the latest news on current events, sports, entertainment, etc. in real time.
 - **Role:** Technical Lead
-- **Technologies Used:** Golang, Yii2, Aurora, GitHub Actions, Terraform, Docker, ECS, SQS, Lambda, S3, CloudFront, Route53, NewRelic.
+- **Technologies Used:** Golang, NestJS, Aurora, GitHub Actions, Terraform, Docker, ECS, SQS, Lambda, S3, CloudFront, Route53, NewRelic.
 - **Responsibilities:**
   - Estimated project workload, timelines, and resource requirements to ensure on-time delivery.
   - Developed backend services and APIs to support portal functionalities.
@@ -118,7 +128,7 @@ Experienced Senior PHP Developer with a strong background in developing and main
 
 - **Description:** A portal site provided by AU. In addition to using convenient services such as search, weather, transit/maps, and fortune telling, the portal also delivers the latest news on current events, sports, entertainment, etc. in real time.
 - **Role:** Technical Lead
-- **Technologies Used:** Golang, Yii2, Aurora, GitHub Actions, Terraform, Docker, ECS, SQS, Lambda, S3, CloudFront, Route53, NewRelic.
+- **Technologies Used:** Golang, NestJS, Aurora, GitHub Actions, Terraform, Docker, ECS, SQS, Lambda, S3, CloudFront, Route53, NewRelic.
 - **Responsibilities:**
   - Estimated project workload, timelines, and resource requirements to ensure on-time delivery.
   - Wrote technical proposals and documentation of basic design, architecture design.
@@ -133,7 +143,7 @@ Experienced Senior PHP Developer with a strong background in developing and main
 
 - **Description:** An eLearning system designed to provide comprehensive online education and training resources.
 - **Role:** Senior Software Engineer
-- **Technologies Used:** PHP, Moodle, MySQL, EC2, RDS, S3, CloudFront.
+- **Technologies Used:** NestJS, PHP, Moodle, MySQL, EC2, RDS, S3, CloudFront.
 - **Responsibilities:**
   - Translated business requirements into technical specifications.
   - Developed custom plugins for Moodle and integrated third-party APIs.
@@ -145,7 +155,7 @@ Experienced Senior PHP Developer with a strong background in developing and main
 ### [DeMuze](http://www.demuzenoordwijk.nl)
 
 - **Description:** A website that allows visitors to book tickets for watching movies.
-- **Role:** Senior PHP Developer.
+- **Role:** Senior Software Developer.
 - **Technologies Used:** PHP, Laravel, MySQL, CentOS
 - **Responsibilities:**
   - Integrated FilmDepot.nl API to fetch and display film showtimes.
@@ -159,7 +169,7 @@ Experienced Senior PHP Developer with a strong background in developing and main
 ### [MyParcel](https://www.myparcel.nl)
 
 - **Description:** MyParcel is a web application that allows the shop to provide the shipment of the package.
-- **Role:** Senior PHP Developer.
+- **Role:** Senior Software Developer.
 - **Technologies Used:** Magento, WordPress WooCommerce, Drupal Ubercart, Prestashop, OpenCart.
 - **Responsibilities:**
   - Integrated MyParcel API to fetch and display shipping rates.

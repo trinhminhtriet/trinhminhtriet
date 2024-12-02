@@ -14,19 +14,37 @@
 
 ## Summary
 
-Experienced Senior PHP Developer with a strong background in developing and maintaining web applications. Proficient in PHP frameworks such as Laravel and Symfony, with extensive experience in integrating third-party APIs and payment gateways. Adept at translating business requirements into technical specifications and delivering high-quality, scalable solutions. Proven track record of successfully launching and maintaining e-commerce platforms and web applications, ensuring optimal performance and user satisfaction.
+Senior Platform Engineer & Scrum Master with over 15 years of software development experience. Proven track record in leading teams, managing projects, and delivering quality software solutions. Seeking a challenging position as a Technical Lead to leverage my expertise in software development, team leadership, and Agile methodologies.
 
 ## Objectives
 
-- To leverage my extensive experience in PHP development and project management to contribute to the success of a dynamic and innovative organization.
-- To continuously enhance my technical skills and stay updated with the latest industry trends and technologies.
-- To deliver high-quality, scalable, and secure web applications that meet business requirements and exceed user expectations.
-- To contribute to the growth and success of the organization by delivering impactful and innovative solutions.
+- To apply for the position of **Senior BackEnd Developer** at **Diag Medical**.
+- Utilize my technical skills to drive innovation and deliver high-quality software solutions.
+- Lead a team of software developers to deliver high-quality software solutions.
+- Manage software projects from inception to completion.
+- Improve software development processes and best practices.
+
+## Management Skills
+
+- Understand and implement the (SDLC) phases including requirement analysis, design, development, testing, deployment, and maintenance.
+- Estimated project workload and timelines using Agile estimation techniques.
+- Wrote technical proposals and documentation for basic design and architecture design.
+- Build and lead a team of developers in designing, developing, and deploying scalable software solutions.
+- Design a logging and monitoring system that reduced incident response time.
+- Develop internal CLI tools for enhancing developer productivity.
+- Facilitate Scrum events including sprint planning, daily stand-ups, sprint reviews, and retrospectives.
+- Collaborate with cross-functional teams to define project requirements and deliverables.
+- Mentor developers and provide technical guidance to ensure best practices.
+- Conduct code reviews and provide constructive feedback to improve code quality.
+- Analyze and resolve technical issues to maintain system stability and performance.
+- Prepare or review release procedures and documentation to ensure smooth deployment.
+- Collaborate with QC team to define test cases and ensure comprehensive test coverage.
+- Conduct performance reviews and provide feedback to team members to support their professional development.
 
 ## Technical Skills
 
-- **Programming Languages:** PHP, Javascript, Python, Bash
-- **Frameworks and Libraries:** Laravel, Symfony, Yii2.
+- **Programming Languages:** PHP, Python, Golang, Java, Javascript.
+- **Frameworks and Libraries:** Laravel, Symfony, Spring Boot, jHipster, NestJS.
 - **Frontend:** React.
 - **Databases:** MySQL, PostgreSQL, DynamoDB, Redis.
 - **APIs:** RestAPI, GraphQL.
@@ -38,8 +56,7 @@ Experienced Senior PHP Developer with a strong background in developing and main
 - **Content Management Systems (CMS):** WordPress, Drupal
 - **Ecommerce Platforms:** OpenCart, Prestashop, WooCommerce.
 - **Payment Gateways:** Authorize.Net, MolPay, Onefin.
-- **Project Management Tools:** Jira, Backlog.
-- **Version Control:** Git.
+- **Mobile Application Development:** Android.
 
 ## Certifications
 
@@ -62,11 +79,13 @@ Experienced Senior PHP Developer with a strong background in developing and main
 
 - **Description:** A system for sending information and alerts to check the status of employees in the event of natural disasters, earthquakes, tsunamis, volcanic eruptions, etc.
 - **Role:** Technical Lead
-- **Technologies Used:** Laravel, Aurora, Azure Active Directory, GitHub Actions, Terraform, Docker, ECS, SQS, SNS, SES, S3, Lambda, CloudFront, CloudWatch.
+- **Technologies Used:** Golang, NestJS, Aurora, Azure Active Directory, GitHub Actions, Terraform, Docker, ECS, SQS, SNS, SES, S3, Lambda, CloudFront, CloudWatch.
 - **Responsibilities:**
-  - Developed and maintained web applications using PHP and related technologies.
-  - Collaborated with cross-functional teams to define and achieve project goals.
-  - Conducted code reviews and provided feedback to ensure code quality and adherence to best practices.
+  - Estimated project workload and timelines using Agile estimation techniques.
+  - Authored comprehensive technical proposals and design documentation.
+  - Mentored developers to enhance team productivity.
+  - Conducted benchmark tests to ensure optimal performance and scalability.
+  - Performed security scans to identify and mitigate vulnerabilities.
   - Automated deployment processes via GitHub Actions, CodeBuild, CodeDeploy pipelines.
 - **Outcome:**
   - Successfully launched the platform.
@@ -78,7 +97,7 @@ Experienced Senior PHP Developer with a strong background in developing and main
 - **Role:** Technical Lead
 - **Technologies Used:** Laravel, Python, Docker, Terraform, AWS Lambda.
 - **Responsibilities:**
-  - Developed and maintained web applications using PHP and related technologies.
+  - Estimated project workload, timelines, and resource requirements to ensure on-time delivery.
   - Migrated from Amazon Linux 2 to Amazon Linux 2023.
   - Upgraded Lambda functions from Python3.8 to Python3.12
 - **Outcome:**
