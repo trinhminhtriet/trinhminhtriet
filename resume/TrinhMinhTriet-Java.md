@@ -20,7 +20,7 @@
 
 ## Objectives
 
-- To apply for the position of **Senior Java Developer** at **Rakuten**.
+- To apply for the position of **Senior Java Developer**.
 - To work in a dynamic environment that encourages creativity and collaboration.
 - To continuously learn and grow in my career.
 
