@@ -16,6 +16,7 @@ pandoc TrinhMinhTriet-SeniorWordpressDeveloper-KellerExecutiveSearch.md -f markd
 pandoc TrinhMinhTriet-SSE-Metadata.md -f markdown -t html -c style.css -s -o html/TrinhMinhTriet-SSE-Metadata.html
 
 pandoc TrinhMinhTriet-TL.md -f markdown -t html -c style.css -s -o html/TrinhMinhTriet-TL.html
+pandoc TrinhMinhTriet-TechnicalLead-TS.md -f markdown -t html -c style.css -s -o html/TrinhMinhTriet-TechnicalLead-TS.html
 ```
 
 ### HTML to PDF
