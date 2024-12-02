@@ -17,6 +17,8 @@ pandoc TrinhMinhTriet-SSE-Metadata.md -f markdown -t html -c style.css -s -o htm
 
 pandoc TrinhMinhTriet-TL.md -f markdown -t html -c style.css -s -o html/TrinhMinhTriet-TL.html
 pandoc TrinhMinhTriet-TechnicalLead-TS.md -f markdown -t html -c style.css -s -o html/TrinhMinhTriet-TechnicalLead-TS.html
+
+pandoc TrinhMinhTriet-SolutionArchitect.md -f markdown -t html -c style.css -s -o html/TrinhMinhTriet-SolutionArchitect.html
 ```
 
 ### HTML to PDF
