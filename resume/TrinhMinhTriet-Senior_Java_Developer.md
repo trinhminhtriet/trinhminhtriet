@@ -26,7 +26,7 @@
 ## Management Skills
 
 - Understand and implement the (SDLC) phases including requirement analysis, design, development, testing, deployment, and maintenance.
-- Write technical proposals and documentation for basic design and architecture design.
+- Write technical documentation for basic design and architecture design.
 - Coordinate with cross-functional teams to ensure seamless project execution.
 - Conduct code reviews to maintain code quality and consistency.
 - Manage project timelines and deliverables to ensure on-time completion.
@@ -125,7 +125,7 @@
 - **Technologies Used:** Java, Spring Boot, Aurora, GitHub Actions, Terraform, Docker, ECS, SQS, Lambda, S3, CloudFront, Route53, NewRelic.
 - **Responsibilities:**
   - Estimated project workload, timelines, and resource requirements to ensure on-time delivery.
-  - Wrote technical proposals and documentation of basic design, architecture design.
+  - Wrote technical documentation of basic design, architecture design.
   - Developed backend services and APIs to support portal functionalities.
   - Conducted benchmark tests to ensure optimal performance and scalability.
   - Performed security scans to identify and mitigate vulnerabilities.

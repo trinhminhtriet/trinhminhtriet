@@ -27,7 +27,7 @@ Senior Platform Engineer & Scrum Master with over 15 years of software developme
 
 - Understand and implement the (SDLC) phases including requirement analysis, design, development, testing, deployment, and maintenance.
 - Estimated project workload and timelines using Agile estimation techniques.
-- Wrote technical proposals and documentation for basic design and architecture design.
+- Wrote technical documentation for basic design and architecture design.
 - Build and lead a team of developers in designing, developing, and deploying scalable software solutions.
 - Design a logging and monitoring system that reduced incident response time.
 - Develop internal CLI tools for enhancing developer productivity.
@@ -81,7 +81,7 @@ Senior Platform Engineer & Scrum Master with over 15 years of software developme
 - **Technologies Used:** Golang, NestJS, Aurora, Azure Active Directory, GitHub Actions, Terraform, Docker, ECS, SQS, SNS, SES, S3, Lambda, CloudFront, CloudWatch.
 - **Responsibilities:**
   - Estimated project workload and timelines using Agile estimation techniques.
-  - Authored comprehensive technical proposals and design documentation.
+  - Authored comprehensive technical design documentation.
   - Mentored developers to enhance team productivity.
   - Conducted benchmark tests to ensure optimal performance and scalability.
   - Performed security scans to identify and mitigate vulnerabilities.
@@ -109,7 +109,7 @@ Senior Platform Engineer & Scrum Master with over 15 years of software developme
 - **Technologies Used:** Golang, Yii2, Aurora, GitHub Actions, Terraform, Docker, ECS, SQS, Lambda, S3, CloudFront, Route53, NewRelic.
 - **Responsibilities:**
   - Estimated project workload, timelines, and resource requirements to ensure on-time delivery.
-  - Wrote technical proposals and documentation of basic design, architecture design.
+  - Wrote technical documentation of basic design, architecture design.
   - Conducted benchmark tests to ensure optimal performance and scalability.
   - Performed security scans to identify and mitigate vulnerabilities.
   - Deployed the application on AWS and set up CI/CD pipelines using GitHub Actions and CodeDeploy.
@@ -139,7 +139,7 @@ Senior Platform Engineer & Scrum Master with over 15 years of software developme
 - **Technologies Used:** Golang, Yii2, Aurora, GitHub Actions, Terraform, Docker, ECS, SQS, Lambda, S3, CloudFront, Route53, NewRelic.
 - **Responsibilities:**
   - Estimated project workload, timelines, and resource requirements to ensure on-time delivery.
-  - Wrote technical proposals and documentation of basic design, architecture design.
+  - Wrote technical documentation of basic design, architecture design.
   - Developed backend services and APIs to support portal functionalities.
   - Conducted benchmark tests to ensure optimal performance and scalability.
   - Performed security scans to identify and mitigate vulnerabilities.
