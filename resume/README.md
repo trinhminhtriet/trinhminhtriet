@@ -19,6 +19,8 @@ pandoc TrinhMinhTriet-TL.md -f markdown -t html -c style.css -s -o html/TrinhMin
 pandoc TrinhMinhTriet-TechnicalLead-TS.md -f markdown -t html -c style.css -s -o html/TrinhMinhTriet-TechnicalLead-TS.html
 
 pandoc TrinhMinhTriet-SolutionArchitect.md -f markdown -t html -c style.css -s -o html/TrinhMinhTriet-SolutionArchitect.html
+
+pandoc TrinhMinhTriet-Senior_FullStack_Engineer.md -f markdown -t html -c style.css -s -o html/TrinhMinhTriet-Senior_FullStack_Engineer.html
 ```
 
 ### HTML to PDF

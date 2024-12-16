@@ -29,7 +29,6 @@
 - Write technical documentation for basic design and architecture design.
 - Coordinate with cross-functional teams to ensure seamless project execution.
 - Conduct code reviews to maintain code quality and consistency.
-- Manage project timelines and deliverables to ensure on-time completion.
 - Facilitate Scrum events such as sprint planning, daily stand-ups, and retrospectives.
 - Continuously improve development processes and practices.
 - Provide technical guidance and support to team members.
@@ -40,7 +39,7 @@
 
 ## Technical Skills
 
-- **Programming Languages:** Java, Javascript, Python, Bash.
+- **Programming Languages:** Java, Typescript, Python, Bash.
 - **Frameworks and Libraries:** jHipster, Spring Boot, Hibernate, JUnit.
 - **Build Tools:** Maven, Gradle.
 - **Web Services:** Restful, GraphQL, gRPC.
@@ -48,7 +47,7 @@
 - **APIs:** RestAPI, GraphQL.
 - **Amazon Web Services:** ECS, Lambda, S3, Route53, CloudFront, API Gateway, ElasticCache, Aurora, SQS, SNS, SES, CloudWatch.
 - **DevOps and CI/CD:** Docker, Terraform, GitHub Actions, CodeBuild, CodeDeploy.
-- **Code Quality Control:** SonarQube, CodeSpell.
+- **Code Quality Control:** SonarQube, SonarLint, CodeSpell.
 - **Monitoring and Logging:** DataDog, NewRelic, CloudWatch, Twilio.
 - **Operating Systems:** MacOS, Linux.
 - **Frontend:** React.
@@ -73,7 +72,7 @@
 ### [Salus](https://salus.mediba.co.jp/)
 
 - **Description:** A system for sending information and alerts to check the status of employees in the event of natural disasters, earthquakes, tsunamis, volcanic eruptions, etc.
-- **Role:** Senior Software Engineer
+- **Role:** Technical Lead
 - **Technologies Used:** Spring Boot, Hibernate, JUnit, Aurora, Azure Active Directory, GitHub Actions, Terraform, Docker, ECS, SQS, SNS, SES, S3, Lambda, CloudFront, CloudWatch.
 - **Responsibilities:**
 - **Outcome:**
@@ -86,7 +85,6 @@
 - **Role:** Technical Lead
 - **Technologies Used:** Java, Spring Boot, Python, Docker, Terraform, AWS Lambda.
 - **Responsibilities:**
-  - Estimated project workload, timelines, and resource requirements to ensure on-time delivery.
   - Migrated from Amazon Linux 2 to Amazon Linux 2023.
   - Upgraded Lambda functions from Python3.8 to Python3.12
 - **Outcome:**
@@ -159,15 +157,3 @@
 - **Outcome:**
   - Successfully launched the ticket booking platform.
   - Achieved high user satisfaction through a user-friendly interface and reliable performance.
-
-### [MyParcel](https://www.myparcel.nl)
-
-- **Description:** MyParcel is a web application that allows the shop to provide the shipment of the package.
-- **Role:** Senior PHP Developer.
-- **Technologies Used:** Magento, WordPress WooCommerce, Drupal Ubercart, Prestashop, OpenCart.
-- **Responsibilities:**
-  - Integrated MyParcel API to fetch and display shipping rates.
-  - Integrated MyParcel API to create shipping labels.
-  - Integrated MyParcel API to track shipments.
-- **Outcome:**
-  - Provide plugins for open source e-commerce platforms.

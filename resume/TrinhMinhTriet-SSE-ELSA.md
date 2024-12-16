@@ -47,7 +47,7 @@ Senior Software Engineer & Scrum Master with over 15 years of software developme
 - **Amazon Web Services:** ECS, Lambda, S3, CloudFront, Route53, ElasticCache, Aurora, SQS, SNS, SES, CloudWatch.
 - **Operating Systems:** MacOS, Linux.
 - **DevOps and CI/CD:** Docker, Terraform, GitHub Actions, CodeBuild, CodeDeploy.
-- **Code Quality Control:** SonarQube, CodeSpell.
+- **Code Quality Control:** SonarQube, SonarLint, CodeSpell.
 - **Monitoring and Logging:** NewRelic, CloudWatch, Twilio.
 - **Content Management Systems (CMS):** Drupal, WordPress.
 - **Ecommerce Platforms:** OpenCart, Prestashop, WooCommerce.

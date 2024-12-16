@@ -43,7 +43,7 @@
 - **Amazon Web Services:** ECS, Lambda, S3, CloudFront, Route53, ElasticCache, Aurora, SQS, SNS, SES, CloudWatch.
 - **Operating Systems:** MacOS, Linux.
 - **DevOps and CI/CD:** Docker, Terraform, GitHub Actions, CodeBuild, CodeDeploy.
-- **Code Quality Control:** SonarQube, CodeSpell
+- **Code Quality Control:** SonarQube, SonarLint, CodeSpell
 - **Monitoring and Logging:** DataDog, NewRelic, CloudWatch, Twilio.
 - **Content Management Systems (CMS):** WordPress, Drupal
 - **Ecommerce Platforms:** OpenCart, Prestashop, WooCommerce.
