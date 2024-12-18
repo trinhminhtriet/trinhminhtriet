@@ -36,12 +36,11 @@
 - Monitor and report on project progress and performance.
 - Implement and enforce security best practices.
 - Drive innovation and continuous improvement within the team.
-- Stay updated with the latest industry trends and technologies.
 
 ## Technical Skills
 
 - **Programming Languages:** Java, Golang, Python, Bash.
-- **Frameworks and Libraries:** jHipster, Spring Boot, Hibernate, JUnit.
+- **Frameworks and Libraries:** jHipster, Spring Boot, Hibernate, JUnit | ReactJS
 - **Build Tools:** Maven, Gradle.
 - **Web Services:** Restful, GraphQL, gRPC.
 - **Databases:** MySQL, PostgreSQL, Redis.
@@ -50,8 +49,8 @@
 - **DevOps and CI/CD:** Docker, Terraform, GitHub Actions, CodeBuild, CodeDeploy.
 - **Code Quality Control:** SonarQube, SonarLint, CodeSpell.
 - **Monitoring and Logging:** DataDog, NewRelic, CloudWatch, Twilio.
-- **Operating Systems:** MacOS, Linux.
-- **Frontend:** React.
+- **Agile Methodologies:** Scrum.
+- **Project Management Tools:** Jira, Backlog.
 
 ## Certifications
 
