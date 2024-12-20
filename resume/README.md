@@ -22,9 +22,9 @@ pandoc TrinhMinhTriet-Lead_Java_Developer.md -f markdown -t html -c style.css -s
 pandoc TrinhMinhTriet-Solutions_Architect.md -f markdown -t html -c style.css -s -o html/TrinhMinhTriet-Solutions_Architect.html
 pandoc TrinhMinhTriet-Senior_Backend_Engineer_Java.md -f markdown -t html -c style.css -s -o html/TrinhMinhTriet-Senior_Backend_Engineer_Java.html
 
-pandoc TrinhMinhTriet-TechnicalLead-Typescript.md -f markdown -t html -c style.css -s -o html/TrinhMinhTriet-TechnicalLead-Typescript.html
+pandoc TrinhMinhTriet-SeniorSoftwareEngineer.md -f markdown -t html -c style.css -s -o html/TrinhMinhTriet-SeniorSoftwareEngineer.html
 
-TrinhMinhTriet-TechnicalLead-Typescript
+TrinhMinhTriet-Senior_Golang_Developer.md
 ```
 
 ### HTML to PDF
