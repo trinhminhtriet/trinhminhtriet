@@ -41,8 +41,9 @@
 
 ## Technical Stacks
 
-- **Programming Languages:** Golang, NodeJS, Java, Python, PHP, Bash.
+- **Programming Languages:** Golang, Typescript, Java, Python, PHP, Bash.
 - **Frameworks:** AWS SDK, Spring Boot, Laravel.
+- **Frontend:** ReactJS, Tailwind.
 - **Web Services:** Restful, GraphQL, gRPC.
 - **Databases:** MySQL, PostgreSQL, Redis, AWS OpenSearch (Elasticsearch).
 - **APIs:** RestAPI, GraphQL.
