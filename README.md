@@ -17,6 +17,5 @@ Love interacting with the community, sharing knowledge, and learning new things.
 
 - 👨 I’m Trinh Minh Triet (trinhminhtriet).
 - 😄 Pronouns: he/him/his.
-- 🏢 I currently work at EVM.
 - 📧 How to reach me: contact@trinhminhtriet.com
 - 💬 Skype: trinhminhtriet
