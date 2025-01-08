@@ -3,7 +3,7 @@
 ### Markdown to HTML
 
 ```bash
-pandoc TrinhMinhTriet-SeniorSoftwareEngineer.md -f markdown -t html -c style.css -s -o html/TrinhMinhTriet-SeniorSoftwareEngineer.html
+pandoc TrinhMinhTriet-Senior_FullStack_Developer.md -f markdown -t html -c style.css -s -o html/TrinhMinhTriet-Senior_FullStack_Developer.html
 
 TrinhMinhTriet-Senior_Golang_Developer.md
 ```
