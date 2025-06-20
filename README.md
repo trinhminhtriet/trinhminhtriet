@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [marioproto92](https://github.com/marioproto92)
 - [ryanazryan](https://github.com/ryanazryan)
 - [AakashMahajan25](https://github.com/AakashMahajan25)
 - [Samuel-dev798](https://github.com/Samuel-dev798)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [entropymaxx](https://github.com/entropymaxx)
 - [M-web186](https://github.com/M-web186)
 - [Arsdev998](https://github.com/Arsdev998)
-- [gshock](https://github.com/gshock)
 
 ## ⭐ Recent stars
 
+- [RaiAnsar/claude_code-gemini-mcp](https://github.com/RaiAnsar/claude_code-gemini-mcp) - Simplified Gemini for Claude Code.  (today)
 - [jordiwang/web-capture](https://github.com/jordiwang/web-capture) - 基于 ffmpeg + Webassembly 实现前端视频帧提取 (2 days ago)
 - [johnpeterman72/CursorRIPER](https://github.com/johnpeterman72/CursorRIPER) - CursorRIPER (2 days ago)
 - [mstyura/bsuir-diploma-latex](https://github.com/mstyura/bsuir-diploma-latex) - LaTeX шаблон для оформления пояснительной записки к диплому в соответствии с требованиями БГУИР (2 days ago)
 - [imrankst1221/Android-WebView-in-Kotlin](https://github.com/imrankst1221/Android-WebView-in-Kotlin) - Native Android WebView Example in Kotlin. Website to android app github open source template. (2 days ago)
-- [imrankst1221/Thermal-Printer-in-Android](https://github.com/imrankst1221/Thermal-Printer-in-Android) - Thermal printer in Android (2 days ago)
 
 ## 🔨 Latest Pull Requests I published
 
