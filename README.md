@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Nidhi28fg](https://github.com/Nidhi28fg)
 - [maurizioorani](https://github.com/maurizioorani)
 - [TinyToons](https://github.com/TinyToons)
 - [marioproto92](https://github.com/marioproto92)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [destinyy00](https://github.com/destinyy00)
 - [veereshpattanad](https://github.com/veereshpattanad)
 - [nishant007-ai](https://github.com/nishant007-ai)
-- [entropymaxx](https://github.com/entropymaxx)
 
 ## ⭐ Recent stars
 
