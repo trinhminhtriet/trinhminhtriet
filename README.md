@@ -46,6 +46,9 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [dlior](https://github.com/dlior)
+- [BitMorphX](https://github.com/BitMorphX)
+- [molinjun](https://github.com/molinjun)
 - [hiusnguyen201](https://github.com/hiusnguyen201)
 - [Yarzarmyomin97](https://github.com/Yarzarmyomin97)
 - [lucasqatech](https://github.com/lucasqatech)
@@ -53,9 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [cuiqingpku](https://github.com/cuiqingpku)
 - [Rohitbanala](https://github.com/Rohitbanala)
 - [Nidhi28fg](https://github.com/Nidhi28fg)
-- [maurizioorani](https://github.com/maurizioorani)
-- [TinyToons](https://github.com/TinyToons)
-- [marioproto92](https://github.com/marioproto92)
 
 ## ⭐ Recent stars
 
