@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Ballwictb](https://github.com/Ballwictb)
 - [dlior](https://github.com/dlior)
 - [BitMorphX](https://github.com/BitMorphX)
 - [molinjun](https://github.com/molinjun)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [moseeh](https://github.com/moseeh)
 - [cuiqingpku](https://github.com/cuiqingpku)
 - [Rohitbanala](https://github.com/Rohitbanala)
-- [Nidhi28fg](https://github.com/Nidhi28fg)
 
 ## ⭐ Recent stars
 
