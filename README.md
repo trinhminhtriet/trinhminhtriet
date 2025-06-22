@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Ananddd06](https://github.com/Ananddd06)
 - [maxpopkin](https://github.com/maxpopkin)
 - [salishkumar0](https://github.com/salishkumar0)
 - [dlior](https://github.com/dlior)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Yarzarmyomin97](https://github.com/Yarzarmyomin97)
 - [lucasqatech](https://github.com/lucasqatech)
 - [moseeh](https://github.com/moseeh)
-- [cuiqingpku](https://github.com/cuiqingpku)
 
 ## ⭐ Recent stars
 
