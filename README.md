@@ -33,7 +33,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👷 Check out what I'm currently working on
 
-- [trinhminhtriet/rmrfrs](https://github.com/trinhminhtriet/rmrfrs) - 🧹 rmrfrs is a powerful filesystem cleaning tool designed to optimize storage by identifying and removing unnecessary files within known project structures. (1 day ago)
+- [trinhminhtriet/rmrfrs](https://github.com/trinhminhtriet/rmrfrs) - 🧹 rmrfrs is a powerful filesystem cleaning tool designed to optimize storage by identifying and removing unnecessary files within known project structures. (2 days ago)
 - [trinhminhtriet/spiko](https://github.com/trinhminhtriet/spiko) - 🚀 Spiko is a fast, Rust-based load testing tool with a beautiful TUI for real-time insights. (1 week ago)
 - [trinhminhtriet/visyo](https://github.com/trinhminhtriet/visyo) - Visyo — ✨ A fast, minimal, and themeable CLI tool that displays visual system output across platforms. (2 weeks ago)
 - [trinhminhtriet/netcatr](https://github.com/trinhminhtriet/netcatr) - 📡 netcat: A cross-platform port listener and reverse shell application designed for ease of use, providing seamless network connectivity. (2 weeks ago)
@@ -41,14 +41,13 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [trinhminhtriet/pingy](https://github.com/trinhminhtriet/pingy) - ⚡ Pingy: A fast, concurrent Rust-based ping tool with real-time updates & visual charts! 📊🚀 (2 weeks ago)
 - [trinhminhtriet/curli](https://github.com/trinhminhtriet/curli) - 🌀 Curli: A user-friendly curl interface combining HTTPie’s simplicity with curl’s full functionality and power. (4 weeks ago)
 - [trinhminhtriet/ftree](https://github.com/trinhminhtriet/ftree) - Terminal-based file tree manipulation tool for navigating, viewing, and managing directories and files efficiently. (4 weeks ago)
-- [trinhminhtriet/markgen](https://github.com/trinhminhtriet/markgen) - 📜 Generate personalized markdown files with templates, GitHub, RSS, and API integrations using Go. (4 weeks ago)
-- [trinhminhtriet/github-toolkit](https://github.com/trinhminhtriet/github-toolkit) - github-toolkit: Scrapes GitHub developers, followers, repositories into MySQL database. (4 weeks ago)
+- [trinhminhtriet/markgen](https://github.com/trinhminhtriet/markgen) - 📜 Generate personalized markdown files with templates, GitHub, RSS, and API integrations using Go. (1 month ago)
+- [trinhminhtriet/github-toolkit](https://github.com/trinhminhtriet/github-toolkit) - github-toolkit: Scrapes GitHub developers, followers, repositories into MySQL database. (1 month ago)
 
 ## 👯 Check out my recent followers
 
 - [maxpopkin](https://github.com/maxpopkin)
 - [salishkumar0](https://github.com/salishkumar0)
-- [Ballwictb](https://github.com/Ballwictb)
 - [dlior](https://github.com/dlior)
 - [BitMorphX](https://github.com/BitMorphX)
 - [molinjun](https://github.com/molinjun)
@@ -56,14 +55,15 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Yarzarmyomin97](https://github.com/Yarzarmyomin97)
 - [lucasqatech](https://github.com/lucasqatech)
 - [moseeh](https://github.com/moseeh)
+- [cuiqingpku](https://github.com/cuiqingpku)
 
 ## ⭐ Recent stars
 
-- [RaiAnsar/claude_code-gemini-mcp](https://github.com/RaiAnsar/claude_code-gemini-mcp) - Simplified Gemini for Claude Code.  (1 day ago)
-- [jordiwang/web-capture](https://github.com/jordiwang/web-capture) - 基于 ffmpeg + Webassembly 实现前端视频帧提取 (3 days ago)
-- [johnpeterman72/CursorRIPER](https://github.com/johnpeterman72/CursorRIPER) - CursorRIPER (3 days ago)
-- [mstyura/bsuir-diploma-latex](https://github.com/mstyura/bsuir-diploma-latex) - LaTeX шаблон для оформления пояснительной записки к диплому в соответствии с требованиями БГУИР (3 days ago)
-- [imrankst1221/Android-WebView-in-Kotlin](https://github.com/imrankst1221/Android-WebView-in-Kotlin) - Native Android WebView Example in Kotlin. Website to android app github open source template. (3 days ago)
+- [RaiAnsar/claude_code-gemini-mcp](https://github.com/RaiAnsar/claude_code-gemini-mcp) - Simplified Gemini for Claude Code.  (2 days ago)
+- [jordiwang/web-capture](https://github.com/jordiwang/web-capture) - 基于 ffmpeg + Webassembly 实现前端视频帧提取 (4 days ago)
+- [johnpeterman72/CursorRIPER](https://github.com/johnpeterman72/CursorRIPER) - CursorRIPER (4 days ago)
+- [mstyura/bsuir-diploma-latex](https://github.com/mstyura/bsuir-diploma-latex) - LaTeX шаблон для оформления пояснительной записки к диплому в соответствии с требованиями БГУИР (4 days ago)
+- [imrankst1221/Android-WebView-in-Kotlin](https://github.com/imrankst1221/Android-WebView-in-Kotlin) - Native Android WebView Example in Kotlin. Website to android app github open source template. (4 days ago)
 
 ## 🔨 Latest Pull Requests I published
 
