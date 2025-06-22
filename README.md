@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [purple-claw](https://github.com/purple-claw)
 - [jamestiotio](https://github.com/jamestiotio)
 - [Ananddd06](https://github.com/Ananddd06)
 - [maxpopkin](https://github.com/maxpopkin)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [molinjun](https://github.com/molinjun)
 - [hiusnguyen201](https://github.com/hiusnguyen201)
 - [Yarzarmyomin97](https://github.com/Yarzarmyomin97)
-- [lucasqatech](https://github.com/lucasqatech)
 
 ## ⭐ Recent stars
 
