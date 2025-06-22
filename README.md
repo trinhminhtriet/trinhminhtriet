@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [fastlane/fastlane](https://github.com/fastlane/fastlane) - 🚀 The easiest way to automate building and releasing your iOS and Android apps (today)
 - [RaiAnsar/claude_code-gemini-mcp](https://github.com/RaiAnsar/claude_code-gemini-mcp) - Simplified Gemini for Claude Code.  (2 days ago)
 - [jordiwang/web-capture](https://github.com/jordiwang/web-capture) - 基于 ffmpeg + Webassembly 实现前端视频帧提取 (4 days ago)
 - [johnpeterman72/CursorRIPER](https://github.com/johnpeterman72/CursorRIPER) - CursorRIPER (4 days ago)
 - [mstyura/bsuir-diploma-latex](https://github.com/mstyura/bsuir-diploma-latex) - LaTeX шаблон для оформления пояснительной записки к диплому в соответствии с требованиями БГУИР (4 days ago)
-- [imrankst1221/Android-WebView-in-Kotlin](https://github.com/imrankst1221/Android-WebView-in-Kotlin) - Native Android WebView Example in Kotlin. Website to android app github open source template. (4 days ago)
 
 ## 🔨 Latest Pull Requests I published
 
