@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [webhkp](https://github.com/webhkp)
 - [dappirate](https://github.com/dappirate)
 - [m-bwela](https://github.com/m-bwela)
 - [purple-claw](https://github.com/purple-claw)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [salishkumar0](https://github.com/salishkumar0)
 - [dlior](https://github.com/dlior)
 - [BitMorphX](https://github.com/BitMorphX)
-- [molinjun](https://github.com/molinjun)
 
 ## ⭐ Recent stars
 
