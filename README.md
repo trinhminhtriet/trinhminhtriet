@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Aman09Singh](https://github.com/Aman09Singh)
 - [mattiach](https://github.com/mattiach)
 - [webhkp](https://github.com/webhkp)
 - [dappirate](https://github.com/dappirate)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Ananddd06](https://github.com/Ananddd06)
 - [maxpopkin](https://github.com/maxpopkin)
 - [salishkumar0](https://github.com/salishkumar0)
-- [dlior](https://github.com/dlior)
 
 ## ⭐ Recent stars
 
