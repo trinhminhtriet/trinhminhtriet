@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [mattiach](https://github.com/mattiach)
 - [webhkp](https://github.com/webhkp)
 - [dappirate](https://github.com/dappirate)
 - [m-bwela](https://github.com/m-bwela)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [maxpopkin](https://github.com/maxpopkin)
 - [salishkumar0](https://github.com/salishkumar0)
 - [dlior](https://github.com/dlior)
-- [BitMorphX](https://github.com/BitMorphX)
 
 ## ⭐ Recent stars
 
+- [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme (today)
 - [yuk7/wsldl](https://github.com/yuk7/wsldl) - Advanced WSL launcher / installer. (Win10 FCU x64/arm64 or later.) (today)
 - [fastlane/fastlane](https://github.com/fastlane/fastlane) - 🚀 The easiest way to automate building and releasing your iOS and Android apps (1 day ago)
 - [RaiAnsar/claude_code-gemini-mcp](https://github.com/RaiAnsar/claude_code-gemini-mcp) - Simplified Gemini for Claude Code.  (3 days ago)
 - [jordiwang/web-capture](https://github.com/jordiwang/web-capture) - 基于 ffmpeg + Webassembly 实现前端视频帧提取 (5 days ago)
-- [johnpeterman72/CursorRIPER](https://github.com/johnpeterman72/CursorRIPER) - CursorRIPER (5 days ago)
 
 ## 🔨 Latest Pull Requests I published
 
