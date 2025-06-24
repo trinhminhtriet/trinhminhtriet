@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [BhagwaniVishi](https://github.com/BhagwaniVishi)
 - [AaqibhafeezKhan](https://github.com/AaqibhafeezKhan)
 - [KirkPicard](https://github.com/KirkPicard)
 - [duyl328](https://github.com/duyl328)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [webhkp](https://github.com/webhkp)
 - [dappirate](https://github.com/dappirate)
 - [m-bwela](https://github.com/m-bwela)
-- [purple-claw](https://github.com/purple-claw)
 
 ## ⭐ Recent stars
 
