@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [BlvckOgre](https://github.com/BlvckOgre)
 - [Banahene2041](https://github.com/Banahene2041)
 - [MrsLecter](https://github.com/MrsLecter)
 - [targc](https://github.com/targc)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [AhmedBilyameen](https://github.com/AhmedBilyameen)
 - [TOUFIKIzakarya](https://github.com/TOUFIKIzakarya)
 - [WaRtr0](https://github.com/WaRtr0)
-- [eli-bigman](https://github.com/eli-bigman)
 
 ## ⭐ Recent stars
 
