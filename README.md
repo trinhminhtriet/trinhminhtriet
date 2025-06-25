@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [matnex-mix](https://github.com/matnex-mix)
 - [JeversonMisaelDaCruz](https://github.com/JeversonMisaelDaCruz)
 - [AhmedBilyameen](https://github.com/AhmedBilyameen)
 - [TOUFIKIzakarya](https://github.com/TOUFIKIzakarya)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [KirkPicard](https://github.com/KirkPicard)
 - [duyl328](https://github.com/duyl328)
 - [sergioalmela](https://github.com/sergioalmela)
-- [Aman09Singh](https://github.com/Aman09Singh)
 
 ## ⭐ Recent stars
 
