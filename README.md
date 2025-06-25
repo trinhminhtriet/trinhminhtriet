@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [targc](https://github.com/targc)
 - [halcyon-r](https://github.com/halcyon-r)
 - [matnex-mix](https://github.com/matnex-mix)
 - [JeversonMisaelDaCruz](https://github.com/JeversonMisaelDaCruz)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [eli-bigman](https://github.com/eli-bigman)
 - [AaqibhafeezKhan](https://github.com/AaqibhafeezKhan)
 - [KirkPicard](https://github.com/KirkPicard)
-- [duyl328](https://github.com/duyl328)
 
 ## ⭐ Recent stars
 
