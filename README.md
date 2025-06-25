@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [MrsLecter](https://github.com/MrsLecter)
 - [targc](https://github.com/targc)
 - [halcyon-r](https://github.com/halcyon-r)
 - [matnex-mix](https://github.com/matnex-mix)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [WaRtr0](https://github.com/WaRtr0)
 - [eli-bigman](https://github.com/eli-bigman)
 - [AaqibhafeezKhan](https://github.com/AaqibhafeezKhan)
-- [KirkPicard](https://github.com/KirkPicard)
 
 ## ⭐ Recent stars
 
