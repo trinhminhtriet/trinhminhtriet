@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [kyambuthia](https://github.com/kyambuthia)
 - [Joe-joey1](https://github.com/Joe-joey1)
 - [cuongrep](https://github.com/cuongrep)
 - [kaiobrunobm](https://github.com/kaiobrunobm)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [giangc](https://github.com/giangc)
 - [MauriceElliott](https://github.com/MauriceElliott)
 - [vinifborgess](https://github.com/vinifborgess)
-- [manishbarui](https://github.com/manishbarui)
 
 ## ⭐ Recent stars
 
