@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [nuranferhan](https://github.com/nuranferhan)
 - [Chris-Mwiti](https://github.com/Chris-Mwiti)
 - [Artkill-24](https://github.com/Artkill-24)
 - [Chillaxhson](https://github.com/Chillaxhson)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [ShuangLuo-code](https://github.com/ShuangLuo-code)
 - [Ayfos](https://github.com/Ayfos)
 - [mukeshsardiwal](https://github.com/mukeshsardiwal)
-- [sahidattaf](https://github.com/sahidattaf)
 
 ## ⭐ Recent stars
 
