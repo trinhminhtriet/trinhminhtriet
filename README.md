@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [SSam0419](https://github.com/SSam0419)
+- [Jonas-Dev77](https://github.com/Jonas-Dev77)
 - [jones-alala](https://github.com/jones-alala)
 - [OscarNii](https://github.com/OscarNii)
 - [Davemafy](https://github.com/Davemafy)
@@ -54,8 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Artkill-24](https://github.com/Artkill-24)
 - [Chillaxhson](https://github.com/Chillaxhson)
 - [impactyogi](https://github.com/impactyogi)
-- [HassanAmirii](https://github.com/HassanAmirii)
-- [hasanjamallulail](https://github.com/hasanjamallulail)
 
 ## ⭐ Recent stars
 
