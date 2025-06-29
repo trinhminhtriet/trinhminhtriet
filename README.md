@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [freakysixsiege](https://github.com/freakysixsiege)
 - [Giiveawah](https://github.com/Giiveawah)
 - [hyaraxco](https://github.com/hyaraxco)
 - [SSam0419](https://github.com/SSam0419)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Davemafy](https://github.com/Davemafy)
 - [nuranferhan](https://github.com/nuranferhan)
 - [Chris-Mwiti](https://github.com/Chris-Mwiti)
-- [Artkill-24](https://github.com/Artkill-24)
 
 ## ⭐ Recent stars
 
