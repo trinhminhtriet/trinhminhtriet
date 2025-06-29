@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [jones-alala](https://github.com/jones-alala)
+- [OscarNii](https://github.com/OscarNii)
 - [Davemafy](https://github.com/Davemafy)
 - [nuranferhan](https://github.com/nuranferhan)
 - [Chris-Mwiti](https://github.com/Chris-Mwiti)
@@ -54,8 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [impactyogi](https://github.com/impactyogi)
 - [HassanAmirii](https://github.com/HassanAmirii)
 - [hasanjamallulail](https://github.com/hasanjamallulail)
-- [ShuangLuo-code](https://github.com/ShuangLuo-code)
-- [Ayfos](https://github.com/Ayfos)
 
 ## ⭐ Recent stars
 
