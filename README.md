@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [XiaomingX](https://github.com/XiaomingX)
 - [freakysixsiege](https://github.com/freakysixsiege)
 - [Giiveawah](https://github.com/Giiveawah)
 - [hyaraxco](https://github.com/hyaraxco)
@@ -55,12 +56,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [OscarNii](https://github.com/OscarNii)
 - [Davemafy](https://github.com/Davemafy)
 - [nuranferhan](https://github.com/nuranferhan)
-- [Chris-Mwiti](https://github.com/Chris-Mwiti)
 
 ## ⭐ Recent stars
 
-- [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme (6 days ago)
-- [yuk7/wsldl](https://github.com/yuk7/wsldl) - Advanced WSL launcher / installer. (Win10 FCU x64/arm64 or later.) (6 days ago)
+- [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme (1 week ago)
+- [yuk7/wsldl](https://github.com/yuk7/wsldl) - Advanced WSL launcher / installer. (Win10 FCU x64/arm64 or later.) (1 week ago)
 - [fastlane/fastlane](https://github.com/fastlane/fastlane) - 🚀 The easiest way to automate building and releasing your iOS and Android apps (1 week ago)
 - [RaiAnsar/claude_code-gemini-mcp](https://github.com/RaiAnsar/claude_code-gemini-mcp) - Simplified Gemini for Claude Code.  (1 week ago)
 - [jordiwang/web-capture](https://github.com/jordiwang/web-capture) - 基于 ffmpeg + Webassembly 实现前端视频帧提取 (1 week ago)
