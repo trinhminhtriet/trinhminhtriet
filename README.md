@@ -48,7 +48,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 - [Amanc77](https://github.com/Amanc77)
 - [Miny662](https://github.com/Miny662)
-- [Ramonwin](https://github.com/Ramonwin)
 - [rolfedh](https://github.com/rolfedh)
 - [XiaomingX](https://github.com/XiaomingX)
 - [freakysixsiege](https://github.com/freakysixsiege)
@@ -56,6 +55,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [hyaraxco](https://github.com/hyaraxco)
 - [SSam0419](https://github.com/SSam0419)
 - [Jonas-Dev77](https://github.com/Jonas-Dev77)
+- [jones-alala](https://github.com/jones-alala)
 
 ## ⭐ Recent stars
 
