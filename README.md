@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Ramonwin](https://github.com/Ramonwin)
 - [rolfedh](https://github.com/rolfedh)
 - [XiaomingX](https://github.com/XiaomingX)
 - [freakysixsiege](https://github.com/freakysixsiege)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Jonas-Dev77](https://github.com/Jonas-Dev77)
 - [jones-alala](https://github.com/jones-alala)
 - [OscarNii](https://github.com/OscarNii)
-- [Davemafy](https://github.com/Davemafy)
 
 ## ⭐ Recent stars
 
