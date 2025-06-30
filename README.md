@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [amir-aspad](https://github.com/amir-aspad)
 - [pratham280](https://github.com/pratham280)
 - [Amanc77](https://github.com/Amanc77)
 - [Miny662](https://github.com/Miny662)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Giiveawah](https://github.com/Giiveawah)
 - [hyaraxco](https://github.com/hyaraxco)
 - [SSam0419](https://github.com/SSam0419)
-- [Jonas-Dev77](https://github.com/Jonas-Dev77)
 
 ## ⭐ Recent stars
 
