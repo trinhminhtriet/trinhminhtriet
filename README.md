@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [zoxilsi](https://github.com/zoxilsi)
 - [pnziy](https://github.com/pnziy)
 - [imdypha](https://github.com/imdypha)
 - [rashmi-ranjan-sahoo-dev](https://github.com/rashmi-ranjan-sahoo-dev)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [pratham280](https://github.com/pratham280)
 - [Amanc77](https://github.com/Amanc77)
 - [Miny662](https://github.com/Miny662)
-- [rolfedh](https://github.com/rolfedh)
 
 ## ⭐ Recent stars
 
