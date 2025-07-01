@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [rashmi-ranjan-sahoo-dev](https://github.com/rashmi-ranjan-sahoo-dev)
 - [YogaArdiana](https://github.com/YogaArdiana)
 - [kyiroywops](https://github.com/kyiroywops)
 - [amir-aspad](https://github.com/amir-aspad)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [rolfedh](https://github.com/rolfedh)
 - [XiaomingX](https://github.com/XiaomingX)
 - [freakysixsiege](https://github.com/freakysixsiege)
-- [Giiveawah](https://github.com/Giiveawah)
 
 ## ⭐ Recent stars
 
