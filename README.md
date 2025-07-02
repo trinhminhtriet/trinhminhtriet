@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [thexqin](https://github.com/thexqin)
 - [AbdulrhmanBashammmakh](https://github.com/AbdulrhmanBashammmakh)
 - [devomor](https://github.com/devomor)
 - [albana-meloni](https://github.com/albana-meloni)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [zoxilsi](https://github.com/zoxilsi)
 - [pnziy](https://github.com/pnziy)
 - [imdypha](https://github.com/imdypha)
-- [rashmi-ranjan-sahoo-dev](https://github.com/rashmi-ranjan-sahoo-dev)
 
 ## ⭐ Recent stars
 
+- [mattbrailsford/vuepoint](https://github.com/mattbrailsford/vuepoint) - A vuejs based dashboard framework (today)
+- [fippo/rtcstats](https://github.com/fippo/rtcstats) (today)
+- [fippo/webrtc-dump-importer](https://github.com/fippo/webrtc-dump-importer) - import dumps from chrome://webrtc-internals and plot them (today)
+- [TimothyJones/github-cognito-openid-wrapper](https://github.com/TimothyJones/github-cognito-openid-wrapper) - Small shim that allows AWS Cognito to talk to github (by providing an OpenID wrapper around the Github API) (today)
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF (1 day ago)
-- [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme (1 week ago)
-- [yuk7/wsldl](https://github.com/yuk7/wsldl) - Advanced WSL launcher / installer. (Win10 FCU x64/arm64 or later.) (1 week ago)
-- [fastlane/fastlane](https://github.com/fastlane/fastlane) - 🚀 The easiest way to automate building and releasing your iOS and Android apps (1 week ago)
-- [RaiAnsar/claude_code-gemini-mcp](https://github.com/RaiAnsar/claude_code-gemini-mcp) - Simplified Gemini for Claude Code.  (1 week ago)
 
 ## 🔨 Latest Pull Requests I published
 
