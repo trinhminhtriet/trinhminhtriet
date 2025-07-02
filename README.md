@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [rb-cesar](https://github.com/rb-cesar)
+- [NetmikoIO](https://github.com/NetmikoIO)
 - [thexqin](https://github.com/thexqin)
 - [AbdulrhmanBashammmakh](https://github.com/AbdulrhmanBashammmakh)
 - [devomor](https://github.com/devomor)
@@ -54,8 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Hawkolate](https://github.com/Hawkolate)
 - [HeisenbergUwU](https://github.com/HeisenbergUwU)
 - [zoxilsi](https://github.com/zoxilsi)
-- [pnziy](https://github.com/pnziy)
-- [imdypha](https://github.com/imdypha)
 
 ## ⭐ Recent stars
 
