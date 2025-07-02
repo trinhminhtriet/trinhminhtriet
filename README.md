@@ -46,7 +46,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
-- [rennf93](https://github.com/rennf93)
 - [devomor](https://github.com/devomor)
 - [albana-meloni](https://github.com/albana-meloni)
 - [IgCodeCraft32](https://github.com/IgCodeCraft32)
@@ -56,6 +55,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [pnziy](https://github.com/pnziy)
 - [imdypha](https://github.com/imdypha)
 - [rashmi-ranjan-sahoo-dev](https://github.com/rashmi-ranjan-sahoo-dev)
+- [YogaArdiana](https://github.com/YogaArdiana)
 
 ## ⭐ Recent stars
 
