@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [oluiscabral](https://github.com/oluiscabral)
 - [Neslep](https://github.com/Neslep)
 - [jimi-117](https://github.com/jimi-117)
 - [zainab0077](https://github.com/zainab0077)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Cony02](https://github.com/Cony02)
 - [wecoded-dev](https://github.com/wecoded-dev)
 - [Daddyk5](https://github.com/Daddyk5)
-- [rb-cesar](https://github.com/rb-cesar)
 
 ## ⭐ Recent stars
 
