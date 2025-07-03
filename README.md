@@ -33,19 +33,22 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👷 Check out what I'm currently working on
 
-- [trinhminhtriet/spiko](https://github.com/trinhminhtriet/spiko) - 🚀 Spiko is a fast, Rust-based load testing tool with a beautiful TUI for real-time insights. (1 day ago)
+- [trinhminhtriet/spiko](https://github.com/trinhminhtriet/spiko) - 🚀 Spiko is a fast, Rust-based load testing tool with a beautiful TUI for real-time insights. (2 days ago)
 - [trinhminhtriet/blast](https://github.com/trinhminhtriet/blast) - 🚀 Blast: A powerful, lightweight HTTP load generator for stress testing and benchmarking web applications with ease. (1 week ago)
 - [trinhminhtriet/rmrfrs](https://github.com/trinhminhtriet/rmrfrs) - 🧹 rmrfrs is a powerful filesystem cleaning tool designed to optimize storage by identifying and removing unnecessary files within known project structures. (1 week ago)
-- [trinhminhtriet/netcatr](https://github.com/trinhminhtriet/netcatr) - 📡 netcat: A cross-platform port listener and reverse shell application designed for ease of use, providing seamless network connectivity. (4 weeks ago)
-- [trinhminhtriet/visyo](https://github.com/trinhminhtriet/visyo) - Visyo — ✨ A fast, minimal, and themeable CLI tool that displays visual system output across platforms. (4 weeks ago)
-- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (4 weeks ago)
-- [trinhminhtriet/pingy](https://github.com/trinhminhtriet/pingy) - ⚡ Pingy: A fast, concurrent Rust-based ping tool with real-time updates & visual charts! 📊🚀 (4 weeks ago)
+- [trinhminhtriet/netcatr](https://github.com/trinhminhtriet/netcatr) - 📡 netcat: A cross-platform port listener and reverse shell application designed for ease of use, providing seamless network connectivity. (1 month ago)
+- [trinhminhtriet/visyo](https://github.com/trinhminhtriet/visyo) - Visyo — ✨ A fast, minimal, and themeable CLI tool that displays visual system output across platforms. (1 month ago)
+- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (1 month ago)
+- [trinhminhtriet/pingy](https://github.com/trinhminhtriet/pingy) - ⚡ Pingy: A fast, concurrent Rust-based ping tool with real-time updates & visual charts! 📊🚀 (1 month ago)
 - [trinhminhtriet/curli](https://github.com/trinhminhtriet/curli) - 🌀 Curli: A user-friendly curl interface combining HTTPie’s simplicity with curl’s full functionality and power. (1 month ago)
 - [trinhminhtriet/ftree](https://github.com/trinhminhtriet/ftree) - Terminal-based file tree manipulation tool for navigating, viewing, and managing directories and files efficiently. (1 month ago)
 - [trinhminhtriet/markgen](https://github.com/trinhminhtriet/markgen) - 📜 Generate personalized markdown files with templates, GitHub, RSS, and API integrations using Go. (1 month ago)
 
 ## 👯 Check out my recent followers
 
+- [Cony02](https://github.com/Cony02)
+- [wecoded-dev](https://github.com/wecoded-dev)
+- [Daddyk5](https://github.com/Daddyk5)
 - [rb-cesar](https://github.com/rb-cesar)
 - [NetmikoIO](https://github.com/NetmikoIO)
 - [thexqin](https://github.com/thexqin)
@@ -53,17 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [devomor](https://github.com/devomor)
 - [albana-meloni](https://github.com/albana-meloni)
 - [IgCodeCraft32](https://github.com/IgCodeCraft32)
-- [Hawkolate](https://github.com/Hawkolate)
-- [HeisenbergUwU](https://github.com/HeisenbergUwU)
-- [zoxilsi](https://github.com/zoxilsi)
 
 ## ⭐ Recent stars
 
-- [mattbrailsford/vuepoint](https://github.com/mattbrailsford/vuepoint) - A vuejs based dashboard framework (today)
-- [fippo/rtcstats](https://github.com/fippo/rtcstats) (today)
-- [fippo/webrtc-dump-importer](https://github.com/fippo/webrtc-dump-importer) - import dumps from chrome://webrtc-internals and plot them (today)
-- [TimothyJones/github-cognito-openid-wrapper](https://github.com/TimothyJones/github-cognito-openid-wrapper) - Small shim that allows AWS Cognito to talk to github (by providing an OpenID wrapper around the Github API) (today)
-- [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF (1 day ago)
+- [mattbrailsford/vuepoint](https://github.com/mattbrailsford/vuepoint) - A vuejs based dashboard framework (1 day ago)
+- [fippo/rtcstats](https://github.com/fippo/rtcstats) (1 day ago)
+- [fippo/webrtc-dump-importer](https://github.com/fippo/webrtc-dump-importer) - import dumps from chrome://webrtc-internals and plot them (1 day ago)
+- [TimothyJones/github-cognito-openid-wrapper](https://github.com/TimothyJones/github-cognito-openid-wrapper) - Small shim that allows AWS Cognito to talk to github (by providing an OpenID wrapper around the Github API) (1 day ago)
+- [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF (2 days ago)
 
 ## 🔨 Latest Pull Requests I published
 
