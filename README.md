@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [nikhilpatidar01](https://github.com/nikhilpatidar01)
 - [Cony02](https://github.com/Cony02)
 - [wecoded-dev](https://github.com/wecoded-dev)
 - [Daddyk5](https://github.com/Daddyk5)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [AbdulrhmanBashammmakh](https://github.com/AbdulrhmanBashammmakh)
 - [devomor](https://github.com/devomor)
 - [albana-meloni](https://github.com/albana-meloni)
-- [IgCodeCraft32](https://github.com/IgCodeCraft32)
 
 ## ⭐ Recent stars
 
