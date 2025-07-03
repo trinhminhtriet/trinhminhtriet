@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [SuruiLiu](https://github.com/SuruiLiu)
 - [yawan-andri](https://github.com/yawan-andri)
 - [nikhilpatidar01](https://github.com/nikhilpatidar01)
 - [Cony02](https://github.com/Cony02)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [NetmikoIO](https://github.com/NetmikoIO)
 - [thexqin](https://github.com/thexqin)
 - [AbdulrhmanBashammmakh](https://github.com/AbdulrhmanBashammmakh)
-- [devomor](https://github.com/devomor)
 
 ## ⭐ Recent stars
 
