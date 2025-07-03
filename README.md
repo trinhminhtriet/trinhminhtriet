@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [jimi-117](https://github.com/jimi-117)
 - [zainab0077](https://github.com/zainab0077)
 - [SuruiLiu](https://github.com/SuruiLiu)
 - [yawan-andri](https://github.com/yawan-andri)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Daddyk5](https://github.com/Daddyk5)
 - [rb-cesar](https://github.com/rb-cesar)
 - [NetmikoIO](https://github.com/NetmikoIO)
-- [thexqin](https://github.com/thexqin)
 
 ## ⭐ Recent stars
 
