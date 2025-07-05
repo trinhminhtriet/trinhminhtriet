@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [elkanika](https://github.com/elkanika)
 - [milksense](https://github.com/milksense)
 - [kalisilent](https://github.com/kalisilent)
 - [fazleshifat](https://github.com/fazleshifat)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [ufukulutas](https://github.com/ufukulutas)
 - [MohamedAhmed-SUT](https://github.com/MohamedAhmed-SUT)
 - [kapxapot](https://github.com/kapxapot)
-- [acdevz](https://github.com/acdevz)
 
 ## ⭐ Recent stars
 
+- [leiyun-studio/TouYin_DemoClient](https://github.com/leiyun-studio/TouYin_DemoClient) - 仿抖音、抖音视频切换、抖音点赞效果 (today)
+- [leiyun-studio/AutoScrollLayout](https://github.com/leiyun-studio/AutoScrollLayout) - 仿淘宝首页热点新闻滚动，类中奖滚动，自动滚动文字、View、跑马灯 (today)
 - [johnpeterman72/CursorRIPER.sigma](https://github.com/johnpeterman72/CursorRIPER.sigma) - A symbolic, ultra-efficient AI prompt framework for software development assistance Based off CursorRIPER (today)
 - [shushushv/webrtc-p2p](https://github.com/shushushv/webrtc-p2p) (today)
 - [jlaine/aiortc](https://github.com/jlaine/aiortc) - WebRTC and ORTC implementation for Python using asyncio (today)
-- [jlaine/qdjango](https://github.com/jlaine/qdjango) - QDjango, a Qt-based C++ web framework (today)
-- [leekelleher/umbraco-contentment](https://github.com/leekelleher/umbraco-contentment) - Contentment for Umbraco - a state of happiness and satisfaction (today)
 
 ## 🔨 Latest Pull Requests I published
 
