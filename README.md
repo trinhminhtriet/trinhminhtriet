@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [kalisilent](https://github.com/kalisilent)
 - [fazleshifat](https://github.com/fazleshifat)
 - [Sherin-SEF-AI](https://github.com/Sherin-SEF-AI)
 - [BivashKC](https://github.com/BivashKC)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [kapxapot](https://github.com/kapxapot)
 - [acdevz](https://github.com/acdevz)
 - [codecraze25](https://github.com/codecraze25)
-- [asterizk](https://github.com/asterizk)
 
 ## ⭐ Recent stars
 
