@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [milksense](https://github.com/milksense)
 - [kalisilent](https://github.com/kalisilent)
 - [fazleshifat](https://github.com/fazleshifat)
 - [Sherin-SEF-AI](https://github.com/Sherin-SEF-AI)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [MohamedAhmed-SUT](https://github.com/MohamedAhmed-SUT)
 - [kapxapot](https://github.com/kapxapot)
 - [acdevz](https://github.com/acdevz)
-- [codecraze25](https://github.com/codecraze25)
 
 ## ⭐ Recent stars
 
+- [leekelleher/umbraco-contentment](https://github.com/leekelleher/umbraco-contentment) - Contentment for Umbraco - a state of happiness and satisfaction (today)
+- [kgiszewski/LearnUmbraco7](https://github.com/kgiszewski/LearnUmbraco7) - A book for developers (today)
+- [prjseal/PasswordGenerator](https://github.com/prjseal/PasswordGenerator) - A library which generates random passwords with different settings to meet the OWASP requirements (today)
+- [GeorgiKeranov/facebook-marketplace-bot](https://github.com/GeorgiKeranov/facebook-marketplace-bot) - Facebook marketplace bot that automatically removes and uploads listings from CSV Files. This way listings are seen by more people and that leads to selling them faster (today)
 - [mattbrailsford/vuepoint](https://github.com/mattbrailsford/vuepoint) - A vuejs based dashboard framework (3 days ago)
-- [fippo/rtcstats](https://github.com/fippo/rtcstats) (3 days ago)
-- [fippo/webrtc-dump-importer](https://github.com/fippo/webrtc-dump-importer) - import dumps from chrome://webrtc-internals and plot them (3 days ago)
-- [TimothyJones/github-cognito-openid-wrapper](https://github.com/TimothyJones/github-cognito-openid-wrapper) - Small shim that allows AWS Cognito to talk to github (by providing an OpenID wrapper around the Github API) (3 days ago)
-- [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF (4 days ago)
 
 ## 🔨 Latest Pull Requests I published
 
