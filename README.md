@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [BivashKC](https://github.com/BivashKC)
 - [secretekingstar](https://github.com/secretekingstar)
 - [ufukulutas](https://github.com/ufukulutas)
 - [MohamedAhmed-SUT](https://github.com/MohamedAhmed-SUT)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [asterizk](https://github.com/asterizk)
 - [oluiscabral](https://github.com/oluiscabral)
 - [Neslep](https://github.com/Neslep)
-- [jimi-117](https://github.com/jimi-117)
 
 ## ⭐ Recent stars
 
