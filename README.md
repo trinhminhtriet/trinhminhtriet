@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [johnpeterman72/CursorRIPER.sigma](https://github.com/johnpeterman72/CursorRIPER.sigma) - A symbolic, ultra-efficient AI prompt framework for software development assistance Based off CursorRIPER (today)
+- [shushushv/webrtc-p2p](https://github.com/shushushv/webrtc-p2p) (today)
+- [jlaine/aiortc](https://github.com/jlaine/aiortc) - WebRTC and ORTC implementation for Python using asyncio (today)
+- [jlaine/qdjango](https://github.com/jlaine/qdjango) - QDjango, a Qt-based C++ web framework (today)
 - [leekelleher/umbraco-contentment](https://github.com/leekelleher/umbraco-contentment) - Contentment for Umbraco - a state of happiness and satisfaction (today)
-- [kgiszewski/LearnUmbraco7](https://github.com/kgiszewski/LearnUmbraco7) - A book for developers (today)
-- [prjseal/PasswordGenerator](https://github.com/prjseal/PasswordGenerator) - A library which generates random passwords with different settings to meet the OWASP requirements (today)
-- [GeorgiKeranov/facebook-marketplace-bot](https://github.com/GeorgiKeranov/facebook-marketplace-bot) - Facebook marketplace bot that automatically removes and uploads listings from CSV Files. This way listings are seen by more people and that leads to selling them faster (today)
-- [mattbrailsford/vuepoint](https://github.com/mattbrailsford/vuepoint) - A vuejs based dashboard framework (3 days ago)
 
 ## 🔨 Latest Pull Requests I published
 
