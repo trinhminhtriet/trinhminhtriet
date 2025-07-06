@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [invisible799](https://github.com/invisible799)
 - [tokyo-dal](https://github.com/tokyo-dal)
 - [Abhishekcpr](https://github.com/Abhishekcpr)
 - [elkanika](https://github.com/elkanika)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Sherin-SEF-AI](https://github.com/Sherin-SEF-AI)
 - [BivashKC](https://github.com/BivashKC)
 - [secretekingstar](https://github.com/secretekingstar)
-- [ufukulutas](https://github.com/ufukulutas)
 
 ## ⭐ Recent stars
 
