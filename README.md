@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [sinha-19](https://github.com/sinha-19)
+- [ialirezaesrafili](https://github.com/ialirezaesrafili)
 - [invisible799](https://github.com/invisible799)
 - [tokyo-dal](https://github.com/tokyo-dal)
 - [Abhishekcpr](https://github.com/Abhishekcpr)
@@ -54,16 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [kalisilent](https://github.com/kalisilent)
 - [fazleshifat](https://github.com/fazleshifat)
 - [Sherin-SEF-AI](https://github.com/Sherin-SEF-AI)
-- [BivashKC](https://github.com/BivashKC)
-- [secretekingstar](https://github.com/secretekingstar)
 
 ## ⭐ Recent stars
 
+- [sfatihk/electron-tray-window](https://github.com/sfatihk/electron-tray-window) - 🖼️ Generates custom tray windows with Electron.js (today)
+- [sfatihk/react-world](https://github.com/sfatihk/react-world) - ✨🌌 A different web experience in 8 bit React.js World (today)
+- [maxandersen/internet-monitoring](https://github.com/maxandersen/internet-monitoring) - Monitor your network and internet speed with Docker & Prometheus (today)
 - [t3l3machus/Synergy-httpx](https://github.com/t3l3machus/Synergy-httpx) - A Python http(s) server designed to assist in red teaming activities such as receiving intercepted data via POST requests and serving content dynamically (e.g. payloads). (today)
 - [t3l3machus/BabelStrike](https://github.com/t3l3machus/BabelStrike) - The purpose of this tool is: 1. to transliterate and generate possible usernames out of a full names list that may include names written in multiple (non-English) languages, common problem occurring from scraped employee name lists (e.g. from Linkedin). 2. to transliterate a wordlist that may include words/phrases written in multiple (non-Englis (today)
-- [t3l3machus/wwwtree](https://github.com/t3l3machus/wwwtree) - A utility for quickly and easily locating, web hosting and transferring resources (e.g., exploits/enumeration scripts) from your filesystem to a victim machine during privilege escalation. (today)
-- [t3l3machus/pentest-pivoting](https://github.com/t3l3machus/pentest-pivoting) - A compact guide to network pivoting for penetration testings / CTF challenges. (today)
-- [t3l3machus/eviltree](https://github.com/t3l3machus/eviltree) - A python3 remake of the classic "tree" command with the additional feature of searching for user provided keywords/regex in files, highlighting those that contain matches. (today)
 
 ## 🔨 Latest Pull Requests I published
 
