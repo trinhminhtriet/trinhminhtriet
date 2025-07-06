@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [dikisiswanto/barka](https://github.com/dikisiswanto/barka) - Tema baru untuk CMS Sekolahku (today)
-- [zdimension/embed-c](https://github.com/zdimension/embed-c) - Embed C code at compile time inside Rust using C2Rust (today)
-- [devhyunjae/doctor-appointment-app](https://github.com/devhyunjae/doctor-appointment-app) - Medikkare - Doctor appointment app written in Flutter (today)
-- [tomlockwood/dn](https://github.com/tomlockwood/dn) - Daily notes command line tool (today)
-- [fengjiachun/Jupiter](https://github.com/fengjiachun/Jupiter) - Jupiter是一款性能非常不错的, 轻量级的分布式服务框架 (today)
+- [fashare2015/HoverView](https://github.com/fashare2015/HoverView) - 一个底部抽屉。它可以悬停在中间，随着滑动自然过度到全屏 (today)
+- [fashare2015/TimerView](https://github.com/fashare2015/TimerView) - 一个解耦良好的计时控件，可自由扩展。 (today)
+- [fashare2015/MVVM-JueJin](https://github.com/fashare2015/MVVM-JueJin) - 高仿"掘金Android App": databinding + kotlin + rx 的优雅实践。(持续打磨中~) (today)
+- [fashare2015/StackLayout](https://github.com/fashare2015/StackLayout) - Android 层叠卡片控件，仿"探探app" (today)
+- [fashare2015/ActivityTracker](https://github.com/fashare2015/ActivityTracker) - A FloatingView to show current topActivity in the activity stack. (today)
 
 ## 🔨 Latest Pull Requests I published
 
