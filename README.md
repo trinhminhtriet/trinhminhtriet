@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Uriel020](https://github.com/Uriel020)
 - [Paulinhx](https://github.com/Paulinhx)
 - [igor-bro](https://github.com/igor-bro)
 - [mAbdullahrana](https://github.com/mAbdullahrana)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [tokyo-dal](https://github.com/tokyo-dal)
 - [Abhishekcpr](https://github.com/Abhishekcpr)
 - [elkanika](https://github.com/elkanika)
-- [milksense](https://github.com/milksense)
 
 ## ⭐ Recent stars
 
-- [nevermoe/EHook](https://github.com/nevermoe/EHook) - A hooking framework for commercial Android emulators (雷电模拟器, NOX, BlueStacks). (today)
-- [nevermoe/protobuf_decoder](https://github.com/nevermoe/protobuf_decoder) (today)
-- [nevermoe/unity_metadata_loader](https://github.com/nevermoe/unity_metadata_loader) (today)
-- [KimChangYoun/rootbeerFresh](https://github.com/KimChangYoun/rootbeerFresh) - Magisk Unix Domain Socket(UDS) and File Stat Check Added, Simple to use root checking Android library and sample app (today)
-- [Lovnx/confusion](https://github.com/Lovnx/confusion) -  :frog: Spring Boot项目使用Allatori代码混淆技术 (today)
+- [muhammadtalhasultan/Flutter-E-Commerce-App-UI](https://github.com/muhammadtalhasultan/Flutter-E-Commerce-App-UI) - Flutter E-Commerce App Ui (today)
+- [muhammadtalhasultan/flutter-login-ui-kit](https://github.com/muhammadtalhasultan/flutter-login-ui-kit) (today)
+- [muhammadtalhasultan/calendar_timeline](https://github.com/muhammadtalhasultan/calendar_timeline) - Flutter widget form select a date in horizontal timeline. (today)
+- [muhammadtalhasultan/Flutter-Food-Delivery-App](https://github.com/muhammadtalhasultan/Flutter-Food-Delivery-App) - Flutter Food Delivery App (today)
+- [muhammadtalhasultan/Sirat-E-Mustaqeem](https://github.com/muhammadtalhasultan/Sirat-E-Mustaqeem) - Islamic App with Complete Quran, Prayer time Api, Hadith, & Qibla Direction. (today)
 
 ## 🔨 Latest Pull Requests I published
 
