@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [Liiked/VS-Code-Extension-Doc-ZH](https://github.com/Liiked/VS-Code-Extension-Doc-ZH) - VS Code插件开发文档-中文版 (today)
+- [JohnBra/vite-web-extension](https://github.com/JohnBra/vite-web-extension) - Web extension template to build Chrome and Firefox extensions quickly. Setup with React 19, Typescript and TailwindCSS (today)
+- [mehdime/DbContextScope](https://github.com/mehdime/DbContextScope) - A simple and flexible way to manage your Entity Framework DbContext instances (today)
 - [sfatihk/electron-tray-window](https://github.com/sfatihk/electron-tray-window) - 🖼️ Generates custom tray windows with Electron.js (today)
 - [sfatihk/react-world](https://github.com/sfatihk/react-world) - ✨🌌 A different web experience in 8 bit React.js World (today)
-- [maxandersen/internet-monitoring](https://github.com/maxandersen/internet-monitoring) - Monitor your network and internet speed with Docker & Prometheus (today)
-- [t3l3machus/Synergy-httpx](https://github.com/t3l3machus/Synergy-httpx) - A Python http(s) server designed to assist in red teaming activities such as receiving intercepted data via POST requests and serving content dynamically (e.g. payloads). (today)
-- [t3l3machus/BabelStrike](https://github.com/t3l3machus/BabelStrike) - The purpose of this tool is: 1. to transliterate and generate possible usernames out of a full names list that may include names written in multiple (non-English) languages, common problem occurring from scraped employee name lists (e.g. from Linkedin). 2. to transliterate a wordlist that may include words/phrases written in multiple (non-Englis (today)
 
 ## 🔨 Latest Pull Requests I published
 
