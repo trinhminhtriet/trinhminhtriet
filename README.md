@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [0xMagnuz/Bitcoin-v0.1](https://github.com/0xMagnuz/Bitcoin-v0.1) - Original Release of The Bitcoin Source Code (Version 0.1) by Satoshi Nakamoto (today)
+- [Ilogeek/redmine_issue_dynamic_edit](https://github.com/Ilogeek/redmine_issue_dynamic_edit) - Allows users to dynamically update (AJAX) issue's attributes from issue details page without any refresh (JIRA like) (today)
 - [HustLion/mentohust](https://github.com/HustLion/mentohust) - 接续HustMoon开发的Mentohust，继续更新 (today)
 - [skynetbinary/major-scrapy-spiders](https://github.com/skynetbinary/major-scrapy-spiders) - Scrapy spiders of major websites. Google Play Store, Facebook, Instagram, Ebay, YTS Movies, Amazon (1 day ago)
 - [educ8s/Raylib-CPP-Starter-Template-for-VSCODE-V2](https://github.com/educ8s/Raylib-CPP-Starter-Template-for-VSCODE-V2) - Raylib C++ Starter Template for VSCODE V2 (1 day ago)
-- [educ8s/Raylib-CPP-Starter-Template-for-VSCODE](https://github.com/educ8s/Raylib-CPP-Starter-Template-for-VSCODE) - Raylib C++ Starter Template for VSCODE (1 day ago)
-- [leiyun-studio/TouYin_DemoClient](https://github.com/leiyun-studio/TouYin_DemoClient) - 仿抖音、抖音视频切换、抖音点赞效果 (1 day ago)
 
 ## 🔨 Latest Pull Requests I published
 
