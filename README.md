@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [0xMagnuz/Bitcoin-v0.1](https://github.com/0xMagnuz/Bitcoin-v0.1) - Original Release of The Bitcoin Source Code (Version 0.1) by Satoshi Nakamoto (today)
-- [Ilogeek/redmine_issue_dynamic_edit](https://github.com/Ilogeek/redmine_issue_dynamic_edit) - Allows users to dynamically update (AJAX) issue's attributes from issue details page without any refresh (JIRA like) (today)
-- [HustLion/mentohust](https://github.com/HustLion/mentohust) - 接续HustMoon开发的Mentohust，继续更新 (today)
-- [skynetbinary/major-scrapy-spiders](https://github.com/skynetbinary/major-scrapy-spiders) - Scrapy spiders of major websites. Google Play Store, Facebook, Instagram, Ebay, YTS Movies, Amazon (1 day ago)
-- [educ8s/Raylib-CPP-Starter-Template-for-VSCODE-V2](https://github.com/educ8s/Raylib-CPP-Starter-Template-for-VSCODE-V2) - Raylib C++ Starter Template for VSCODE V2 (1 day ago)
+- [t3l3machus/Synergy-httpx](https://github.com/t3l3machus/Synergy-httpx) - A Python http(s) server designed to assist in red teaming activities such as receiving intercepted data via POST requests and serving content dynamically (e.g. payloads). (today)
+- [t3l3machus/BabelStrike](https://github.com/t3l3machus/BabelStrike) - The purpose of this tool is: 1. to transliterate and generate possible usernames out of a full names list that may include names written in multiple (non-English) languages, common problem occurring from scraped employee name lists (e.g. from Linkedin). 2. to transliterate a wordlist that may include words/phrases written in multiple (non-Englis (today)
+- [t3l3machus/wwwtree](https://github.com/t3l3machus/wwwtree) - A utility for quickly and easily locating, web hosting and transferring resources (e.g., exploits/enumeration scripts) from your filesystem to a victim machine during privilege escalation. (today)
+- [t3l3machus/pentest-pivoting](https://github.com/t3l3machus/pentest-pivoting) - A compact guide to network pivoting for penetration testings / CTF challenges. (today)
+- [t3l3machus/eviltree](https://github.com/t3l3machus/eviltree) - A python3 remake of the classic "tree" command with the additional feature of searching for user provided keywords/regex in files, highlighting those that contain matches. (today)
 
 ## 🔨 Latest Pull Requests I published
 
