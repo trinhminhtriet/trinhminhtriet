@@ -33,8 +33,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👷 Check out what I'm currently working on
 
-- [trinhminhtriet/spiko](https://github.com/trinhminhtriet/spiko) - 🚀 Spiko is a fast, Rust-based load testing tool with a beautiful TUI for real-time insights. (4 days ago)
-- [trinhminhtriet/blast](https://github.com/trinhminhtriet/blast) - 🚀 Blast: A powerful, lightweight HTTP load generator for stress testing and benchmarking web applications with ease. (1 week ago)
+- [trinhminhtriet/spiko](https://github.com/trinhminhtriet/spiko) - 🚀 Spiko is a fast, Rust-based load testing tool with a beautiful TUI for real-time insights. (5 days ago)
+- [trinhminhtriet/blast](https://github.com/trinhminhtriet/blast) - 🚀 Blast: A powerful, lightweight HTTP load generator for stress testing and benchmarking web applications with ease. (2 weeks ago)
 - [trinhminhtriet/rmrfrs](https://github.com/trinhminhtriet/rmrfrs) - 🧹 rmrfrs is a powerful filesystem cleaning tool designed to optimize storage by identifying and removing unnecessary files within known project structures. (2 weeks ago)
 - [trinhminhtriet/netcatr](https://github.com/trinhminhtriet/netcatr) - 📡 netcat: A cross-platform port listener and reverse shell application designed for ease of use, providing seamless network connectivity. (1 month ago)
 - [trinhminhtriet/visyo](https://github.com/trinhminhtriet/visyo) - Visyo — ✨ A fast, minimal, and themeable CLI tool that displays visual system output across platforms. (1 month ago)
@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [leiyun-studio/TouYin_DemoClient](https://github.com/leiyun-studio/TouYin_DemoClient) - 仿抖音、抖音视频切换、抖音点赞效果 (today)
-- [leiyun-studio/AutoScrollLayout](https://github.com/leiyun-studio/AutoScrollLayout) - 仿淘宝首页热点新闻滚动，类中奖滚动，自动滚动文字、View、跑马灯 (today)
-- [johnpeterman72/CursorRIPER.sigma](https://github.com/johnpeterman72/CursorRIPER.sigma) - A symbolic, ultra-efficient AI prompt framework for software development assistance Based off CursorRIPER (today)
-- [shushushv/webrtc-p2p](https://github.com/shushushv/webrtc-p2p) (today)
-- [jlaine/aiortc](https://github.com/jlaine/aiortc) - WebRTC and ORTC implementation for Python using asyncio (today)
+- [HustLion/mentohust](https://github.com/HustLion/mentohust) - 接续HustMoon开发的Mentohust，继续更新 (today)
+- [skynetbinary/major-scrapy-spiders](https://github.com/skynetbinary/major-scrapy-spiders) - Scrapy spiders of major websites. Google Play Store, Facebook, Instagram, Ebay, YTS Movies, Amazon (1 day ago)
+- [educ8s/Raylib-CPP-Starter-Template-for-VSCODE-V2](https://github.com/educ8s/Raylib-CPP-Starter-Template-for-VSCODE-V2) - Raylib C++ Starter Template for VSCODE V2 (1 day ago)
+- [educ8s/Raylib-CPP-Starter-Template-for-VSCODE](https://github.com/educ8s/Raylib-CPP-Starter-Template-for-VSCODE) - Raylib C++ Starter Template for VSCODE (1 day ago)
+- [leiyun-studio/TouYin_DemoClient](https://github.com/leiyun-studio/TouYin_DemoClient) - 仿抖音、抖音视频切换、抖音点赞效果 (1 day ago)
 
 ## 🔨 Latest Pull Requests I published
 
