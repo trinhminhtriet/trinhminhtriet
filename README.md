@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [nevermoe/EHook](https://github.com/nevermoe/EHook) - A hooking framework for commercial Android emulators (雷电模拟器, NOX, BlueStacks). (today)
+- [nevermoe/protobuf_decoder](https://github.com/nevermoe/protobuf_decoder) (today)
+- [nevermoe/unity_metadata_loader](https://github.com/nevermoe/unity_metadata_loader) (today)
 - [KimChangYoun/rootbeerFresh](https://github.com/KimChangYoun/rootbeerFresh) - Magisk Unix Domain Socket(UDS) and File Stat Check Added, Simple to use root checking Android library and sample app (today)
 - [Lovnx/confusion](https://github.com/Lovnx/confusion) -  :frog: Spring Boot项目使用Allatori代码混淆技术 (today)
-- [Lovnx/micro-service](https://github.com/Lovnx/micro-service) - :gem: Spring Cloud demo based on Camden.SR5 (today)
-- [balvig/chili](https://github.com/balvig/chili) - The spicy feature toggle framework for Rails (today)
-- [balvig/spyke](https://github.com/balvig/spyke) - Interact with REST services in an ActiveRecord-like manner (today)
 
 ## 🔨 Latest Pull Requests I published
 
