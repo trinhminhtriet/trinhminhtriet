@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [zdimension/embed-c](https://github.com/zdimension/embed-c) - Embed C code at compile time inside Rust using C2Rust (today)
+- [devhyunjae/doctor-appointment-app](https://github.com/devhyunjae/doctor-appointment-app) - Medikkare - Doctor appointment app written in Flutter (today)
+- [tomlockwood/dn](https://github.com/tomlockwood/dn) - Daily notes command line tool (today)
 - [fengjiachun/Jupiter](https://github.com/fengjiachun/Jupiter) - Jupiter是一款性能非常不错的, 轻量级的分布式服务框架 (today)
 - [AntyaDev/KingAOP](https://github.com/AntyaDev/KingAOP) - .NET AOP framework - a free alternative of PostSharp. (today)
-- [tianbingJ/Trepang](https://github.com/tianbingJ/Trepang) - Raft学习的一些资料 (today)
-- [zjcscut/octopus](https://github.com/zjcscut/octopus) - 长链接压缩为短链接的服务 (today)
-- [1xyz/pryrite](https://github.com/1xyz/pryrite) - Pryrite, interactively execute shell code blocks in a markdown file (today)
 
 ## 🔨 Latest Pull Requests I published
 
