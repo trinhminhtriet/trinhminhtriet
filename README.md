@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [mAbdullahrana](https://github.com/mAbdullahrana)
 - [sinha-19](https://github.com/sinha-19)
 - [ialirezaesrafili](https://github.com/ialirezaesrafili)
 - [invisible799](https://github.com/invisible799)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [milksense](https://github.com/milksense)
 - [kalisilent](https://github.com/kalisilent)
 - [fazleshifat](https://github.com/fazleshifat)
-- [Sherin-SEF-AI](https://github.com/Sherin-SEF-AI)
 
 ## ⭐ Recent stars
 
+- [AntyaDev/KingAOP](https://github.com/AntyaDev/KingAOP) - .NET AOP framework - a free alternative of PostSharp. (today)
+- [tianbingJ/Trepang](https://github.com/tianbingJ/Trepang) - Raft学习的一些资料 (today)
+- [zjcscut/octopus](https://github.com/zjcscut/octopus) - 长链接压缩为短链接的服务 (today)
+- [1xyz/pryrite](https://github.com/1xyz/pryrite) - Pryrite, interactively execute shell code blocks in a markdown file (today)
 - [Liiked/VS-Code-Extension-Doc-ZH](https://github.com/Liiked/VS-Code-Extension-Doc-ZH) - VS Code插件开发文档-中文版 (today)
-- [JohnBra/vite-web-extension](https://github.com/JohnBra/vite-web-extension) - Web extension template to build Chrome and Firefox extensions quickly. Setup with React 19, Typescript and TailwindCSS (today)
-- [mehdime/DbContextScope](https://github.com/mehdime/DbContextScope) - A simple and flexible way to manage your Entity Framework DbContext instances (today)
-- [sfatihk/electron-tray-window](https://github.com/sfatihk/electron-tray-window) - 🖼️ Generates custom tray windows with Electron.js (today)
-- [sfatihk/react-world](https://github.com/sfatihk/react-world) - ✨🌌 A different web experience in 8 bit React.js World (today)
 
 ## 🔨 Latest Pull Requests I published
 
