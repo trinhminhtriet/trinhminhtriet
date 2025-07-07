@@ -46,6 +46,9 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [dwin-gharibi](https://github.com/dwin-gharibi)
+- [nguyenhoanghai1605](https://github.com/nguyenhoanghai1605)
+- [lukman-ss](https://github.com/lukman-ss)
 - [tpgusgh](https://github.com/tpgusgh)
 - [ViceAsd18](https://github.com/ViceAsd18)
 - [cliffordaddison](https://github.com/cliffordaddison)
@@ -53,9 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Uriel020](https://github.com/Uriel020)
 - [Paulinhx](https://github.com/Paulinhx)
 - [igor-bro](https://github.com/igor-bro)
-- [mAbdullahrana](https://github.com/mAbdullahrana)
-- [sinha-19](https://github.com/sinha-19)
-- [ialirezaesrafili](https://github.com/ialirezaesrafili)
 
 ## ⭐ Recent stars
 
