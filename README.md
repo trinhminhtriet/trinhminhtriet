@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [unpluggedcoder/awesome-rust-tools](https://github.com/unpluggedcoder/awesome-rust-tools) - Harness the power of Rust. Those fast productivity tools based on Rust. (today)
+- [politrons/reactive](https://github.com/politrons/reactive) - Reactive: Examples of the most famous reactive libraries that you can find in the market. (today)
 - [senbo1/chat0](https://github.com/senbo1/chat0) - Blazingly-fast, free, open source AI chat app. Discord - https://discord.gg/mQSPrxVryy (today)
 - [denvned/isomorphic-relay-router](https://github.com/denvned/isomorphic-relay-router) - Adds server side rendering support to react-router-relay (today)
 - [denvned/isomorphic-relay](https://github.com/denvned/isomorphic-relay) - Adds server side rendering support to React Relay (today)
-- [tsaiDavid/simple-redux-boilerplate](https://github.com/tsaiDavid/simple-redux-boilerplate) - A simple, yet comprehensive React + Redux application, complete with DevTools. (today)
-- [RafaelVidaurre/yakuza](https://github.com/RafaelVidaurre/yakuza) - Highly scalable Node.js scraping framework for mobsters (today)
 
 ## 🔨 Latest Pull Requests I published
 
