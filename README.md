@@ -46,6 +46,9 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [neutron420](https://github.com/neutron420)
+- [Jasmina-gith](https://github.com/Jasmina-gith)
+- [abhaysingh-22](https://github.com/abhaysingh-22)
 - [obed2025](https://github.com/obed2025)
 - [LordLiberte](https://github.com/LordLiberte)
 - [maneeshkumarr](https://github.com/maneeshkumarr)
@@ -53,9 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Cre4T3Tiv3](https://github.com/Cre4T3Tiv3)
 - [niboukha](https://github.com/niboukha)
 - [yusuf-tufan](https://github.com/yusuf-tufan)
-- [RohitBarnwal](https://github.com/RohitBarnwal)
-- [FrancoSussiNicolas](https://github.com/FrancoSussiNicolas)
-- [Enzovnm](https://github.com/Enzovnm)
 
 ## ⭐ Recent stars
 
