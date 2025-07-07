@@ -33,7 +33,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👷 Check out what I'm currently working on
 
-- [trinhminhtriet/spiko](https://github.com/trinhminhtriet/spiko) - 🚀 Spiko is a fast, Rust-based load testing tool with a beautiful TUI for real-time insights. (5 days ago)
+- [trinhminhtriet/spiko](https://github.com/trinhminhtriet/spiko) - 🚀 Spiko is a fast, Rust-based load testing tool with a beautiful TUI for real-time insights. (6 days ago)
 - [trinhminhtriet/blast](https://github.com/trinhminhtriet/blast) - 🚀 Blast: A powerful, lightweight HTTP load generator for stress testing and benchmarking web applications with ease. (2 weeks ago)
 - [trinhminhtriet/rmrfrs](https://github.com/trinhminhtriet/rmrfrs) - 🧹 rmrfrs is a powerful filesystem cleaning tool designed to optimize storage by identifying and removing unnecessary files within known project structures. (2 weeks ago)
 - [trinhminhtriet/netcatr](https://github.com/trinhminhtriet/netcatr) - 📡 netcat: A cross-platform port listener and reverse shell application designed for ease of use, providing seamless network connectivity. (1 month ago)
@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [cliffordaddison](https://github.com/cliffordaddison)
+- [Zzl0y](https://github.com/Zzl0y)
 - [Uriel020](https://github.com/Uriel020)
 - [Paulinhx](https://github.com/Paulinhx)
 - [igor-bro](https://github.com/igor-bro)
@@ -54,16 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [ialirezaesrafili](https://github.com/ialirezaesrafili)
 - [invisible799](https://github.com/invisible799)
 - [tokyo-dal](https://github.com/tokyo-dal)
-- [Abhishekcpr](https://github.com/Abhishekcpr)
-- [elkanika](https://github.com/elkanika)
 
 ## ⭐ Recent stars
 
-- [seia-soto/clubhouse-api](https://github.com/seia-soto/clubhouse-api) - The private API client for clubhouse, drop-in audio chat. (today)
-- [danfickle/openhtmltopdf](https://github.com/danfickle/openhtmltopdf) - An HTML to PDF library for the JVM. Based on Flying Saucer and Apache PDF-BOX 2. With SVG image support. Now also with accessible PDF support (WCAG, Section 508, PDF/UA)! (today)
-- [dalcib/angular-phonecat-mongodb-rest](https://github.com/dalcib/angular-phonecat-mongodb-rest) - Example of Angular app with Node server and MongoDb Restful API (today)
-- [muhammadtalhasultan/Flutter-E-Commerce-App-UI](https://github.com/muhammadtalhasultan/Flutter-E-Commerce-App-UI) - Flutter E-Commerce App Ui (today)
-- [muhammadtalhasultan/flutter-login-ui-kit](https://github.com/muhammadtalhasultan/flutter-login-ui-kit) (today)
+- [seia-soto/clubhouse-api](https://github.com/seia-soto/clubhouse-api) - The private API client for clubhouse, drop-in audio chat. (1 day ago)
+- [danfickle/openhtmltopdf](https://github.com/danfickle/openhtmltopdf) - An HTML to PDF library for the JVM. Based on Flying Saucer and Apache PDF-BOX 2. With SVG image support. Now also with accessible PDF support (WCAG, Section 508, PDF/UA)! (1 day ago)
+- [dalcib/angular-phonecat-mongodb-rest](https://github.com/dalcib/angular-phonecat-mongodb-rest) - Example of Angular app with Node server and MongoDb Restful API (1 day ago)
+- [muhammadtalhasultan/Flutter-E-Commerce-App-UI](https://github.com/muhammadtalhasultan/Flutter-E-Commerce-App-UI) - Flutter E-Commerce App Ui (1 day ago)
+- [muhammadtalhasultan/flutter-login-ui-kit](https://github.com/muhammadtalhasultan/flutter-login-ui-kit) (1 day ago)
 
 ## 🔨 Latest Pull Requests I published
 
