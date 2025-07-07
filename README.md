@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [tpgusgh](https://github.com/tpgusgh)
+- [ViceAsd18](https://github.com/ViceAsd18)
 - [cliffordaddison](https://github.com/cliffordaddison)
 - [Zzl0y](https://github.com/Zzl0y)
 - [Uriel020](https://github.com/Uriel020)
@@ -54,8 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [mAbdullahrana](https://github.com/mAbdullahrana)
 - [sinha-19](https://github.com/sinha-19)
 - [ialirezaesrafili](https://github.com/ialirezaesrafili)
-- [invisible799](https://github.com/invisible799)
-- [tokyo-dal](https://github.com/tokyo-dal)
 
 ## ⭐ Recent stars
 
