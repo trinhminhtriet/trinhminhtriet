@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Ahmad-Yu2up-Ar-Raf](https://github.com/Ahmad-Yu2up-Ar-Raf)
+- [agusfdzm](https://github.com/agusfdzm)
 - [Onurlulardan](https://github.com/Onurlulardan)
 - [jingtao8a](https://github.com/jingtao8a)
 - [lephamduong](https://github.com/lephamduong)
@@ -54,8 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [dwin-gharibi](https://github.com/dwin-gharibi)
 - [nguyenhoanghai1605](https://github.com/nguyenhoanghai1605)
 - [lukman-ss](https://github.com/lukman-ss)
-- [ViceAsd18](https://github.com/ViceAsd18)
-- [cliffordaddison](https://github.com/cliffordaddison)
 
 ## ⭐ Recent stars
 
