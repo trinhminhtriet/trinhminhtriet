@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Onurlulardan](https://github.com/Onurlulardan)
 - [jingtao8a](https://github.com/jingtao8a)
 - [lephamduong](https://github.com/lephamduong)
 - [12MANOJKUMAR](https://github.com/12MANOJKUMAR)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [lukman-ss](https://github.com/lukman-ss)
 - [ViceAsd18](https://github.com/ViceAsd18)
 - [cliffordaddison](https://github.com/cliffordaddison)
-- [Zzl0y](https://github.com/Zzl0y)
 
 ## ⭐ Recent stars
 
