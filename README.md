@@ -46,24 +46,24 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
-- [Erebothh](https://github.com/Erebothh)
+- [jingtao8a](https://github.com/jingtao8a)
+- [lephamduong](https://github.com/lephamduong)
 - [12MANOJKUMAR](https://github.com/12MANOJKUMAR)
 - [NaveenapriyaN](https://github.com/NaveenapriyaN)
 - [dwin-gharibi](https://github.com/dwin-gharibi)
 - [nguyenhoanghai1605](https://github.com/nguyenhoanghai1605)
 - [lukman-ss](https://github.com/lukman-ss)
-- [tpgusgh](https://github.com/tpgusgh)
 - [ViceAsd18](https://github.com/ViceAsd18)
 - [cliffordaddison](https://github.com/cliffordaddison)
 - [Zzl0y](https://github.com/Zzl0y)
 
 ## ⭐ Recent stars
 
-- [koistya/react-static-boilerplate](https://github.com/koistya/react-static-boilerplate) - Boilerplate and tooling for web application development based on React (ReactJS), Redux, Babel, Webpack, CSS Modules, PostCSS, Browsersync, React Hot Loader and optimized for CDN hosting in Firebase (today)
-- [kdelemme/blogjs](https://github.com/kdelemme/blogjs) - BlogJS is a simple blog application built with AngularJS, Node.js and MongoDB. Creates your article and shares them in a beautiful minimalistic template. (today)
-- [ln-dev7/unique-transition-between-grid-and-list-views](https://github.com/ln-dev7/unique-transition-between-grid-and-list-views) - Funny Grid Animation (today)
-- [ln-dev7/square-ui](https://github.com/ln-dev7/square-ui) - Collection of beautifully crafted open-source layouts UI built with shadcn/ui. (today)
-- [ln-dev7/circle](https://github.com/ln-dev7/circle) - UI - Project management interface inspired by Linear. Built with Next.js and shadcn/ui, this application allows tracking of issues, projects and teams. (today)
+- [RafaelVidaurre/yakuza](https://github.com/RafaelVidaurre/yakuza) - Highly scalable Node.js scraping framework for mobsters (today)
+- [RafaelVidaurre/angular-permission](https://github.com/RafaelVidaurre/angular-permission) - Simple route authorization via roles/permissions (today)
+- [oguzbilgic/pandik](https://github.com/oguzbilgic/pandik) - monitoring tool for web services (today)
+- [Geoxor/Amethyst](https://github.com/Geoxor/Amethyst) - A cross-platform music player made with Typescript (today)
+- [jaagr/dots](https://github.com/jaagr/dots) - dotfiles for my local setup (today)
 
 ## 🔨 Latest Pull Requests I published
 
