@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [jbboehr/php-psr](https://github.com/jbboehr/php-psr) - PHP extension providing the accepted PSR interfaces (today)
+- [ymtdzzz/otel-tui](https://github.com/ymtdzzz/otel-tui) - A terminal OpenTelemetry viewer inspired by otel-desktop-viewer (today)
 - [fitoprincipe/geetools-code-editor](https://github.com/fitoprincipe/geetools-code-editor) - A set of tools to use in Google Earth Engine Code Editor (JavaScript) (today)
 - [gulyasm/jsonui](https://github.com/gulyasm/jsonui) - jsonui is an interactive JSON explorer on your command line (today)
 - [fyrestone/pycode_similar](https://github.com/fyrestone/pycode_similar) - A simple plagiarism detection tool for python code (today)
-- [miketang84/bamboo](https://github.com/miketang84/bamboo) - Bamboo is the web framework of Lua based on Mongrel2, ZeroMQ and NoSQL database. (today)
-- [miketang84/sapper](https://github.com/miketang84/sapper) - A lightweight web framework built on hyper, implemented in Rust language. (today)
 
 ## 🔨 Latest Pull Requests I published
 
