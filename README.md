@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [JhonataFerreira95](https://github.com/JhonataFerreira95)
+- [nfterrax](https://github.com/nfterrax)
 - [Ahmad-Yu2up-Ar-Raf](https://github.com/Ahmad-Yu2up-Ar-Raf)
 - [agusfdzm](https://github.com/agusfdzm)
 - [Onurlulardan](https://github.com/Onurlulardan)
@@ -54,8 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [12MANOJKUMAR](https://github.com/12MANOJKUMAR)
 - [NaveenapriyaN](https://github.com/NaveenapriyaN)
 - [dwin-gharibi](https://github.com/dwin-gharibi)
-- [nguyenhoanghai1605](https://github.com/nguyenhoanghai1605)
-- [lukman-ss](https://github.com/lukman-ss)
 
 ## ⭐ Recent stars
 
