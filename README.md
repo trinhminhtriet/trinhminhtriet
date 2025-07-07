@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Udehlee](https://github.com/Udehlee)
 - [neutron420](https://github.com/neutron420)
 - [Jasmina-gith](https://github.com/Jasmina-gith)
 - [abhaysingh-22](https://github.com/abhaysingh-22)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Suhaib3100](https://github.com/Suhaib3100)
 - [Cre4T3Tiv3](https://github.com/Cre4T3Tiv3)
 - [niboukha](https://github.com/niboukha)
-- [yusuf-tufan](https://github.com/yusuf-tufan)
 
 ## ⭐ Recent stars
 
-- [unpluggedcoder/awesome-rust-tools](https://github.com/unpluggedcoder/awesome-rust-tools) - Harness the power of Rust. Those fast productivity tools based on Rust. (today)
-- [politrons/reactive](https://github.com/politrons/reactive) - Reactive: Examples of the most famous reactive libraries that you can find in the market. (today)
-- [senbo1/chat0](https://github.com/senbo1/chat0) - Blazingly-fast, free, open source AI chat app. Discord - https://discord.gg/mQSPrxVryy (today)
-- [denvned/isomorphic-relay-router](https://github.com/denvned/isomorphic-relay-router) - Adds server side rendering support to react-router-relay (today)
-- [denvned/isomorphic-relay](https://github.com/denvned/isomorphic-relay) - Adds server side rendering support to React Relay (today)
+- [fitoprincipe/geetools-code-editor](https://github.com/fitoprincipe/geetools-code-editor) - A set of tools to use in Google Earth Engine Code Editor (JavaScript) (today)
+- [gulyasm/jsonui](https://github.com/gulyasm/jsonui) - jsonui is an interactive JSON explorer on your command line (today)
+- [fyrestone/pycode_similar](https://github.com/fyrestone/pycode_similar) - A simple plagiarism detection tool for python code (today)
+- [miketang84/bamboo](https://github.com/miketang84/bamboo) - Bamboo is the web framework of Lua based on Mongrel2, ZeroMQ and NoSQL database. (today)
+- [miketang84/sapper](https://github.com/miketang84/sapper) - A lightweight web framework built on hyper, implemented in Rust language. (today)
 
 ## 🔨 Latest Pull Requests I published
 
