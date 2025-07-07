@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [RohitBarnwal](https://github.com/RohitBarnwal)
 - [FrancoSussiNicolas](https://github.com/FrancoSussiNicolas)
 - [Enzovnm](https://github.com/Enzovnm)
 - [YanCheng-go](https://github.com/YanCheng-go)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Ahmad-Yu2up-Ar-Raf](https://github.com/Ahmad-Yu2up-Ar-Raf)
 - [agusfdzm](https://github.com/agusfdzm)
 - [Onurlulardan](https://github.com/Onurlulardan)
-- [jingtao8a](https://github.com/jingtao8a)
 
 ## ⭐ Recent stars
 
