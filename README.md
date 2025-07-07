@@ -46,6 +46,9 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Erebothh](https://github.com/Erebothh)
+- [12MANOJKUMAR](https://github.com/12MANOJKUMAR)
+- [NaveenapriyaN](https://github.com/NaveenapriyaN)
 - [dwin-gharibi](https://github.com/dwin-gharibi)
 - [nguyenhoanghai1605](https://github.com/nguyenhoanghai1605)
 - [lukman-ss](https://github.com/lukman-ss)
@@ -53,17 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [ViceAsd18](https://github.com/ViceAsd18)
 - [cliffordaddison](https://github.com/cliffordaddison)
 - [Zzl0y](https://github.com/Zzl0y)
-- [Uriel020](https://github.com/Uriel020)
-- [Paulinhx](https://github.com/Paulinhx)
-- [igor-bro](https://github.com/igor-bro)
 
 ## ⭐ Recent stars
 
-- [seia-soto/clubhouse-api](https://github.com/seia-soto/clubhouse-api) - The private API client for clubhouse, drop-in audio chat. (1 day ago)
-- [danfickle/openhtmltopdf](https://github.com/danfickle/openhtmltopdf) - An HTML to PDF library for the JVM. Based on Flying Saucer and Apache PDF-BOX 2. With SVG image support. Now also with accessible PDF support (WCAG, Section 508, PDF/UA)! (1 day ago)
-- [dalcib/angular-phonecat-mongodb-rest](https://github.com/dalcib/angular-phonecat-mongodb-rest) - Example of Angular app with Node server and MongoDb Restful API (1 day ago)
-- [muhammadtalhasultan/Flutter-E-Commerce-App-UI](https://github.com/muhammadtalhasultan/Flutter-E-Commerce-App-UI) - Flutter E-Commerce App Ui (1 day ago)
-- [muhammadtalhasultan/flutter-login-ui-kit](https://github.com/muhammadtalhasultan/flutter-login-ui-kit) (1 day ago)
+- [koistya/react-static-boilerplate](https://github.com/koistya/react-static-boilerplate) - Boilerplate and tooling for web application development based on React (ReactJS), Redux, Babel, Webpack, CSS Modules, PostCSS, Browsersync, React Hot Loader and optimized for CDN hosting in Firebase (today)
+- [kdelemme/blogjs](https://github.com/kdelemme/blogjs) - BlogJS is a simple blog application built with AngularJS, Node.js and MongoDB. Creates your article and shares them in a beautiful minimalistic template. (today)
+- [ln-dev7/unique-transition-between-grid-and-list-views](https://github.com/ln-dev7/unique-transition-between-grid-and-list-views) - Funny Grid Animation (today)
+- [ln-dev7/square-ui](https://github.com/ln-dev7/square-ui) - Collection of beautifully crafted open-source layouts UI built with shadcn/ui. (today)
+- [ln-dev7/circle](https://github.com/ln-dev7/circle) - UI - Project management interface inspired by Linear. Built with Next.js and shadcn/ui, this application allows tracking of issues, projects and teams. (today)
 
 ## 🔨 Latest Pull Requests I published
 
