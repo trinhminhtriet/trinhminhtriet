@@ -46,24 +46,24 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [FrancoSussiNicolas](https://github.com/FrancoSussiNicolas)
+- [Enzovnm](https://github.com/Enzovnm)
+- [YanCheng-go](https://github.com/YanCheng-go)
+- [kumar-pratik1006](https://github.com/kumar-pratik1006)
 - [JhonataFerreira95](https://github.com/JhonataFerreira95)
 - [nfterrax](https://github.com/nfterrax)
 - [Ahmad-Yu2up-Ar-Raf](https://github.com/Ahmad-Yu2up-Ar-Raf)
 - [agusfdzm](https://github.com/agusfdzm)
 - [Onurlulardan](https://github.com/Onurlulardan)
 - [jingtao8a](https://github.com/jingtao8a)
-- [lephamduong](https://github.com/lephamduong)
-- [12MANOJKUMAR](https://github.com/12MANOJKUMAR)
-- [NaveenapriyaN](https://github.com/NaveenapriyaN)
-- [dwin-gharibi](https://github.com/dwin-gharibi)
 
 ## ⭐ Recent stars
 
+- [senbo1/chat0](https://github.com/senbo1/chat0) - Blazingly-fast, free, open source AI chat app. Discord - https://discord.gg/mQSPrxVryy (today)
+- [denvned/isomorphic-relay-router](https://github.com/denvned/isomorphic-relay-router) - Adds server side rendering support to react-router-relay (today)
+- [denvned/isomorphic-relay](https://github.com/denvned/isomorphic-relay) - Adds server side rendering support to React Relay (today)
+- [tsaiDavid/simple-redux-boilerplate](https://github.com/tsaiDavid/simple-redux-boilerplate) - A simple, yet comprehensive React + Redux application, complete with DevTools. (today)
 - [RafaelVidaurre/yakuza](https://github.com/RafaelVidaurre/yakuza) - Highly scalable Node.js scraping framework for mobsters (today)
-- [RafaelVidaurre/angular-permission](https://github.com/RafaelVidaurre/angular-permission) - Simple route authorization via roles/permissions (today)
-- [oguzbilgic/pandik](https://github.com/oguzbilgic/pandik) - monitoring tool for web services (today)
-- [Geoxor/Amethyst](https://github.com/Geoxor/Amethyst) - A cross-platform music player made with Typescript (today)
-- [jaagr/dots](https://github.com/jaagr/dots) - dotfiles for my local setup (today)
 
 ## 🔨 Latest Pull Requests I published
 
