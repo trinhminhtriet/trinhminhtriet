@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [claudio-riosg](https://github.com/claudio-riosg)
 - [omarhashem80](https://github.com/omarhashem80)
 - [abdelrahmansalahali](https://github.com/abdelrahmansalahali)
 - [Udehlee](https://github.com/Udehlee)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [obed2025](https://github.com/obed2025)
 - [LordLiberte](https://github.com/LordLiberte)
 - [maneeshkumarr](https://github.com/maneeshkumarr)
-- [Suhaib3100](https://github.com/Suhaib3100)
 
 ## ⭐ Recent stars
 
-- [jbboehr/php-psr](https://github.com/jbboehr/php-psr) - PHP extension providing the accepted PSR interfaces (1 day ago)
-- [ymtdzzz/otel-tui](https://github.com/ymtdzzz/otel-tui) - A terminal OpenTelemetry viewer inspired by otel-desktop-viewer (1 day ago)
-- [fitoprincipe/geetools-code-editor](https://github.com/fitoprincipe/geetools-code-editor) - A set of tools to use in Google Earth Engine Code Editor (JavaScript) (1 day ago)
-- [gulyasm/jsonui](https://github.com/gulyasm/jsonui) - jsonui is an interactive JSON explorer on your command line (1 day ago)
-- [fyrestone/pycode_similar](https://github.com/fyrestone/pycode_similar) - A simple plagiarism detection tool for python code (1 day ago)
+- [smparsons/retroboy](https://github.com/smparsons/retroboy) - A Game Boy emulator written in Rust. (today)
+- [crlf0710/tectonic](https://github.com/crlf0710/tectonic) - Experimental Oxidization of Tectonic the TeX/LaTeX engine. (today)
+- [cheft/minrouter](https://github.com/cheft/minrouter) - a micro middleware router for isomorphic javaScript web apps (today)
+- [Francesco149/protonfit](https://github.com/Francesco149/protonfit) - automate installing/running fitgirl repacks on linux with proton. can also be used as a steam-less proton launcher (today)
+- [Francesco149/oppai-ng](https://github.com/Francesco149/oppai-ng) - difficulty and pp calculator for osu!. better, smaller, faster rewrite of https://github.com/Francesco149/oppai  (today)
 
 ## 🔨 Latest Pull Requests I published
 
