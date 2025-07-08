@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Zajfan](https://github.com/Zajfan)
 - [tsoisauce](https://github.com/tsoisauce)
 - [xandermuchanga](https://github.com/xandermuchanga)
 - [gulljee](https://github.com/gulljee)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [rizonahmed](https://github.com/rizonahmed)
 - [evansachie](https://github.com/evansachie)
 - [realninety5](https://github.com/realninety5)
-- [Ermias5869](https://github.com/Ermias5869)
 
 ## ⭐ Recent stars
 
+- [KKulma/climate-change-data](https://github.com/KKulma/climate-change-data) - :earth_africa: A curated list of APIs, open data and ML/AI projects on climate change  (today)
 - [Nash0x7E2/awesome-flutter-snippets](https://github.com/Nash0x7E2/awesome-flutter-snippets) - Awesome Flutter Snippets is a collection snippets and shortcuts for commonly used Flutter functions and classes (today)
 - [martinoyovo/flutter-design-collection](https://github.com/martinoyovo/flutter-design-collection) - A collection of Flutter Custom Designs and Flutter UI Kits. Star⭐ the repo and follow me if you like what you see🤩. (today)
 - [martinoyovo/flutter-banking-app](https://github.com/martinoyovo/flutter-banking-app) (today)
 - [martinoyovo/flutter-airline-app](https://github.com/martinoyovo/flutter-airline-app) - App where you can learn everything you need to know about your next journey and how to make it safe, hassle-free, and on budget. It has information on your scheduled flights, reward miles, best hotel deals, and more. (today)
-- [davefaliskie/travel_treasury](https://github.com/davefaliskie/travel_treasury) - 1ManStartup - Travel Budget Flutter App (today)
 
 ## 🔨 Latest Pull Requests I published
 
