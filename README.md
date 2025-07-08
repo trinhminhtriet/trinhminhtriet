@@ -33,19 +33,21 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👷 Check out what I'm currently working on
 
+- [trinhminhtriet/rmrfrs](https://github.com/trinhminhtriet/rmrfrs) - 🧹 rmrfrs is a powerful filesystem cleaning tool designed to optimize storage by identifying and removing unnecessary files within known project structures. (today)
+- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (today)
 - [trinhminhtriet/spiko](https://github.com/trinhminhtriet/spiko) - 🚀 Spiko is a fast, Rust-based load testing tool with a beautiful TUI for real-time insights. (1 week ago)
 - [trinhminhtriet/blast](https://github.com/trinhminhtriet/blast) - 🚀 Blast: A powerful, lightweight HTTP load generator for stress testing and benchmarking web applications with ease. (2 weeks ago)
-- [trinhminhtriet/rmrfrs](https://github.com/trinhminhtriet/rmrfrs) - 🧹 rmrfrs is a powerful filesystem cleaning tool designed to optimize storage by identifying and removing unnecessary files within known project structures. (2 weeks ago)
 - [trinhminhtriet/netcatr](https://github.com/trinhminhtriet/netcatr) - 📡 netcat: A cross-platform port listener and reverse shell application designed for ease of use, providing seamless network connectivity. (1 month ago)
 - [trinhminhtriet/visyo](https://github.com/trinhminhtriet/visyo) - Visyo — ✨ A fast, minimal, and themeable CLI tool that displays visual system output across platforms. (1 month ago)
-- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (1 month ago)
 - [trinhminhtriet/pingy](https://github.com/trinhminhtriet/pingy) - ⚡ Pingy: A fast, concurrent Rust-based ping tool with real-time updates & visual charts! 📊🚀 (1 month ago)
 - [trinhminhtriet/curli](https://github.com/trinhminhtriet/curli) - 🌀 Curli: A user-friendly curl interface combining HTTPie’s simplicity with curl’s full functionality and power. (1 month ago)
 - [trinhminhtriet/ftree](https://github.com/trinhminhtriet/ftree) - Terminal-based file tree manipulation tool for navigating, viewing, and managing directories and files efficiently. (1 month ago)
-- [trinhminhtriet/markgen](https://github.com/trinhminhtriet/markgen) - 📜 Generate personalized markdown files with templates, GitHub, RSS, and API integrations using Go. (1 month ago)
+- [trinhminhtriet/github-toolkit](https://github.com/trinhminhtriet/github-toolkit) - github-toolkit: Scrapes GitHub developers, followers, repositories into MySQL database. (1 month ago)
 
 ## 👯 Check out my recent followers
 
+- [tsoisauce](https://github.com/tsoisauce)
+- [xandermuchanga](https://github.com/xandermuchanga)
 - [gulljee](https://github.com/gulljee)
 - [Aniiket-Singh](https://github.com/Aniiket-Singh)
 - [Subro-webdev23](https://github.com/Subro-webdev23)
@@ -54,16 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [evansachie](https://github.com/evansachie)
 - [realninety5](https://github.com/realninety5)
 - [Ermias5869](https://github.com/Ermias5869)
-- [alexmylonas](https://github.com/alexmylonas)
-- [developer-business](https://github.com/developer-business)
 
 ## ⭐ Recent stars
 
-- [pstanoev/simple-svelte-autocomplete](https://github.com/pstanoev/simple-svelte-autocomplete) - Simple Autocomplete / typeahead component for Svelte (today)
-- [aesophor/wmderland](https://github.com/aesophor/wmderland) - 🌳 X11 tiling window manager using space partitioning trees (today)
-- [0xcpu/WinAltSyscallHandler](https://github.com/0xcpu/WinAltSyscallHandler) - Some research on AltSystemCallHandlers functionality in Windows 10 20H1 18999 (today)
-- [0xcpu/ExecutiveCallbackObjects](https://github.com/0xcpu/ExecutiveCallbackObjects) - Research on Windows Kernel Executive Callback Objects (today)
-- [diohabara/open_inshi](https://github.com/diohabara/open_inshi) - 大学院入試過去問(2023年実施試験まで) (today)
+- [Nash0x7E2/awesome-flutter-snippets](https://github.com/Nash0x7E2/awesome-flutter-snippets) - Awesome Flutter Snippets is a collection snippets and shortcuts for commonly used Flutter functions and classes (today)
+- [martinoyovo/flutter-design-collection](https://github.com/martinoyovo/flutter-design-collection) - A collection of Flutter Custom Designs and Flutter UI Kits. Star⭐ the repo and follow me if you like what you see🤩. (today)
+- [martinoyovo/flutter-banking-app](https://github.com/martinoyovo/flutter-banking-app) (today)
+- [martinoyovo/flutter-airline-app](https://github.com/martinoyovo/flutter-airline-app) - App where you can learn everything you need to know about your next journey and how to make it safe, hassle-free, and on budget. It has information on your scheduled flights, reward miles, best hotel deals, and more. (today)
+- [davefaliskie/travel_treasury](https://github.com/davefaliskie/travel_treasury) - 1ManStartup - Travel Budget Flutter App (today)
 
 ## 🔨 Latest Pull Requests I published
 
