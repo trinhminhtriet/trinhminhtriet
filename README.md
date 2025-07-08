@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [bluMATRIKZ](https://github.com/bluMATRIKZ)
 - [Zajfan](https://github.com/Zajfan)
 - [tsoisauce](https://github.com/tsoisauce)
 - [xandermuchanga](https://github.com/xandermuchanga)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [LordSaac](https://github.com/LordSaac)
 - [rizonahmed](https://github.com/rizonahmed)
 - [evansachie](https://github.com/evansachie)
-- [realninety5](https://github.com/realninety5)
 
 ## ⭐ Recent stars
 
+- [nicholasjclark/mvgam](https://github.com/nicholasjclark/mvgam) - {mvgam} R 📦 to fit Dynamic Bayesian Generalized Additive Models for multivariate modeling and forecasting (today)
 - [KKulma/climate-change-data](https://github.com/KKulma/climate-change-data) - :earth_africa: A curated list of APIs, open data and ML/AI projects on climate change  (today)
 - [Nash0x7E2/awesome-flutter-snippets](https://github.com/Nash0x7E2/awesome-flutter-snippets) - Awesome Flutter Snippets is a collection snippets and shortcuts for commonly used Flutter functions and classes (today)
 - [martinoyovo/flutter-design-collection](https://github.com/martinoyovo/flutter-design-collection) - A collection of Flutter Custom Designs and Flutter UI Kits. Star⭐ the repo and follow me if you like what you see🤩. (today)
 - [martinoyovo/flutter-banking-app](https://github.com/martinoyovo/flutter-banking-app) (today)
-- [martinoyovo/flutter-airline-app](https://github.com/martinoyovo/flutter-airline-app) - App where you can learn everything you need to know about your next journey and how to make it safe, hassle-free, and on budget. It has information on your scheduled flights, reward miles, best hotel deals, and more. (today)
 
 ## 🔨 Latest Pull Requests I published
 
