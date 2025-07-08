@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [amandeve12](https://github.com/amandeve12)
 - [Shivam10-7](https://github.com/Shivam10-7)
 - [and734](https://github.com/and734)
 - [sde-saharsh](https://github.com/sde-saharsh)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [abdelrahmansalahali](https://github.com/abdelrahmansalahali)
 - [Udehlee](https://github.com/Udehlee)
 - [neutron420](https://github.com/neutron420)
-- [Jasmina-gith](https://github.com/Jasmina-gith)
 
 ## ⭐ Recent stars
 
-- [luca-m/emotime](https://github.com/luca-m/emotime) - Recognizing emotional states in faces (today)
-- [ohyeah521/NoAds-For-YouTube](https://github.com/ohyeah521/NoAds-For-YouTube) (today)
-- [ohyeah521/Surveillance-Station](https://github.com/ohyeah521/Surveillance-Station) - 破解Surveillance-Station的60授权，仅供学习研究，请勿用于商业用途！ (today)
-- [dansanderson/picotool](https://github.com/dansanderson/picotool) - Tools and Python libraries for manipulating Pico-8 game files. http://www.lexaloffle.com/pico-8.php (today)
-- [lacanoid/pgddl](https://github.com/lacanoid/pgddl) - DDL eXtractor functions for PostgreSQL (ddlx) (today)
+- [timschmidt/csgrs](https://github.com/timschmidt/csgrs) - Multi-modal constructive solid geometry kernel in Rust  (today)
+- [timschmidt/repsnapper](https://github.com/timschmidt/repsnapper) - RepSnapper RepRap control software (today)
+- [kumekay/crabapplepad](https://github.com/kumekay/crabapplepad) - Wireless minimalistic slim foldable split keyboard (today)
+- [jkrup/meteor-now](https://github.com/jkrup/meteor-now) - Instantly deploy your Meteor apps with `meteor-now` (today)
+- [zacharywhitley/awesome-ocr](https://github.com/zacharywhitley/awesome-ocr) (today)
 
 ## 🔨 Latest Pull Requests I published
 
