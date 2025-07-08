@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Subro-webdev23](https://github.com/Subro-webdev23)
+- [LordSaac](https://github.com/LordSaac)
 - [rizonahmed](https://github.com/rizonahmed)
 - [evansachie](https://github.com/evansachie)
 - [realninety5](https://github.com/realninety5)
@@ -54,8 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [developer-business](https://github.com/developer-business)
 - [amandeve12](https://github.com/amandeve12)
 - [Shivam10-7](https://github.com/Shivam10-7)
-- [and734](https://github.com/and734)
-- [sde-saharsh](https://github.com/sde-saharsh)
 
 ## ⭐ Recent stars
 
