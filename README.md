@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Shivam10-7](https://github.com/Shivam10-7)
 - [and734](https://github.com/and734)
 - [sde-saharsh](https://github.com/sde-saharsh)
 - [asiff00](https://github.com/asiff00)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Udehlee](https://github.com/Udehlee)
 - [neutron420](https://github.com/neutron420)
 - [Jasmina-gith](https://github.com/Jasmina-gith)
-- [abhaysingh-22](https://github.com/abhaysingh-22)
 
 ## ⭐ Recent stars
 
-- [fresc81/node-winreg](https://github.com/fresc81/node-winreg) - node module that provides access to the Windows Registry through the REG commandline tool (today)
-- [b-coimbra/dawn](https://github.com/b-coimbra/dawn) - A startpage called "dawn" (today)
-- [phensley/docker-dns](https://github.com/phensley/docker-dns) - Simple, self-contained, automatic Docker DNS (today)
-- [kylophone/spectrophoto](https://github.com/kylophone/spectrophoto) - Turns an image into an audio file. Image is visible on the spectrogram.  (today)
-- [carolanitz/Awesome-iOS-Twitter](https://github.com/carolanitz/Awesome-iOS-Twitter) - A curated list of awesome iOS Twitter accounts (today)
+- [dansanderson/picotool](https://github.com/dansanderson/picotool) - Tools and Python libraries for manipulating Pico-8 game files. http://www.lexaloffle.com/pico-8.php (today)
+- [lacanoid/pgddl](https://github.com/lacanoid/pgddl) - DDL eXtractor functions for PostgreSQL (ddlx) (today)
+- [gbaydin/hypergradient-descent](https://github.com/gbaydin/hypergradient-descent) - Hypergradient descent (today)
+- [unbibium/atari64](https://github.com/unbibium/atari64) - Commodore 64 OS running on Atari 8-bit hardware (today)
+- [Zibri/ZiPhone](https://github.com/Zibri/ZiPhone) - The best iPhone unlocker. (today)
 
 ## 🔨 Latest Pull Requests I published
 
