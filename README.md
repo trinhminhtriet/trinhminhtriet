@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Ermias5869](https://github.com/Ermias5869)
 - [alexmylonas](https://github.com/alexmylonas)
 - [developer-business](https://github.com/developer-business)
 - [amandeve12](https://github.com/amandeve12)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [asiff00](https://github.com/asiff00)
 - [claudio-riosg](https://github.com/claudio-riosg)
 - [omarhashem80](https://github.com/omarhashem80)
-- [abdelrahmansalahali](https://github.com/abdelrahmansalahali)
 
 ## ⭐ Recent stars
 
