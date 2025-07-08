@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [rsrdesarrollo/generator-burp-extension](https://github.com/rsrdesarrollo/generator-burp-extension) - Everything you need about Burp Extension Generation (today)
-- [furier/websync](https://github.com/furier/websync) - websync is intended to be an rsync manager, where rsync tasks can be added, scheduled and maintained in a sane manner. (today)
-- [kekeimiku/dumpkey](https://github.com/kekeimiku/dumpkey) - apple m1 wechat dump key (today)
-- [kekeimiku/LuckySpeeder](https://github.com/kekeimiku/LuckySpeeder) - iOS jailed speedhack (today)
-- [kekeimiku/kbz](https://github.com/kekeimiku/kbz) - 读取王者荣耀对局内敌方位置，技能cd以及血量的小程序 (today)
+- [mckelvin/beancount-boilerplate-cn](https://github.com/mckelvin/beancount-boilerplate-cn) (today)
+- [seldridge/verilog](https://github.com/seldridge/verilog) - Repository for basic (and not so basic) Verilog blocks with high re-use potential (today)
+- [green-coder/girouette](https://github.com/green-coder/girouette) - Grammar-based, generative approach to CSS. (today)
+- [scarvalhojr/aoc-cli](https://github.com/scarvalhojr/aoc-cli) - Advent of Code command-line tool (today)
+- [yoanlcq/vek](https://github.com/yoanlcq/vek) - Generic 2D-3D math swiss army knife for game engines, with SIMD support and focus on convenience. (today)
 
 ## 🔨 Latest Pull Requests I published
 
