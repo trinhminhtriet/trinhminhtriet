@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [pstanoev/simple-svelte-autocomplete](https://github.com/pstanoev/simple-svelte-autocomplete) - Simple Autocomplete / typeahead component for Svelte (today)
 - [aesophor/wmderland](https://github.com/aesophor/wmderland) - 🌳 X11 tiling window manager using space partitioning trees (today)
 - [0xcpu/WinAltSyscallHandler](https://github.com/0xcpu/WinAltSyscallHandler) - Some research on AltSystemCallHandlers functionality in Windows 10 20H1 18999 (today)
 - [0xcpu/ExecutiveCallbackObjects](https://github.com/0xcpu/ExecutiveCallbackObjects) - Research on Windows Kernel Executive Callback Objects (today)
 - [diohabara/open_inshi](https://github.com/diohabara/open_inshi) - 大学院入試過去問(2023年実施試験まで) (today)
-- [mckelvin/beancount-boilerplate-cn](https://github.com/mckelvin/beancount-boilerplate-cn) (today)
 
 ## 🔨 Latest Pull Requests I published
 
