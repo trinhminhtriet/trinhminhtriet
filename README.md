@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [luca-m/emotime](https://github.com/luca-m/emotime) - Recognizing emotional states in faces (today)
+- [ohyeah521/NoAds-For-YouTube](https://github.com/ohyeah521/NoAds-For-YouTube) (today)
+- [ohyeah521/Surveillance-Station](https://github.com/ohyeah521/Surveillance-Station) - 破解Surveillance-Station的60授权，仅供学习研究，请勿用于商业用途！ (today)
 - [dansanderson/picotool](https://github.com/dansanderson/picotool) - Tools and Python libraries for manipulating Pico-8 game files. http://www.lexaloffle.com/pico-8.php (today)
 - [lacanoid/pgddl](https://github.com/lacanoid/pgddl) - DDL eXtractor functions for PostgreSQL (ddlx) (today)
-- [gbaydin/hypergradient-descent](https://github.com/gbaydin/hypergradient-descent) - Hypergradient descent (today)
-- [unbibium/atari64](https://github.com/unbibium/atari64) - Commodore 64 OS running on Atari 8-bit hardware (today)
-- [Zibri/ZiPhone](https://github.com/Zibri/ZiPhone) - The best iPhone unlocker. (today)
 
 ## 🔨 Latest Pull Requests I published
 
