@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [asiff00](https://github.com/asiff00)
 - [claudio-riosg](https://github.com/claudio-riosg)
 - [omarhashem80](https://github.com/omarhashem80)
 - [abdelrahmansalahali](https://github.com/abdelrahmansalahali)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [abhaysingh-22](https://github.com/abhaysingh-22)
 - [obed2025](https://github.com/obed2025)
 - [LordLiberte](https://github.com/LordLiberte)
-- [maneeshkumarr](https://github.com/maneeshkumarr)
 
 ## ⭐ Recent stars
 
-- [smparsons/retroboy](https://github.com/smparsons/retroboy) - A Game Boy emulator written in Rust. (today)
-- [crlf0710/tectonic](https://github.com/crlf0710/tectonic) - Experimental Oxidization of Tectonic the TeX/LaTeX engine. (today)
-- [cheft/minrouter](https://github.com/cheft/minrouter) - a micro middleware router for isomorphic javaScript web apps (today)
-- [Francesco149/protonfit](https://github.com/Francesco149/protonfit) - automate installing/running fitgirl repacks on linux with proton. can also be used as a steam-less proton launcher (today)
-- [Francesco149/oppai-ng](https://github.com/Francesco149/oppai-ng) - difficulty and pp calculator for osu!. better, smaller, faster rewrite of https://github.com/Francesco149/oppai  (today)
+- [fresc81/node-winreg](https://github.com/fresc81/node-winreg) - node module that provides access to the Windows Registry through the REG commandline tool (today)
+- [b-coimbra/dawn](https://github.com/b-coimbra/dawn) - A startpage called "dawn" (today)
+- [phensley/docker-dns](https://github.com/phensley/docker-dns) - Simple, self-contained, automatic Docker DNS (today)
+- [kylophone/spectrophoto](https://github.com/kylophone/spectrophoto) - Turns an image into an audio file. Image is visible on the spectrogram.  (today)
+- [carolanitz/Awesome-iOS-Twitter](https://github.com/carolanitz/Awesome-iOS-Twitter) - A curated list of awesome iOS Twitter accounts (today)
 
 ## 🔨 Latest Pull Requests I published
 
