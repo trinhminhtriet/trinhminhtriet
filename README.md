@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [yevh/TaaC-AI](https://github.com/yevh/TaaC-AI) - AI-driven Threat modeling-as-a-Code (TaaC-AI) (today)
-- [yevh/rust-security-handbook](https://github.com/yevh/rust-security-handbook) - A 10-chapter handbook for writing actually secure Rust: type-safety, panic-proofing & more. (today)
-- [yevh/VulnPlanet](https://github.com/yevh/VulnPlanet) - Vulnerable code snippets with fixes for Web2, Web3, API, iOS, Android and Infrastructure-as-Code (IaC) (today)
-- [andrewkroh/gvm](https://github.com/andrewkroh/gvm) - Go Version Manager (written in Go for cross-platform usability) (today)
-- [timschmidt/csgrs](https://github.com/timschmidt/csgrs) - Multi-modal constructive solid geometry kernel in Rust  (today)
+- [furier/websync](https://github.com/furier/websync) - websync is intended to be an rsync manager, where rsync tasks can be added, scheduled and maintained in a sane manner. (today)
+- [kekeimiku/dumpkey](https://github.com/kekeimiku/dumpkey) - apple m1 wechat dump key (today)
+- [kekeimiku/LuckySpeeder](https://github.com/kekeimiku/LuckySpeeder) - iOS jailed speedhack (today)
+- [kekeimiku/kbz](https://github.com/kekeimiku/kbz) - 读取王者荣耀对局内敌方位置，技能cd以及血量的小程序 (today)
+- [kekeimiku/PointerSearcher-X](https://github.com/kekeimiku/PointerSearcher-X) - An application for finding memory pointers. (today)
 
 ## 🔨 Latest Pull Requests I published
 
