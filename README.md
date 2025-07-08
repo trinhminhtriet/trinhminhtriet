@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [alexmylonas](https://github.com/alexmylonas)
+- [developer-business](https://github.com/developer-business)
 - [amandeve12](https://github.com/amandeve12)
 - [Shivam10-7](https://github.com/Shivam10-7)
 - [and734](https://github.com/and734)
@@ -54,16 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [claudio-riosg](https://github.com/claudio-riosg)
 - [omarhashem80](https://github.com/omarhashem80)
 - [abdelrahmansalahali](https://github.com/abdelrahmansalahali)
-- [Udehlee](https://github.com/Udehlee)
-- [neutron420](https://github.com/neutron420)
 
 ## ⭐ Recent stars
 
+- [rsrdesarrollo/generator-burp-extension](https://github.com/rsrdesarrollo/generator-burp-extension) - Everything you need about Burp Extension Generation (today)
 - [furier/websync](https://github.com/furier/websync) - websync is intended to be an rsync manager, where rsync tasks can be added, scheduled and maintained in a sane manner. (today)
 - [kekeimiku/dumpkey](https://github.com/kekeimiku/dumpkey) - apple m1 wechat dump key (today)
 - [kekeimiku/LuckySpeeder](https://github.com/kekeimiku/LuckySpeeder) - iOS jailed speedhack (today)
 - [kekeimiku/kbz](https://github.com/kekeimiku/kbz) - 读取王者荣耀对局内敌方位置，技能cd以及血量的小程序 (today)
-- [kekeimiku/PointerSearcher-X](https://github.com/kekeimiku/PointerSearcher-X) - An application for finding memory pointers. (today)
 
 ## 🔨 Latest Pull Requests I published
 
