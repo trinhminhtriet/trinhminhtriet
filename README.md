@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [evansachie](https://github.com/evansachie)
+- [realninety5](https://github.com/realninety5)
 - [Ermias5869](https://github.com/Ermias5869)
 - [alexmylonas](https://github.com/alexmylonas)
 - [developer-business](https://github.com/developer-business)
@@ -54,16 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [and734](https://github.com/and734)
 - [sde-saharsh](https://github.com/sde-saharsh)
 - [asiff00](https://github.com/asiff00)
-- [claudio-riosg](https://github.com/claudio-riosg)
-- [omarhashem80](https://github.com/omarhashem80)
 
 ## ⭐ Recent stars
 
+- [diohabara/open_inshi](https://github.com/diohabara/open_inshi) - 大学院入試過去問(2023年実施試験まで) (today)
 - [mckelvin/beancount-boilerplate-cn](https://github.com/mckelvin/beancount-boilerplate-cn) (today)
 - [seldridge/verilog](https://github.com/seldridge/verilog) - Repository for basic (and not so basic) Verilog blocks with high re-use potential (today)
 - [green-coder/girouette](https://github.com/green-coder/girouette) - Grammar-based, generative approach to CSS. (today)
 - [scarvalhojr/aoc-cli](https://github.com/scarvalhojr/aoc-cli) - Advent of Code command-line tool (today)
-- [yoanlcq/vek](https://github.com/yoanlcq/vek) - Generic 2D-3D math swiss army knife for game engines, with SIMD support and focus on convenience. (today)
 
 ## 🔨 Latest Pull Requests I published
 
