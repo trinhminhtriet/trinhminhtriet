@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [textSlayer](https://github.com/textSlayer)
 - [bluMATRIKZ](https://github.com/bluMATRIKZ)
 - [Zajfan](https://github.com/Zajfan)
 - [tsoisauce](https://github.com/tsoisauce)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Subro-webdev23](https://github.com/Subro-webdev23)
 - [LordSaac](https://github.com/LordSaac)
 - [rizonahmed](https://github.com/rizonahmed)
-- [evansachie](https://github.com/evansachie)
 
 ## ⭐ Recent stars
 
