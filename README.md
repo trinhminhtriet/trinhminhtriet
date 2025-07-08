@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [yevh/TaaC-AI](https://github.com/yevh/TaaC-AI) - AI-driven Threat modeling-as-a-Code (TaaC-AI) (today)
+- [yevh/rust-security-handbook](https://github.com/yevh/rust-security-handbook) - A 10-chapter handbook for writing actually secure Rust: type-safety, panic-proofing & more. (today)
+- [yevh/VulnPlanet](https://github.com/yevh/VulnPlanet) - Vulnerable code snippets with fixes for Web2, Web3, API, iOS, Android and Infrastructure-as-Code (IaC) (today)
+- [andrewkroh/gvm](https://github.com/andrewkroh/gvm) - Go Version Manager (written in Go for cross-platform usability) (today)
 - [timschmidt/csgrs](https://github.com/timschmidt/csgrs) - Multi-modal constructive solid geometry kernel in Rust  (today)
-- [timschmidt/repsnapper](https://github.com/timschmidt/repsnapper) - RepSnapper RepRap control software (today)
-- [kumekay/crabapplepad](https://github.com/kumekay/crabapplepad) - Wireless minimalistic slim foldable split keyboard (today)
-- [jkrup/meteor-now](https://github.com/jkrup/meteor-now) - Instantly deploy your Meteor apps with `meteor-now` (today)
-- [zacharywhitley/awesome-ocr](https://github.com/zacharywhitley/awesome-ocr) (today)
 
 ## 🔨 Latest Pull Requests I published
 
