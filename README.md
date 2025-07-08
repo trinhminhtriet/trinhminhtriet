@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [rizonahmed](https://github.com/rizonahmed)
 - [evansachie](https://github.com/evansachie)
 - [realninety5](https://github.com/realninety5)
 - [Ermias5869](https://github.com/Ermias5869)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Shivam10-7](https://github.com/Shivam10-7)
 - [and734](https://github.com/and734)
 - [sde-saharsh](https://github.com/sde-saharsh)
-- [asiff00](https://github.com/asiff00)
 
 ## ⭐ Recent stars
 
+- [aesophor/wmderland](https://github.com/aesophor/wmderland) - 🌳 X11 tiling window manager using space partitioning trees (today)
+- [0xcpu/WinAltSyscallHandler](https://github.com/0xcpu/WinAltSyscallHandler) - Some research on AltSystemCallHandlers functionality in Windows 10 20H1 18999 (today)
+- [0xcpu/ExecutiveCallbackObjects](https://github.com/0xcpu/ExecutiveCallbackObjects) - Research on Windows Kernel Executive Callback Objects (today)
 - [diohabara/open_inshi](https://github.com/diohabara/open_inshi) - 大学院入試過去問(2023年実施試験まで) (today)
 - [mckelvin/beancount-boilerplate-cn](https://github.com/mckelvin/beancount-boilerplate-cn) (today)
-- [seldridge/verilog](https://github.com/seldridge/verilog) - Repository for basic (and not so basic) Verilog blocks with high re-use potential (today)
-- [green-coder/girouette](https://github.com/green-coder/girouette) - Grammar-based, generative approach to CSS. (today)
-- [scarvalhojr/aoc-cli](https://github.com/scarvalhojr/aoc-cli) - Advent of Code command-line tool (today)
 
 ## 🔨 Latest Pull Requests I published
 
