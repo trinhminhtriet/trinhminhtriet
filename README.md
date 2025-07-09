@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [rebelliousi](https://github.com/rebelliousi)
+- [davellanedam](https://github.com/davellanedam)
 - [Rohanrathod7](https://github.com/Rohanrathod7)
 - [Saba-abiri](https://github.com/Saba-abiri)
 - [NanguluMicheal](https://github.com/NanguluMicheal)
@@ -54,8 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Zajfan](https://github.com/Zajfan)
 - [tsoisauce](https://github.com/tsoisauce)
 - [xandermuchanga](https://github.com/xandermuchanga)
-- [gulljee](https://github.com/gulljee)
-- [Aniiket-Singh](https://github.com/Aniiket-Singh)
 
 ## ⭐ Recent stars
 
