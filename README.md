@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [NanguluMicheal](https://github.com/NanguluMicheal)
 - [textSlayer](https://github.com/textSlayer)
 - [bluMATRIKZ](https://github.com/bluMATRIKZ)
 - [Zajfan](https://github.com/Zajfan)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Aniiket-Singh](https://github.com/Aniiket-Singh)
 - [Subro-webdev23](https://github.com/Subro-webdev23)
 - [LordSaac](https://github.com/LordSaac)
-- [rizonahmed](https://github.com/rizonahmed)
 
 ## ⭐ Recent stars
 
-- [nicholasjclark/mvgam](https://github.com/nicholasjclark/mvgam) - {mvgam} R 📦 to fit Dynamic Bayesian Generalized Additive Models for multivariate modeling and forecasting (today)
-- [KKulma/climate-change-data](https://github.com/KKulma/climate-change-data) - :earth_africa: A curated list of APIs, open data and ML/AI projects on climate change  (today)
-- [Nash0x7E2/awesome-flutter-snippets](https://github.com/Nash0x7E2/awesome-flutter-snippets) - Awesome Flutter Snippets is a collection snippets and shortcuts for commonly used Flutter functions and classes (today)
-- [martinoyovo/flutter-design-collection](https://github.com/martinoyovo/flutter-design-collection) - A collection of Flutter Custom Designs and Flutter UI Kits. Star⭐ the repo and follow me if you like what you see🤩. (today)
-- [martinoyovo/flutter-banking-app](https://github.com/martinoyovo/flutter-banking-app) (today)
+- [nicholasjclark/mvgam](https://github.com/nicholasjclark/mvgam) - {mvgam} R 📦 to fit Dynamic Bayesian Generalized Additive Models for multivariate modeling and forecasting (1 day ago)
+- [KKulma/climate-change-data](https://github.com/KKulma/climate-change-data) - :earth_africa: A curated list of APIs, open data and ML/AI projects on climate change  (1 day ago)
+- [Nash0x7E2/awesome-flutter-snippets](https://github.com/Nash0x7E2/awesome-flutter-snippets) - Awesome Flutter Snippets is a collection snippets and shortcuts for commonly used Flutter functions and classes (1 day ago)
+- [martinoyovo/flutter-design-collection](https://github.com/martinoyovo/flutter-design-collection) - A collection of Flutter Custom Designs and Flutter UI Kits. Star⭐ the repo and follow me if you like what you see🤩. (1 day ago)
+- [martinoyovo/flutter-banking-app](https://github.com/martinoyovo/flutter-banking-app) (1 day ago)
 
 ## 🔨 Latest Pull Requests I published
 
