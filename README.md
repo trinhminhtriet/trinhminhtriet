@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [COREayan](https://github.com/COREayan)
+- [Lernik1998](https://github.com/Lernik1998)
 - [Adesoji1](https://github.com/Adesoji1)
 - [kateul](https://github.com/kateul)
 - [KaneBN](https://github.com/KaneBN)
@@ -54,8 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [davellanedam](https://github.com/davellanedam)
 - [Rohanrathod7](https://github.com/Rohanrathod7)
 - [Saba-abiri](https://github.com/Saba-abiri)
-- [NanguluMicheal](https://github.com/NanguluMicheal)
-- [textSlayer](https://github.com/textSlayer)
 
 ## ⭐ Recent stars
 
