@@ -46,6 +46,9 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Mindaugas3](https://github.com/Mindaugas3)
+- [DevvObiero](https://github.com/DevvObiero)
+- [mohdsyam73](https://github.com/mohdsyam73)
 - [COREayan](https://github.com/COREayan)
 - [Lernik1998](https://github.com/Lernik1998)
 - [Adesoji1](https://github.com/Adesoji1)
@@ -53,9 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [KaneBN](https://github.com/KaneBN)
 - [Fadhaa](https://github.com/Fadhaa)
 - [rebelliousi](https://github.com/rebelliousi)
-- [davellanedam](https://github.com/davellanedam)
-- [Rohanrathod7](https://github.com/Rohanrathod7)
-- [Saba-abiri](https://github.com/Saba-abiri)
 
 ## ⭐ Recent stars
 
