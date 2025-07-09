@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Daksh021](https://github.com/Daksh021)
 - [Mindaugas3](https://github.com/Mindaugas3)
 - [DevvObiero](https://github.com/DevvObiero)
 - [mohdsyam73](https://github.com/mohdsyam73)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [kateul](https://github.com/kateul)
 - [KaneBN](https://github.com/KaneBN)
 - [Fadhaa](https://github.com/Fadhaa)
-- [rebelliousi](https://github.com/rebelliousi)
 
 ## ⭐ Recent stars
 
