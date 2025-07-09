@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [xudjx/webprogress](https://github.com/xudjx/webprogress) - Android WebView独立进程解决方案，并包含Web页面和Native交互解决方案 (today)
+- [2dxgujun/AndroidTagGroup](https://github.com/2dxgujun/AndroidTagGroup) - :four_leaf_clover:A beautiful android tag group widget. (today)
 - [nicholasjclark/mvgam](https://github.com/nicholasjclark/mvgam) - {mvgam} R 📦 to fit Dynamic Bayesian Generalized Additive Models for multivariate modeling and forecasting (1 day ago)
 - [KKulma/climate-change-data](https://github.com/KKulma/climate-change-data) - :earth_africa: A curated list of APIs, open data and ML/AI projects on climate change  (1 day ago)
 - [Nash0x7E2/awesome-flutter-snippets](https://github.com/Nash0x7E2/awesome-flutter-snippets) - Awesome Flutter Snippets is a collection snippets and shortcuts for commonly used Flutter functions and classes (1 day ago)
-- [martinoyovo/flutter-design-collection](https://github.com/martinoyovo/flutter-design-collection) - A collection of Flutter Custom Designs and Flutter UI Kits. Star⭐ the repo and follow me if you like what you see🤩. (1 day ago)
-- [martinoyovo/flutter-banking-app](https://github.com/martinoyovo/flutter-banking-app) (1 day ago)
 
 ## 🔨 Latest Pull Requests I published
 
