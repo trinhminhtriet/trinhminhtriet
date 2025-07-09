@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Adesoji1](https://github.com/Adesoji1)
 - [kateul](https://github.com/kateul)
 - [KaneBN](https://github.com/KaneBN)
 - [Fadhaa](https://github.com/Fadhaa)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Saba-abiri](https://github.com/Saba-abiri)
 - [NanguluMicheal](https://github.com/NanguluMicheal)
 - [textSlayer](https://github.com/textSlayer)
-- [bluMATRIKZ](https://github.com/bluMATRIKZ)
 
 ## ⭐ Recent stars
 
