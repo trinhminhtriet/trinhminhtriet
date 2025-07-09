@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [ridhwanrazaliwork](https://github.com/ridhwanrazaliwork)
+- [shahrivar137](https://github.com/shahrivar137)
 - [Daksh021](https://github.com/Daksh021)
 - [Mindaugas3](https://github.com/Mindaugas3)
 - [DevvObiero](https://github.com/DevvObiero)
@@ -54,8 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Lernik1998](https://github.com/Lernik1998)
 - [Adesoji1](https://github.com/Adesoji1)
 - [kateul](https://github.com/kateul)
-- [KaneBN](https://github.com/KaneBN)
-- [Fadhaa](https://github.com/Fadhaa)
 
 ## ⭐ Recent stars
 
