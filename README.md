@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Rohanrathod7](https://github.com/Rohanrathod7)
 - [Saba-abiri](https://github.com/Saba-abiri)
 - [NanguluMicheal](https://github.com/NanguluMicheal)
 - [textSlayer](https://github.com/textSlayer)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [xandermuchanga](https://github.com/xandermuchanga)
 - [gulljee](https://github.com/gulljee)
 - [Aniiket-Singh](https://github.com/Aniiket-Singh)
-- [Subro-webdev23](https://github.com/Subro-webdev23)
 
 ## ⭐ Recent stars
 
+- [ayush221b/flutter-handbook](https://github.com/ayush221b/flutter-handbook) - A go-to handbook with a curated set of resources to help the participants of any Flutter Hackathon.. (today)
+- [VictorUvarov/provider_architecture_template](https://github.com/VictorUvarov/provider_architecture_template) - A production ready flutter application template for the provider architecture. (today)
+- [newbalancem5/flutter_info](https://github.com/newbalancem5/flutter_info) - 📚Сборник русскоязычной информации по Flutter (today)
 - [xudjx/webprogress](https://github.com/xudjx/webprogress) - Android WebView独立进程解决方案，并包含Web页面和Native交互解决方案 (today)
 - [2dxgujun/AndroidTagGroup](https://github.com/2dxgujun/AndroidTagGroup) - :four_leaf_clover:A beautiful android tag group widget. (today)
-- [nicholasjclark/mvgam](https://github.com/nicholasjclark/mvgam) - {mvgam} R 📦 to fit Dynamic Bayesian Generalized Additive Models for multivariate modeling and forecasting (1 day ago)
-- [KKulma/climate-change-data](https://github.com/KKulma/climate-change-data) - :earth_africa: A curated list of APIs, open data and ML/AI projects on climate change  (1 day ago)
-- [Nash0x7E2/awesome-flutter-snippets](https://github.com/Nash0x7E2/awesome-flutter-snippets) - Awesome Flutter Snippets is a collection snippets and shortcuts for commonly used Flutter functions and classes (1 day ago)
 
 ## 🔨 Latest Pull Requests I published
 
