@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [heinodendal](https://github.com/heinodendal)
+- [Raouf-boukhobza](https://github.com/Raouf-boukhobza)
 - [HadirouTamdamba](https://github.com/HadirouTamdamba)
 - [ridhwanrazaliwork](https://github.com/ridhwanrazaliwork)
 - [shahrivar137](https://github.com/shahrivar137)
@@ -54,8 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [DevvObiero](https://github.com/DevvObiero)
 - [mohdsyam73](https://github.com/mohdsyam73)
 - [COREayan](https://github.com/COREayan)
-- [Lernik1998](https://github.com/Lernik1998)
-- [Adesoji1](https://github.com/Adesoji1)
 
 ## ⭐ Recent stars
 
