@@ -46,6 +46,9 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Tayondw](https://github.com/Tayondw)
+- [JcoderPaul](https://github.com/JcoderPaul)
+- [eddysub](https://github.com/eddysub)
 - [moixllik](https://github.com/moixllik)
 - [michael1342](https://github.com/michael1342)
 - [Pojashri](https://github.com/Pojashri)
@@ -53,17 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [franklinsrr](https://github.com/franklinsrr)
 - [ElieteCampos](https://github.com/ElieteCampos)
 - [angeelmdev](https://github.com/angeelmdev)
-- [priyakalashi](https://github.com/priyakalashi)
-- [AhmedMehanna1](https://github.com/AhmedMehanna1)
-- [addid-cloud](https://github.com/addid-cloud)
 
 ## ⭐ Recent stars
 
+- [puti94/react-native-puti-pay](https://github.com/puti94/react-native-puti-pay) - 基于 React Native 的微信支付，支付宝支付插件 (today)
+- [alexlafroscia/vite-plugin-handlebars](https://github.com/alexlafroscia/vite-plugin-handlebars) - Vite support for Handlebars (today)
+- [junghyeonsu/awesome-dev-activity-review](https://github.com/junghyeonsu/awesome-dev-activity-review) - 📝 세상의 모든 개발 관련 구직 활동 리뷰 모음 (today)
 - [benjaminwan/OcrLiteOnnx](https://github.com/benjaminwan/OcrLiteOnnx) - chineseocr lite onnx，超轻量级中文ocr demo，支持onnx推理 ( dbnet+crnn+anglenet) (today)
 - [benjaminwan/ChineseTtsTflite](https://github.com/benjaminwan/ChineseTtsTflite) - Android Chinese TTS Engine Base On Tensorflow TTS , use for TfLite Models Test。安卓离线中文TTS引擎，在TensorflowTTS基础上开发，用于TfLite模型测试。 (today)
-- [leonardokl/react-palette](https://github.com/leonardokl/react-palette) - Extract prominent colors from an image (today)
-- [rensbreur/SwiftTUI](https://github.com/rensbreur/SwiftTUI) - SwiftUI for terminal applications (today)
-- [flexih/Snake](https://github.com/flexih/Snake) - Yet Another Mach-O Unused ObjC Selector/Class/Protocol Detector. 检测ObjC无用方法、无用类、无用协议。 (today)
 
 ## 🔨 Latest Pull Requests I published
 
