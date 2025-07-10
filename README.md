@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [addid-cloud](https://github.com/addid-cloud)
 - [Lyne6666](https://github.com/Lyne6666)
 - [sagarpatel288](https://github.com/sagarpatel288)
 - [ArnoldT01](https://github.com/ArnoldT01)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [iragena25egide](https://github.com/iragena25egide)
 - [SeanStothers](https://github.com/SeanStothers)
 - [micheldosreis](https://github.com/micheldosreis)
-- [heinodendal](https://github.com/heinodendal)
 
 ## ⭐ Recent stars
 
+- [skbolton/titan](https://github.com/skbolton/titan) - Orlando's one call install (today)
+- [vikjam/mostly-harmless-replication](https://github.com/vikjam/mostly-harmless-replication) - Replication of tables and figures from "Mostly Harmless Econometrics" in Stata, R, Python and Julia.  (today)
 - [ayush221b/flutter-handbook](https://github.com/ayush221b/flutter-handbook) - A go-to handbook with a curated set of resources to help the participants of any Flutter Hackathon.. (1 day ago)
 - [VictorUvarov/provider_architecture_template](https://github.com/VictorUvarov/provider_architecture_template) - A production ready flutter application template for the provider architecture. (1 day ago)
 - [newbalancem5/flutter_info](https://github.com/newbalancem5/flutter_info) - 📚Сборник русскоязычной информации по Flutter (1 day ago)
-- [xudjx/webprogress](https://github.com/xudjx/webprogress) - Android WebView独立进程解决方案，并包含Web页面和Native交互解决方案 (1 day ago)
-- [2dxgujun/AndroidTagGroup](https://github.com/2dxgujun/AndroidTagGroup) - :four_leaf_clover:A beautiful android tag group widget. (1 day ago)
 
 ## 🔨 Latest Pull Requests I published
 
