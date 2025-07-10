@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [franklinsrr](https://github.com/franklinsrr)
+- [ElieteCampos](https://github.com/ElieteCampos)
 - [angeelmdev](https://github.com/angeelmdev)
 - [priyakalashi](https://github.com/priyakalashi)
 - [AhmedMehanna1](https://github.com/AhmedMehanna1)
@@ -54,16 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [sagarpatel288](https://github.com/sagarpatel288)
 - [ArnoldT01](https://github.com/ArnoldT01)
 - [Tayondw](https://github.com/Tayondw)
-- [nullCat](https://github.com/nullCat)
-- [youssefm13](https://github.com/youssefm13)
 
 ## ⭐ Recent stars
 
-- [xsawyerx/xs-fun](https://github.com/xsawyerx/xs-fun) - XS is fun: a simple and easy tutorial on writing Perl XS (today)
-- [H3rmt/hyprshell](https://github.com/H3rmt/hyprshell) - A modern GTK4-based window switcher and application launcher for Hyprland (today)
-- [jrockway/eproject](https://github.com/jrockway/eproject) - file grouping ("project") extension for emacs (today)
-- [jlavallee/JMeter-Rabbit-AMQP](https://github.com/jlavallee/JMeter-Rabbit-AMQP) - A JMeter plugin to publish & consume messages from RabbitMQ or any AMQP message broker (today)
-- [yowainwright/awesome-writing-tools](https://github.com/yowainwright/awesome-writing-tools) - A curated list of awesome tools for improving written communication (today)
+- [DalekBaldwin/on-lisp](https://github.com/DalekBaldwin/on-lisp) - A modernized and annotated code companion to Paul Graham's "On Lisp". (today)
+- [dannvix/keylogger-osx](https://github.com/dannvix/keylogger-osx) - Very simple keylogger for self-quantifying on Mac OS X (today)
+- [dannvix/ColorTunes](https://github.com/dannvix/ColorTunes) - HTML5 version of the iTunes 11 album view (today)
+- [dannvix/NflxMultiSubs](https://github.com/dannvix/NflxMultiSubs) - (Inactive) Multiple Subtitles and Enhanced Experiences for Netflix Web App (today)
+- [nebulous/infinitude](https://github.com/nebulous/infinitude) - Open control of Carrier/Bryant thermostats (today)
 
 ## 🔨 Latest Pull Requests I published
 
