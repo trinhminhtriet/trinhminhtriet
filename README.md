@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [moixllik](https://github.com/moixllik)
+- [michael1342](https://github.com/michael1342)
 - [Pojashri](https://github.com/Pojashri)
 - [Shresth72](https://github.com/Shresth72)
 - [franklinsrr](https://github.com/franklinsrr)
@@ -54,16 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [priyakalashi](https://github.com/priyakalashi)
 - [AhmedMehanna1](https://github.com/AhmedMehanna1)
 - [addid-cloud](https://github.com/addid-cloud)
-- [Lyne6666](https://github.com/Lyne6666)
-- [sagarpatel288](https://github.com/sagarpatel288)
 
 ## ⭐ Recent stars
 
-- [nabijaczleweli/rust-embed-resource](https://github.com/nabijaczleweli/rust-embed-resource) - A Cargo build script library to handle compilation and inclusion of Windows resources, in the most resilient fashion imaginable (today)
-- [nabijaczleweli/termimage](https://github.com/nabijaczleweli/termimage) - Display images in your terminal, kind of (today)
-- [nabijaczleweli/cargo-update](https://github.com/nabijaczleweli/cargo-update) - A cargo subcommand for checking and applying updates to installed executables (today)
-- [beucismis/awesome-fetch](https://github.com/beucismis/awesome-fetch) - Command-line fetch tools for system/other information (today)
-- [ernestwisniewski/kbin](https://github.com/ernestwisniewski/kbin) - A reddit-like content aggregator and micro-blogging platform for the fediverse. (today)
+- [KpwnZ/Def1nit3lyN0tAJa1lbr3akTool](https://github.com/KpwnZ/Def1nit3lyN0tAJa1lbr3akTool) - A jailbreak tool for all arm64 devices on iOS 16.0 to iOS 16.6.1 (today)
+- [pcccccc/SimpleLiveTVOS](https://github.com/pcccccc/SimpleLiveTVOS) (today)
+- [Jerry23011/VirusTotal-macOS](https://github.com/Jerry23011/VirusTotal-macOS) - An elegant VirusTotal client built with SwiftUI (today)
+- [Panl/Gank.lu](https://github.com/Panl/Gank.lu) - Gank.io client for iOS (today)
+- [Panl/AICat](https://github.com/Panl/AICat) - Multiplatform Client for ChatGPT using SwiftUI,  support iOS, iPadOS & MacOS (today)
 
 ## 🔨 Latest Pull Requests I published
 
