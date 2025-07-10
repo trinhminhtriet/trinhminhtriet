@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [JAYACHARANAMBATI](https://github.com/JAYACHARANAMBATI)
 - [Tayondw](https://github.com/Tayondw)
 - [nullCat](https://github.com/nullCat)
 - [youssefm13](https://github.com/youssefm13)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [heinodendal](https://github.com/heinodendal)
 - [Raouf-boukhobza](https://github.com/Raouf-boukhobza)
 - [HadirouTamdamba](https://github.com/HadirouTamdamba)
-- [ridhwanrazaliwork](https://github.com/ridhwanrazaliwork)
 
 ## ⭐ Recent stars
 
