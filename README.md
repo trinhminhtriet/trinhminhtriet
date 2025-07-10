@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [michalwiacek](https://github.com/michalwiacek)
 - [sanskaarsingh](https://github.com/sanskaarsingh)
 - [lytro-dev](https://github.com/lytro-dev)
 - [ken-rolex](https://github.com/ken-rolex)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [empytime](https://github.com/empytime)
 - [Tayondw](https://github.com/Tayondw)
 - [JcoderPaul](https://github.com/JcoderPaul)
-- [eddysub](https://github.com/eddysub)
 
 ## ⭐ Recent stars
 
-- [yuki-kimoto/gitprep](https://github.com/yuki-kimoto/gitprep) - Portable GitHub system into your own server (today)
-- [robinhouston/image-unshredding](https://github.com/robinhouston/image-unshredding) (today)
-- [sukria/Backup-Manager](https://github.com/sukria/Backup-Manager) - Versatile yet easy to use command line backup tool for GNU/Linux. Suitable for desktop and servers. (today)
-- [lionello/fart-it](https://github.com/lionello/fart-it) - Find And Replace Text command line utility. New & improved version of the well-known grep command, with advanced features such as: case-adaption of the replace string; find (& replace) in filenames, auto CVS edit. (today)
-- [lionello/onedrive-cli](https://github.com/lionello/onedrive-cli) - Command line interface for OneDrive (today)
+- [cdent/gabbi](https://github.com/cdent/gabbi) - Declarative HTTP Testing for Python and anything else (today)
+- [brunoV/throttler](https://github.com/brunoV/throttler) - Control the throughput of function calls and core.async channels (today)
+- [theory/pg-semver](https://github.com/theory/pg-semver) - A semantic version data type for PostgreSQL (today)
+- [theory/pgenv](https://github.com/theory/pgenv) - PostgreSQL binary manager (today)
+- [theory/pgtap](https://github.com/theory/pgtap) - PostgreSQL Unit Testing Suite (today)
 
 ## 🔨 Latest Pull Requests I published
 
