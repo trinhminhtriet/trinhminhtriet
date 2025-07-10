@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [lytro-dev](https://github.com/lytro-dev)
 - [ken-rolex](https://github.com/ken-rolex)
 - [Wamiquemashhadi03](https://github.com/Wamiquemashhadi03)
 - [Caspering](https://github.com/Caspering)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [JcoderPaul](https://github.com/JcoderPaul)
 - [eddysub](https://github.com/eddysub)
 - [moixllik](https://github.com/moixllik)
-- [michael1342](https://github.com/michael1342)
 
 ## ⭐ Recent stars
 
