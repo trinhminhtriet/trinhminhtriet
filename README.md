@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [angeelmdev](https://github.com/angeelmdev)
 - [priyakalashi](https://github.com/priyakalashi)
 - [AhmedMehanna1](https://github.com/AhmedMehanna1)
 - [addid-cloud](https://github.com/addid-cloud)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Tayondw](https://github.com/Tayondw)
 - [nullCat](https://github.com/nullCat)
 - [youssefm13](https://github.com/youssefm13)
-- [iragena25egide](https://github.com/iragena25egide)
 
 ## ⭐ Recent stars
 
-- [gugod/App-perlbrew](https://github.com/gugod/App-perlbrew) - Manage perl installations in your $HOME (today)
-- [orlandov/node-mongodb](https://github.com/orlandov/node-mongodb) - mongodb bindings for node.js (today)
-- [orlandov/node-sqlite](https://github.com/orlandov/node-sqlite) - Asynchronous, non-blocking SQLite3 bindings for Node.js (today)
-- [illnyang/nvlax](https://github.com/illnyang/nvlax) - Future-proof NvENC & NvFBC patcher (Linux/Windows) (today)
-- [guardiora/QuantumultX](https://github.com/guardiora/QuantumultX) - 一个整理各种大佬的圈X脚本~ (today)
+- [xsawyerx/xs-fun](https://github.com/xsawyerx/xs-fun) - XS is fun: a simple and easy tutorial on writing Perl XS (today)
+- [H3rmt/hyprshell](https://github.com/H3rmt/hyprshell) - A modern GTK4-based window switcher and application launcher for Hyprland (today)
+- [jrockway/eproject](https://github.com/jrockway/eproject) - file grouping ("project") extension for emacs (today)
+- [jlavallee/JMeter-Rabbit-AMQP](https://github.com/jlavallee/JMeter-Rabbit-AMQP) - A JMeter plugin to publish & consume messages from RabbitMQ or any AMQP message broker (today)
+- [yowainwright/awesome-writing-tools](https://github.com/yowainwright/awesome-writing-tools) - A curated list of awesome tools for improving written communication (today)
 
 ## 🔨 Latest Pull Requests I published
 
