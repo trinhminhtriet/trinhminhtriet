@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [nullCat](https://github.com/nullCat)
 - [youssefm13](https://github.com/youssefm13)
 - [iragena25egide](https://github.com/iragena25egide)
 - [SeanStothers](https://github.com/SeanStothers)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [HadirouTamdamba](https://github.com/HadirouTamdamba)
 - [ridhwanrazaliwork](https://github.com/ridhwanrazaliwork)
 - [shahrivar137](https://github.com/shahrivar137)
-- [Daksh021](https://github.com/Daksh021)
 
 ## ⭐ Recent stars
 
