@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [sanskaarsingh](https://github.com/sanskaarsingh)
 - [lytro-dev](https://github.com/lytro-dev)
 - [ken-rolex](https://github.com/ken-rolex)
 - [Wamiquemashhadi03](https://github.com/Wamiquemashhadi03)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Tayondw](https://github.com/Tayondw)
 - [JcoderPaul](https://github.com/JcoderPaul)
 - [eddysub](https://github.com/eddysub)
-- [moixllik](https://github.com/moixllik)
 
 ## ⭐ Recent stars
 
+- [yuki-kimoto/gitprep](https://github.com/yuki-kimoto/gitprep) - Portable GitHub system into your own server (today)
+- [robinhouston/image-unshredding](https://github.com/robinhouston/image-unshredding) (today)
+- [sukria/Backup-Manager](https://github.com/sukria/Backup-Manager) - Versatile yet easy to use command line backup tool for GNU/Linux. Suitable for desktop and servers. (today)
 - [lionello/fart-it](https://github.com/lionello/fart-it) - Find And Replace Text command line utility. New & improved version of the well-known grep command, with advanced features such as: case-adaption of the replace string; find (& replace) in filenames, auto CVS edit. (today)
 - [lionello/onedrive-cli](https://github.com/lionello/onedrive-cli) - Command line interface for OneDrive (today)
-- [nagygergo/jetbrains-toolbox-install](https://github.com/nagygergo/jetbrains-toolbox-install) - Installer for jetbrains toolbox (today)
-- [haren724/wallpaper-player-mac](https://github.com/haren724/wallpaper-player-mac) - A powerful open source live wallpaper app for mac (today)
-- [huanglins/VHLNavigation](https://github.com/huanglins/VHLNavigation) - 导航栏切换之颜色过渡切换，导航栏背景图片切换，微信红包两种不同颜色切换，导航栏透明度，有无导航栏切换 (today)
 
 ## 🔨 Latest Pull Requests I published
 
