@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [AhmedMehanna1](https://github.com/AhmedMehanna1)
 - [addid-cloud](https://github.com/addid-cloud)
 - [Lyne6666](https://github.com/Lyne6666)
 - [sagarpatel288](https://github.com/sagarpatel288)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [youssefm13](https://github.com/youssefm13)
 - [iragena25egide](https://github.com/iragena25egide)
 - [SeanStothers](https://github.com/SeanStothers)
-- [micheldosreis](https://github.com/micheldosreis)
 
 ## ⭐ Recent stars
 
+- [guardiora/QuantumultX](https://github.com/guardiora/QuantumultX) - 一个整理各种大佬的圈X脚本~ (today)
+- [djsaunde/lm-snn](https://github.com/djsaunde/lm-snn) - Using spiking neurons and spike-timing-dependent plasticity to classify the MNIST handwritten digits. (today)
+- [vnmabus/dcor](https://github.com/vnmabus/dcor) - Distance correlation and related E-statistics in Python (today)
 - [skbolton/titan](https://github.com/skbolton/titan) - Orlando's one call install (today)
 - [vikjam/mostly-harmless-replication](https://github.com/vikjam/mostly-harmless-replication) - Replication of tables and figures from "Mostly Harmless Econometrics" in Stata, R, Python and Julia.  (today)
-- [ayush221b/flutter-handbook](https://github.com/ayush221b/flutter-handbook) - A go-to handbook with a curated set of resources to help the participants of any Flutter Hackathon.. (1 day ago)
-- [VictorUvarov/provider_architecture_template](https://github.com/VictorUvarov/provider_architecture_template) - A production ready flutter application template for the provider architecture. (1 day ago)
-- [newbalancem5/flutter_info](https://github.com/newbalancem5/flutter_info) - 📚Сборник русскоязычной информации по Flutter (1 day ago)
 
 ## 🔨 Latest Pull Requests I published
 
