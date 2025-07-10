@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Pojashri](https://github.com/Pojashri)
+- [Shresth72](https://github.com/Shresth72)
 - [franklinsrr](https://github.com/franklinsrr)
 - [ElieteCampos](https://github.com/ElieteCampos)
 - [angeelmdev](https://github.com/angeelmdev)
@@ -54,16 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [addid-cloud](https://github.com/addid-cloud)
 - [Lyne6666](https://github.com/Lyne6666)
 - [sagarpatel288](https://github.com/sagarpatel288)
-- [ArnoldT01](https://github.com/ArnoldT01)
-- [Tayondw](https://github.com/Tayondw)
 
 ## ⭐ Recent stars
 
-- [DalekBaldwin/on-lisp](https://github.com/DalekBaldwin/on-lisp) - A modernized and annotated code companion to Paul Graham's "On Lisp". (today)
-- [dannvix/keylogger-osx](https://github.com/dannvix/keylogger-osx) - Very simple keylogger for self-quantifying on Mac OS X (today)
-- [dannvix/ColorTunes](https://github.com/dannvix/ColorTunes) - HTML5 version of the iTunes 11 album view (today)
-- [dannvix/NflxMultiSubs](https://github.com/dannvix/NflxMultiSubs) - (Inactive) Multiple Subtitles and Enhanced Experiences for Netflix Web App (today)
-- [nebulous/infinitude](https://github.com/nebulous/infinitude) - Open control of Carrier/Bryant thermostats (today)
+- [nabijaczleweli/rust-embed-resource](https://github.com/nabijaczleweli/rust-embed-resource) - A Cargo build script library to handle compilation and inclusion of Windows resources, in the most resilient fashion imaginable (today)
+- [nabijaczleweli/termimage](https://github.com/nabijaczleweli/termimage) - Display images in your terminal, kind of (today)
+- [nabijaczleweli/cargo-update](https://github.com/nabijaczleweli/cargo-update) - A cargo subcommand for checking and applying updates to installed executables (today)
+- [beucismis/awesome-fetch](https://github.com/beucismis/awesome-fetch) - Command-line fetch tools for system/other information (today)
+- [ernestwisniewski/kbin](https://github.com/ernestwisniewski/kbin) - A reddit-like content aggregator and micro-blogging platform for the fediverse. (today)
 
 ## 🔨 Latest Pull Requests I published
 
