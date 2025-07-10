@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [empytime](https://github.com/empytime)
 - [Tayondw](https://github.com/Tayondw)
 - [JcoderPaul](https://github.com/JcoderPaul)
 - [eddysub](https://github.com/eddysub)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Shresth72](https://github.com/Shresth72)
 - [franklinsrr](https://github.com/franklinsrr)
 - [ElieteCampos](https://github.com/ElieteCampos)
-- [angeelmdev](https://github.com/angeelmdev)
 
 ## ⭐ Recent stars
 
+- [ajnsit/purescript-companies](https://github.com/ajnsit/purescript-companies) - Community curated list of companies that use Purescript (today)
+- [ajnsit/concur](https://github.com/ajnsit/concur) - An unusual Web UI Framework for Haskell (today)
 - [puti94/react-native-puti-pay](https://github.com/puti94/react-native-puti-pay) - 基于 React Native 的微信支付，支付宝支付插件 (today)
 - [alexlafroscia/vite-plugin-handlebars](https://github.com/alexlafroscia/vite-plugin-handlebars) - Vite support for Handlebars (today)
 - [junghyeonsu/awesome-dev-activity-review](https://github.com/junghyeonsu/awesome-dev-activity-review) - 📝 세상의 모든 개발 관련 구직 활동 리뷰 모음 (today)
-- [benjaminwan/OcrLiteOnnx](https://github.com/benjaminwan/OcrLiteOnnx) - chineseocr lite onnx，超轻量级中文ocr demo，支持onnx推理 ( dbnet+crnn+anglenet) (today)
-- [benjaminwan/ChineseTtsTflite](https://github.com/benjaminwan/ChineseTtsTflite) - Android Chinese TTS Engine Base On Tensorflow TTS , use for TfLite Models Test。安卓离线中文TTS引擎，在TensorflowTTS基础上开发，用于TfLite模型测试。 (today)
 
 ## 🔨 Latest Pull Requests I published
 
