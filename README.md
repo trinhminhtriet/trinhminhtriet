@@ -46,6 +46,9 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Lyne6666](https://github.com/Lyne6666)
+- [sagarpatel288](https://github.com/sagarpatel288)
+- [ArnoldT01](https://github.com/ArnoldT01)
 - [JAYACHARANAMBATI](https://github.com/JAYACHARANAMBATI)
 - [Tayondw](https://github.com/Tayondw)
 - [nullCat](https://github.com/nullCat)
@@ -53,9 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [iragena25egide](https://github.com/iragena25egide)
 - [SeanStothers](https://github.com/SeanStothers)
 - [micheldosreis](https://github.com/micheldosreis)
-- [heinodendal](https://github.com/heinodendal)
-- [Raouf-boukhobza](https://github.com/Raouf-boukhobza)
-- [HadirouTamdamba](https://github.com/HadirouTamdamba)
 
 ## ⭐ Recent stars
 
