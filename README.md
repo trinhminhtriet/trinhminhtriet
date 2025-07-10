@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [KpwnZ/Def1nit3lyN0tAJa1lbr3akTool](https://github.com/KpwnZ/Def1nit3lyN0tAJa1lbr3akTool) - A jailbreak tool for all arm64 devices on iOS 16.0 to iOS 16.6.1 (today)
-- [pcccccc/SimpleLiveTVOS](https://github.com/pcccccc/SimpleLiveTVOS) (today)
-- [Jerry23011/VirusTotal-macOS](https://github.com/Jerry23011/VirusTotal-macOS) - An elegant VirusTotal client built with SwiftUI (today)
-- [Panl/Gank.lu](https://github.com/Panl/Gank.lu) - Gank.io client for iOS (today)
-- [Panl/AICat](https://github.com/Panl/AICat) - Multiplatform Client for ChatGPT using SwiftUI,  support iOS, iPadOS & MacOS (today)
+- [benjaminwan/OcrLiteOnnx](https://github.com/benjaminwan/OcrLiteOnnx) - chineseocr lite onnx，超轻量级中文ocr demo，支持onnx推理 ( dbnet+crnn+anglenet) (today)
+- [benjaminwan/ChineseTtsTflite](https://github.com/benjaminwan/ChineseTtsTflite) - Android Chinese TTS Engine Base On Tensorflow TTS , use for TfLite Models Test。安卓离线中文TTS引擎，在TensorflowTTS基础上开发，用于TfLite模型测试。 (today)
+- [leonardokl/react-palette](https://github.com/leonardokl/react-palette) - Extract prominent colors from an image (today)
+- [rensbreur/SwiftTUI](https://github.com/rensbreur/SwiftTUI) - SwiftUI for terminal applications (today)
+- [flexih/Snake](https://github.com/flexih/Snake) - Yet Another Mach-O Unused ObjC Selector/Class/Protocol Detector. 检测ObjC无用方法、无用类、无用协议。 (today)
 
 ## 🔨 Latest Pull Requests I published
 
