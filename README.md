@@ -33,8 +33,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👷 Check out what I'm currently working on
 
-- [trinhminhtriet/rmrfrs](https://github.com/trinhminhtriet/rmrfrs) - 🧹 rmrfrs is a powerful filesystem cleaning tool designed to optimize storage by identifying and removing unnecessary files within known project structures. (today)
-- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (today)
+- [trinhminhtriet/rmrfrs](https://github.com/trinhminhtriet/rmrfrs) - 🧹 rmrfrs is a powerful filesystem cleaning tool designed to optimize storage by identifying and removing unnecessary files within known project structures. (1 day ago)
+- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (1 day ago)
 - [trinhminhtriet/spiko](https://github.com/trinhminhtriet/spiko) - 🚀 Spiko is a fast, Rust-based load testing tool with a beautiful TUI for real-time insights. (1 week ago)
 - [trinhminhtriet/blast](https://github.com/trinhminhtriet/blast) - 🚀 Blast: A powerful, lightweight HTTP load generator for stress testing and benchmarking web applications with ease. (2 weeks ago)
 - [trinhminhtriet/netcatr](https://github.com/trinhminhtriet/netcatr) - 📡 netcat: A cross-platform port listener and reverse shell application designed for ease of use, providing seamless network connectivity. (1 month ago)
@@ -46,24 +46,24 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [youssefm13](https://github.com/youssefm13)
+- [iragena25egide](https://github.com/iragena25egide)
+- [SeanStothers](https://github.com/SeanStothers)
+- [micheldosreis](https://github.com/micheldosreis)
 - [heinodendal](https://github.com/heinodendal)
 - [Raouf-boukhobza](https://github.com/Raouf-boukhobza)
 - [HadirouTamdamba](https://github.com/HadirouTamdamba)
 - [ridhwanrazaliwork](https://github.com/ridhwanrazaliwork)
 - [shahrivar137](https://github.com/shahrivar137)
 - [Daksh021](https://github.com/Daksh021)
-- [Mindaugas3](https://github.com/Mindaugas3)
-- [DevvObiero](https://github.com/DevvObiero)
-- [mohdsyam73](https://github.com/mohdsyam73)
-- [COREayan](https://github.com/COREayan)
 
 ## ⭐ Recent stars
 
-- [ayush221b/flutter-handbook](https://github.com/ayush221b/flutter-handbook) - A go-to handbook with a curated set of resources to help the participants of any Flutter Hackathon.. (today)
-- [VictorUvarov/provider_architecture_template](https://github.com/VictorUvarov/provider_architecture_template) - A production ready flutter application template for the provider architecture. (today)
-- [newbalancem5/flutter_info](https://github.com/newbalancem5/flutter_info) - 📚Сборник русскоязычной информации по Flutter (today)
-- [xudjx/webprogress](https://github.com/xudjx/webprogress) - Android WebView独立进程解决方案，并包含Web页面和Native交互解决方案 (today)
-- [2dxgujun/AndroidTagGroup](https://github.com/2dxgujun/AndroidTagGroup) - :four_leaf_clover:A beautiful android tag group widget. (today)
+- [ayush221b/flutter-handbook](https://github.com/ayush221b/flutter-handbook) - A go-to handbook with a curated set of resources to help the participants of any Flutter Hackathon.. (1 day ago)
+- [VictorUvarov/provider_architecture_template](https://github.com/VictorUvarov/provider_architecture_template) - A production ready flutter application template for the provider architecture. (1 day ago)
+- [newbalancem5/flutter_info](https://github.com/newbalancem5/flutter_info) - 📚Сборник русскоязычной информации по Flutter (1 day ago)
+- [xudjx/webprogress](https://github.com/xudjx/webprogress) - Android WebView独立进程解决方案，并包含Web页面和Native交互解决方案 (1 day ago)
+- [2dxgujun/AndroidTagGroup](https://github.com/2dxgujun/AndroidTagGroup) - :four_leaf_clover:A beautiful android tag group widget. (1 day ago)
 
 ## 🔨 Latest Pull Requests I published
 
