@@ -46,24 +46,24 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [ken-rolex](https://github.com/ken-rolex)
+- [Wamiquemashhadi03](https://github.com/Wamiquemashhadi03)
+- [Caspering](https://github.com/Caspering)
+- [xyzoptooo](https://github.com/xyzoptooo)
 - [empytime](https://github.com/empytime)
 - [Tayondw](https://github.com/Tayondw)
 - [JcoderPaul](https://github.com/JcoderPaul)
 - [eddysub](https://github.com/eddysub)
 - [moixllik](https://github.com/moixllik)
 - [michael1342](https://github.com/michael1342)
-- [Pojashri](https://github.com/Pojashri)
-- [Shresth72](https://github.com/Shresth72)
-- [franklinsrr](https://github.com/franklinsrr)
-- [ElieteCampos](https://github.com/ElieteCampos)
 
 ## ⭐ Recent stars
 
-- [ajnsit/purescript-companies](https://github.com/ajnsit/purescript-companies) - Community curated list of companies that use Purescript (today)
-- [ajnsit/concur](https://github.com/ajnsit/concur) - An unusual Web UI Framework for Haskell (today)
-- [puti94/react-native-puti-pay](https://github.com/puti94/react-native-puti-pay) - 基于 React Native 的微信支付，支付宝支付插件 (today)
-- [alexlafroscia/vite-plugin-handlebars](https://github.com/alexlafroscia/vite-plugin-handlebars) - Vite support for Handlebars (today)
-- [junghyeonsu/awesome-dev-activity-review](https://github.com/junghyeonsu/awesome-dev-activity-review) - 📝 세상의 모든 개발 관련 구직 활동 리뷰 모음 (today)
+- [lionello/fart-it](https://github.com/lionello/fart-it) - Find And Replace Text command line utility. New & improved version of the well-known grep command, with advanced features such as: case-adaption of the replace string; find (& replace) in filenames, auto CVS edit. (today)
+- [lionello/onedrive-cli](https://github.com/lionello/onedrive-cli) - Command line interface for OneDrive (today)
+- [nagygergo/jetbrains-toolbox-install](https://github.com/nagygergo/jetbrains-toolbox-install) - Installer for jetbrains toolbox (today)
+- [haren724/wallpaper-player-mac](https://github.com/haren724/wallpaper-player-mac) - A powerful open source live wallpaper app for mac (today)
+- [huanglins/VHLNavigation](https://github.com/huanglins/VHLNavigation) - 导航栏切换之颜色过渡切换，导航栏背景图片切换，微信红包两种不同颜色切换，导航栏透明度，有无导航栏切换 (today)
 
 ## 🔨 Latest Pull Requests I published
 
