@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [priyakalashi](https://github.com/priyakalashi)
 - [AhmedMehanna1](https://github.com/AhmedMehanna1)
 - [addid-cloud](https://github.com/addid-cloud)
 - [Lyne6666](https://github.com/Lyne6666)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [nullCat](https://github.com/nullCat)
 - [youssefm13](https://github.com/youssefm13)
 - [iragena25egide](https://github.com/iragena25egide)
-- [SeanStothers](https://github.com/SeanStothers)
 
 ## ⭐ Recent stars
 
+- [gugod/App-perlbrew](https://github.com/gugod/App-perlbrew) - Manage perl installations in your $HOME (today)
+- [orlandov/node-mongodb](https://github.com/orlandov/node-mongodb) - mongodb bindings for node.js (today)
+- [orlandov/node-sqlite](https://github.com/orlandov/node-sqlite) - Asynchronous, non-blocking SQLite3 bindings for Node.js (today)
+- [illnyang/nvlax](https://github.com/illnyang/nvlax) - Future-proof NvENC & NvFBC patcher (Linux/Windows) (today)
 - [guardiora/QuantumultX](https://github.com/guardiora/QuantumultX) - 一个整理各种大佬的圈X脚本~ (today)
-- [djsaunde/lm-snn](https://github.com/djsaunde/lm-snn) - Using spiking neurons and spike-timing-dependent plasticity to classify the MNIST handwritten digits. (today)
-- [vnmabus/dcor](https://github.com/vnmabus/dcor) - Distance correlation and related E-statistics in Python (today)
-- [skbolton/titan](https://github.com/skbolton/titan) - Orlando's one call install (today)
-- [vikjam/mostly-harmless-replication](https://github.com/vikjam/mostly-harmless-replication) - Replication of tables and figures from "Mostly Harmless Econometrics" in Stata, R, Python and Julia.  (today)
 
 ## 🔨 Latest Pull Requests I published
 
