@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Shahana7000](https://github.com/Shahana7000)
 - [yahayaohinoyi](https://github.com/yahayaohinoyi)
 - [michalwiacek](https://github.com/michalwiacek)
 - [sanskaarsingh](https://github.com/sanskaarsingh)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Caspering](https://github.com/Caspering)
 - [xyzoptooo](https://github.com/xyzoptooo)
 - [empytime](https://github.com/empytime)
-- [Tayondw](https://github.com/Tayondw)
 
 ## ⭐ Recent stars
 
