@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [wellguimaraes/actionware](https://github.com/wellguimaraes/actionware) - Redux with less boilerplate, actions statuses and controlled side-effects in a single shot. (today)
-- [A-gambit/CSS-IN-JS-Benchmarks](https://github.com/A-gambit/CSS-IN-JS-Benchmarks) (today)
-- [A-gambit/awesome-telegram-chats](https://github.com/A-gambit/awesome-telegram-chats) (today)
-- [No9/harmon](https://github.com/No9/harmon) - middleware for node-http-proxy to modify the remote website response with trumpet  (today)
-- [xxynet/NCM-Downloader](https://github.com/xxynet/NCM-Downloader) - A powerful NCM Downloader that supports built-in metadata  一个强大的网易云下载工具，支持内嵌元信息（歌曲名，歌手，专辑，歌曲封面） (today)
+- [tyrellshawn/bolt.diy](https://github.com/tyrellshawn/bolt.diy) - Bolt DIY (today)
+- [camwest/react-slot-fill](https://github.com/camwest/react-slot-fill) - Slot & Fill component for merging React subtrees together. Portal on steroids. (today)
+- [zachleat/snow-fall](https://github.com/zachleat/snow-fall) - A web component to add snow to your web site (or to an element on your web site). (today)
+- [zachleat/Humane-Dates](https://github.com/zachleat/Humane-Dates) - Show the difference between a date and now (4 days ago) (today)
+- [zachleat/zachleat.com](https://github.com/zachleat/zachleat.com) - zachleat.com is powered by Eleventy and WebC. (today)
 
 ## 🔨 Latest Pull Requests I published
 
