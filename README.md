@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [tyrellshawn/bolt.diy](https://github.com/tyrellshawn/bolt.diy) - Bolt DIY (today)
-- [camwest/react-slot-fill](https://github.com/camwest/react-slot-fill) - Slot & Fill component for merging React subtrees together. Portal on steroids. (today)
-- [zachleat/snow-fall](https://github.com/zachleat/snow-fall) - A web component to add snow to your web site (or to an element on your web site). (today)
-- [zachleat/Humane-Dates](https://github.com/zachleat/Humane-Dates) - Show the difference between a date and now (4 days ago) (today)
-- [zachleat/zachleat.com](https://github.com/zachleat/zachleat.com) - zachleat.com is powered by Eleventy and WebC. (today)
+- [adamdotdevin/good-repo](https://github.com/adamdotdevin/good-repo) - Preeeeetty, pretty good (today)
+- [kujtimiihoxha/gk](https://github.com/kujtimiihoxha/gk) - Go-Kit Genetator (today)
+- [kujtimiihoxha/kit](https://github.com/kujtimiihoxha/kit) - GoKit CLI  (today)
+- [mbailey/deprec](https://github.com/mbailey/deprec) - master respository for deprec - deployment recipes for capistrano (today)
+- [mbailey/bash-my-aws](https://github.com/mbailey/bash-my-aws) - Bash-my-AWS provides simple but powerful CLI commands for managing AWS resources (today)
 
 ## 🔨 Latest Pull Requests I published
 
