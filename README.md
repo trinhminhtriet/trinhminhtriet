@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [X-T-E-R/GPT-SoVITS-Inference](https://github.com/X-T-E-R/GPT-SoVITS-Inference) - Inference Specialization (today)
-- [X-T-E-R/Uni-TTS](https://github.com/X-T-E-R/Uni-TTS) - 本项目意图在于让使用各类语音合成引擎的方式变得统一，支持多种语音合成引擎适配器，允许直接作为模组使用或启动后端服务 (today)
-- [2lifetop/LightHouse_Automatic_Shutdown](https://github.com/2lifetop/LightHouse_Automatic_Shutdown) - 腾讯云轻量服务流量超出限制自动关机 (today)
-- [2lifetop/Pal-Server-Install](https://github.com/2lifetop/Pal-Server-Install) - 幻兽帕鲁服务端一键安装脚本 (today)
-- [leedo/noembed](https://github.com/leedo/noembed) - oEmbed gateway service with additional non-oEmbed sources (today)
+- [RitterHou/Geisha](https://github.com/RitterHou/Geisha) - Tiny Java Web Framework. (today)
+- [RitterHou/music-163](https://github.com/RitterHou/music-163) - 爬取网易云音乐所有歌曲的评论数 (today)
+- [genkio/spider-less](https://github.com/genkio/spider-less) - Web spider as a service, spider on serverless (today)
+- [youhunwl/TVAPP](https://github.com/youhunwl/TVAPP) -  收集全网 Android TV电视盒子应用，涵盖影视、直播、K歌、工具、游戏等类型，整理优质APK资源，支持便捷下载与自动更新。提供安全验证、分类索引与兼容性标注，助力用户打造家庭影音娱乐中心！              ✅ TVBox/影视仓等影音壳接口配置源。 (today)
+- [alex2wong/mapbox-plugins](https://github.com/alex2wong/mapbox-plugins) - Customized Mapbox :earth_asia: plugins, including game :video_game: control, canvasOverlayer , scene animation. using ES6 (today)
 
 ## 🔨 Latest Pull Requests I published
 
