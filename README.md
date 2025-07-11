@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [michael1342](https://github.com/michael1342)
 - [marufshidiq](https://github.com/marufshidiq)
 - [bigcyy](https://github.com/bigcyy)
 - [Shahana7000](https://github.com/Shahana7000)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [lytro-dev](https://github.com/lytro-dev)
 - [ken-rolex](https://github.com/ken-rolex)
 - [Wamiquemashhadi03](https://github.com/Wamiquemashhadi03)
-- [Caspering](https://github.com/Caspering)
 
 ## ⭐ Recent stars
 
+- [thiagoojack/packettracer-fedora](https://github.com/thiagoojack/packettracer-fedora) - Easily install Cisco Packet Tracer latest version on Fedora. (today)
+- [shikaan/osle](https://github.com/shikaan/osle) - 💾 A tiny and mighty boot sector OS (today)
 - [satan1a/awesome-ios-security-cn](https://github.com/satan1a/awesome-ios-security-cn) - iOS安全资料整理（中文） (today)
 - [satan1a/TheRoadOfSO](https://github.com/satan1a/TheRoadOfSO) - 学习安全运营的记录 | The knowledge base of security operation (today)
 - [satan1a/awesome-cybersecurity-blueteam-cn](https://github.com/satan1a/awesome-cybersecurity-blueteam-cn) - 网络安全 · 攻防对抗 · 蓝队清单，中文版 (today)
-- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 212 stars and 183 forks 🌟 (today)
-- [animelover1984/youtube-dl](https://github.com/animelover1984/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites (today)
 
 ## 🔨 Latest Pull Requests I published
 
