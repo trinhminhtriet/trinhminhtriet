@@ -33,8 +33,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👷 Check out what I'm currently working on
 
-- [trinhminhtriet/rmrfrs](https://github.com/trinhminhtriet/rmrfrs) - 🧹 rmrfrs is a powerful filesystem cleaning tool designed to optimize storage by identifying and removing unnecessary files within known project structures. (1 day ago)
-- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (1 day ago)
+- [trinhminhtriet/rmrfrs](https://github.com/trinhminhtriet/rmrfrs) - 🧹 rmrfrs is a powerful filesystem cleaning tool designed to optimize storage by identifying and removing unnecessary files within known project structures. (2 days ago)
+- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (2 days ago)
 - [trinhminhtriet/spiko](https://github.com/trinhminhtriet/spiko) - 🚀 Spiko is a fast, Rust-based load testing tool with a beautiful TUI for real-time insights. (1 week ago)
 - [trinhminhtriet/blast](https://github.com/trinhminhtriet/blast) - 🚀 Blast: A powerful, lightweight HTTP load generator for stress testing and benchmarking web applications with ease. (2 weeks ago)
 - [trinhminhtriet/netcatr](https://github.com/trinhminhtriet/netcatr) - 📡 netcat: A cross-platform port listener and reverse shell application designed for ease of use, providing seamless network connectivity. (1 month ago)
@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [yahayaohinoyi](https://github.com/yahayaohinoyi)
 - [michalwiacek](https://github.com/michalwiacek)
 - [sanskaarsingh](https://github.com/sanskaarsingh)
 - [lytro-dev](https://github.com/lytro-dev)
@@ -55,18 +56,17 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [xyzoptooo](https://github.com/xyzoptooo)
 - [empytime](https://github.com/empytime)
 - [Tayondw](https://github.com/Tayondw)
-- [JcoderPaul](https://github.com/JcoderPaul)
 
 ## ⭐ Recent stars
 
-- [cdent/gabbi](https://github.com/cdent/gabbi) - Declarative HTTP Testing for Python and anything else (today)
-- [brunoV/throttler](https://github.com/brunoV/throttler) - Control the throughput of function calls and core.async channels (today)
-- [theory/pg-semver](https://github.com/theory/pg-semver) - A semantic version data type for PostgreSQL (today)
-- [theory/pgenv](https://github.com/theory/pgenv) - PostgreSQL binary manager (today)
-- [theory/pgtap](https://github.com/theory/pgtap) - PostgreSQL Unit Testing Suite (today)
+- [X-T-E-R/GPT-SoVITS-Inference](https://github.com/X-T-E-R/GPT-SoVITS-Inference) - Inference Specialization (today)
+- [X-T-E-R/Uni-TTS](https://github.com/X-T-E-R/Uni-TTS) - 本项目意图在于让使用各类语音合成引擎的方式变得统一，支持多种语音合成引擎适配器，允许直接作为模组使用或启动后端服务 (today)
+- [2lifetop/LightHouse_Automatic_Shutdown](https://github.com/2lifetop/LightHouse_Automatic_Shutdown) - 腾讯云轻量服务流量超出限制自动关机 (today)
+- [2lifetop/Pal-Server-Install](https://github.com/2lifetop/Pal-Server-Install) - 幻兽帕鲁服务端一键安装脚本 (today)
+- [leedo/noembed](https://github.com/leedo/noembed) - oEmbed gateway service with additional non-oEmbed sources (today)
 
 ## 🔨 Latest Pull Requests I published
 
-- [Develop](https://github.com/trinhminhtriet/repoctl/pull/17) on [trinhminhtriet/repoctl](https://github.com/trinhminhtriet/repoctl) (1 month ago)
+- [Develop](https://github.com/trinhminhtriet/repoctl/pull/17) on [trinhminhtriet/repoctl](https://github.com/trinhminhtriet/repoctl) (2 months ago)
 - [Develop](https://github.com/trinhminhtriet/scanr/pull/22) on [trinhminhtriet/scanr](https://github.com/trinhminhtriet/scanr) (2 months ago)
 - [Develop](https://github.com/trinhminhtriet/scanr/pull/21) on [trinhminhtriet/scanr](https://github.com/trinhminhtriet/scanr) (2 months ago)
