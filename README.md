@@ -46,6 +46,9 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [abramov-v](https://github.com/abramov-v)
+- [dmitoiu](https://github.com/dmitoiu)
+- [abhijit99-git](https://github.com/abhijit99-git)
 - [michael1342](https://github.com/michael1342)
 - [marufshidiq](https://github.com/marufshidiq)
 - [bigcyy](https://github.com/bigcyy)
@@ -53,9 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [yahayaohinoyi](https://github.com/yahayaohinoyi)
 - [michalwiacek](https://github.com/michalwiacek)
 - [sanskaarsingh](https://github.com/sanskaarsingh)
-- [lytro-dev](https://github.com/lytro-dev)
-- [ken-rolex](https://github.com/ken-rolex)
-- [Wamiquemashhadi03](https://github.com/Wamiquemashhadi03)
 
 ## ⭐ Recent stars
 
