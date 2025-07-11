@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [marufshidiq](https://github.com/marufshidiq)
+- [bigcyy](https://github.com/bigcyy)
 - [Shahana7000](https://github.com/Shahana7000)
 - [yahayaohinoyi](https://github.com/yahayaohinoyi)
 - [michalwiacek](https://github.com/michalwiacek)
@@ -54,16 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [ken-rolex](https://github.com/ken-rolex)
 - [Wamiquemashhadi03](https://github.com/Wamiquemashhadi03)
 - [Caspering](https://github.com/Caspering)
-- [xyzoptooo](https://github.com/xyzoptooo)
-- [empytime](https://github.com/empytime)
 
 ## ⭐ Recent stars
 
+- [jenkinsci/job-dsl-plugin](https://github.com/jenkinsci/job-dsl-plugin) - A Groovy DSL for Jenkins Jobs - Sweeeeet! (today)
+- [jkaupp/tidytuesdays](https://github.com/jkaupp/tidytuesdays) - Entries for tidytuesday (today)
+- [tomwenseleers/export](https://github.com/tomwenseleers/export) - R package for streamlined export of graphs and data tables. (today)
 - [adamdotdevin/good-repo](https://github.com/adamdotdevin/good-repo) - Preeeeetty, pretty good (today)
 - [kujtimiihoxha/gk](https://github.com/kujtimiihoxha/gk) - Go-Kit Genetator (today)
-- [kujtimiihoxha/kit](https://github.com/kujtimiihoxha/kit) - GoKit CLI  (today)
-- [mbailey/deprec](https://github.com/mbailey/deprec) - master respository for deprec - deployment recipes for capistrano (today)
-- [mbailey/bash-my-aws](https://github.com/mbailey/bash-my-aws) - Bash-my-AWS provides simple but powerful CLI commands for managing AWS resources (today)
 
 ## 🔨 Latest Pull Requests I published
 
