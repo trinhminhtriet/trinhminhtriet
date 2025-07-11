@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Tayondw](https://github.com/Tayondw)
 - [greenworld0605](https://github.com/greenworld0605)
 - [LucasHenrique1816](https://github.com/LucasHenrique1816)
 - [vikjam](https://github.com/vikjam)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [sunkarassc71](https://github.com/sunkarassc71)
 - [AnSaki57](https://github.com/AnSaki57)
 - [abramov-v](https://github.com/abramov-v)
-- [dmitoiu](https://github.com/dmitoiu)
 
 ## ⭐ Recent stars
 
