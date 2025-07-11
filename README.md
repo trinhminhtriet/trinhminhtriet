@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [jenkinsci/job-dsl-plugin](https://github.com/jenkinsci/job-dsl-plugin) - A Groovy DSL for Jenkins Jobs - Sweeeeet! (today)
-- [jkaupp/tidytuesdays](https://github.com/jkaupp/tidytuesdays) - Entries for tidytuesday (today)
-- [tomwenseleers/export](https://github.com/tomwenseleers/export) - R package for streamlined export of graphs and data tables. (today)
-- [adamdotdevin/good-repo](https://github.com/adamdotdevin/good-repo) - Preeeeetty, pretty good (today)
-- [kujtimiihoxha/gk](https://github.com/kujtimiihoxha/gk) - Go-Kit Genetator (today)
+- [satan1a/awesome-ios-security-cn](https://github.com/satan1a/awesome-ios-security-cn) - iOS安全资料整理（中文） (today)
+- [satan1a/TheRoadOfSO](https://github.com/satan1a/TheRoadOfSO) - 学习安全运营的记录 | The knowledge base of security operation (today)
+- [satan1a/awesome-cybersecurity-blueteam-cn](https://github.com/satan1a/awesome-cybersecurity-blueteam-cn) - 网络安全 · 攻防对抗 · 蓝队清单，中文版 (today)
+- [ouuan/ouuan](https://github.com/ouuan/ouuan) - A profile README with 212 stars and 183 forks 🌟 (today)
+- [animelover1984/youtube-dl](https://github.com/animelover1984/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites (today)
 
 ## 🔨 Latest Pull Requests I published
 
