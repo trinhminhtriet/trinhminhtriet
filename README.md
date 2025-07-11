@@ -46,6 +46,9 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [vikjam](https://github.com/vikjam)
+- [tomeichlersmith](https://github.com/tomeichlersmith)
+- [ATM-Sakayet-Hossain](https://github.com/ATM-Sakayet-Hossain)
 - [isaaclonco](https://github.com/isaaclonco)
 - [sunkarassc71](https://github.com/sunkarassc71)
 - [AnSaki57](https://github.com/AnSaki57)
@@ -53,9 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [dmitoiu](https://github.com/dmitoiu)
 - [abhijit99-git](https://github.com/abhijit99-git)
 - [michael1342](https://github.com/michael1342)
-- [marufshidiq](https://github.com/marufshidiq)
-- [bigcyy](https://github.com/bigcyy)
-- [Shahana7000](https://github.com/Shahana7000)
 
 ## ⭐ Recent stars
 
