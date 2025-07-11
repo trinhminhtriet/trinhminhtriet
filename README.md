@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [isaaclonco](https://github.com/isaaclonco)
+- [sunkarassc71](https://github.com/sunkarassc71)
 - [AnSaki57](https://github.com/AnSaki57)
 - [abramov-v](https://github.com/abramov-v)
 - [dmitoiu](https://github.com/dmitoiu)
@@ -54,8 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [marufshidiq](https://github.com/marufshidiq)
 - [bigcyy](https://github.com/bigcyy)
 - [Shahana7000](https://github.com/Shahana7000)
-- [yahayaohinoyi](https://github.com/yahayaohinoyi)
-- [michalwiacek](https://github.com/michalwiacek)
 
 ## ⭐ Recent stars
 
