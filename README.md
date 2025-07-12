@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Ekisa02](https://github.com/Ekisa02)
 - [siddhantshukla108](https://github.com/siddhantshukla108)
 - [octa-faust-27](https://github.com/octa-faust-27)
 - [Tayondw](https://github.com/Tayondw)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [tomeichlersmith](https://github.com/tomeichlersmith)
 - [ATM-Sakayet-Hossain](https://github.com/ATM-Sakayet-Hossain)
 - [isaaclonco](https://github.com/isaaclonco)
-- [sunkarassc71](https://github.com/sunkarassc71)
 
 ## ⭐ Recent stars
 
-- [csBlueChip/FlipperZero_plugin_howto](https://github.com/csBlueChip/FlipperZero_plugin_howto) - A simple plugin for the FlipperZero written as a tutorial example [ie. excessive documentation & error handling] (today)
-- [thiagoojack/packettracer-fedora](https://github.com/thiagoojack/packettracer-fedora) - Easily install Cisco Packet Tracer latest version on Fedora. (1 day ago)
-- [shikaan/osle](https://github.com/shikaan/osle) - 💾 A tiny and mighty boot sector OS (1 day ago)
-- [satan1a/awesome-ios-security-cn](https://github.com/satan1a/awesome-ios-security-cn) - iOS安全资料整理（中文） (1 day ago)
-- [satan1a/TheRoadOfSO](https://github.com/satan1a/TheRoadOfSO) - 学习安全运营的记录 | The knowledge base of security operation (1 day ago)
+- [Alia5/lovelace-expander-card](https://github.com/Alia5/lovelace-expander-card) - Expander card for HomeAssistant (today)
+- [Alia5/GlosSI](https://github.com/Alia5/GlosSI) - Tool for using Steam-Input controller rebinding at a system level alongside a global overlay (today)
+- [cheyao/icepi-zero](https://github.com/cheyao/icepi-zero) - ECP5 Development Board in the Raspberry Pi Zero form (today)
+- [lovemefan/SenseVoice.cpp](https://github.com/lovemefan/SenseVoice.cpp) - Port of Funasr's Sense-voice model in C/C++ (today)
+- [weirdseed/Vits-Android-ncnn](https://github.com/weirdseed/Vits-Android-ncnn) - vits Android部署 (today)
 
 ## 🔨 Latest Pull Requests I published
 
