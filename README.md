@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [Drew-Alleman/powershell-backdoor-generator](https://github.com/Drew-Alleman/powershell-backdoor-generator) - Reverse backdoor written in PowerShell and obfuscated with Python. It generates payloads for popular hacking devices like Flipper Zero and Hak5 USB Rubber Ducky, and changes its signature after every build to help avoid AV. (today)
+- [Drew-Alleman/DataSurgeon](https://github.com/Drew-Alleman/DataSurgeon) -  Quickly Extracts IP's, Email Addresses, Hashes, Files, Credit Cards, Social Security Numbers and a lot More From Text (today)
 - [Dam998/shopify-monitor](https://github.com/Dam998/shopify-monitor) - Support proxies, keywords, multiple webhook url, avoid ban and more - current version: 1.5 (today)
 - [davanstrien/awesome-synthetic-datasets](https://github.com/davanstrien/awesome-synthetic-datasets) - awesome synthetic (text) datasets (today)
 - [jyakaranda/ndt_map](https://github.com/jyakaranda/ndt_map) - SLAM package using NDT registration library of Autoware with loop-closure detection (odometry based) referenced from lego_loam. (today)
-- [Sumandora/remove-refusals-with-transformers](https://github.com/Sumandora/remove-refusals-with-transformers) - Implements harmful/harmless refusal removal using pure HF Transformers (today)
-- [Dark-Alex-17/managarr](https://github.com/Dark-Alex-17/managarr) - A TUI and CLI for managing *arr servers. Built with 🤎 in Rust (today)
 
 ## 🔨 Latest Pull Requests I published
 
