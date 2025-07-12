@@ -33,8 +33,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👷 Check out what I'm currently working on
 
-- [trinhminhtriet/rmrfrs](https://github.com/trinhminhtriet/rmrfrs) - 🧹 rmrfrs is a powerful filesystem cleaning tool designed to optimize storage by identifying and removing unnecessary files within known project structures. (2 days ago)
-- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (2 days ago)
+- [trinhminhtriet/rmrfrs](https://github.com/trinhminhtriet/rmrfrs) - 🧹 rmrfrs is a powerful filesystem cleaning tool designed to optimize storage by identifying and removing unnecessary files within known project structures. (3 days ago)
+- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (3 days ago)
 - [trinhminhtriet/spiko](https://github.com/trinhminhtriet/spiko) - 🚀 Spiko is a fast, Rust-based load testing tool with a beautiful TUI for real-time insights. (1 week ago)
 - [trinhminhtriet/blast](https://github.com/trinhminhtriet/blast) - 🚀 Blast: A powerful, lightweight HTTP load generator for stress testing and benchmarking web applications with ease. (2 weeks ago)
 - [trinhminhtriet/netcatr](https://github.com/trinhminhtriet/netcatr) - 📡 netcat: A cross-platform port listener and reverse shell application designed for ease of use, providing seamless network connectivity. (1 month ago)
@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [siddhantshukla108](https://github.com/siddhantshukla108)
 - [octa-faust-27](https://github.com/octa-faust-27)
 - [Tayondw](https://github.com/Tayondw)
 - [greenworld0605](https://github.com/greenworld0605)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [ATM-Sakayet-Hossain](https://github.com/ATM-Sakayet-Hossain)
 - [isaaclonco](https://github.com/isaaclonco)
 - [sunkarassc71](https://github.com/sunkarassc71)
-- [AnSaki57](https://github.com/AnSaki57)
 
 ## ⭐ Recent stars
 
-- [thiagoojack/packettracer-fedora](https://github.com/thiagoojack/packettracer-fedora) - Easily install Cisco Packet Tracer latest version on Fedora. (today)
-- [shikaan/osle](https://github.com/shikaan/osle) - 💾 A tiny and mighty boot sector OS (today)
-- [satan1a/awesome-ios-security-cn](https://github.com/satan1a/awesome-ios-security-cn) - iOS安全资料整理（中文） (today)
-- [satan1a/TheRoadOfSO](https://github.com/satan1a/TheRoadOfSO) - 学习安全运营的记录 | The knowledge base of security operation (today)
-- [satan1a/awesome-cybersecurity-blueteam-cn](https://github.com/satan1a/awesome-cybersecurity-blueteam-cn) - 网络安全 · 攻防对抗 · 蓝队清单，中文版 (today)
+- [thiagoojack/packettracer-fedora](https://github.com/thiagoojack/packettracer-fedora) - Easily install Cisco Packet Tracer latest version on Fedora. (1 day ago)
+- [shikaan/osle](https://github.com/shikaan/osle) - 💾 A tiny and mighty boot sector OS (1 day ago)
+- [satan1a/awesome-ios-security-cn](https://github.com/satan1a/awesome-ios-security-cn) - iOS安全资料整理（中文） (1 day ago)
+- [satan1a/TheRoadOfSO](https://github.com/satan1a/TheRoadOfSO) - 学习安全运营的记录 | The knowledge base of security operation (1 day ago)
+- [satan1a/awesome-cybersecurity-blueteam-cn](https://github.com/satan1a/awesome-cybersecurity-blueteam-cn) - 网络安全 · 攻防对抗 · 蓝队清单，中文版 (1 day ago)
 
 ## 🔨 Latest Pull Requests I published
 
