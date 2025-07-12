@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Aroob-Aziz](https://github.com/Aroob-Aziz)
+- [NCirit](https://github.com/NCirit)
 - [ThePelumiSamuel](https://github.com/ThePelumiSamuel)
 - [Indicaza](https://github.com/Indicaza)
 - [VIDAKHOSHPEY22](https://github.com/VIDAKHOSHPEY22)
@@ -54,8 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [kesava-projects](https://github.com/kesava-projects)
 - [Ekisa02](https://github.com/Ekisa02)
 - [siddhantshukla108](https://github.com/siddhantshukla108)
-- [octa-faust-27](https://github.com/octa-faust-27)
-- [greenworld0605](https://github.com/greenworld0605)
 
 ## ⭐ Recent stars
 
