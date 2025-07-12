@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [Dam998/shopify-monitor](https://github.com/Dam998/shopify-monitor) - Support proxies, keywords, multiple webhook url, avoid ban and more - current version: 1.5 (today)
+- [davanstrien/awesome-synthetic-datasets](https://github.com/davanstrien/awesome-synthetic-datasets) - awesome synthetic (text) datasets (today)
+- [jyakaranda/ndt_map](https://github.com/jyakaranda/ndt_map) - SLAM package using NDT registration library of Autoware with loop-closure detection (odometry based) referenced from lego_loam. (today)
+- [Sumandora/remove-refusals-with-transformers](https://github.com/Sumandora/remove-refusals-with-transformers) - Implements harmful/harmless refusal removal using pure HF Transformers (today)
 - [Dark-Alex-17/managarr](https://github.com/Dark-Alex-17/managarr) - A TUI and CLI for managing *arr servers. Built with 🤎 in Rust (today)
-- [Xiphe/remix-island](https://github.com/Xiphe/remix-island) - utils to render remix into a dom-node instead of the whole document (today)
-- [TimPietrusky/background-clip-text-polyfill](https://github.com/TimPietrusky/background-clip-text-polyfill) - A SVG polyfill for -webkit-background-clip: text (today)
-- [TimPietrusky/KudosPlease](https://github.com/TimPietrusky/KudosPlease) - A simple Kudos widget with no dependencies. And it's free.  (today)
-- [TimPietrusky/weloveiconfonts](https://github.com/TimPietrusky/weloveiconfonts) - This is like Google Web Fonts, but for Open Source Icon Fonts. Hurray! (today)
 
 ## 🔨 Latest Pull Requests I published
 
