@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [csBlueChip/FlipperZero_plugin_howto](https://github.com/csBlueChip/FlipperZero_plugin_howto) - A simple plugin for the FlipperZero written as a tutorial example [ie. excessive documentation & error handling] (today)
 - [thiagoojack/packettracer-fedora](https://github.com/thiagoojack/packettracer-fedora) - Easily install Cisco Packet Tracer latest version on Fedora. (1 day ago)
 - [shikaan/osle](https://github.com/shikaan/osle) - 💾 A tiny and mighty boot sector OS (1 day ago)
 - [satan1a/awesome-ios-security-cn](https://github.com/satan1a/awesome-ios-security-cn) - iOS安全资料整理（中文） (1 day ago)
 - [satan1a/TheRoadOfSO](https://github.com/satan1a/TheRoadOfSO) - 学习安全运营的记录 | The knowledge base of security operation (1 day ago)
-- [satan1a/awesome-cybersecurity-blueteam-cn](https://github.com/satan1a/awesome-cybersecurity-blueteam-cn) - 网络安全 · 攻防对抗 · 蓝队清单，中文版 (1 day ago)
 
 ## 🔨 Latest Pull Requests I published
 
