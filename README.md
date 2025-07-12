@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [meegta](https://github.com/meegta)
 - [kesava-projects](https://github.com/kesava-projects)
 - [Ekisa02](https://github.com/Ekisa02)
 - [siddhantshukla108](https://github.com/siddhantshukla108)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [LucasHenrique1816](https://github.com/LucasHenrique1816)
 - [vikjam](https://github.com/vikjam)
 - [tomeichlersmith](https://github.com/tomeichlersmith)
-- [ATM-Sakayet-Hossain](https://github.com/ATM-Sakayet-Hossain)
 
 ## ⭐ Recent stars
 
