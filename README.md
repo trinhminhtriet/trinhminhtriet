@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [Alia5/lovelace-expander-card](https://github.com/Alia5/lovelace-expander-card) - Expander card for HomeAssistant (today)
-- [Alia5/GlosSI](https://github.com/Alia5/GlosSI) - Tool for using Steam-Input controller rebinding at a system level alongside a global overlay (today)
-- [cheyao/icepi-zero](https://github.com/cheyao/icepi-zero) - ECP5 Development Board in the Raspberry Pi Zero form (today)
-- [lovemefan/SenseVoice.cpp](https://github.com/lovemefan/SenseVoice.cpp) - Port of Funasr's Sense-voice model in C/C++ (today)
-- [weirdseed/Vits-Android-ncnn](https://github.com/weirdseed/Vits-Android-ncnn) - vits Android部署 (today)
+- [Dark-Alex-17/managarr](https://github.com/Dark-Alex-17/managarr) - A TUI and CLI for managing *arr servers. Built with 🤎 in Rust (today)
+- [Xiphe/remix-island](https://github.com/Xiphe/remix-island) - utils to render remix into a dom-node instead of the whole document (today)
+- [TimPietrusky/background-clip-text-polyfill](https://github.com/TimPietrusky/background-clip-text-polyfill) - A SVG polyfill for -webkit-background-clip: text (today)
+- [TimPietrusky/KudosPlease](https://github.com/TimPietrusky/KudosPlease) - A simple Kudos widget with no dependencies. And it's free.  (today)
+- [TimPietrusky/weloveiconfonts](https://github.com/TimPietrusky/weloveiconfonts) - This is like Google Web Fonts, but for Open Source Icon Fonts. Hurray! (today)
 
 ## 🔨 Latest Pull Requests I published
 
