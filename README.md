@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [johnlockejrr](https://github.com/johnlockejrr)
 - [patrick1904-s](https://github.com/patrick1904-s)
 - [codejoetheduke](https://github.com/codejoetheduke)
 - [692leaf](https://github.com/692leaf)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [BadRat-in](https://github.com/BadRat-in)
 - [Aroob-Aziz](https://github.com/Aroob-Aziz)
 - [NCirit](https://github.com/NCirit)
-- [stackbypelly](https://github.com/stackbypelly)
 
 ## ⭐ Recent stars
 
