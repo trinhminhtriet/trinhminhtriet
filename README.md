@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [qdsang/lv_gui_builder](https://github.com/qdsang/lv_gui_builder) - Drag end drop GUI designer for LVGL Creator editor (today)
+- [dantezhao/data-warehouse](https://github.com/dantezhao/data-warehouse) - The book of data warehouse (today)
+- [3c/share](https://github.com/3c/share) - share something (today)
 - [Drew-Alleman/powershell-backdoor-generator](https://github.com/Drew-Alleman/powershell-backdoor-generator) - Reverse backdoor written in PowerShell and obfuscated with Python. It generates payloads for popular hacking devices like Flipper Zero and Hak5 USB Rubber Ducky, and changes its signature after every build to help avoid AV. (1 day ago)
 - [Drew-Alleman/DataSurgeon](https://github.com/Drew-Alleman/DataSurgeon) -  Quickly Extracts IP's, Email Addresses, Hashes, Files, Credit Cards, Social Security Numbers and a lot More From Text (1 day ago)
-- [Dam998/shopify-monitor](https://github.com/Dam998/shopify-monitor) - Support proxies, keywords, multiple webhook url, avoid ban and more - current version: 1.5 (1 day ago)
-- [davanstrien/awesome-synthetic-datasets](https://github.com/davanstrien/awesome-synthetic-datasets) - awesome synthetic (text) datasets (1 day ago)
-- [jyakaranda/ndt_map](https://github.com/jyakaranda/ndt_map) - SLAM package using NDT registration library of Autoware with loop-closure detection (odometry based) referenced from lego_loam. (1 day ago)
 
 ## 🔨 Latest Pull Requests I published
 
