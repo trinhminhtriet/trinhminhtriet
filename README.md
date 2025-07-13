@@ -33,10 +33,10 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👷 Check out what I'm currently working on
 
-- [trinhminhtriet/rmrfrs](https://github.com/trinhminhtriet/rmrfrs) - 🧹 rmrfrs is a powerful filesystem cleaning tool designed to optimize storage by identifying and removing unnecessary files within known project structures. (3 days ago)
-- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (3 days ago)
+- [trinhminhtriet/rmrfrs](https://github.com/trinhminhtriet/rmrfrs) - 🧹 rmrfrs is a powerful filesystem cleaning tool designed to optimize storage by identifying and removing unnecessary files within known project structures. (4 days ago)
+- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (4 days ago)
 - [trinhminhtriet/spiko](https://github.com/trinhminhtriet/spiko) - 🚀 Spiko is a fast, Rust-based load testing tool with a beautiful TUI for real-time insights. (1 week ago)
-- [trinhminhtriet/blast](https://github.com/trinhminhtriet/blast) - 🚀 Blast: A powerful, lightweight HTTP load generator for stress testing and benchmarking web applications with ease. (2 weeks ago)
+- [trinhminhtriet/blast](https://github.com/trinhminhtriet/blast) - 🚀 Blast: A powerful, lightweight HTTP load generator for stress testing and benchmarking web applications with ease. (3 weeks ago)
 - [trinhminhtriet/netcatr](https://github.com/trinhminhtriet/netcatr) - 📡 netcat: A cross-platform port listener and reverse shell application designed for ease of use, providing seamless network connectivity. (1 month ago)
 - [trinhminhtriet/visyo](https://github.com/trinhminhtriet/visyo) - Visyo — ✨ A fast, minimal, and themeable CLI tool that displays visual system output across platforms. (1 month ago)
 - [trinhminhtriet/pingy](https://github.com/trinhminhtriet/pingy) - ⚡ Pingy: A fast, concurrent Rust-based ping tool with real-time updates & visual charts! 📊🚀 (1 month ago)
@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [BadRat-in](https://github.com/BadRat-in)
 - [Aroob-Aziz](https://github.com/Aroob-Aziz)
 - [NCirit](https://github.com/NCirit)
 - [ThePelumiSamuel](https://github.com/ThePelumiSamuel)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [meegta](https://github.com/meegta)
 - [kesava-projects](https://github.com/kesava-projects)
 - [Ekisa02](https://github.com/Ekisa02)
-- [siddhantshukla108](https://github.com/siddhantshukla108)
 
 ## ⭐ Recent stars
 
-- [Drew-Alleman/powershell-backdoor-generator](https://github.com/Drew-Alleman/powershell-backdoor-generator) - Reverse backdoor written in PowerShell and obfuscated with Python. It generates payloads for popular hacking devices like Flipper Zero and Hak5 USB Rubber Ducky, and changes its signature after every build to help avoid AV. (today)
-- [Drew-Alleman/DataSurgeon](https://github.com/Drew-Alleman/DataSurgeon) -  Quickly Extracts IP's, Email Addresses, Hashes, Files, Credit Cards, Social Security Numbers and a lot More From Text (today)
-- [Dam998/shopify-monitor](https://github.com/Dam998/shopify-monitor) - Support proxies, keywords, multiple webhook url, avoid ban and more - current version: 1.5 (today)
-- [davanstrien/awesome-synthetic-datasets](https://github.com/davanstrien/awesome-synthetic-datasets) - awesome synthetic (text) datasets (today)
-- [jyakaranda/ndt_map](https://github.com/jyakaranda/ndt_map) - SLAM package using NDT registration library of Autoware with loop-closure detection (odometry based) referenced from lego_loam. (today)
+- [Drew-Alleman/powershell-backdoor-generator](https://github.com/Drew-Alleman/powershell-backdoor-generator) - Reverse backdoor written in PowerShell and obfuscated with Python. It generates payloads for popular hacking devices like Flipper Zero and Hak5 USB Rubber Ducky, and changes its signature after every build to help avoid AV. (1 day ago)
+- [Drew-Alleman/DataSurgeon](https://github.com/Drew-Alleman/DataSurgeon) -  Quickly Extracts IP's, Email Addresses, Hashes, Files, Credit Cards, Social Security Numbers and a lot More From Text (1 day ago)
+- [Dam998/shopify-monitor](https://github.com/Dam998/shopify-monitor) - Support proxies, keywords, multiple webhook url, avoid ban and more - current version: 1.5 (1 day ago)
+- [davanstrien/awesome-synthetic-datasets](https://github.com/davanstrien/awesome-synthetic-datasets) - awesome synthetic (text) datasets (1 day ago)
+- [jyakaranda/ndt_map](https://github.com/jyakaranda/ndt_map) - SLAM package using NDT registration library of Autoware with loop-closure detection (odometry based) referenced from lego_loam. (1 day ago)
 
 ## 🔨 Latest Pull Requests I published
 
