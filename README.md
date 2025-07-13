@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [MOBIN-F/Thread](https://github.com/MOBIN-F/Thread) - Java多线程核心技术 (today)
-- [bethunebtj/datasource_architecture](https://github.com/bethunebtj/datasource_architecture) - 追源索骥-flink (today)
-- [wangzzu/awesome](https://github.com/wangzzu/awesome) - 不积硅步，无以至千里 (today)
-- [fabiang/xmpp](https://github.com/fabiang/xmpp) - Library for XMPP protocol connections (Jabber) for PHP (today)
-- [Stream29/ProxyAsLocalModel](https://github.com/Stream29/ProxyAsLocalModel) - Proxy remote LLM API as Ollama and LM Studio, for using them in JetBrains AI Assistant (today)
+- [buntine/barcoders](https://github.com/buntine/barcoders) - A barcode encoding library for the Rust programming language (today)
+- [buntine/discogs](https://github.com/buntine/discogs) - A Ruby wrapper of the Discogs.com API (today)
+- [buntine/SwervinMervin](https://github.com/buntine/SwervinMervin) - A truly radical homage to 16-bit racing games. (today)
+- [firdaus/cadence-python](https://github.com/firdaus/cadence-python) - Python framework for Cadence Workflow Service (today)
+- [Boddlnagg/midir](https://github.com/Boddlnagg/midir) - Cross-platform realtime MIDI processing in Rust. (today)
 
 ## 🔨 Latest Pull Requests I published
 
