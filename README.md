@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [codejoetheduke](https://github.com/codejoetheduke)
 - [692leaf](https://github.com/692leaf)
 - [Svetlozarko](https://github.com/Svetlozarko)
 - [imlava](https://github.com/imlava)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [NCirit](https://github.com/NCirit)
 - [stackbypelly](https://github.com/stackbypelly)
 - [Indicaza](https://github.com/Indicaza)
-- [VIDAKHOSHPEY22](https://github.com/VIDAKHOSHPEY22)
 
 ## ⭐ Recent stars
 
