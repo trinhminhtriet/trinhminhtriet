@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [osmanx8](https://github.com/osmanx8)
 - [mal1k-me](https://github.com/mal1k-me)
 - [JVsVieira](https://github.com/JVsVieira)
 - [dbunt1tled](https://github.com/dbunt1tled)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [shendriks](https://github.com/shendriks)
 - [patrick1904-s](https://github.com/patrick1904-s)
 - [codejoetheduke](https://github.com/codejoetheduke)
-- [692leaf](https://github.com/692leaf)
 
 ## ⭐ Recent stars
 
