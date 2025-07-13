@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [patrick1904-s](https://github.com/patrick1904-s)
 - [codejoetheduke](https://github.com/codejoetheduke)
 - [692leaf](https://github.com/692leaf)
 - [Svetlozarko](https://github.com/Svetlozarko)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Aroob-Aziz](https://github.com/Aroob-Aziz)
 - [NCirit](https://github.com/NCirit)
 - [stackbypelly](https://github.com/stackbypelly)
-- [Indicaza](https://github.com/Indicaza)
 
 ## ⭐ Recent stars
 
+- [revan-zhang/leetcode-javascript](https://github.com/revan-zhang/leetcode-javascript) - :spider::spider: Leetcode Solutions written in javascript (today)
+- [revan-zhang/100-lines-of-code-challenge-js](https://github.com/revan-zhang/100-lines-of-code-challenge-js) - Write Everything in JavaScript under 100 Lines!!!:smiling_imp: (today)
 - [buntine/barcoders](https://github.com/buntine/barcoders) - A barcode encoding library for the Rust programming language (today)
 - [buntine/discogs](https://github.com/buntine/discogs) - A Ruby wrapper of the Discogs.com API (today)
 - [buntine/SwervinMervin](https://github.com/buntine/SwervinMervin) - A truly radical homage to 16-bit racing games. (today)
-- [firdaus/cadence-python](https://github.com/firdaus/cadence-python) - Python framework for Cadence Workflow Service (today)
-- [Boddlnagg/midir](https://github.com/Boddlnagg/midir) - Cross-platform realtime MIDI processing in Rust. (today)
 
 ## 🔨 Latest Pull Requests I published
 
