@@ -53,17 +53,17 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [rahulvarmaviit](https://github.com/rahulvarmaviit)
 - [mateussilva01](https://github.com/mateussilva01)
 - [shendriks](https://github.com/shendriks)
-- [johnlockejrr](https://github.com/johnlockejrr)
 - [patrick1904-s](https://github.com/patrick1904-s)
 - [codejoetheduke](https://github.com/codejoetheduke)
+- [692leaf](https://github.com/692leaf)
 
 ## ⭐ Recent stars
 
+- [sudo-suhas/lint-staged-multi-pkg](https://github.com/sudo-suhas/lint-staged-multi-pkg) - Example repo to demonstrate use of `lint-staged` with multi-pkg projects (today)
+- [sudo-suhas/elastic-builder](https://github.com/sudo-suhas/elastic-builder) - A Node.js implementation of the elasticsearch Query DSL  :construction_worker: (today)
+- [sam-github/vpim](https://github.com/sam-github/vpim) - vCard and iCalendar support for ruby (today)
 - [epoberezkin/fast-json-stable-stringify](https://github.com/epoberezkin/fast-json-stable-stringify) - Deterministic JSON.stringify() - a faster version of @substack's json-stable-strigify without jsonify. (today)
 - [epoberezkin/fast-deep-equal](https://github.com/epoberezkin/fast-deep-equal) - The fastest deep equality check with Date, RegExp and ES6 Map, Set and typed arrays support (today)
-- [raulbehl/100DaysOfRTL](https://github.com/raulbehl/100DaysOfRTL) - 100 Days of RTL (today)
-- [rbakbashev/elfcat](https://github.com/rbakbashev/elfcat) - ELF visualizer. Generates HTML files from ELF binaries. (today)
-- [revan-zhang/leetcode-javascript](https://github.com/revan-zhang/leetcode-javascript) - :spider::spider: Leetcode Solutions written in javascript (today)
 
 ## 🔨 Latest Pull Requests I published
 
