@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [rahulvarmaviit](https://github.com/rahulvarmaviit)
 - [mateussilva01](https://github.com/mateussilva01)
 - [shendriks](https://github.com/shendriks)
 - [johnlockejrr](https://github.com/johnlockejrr)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Svetlozarko](https://github.com/Svetlozarko)
 - [imlava](https://github.com/imlava)
 - [jonesangga](https://github.com/jonesangga)
-- [BadRat-in](https://github.com/BadRat-in)
 
 ## ⭐ Recent stars
 
