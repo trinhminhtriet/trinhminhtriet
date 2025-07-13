@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [imlava](https://github.com/imlava)
 - [jonesangga](https://github.com/jonesangga)
 - [BadRat-in](https://github.com/BadRat-in)
 - [Aroob-Aziz](https://github.com/Aroob-Aziz)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [VIDAKHOSHPEY22](https://github.com/VIDAKHOSHPEY22)
 - [Tayondw](https://github.com/Tayondw)
 - [meegta](https://github.com/meegta)
-- [kesava-projects](https://github.com/kesava-projects)
 
 ## ⭐ Recent stars
 
+- [MOBIN-F/Thread](https://github.com/MOBIN-F/Thread) - Java多线程核心技术 (today)
+- [bethunebtj/datasource_architecture](https://github.com/bethunebtj/datasource_architecture) - 追源索骥-flink (today)
 - [wangzzu/awesome](https://github.com/wangzzu/awesome) - 不积硅步，无以至千里 (today)
 - [fabiang/xmpp](https://github.com/fabiang/xmpp) - Library for XMPP protocol connections (Jabber) for PHP (today)
 - [Stream29/ProxyAsLocalModel](https://github.com/Stream29/ProxyAsLocalModel) - Proxy remote LLM API as Ollama and LM Studio, for using them in JetBrains AI Assistant (today)
-- [qdsang/lv_gui_builder](https://github.com/qdsang/lv_gui_builder) - Drag end drop GUI designer for LVGL Creator editor (today)
-- [dantezhao/data-warehouse](https://github.com/dantezhao/data-warehouse) - The book of data warehouse (today)
 
 ## 🔨 Latest Pull Requests I published
 
