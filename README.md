@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [epoberezkin/fast-json-stable-stringify](https://github.com/epoberezkin/fast-json-stable-stringify) - Deterministic JSON.stringify() - a faster version of @substack's json-stable-strigify without jsonify. (today)
+- [epoberezkin/fast-deep-equal](https://github.com/epoberezkin/fast-deep-equal) - The fastest deep equality check with Date, RegExp and ES6 Map, Set and typed arrays support (today)
+- [raulbehl/100DaysOfRTL](https://github.com/raulbehl/100DaysOfRTL) - 100 Days of RTL (today)
+- [rbakbashev/elfcat](https://github.com/rbakbashev/elfcat) - ELF visualizer. Generates HTML files from ELF binaries. (today)
 - [revan-zhang/leetcode-javascript](https://github.com/revan-zhang/leetcode-javascript) - :spider::spider: Leetcode Solutions written in javascript (today)
-- [revan-zhang/100-lines-of-code-challenge-js](https://github.com/revan-zhang/100-lines-of-code-challenge-js) - Write Everything in JavaScript under 100 Lines!!!:smiling_imp: (today)
-- [buntine/barcoders](https://github.com/buntine/barcoders) - A barcode encoding library for the Rust programming language (today)
-- [buntine/discogs](https://github.com/buntine/discogs) - A Ruby wrapper of the Discogs.com API (today)
-- [buntine/SwervinMervin](https://github.com/buntine/SwervinMervin) - A truly radical homage to 16-bit racing games. (today)
 
 ## 🔨 Latest Pull Requests I published
 
