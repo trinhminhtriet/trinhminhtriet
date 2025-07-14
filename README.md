@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [akselsaatci](https://github.com/akselsaatci)
 - [Ohakwe-Love](https://github.com/Ohakwe-Love)
 - [johnelder](https://github.com/johnelder)
 - [rizkicahya-ramdani](https://github.com/rizkicahya-ramdani)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [haonguyen22](https://github.com/haonguyen22)
 - [Barsaan](https://github.com/Barsaan)
 - [KhalilBensaha](https://github.com/KhalilBensaha)
-- [theamallalgi](https://github.com/theamallalgi)
 
 ## ⭐ Recent stars
 
