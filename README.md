@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Amrmamlook](https://github.com/Amrmamlook)
+- [DasarathanSampath](https://github.com/DasarathanSampath)
 - [haonguyen22](https://github.com/haonguyen22)
 - [Barsaan](https://github.com/Barsaan)
 - [KhalilBensaha](https://github.com/KhalilBensaha)
@@ -54,8 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [osmanx8](https://github.com/osmanx8)
 - [mal1k-me](https://github.com/mal1k-me)
 - [JVsVieira](https://github.com/JVsVieira)
-- [dbunt1tled](https://github.com/dbunt1tled)
-- [coder-Rishi05](https://github.com/coder-Rishi05)
 
 ## ⭐ Recent stars
 
