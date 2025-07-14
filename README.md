@@ -33,8 +33,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👷 Check out what I'm currently working on
 
-- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (today)
-- [trinhminhtriet/rmrfrs](https://github.com/trinhminhtriet/rmrfrs) - 🧹 rmrfrs is a powerful filesystem cleaning tool designed to optimize storage by identifying and removing unnecessary files within known project structures. (4 days ago)
+- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (1 day ago)
+- [trinhminhtriet/rmrfrs](https://github.com/trinhminhtriet/rmrfrs) - 🧹 rmrfrs is a powerful filesystem cleaning tool designed to optimize storage by identifying and removing unnecessary files within known project structures. (5 days ago)
 - [trinhminhtriet/spiko](https://github.com/trinhminhtriet/spiko) - 🚀 Spiko is a fast, Rust-based load testing tool with a beautiful TUI for real-time insights. (1 week ago)
 - [trinhminhtriet/blast](https://github.com/trinhminhtriet/blast) - 🚀 Blast: A powerful, lightweight HTTP load generator for stress testing and benchmarking web applications with ease. (3 weeks ago)
 - [trinhminhtriet/netcatr](https://github.com/trinhminhtriet/netcatr) - 📡 netcat: A cross-platform port listener and reverse shell application designed for ease of use, providing seamless network connectivity. (1 month ago)
@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [KhalilBensaha](https://github.com/KhalilBensaha)
+- [theamallalgi](https://github.com/theamallalgi)
 - [Tayondw](https://github.com/Tayondw)
 - [osmanx8](https://github.com/osmanx8)
 - [mal1k-me](https://github.com/mal1k-me)
@@ -54,16 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [coder-Rishi05](https://github.com/coder-Rishi05)
 - [rahulvarmaviit](https://github.com/rahulvarmaviit)
 - [mateussilva01](https://github.com/mateussilva01)
-- [shendriks](https://github.com/shendriks)
-- [patrick1904-s](https://github.com/patrick1904-s)
 
 ## ⭐ Recent stars
 
-- [kevinlu1248/pyate](https://github.com/kevinlu1248/pyate) - PYthon Automated Term Extraction (today)
-- [sudo-suhas/lint-staged-multi-pkg](https://github.com/sudo-suhas/lint-staged-multi-pkg) - Example repo to demonstrate use of `lint-staged` with multi-pkg projects (today)
-- [sudo-suhas/elastic-builder](https://github.com/sudo-suhas/elastic-builder) - A Node.js implementation of the elasticsearch Query DSL  :construction_worker: (today)
-- [sam-github/vpim](https://github.com/sam-github/vpim) - vCard and iCalendar support for ruby (today)
-- [epoberezkin/fast-json-stable-stringify](https://github.com/epoberezkin/fast-json-stable-stringify) - Deterministic JSON.stringify() - a faster version of @substack's json-stable-strigify without jsonify. (today)
+- [kevinlu1248/pyate](https://github.com/kevinlu1248/pyate) - PYthon Automated Term Extraction (1 day ago)
+- [sudo-suhas/lint-staged-multi-pkg](https://github.com/sudo-suhas/lint-staged-multi-pkg) - Example repo to demonstrate use of `lint-staged` with multi-pkg projects (1 day ago)
+- [sudo-suhas/elastic-builder](https://github.com/sudo-suhas/elastic-builder) - A Node.js implementation of the elasticsearch Query DSL  :construction_worker: (1 day ago)
+- [sam-github/vpim](https://github.com/sam-github/vpim) - vCard and iCalendar support for ruby (1 day ago)
+- [epoberezkin/fast-json-stable-stringify](https://github.com/epoberezkin/fast-json-stable-stringify) - Deterministic JSON.stringify() - a faster version of @substack's json-stable-strigify without jsonify. (1 day ago)
 
 ## 🔨 Latest Pull Requests I published
 
