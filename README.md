@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Caioohv](https://github.com/Caioohv)
 - [shm-dtt](https://github.com/shm-dtt)
 - [Tayondw](https://github.com/Tayondw)
 - [shukri-isse](https://github.com/shukri-isse)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [puspalalnewar](https://github.com/puspalalnewar)
 - [alterante](https://github.com/alterante)
 - [TrungNguyen1409](https://github.com/TrungNguyen1409)
-- [yok-tottii](https://github.com/yok-tottii)
 
 ## ⭐ Recent stars
 
+- [zhangshichun/tree-lodash](https://github.com/zhangshichun/tree-lodash) - 轻量的“树操作”函数库  (Lightweight "tree operations" library) (today)
+- [monojack/graphql-normalizr](https://github.com/monojack/graphql-normalizr) - Normalize GraphQL responses for persisting in the client cache/state (today)
 - [martinpaljak/AppletPlayground](https://github.com/martinpaljak/AppletPlayground) - Playground for open source JavaCard applets! All work and no play makes Jack a dull boy. (today)
 - [martinpaljak/ant-javacard](https://github.com/martinpaljak/ant-javacard) - Easy to use Ant task for building JavaCard applets (2.1.1 to 3.2.0) 🐜 (today)
 - [martinpaljak/GlobalPlatformPro](https://github.com/martinpaljak/GlobalPlatformPro) - Manage applets and keys on JavaCard-s like a pro 🌐 🔐 (today)
-- [Eilte/Mobaxterm-Chinese](https://github.com/Eilte/Mobaxterm-Chinese) - Mobaxterm simplified Chinese version. Mobaxterm 的简体中文版. (today)
-- [philipashlock/mediawiki-to-markdown](https://github.com/philipashlock/mediawiki-to-markdown) - Convert MediaWiki pages to GitHub flavored Markdown (today)
 
 ## 🔨 Latest Pull Requests I published
 
