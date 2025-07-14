@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [Eilte/Mobaxterm-Chinese](https://github.com/Eilte/Mobaxterm-Chinese) - Mobaxterm simplified Chinese version. Mobaxterm 的简体中文版. (today)
+- [philipashlock/mediawiki-to-markdown](https://github.com/philipashlock/mediawiki-to-markdown) - Convert MediaWiki pages to GitHub flavored Markdown (today)
 - [JasonSteving99/claro-lang](https://github.com/JasonSteving99/claro-lang) - Claro Lang (today)
 - [ewhauser/zookeeper](https://github.com/ewhauser/zookeeper) - Mirror of Apache Hadoop ZooKeeper (today)
 - [jas-/node-libnmap](https://github.com/jas-/node-libnmap) - API to access nmap from node.js (today)
-- [jas-/crypt.io](https://github.com/jas-/crypt.io) - Encryption enabled browser storage (today)
-- [maebert/themostdangerouswritingapp](https://github.com/maebert/themostdangerouswritingapp) - If you stop typing for more than five seconds, all progress will be lost. (today)
 
 ## 🔨 Latest Pull Requests I published
 
