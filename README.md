@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [martinpaljak/AppletPlayground](https://github.com/martinpaljak/AppletPlayground) - Playground for open source JavaCard applets! All work and no play makes Jack a dull boy. (today)
+- [martinpaljak/ant-javacard](https://github.com/martinpaljak/ant-javacard) - Easy to use Ant task for building JavaCard applets (2.1.1 to 3.2.0) 🐜 (today)
+- [martinpaljak/GlobalPlatformPro](https://github.com/martinpaljak/GlobalPlatformPro) - Manage applets and keys on JavaCard-s like a pro 🌐 🔐 (today)
 - [Eilte/Mobaxterm-Chinese](https://github.com/Eilte/Mobaxterm-Chinese) - Mobaxterm simplified Chinese version. Mobaxterm 的简体中文版. (today)
 - [philipashlock/mediawiki-to-markdown](https://github.com/philipashlock/mediawiki-to-markdown) - Convert MediaWiki pages to GitHub flavored Markdown (today)
-- [JasonSteving99/claro-lang](https://github.com/JasonSteving99/claro-lang) - Claro Lang (today)
-- [ewhauser/zookeeper](https://github.com/ewhauser/zookeeper) - Mirror of Apache Hadoop ZooKeeper (today)
-- [jas-/node-libnmap](https://github.com/jas-/node-libnmap) - API to access nmap from node.js (today)
 
 ## 🔨 Latest Pull Requests I published
 
