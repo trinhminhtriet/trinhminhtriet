@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [shm-dtt](https://github.com/shm-dtt)
+- [Tayondw](https://github.com/Tayondw)
 - [shukri-isse](https://github.com/shukri-isse)
 - [Shinbatsu](https://github.com/Shinbatsu)
 - [ByJoan05](https://github.com/ByJoan05)
@@ -54,8 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [alterante](https://github.com/alterante)
 - [TrungNguyen1409](https://github.com/TrungNguyen1409)
 - [yok-tottii](https://github.com/yok-tottii)
-- [Mohadeseasadi](https://github.com/Mohadeseasadi)
-- [badrmohamed23](https://github.com/badrmohamed23)
 
 ## ⭐ Recent stars
 
