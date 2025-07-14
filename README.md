@@ -46,6 +46,9 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [shukri-isse](https://github.com/shukri-isse)
+- [Shinbatsu](https://github.com/Shinbatsu)
+- [ByJoan05](https://github.com/ByJoan05)
 - [usasmmhiveertyy](https://github.com/usasmmhiveertyy)
 - [puspalalnewar](https://github.com/puspalalnewar)
 - [alterante](https://github.com/alterante)
@@ -53,9 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [yok-tottii](https://github.com/yok-tottii)
 - [Mohadeseasadi](https://github.com/Mohadeseasadi)
 - [badrmohamed23](https://github.com/badrmohamed23)
-- [akselsaatci](https://github.com/akselsaatci)
-- [Ohakwe-Love](https://github.com/Ohakwe-Love)
-- [johnelder](https://github.com/johnelder)
 
 ## ⭐ Recent stars
 
