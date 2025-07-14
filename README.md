@@ -33,19 +33,21 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👷 Check out what I'm currently working on
 
+- [trinhminhtriet/blast](https://github.com/trinhminhtriet/blast) - 🚀 Blast: A powerful, lightweight HTTP load generator for stress testing and benchmarking web applications with ease. (today)
+- [trinhminhtriet/netcatr](https://github.com/trinhminhtriet/netcatr) - 📡 netcat: A cross-platform port listener and reverse shell application designed for ease of use, providing seamless network connectivity. (today)
+- [trinhminhtriet/curli](https://github.com/trinhminhtriet/curli) - 🌀 Curli: A user-friendly curl interface combining HTTPie’s simplicity with curl’s full functionality and power. (today)
 - [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (1 day ago)
 - [trinhminhtriet/rmrfrs](https://github.com/trinhminhtriet/rmrfrs) - 🧹 rmrfrs is a powerful filesystem cleaning tool designed to optimize storage by identifying and removing unnecessary files within known project structures. (5 days ago)
 - [trinhminhtriet/spiko](https://github.com/trinhminhtriet/spiko) - 🚀 Spiko is a fast, Rust-based load testing tool with a beautiful TUI for real-time insights. (1 week ago)
-- [trinhminhtriet/blast](https://github.com/trinhminhtriet/blast) - 🚀 Blast: A powerful, lightweight HTTP load generator for stress testing and benchmarking web applications with ease. (3 weeks ago)
-- [trinhminhtriet/netcatr](https://github.com/trinhminhtriet/netcatr) - 📡 netcat: A cross-platform port listener and reverse shell application designed for ease of use, providing seamless network connectivity. (1 month ago)
 - [trinhminhtriet/visyo](https://github.com/trinhminhtriet/visyo) - Visyo — ✨ A fast, minimal, and themeable CLI tool that displays visual system output across platforms. (1 month ago)
 - [trinhminhtriet/pingy](https://github.com/trinhminhtriet/pingy) - ⚡ Pingy: A fast, concurrent Rust-based ping tool with real-time updates & visual charts! 📊🚀 (1 month ago)
-- [trinhminhtriet/curli](https://github.com/trinhminhtriet/curli) - 🌀 Curli: A user-friendly curl interface combining HTTPie’s simplicity with curl’s full functionality and power. (1 month ago)
 - [trinhminhtriet/ftree](https://github.com/trinhminhtriet/ftree) - Terminal-based file tree manipulation tool for navigating, viewing, and managing directories and files efficiently. (1 month ago)
-- [trinhminhtriet/github-toolkit](https://github.com/trinhminhtriet/github-toolkit) - github-toolkit: Scrapes GitHub developers, followers, repositories into MySQL database. (1 month ago)
+- [trinhminhtriet/markgen](https://github.com/trinhminhtriet/markgen) - 📜 Generate personalized markdown files with templates, GitHub, RSS, and API integrations using Go. (1 month ago)
 
 ## 👯 Check out my recent followers
 
+- [alterante](https://github.com/alterante)
+- [TrungNguyen1409](https://github.com/TrungNguyen1409)
 - [yok-tottii](https://github.com/yok-tottii)
 - [Mohadeseasadi](https://github.com/Mohadeseasadi)
 - [badrmohamed23](https://github.com/badrmohamed23)
@@ -54,16 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [johnelder](https://github.com/johnelder)
 - [rizkicahya-ramdani](https://github.com/rizkicahya-ramdani)
 - [nguyenminhhung2011](https://github.com/nguyenminhhung2011)
-- [Amrmamlook](https://github.com/Amrmamlook)
-- [DasarathanSampath](https://github.com/DasarathanSampath)
 
 ## ⭐ Recent stars
 
-- [zhichengfalv/Solve-App-Store-Review-Problem](https://github.com/zhichengfalv/Solve-App-Store-Review-Problem) - a collection   to solve app store review problem (ipv6,ipv6被拒绝,后台定位等审核问题的终极解决方案汇总) (today)
-- [androidmalin/ILOVEYOU](https://github.com/androidmalin/ILOVEYOU) - 🐈青春总会因为一个人 开始闪闪发亮！📦 (today)
-- [androidmalin/AndroidComponentPlugin](https://github.com/androidmalin/AndroidComponentPlugin) - Android上简单实现四大组件的插件化，供学习使用 (today)
-- [androidmalin/RxjavaSample](https://github.com/androidmalin/RxjavaSample) - RxJava Sample (today)
-- [Tliens/IPADownloader](https://github.com/Tliens/IPADownloader) - ipa 下载利器，以后下载ipa，再也不用那么麻烦 (today)
+- [JasonSteving99/claro-lang](https://github.com/JasonSteving99/claro-lang) - Claro Lang (today)
+- [ewhauser/zookeeper](https://github.com/ewhauser/zookeeper) - Mirror of Apache Hadoop ZooKeeper (today)
+- [jas-/node-libnmap](https://github.com/jas-/node-libnmap) - API to access nmap from node.js (today)
+- [jas-/crypt.io](https://github.com/jas-/crypt.io) - Encryption enabled browser storage (today)
+- [maebert/themostdangerouswritingapp](https://github.com/maebert/themostdangerouswritingapp) - If you stop typing for more than five seconds, all progress will be lost. (today)
 
 ## 🔨 Latest Pull Requests I published
 
