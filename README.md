@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [JetBrains/intellij-community](https://github.com/JetBrains/intellij-community) - IntelliJ IDEA Community Edition & IntelliJ Platform (today)
+- [ashishps1/awesome-leetcode-resources](https://github.com/ashishps1/awesome-leetcode-resources) - Awesome LeetCode resources to learn Data Structures and Algorithms and prepare for Coding Interviews. (today)
+- [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown. (today)
 - [Ali-Hussein-dev/indie-ui](https://github.com/Ali-Hussein-dev/indie-ui) - Collection of UI components and free shadcn form builder (today)
 - [KID-joker/stokado](https://github.com/KID-joker/stokado) - stokado can proxy objects of any storage-like, providing getter/setter syntax sugars, serialization, subscription listening, expiration setting, one-time value retrieval. (today)
-- [fabiogra/moseca](https://github.com/fabiogra/moseca) - A Streamilt web app for music source separation & karaoke (today)
-- [mxgrn/pairs.one](https://github.com/mxgrn/pairs.one) - Online registration-free multiplayer concentration (memory) game (today)
-- [supercoderhawk/DeepLearning_NLP](https://github.com/supercoderhawk/DeepLearning_NLP) - 基于深度学习的自然语言处理库 (today)
 
 ## 🔨 Latest Pull Requests I published
 
