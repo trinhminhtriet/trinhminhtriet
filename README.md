@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [pierremerry15](https://github.com/pierremerry15)
 - [Muhammadnvd](https://github.com/Muhammadnvd)
 - [Abdellahsyani](https://github.com/Abdellahsyani)
 - [AlejoCNYT](https://github.com/AlejoCNYT)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [FaisalQ05](https://github.com/FaisalQ05)
 - [akhundi01](https://github.com/akhundi01)
 - [Samraj5413](https://github.com/Samraj5413)
-- [auronvila](https://github.com/auronvila)
 
 ## ⭐ Recent stars
 
+- [jpoehnelt/secrets-sync-action](https://github.com/jpoehnelt/secrets-sync-action) - A Github Action that can sync secrets from one repository to many others. (today)
+- [bazaglia/shopping-cart](https://github.com/bazaglia/shopping-cart) - A shopping cart application for demonstration of clean architecture on TypeScript (today)
 - [alexstyl/warden](https://github.com/alexstyl/warden) - Android permissions as suspend functions. (today)
 - [alexstyl/compose-tinder-card](https://github.com/alexstyl/compose-tinder-card) - A Jetpack Compose Modifier that enables Tinder-like card gestures. (today)
 - [alexstyl/Memento-Calendar](https://github.com/alexstyl/Memento-Calendar) - The sweetest calendar for Android (today)
-- [alexstyl/Material-SearchTransition](https://github.com/alexstyl/Material-SearchTransition) - A demo showcasing how to implement a Dial app-like Toolbar transition (today)
-- [alexstyl/RadiusTransition](https://github.com/alexstyl/RadiusTransition) - Transition between a circle to a square.  ⚪️→ ⬜️ (today)
 
 ## 🔨 Latest Pull Requests I published
 
