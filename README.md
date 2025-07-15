@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [jpoehnelt/secrets-sync-action](https://github.com/jpoehnelt/secrets-sync-action) - A Github Action that can sync secrets from one repository to many others. (today)
-- [bazaglia/shopping-cart](https://github.com/bazaglia/shopping-cart) - A shopping cart application for demonstration of clean architecture on TypeScript (today)
-- [alexstyl/warden](https://github.com/alexstyl/warden) - Android permissions as suspend functions. (today)
-- [alexstyl/compose-tinder-card](https://github.com/alexstyl/compose-tinder-card) - A Jetpack Compose Modifier that enables Tinder-like card gestures. (today)
-- [alexstyl/Memento-Calendar](https://github.com/alexstyl/Memento-Calendar) - The sweetest calendar for Android (today)
+- [michelbernardods/labs-pentest](https://github.com/michelbernardods/labs-pentest) - Free Labs to Train Your Pentest / CTF Skills (today)
+- [michelbernardods/programming-challenges](https://github.com/michelbernardods/programming-challenges) - Algorithmic, Data Structures, Frontend and Pentest - Programming challenges and competitions to improve knowledge. (today)
+- [pippinsplugins/wp-logging](https://github.com/pippinsplugins/wp-logging) - A WordPress class that provides a general logging system. (today)
+- [trepmal/wp-revisions-cli](https://github.com/trepmal/wp-revisions-cli) - WP-CLI command. Manage post revisions. (today)
+- [johnpbloch/wordpress-core](https://github.com/johnpbloch/wordpress-core) (today)
 
 ## 🔨 Latest Pull Requests I published
 
