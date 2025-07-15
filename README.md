@@ -33,12 +33,12 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👷 Check out what I'm currently working on
 
-- [trinhminhtriet/blast](https://github.com/trinhminhtriet/blast) - 🚀 Blast: A powerful, lightweight HTTP load generator for stress testing and benchmarking web applications with ease. (today)
-- [trinhminhtriet/netcatr](https://github.com/trinhminhtriet/netcatr) - 📡 netcat: A cross-platform port listener and reverse shell application designed for ease of use, providing seamless network connectivity. (today)
-- [trinhminhtriet/curli](https://github.com/trinhminhtriet/curli) - 🌀 Curli: A user-friendly curl interface combining HTTPie’s simplicity with curl’s full functionality and power. (today)
-- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (1 day ago)
-- [trinhminhtriet/rmrfrs](https://github.com/trinhminhtriet/rmrfrs) - 🧹 rmrfrs is a powerful filesystem cleaning tool designed to optimize storage by identifying and removing unnecessary files within known project structures. (5 days ago)
-- [trinhminhtriet/spiko](https://github.com/trinhminhtriet/spiko) - 🚀 Spiko is a fast, Rust-based load testing tool with a beautiful TUI for real-time insights. (1 week ago)
+- [trinhminhtriet/blast](https://github.com/trinhminhtriet/blast) - 🚀 Blast: A powerful, lightweight HTTP load generator for stress testing and benchmarking web applications with ease. (1 day ago)
+- [trinhminhtriet/netcatr](https://github.com/trinhminhtriet/netcatr) - 📡 netcat: A cross-platform port listener and reverse shell application designed for ease of use, providing seamless network connectivity. (1 day ago)
+- [trinhminhtriet/curli](https://github.com/trinhminhtriet/curli) - 🌀 Curli: A user-friendly curl interface combining HTTPie’s simplicity with curl’s full functionality and power. (1 day ago)
+- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (2 days ago)
+- [trinhminhtriet/rmrfrs](https://github.com/trinhminhtriet/rmrfrs) - 🧹 rmrfrs is a powerful filesystem cleaning tool designed to optimize storage by identifying and removing unnecessary files within known project structures. (6 days ago)
+- [trinhminhtriet/spiko](https://github.com/trinhminhtriet/spiko) - 🚀 Spiko is a fast, Rust-based load testing tool with a beautiful TUI for real-time insights. (2 weeks ago)
 - [trinhminhtriet/visyo](https://github.com/trinhminhtriet/visyo) - Visyo — ✨ A fast, minimal, and themeable CLI tool that displays visual system output across platforms. (1 month ago)
 - [trinhminhtriet/pingy](https://github.com/trinhminhtriet/pingy) - ⚡ Pingy: A fast, concurrent Rust-based ping tool with real-time updates & visual charts! 📊🚀 (1 month ago)
 - [trinhminhtriet/ftree](https://github.com/trinhminhtriet/ftree) - Terminal-based file tree manipulation tool for navigating, viewing, and managing directories and files efficiently. (1 month ago)
@@ -46,6 +46,9 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [mtrs8](https://github.com/mtrs8)
+- [tonny-dev](https://github.com/tonny-dev)
+- [mostafa630](https://github.com/mostafa630)
 - [Caioohv](https://github.com/Caioohv)
 - [shm-dtt](https://github.com/shm-dtt)
 - [Tayondw](https://github.com/Tayondw)
@@ -53,17 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Shinbatsu](https://github.com/Shinbatsu)
 - [ByJoan05](https://github.com/ByJoan05)
 - [usasmmhiveertyy](https://github.com/usasmmhiveertyy)
-- [puspalalnewar](https://github.com/puspalalnewar)
-- [alterante](https://github.com/alterante)
-- [TrungNguyen1409](https://github.com/TrungNguyen1409)
 
 ## ⭐ Recent stars
 
-- [zhangshichun/tree-lodash](https://github.com/zhangshichun/tree-lodash) - 轻量的“树操作”函数库  (Lightweight "tree operations" library) (today)
-- [monojack/graphql-normalizr](https://github.com/monojack/graphql-normalizr) - Normalize GraphQL responses for persisting in the client cache/state (today)
-- [martinpaljak/AppletPlayground](https://github.com/martinpaljak/AppletPlayground) - Playground for open source JavaCard applets! All work and no play makes Jack a dull boy. (today)
-- [martinpaljak/ant-javacard](https://github.com/martinpaljak/ant-javacard) - Easy to use Ant task for building JavaCard applets (2.1.1 to 3.2.0) 🐜 (today)
-- [martinpaljak/GlobalPlatformPro](https://github.com/martinpaljak/GlobalPlatformPro) - Manage applets and keys on JavaCard-s like a pro 🌐 🔐 (today)
+- [jasonwilliams/vscode-helix](https://github.com/jasonwilliams/vscode-helix) (1 day ago)
+- [jasonwilliams/anki](https://github.com/jasonwilliams/anki) - Anki VSCode Plugin (1 day ago)
+- [zhangshichun/tree-lodash](https://github.com/zhangshichun/tree-lodash) - 轻量的“树操作”函数库  (Lightweight "tree operations" library) (1 day ago)
+- [monojack/graphql-normalizr](https://github.com/monojack/graphql-normalizr) - Normalize GraphQL responses for persisting in the client cache/state (1 day ago)
+- [martinpaljak/AppletPlayground](https://github.com/martinpaljak/AppletPlayground) - Playground for open source JavaCard applets! All work and no play makes Jack a dull boy. (1 day ago)
 
 ## 🔨 Latest Pull Requests I published
 
