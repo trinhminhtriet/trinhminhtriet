@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [fabiogra/moseca](https://github.com/fabiogra/moseca) - A Streamilt web app for music source separation & karaoke (today)
 - [mxgrn/pairs.one](https://github.com/mxgrn/pairs.one) - Online registration-free multiplayer concentration (memory) game (today)
 - [supercoderhawk/DeepLearning_NLP](https://github.com/supercoderhawk/DeepLearning_NLP) - 基于深度学习的自然语言处理库 (today)
 - [ExplorerFreda/Structured-Self-Attentive-Sentence-Embedding](https://github.com/ExplorerFreda/Structured-Self-Attentive-Sentence-Embedding) - An open-source implementation of the paper ``A Structured Self-Attentive Sentence Embedding'' (Lin et al., ICLR 2017). (today)
 - [LukasBombach/react-web-component](https://github.com/LukasBombach/react-web-component) - Create Web Components with React (today)
-- [LukasBombach/next-super-performance](https://github.com/LukasBombach/next-super-performance) - The case of partial hydration (with Next and Preact) (today)
 
 ## 🔨 Latest Pull Requests I published
 
