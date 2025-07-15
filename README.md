@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [kirill-grouchnikov/substance](https://github.com/kirill-grouchnikov/substance) - A modern and high-performant Swing look-and-feel library (today)
-- [kirill-grouchnikov/artemis](https://github.com/kirill-grouchnikov/artemis) - A playground for exploring graphics APIs in Compose Desktop and the underlying Skia (today)
-- [kirill-grouchnikov/aurora](https://github.com/kirill-grouchnikov/aurora) - Building modern, elegant and fast desktop Compose applications  (today)
-- [kirill-grouchnikov/radiance](https://github.com/kirill-grouchnikov/radiance) - Building modern, elegant and fast Swing applications (today)
-- [Drjacky/MVVM](https://github.com/Drjacky/MVVM) - A sample Android application using MVVM, Clean Architecture, Android Architecture Components (today)
+- [alexstyl/warden](https://github.com/alexstyl/warden) - Android permissions as suspend functions. (today)
+- [alexstyl/compose-tinder-card](https://github.com/alexstyl/compose-tinder-card) - A Jetpack Compose Modifier that enables Tinder-like card gestures. (today)
+- [alexstyl/Memento-Calendar](https://github.com/alexstyl/Memento-Calendar) - The sweetest calendar for Android (today)
+- [alexstyl/Material-SearchTransition](https://github.com/alexstyl/Material-SearchTransition) - A demo showcasing how to implement a Dial app-like Toolbar transition (today)
+- [alexstyl/RadiusTransition](https://github.com/alexstyl/RadiusTransition) - Transition between a circle to a square.  ⚪️→ ⬜️ (today)
 
 ## 🔨 Latest Pull Requests I published
 
