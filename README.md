@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [maksugr/clean-code-javascript](https://github.com/maksugr/clean-code-javascript) - :bathtub: Адаптированные для JavaScript концепции Чистого кода (today)
-- [daliborgogic/guess-nuxt](https://github.com/daliborgogic/guess-nuxt) - Predict the next page (or pages) a user is likely to visit and prefetch these pages, improving perceived page load performance and user happiness. During the build process, the GuessPlugin will fetch report from Google Analytics, build a model used for predictive pre-fetching and add a small runtime to the main bundle of your application. (today)
-- [gregdavill/advent-calendar-of-circuits-2020](https://github.com/gregdavill/advent-calendar-of-circuits-2020) - 1 circuit board design a day for 31 days. (today)
-- [gregdavill/PD-sniffer](https://github.com/gregdavill/PD-sniffer) - USB PD sniffer (today)
-- [gregdavill/kicadScripts](https://github.com/gregdavill/kicadScripts) - A collection of scripts to automate PCB rendering and exporting gerbers. (today)
+- [kirill-grouchnikov/substance](https://github.com/kirill-grouchnikov/substance) - A modern and high-performant Swing look-and-feel library (today)
+- [kirill-grouchnikov/artemis](https://github.com/kirill-grouchnikov/artemis) - A playground for exploring graphics APIs in Compose Desktop and the underlying Skia (today)
+- [kirill-grouchnikov/aurora](https://github.com/kirill-grouchnikov/aurora) - Building modern, elegant and fast desktop Compose applications  (today)
+- [kirill-grouchnikov/radiance](https://github.com/kirill-grouchnikov/radiance) - Building modern, elegant and fast Swing applications (today)
+- [Drjacky/MVVM](https://github.com/Drjacky/MVVM) - A sample Android application using MVVM, Clean Architecture, Android Architecture Components (today)
 
 ## 🔨 Latest Pull Requests I published
 
