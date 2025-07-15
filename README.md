@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [aryadira](https://github.com/aryadira)
 - [FaisalQ05](https://github.com/FaisalQ05)
 - [akhundi01](https://github.com/akhundi01)
 - [Samraj5413](https://github.com/Samraj5413)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [mayur-softhealer](https://github.com/mayur-softhealer)
 - [mtrs8](https://github.com/mtrs8)
 - [tonny-dev](https://github.com/tonny-dev)
-- [mostafa630](https://github.com/mostafa630)
 
 ## ⭐ Recent stars
 
