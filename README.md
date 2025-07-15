@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Samraj5413](https://github.com/Samraj5413)
 - [auronvila](https://github.com/auronvila)
 - [autriIIa](https://github.com/autriIIa)
 - [pratham14-coder](https://github.com/pratham14-coder)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [mostafa630](https://github.com/mostafa630)
 - [Caioohv](https://github.com/Caioohv)
 - [shm-dtt](https://github.com/shm-dtt)
-- [Tayondw](https://github.com/Tayondw)
 
 ## ⭐ Recent stars
 
+- [Ali-Hussein-dev/indie-ui](https://github.com/Ali-Hussein-dev/indie-ui) - Collection of UI components and free shadcn form builder (today)
 - [KID-joker/stokado](https://github.com/KID-joker/stokado) - stokado can proxy objects of any storage-like, providing getter/setter syntax sugars, serialization, subscription listening, expiration setting, one-time value retrieval. (today)
 - [fabiogra/moseca](https://github.com/fabiogra/moseca) - A Streamilt web app for music source separation & karaoke (today)
 - [mxgrn/pairs.one](https://github.com/mxgrn/pairs.one) - Online registration-free multiplayer concentration (memory) game (today)
 - [supercoderhawk/DeepLearning_NLP](https://github.com/supercoderhawk/DeepLearning_NLP) - 基于深度学习的自然语言处理库 (today)
-- [ExplorerFreda/Structured-Self-Attentive-Sentence-Embedding](https://github.com/ExplorerFreda/Structured-Self-Attentive-Sentence-Embedding) - An open-source implementation of the paper ``A Structured Self-Attentive Sentence Embedding'' (Lin et al., ICLR 2017). (today)
 
 ## 🔨 Latest Pull Requests I published
 
