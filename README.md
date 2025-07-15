@@ -39,8 +39,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (2 days ago)
 - [trinhminhtriet/rmrfrs](https://github.com/trinhminhtriet/rmrfrs) - 🧹 rmrfrs is a powerful filesystem cleaning tool designed to optimize storage by identifying and removing unnecessary files within known project structures. (6 days ago)
 - [trinhminhtriet/spiko](https://github.com/trinhminhtriet/spiko) - 🚀 Spiko is a fast, Rust-based load testing tool with a beautiful TUI for real-time insights. (2 weeks ago)
-- [trinhminhtriet/visyo](https://github.com/trinhminhtriet/visyo) - Visyo — ✨ A fast, minimal, and themeable CLI tool that displays visual system output across platforms. (1 month ago)
 - [trinhminhtriet/pingy](https://github.com/trinhminhtriet/pingy) - ⚡ Pingy: A fast, concurrent Rust-based ping tool with real-time updates & visual charts! 📊🚀 (1 month ago)
+- [trinhminhtriet/visyo](https://github.com/trinhminhtriet/visyo) - Visyo — ✨ A fast, minimal, and themeable CLI tool that displays visual system output across platforms. (1 month ago)
 - [trinhminhtriet/ftree](https://github.com/trinhminhtriet/ftree) - Terminal-based file tree manipulation tool for navigating, viewing, and managing directories and files efficiently. (1 month ago)
 - [trinhminhtriet/markgen](https://github.com/trinhminhtriet/markgen) - 📜 Generate personalized markdown files with templates, GitHub, RSS, and API integrations using Go. (1 month ago)
 
@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [jasonwilliams/vscode-helix](https://github.com/jasonwilliams/vscode-helix) (1 day ago)
-- [jasonwilliams/anki](https://github.com/jasonwilliams/anki) - Anki VSCode Plugin (1 day ago)
-- [zhangshichun/tree-lodash](https://github.com/zhangshichun/tree-lodash) - 轻量的“树操作”函数库  (Lightweight "tree operations" library) (1 day ago)
-- [monojack/graphql-normalizr](https://github.com/monojack/graphql-normalizr) - Normalize GraphQL responses for persisting in the client cache/state (1 day ago)
-- [martinpaljak/AppletPlayground](https://github.com/martinpaljak/AppletPlayground) - Playground for open source JavaCard applets! All work and no play makes Jack a dull boy. (1 day ago)
+- [mxgrn/pairs.one](https://github.com/mxgrn/pairs.one) - Online registration-free multiplayer concentration (memory) game (today)
+- [supercoderhawk/DeepLearning_NLP](https://github.com/supercoderhawk/DeepLearning_NLP) - 基于深度学习的自然语言处理库 (today)
+- [ExplorerFreda/Structured-Self-Attentive-Sentence-Embedding](https://github.com/ExplorerFreda/Structured-Self-Attentive-Sentence-Embedding) - An open-source implementation of the paper ``A Structured Self-Attentive Sentence Embedding'' (Lin et al., ICLR 2017). (today)
+- [LukasBombach/react-web-component](https://github.com/LukasBombach/react-web-component) - Create Web Components with React (today)
+- [LukasBombach/next-super-performance](https://github.com/LukasBombach/next-super-performance) - The case of partial hydration (with Next and Preact) (today)
 
 ## 🔨 Latest Pull Requests I published
 
