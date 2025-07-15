@@ -46,6 +46,9 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Muhammadnvd](https://github.com/Muhammadnvd)
+- [Abdellahsyani](https://github.com/Abdellahsyani)
+- [AlejoCNYT](https://github.com/AlejoCNYT)
 - [Tayondw](https://github.com/Tayondw)
 - [JOELNATHAN544](https://github.com/JOELNATHAN544)
 - [aryadira](https://github.com/aryadira)
@@ -53,17 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [akhundi01](https://github.com/akhundi01)
 - [Samraj5413](https://github.com/Samraj5413)
 - [auronvila](https://github.com/auronvila)
-- [autriIIa](https://github.com/autriIIa)
-- [pratham14-coder](https://github.com/pratham14-coder)
-- [mayur-softhealer](https://github.com/mayur-softhealer)
 
 ## ⭐ Recent stars
 
-- [Joyce94/LLM-RLHF-Tuning](https://github.com/Joyce94/LLM-RLHF-Tuning) - LLM Tuning with PEFT (SFT+RM+PPO+DPO with LoRA)  (today)
-- [yafuly/TPO](https://github.com/yafuly/TPO) - Test-time preferenece optimization (ICML 2025). (today)
-- [yafuly/MAGE](https://github.com/yafuly/MAGE) - Machine-generated text detection in the wild (ACL 2024) (today)
-- [Nealcly/templateNER](https://github.com/Nealcly/templateNER) - Source code for template-based NER (today)
-- [Nealcly/BiLSTM-LAN](https://github.com/Nealcly/BiLSTM-LAN) - Hierarchically-Refined Label Attention Network for Sequence Labeling (today)
+- [maksugr/clean-code-javascript](https://github.com/maksugr/clean-code-javascript) - :bathtub: Адаптированные для JavaScript концепции Чистого кода (today)
+- [daliborgogic/guess-nuxt](https://github.com/daliborgogic/guess-nuxt) - Predict the next page (or pages) a user is likely to visit and prefetch these pages, improving perceived page load performance and user happiness. During the build process, the GuessPlugin will fetch report from Google Analytics, build a model used for predictive pre-fetching and add a small runtime to the main bundle of your application. (today)
+- [gregdavill/advent-calendar-of-circuits-2020](https://github.com/gregdavill/advent-calendar-of-circuits-2020) - 1 circuit board design a day for 31 days. (today)
+- [gregdavill/PD-sniffer](https://github.com/gregdavill/PD-sniffer) - USB PD sniffer (today)
+- [gregdavill/kicadScripts](https://github.com/gregdavill/kicadScripts) - A collection of scripts to automate PCB rendering and exporting gerbers. (today)
 
 ## 🔨 Latest Pull Requests I published
 
