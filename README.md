@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [auronvila](https://github.com/auronvila)
 - [autriIIa](https://github.com/autriIIa)
 - [pratham14-coder](https://github.com/pratham14-coder)
 - [mayur-softhealer](https://github.com/mayur-softhealer)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Caioohv](https://github.com/Caioohv)
 - [shm-dtt](https://github.com/shm-dtt)
 - [Tayondw](https://github.com/Tayondw)
-- [shukri-isse](https://github.com/shukri-isse)
 
 ## ⭐ Recent stars
 
