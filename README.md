@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [Chaphasilor/jellyfin-rewind](https://github.com/Chaphasilor/jellyfin-rewind) - Review Your Music of 2024. A "Spotify Wrapped"-like app made for people who use Jellyfin for listening to music! (today)
-- [nicolasbonnici/cryptobot](https://github.com/nicolasbonnici/cryptobot) - Crypto trading bot wrote using Python 3.9. (today)
-- [vermouth1992/drl-portfolio-management](https://github.com/vermouth1992/drl-portfolio-management) - CSCI 599 deep learning and its applications final project (today)
-- [rocLv/OnJava8](https://github.com/rocLv/OnJava8) - 《On Java 8》中文版，又名《Java编程思想》 第5版  (today)
-- [renyijiu/douyin_downloader](https://github.com/renyijiu/douyin_downloader) - 👏Download all douyin videos of user(including favorites) , 下载指定用户的所有抖音视频以及收藏的视频(无水印) (today)
+- [lmullen/gender](https://github.com/lmullen/gender) - Predict Gender from Names Using Historical Data (today)
+- [jjcheer/ocrcn_tf2](https://github.com/jjcheer/ocrcn_tf2) - TensorFlow2.0的中文汉字手写体识别！OCR必备，欢迎star！ (today)
+- [kjhealy/revere](https://github.com/kjhealy/revere) - Finding Paul Revere (today)
+- [kjhealy/emacs-starter-kit](https://github.com/kjhealy/emacs-starter-kit) - NO LONGER MAINTAINED! A drop-in starter-kit for Emacs 24, aimed at social scientists researching and writing in plain text using some combination of LaTeX, R, ESS, Git, Markdown, and Org-Mode. (today)
+- [kjhealy/kjh-vita](https://github.com/kjhealy/kjh-vita) - A simple LaTeX template that I use for my Vita. (today)
 
 ## 🔨 Latest Pull Requests I published
 
