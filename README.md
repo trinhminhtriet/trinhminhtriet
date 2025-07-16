@@ -46,6 +46,9 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [zheliuyu](https://github.com/zheliuyu)
+- [blackboot64x](https://github.com/blackboot64x)
+- [v664](https://github.com/v664)
 - [NorahGreen](https://github.com/NorahGreen)
 - [Tayondw](https://github.com/Tayondw)
 - [Reuben1987AI](https://github.com/Reuben1987AI)
@@ -53,17 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [amr-yasser226](https://github.com/amr-yasser226)
 - [pierremerry15](https://github.com/pierremerry15)
 - [Muhammadnvd](https://github.com/Muhammadnvd)
-- [Abdellahsyani](https://github.com/Abdellahsyani)
-- [AlejoCNYT](https://github.com/AlejoCNYT)
-- [JOELNATHAN544](https://github.com/JOELNATHAN544)
 
 ## ⭐ Recent stars
 
+- [apoorvalal/ding_causalInference_python](https://github.com/apoorvalal/ding_causalInference_python) - python implementation of Peng Ding's "First Course in Causal Inference"  (today)
 - [lmullen/gender](https://github.com/lmullen/gender) - Predict Gender from Names Using Historical Data (today)
 - [jjcheer/ocrcn_tf2](https://github.com/jjcheer/ocrcn_tf2) - TensorFlow2.0的中文汉字手写体识别！OCR必备，欢迎star！ (today)
 - [kjhealy/revere](https://github.com/kjhealy/revere) - Finding Paul Revere (today)
 - [kjhealy/emacs-starter-kit](https://github.com/kjhealy/emacs-starter-kit) - NO LONGER MAINTAINED! A drop-in starter-kit for Emacs 24, aimed at social scientists researching and writing in plain text using some combination of LaTeX, R, ESS, Git, Markdown, and Org-Mode. (today)
-- [kjhealy/kjh-vita](https://github.com/kjhealy/kjh-vita) - A simple LaTeX template that I use for my Vita. (today)
 
 ## 🔨 Latest Pull Requests I published
 
