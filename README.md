@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [itsezlife/flutter-instagram-offline-first-clone](https://github.com/itsezlife/flutter-instagram-offline-first-clone) -  Offline Instagram? No problem! Dive into this Flutter clone with seamless sync and all your favorite features, even when you're off the grid. ✨ Explore posts, create content, interact with friends – all offline! Syncs magically when you're back online.  Built with Flutter and ❤️. (today)
+- [Carnagion/Modot](https://github.com/Carnagion/Modot) - A mod loader and API for applications made using Godot, with the ability to load C# assemblies, XML data, and resource packs at runtime. (today)
 - [apoorvalal/ding_causalInference_python](https://github.com/apoorvalal/ding_causalInference_python) - python implementation of Peng Ding's "First Course in Causal Inference"  (today)
 - [lmullen/gender](https://github.com/lmullen/gender) - Predict Gender from Names Using Historical Data (today)
 - [jjcheer/ocrcn_tf2](https://github.com/jjcheer/ocrcn_tf2) - TensorFlow2.0的中文汉字手写体识别！OCR必备，欢迎star！ (today)
-- [kjhealy/revere](https://github.com/kjhealy/revere) - Finding Paul Revere (today)
-- [kjhealy/emacs-starter-kit](https://github.com/kjhealy/emacs-starter-kit) - NO LONGER MAINTAINED! A drop-in starter-kit for Emacs 24, aimed at social scientists researching and writing in plain text using some combination of LaTeX, R, ESS, Git, Markdown, and Org-Mode. (today)
 
 ## 🔨 Latest Pull Requests I published
 
