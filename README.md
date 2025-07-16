@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [Chaphasilor/jellyfin-rewind](https://github.com/Chaphasilor/jellyfin-rewind) - Review Your Music of 2024. A "Spotify Wrapped"-like app made for people who use Jellyfin for listening to music! (today)
 - [nicolasbonnici/cryptobot](https://github.com/nicolasbonnici/cryptobot) - Crypto trading bot wrote using Python 3.9. (today)
 - [vermouth1992/drl-portfolio-management](https://github.com/vermouth1992/drl-portfolio-management) - CSCI 599 deep learning and its applications final project (today)
 - [rocLv/OnJava8](https://github.com/rocLv/OnJava8) - 《On Java 8》中文版，又名《Java编程思想》 第5版  (today)
 - [renyijiu/douyin_downloader](https://github.com/renyijiu/douyin_downloader) - 👏Download all douyin videos of user(including favorites) , 下载指定用户的所有抖音视频以及收藏的视频(无水印) (today)
-- [daisuke0131/ViewMonitor](https://github.com/daisuke0131/ViewMonitor) - ViewMonitor can measure view positions with accuracy. (1 day ago)
 
 ## 🔨 Latest Pull Requests I published
 
