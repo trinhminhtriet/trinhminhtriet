@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Khushnu](https://github.com/Khushnu)
+- [kingdyoung](https://github.com/kingdyoung)
 - [Damzykglitch](https://github.com/Damzykglitch)
 - [Shiori-Takanashi](https://github.com/Shiori-Takanashi)
 - [pranjulsaxena](https://github.com/pranjulsaxena)
@@ -54,8 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [blackboot64x](https://github.com/blackboot64x)
 - [v664](https://github.com/v664)
 - [NorahGreen](https://github.com/NorahGreen)
-- [Tayondw](https://github.com/Tayondw)
-- [Reuben1987AI](https://github.com/Reuben1987AI)
 
 ## ⭐ Recent stars
 
