@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [PromtEngineer/localGPT](https://github.com/PromtEngineer/localGPT) - Chat with your documents on your local device using GPT models. No data leaves your device and 100% private.  (today)
 - [gak/pygooglechart](https://github.com/gak/pygooglechart) - pygooglechart is a complete Python wrapper for the Google Chart API. (today)
 - [gak/pycallgraph](https://github.com/gak/pycallgraph) - pycallgraph is a Python module that creates call graphs for Python programs. (today)
 - [mgoltzsche/podman-static](https://github.com/mgoltzsche/podman-static) - static podman binaries and container image (today)
 - [extreme-assistant/ECCV2022-Paper-Code-Interpretation](https://github.com/extreme-assistant/ECCV2022-Paper-Code-Interpretation) - ECCV2022 论文/代码/解读合集，极市团队整理 (today)
-- [extreme-assistant/Deep-learning-datasets](https://github.com/extreme-assistant/Deep-learning-datasets) - 整理分类深度学习各方向公开数据集 (today)
 
 ## 🔨 Latest Pull Requests I published
 
