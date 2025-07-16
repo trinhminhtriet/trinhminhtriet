@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [itsezlife/flutter-instagram-offline-first-clone](https://github.com/itsezlife/flutter-instagram-offline-first-clone) -  Offline Instagram? No problem! Dive into this Flutter clone with seamless sync and all your favorite features, even when you're off the grid. ✨ Explore posts, create content, interact with friends – all offline! Syncs magically when you're back online.  Built with Flutter and ❤️. (today)
-- [Carnagion/Modot](https://github.com/Carnagion/Modot) - A mod loader and API for applications made using Godot, with the ability to load C# assemblies, XML data, and resource packs at runtime. (today)
-- [apoorvalal/ding_causalInference_python](https://github.com/apoorvalal/ding_causalInference_python) - python implementation of Peng Ding's "First Course in Causal Inference"  (today)
-- [lmullen/gender](https://github.com/lmullen/gender) - Predict Gender from Names Using Historical Data (today)
-- [jjcheer/ocrcn_tf2](https://github.com/jjcheer/ocrcn_tf2) - TensorFlow2.0的中文汉字手写体识别！OCR必备，欢迎star！ (today)
+- [CleanPegasus/TensorDash](https://github.com/CleanPegasus/TensorDash) - TensorDash is an application that lets you remotely monitor your deep learning model's metrics and notifies you when your model training is completed or crashed. (today)
+- [oneil512/INSIGHT](https://github.com/oneil512/INSIGHT) - INSIGHT is an autonomous AI that can do medical research! (today)
+- [White-Link/UnsupervisedScalableRepresentationLearningTimeSeries](https://github.com/White-Link/UnsupervisedScalableRepresentationLearningTimeSeries) - Unsupervised Scalable Representation Learning for Multivariate Time Series: Experiments (today)
+- [Soldelli/MAD](https://github.com/Soldelli/MAD) - MAD: A Scalable Dataset for Language Grounding in Videos from Movie Audio Descriptions (today)
+- [DrJZhou/Journal-Information](https://github.com/DrJZhou/Journal-Information) - The information of computer journal (today)
 
 ## 🔨 Latest Pull Requests I published
 
