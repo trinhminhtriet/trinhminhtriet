@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Damzykglitch](https://github.com/Damzykglitch)
+- [Shiori-Takanashi](https://github.com/Shiori-Takanashi)
 - [pranjulsaxena](https://github.com/pranjulsaxena)
 - [ygicp](https://github.com/ygicp)
 - [zheliuyu](https://github.com/zheliuyu)
@@ -54,16 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [NorahGreen](https://github.com/NorahGreen)
 - [Tayondw](https://github.com/Tayondw)
 - [Reuben1987AI](https://github.com/Reuben1987AI)
-- [damian-pebe](https://github.com/damian-pebe)
-- [amr-yasser226](https://github.com/amr-yasser226)
 
 ## ⭐ Recent stars
 
-- [CleanPegasus/TensorDash](https://github.com/CleanPegasus/TensorDash) - TensorDash is an application that lets you remotely monitor your deep learning model's metrics and notifies you when your model training is completed or crashed. (today)
-- [oneil512/INSIGHT](https://github.com/oneil512/INSIGHT) - INSIGHT is an autonomous AI that can do medical research! (today)
-- [White-Link/UnsupervisedScalableRepresentationLearningTimeSeries](https://github.com/White-Link/UnsupervisedScalableRepresentationLearningTimeSeries) - Unsupervised Scalable Representation Learning for Multivariate Time Series: Experiments (today)
-- [Soldelli/MAD](https://github.com/Soldelli/MAD) - MAD: A Scalable Dataset for Language Grounding in Videos from Movie Audio Descriptions (today)
-- [DrJZhou/Journal-Information](https://github.com/DrJZhou/Journal-Information) - The information of computer journal (today)
+- [gak/pygooglechart](https://github.com/gak/pygooglechart) - pygooglechart is a complete Python wrapper for the Google Chart API. (today)
+- [gak/pycallgraph](https://github.com/gak/pycallgraph) - pycallgraph is a Python module that creates call graphs for Python programs. (today)
+- [mgoltzsche/podman-static](https://github.com/mgoltzsche/podman-static) - static podman binaries and container image (today)
+- [extreme-assistant/ECCV2022-Paper-Code-Interpretation](https://github.com/extreme-assistant/ECCV2022-Paper-Code-Interpretation) - ECCV2022 论文/代码/解读合集，极市团队整理 (today)
+- [extreme-assistant/Deep-learning-datasets](https://github.com/extreme-assistant/Deep-learning-datasets) - 整理分类深度学习各方向公开数据集 (today)
 
 ## 🔨 Latest Pull Requests I published
 
