@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [polymath254](https://github.com/polymath254)
+- [Tayondw](https://github.com/Tayondw)
 - [VAIBHAVSING](https://github.com/VAIBHAVSING)
 - [RamaHernandez03](https://github.com/RamaHernandez03)
 - [VinayakWankhade](https://github.com/VinayakWankhade)
@@ -54,8 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [ark948](https://github.com/ark948)
 - [Rikivos](https://github.com/Rikivos)
 - [Khushnu](https://github.com/Khushnu)
-- [kingdyoung](https://github.com/kingdyoung)
-- [Damzykglitch](https://github.com/Damzykglitch)
 
 ## ⭐ Recent stars
 
