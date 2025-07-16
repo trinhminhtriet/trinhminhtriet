@@ -33,12 +33,12 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👷 Check out what I'm currently working on
 
-- [trinhminhtriet/docs](https://github.com/trinhminhtriet/docs) (today)
-- [trinhminhtriet/curli](https://github.com/trinhminhtriet/curli) - 🌀 Curli: A user-friendly curl interface combining HTTPie’s simplicity with curl’s full functionality and power. (1 day ago)
-- [trinhminhtriet/blast](https://github.com/trinhminhtriet/blast) - 🚀 Blast: A powerful, lightweight HTTP load generator for stress testing and benchmarking web applications with ease. (1 day ago)
-- [trinhminhtriet/netcatr](https://github.com/trinhminhtriet/netcatr) - 📡 netcat: A cross-platform port listener and reverse shell application designed for ease of use, providing seamless network connectivity. (1 day ago)
-- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (2 days ago)
-- [trinhminhtriet/rmrfrs](https://github.com/trinhminhtriet/rmrfrs) - 🧹 rmrfrs is a powerful filesystem cleaning tool designed to optimize storage by identifying and removing unnecessary files within known project structures. (6 days ago)
+- [trinhminhtriet/docs](https://github.com/trinhminhtriet/docs) (1 day ago)
+- [trinhminhtriet/curli](https://github.com/trinhminhtriet/curli) - 🌀 Curli: A user-friendly curl interface combining HTTPie’s simplicity with curl’s full functionality and power. (2 days ago)
+- [trinhminhtriet/blast](https://github.com/trinhminhtriet/blast) - 🚀 Blast: A powerful, lightweight HTTP load generator for stress testing and benchmarking web applications with ease. (2 days ago)
+- [trinhminhtriet/netcatr](https://github.com/trinhminhtriet/netcatr) - 📡 netcat: A cross-platform port listener and reverse shell application designed for ease of use, providing seamless network connectivity. (2 days ago)
+- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (3 days ago)
+- [trinhminhtriet/rmrfrs](https://github.com/trinhminhtriet/rmrfrs) - 🧹 rmrfrs is a powerful filesystem cleaning tool designed to optimize storage by identifying and removing unnecessary files within known project structures. (1 week ago)
 - [trinhminhtriet/spiko](https://github.com/trinhminhtriet/spiko) - 🚀 Spiko is a fast, Rust-based load testing tool with a beautiful TUI for real-time insights. (2 weeks ago)
 - [trinhminhtriet/pingy](https://github.com/trinhminhtriet/pingy) - ⚡ Pingy: A fast, concurrent Rust-based ping tool with real-time updates & visual charts! 📊🚀 (1 month ago)
 - [trinhminhtriet/visyo](https://github.com/trinhminhtriet/visyo) - Visyo — ✨ A fast, minimal, and themeable CLI tool that displays visual system output across platforms. (1 month ago)
@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [amr-yasser226](https://github.com/amr-yasser226)
 - [pierremerry15](https://github.com/pierremerry15)
 - [Muhammadnvd](https://github.com/Muhammadnvd)
 - [Abdellahsyani](https://github.com/Abdellahsyani)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [aryadira](https://github.com/aryadira)
 - [FaisalQ05](https://github.com/FaisalQ05)
 - [akhundi01](https://github.com/akhundi01)
-- [Samraj5413](https://github.com/Samraj5413)
 
 ## ⭐ Recent stars
 
-- [michelbernardods/labs-pentest](https://github.com/michelbernardods/labs-pentest) - Free Labs to Train Your Pentest / CTF Skills (today)
-- [michelbernardods/programming-challenges](https://github.com/michelbernardods/programming-challenges) - Algorithmic, Data Structures, Frontend and Pentest - Programming challenges and competitions to improve knowledge. (today)
-- [pippinsplugins/wp-logging](https://github.com/pippinsplugins/wp-logging) - A WordPress class that provides a general logging system. (today)
-- [trepmal/wp-revisions-cli](https://github.com/trepmal/wp-revisions-cli) - WP-CLI command. Manage post revisions. (today)
-- [johnpbloch/wordpress-core](https://github.com/johnpbloch/wordpress-core) (today)
+- [rocLv/OnJava8](https://github.com/rocLv/OnJava8) - 《On Java 8》中文版，又名《Java编程思想》 第5版  (today)
+- [renyijiu/douyin_downloader](https://github.com/renyijiu/douyin_downloader) - 👏Download all douyin videos of user(including favorites) , 下载指定用户的所有抖音视频以及收藏的视频(无水印) (today)
+- [daisuke0131/ViewMonitor](https://github.com/daisuke0131/ViewMonitor) - ViewMonitor can measure view positions with accuracy. (1 day ago)
+- [ainilili/ratel](https://github.com/ainilili/ratel) - 命令行斗地主、德州扑克! (1 day ago)
+- [michelbernardods/labs-pentest](https://github.com/michelbernardods/labs-pentest) - Free Labs to Train Your Pentest / CTF Skills (1 day ago)
 
 ## 🔨 Latest Pull Requests I published
 
