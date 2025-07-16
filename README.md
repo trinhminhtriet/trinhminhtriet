@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [ark948](https://github.com/ark948)
 - [Rikivos](https://github.com/Rikivos)
 - [Khushnu](https://github.com/Khushnu)
 - [kingdyoung](https://github.com/kingdyoung)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [ygicp](https://github.com/ygicp)
 - [zheliuyu](https://github.com/zheliuyu)
 - [blackboot64x](https://github.com/blackboot64x)
-- [v664](https://github.com/v664)
 
 ## ⭐ Recent stars
 
