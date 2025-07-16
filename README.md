@@ -34,8 +34,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 ## 👷 Check out what I'm currently working on
 
 - [trinhminhtriet/docs](https://github.com/trinhminhtriet/docs) (1 day ago)
-- [trinhminhtriet/curli](https://github.com/trinhminhtriet/curli) - 🌀 Curli: A user-friendly curl interface combining HTTPie’s simplicity with curl’s full functionality and power. (2 days ago)
 - [trinhminhtriet/blast](https://github.com/trinhminhtriet/blast) - 🚀 Blast: A powerful, lightweight HTTP load generator for stress testing and benchmarking web applications with ease. (2 days ago)
+- [trinhminhtriet/curli](https://github.com/trinhminhtriet/curli) - 🌀 Curli: A user-friendly curl interface combining HTTPie’s simplicity with curl’s full functionality and power. (2 days ago)
 - [trinhminhtriet/netcatr](https://github.com/trinhminhtriet/netcatr) - 📡 netcat: A cross-platform port listener and reverse shell application designed for ease of use, providing seamless network connectivity. (2 days ago)
 - [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (3 days ago)
 - [trinhminhtriet/rmrfrs](https://github.com/trinhminhtriet/rmrfrs) - 🧹 rmrfrs is a powerful filesystem cleaning tool designed to optimize storage by identifying and removing unnecessary files within known project structures. (1 week ago)
@@ -46,24 +46,24 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [NorahGreen](https://github.com/NorahGreen)
+- [Tayondw](https://github.com/Tayondw)
+- [Reuben1987AI](https://github.com/Reuben1987AI)
+- [damian-pebe](https://github.com/damian-pebe)
 - [amr-yasser226](https://github.com/amr-yasser226)
 - [pierremerry15](https://github.com/pierremerry15)
 - [Muhammadnvd](https://github.com/Muhammadnvd)
 - [Abdellahsyani](https://github.com/Abdellahsyani)
 - [AlejoCNYT](https://github.com/AlejoCNYT)
-- [Tayondw](https://github.com/Tayondw)
 - [JOELNATHAN544](https://github.com/JOELNATHAN544)
-- [aryadira](https://github.com/aryadira)
-- [FaisalQ05](https://github.com/FaisalQ05)
-- [akhundi01](https://github.com/akhundi01)
 
 ## ⭐ Recent stars
 
+- [nicolasbonnici/cryptobot](https://github.com/nicolasbonnici/cryptobot) - Crypto trading bot wrote using Python 3.9. (today)
+- [vermouth1992/drl-portfolio-management](https://github.com/vermouth1992/drl-portfolio-management) - CSCI 599 deep learning and its applications final project (today)
 - [rocLv/OnJava8](https://github.com/rocLv/OnJava8) - 《On Java 8》中文版，又名《Java编程思想》 第5版  (today)
 - [renyijiu/douyin_downloader](https://github.com/renyijiu/douyin_downloader) - 👏Download all douyin videos of user(including favorites) , 下载指定用户的所有抖音视频以及收藏的视频(无水印) (today)
 - [daisuke0131/ViewMonitor](https://github.com/daisuke0131/ViewMonitor) - ViewMonitor can measure view positions with accuracy. (1 day ago)
-- [ainilili/ratel](https://github.com/ainilili/ratel) - 命令行斗地主、德州扑克! (1 day ago)
-- [michelbernardods/labs-pentest](https://github.com/michelbernardods/labs-pentest) - Free Labs to Train Your Pentest / CTF Skills (1 day ago)
 
 ## 🔨 Latest Pull Requests I published
 
