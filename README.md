@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [pranjulsaxena](https://github.com/pranjulsaxena)
+- [ygicp](https://github.com/ygicp)
 - [zheliuyu](https://github.com/zheliuyu)
 - [blackboot64x](https://github.com/blackboot64x)
 - [v664](https://github.com/v664)
@@ -54,8 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Reuben1987AI](https://github.com/Reuben1987AI)
 - [damian-pebe](https://github.com/damian-pebe)
 - [amr-yasser226](https://github.com/amr-yasser226)
-- [pierremerry15](https://github.com/pierremerry15)
-- [Muhammadnvd](https://github.com/Muhammadnvd)
 
 ## ⭐ Recent stars
 
