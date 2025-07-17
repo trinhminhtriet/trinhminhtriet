@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [yukimeguri](https://github.com/yukimeguri)
 - [ADKATT](https://github.com/ADKATT)
 - [Nayeem0011](https://github.com/Nayeem0011)
 - [Lildeon](https://github.com/Lildeon)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [VAIBHAVSING](https://github.com/VAIBHAVSING)
 - [RamaHernandez03](https://github.com/RamaHernandez03)
 - [VinayakWankhade](https://github.com/VinayakWankhade)
-- [ya-awn](https://github.com/ya-awn)
 
 ## ⭐ Recent stars
 
