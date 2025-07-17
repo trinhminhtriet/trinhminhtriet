@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [yonghwankim-dev/OperatingSystem_Study](https://github.com/yonghwankim-dev/OperatingSystem_Study) - [인프런] 운영체제 공룡책 강의, 정리 (today)
-- [TheSGJ/nextjs-toploader](https://github.com/TheSGJ/nextjs-toploader) - A Next.js Top Loading Bar component made using nprogress, works with Next.js 15 , Next.js 14 and React. (today)
-- [Hhhhhhao/continuous_tokenizer](https://github.com/Hhhhhhao/continuous_tokenizer) (today)
-- [luo3300612/image-captioning-DLCT](https://github.com/luo3300612/image-captioning-DLCT) - Official pytorch implementation of paper "Dual-Level Collaborative Transformer for Image Captioning" (AAAI 2021). (today)
-- [luo3300612/Visualizer](https://github.com/luo3300612/Visualizer) - assistant tools for attention visualization in deep learning (today)
+- [devHudi/gatsby-starter-hoodie](https://github.com/devHudi/gatsby-starter-hoodie) - 🚀 gatsby-starter-hoodie is a gatsby starter developed for developers to build tech blogs. (today)
+- [lsjsj92/recommender_system_with_Python](https://github.com/lsjsj92/recommender_system_with_Python) - recommender system tutorial with Python (today)
+- [rschiang/material](https://github.com/rschiang/material) - Material Design components using Qt/QML (today)
+- [benjioh5/CS-Univ-Wiki](https://github.com/benjioh5/CS-Univ-Wiki) - 컴공생을 위한 대학 생활 가이드라인 (today)
+- [TatevKaren/mathematics-statistics-for-data-science](https://github.com/TatevKaren/mathematics-statistics-for-data-science) - Mathematical & Statistical topics to perform statistical analysis and tests; Linear Regression, Probability Theory, Monte Carlo Simulation, Statistical Sampling, Bootstrapping, Dimensionality reduction techniques (PCA, FA, CCA), Imputation techniques, Statistical Tests (Kolmogorov Smirnov), Robust Estimators (FastMCD) and more in Python and R. (today)
 
 ## 🔨 Latest Pull Requests I published
 
