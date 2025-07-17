@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [kiyanamiiii](https://github.com/kiyanamiiii)
 - [yukimeguri](https://github.com/yukimeguri)
 - [ADKATT](https://github.com/ADKATT)
 - [Nayeem0011](https://github.com/Nayeem0011)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Tayondw](https://github.com/Tayondw)
 - [VAIBHAVSING](https://github.com/VAIBHAVSING)
 - [RamaHernandez03](https://github.com/RamaHernandez03)
-- [VinayakWankhade](https://github.com/VinayakWankhade)
 
 ## ⭐ Recent stars
 
-- [PromtEngineer/localGPT](https://github.com/PromtEngineer/localGPT) - Chat with your documents on your local device using GPT models. No data leaves your device and 100% private.  (1 day ago)
-- [gak/pygooglechart](https://github.com/gak/pygooglechart) - pygooglechart is a complete Python wrapper for the Google Chart API. (1 day ago)
-- [gak/pycallgraph](https://github.com/gak/pycallgraph) - pycallgraph is a Python module that creates call graphs for Python programs. (1 day ago)
-- [mgoltzsche/podman-static](https://github.com/mgoltzsche/podman-static) - static podman binaries and container image (1 day ago)
-- [extreme-assistant/ECCV2022-Paper-Code-Interpretation](https://github.com/extreme-assistant/ECCV2022-Paper-Code-Interpretation) - ECCV2022 论文/代码/解读合集，极市团队整理 (1 day ago)
+- [yonghwankim-dev/OperatingSystem_Study](https://github.com/yonghwankim-dev/OperatingSystem_Study) - [인프런] 운영체제 공룡책 강의, 정리 (today)
+- [TheSGJ/nextjs-toploader](https://github.com/TheSGJ/nextjs-toploader) - A Next.js Top Loading Bar component made using nprogress, works with Next.js 15 , Next.js 14 and React. (today)
+- [Hhhhhhao/continuous_tokenizer](https://github.com/Hhhhhhao/continuous_tokenizer) (today)
+- [luo3300612/image-captioning-DLCT](https://github.com/luo3300612/image-captioning-DLCT) - Official pytorch implementation of paper "Dual-Level Collaborative Transformer for Image Captioning" (AAAI 2021). (today)
+- [luo3300612/Visualizer](https://github.com/luo3300612/Visualizer) - assistant tools for attention visualization in deep learning (today)
 
 ## 🔨 Latest Pull Requests I published
 
