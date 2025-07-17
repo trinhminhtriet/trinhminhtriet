@@ -33,12 +33,12 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👷 Check out what I'm currently working on
 
-- [trinhminhtriet/backstage](https://github.com/trinhminhtriet/backstage) (today)
-- [trinhminhtriet/docs](https://github.com/trinhminhtriet/docs) (today)
-- [trinhminhtriet/netcatr](https://github.com/trinhminhtriet/netcatr) - 📡 netcat: A cross-platform port listener and reverse shell application designed for ease of use, providing seamless network connectivity. (2 days ago)
-- [trinhminhtriet/curli](https://github.com/trinhminhtriet/curli) - 🌀 Curli: A user-friendly curl interface combining HTTPie’s simplicity with curl’s full functionality and power. (2 days ago)
-- [trinhminhtriet/blast](https://github.com/trinhminhtriet/blast) - 🚀 Blast: A powerful, lightweight HTTP load generator for stress testing and benchmarking web applications with ease. (2 days ago)
-- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (3 days ago)
+- [trinhminhtriet/backstage](https://github.com/trinhminhtriet/backstage) (1 day ago)
+- [trinhminhtriet/docs](https://github.com/trinhminhtriet/docs) (1 day ago)
+- [trinhminhtriet/netcatr](https://github.com/trinhminhtriet/netcatr) - 📡 netcat: A cross-platform port listener and reverse shell application designed for ease of use, providing seamless network connectivity. (3 days ago)
+- [trinhminhtriet/curli](https://github.com/trinhminhtriet/curli) - 🌀 Curli: A user-friendly curl interface combining HTTPie’s simplicity with curl’s full functionality and power. (3 days ago)
+- [trinhminhtriet/blast](https://github.com/trinhminhtriet/blast) - 🚀 Blast: A powerful, lightweight HTTP load generator for stress testing and benchmarking web applications with ease. (3 days ago)
+- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (4 days ago)
 - [trinhminhtriet/rmrfrs](https://github.com/trinhminhtriet/rmrfrs) - 🧹 rmrfrs is a powerful filesystem cleaning tool designed to optimize storage by identifying and removing unnecessary files within known project structures. (1 week ago)
 - [trinhminhtriet/spiko](https://github.com/trinhminhtriet/spiko) - 🚀 Spiko is a fast, Rust-based load testing tool with a beautiful TUI for real-time insights. (2 weeks ago)
 - [trinhminhtriet/pingy](https://github.com/trinhminhtriet/pingy) - ⚡ Pingy: A fast, concurrent Rust-based ping tool with real-time updates & visual charts! 📊🚀 (1 month ago)
@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [ajax936](https://github.com/ajax936)
 - [polymath254](https://github.com/polymath254)
 - [Tayondw](https://github.com/Tayondw)
 - [VAIBHAVSING](https://github.com/VAIBHAVSING)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Ericksonxd165](https://github.com/Ericksonxd165)
 - [ark948](https://github.com/ark948)
 - [Rikivos](https://github.com/Rikivos)
-- [Khushnu](https://github.com/Khushnu)
 
 ## ⭐ Recent stars
 
-- [PromtEngineer/localGPT](https://github.com/PromtEngineer/localGPT) - Chat with your documents on your local device using GPT models. No data leaves your device and 100% private.  (today)
-- [gak/pygooglechart](https://github.com/gak/pygooglechart) - pygooglechart is a complete Python wrapper for the Google Chart API. (today)
-- [gak/pycallgraph](https://github.com/gak/pycallgraph) - pycallgraph is a Python module that creates call graphs for Python programs. (today)
-- [mgoltzsche/podman-static](https://github.com/mgoltzsche/podman-static) - static podman binaries and container image (today)
-- [extreme-assistant/ECCV2022-Paper-Code-Interpretation](https://github.com/extreme-assistant/ECCV2022-Paper-Code-Interpretation) - ECCV2022 论文/代码/解读合集，极市团队整理 (today)
+- [PromtEngineer/localGPT](https://github.com/PromtEngineer/localGPT) - Chat with your documents on your local device using GPT models. No data leaves your device and 100% private.  (1 day ago)
+- [gak/pygooglechart](https://github.com/gak/pygooglechart) - pygooglechart is a complete Python wrapper for the Google Chart API. (1 day ago)
+- [gak/pycallgraph](https://github.com/gak/pycallgraph) - pycallgraph is a Python module that creates call graphs for Python programs. (1 day ago)
+- [mgoltzsche/podman-static](https://github.com/mgoltzsche/podman-static) - static podman binaries and container image (1 day ago)
+- [extreme-assistant/ECCV2022-Paper-Code-Interpretation](https://github.com/extreme-assistant/ECCV2022-Paper-Code-Interpretation) - ECCV2022 论文/代码/解读合集，极市团队整理 (1 day ago)
 
 ## 🔨 Latest Pull Requests I published
 
