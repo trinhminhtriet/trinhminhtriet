@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [BinWang28/SBERT-WK-Sentence-Embedding](https://github.com/BinWang28/SBERT-WK-Sentence-Embedding) - IEEE/ACM TASLP 2020: SBERT-WK: A Sentence Embedding Method By  Dissecting BERT-based Word Models (today)
-- [thecaffeinedev/Real-Estate-Django-Web-App](https://github.com/thecaffeinedev/Real-Estate-Django-Web-App) - Real Estate Django Web App (today)
-- [oliver-zehentleitner/unicorn-binance-websocket-api](https://github.com/oliver-zehentleitner/unicorn-binance-websocket-api) - A Python SDK to use the Binance Websocket API`s (com+testnet, com-margin+testnet, com-isolated_margin+testnet, com-futures+testnet, com-coin_futures, us, tr, dex/chain+testnet) in a simple, fast, flexible, robust and fully-featured way.  (today)
-- [BarqueroGerman/FlowMDM](https://github.com/BarqueroGerman/FlowMDM) - [CVPR 2024] Official Implementation of "Seamless Human Motion Composition with Blended Positional Encodings". (today)
-- [tajchert/BusWear](https://github.com/tajchert/BusWear) - EventBus for Android Wear devices. (today)
+- [kaituoxu/Listen-Attend-Spell](https://github.com/kaituoxu/Listen-Attend-Spell) - A PyTorch implementation of Listen, Attend and Spell (LAS), an End-to-End ASR framework. (today)
+- [kaituoxu/Conv-TasNet](https://github.com/kaituoxu/Conv-TasNet) - A PyTorch implementation of Conv-TasNet described in "TasNet: Surpassing Ideal Time-Frequency Masking for Speech Separation" with Permutation Invariant Training (PIT). (today)
+- [kaituoxu/Speech-Transformer](https://github.com/kaituoxu/Speech-Transformer) - A PyTorch implementation of Speech Transformer, an End-to-End ASR with Transformer network on Mandarin Chinese. (today)
+- [lvchuandong/Awesome-Multi-Camera-3D-Occupancy-Prediction](https://github.com/lvchuandong/Awesome-Multi-Camera-3D-Occupancy-Prediction) - Awesome papers and code about Multi-Camera 3D Occupancy Prediction, such as TPVFormer, SurroundOcc, PanoOcc, OccFormer, FB-OCC, SelfOcc, COTR, SparseOcc, GaussianFormer, GaussianOcc, STCOcc, OccMamba. In this repository, you will see the latest 3D occupancy prediction papers and code. (today)
+- [snsun/pit-speech-separation](https://github.com/snsun/pit-speech-separation) (today)
 
 ## 🔨 Latest Pull Requests I published
 
