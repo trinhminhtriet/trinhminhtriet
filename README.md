@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [aoaydin](https://github.com/aoaydin)
 - [Sayanta66](https://github.com/Sayanta66)
 - [Tayondw](https://github.com/Tayondw)
 - [phuocle](https://github.com/phuocle)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Nayeem0011](https://github.com/Nayeem0011)
 - [Lildeon](https://github.com/Lildeon)
 - [ajax936](https://github.com/ajax936)
-- [polymath254](https://github.com/polymath254)
 
 ## ⭐ Recent stars
 
