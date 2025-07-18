@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [dibiti](https://github.com/dibiti)
+- [seehiong](https://github.com/seehiong)
 - [abishekP101](https://github.com/abishekP101)
 - [ArjunJagdale](https://github.com/ArjunJagdale)
 - [huongnguyen1602](https://github.com/huongnguyen1602)
@@ -54,8 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [phuocle](https://github.com/phuocle)
 - [kiyanamiiii](https://github.com/kiyanamiiii)
 - [yukimeguri](https://github.com/yukimeguri)
-- [ADKATT](https://github.com/ADKATT)
-- [Nayeem0011](https://github.com/Nayeem0011)
 
 ## ⭐ Recent stars
 
