@@ -33,12 +33,12 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👷 Check out what I'm currently working on
 
-- [trinhminhtriet/backstage](https://github.com/trinhminhtriet/backstage) (1 day ago)
-- [trinhminhtriet/docs](https://github.com/trinhminhtriet/docs) (1 day ago)
-- [trinhminhtriet/blast](https://github.com/trinhminhtriet/blast) - 🚀 Blast: A powerful, lightweight HTTP load generator for stress testing and benchmarking web applications with ease. (3 days ago)
-- [trinhminhtriet/netcatr](https://github.com/trinhminhtriet/netcatr) - 📡 netcat: A cross-platform port listener and reverse shell application designed for ease of use, providing seamless network connectivity. (3 days ago)
-- [trinhminhtriet/curli](https://github.com/trinhminhtriet/curli) - 🌀 Curli: A user-friendly curl interface combining HTTPie’s simplicity with curl’s full functionality and power. (3 days ago)
-- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (4 days ago)
+- [trinhminhtriet/backstage](https://github.com/trinhminhtriet/backstage) (2 days ago)
+- [trinhminhtriet/docs](https://github.com/trinhminhtriet/docs) (2 days ago)
+- [trinhminhtriet/blast](https://github.com/trinhminhtriet/blast) - 🚀 Blast: A powerful, lightweight HTTP load generator for stress testing and benchmarking web applications with ease. (4 days ago)
+- [trinhminhtriet/netcatr](https://github.com/trinhminhtriet/netcatr) - 📡 netcat: A cross-platform port listener and reverse shell application designed for ease of use, providing seamless network connectivity. (4 days ago)
+- [trinhminhtriet/curli](https://github.com/trinhminhtriet/curli) - 🌀 Curli: A user-friendly curl interface combining HTTPie’s simplicity with curl’s full functionality and power. (4 days ago)
+- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (5 days ago)
 - [trinhminhtriet/rmrfrs](https://github.com/trinhminhtriet/rmrfrs) - 🧹 rmrfrs is a powerful filesystem cleaning tool designed to optimize storage by identifying and removing unnecessary files within known project structures. (1 week ago)
 - [trinhminhtriet/spiko](https://github.com/trinhminhtriet/spiko) - 🚀 Spiko is a fast, Rust-based load testing tool with a beautiful TUI for real-time insights. (2 weeks ago)
 - [trinhminhtriet/visyo](https://github.com/trinhminhtriet/visyo) - Visyo — ✨ A fast, minimal, and themeable CLI tool that displays visual system output across platforms. (1 month ago)
@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [phuocle](https://github.com/phuocle)
 - [kiyanamiiii](https://github.com/kiyanamiiii)
 - [yukimeguri](https://github.com/yukimeguri)
 - [ADKATT](https://github.com/ADKATT)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [polymath254](https://github.com/polymath254)
 - [Tayondw](https://github.com/Tayondw)
 - [VAIBHAVSING](https://github.com/VAIBHAVSING)
-- [RamaHernandez03](https://github.com/RamaHernandez03)
 
 ## ⭐ Recent stars
 
-- [MisterBooo/LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) - Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路） (today)
-- [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions (today)
-- [devHudi/gatsby-starter-hoodie](https://github.com/devHudi/gatsby-starter-hoodie) - 🚀 gatsby-starter-hoodie is a gatsby starter developed for developers to build tech blogs. (today)
-- [lsjsj92/recommender_system_with_Python](https://github.com/lsjsj92/recommender_system_with_Python) - recommender system tutorial with Python (today)
-- [rschiang/material](https://github.com/rschiang/material) - Material Design components using Qt/QML (today)
+- [MisterBooo/LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) - Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路） (1 day ago)
+- [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions (1 day ago)
+- [devHudi/gatsby-starter-hoodie](https://github.com/devHudi/gatsby-starter-hoodie) - 🚀 gatsby-starter-hoodie is a gatsby starter developed for developers to build tech blogs. (1 day ago)
+- [lsjsj92/recommender_system_with_Python](https://github.com/lsjsj92/recommender_system_with_Python) - recommender system tutorial with Python (1 day ago)
+- [rschiang/material](https://github.com/rschiang/material) - Material Design components using Qt/QML (1 day ago)
 
 ## 🔨 Latest Pull Requests I published
 
