@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [AlphaDragon-Dev](https://github.com/AlphaDragon-Dev)
 - [Vaibhav2202-ECE](https://github.com/Vaibhav2202-ECE)
 - [NinjaVinja](https://github.com/NinjaVinja)
 - [JAYTHAKAR2004](https://github.com/JAYTHAKAR2004)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [ArjunJagdale](https://github.com/ArjunJagdale)
 - [huongnguyen1602](https://github.com/huongnguyen1602)
 - [Sayanta66](https://github.com/Sayanta66)
-- [Tayondw](https://github.com/Tayondw)
 
 ## ⭐ Recent stars
 
