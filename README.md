@@ -46,7 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
-- [aoaydin](https://github.com/aoaydin)
+- [huongnguyen1602](https://github.com/huongnguyen1602)
 - [Sayanta66](https://github.com/Sayanta66)
 - [Tayondw](https://github.com/Tayondw)
 - [phuocle](https://github.com/phuocle)
