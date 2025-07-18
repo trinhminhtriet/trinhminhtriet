@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [BarqueroGerman/FlowMDM](https://github.com/BarqueroGerman/FlowMDM) - [CVPR 2024] Official Implementation of "Seamless Human Motion Composition with Blended Positional Encodings". (today)
+- [tajchert/BusWear](https://github.com/tajchert/BusWear) - EventBus for Android Wear devices. (today)
+- [tajchert/Nammu](https://github.com/tajchert/Nammu) - Permission helper for Android M - background check, monitoring and more (today)
+- [tajchert/WaitingDots](https://github.com/tajchert/WaitingDots) (today)
 - [philpem/freebee](https://github.com/philpem/freebee) - FreeBee - AT&T 3B1 / 7300 UNIX PC emulator (today)
-- [jaseg/matelight](https://github.com/jaseg/matelight) - Show text and gifs on mate crates. Uses C code orchestrated from Python via ctypes. (today)
-- [jaseg/gerbolyze](https://github.com/jaseg/gerbolyze) - Directly render SVG overlays into Gerber and Excellon files (today)
-- [jaseg/lolcat](https://github.com/jaseg/lolcat) - High-performance implementation of https://github.com/busyloop/lolcat (today)
-- [jaseg/python-mpv](https://github.com/jaseg/python-mpv) - Python interface to the awesome mpv media player (today)
 
 ## 🔨 Latest Pull Requests I published
 
