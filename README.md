@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [ArjunJagdale](https://github.com/ArjunJagdale)
 - [huongnguyen1602](https://github.com/huongnguyen1602)
 - [Sayanta66](https://github.com/Sayanta66)
 - [Tayondw](https://github.com/Tayondw)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [ADKATT](https://github.com/ADKATT)
 - [Nayeem0011](https://github.com/Nayeem0011)
 - [Lildeon](https://github.com/Lildeon)
-- [ajax936](https://github.com/ajax936)
 
 ## ⭐ Recent stars
 
-- [MisterBooo/LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) - Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路） (1 day ago)
-- [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions (1 day ago)
-- [devHudi/gatsby-starter-hoodie](https://github.com/devHudi/gatsby-starter-hoodie) - 🚀 gatsby-starter-hoodie is a gatsby starter developed for developers to build tech blogs. (1 day ago)
-- [lsjsj92/recommender_system_with_Python](https://github.com/lsjsj92/recommender_system_with_Python) - recommender system tutorial with Python (1 day ago)
-- [rschiang/material](https://github.com/rschiang/material) - Material Design components using Qt/QML (1 day ago)
+- [futzu/threefive](https://github.com/futzu/threefive) - threefive is SCTE-35. threefive Parses SCTE-35 in every available format. MPEGTS, HLS, DASH. Yes.  (today)
+- [nbfontana/ngx-currency](https://github.com/nbfontana/ngx-currency) - Currency mask module for Angular 📦  (today)
+- [roodriiigooo/PWNAGOTCHI-CUSTOM-FACES-MOD](https://github.com/roodriiigooo/PWNAGOTCHI-CUSTOM-FACES-MOD) - A mod that allows you to use custom images as pwnagotchi Faces with transparency feature (.png) and themed plugins. (today)
+- [wensiyuanseven/lite-virtual-list](https://github.com/wensiyuanseven/lite-virtual-list) - Virtual list component library supporting waterfall flow based on vue (today)
+- [wensiyuanseven/better-gesture](https://github.com/wensiyuanseven/better-gesture) - A gesture library use for pc, mobile, vue, and mini programs (today)
 
 ## 🔨 Latest Pull Requests I published
 
