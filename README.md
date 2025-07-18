@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [BinWang28/SBERT-WK-Sentence-Embedding](https://github.com/BinWang28/SBERT-WK-Sentence-Embedding) - IEEE/ACM TASLP 2020: SBERT-WK: A Sentence Embedding Method By  Dissecting BERT-based Word Models (today)
+- [thecaffeinedev/Real-Estate-Django-Web-App](https://github.com/thecaffeinedev/Real-Estate-Django-Web-App) - Real Estate Django Web App (today)
+- [oliver-zehentleitner/unicorn-binance-websocket-api](https://github.com/oliver-zehentleitner/unicorn-binance-websocket-api) - A Python SDK to use the Binance Websocket API`s (com+testnet, com-margin+testnet, com-isolated_margin+testnet, com-futures+testnet, com-coin_futures, us, tr, dex/chain+testnet) in a simple, fast, flexible, robust and fully-featured way.  (today)
 - [BarqueroGerman/FlowMDM](https://github.com/BarqueroGerman/FlowMDM) - [CVPR 2024] Official Implementation of "Seamless Human Motion Composition with Blended Positional Encodings". (today)
 - [tajchert/BusWear](https://github.com/tajchert/BusWear) - EventBus for Android Wear devices. (today)
-- [tajchert/Nammu](https://github.com/tajchert/Nammu) - Permission helper for Android M - background check, monitoring and more (today)
-- [tajchert/WaitingDots](https://github.com/tajchert/WaitingDots) (today)
-- [philpem/freebee](https://github.com/philpem/freebee) - FreeBee - AT&T 3B1 / 7300 UNIX PC emulator (today)
 
 ## 🔨 Latest Pull Requests I published
 
