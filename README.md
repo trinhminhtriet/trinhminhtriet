@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [dionysuzx/dapp-up](https://github.com/dionysuzx/dapp-up) - A starter template for building Ethereum dapps. 🤝 (today)
 - [futzu/threefive](https://github.com/futzu/threefive) - threefive is SCTE-35. threefive Parses SCTE-35 in every available format. MPEGTS, HLS, DASH. Yes.  (today)
 - [nbfontana/ngx-currency](https://github.com/nbfontana/ngx-currency) - Currency mask module for Angular 📦  (today)
 - [roodriiigooo/PWNAGOTCHI-CUSTOM-FACES-MOD](https://github.com/roodriiigooo/PWNAGOTCHI-CUSTOM-FACES-MOD) - A mod that allows you to use custom images as pwnagotchi Faces with transparency feature (.png) and themed plugins. (today)
 - [wensiyuanseven/lite-virtual-list](https://github.com/wensiyuanseven/lite-virtual-list) - Virtual list component library supporting waterfall flow based on vue (today)
-- [wensiyuanseven/better-gesture](https://github.com/wensiyuanseven/better-gesture) - A gesture library use for pc, mobile, vue, and mini programs (today)
 
 ## 🔨 Latest Pull Requests I published
 
