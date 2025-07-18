@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [CharafeddineMechalikh/PureEdgeSim](https://github.com/CharafeddineMechalikh/PureEdgeSim) - PureEdgeSim: A simulation framework for performance evaluation of cloud, fog, and pure edge computing environments. (today)
 - [PansonPanson/Java-Notes](https://github.com/PansonPanson/Java-Notes) - :books: 计算机科学基础知识、Java开发、后端/服务端、面试相关        :books: computer-science/Java-development/backend/interview (today)
 - [shaal/DrupalPod](https://github.com/shaal/DrupalPod) - Start Drupal contributions with 1 click. (today)
 - [dionysuzx/dapp-up](https://github.com/dionysuzx/dapp-up) - A starter template for building Ethereum dapps. 🤝 (today)
 - [futzu/threefive](https://github.com/futzu/threefive) - threefive is SCTE-35. threefive Parses SCTE-35 in every available format. MPEGTS, HLS, DASH. Yes.  (today)
-- [nbfontana/ngx-currency](https://github.com/nbfontana/ngx-currency) - Currency mask module for Angular 📦  (today)
 
 ## 🔨 Latest Pull Requests I published
 
