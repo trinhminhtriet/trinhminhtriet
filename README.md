@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [rumaan-bot](https://github.com/rumaan-bot)
 - [KapilGayan](https://github.com/KapilGayan)
 - [NSSTUDIO-html](https://github.com/NSSTUDIO-html)
 - [ProphetRu](https://github.com/ProphetRu)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [helpexe](https://github.com/helpexe)
 - [AlphaDragon-Dev](https://github.com/AlphaDragon-Dev)
 - [Vaibhav2202-ECE](https://github.com/Vaibhav2202-ECE)
-- [NinjaVinja](https://github.com/NinjaVinja)
 
 ## ⭐ Recent stars
 
-- [maxtaco/oneshallpass](https://github.com/maxtaco/oneshallpass) - A little self-contained web-page for making secure Web passwords.  Works offline. (today)
-- [maxtaco/coffee-script](https://github.com/maxtaco/coffee-script) - IcedCoffeeScript (today)
-- [maxtaco/tamejs](https://github.com/maxtaco/tamejs) - JavaScript code rewriter for taming async-callback-style code (today)
-- [tollmanz/backbone-wordpress-theme](https://github.com/tollmanz/backbone-wordpress-theme) - A stripped down example of a WordPress theme that utilizes Backbone.js (today)
-- [tollmanz/wordpress-pecl-memcached-object-cache](https://github.com/tollmanz/wordpress-pecl-memcached-object-cache) - A WordPress object cache that uses the memcached (not memcache) PECL extension. (today)
+- [YangShaoXiong/LikeSinaSportProgress](https://github.com/YangShaoXiong/LikeSinaSportProgress) - 仿新浪体育客户端的进度条 (today)
+- [ChenSiLiang/RotatePhotoView](https://github.com/ChenSiLiang/RotatePhotoView) - PhotoView with Rotation Function (today)
+- [antonlindstrom/passpwn](https://github.com/antonlindstrom/passpwn) - See if your passwords in pass has been breached. (today)
+- [TheHackerDev/race-the-web](https://github.com/TheHackerDev/race-the-web) - Tests for race conditions in web applications. Includes a RESTful API to integrate into a continuous integration pipeline. (today)
+- [erasin/notes](https://github.com/erasin/notes) - documents (today)
 
 ## 🔨 Latest Pull Requests I published
 
