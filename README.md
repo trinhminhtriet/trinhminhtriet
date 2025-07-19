@@ -46,7 +46,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
-- [Arison99](https://github.com/Arison99)
 - [Tayondw](https://github.com/Tayondw)
 - [helpexe](https://github.com/helpexe)
 - [AlphaDragon-Dev](https://github.com/AlphaDragon-Dev)
@@ -56,6 +55,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [dibiti](https://github.com/dibiti)
 - [seehiong](https://github.com/seehiong)
 - [abishekP101](https://github.com/abishekP101)
+- [ArjunJagdale](https://github.com/ArjunJagdale)
 
 ## ⭐ Recent stars
 
