@@ -33,12 +33,12 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👷 Check out what I'm currently working on
 
-- [trinhminhtriet/backstage](https://github.com/trinhminhtriet/backstage) (2 days ago)
-- [trinhminhtriet/docs](https://github.com/trinhminhtriet/docs) (2 days ago)
-- [trinhminhtriet/blast](https://github.com/trinhminhtriet/blast) - 🚀 Blast: A powerful, lightweight HTTP load generator for stress testing and benchmarking web applications with ease. (4 days ago)
-- [trinhminhtriet/netcatr](https://github.com/trinhminhtriet/netcatr) - 📡 netcat: A cross-platform port listener and reverse shell application designed for ease of use, providing seamless network connectivity. (4 days ago)
-- [trinhminhtriet/curli](https://github.com/trinhminhtriet/curli) - 🌀 Curli: A user-friendly curl interface combining HTTPie’s simplicity with curl’s full functionality and power. (4 days ago)
-- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (5 days ago)
+- [trinhminhtriet/backstage](https://github.com/trinhminhtriet/backstage) (3 days ago)
+- [trinhminhtriet/docs](https://github.com/trinhminhtriet/docs) (3 days ago)
+- [trinhminhtriet/blast](https://github.com/trinhminhtriet/blast) - 🚀 Blast: A powerful, lightweight HTTP load generator for stress testing and benchmarking web applications with ease. (5 days ago)
+- [trinhminhtriet/netcatr](https://github.com/trinhminhtriet/netcatr) - 📡 netcat: A cross-platform port listener and reverse shell application designed for ease of use, providing seamless network connectivity. (5 days ago)
+- [trinhminhtriet/curli](https://github.com/trinhminhtriet/curli) - 🌀 Curli: A user-friendly curl interface combining HTTPie’s simplicity with curl’s full functionality and power. (5 days ago)
+- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (6 days ago)
 - [trinhminhtriet/rmrfrs](https://github.com/trinhminhtriet/rmrfrs) - 🧹 rmrfrs is a powerful filesystem cleaning tool designed to optimize storage by identifying and removing unnecessary files within known project structures. (1 week ago)
 - [trinhminhtriet/spiko](https://github.com/trinhminhtriet/spiko) - 🚀 Spiko is a fast, Rust-based load testing tool with a beautiful TUI for real-time insights. (2 weeks ago)
 - [trinhminhtriet/visyo](https://github.com/trinhminhtriet/visyo) - Visyo — ✨ A fast, minimal, and themeable CLI tool that displays visual system output across platforms. (1 month ago)
@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Tayondw](https://github.com/Tayondw)
+- [xizaoqu](https://github.com/xizaoqu)
 - [helpexe](https://github.com/helpexe)
 - [AlphaDragon-Dev](https://github.com/AlphaDragon-Dev)
 - [Vaibhav2202-ECE](https://github.com/Vaibhav2202-ECE)
@@ -54,16 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [dibiti](https://github.com/dibiti)
 - [seehiong](https://github.com/seehiong)
 - [abishekP101](https://github.com/abishekP101)
-- [ArjunJagdale](https://github.com/ArjunJagdale)
-- [huongnguyen1602](https://github.com/huongnguyen1602)
 
 ## ⭐ Recent stars
 
-- [kaituoxu/Listen-Attend-Spell](https://github.com/kaituoxu/Listen-Attend-Spell) - A PyTorch implementation of Listen, Attend and Spell (LAS), an End-to-End ASR framework. (today)
-- [kaituoxu/Conv-TasNet](https://github.com/kaituoxu/Conv-TasNet) - A PyTorch implementation of Conv-TasNet described in "TasNet: Surpassing Ideal Time-Frequency Masking for Speech Separation" with Permutation Invariant Training (PIT). (today)
-- [kaituoxu/Speech-Transformer](https://github.com/kaituoxu/Speech-Transformer) - A PyTorch implementation of Speech Transformer, an End-to-End ASR with Transformer network on Mandarin Chinese. (today)
-- [lvchuandong/Awesome-Multi-Camera-3D-Occupancy-Prediction](https://github.com/lvchuandong/Awesome-Multi-Camera-3D-Occupancy-Prediction) - Awesome papers and code about Multi-Camera 3D Occupancy Prediction, such as TPVFormer, SurroundOcc, PanoOcc, OccFormer, FB-OCC, SelfOcc, COTR, SparseOcc, GaussianFormer, GaussianOcc, STCOcc, OccMamba. In this repository, you will see the latest 3D occupancy prediction papers and code. (today)
-- [snsun/pit-speech-separation](https://github.com/snsun/pit-speech-separation) (today)
+- [kaituoxu/Listen-Attend-Spell](https://github.com/kaituoxu/Listen-Attend-Spell) - A PyTorch implementation of Listen, Attend and Spell (LAS), an End-to-End ASR framework. (1 day ago)
+- [kaituoxu/Conv-TasNet](https://github.com/kaituoxu/Conv-TasNet) - A PyTorch implementation of Conv-TasNet described in "TasNet: Surpassing Ideal Time-Frequency Masking for Speech Separation" with Permutation Invariant Training (PIT). (1 day ago)
+- [kaituoxu/Speech-Transformer](https://github.com/kaituoxu/Speech-Transformer) - A PyTorch implementation of Speech Transformer, an End-to-End ASR with Transformer network on Mandarin Chinese. (1 day ago)
+- [lvchuandong/Awesome-Multi-Camera-3D-Occupancy-Prediction](https://github.com/lvchuandong/Awesome-Multi-Camera-3D-Occupancy-Prediction) - Awesome papers and code about Multi-Camera 3D Occupancy Prediction, such as TPVFormer, SurroundOcc, PanoOcc, OccFormer, FB-OCC, SelfOcc, COTR, SparseOcc, GaussianFormer, GaussianOcc, STCOcc, OccMamba. In this repository, you will see the latest 3D occupancy prediction papers and code. (1 day ago)
+- [snsun/pit-speech-separation](https://github.com/snsun/pit-speech-separation) (1 day ago)
 
 ## 🔨 Latest Pull Requests I published
 
