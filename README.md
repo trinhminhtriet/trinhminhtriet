@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [tarequeh/DES](https://github.com/tarequeh/DES) - Implementation of Data Encryption Standard (DES) in C (today)
-- [cbeer/devise-guests](https://github.com/cbeer/devise-guests) - fake 'em until you make 'em (today)
-- [kaituoxu/Listen-Attend-Spell](https://github.com/kaituoxu/Listen-Attend-Spell) - A PyTorch implementation of Listen, Attend and Spell (LAS), an End-to-End ASR framework. (1 day ago)
-- [kaituoxu/Conv-TasNet](https://github.com/kaituoxu/Conv-TasNet) - A PyTorch implementation of Conv-TasNet described in "TasNet: Surpassing Ideal Time-Frequency Masking for Speech Separation" with Permutation Invariant Training (PIT). (1 day ago)
-- [kaituoxu/Speech-Transformer](https://github.com/kaituoxu/Speech-Transformer) - A PyTorch implementation of Speech Transformer, an End-to-End ASR with Transformer network on Mandarin Chinese. (1 day ago)
+- [maxtaco/oneshallpass](https://github.com/maxtaco/oneshallpass) - A little self-contained web-page for making secure Web passwords.  Works offline. (today)
+- [maxtaco/coffee-script](https://github.com/maxtaco/coffee-script) - IcedCoffeeScript (today)
+- [maxtaco/tamejs](https://github.com/maxtaco/tamejs) - JavaScript code rewriter for taming async-callback-style code (today)
+- [tollmanz/backbone-wordpress-theme](https://github.com/tollmanz/backbone-wordpress-theme) - A stripped down example of a WordPress theme that utilizes Backbone.js (today)
+- [tollmanz/wordpress-pecl-memcached-object-cache](https://github.com/tollmanz/wordpress-pecl-memcached-object-cache) - A WordPress object cache that uses the memcached (not memcache) PECL extension. (today)
 
 ## 🔨 Latest Pull Requests I published
 
