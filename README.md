@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [KapilGayan](https://github.com/KapilGayan)
+- [NSSTUDIO-html](https://github.com/NSSTUDIO-html)
 - [ProphetRu](https://github.com/ProphetRu)
 - [HarshaKTM](https://github.com/HarshaKTM)
 - [latin-cmd](https://github.com/latin-cmd)
@@ -54,8 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [AlphaDragon-Dev](https://github.com/AlphaDragon-Dev)
 - [Vaibhav2202-ECE](https://github.com/Vaibhav2202-ECE)
 - [NinjaVinja](https://github.com/NinjaVinja)
-- [JAYTHAKAR2004](https://github.com/JAYTHAKAR2004)
-- [dibiti](https://github.com/dibiti)
 
 ## ⭐ Recent stars
 
