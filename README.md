@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [ProphetRu](https://github.com/ProphetRu)
 - [HarshaKTM](https://github.com/HarshaKTM)
 - [latin-cmd](https://github.com/latin-cmd)
 - [Tayondw](https://github.com/Tayondw)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [NinjaVinja](https://github.com/NinjaVinja)
 - [JAYTHAKAR2004](https://github.com/JAYTHAKAR2004)
 - [dibiti](https://github.com/dibiti)
-- [seehiong](https://github.com/seehiong)
 
 ## ⭐ Recent stars
 
+- [tarequeh/DES](https://github.com/tarequeh/DES) - Implementation of Data Encryption Standard (DES) in C (today)
+- [cbeer/devise-guests](https://github.com/cbeer/devise-guests) - fake 'em until you make 'em (today)
 - [kaituoxu/Listen-Attend-Spell](https://github.com/kaituoxu/Listen-Attend-Spell) - A PyTorch implementation of Listen, Attend and Spell (LAS), an End-to-End ASR framework. (1 day ago)
 - [kaituoxu/Conv-TasNet](https://github.com/kaituoxu/Conv-TasNet) - A PyTorch implementation of Conv-TasNet described in "TasNet: Surpassing Ideal Time-Frequency Masking for Speech Separation" with Permutation Invariant Training (PIT). (1 day ago)
 - [kaituoxu/Speech-Transformer](https://github.com/kaituoxu/Speech-Transformer) - A PyTorch implementation of Speech Transformer, an End-to-End ASR with Transformer network on Mandarin Chinese. (1 day ago)
-- [lvchuandong/Awesome-Multi-Camera-3D-Occupancy-Prediction](https://github.com/lvchuandong/Awesome-Multi-Camera-3D-Occupancy-Prediction) - Awesome papers and code about Multi-Camera 3D Occupancy Prediction, such as TPVFormer, SurroundOcc, PanoOcc, OccFormer, FB-OCC, SelfOcc, COTR, SparseOcc, GaussianFormer, GaussianOcc, STCOcc, OccMamba. In this repository, you will see the latest 3D occupancy prediction papers and code. (1 day ago)
-- [snsun/pit-speech-separation](https://github.com/snsun/pit-speech-separation) (1 day ago)
 
 ## 🔨 Latest Pull Requests I published
 
