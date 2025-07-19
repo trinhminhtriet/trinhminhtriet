@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Popstizzy03](https://github.com/Popstizzy03)
 - [Abhay-lostfromlight](https://github.com/Abhay-lostfromlight)
 - [garrettHensley](https://github.com/garrettHensley)
 - [SHEFOO10](https://github.com/SHEFOO10)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [ProphetRu](https://github.com/ProphetRu)
 - [HarshaKTM](https://github.com/HarshaKTM)
 - [latin-cmd](https://github.com/latin-cmd)
-- [Tayondw](https://github.com/Tayondw)
 
 ## ⭐ Recent stars
 
