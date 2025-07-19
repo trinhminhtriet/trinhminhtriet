@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [SHEFOO10](https://github.com/SHEFOO10)
 - [rumaan-bot](https://github.com/rumaan-bot)
 - [KapilGayan](https://github.com/KapilGayan)
 - [NSSTUDIO-html](https://github.com/NSSTUDIO-html)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Tayondw](https://github.com/Tayondw)
 - [helpexe](https://github.com/helpexe)
 - [AlphaDragon-Dev](https://github.com/AlphaDragon-Dev)
-- [Vaibhav2202-ECE](https://github.com/Vaibhav2202-ECE)
 
 ## ⭐ Recent stars
 
-- [YangShaoXiong/LikeSinaSportProgress](https://github.com/YangShaoXiong/LikeSinaSportProgress) - 仿新浪体育客户端的进度条 (today)
-- [ChenSiLiang/RotatePhotoView](https://github.com/ChenSiLiang/RotatePhotoView) - PhotoView with Rotation Function (today)
-- [antonlindstrom/passpwn](https://github.com/antonlindstrom/passpwn) - See if your passwords in pass has been breached. (today)
-- [TheHackerDev/race-the-web](https://github.com/TheHackerDev/race-the-web) - Tests for race conditions in web applications. Includes a RESTful API to integrate into a continuous integration pipeline. (today)
-- [erasin/notes](https://github.com/erasin/notes) - documents (today)
+- [anantshri/wp-security](https://github.com/anantshri/wp-security) - Wordpress security functions for paranoid folks. (themes functions.php and .htaccess). Take what you want, leave what you think should be added to it. (today)
+- [anantshri/Android_Security](https://github.com/anantshri/Android_Security) - This repository is a suplimentary material for Android Training's done by Anant Shrivastava from 2012-2017 (today)
+- [anantshri/svn-extractor](https://github.com/anantshri/svn-extractor) - simple script to extract all web resources by means of .SVN folder exposed over network. (today)
+- [Chudry/Xerror](https://github.com/Chudry/Xerror) - fully automated pentesting tool (today)
+- [eybisi/kavanoz](https://github.com/eybisi/kavanoz) - Statically unpacking common android banker malware. (today)
 
 ## 🔨 Latest Pull Requests I published
 
