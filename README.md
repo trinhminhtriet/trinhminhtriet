@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Abhay-lostfromlight](https://github.com/Abhay-lostfromlight)
 - [garrettHensley](https://github.com/garrettHensley)
 - [SHEFOO10](https://github.com/SHEFOO10)
 - [rumaan-bot](https://github.com/rumaan-bot)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [HarshaKTM](https://github.com/HarshaKTM)
 - [latin-cmd](https://github.com/latin-cmd)
 - [Tayondw](https://github.com/Tayondw)
-- [helpexe](https://github.com/helpexe)
 
 ## ⭐ Recent stars
 
+- [SafaSafari/ss-cloud-scanner](https://github.com/SafaSafari/ss-cloud-scanner) - اسکنر اختصاصی صفا صفری (today)
 - [gaowanlu/google](https://github.com/gaowanlu/google) - Let's build your own website proxy using the template in vercel.com (today)
 - [anantshri/wp-security](https://github.com/anantshri/wp-security) - Wordpress security functions for paranoid folks. (themes functions.php and .htaccess). Take what you want, leave what you think should be added to it. (today)
 - [anantshri/Android_Security](https://github.com/anantshri/Android_Security) - This repository is a suplimentary material for Android Training's done by Anant Shrivastava from 2012-2017 (today)
 - [anantshri/svn-extractor](https://github.com/anantshri/svn-extractor) - simple script to extract all web resources by means of .SVN folder exposed over network. (today)
-- [Chudry/Xerror](https://github.com/Chudry/Xerror) - fully automated pentesting tool (today)
 
 ## 🔨 Latest Pull Requests I published
 
