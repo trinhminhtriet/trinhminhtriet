@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Rashmi-Bansal35](https://github.com/Rashmi-Bansal35)
 - [JuaanReis](https://github.com/JuaanReis)
 - [Popstizzy03](https://github.com/Popstizzy03)
 - [Abhay-lostfromlight](https://github.com/Abhay-lostfromlight)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [KapilGayan](https://github.com/KapilGayan)
 - [NSSTUDIO-html](https://github.com/NSSTUDIO-html)
 - [ProphetRu](https://github.com/ProphetRu)
-- [HarshaKTM](https://github.com/HarshaKTM)
 
 ## ⭐ Recent stars
 
+- [davidski/evaluator](https://github.com/davidski/evaluator) - ⚖Open Source Toolkit for Quantitative Risk Assessment (today)
+- [Tazinho/snakecase](https://github.com/Tazinho/snakecase) - 🐍🐍🐍 A systematic approach to parse strings and automate the conversion to snake_case, UpperCamelCase or any other case. (today)
+- [Tazinho/Advanced-R-Solutions](https://github.com/Tazinho/Advanced-R-Solutions) - Set of solutions for the Advanced R programming book (today)
 - [alexvbogdan/DeepCalib](https://github.com/alexvbogdan/DeepCalib) - DeepCalib: A Deep Learning Approach for Automatic Intrinsic Calibration of Wide Field-of-View Cameras (today)
 - [roddhjav/pass-update](https://github.com/roddhjav/pass-update) - A pass extension that provides an easy flow for updating passwords. (today)
-- [roddhjav/pass-tomb](https://github.com/roddhjav/pass-tomb) - A pass extension that helps you keep the whole tree of passwords encrypted inside a Tomb. (today)
-- [roddhjav/apparmor.d](https://github.com/roddhjav/apparmor.d) - Full set of AppArmor policies (today)
-- [roddhjav/pass-import](https://github.com/roddhjav/pass-import) - A pass extension for importing data from most existing password managers (today)
 
 ## 🔨 Latest Pull Requests I published
 
