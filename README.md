@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [LiuKay/WareHouseManagSys](https://github.com/LiuKay/WareHouseManagSys) - 仓库管理系统文件：截图，SQL，源代码 (today)
-- [trycatchx/RocketX](https://github.com/trycatchx/RocketX) - 🔥🔥 android 端编译加速插件🚀 动态识别未改动 module 并在编译流程中替换为 aar ，只编译改动模块，加速 Android apk 的编译速度。 (today)
-- [artbits/android-mail](https://github.com/artbits/android-mail) - 基于 JavaMail 开发的 Android 邮箱 (today)
-- [dajobe/raptor](https://github.com/dajobe/raptor) - Redland Raptor RDF syntax library (today)
-- [dajobe/hbase-docker](https://github.com/dajobe/hbase-docker) - HBase running in Docker (today)
+- [roddhjav/pass-update](https://github.com/roddhjav/pass-update) - A pass extension that provides an easy flow for updating passwords. (today)
+- [roddhjav/pass-tomb](https://github.com/roddhjav/pass-tomb) - A pass extension that helps you keep the whole tree of passwords encrypted inside a Tomb. (today)
+- [roddhjav/apparmor.d](https://github.com/roddhjav/apparmor.d) - Full set of AppArmor policies (today)
+- [roddhjav/pass-import](https://github.com/roddhjav/pass-import) - A pass extension for importing data from most existing password managers (today)
+- [samteb/vue-2-webpack-4-boilerplate](https://github.com/samteb/vue-2-webpack-4-boilerplate) - Ready to use Vue 2+ project with webpack 4 configuration for development and production (today)
 
 ## 🔨 Latest Pull Requests I published
 
