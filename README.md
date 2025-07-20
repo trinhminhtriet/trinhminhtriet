@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [matthew-lucos-alt](https://github.com/matthew-lucos-alt)
 - [LEX-DEV141](https://github.com/LEX-DEV141)
 - [napalu](https://github.com/napalu)
 - [MadhavSapkota](https://github.com/MadhavSapkota)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [JuaanReis](https://github.com/JuaanReis)
 - [Popstizzy03](https://github.com/Popstizzy03)
 - [Abhay-lostfromlight](https://github.com/Abhay-lostfromlight)
-- [garrettHensley](https://github.com/garrettHensley)
 
 ## ⭐ Recent stars
 
