@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [JuaanReis](https://github.com/JuaanReis)
 - [Popstizzy03](https://github.com/Popstizzy03)
 - [Abhay-lostfromlight](https://github.com/Abhay-lostfromlight)
 - [garrettHensley](https://github.com/garrettHensley)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [NSSTUDIO-html](https://github.com/NSSTUDIO-html)
 - [ProphetRu](https://github.com/ProphetRu)
 - [HarshaKTM](https://github.com/HarshaKTM)
-- [latin-cmd](https://github.com/latin-cmd)
 
 ## ⭐ Recent stars
 
+- [alexvbogdan/DeepCalib](https://github.com/alexvbogdan/DeepCalib) - DeepCalib: A Deep Learning Approach for Automatic Intrinsic Calibration of Wide Field-of-View Cameras (today)
 - [roddhjav/pass-update](https://github.com/roddhjav/pass-update) - A pass extension that provides an easy flow for updating passwords. (today)
 - [roddhjav/pass-tomb](https://github.com/roddhjav/pass-tomb) - A pass extension that helps you keep the whole tree of passwords encrypted inside a Tomb. (today)
 - [roddhjav/apparmor.d](https://github.com/roddhjav/apparmor.d) - Full set of AppArmor policies (today)
 - [roddhjav/pass-import](https://github.com/roddhjav/pass-import) - A pass extension for importing data from most existing password managers (today)
-- [samteb/vue-2-webpack-4-boilerplate](https://github.com/samteb/vue-2-webpack-4-boilerplate) - Ready to use Vue 2+ project with webpack 4 configuration for development and production (today)
 
 ## 🔨 Latest Pull Requests I published
 
