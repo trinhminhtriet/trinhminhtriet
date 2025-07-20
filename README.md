@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [OUANZOUGUIAbdelhak](https://github.com/OUANZOUGUIAbdelhak)
 - [sahandmohammadrehzaii](https://github.com/sahandmohammadrehzaii)
 - [shanchoynoor](https://github.com/shanchoynoor)
 - [krmzv](https://github.com/krmzv)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [LCleu](https://github.com/LCleu)
 - [matthew-lucos-alt](https://github.com/matthew-lucos-alt)
 - [LEX-DEV141](https://github.com/LEX-DEV141)
-- [napalu](https://github.com/napalu)
 
 ## ⭐ Recent stars
 
