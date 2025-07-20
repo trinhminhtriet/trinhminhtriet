@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [truongvu1508](https://github.com/truongvu1508)
 - [Rashmi-Bansal35](https://github.com/Rashmi-Bansal35)
 - [JuaanReis](https://github.com/JuaanReis)
 - [Popstizzy03](https://github.com/Popstizzy03)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [rumaan-bot](https://github.com/rumaan-bot)
 - [KapilGayan](https://github.com/KapilGayan)
 - [NSSTUDIO-html](https://github.com/NSSTUDIO-html)
-- [ProphetRu](https://github.com/ProphetRu)
 
 ## ⭐ Recent stars
 
