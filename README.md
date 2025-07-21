@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [vdumitraskovic](https://github.com/vdumitraskovic)
 - [KiraTheCoder](https://github.com/KiraTheCoder)
 - [Ismaeel-KI](https://github.com/Ismaeel-KI)
 - [OUANZOUGUIAbdelhak](https://github.com/OUANZOUGUIAbdelhak)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Tayondw](https://github.com/Tayondw)
 - [Dexmachi](https://github.com/Dexmachi)
 - [yllberisha](https://github.com/yllberisha)
-- [LCleu](https://github.com/LCleu)
 
 ## ⭐ Recent stars
 
