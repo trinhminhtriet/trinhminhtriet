@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Rashmi-Bansal35](https://github.com/Rashmi-Bansal35)
 - [pritam-iai](https://github.com/pritam-iai)
 - [Tayondw](https://github.com/Tayondw)
 - [edinorneto](https://github.com/edinorneto)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Ismaeel-KI](https://github.com/Ismaeel-KI)
 - [OUANZOUGUIAbdelhak](https://github.com/OUANZOUGUIAbdelhak)
 - [sahandmohammadrehzaii](https://github.com/sahandmohammadrehzaii)
-- [shanchoynoor](https://github.com/shanchoynoor)
 
 ## ⭐ Recent stars
 
