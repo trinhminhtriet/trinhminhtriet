@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Tayondw](https://github.com/Tayondw)
 - [edinorneto](https://github.com/edinorneto)
 - [LucasGeneroso](https://github.com/LucasGeneroso)
 - [vdumitraskovic](https://github.com/vdumitraskovic)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [sahandmohammadrehzaii](https://github.com/sahandmohammadrehzaii)
 - [shanchoynoor](https://github.com/shanchoynoor)
 - [krmzv](https://github.com/krmzv)
-- [Tayondw](https://github.com/Tayondw)
 
 ## ⭐ Recent stars
 
