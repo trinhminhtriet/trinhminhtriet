@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [loeclos](https://github.com/loeclos)
 - [guntumuduguvivek](https://github.com/guntumuduguvivek)
 - [miomuhammad](https://github.com/miomuhammad)
 - [tkdrb12](https://github.com/tkdrb12)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Rashmi-Bansal35](https://github.com/Rashmi-Bansal35)
 - [pritam-iai](https://github.com/pritam-iai)
 - [Tayondw](https://github.com/Tayondw)
-- [edinorneto](https://github.com/edinorneto)
 
 ## ⭐ Recent stars
 
-- [Ruan625Br/FileManagerSphere](https://github.com/Ruan625Br/FileManagerSphere) - Material Design file manager for Android (today)
-- [jessedc/JCTiledScrollView](https://github.com/jessedc/JCTiledScrollView) - A set of classes that wrap UIScrollView and CATiledLayer. It aims to simplify displaying large images and PDFs at multiple zoom scales. (today)
-- [adrianjagielak/icloud-12.5.1-bypass](https://github.com/adrianjagielak/icloud-12.5.1-bypass) - iCloud Activation iOS 12.5.1 bypass tool for macOS (iOS 12.4, iOS 12.4+, iOS 12.5, iOS 12.5+, iOS 12.5.1, iOS 12.5.2, iOS 12.5.3, iOS 12.5.4, iOS 12.5.5, iOS 12.5.6, iOS 12.5.7, iOS 12.5.8, iOS 12.5.9) (today)
-- [xapenny/iCloud-Bypass-Script](https://github.com/xapenny/iCloud-Bypass-Script) - A Script to simply bypass iCloud Activation Lock using Checkra1n (today)
-- [gawwo/fake115-go](https://github.com/gawwo/fake115-go) - 115网盘助手Go版本，模拟内置的雷达功能，完整导入、导入文件和目录，目录结构保持不变。 (today)
+- [rjurney/Agile_Data_Code](https://github.com/rjurney/Agile_Data_Code) - Chapter-wise code for Agile Data the O'Reilly book (today)
+- [rjurney/Agile_Data_Code_2](https://github.com/rjurney/Agile_Data_Code_2) - Code for Agile Data Science 2.0, O'Reilly 2017, Second Edition (today)
+- [jpbetz/auger](https://github.com/jpbetz/auger) - Directly access data objects stored in etcd by kubernetes. (today)
+- [niehen6174/face_detection_and_recognition](https://github.com/niehen6174/face_detection_and_recognition) - face++,百度ai,虹软,face_recognition 实现人脸检测 人脸识别 (today)
+- [AlexGladkov/Odyssey](https://github.com/AlexGladkov/Odyssey) - Odyssey it's a declarative multiplatform navigation library for Multiplatform Compose (today)
 
 ## 🔨 Latest Pull Requests I published
 
