@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [xapenny/iCloud-Bypass-Script](https://github.com/xapenny/iCloud-Bypass-Script) - A Script to simply bypass iCloud Activation Lock using Checkra1n (today)
+- [gawwo/fake115-go](https://github.com/gawwo/fake115-go) - 115网盘助手Go版本，模拟内置的雷达功能，完整导入、导入文件和目录，目录结构保持不变。 (today)
+- [rizowski/eslint-watch](https://github.com/rizowski/eslint-watch) - ESLint with simple watching capabilities (today)
 - [davidski/evaluator](https://github.com/davidski/evaluator) - ⚖Open Source Toolkit for Quantitative Risk Assessment (3 days ago)
 - [Tazinho/snakecase](https://github.com/Tazinho/snakecase) - 🐍🐍🐍 A systematic approach to parse strings and automate the conversion to snake_case, UpperCamelCase or any other case. (3 days ago)
-- [Tazinho/Advanced-R-Solutions](https://github.com/Tazinho/Advanced-R-Solutions) - Set of solutions for the Advanced R programming book (3 days ago)
-- [alexvbogdan/DeepCalib](https://github.com/alexvbogdan/DeepCalib) - DeepCalib: A Deep Learning Approach for Automatic Intrinsic Calibration of Wide Field-of-View Cameras (3 days ago)
-- [roddhjav/pass-update](https://github.com/roddhjav/pass-update) - A pass extension that provides an easy flow for updating passwords. (3 days ago)
 
 ## 🔨 Latest Pull Requests I published
 
