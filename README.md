@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [m-sohel](https://github.com/m-sohel)
 - [loeclos](https://github.com/loeclos)
 - [guntumuduguvivek](https://github.com/guntumuduguvivek)
 - [miomuhammad](https://github.com/miomuhammad)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [E-Geraet](https://github.com/E-Geraet)
 - [Rashmi-Bansal35](https://github.com/Rashmi-Bansal35)
 - [pritam-iai](https://github.com/pritam-iai)
-- [Tayondw](https://github.com/Tayondw)
 
 ## ⭐ Recent stars
 
+- [mucahitnezir/express-starter](https://github.com/mucahitnezir/express-starter) - 🚀 A boilerplate for Node.js api projects with Express.js, Sequelize, PostgreSQL and ES6+ (today)
 - [rjurney/Agile_Data_Code](https://github.com/rjurney/Agile_Data_Code) - Chapter-wise code for Agile Data the O'Reilly book (today)
 - [rjurney/Agile_Data_Code_2](https://github.com/rjurney/Agile_Data_Code_2) - Code for Agile Data Science 2.0, O'Reilly 2017, Second Edition (today)
 - [jpbetz/auger](https://github.com/jpbetz/auger) - Directly access data objects stored in etcd by kubernetes. (today)
 - [niehen6174/face_detection_and_recognition](https://github.com/niehen6174/face_detection_and_recognition) - face++,百度ai,虹软,face_recognition 实现人脸检测 人脸识别 (today)
-- [AlexGladkov/Odyssey](https://github.com/AlexGladkov/Odyssey) - Odyssey it's a declarative multiplatform navigation library for Multiplatform Compose (today)
 
 ## 🔨 Latest Pull Requests I published
 
