@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [Ruan625Br/FileManagerSphere](https://github.com/Ruan625Br/FileManagerSphere) - Material Design file manager for Android (today)
+- [jessedc/JCTiledScrollView](https://github.com/jessedc/JCTiledScrollView) - A set of classes that wrap UIScrollView and CATiledLayer. It aims to simplify displaying large images and PDFs at multiple zoom scales. (today)
+- [adrianjagielak/icloud-12.5.1-bypass](https://github.com/adrianjagielak/icloud-12.5.1-bypass) - iCloud Activation iOS 12.5.1 bypass tool for macOS (iOS 12.4, iOS 12.4+, iOS 12.5, iOS 12.5+, iOS 12.5.1, iOS 12.5.2, iOS 12.5.3, iOS 12.5.4, iOS 12.5.5, iOS 12.5.6, iOS 12.5.7, iOS 12.5.8, iOS 12.5.9) (today)
 - [xapenny/iCloud-Bypass-Script](https://github.com/xapenny/iCloud-Bypass-Script) - A Script to simply bypass iCloud Activation Lock using Checkra1n (today)
 - [gawwo/fake115-go](https://github.com/gawwo/fake115-go) - 115网盘助手Go版本，模拟内置的雷达功能，完整导入、导入文件和目录，目录结构保持不变。 (today)
-- [rizowski/eslint-watch](https://github.com/rizowski/eslint-watch) - ESLint with simple watching capabilities (today)
-- [davidski/evaluator](https://github.com/davidski/evaluator) - ⚖Open Source Toolkit for Quantitative Risk Assessment (3 days ago)
-- [Tazinho/snakecase](https://github.com/Tazinho/snakecase) - 🐍🐍🐍 A systematic approach to parse strings and automate the conversion to snake_case, UpperCamelCase or any other case. (3 days ago)
 
 ## 🔨 Latest Pull Requests I published
 
