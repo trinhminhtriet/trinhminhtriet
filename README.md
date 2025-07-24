@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [mucahitnezir/express-starter](https://github.com/mucahitnezir/express-starter) - 🚀 A boilerplate for Node.js api projects with Express.js, Sequelize, PostgreSQL and ES6+ (today)
-- [rjurney/Agile_Data_Code](https://github.com/rjurney/Agile_Data_Code) - Chapter-wise code for Agile Data the O'Reilly book (today)
-- [rjurney/Agile_Data_Code_2](https://github.com/rjurney/Agile_Data_Code_2) - Code for Agile Data Science 2.0, O'Reilly 2017, Second Edition (today)
-- [jpbetz/auger](https://github.com/jpbetz/auger) - Directly access data objects stored in etcd by kubernetes. (today)
-- [niehen6174/face_detection_and_recognition](https://github.com/niehen6174/face_detection_and_recognition) - face++,百度ai,虹软,face_recognition 实现人脸检测 人脸识别 (today)
+- [mucahitnezir/express-starter](https://github.com/mucahitnezir/express-starter) - 🚀 A boilerplate for Node.js api projects with Express.js, Sequelize, PostgreSQL and ES6+ (1 day ago)
+- [rjurney/Agile_Data_Code](https://github.com/rjurney/Agile_Data_Code) - Chapter-wise code for Agile Data the O'Reilly book (1 day ago)
+- [rjurney/Agile_Data_Code_2](https://github.com/rjurney/Agile_Data_Code_2) - Code for Agile Data Science 2.0, O'Reilly 2017, Second Edition (1 day ago)
+- [jpbetz/auger](https://github.com/jpbetz/auger) - Directly access data objects stored in etcd by kubernetes. (1 day ago)
+- [niehen6174/face_detection_and_recognition](https://github.com/niehen6174/face_detection_and_recognition) - face++,百度ai,虹软,face_recognition 实现人脸检测 人脸识别 (1 day ago)
 
 ## 🔨 Latest Pull Requests I published
 
