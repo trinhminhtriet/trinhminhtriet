@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [phntmzn](https://github.com/phntmzn)
 - [pengpengyi92](https://github.com/pengpengyi92)
 - [seehiong](https://github.com/seehiong)
 - [mioriaty](https://github.com/mioriaty)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [loeclos](https://github.com/loeclos)
 - [guntumuduguvivek](https://github.com/guntumuduguvivek)
 - [miomuhammad](https://github.com/miomuhammad)
-- [tkdrb12](https://github.com/tkdrb12)
 
 ## ⭐ Recent stars
 
