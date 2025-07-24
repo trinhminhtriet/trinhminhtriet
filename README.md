@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [mioriaty](https://github.com/mioriaty)
 - [Meenakshy1111](https://github.com/Meenakshy1111)
 - [Tayondw](https://github.com/Tayondw)
 - [m-sohel](https://github.com/m-sohel)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [tkdrb12](https://github.com/tkdrb12)
 - [amaaljuffry](https://github.com/amaaljuffry)
 - [maxshine](https://github.com/maxshine)
-- [E-Geraet](https://github.com/E-Geraet)
 
 ## ⭐ Recent stars
 
