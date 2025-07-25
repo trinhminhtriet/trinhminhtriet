@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development. (today)
 - [gyy8426/Computer_Vision_primer](https://github.com/gyy8426/Computer_Vision_primer) - 计算机视觉入门 (today)
 - [rhzxg/SurfaceInk-Chaos9527](https://github.com/rhzxg/SurfaceInk-Chaos9527) - Transmit Windows Ink from your Surface to another device via LAN. 将Windows Ink从你的Surface传输到局域网内的另一个设备。 (today)
 - [jakecyr/chatgpt-voice-assistant](https://github.com/jakecyr/chatgpt-voice-assistant) - A chatbot that integrates OpenAI Whisper, Chat Completions and Voice Generation. Also provides the option to use free transcription / TTS options. (today)
 - [LuZhenHuan/ECG-Classification-Demo](https://github.com/LuZhenHuan/ECG-Classification-Demo) - ECG Classification (today)
-- [dev-xo/remix-auth-totp](https://github.com/dev-xo/remix-auth-totp) - A Time-Based One-Time Password (TOTP) Authentication Strategy for Remix-Auth. (today)
 
 ## 🔨 Latest Pull Requests I published
 
