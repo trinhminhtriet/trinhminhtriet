@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Shreenandbhattad](https://github.com/Shreenandbhattad)
 - [Danilo-Vedler](https://github.com/Danilo-Vedler)
 - [phntmzn](https://github.com/phntmzn)
 - [pengpengyi92](https://github.com/pengpengyi92)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Tayondw](https://github.com/Tayondw)
 - [m-sohel](https://github.com/m-sohel)
 - [loeclos](https://github.com/loeclos)
-- [guntumuduguvivek](https://github.com/guntumuduguvivek)
 
 ## ⭐ Recent stars
 
+- [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh (today)
 - [mucahitnezir/express-starter](https://github.com/mucahitnezir/express-starter) - 🚀 A boilerplate for Node.js api projects with Express.js, Sequelize, PostgreSQL and ES6+ (2 days ago)
 - [rjurney/Agile_Data_Code](https://github.com/rjurney/Agile_Data_Code) - Chapter-wise code for Agile Data the O'Reilly book (2 days ago)
 - [rjurney/Agile_Data_Code_2](https://github.com/rjurney/Agile_Data_Code_2) - Code for Agile Data Science 2.0, O'Reilly 2017, Second Edition (2 days ago)
 - [jpbetz/auger](https://github.com/jpbetz/auger) - Directly access data objects stored in etcd by kubernetes. (2 days ago)
-- [niehen6174/face_detection_and_recognition](https://github.com/niehen6174/face_detection_and_recognition) - face++,百度ai,虹软,face_recognition 实现人脸检测 人脸识别 (2 days ago)
 
 ## 🔨 Latest Pull Requests I published
 
