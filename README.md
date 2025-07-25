@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [west19950714](https://github.com/west19950714)
 - [brightsnow-dev](https://github.com/brightsnow-dev)
 - [Shreenandbhattad](https://github.com/Shreenandbhattad)
 - [Danilo-Vedler](https://github.com/Danilo-Vedler)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [mioriaty](https://github.com/mioriaty)
 - [Meenakshy1111](https://github.com/Meenakshy1111)
 - [Tayondw](https://github.com/Tayondw)
-- [m-sohel](https://github.com/m-sohel)
 
 ## ⭐ Recent stars
 
+- [yomguy/DeeFuzzer](https://github.com/yomguy/DeeFuzzer) - Light and instant media streaming client for web radios and TVs written in Python (today)
+- [naomiaro/waveform-playlist](https://github.com/naomiaro/waveform-playlist) - Multitrack Web Audio editor and player with canvas waveform preview. Set cues, fades and shift multiple tracks in time. Record audio tracks or provide audio annotations. Export your mix to AudioBuffer or WAV! Add effects from Tone.js. Project inspired by Audacity. (today)
+- [Metaphysics0/songsterr-downloader](https://github.com/Metaphysics0/songsterr-downloader) - Kinda like youtube to mp3, but for songsterr. (today)
 - [jordan-cutler/path-to-senior-engineer-handbook](https://github.com/jordan-cutler/path-to-senior-engineer-handbook) - All the resources you need to get to Senior Engineer and beyond (today)
 - [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh (today)
-- [mucahitnezir/express-starter](https://github.com/mucahitnezir/express-starter) - 🚀 A boilerplate for Node.js api projects with Express.js, Sequelize, PostgreSQL and ES6+ (2 days ago)
-- [rjurney/Agile_Data_Code](https://github.com/rjurney/Agile_Data_Code) - Chapter-wise code for Agile Data the O'Reilly book (2 days ago)
-- [rjurney/Agile_Data_Code_2](https://github.com/rjurney/Agile_Data_Code_2) - Code for Agile Data Science 2.0, O'Reilly 2017, Second Edition (2 days ago)
 
 ## 🔨 Latest Pull Requests I published
 
