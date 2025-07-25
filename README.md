@@ -46,7 +46,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
-- [Arison99](https://github.com/Arison99)
 - [Shreenandbhattad](https://github.com/Shreenandbhattad)
 - [Danilo-Vedler](https://github.com/Danilo-Vedler)
 - [phntmzn](https://github.com/phntmzn)
@@ -56,6 +55,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Meenakshy1111](https://github.com/Meenakshy1111)
 - [Tayondw](https://github.com/Tayondw)
 - [m-sohel](https://github.com/m-sohel)
+- [loeclos](https://github.com/loeclos)
 
 ## ⭐ Recent stars
 
