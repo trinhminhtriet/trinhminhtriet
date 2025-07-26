@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [inti-menendez](https://github.com/inti-menendez)
 - [west19950714](https://github.com/west19950714)
 - [brightsnow-dev](https://github.com/brightsnow-dev)
 - [Shreenandbhattad](https://github.com/Shreenandbhattad)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [seehiong](https://github.com/seehiong)
 - [mioriaty](https://github.com/mioriaty)
 - [Meenakshy1111](https://github.com/Meenakshy1111)
-- [Tayondw](https://github.com/Tayondw)
 
 ## ⭐ Recent stars
 
