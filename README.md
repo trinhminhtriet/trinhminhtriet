@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [thornebaker](https://github.com/thornebaker)
 - [titoviewnext](https://github.com/titoviewnext)
 - [asteriLAB](https://github.com/asteriLAB)
 - [affirm-bats-yodel](https://github.com/affirm-bats-yodel)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [brightsnow-dev](https://github.com/brightsnow-dev)
 - [Shreenandbhattad](https://github.com/Shreenandbhattad)
 - [Danilo-Vedler](https://github.com/Danilo-Vedler)
-- [phntmzn](https://github.com/phntmzn)
 
 ## ⭐ Recent stars
 
