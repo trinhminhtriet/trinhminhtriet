@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [affirm-bats-yodel](https://github.com/affirm-bats-yodel)
 - [J0shethan](https://github.com/J0shethan)
 - [inti-menendez](https://github.com/inti-menendez)
 - [west19950714](https://github.com/west19950714)
@@ -54,7 +55,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Danilo-Vedler](https://github.com/Danilo-Vedler)
 - [phntmzn](https://github.com/phntmzn)
 - [pengpengyi92](https://github.com/pengpengyi92)
-- [seehiong](https://github.com/seehiong)
 - [mioriaty](https://github.com/mioriaty)
 
 ## ⭐ Recent stars
