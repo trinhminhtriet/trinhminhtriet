@@ -33,8 +33,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👷 Check out what I'm currently working on
 
-- [trinhminhtriet/dotfiles](https://github.com/trinhminhtriet/dotfiles) - 🛠️ A collection of configuration files and scripts to customize and streamline your development environment. (today)
-- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (today)
+- [trinhminhtriet/dotfiles](https://github.com/trinhminhtriet/dotfiles) - 🛠️ A collection of configuration files and scripts to customize and streamline your development environment. (1 day ago)
+- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (1 day ago)
 - [trinhminhtriet/backstage](https://github.com/trinhminhtriet/backstage) (1 week ago)
 - [trinhminhtriet/docs](https://github.com/trinhminhtriet/docs) (1 week ago)
 - [trinhminhtriet/blast](https://github.com/trinhminhtriet/blast) - 🚀 Blast: A powerful, lightweight HTTP load generator for stress testing and benchmarking web applications with ease. (1 week ago)
@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development. (today)
-- [gyy8426/Computer_Vision_primer](https://github.com/gyy8426/Computer_Vision_primer) - 计算机视觉入门 (today)
-- [rhzxg/SurfaceInk-Chaos9527](https://github.com/rhzxg/SurfaceInk-Chaos9527) - Transmit Windows Ink from your Surface to another device via LAN. 将Windows Ink从你的Surface传输到局域网内的另一个设备。 (today)
-- [jakecyr/chatgpt-voice-assistant](https://github.com/jakecyr/chatgpt-voice-assistant) - A chatbot that integrates OpenAI Whisper, Chat Completions and Voice Generation. Also provides the option to use free transcription / TTS options. (today)
-- [LuZhenHuan/ECG-Classification-Demo](https://github.com/LuZhenHuan/ECG-Classification-Demo) - ECG Classification (today)
+- [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development. (1 day ago)
+- [gyy8426/Computer_Vision_primer](https://github.com/gyy8426/Computer_Vision_primer) - 计算机视觉入门 (1 day ago)
+- [rhzxg/SurfaceInk-Chaos9527](https://github.com/rhzxg/SurfaceInk-Chaos9527) - Transmit Windows Ink from your Surface to another device via LAN. 将Windows Ink从你的Surface传输到局域网内的另一个设备。 (1 day ago)
+- [jakecyr/chatgpt-voice-assistant](https://github.com/jakecyr/chatgpt-voice-assistant) - A chatbot that integrates OpenAI Whisper, Chat Completions and Voice Generation. Also provides the option to use free transcription / TTS options. (1 day ago)
+- [LuZhenHuan/ECG-Classification-Demo](https://github.com/LuZhenHuan/ECG-Classification-Demo) - ECG Classification (1 day ago)
 
 ## 🔨 Latest Pull Requests I published
 
