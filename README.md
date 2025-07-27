@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [light-hat](https://github.com/light-hat)
 - [shaydz93](https://github.com/shaydz93)
 - [licette32](https://github.com/licette32)
 - [auspicie](https://github.com/auspicie)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [titoviewnext](https://github.com/titoviewnext)
 - [asteriLAB](https://github.com/asteriLAB)
 - [affirm-bats-yodel](https://github.com/affirm-bats-yodel)
-- [J0shethan](https://github.com/J0shethan)
 
 ## ⭐ Recent stars
 
