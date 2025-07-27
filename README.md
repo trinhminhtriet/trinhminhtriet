@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [pabpereza/pabpereza](https://github.com/pabpereza/pabpereza) - Website, courses, documentation, blog and youtube video tracker. (today)
 - [jgillich/faststack](https://github.com/jgillich/faststack) - Linux workspaces (today)
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development. (2 days ago)
 - [gyy8426/Computer_Vision_primer](https://github.com/gyy8426/Computer_Vision_primer) - 计算机视觉入门 (2 days ago)
 - [rhzxg/SurfaceInk-Chaos9527](https://github.com/rhzxg/SurfaceInk-Chaos9527) - Transmit Windows Ink from your Surface to another device via LAN. 将Windows Ink从你的Surface传输到局域网内的另一个设备。 (2 days ago)
-- [jakecyr/chatgpt-voice-assistant](https://github.com/jakecyr/chatgpt-voice-assistant) - A chatbot that integrates OpenAI Whisper, Chat Completions and Voice Generation. Also provides the option to use free transcription / TTS options. (2 days ago)
 
 ## 🔨 Latest Pull Requests I published
 
