@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [licette32](https://github.com/licette32)
 - [auspicie](https://github.com/auspicie)
 - [MilesanVictor](https://github.com/MilesanVictor)
 - [akabarki76](https://github.com/akabarki76)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [affirm-bats-yodel](https://github.com/affirm-bats-yodel)
 - [J0shethan](https://github.com/J0shethan)
 - [inti-menendez](https://github.com/inti-menendez)
-- [west19950714](https://github.com/west19950714)
 
 ## ⭐ Recent stars
 
