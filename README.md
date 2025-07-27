@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [MilesanVictor](https://github.com/MilesanVictor)
 - [akabarki76](https://github.com/akabarki76)
 - [thornebaker](https://github.com/thornebaker)
 - [titoviewnext](https://github.com/titoviewnext)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [inti-menendez](https://github.com/inti-menendez)
 - [west19950714](https://github.com/west19950714)
 - [brightsnow-dev](https://github.com/brightsnow-dev)
-- [Shreenandbhattad](https://github.com/Shreenandbhattad)
 
 ## ⭐ Recent stars
 
+- [karatelabs/karate](https://github.com/karatelabs/karate) - Test Automation Made Simple (today)
+- [frappe/frappe](https://github.com/frappe/frappe) - Low code web framework for real world applications, in Python and Javascript (today)
+- [Aishou/wayland-keylogger](https://github.com/Aishou/wayland-keylogger) - Proof-of-concept Wayland keylogger (today)
+- [peterroelants/peterroelants.github.io](https://github.com/peterroelants/peterroelants.github.io) - Blog (today)
 - [Stanzilla/WoWUIBugs](https://github.com/Stanzilla/WoWUIBugs) - World of Warcraft UI Bug Tracker (today)
-- [bilal-fazlani/tracker-enabled-dbcontext](https://github.com/bilal-fazlani/tracker-enabled-dbcontext) - Tracker-enabled DbContext offers you to implement full auditing in your database (today)
-- [bilal-fazlani/commanddotnet](https://github.com/bilal-fazlani/commanddotnet) - A modern framework for building modern CLI apps (today)
-- [fernandoescolar/vscode-solution-explorer](https://github.com/fernandoescolar/vscode-solution-explorer) - This is a Visual Studio Code extension that provides a (.sln and .slnx) Visual Studio Solution explorer panel.. (today)
-- [pabpereza/pabpereza](https://github.com/pabpereza/pabpereza) - Website, courses, documentation, blog and youtube video tracker. (today)
 
 ## 🔨 Latest Pull Requests I published
 
