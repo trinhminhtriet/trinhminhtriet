@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [auspicie](https://github.com/auspicie)
 - [MilesanVictor](https://github.com/MilesanVictor)
 - [akabarki76](https://github.com/akabarki76)
 - [thornebaker](https://github.com/thornebaker)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [J0shethan](https://github.com/J0shethan)
 - [inti-menendez](https://github.com/inti-menendez)
 - [west19950714](https://github.com/west19950714)
-- [brightsnow-dev](https://github.com/brightsnow-dev)
 
 ## ⭐ Recent stars
 
