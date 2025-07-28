@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Shahnazaouliaei](https://github.com/Shahnazaouliaei)
 - [Rinneagan](https://github.com/Rinneagan)
 - [MarcoHRIACC](https://github.com/MarcoHRIACC)
 - [light-hat](https://github.com/light-hat)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [MilesanVictor](https://github.com/MilesanVictor)
 - [akabarki76](https://github.com/akabarki76)
 - [thornebaker](https://github.com/thornebaker)
-- [titoviewnext](https://github.com/titoviewnext)
 
 ## ⭐ Recent stars
 
