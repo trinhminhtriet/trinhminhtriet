@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications. (today)
 - [karatelabs/karate](https://github.com/karatelabs/karate) - Test Automation Made Simple (1 day ago)
 - [frappe/frappe](https://github.com/frappe/frappe) - Low code web framework for real world applications, in Python and Javascript (1 day ago)
 - [Aishou/wayland-keylogger](https://github.com/Aishou/wayland-keylogger) - Proof-of-concept Wayland keylogger (1 day ago)
 - [peterroelants/peterroelants.github.io](https://github.com/peterroelants/peterroelants.github.io) - Blog (1 day ago)
-- [Stanzilla/WoWUIBugs](https://github.com/Stanzilla/WoWUIBugs) - World of Warcraft UI Bug Tracker (1 day ago)
 
 ## 🔨 Latest Pull Requests I published
 
