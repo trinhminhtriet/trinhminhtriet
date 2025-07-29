@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Arison99](https://github.com/Arison99)
 - [Tayondw](https://github.com/Tayondw)
 - [juanvoo](https://github.com/juanvoo)
 - [nicolasfernandol](https://github.com/nicolasfernandol)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Rinneagan](https://github.com/Rinneagan)
 - [MarcoHRIACC](https://github.com/MarcoHRIACC)
 - [light-hat](https://github.com/light-hat)
-- [shaydz93](https://github.com/shaydz93)
 
 ## ⭐ Recent stars
 
