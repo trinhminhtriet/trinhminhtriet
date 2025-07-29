@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [abhishekkumawat-47](https://github.com/abhishekkumawat-47)
 - [lokeshdot23](https://github.com/lokeshdot23)
 - [Tayondw](https://github.com/Tayondw)
 - [juanvoo](https://github.com/juanvoo)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Shahnazaouliaei](https://github.com/Shahnazaouliaei)
 - [Rinneagan](https://github.com/Rinneagan)
 - [MarcoHRIACC](https://github.com/MarcoHRIACC)
-- [light-hat](https://github.com/light-hat)
 
 ## ⭐ Recent stars
 
