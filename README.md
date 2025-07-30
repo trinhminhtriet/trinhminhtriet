@@ -33,15 +33,15 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👷 Check out what I'm currently working on
 
-- [trinhminhtriet/git-author](https://github.com/trinhminhtriet/git-author) - 🔍 git-author – Identify codebase authorship at a component level, beyond git blame, for better ownership insights. (today)
-- [trinhminhtriet/dotfiles](https://github.com/trinhminhtriet/dotfiles) - 🛠️ A collection of configuration files and scripts to customize and streamline your development environment. (4 days ago)
-- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (4 days ago)
-- [trinhminhtriet/docs](https://github.com/trinhminhtriet/docs) (1 week ago)
-- [trinhminhtriet/backstage](https://github.com/trinhminhtriet/backstage) (1 week ago)
+- [trinhminhtriet/git-author](https://github.com/trinhminhtriet/git-author) - 🔍 git-author – Identify codebase authorship at a component level, beyond git blame, for better ownership insights. (1 day ago)
+- [trinhminhtriet/dotfiles](https://github.com/trinhminhtriet/dotfiles) - 🛠️ A collection of configuration files and scripts to customize and streamline your development environment. (5 days ago)
+- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (5 days ago)
+- [trinhminhtriet/docs](https://github.com/trinhminhtriet/docs) (2 weeks ago)
+- [trinhminhtriet/backstage](https://github.com/trinhminhtriet/backstage) (2 weeks ago)
 - [trinhminhtriet/netcatr](https://github.com/trinhminhtriet/netcatr) - 📡 netcat: A cross-platform port listener and reverse shell application designed for ease of use, providing seamless network connectivity. (2 weeks ago)
 - [trinhminhtriet/curli](https://github.com/trinhminhtriet/curli) - 🌀 Curli: A user-friendly curl interface combining HTTPie’s simplicity with curl’s full functionality and power. (2 weeks ago)
 - [trinhminhtriet/blast](https://github.com/trinhminhtriet/blast) - 🚀 Blast: A powerful, lightweight HTTP load generator for stress testing and benchmarking web applications with ease. (2 weeks ago)
-- [trinhminhtriet/rmrfrs](https://github.com/trinhminhtriet/rmrfrs) - 🧹 rmrfrs is a powerful filesystem cleaning tool designed to optimize storage by identifying and removing unnecessary files within known project structures. (2 weeks ago)
+- [trinhminhtriet/rmrfrs](https://github.com/trinhminhtriet/rmrfrs) - 🧹 rmrfrs is a powerful filesystem cleaning tool designed to optimize storage by identifying and removing unnecessary files within known project structures. (3 weeks ago)
 - [trinhminhtriet/spiko](https://github.com/trinhminhtriet/spiko) - 🚀 Spiko is a fast, Rust-based load testing tool with a beautiful TUI for real-time insights. (4 weeks ago)
 
 ## 👯 Check out my recent followers
@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications. (1 day ago)
-- [karatelabs/karate](https://github.com/karatelabs/karate) - Test Automation Made Simple (2 days ago)
-- [frappe/frappe](https://github.com/frappe/frappe) - Low code web framework for real world applications, in Python and Javascript (2 days ago)
-- [Aishou/wayland-keylogger](https://github.com/Aishou/wayland-keylogger) - Proof-of-concept Wayland keylogger (2 days ago)
-- [peterroelants/peterroelants.github.io](https://github.com/peterroelants/peterroelants.github.io) - Blog (2 days ago)
+- [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications. (2 days ago)
+- [karatelabs/karate](https://github.com/karatelabs/karate) - Test Automation Made Simple (3 days ago)
+- [frappe/frappe](https://github.com/frappe/frappe) - Low code web framework for real world applications, in Python and Javascript (3 days ago)
+- [Aishou/wayland-keylogger](https://github.com/Aishou/wayland-keylogger) - Proof-of-concept Wayland keylogger (3 days ago)
+- [peterroelants/peterroelants.github.io](https://github.com/peterroelants/peterroelants.github.io) - Blog (3 days ago)
 
 ## 🔨 Latest Pull Requests I published
 
