@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [lokeshagarwal2304](https://github.com/lokeshagarwal2304)
 - [ElishaBwire01](https://github.com/ElishaBwire01)
 - [kylejcho](https://github.com/kylejcho)
 - [abhishekkumawat-47](https://github.com/abhishekkumawat-47)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [nicolasfernandol](https://github.com/nicolasfernandol)
 - [monster0318](https://github.com/monster0318)
 - [Rayyan9477](https://github.com/Rayyan9477)
-- [Shahnazaouliaei](https://github.com/Shahnazaouliaei)
 
 ## ⭐ Recent stars
 
