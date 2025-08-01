@@ -46,13 +46,13 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Tayondw](https://github.com/Tayondw)
 - [slopware](https://github.com/slopware)
 - [lokeshagarwal2304](https://github.com/lokeshagarwal2304)
 - [ElishaBwire01](https://github.com/ElishaBwire01)
 - [kylejcho](https://github.com/kylejcho)
 - [abhishekkumawat-47](https://github.com/abhishekkumawat-47)
 - [lokeshdot23](https://github.com/lokeshdot23)
-- [Tayondw](https://github.com/Tayondw)
 - [juanvoo](https://github.com/juanvoo)
 - [nicolasfernandol](https://github.com/nicolasfernandol)
 - [monster0318](https://github.com/monster0318)
