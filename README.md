@@ -33,8 +33,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👷 Check out what I'm currently working on
 
-- [trinhminhtriet/pingy](https://github.com/trinhminhtriet/pingy) - ⚡ Pingy: A fast, concurrent Rust-based ping tool with real-time updates & visual charts! 📊🚀 (today)
-- [trinhminhtriet/git-author](https://github.com/trinhminhtriet/git-author) - 🔍 git-author – Identify codebase authorship at a component level, beyond git blame, for better ownership insights. (4 days ago)
+- [trinhminhtriet/pingy](https://github.com/trinhminhtriet/pingy) - ⚡ Pingy: A fast, concurrent Rust-based ping tool with real-time updates & visual charts! 📊🚀 (1 day ago)
+- [trinhminhtriet/git-author](https://github.com/trinhminhtriet/git-author) - 🔍 git-author – Identify codebase authorship at a component level, beyond git blame, for better ownership insights. (5 days ago)
 - [trinhminhtriet/dotfiles](https://github.com/trinhminhtriet/dotfiles) - 🛠️ A collection of configuration files and scripts to customize and streamline your development environment. (1 week ago)
 - [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (1 week ago)
 - [trinhminhtriet/backstage](https://github.com/trinhminhtriet/backstage) (2 weeks ago)
@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications. (5 days ago)
-- [karatelabs/karate](https://github.com/karatelabs/karate) - Test Automation Made Simple (6 days ago)
-- [frappe/frappe](https://github.com/frappe/frappe) - Low code web framework for real world applications, in Python and Javascript (6 days ago)
-- [Aishou/wayland-keylogger](https://github.com/Aishou/wayland-keylogger) - Proof-of-concept Wayland keylogger (6 days ago)
-- [peterroelants/peterroelants.github.io](https://github.com/peterroelants/peterroelants.github.io) - Blog (6 days ago)
+- [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications. (6 days ago)
+- [karatelabs/karate](https://github.com/karatelabs/karate) - Test Automation Made Simple (1 week ago)
+- [frappe/frappe](https://github.com/frappe/frappe) - Low code web framework for real world applications, in Python and Javascript (1 week ago)
+- [Aishou/wayland-keylogger](https://github.com/Aishou/wayland-keylogger) - Proof-of-concept Wayland keylogger (1 week ago)
+- [peterroelants/peterroelants.github.io](https://github.com/peterroelants/peterroelants.github.io) - Blog (1 week ago)
 
 ## 🔨 Latest Pull Requests I published
 
