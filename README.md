@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [MateoRodriguez0](https://github.com/MateoRodriguez0)
 - [yaquitadeveloper](https://github.com/yaquitadeveloper)
 - [NexusPanda](https://github.com/NexusPanda)
 - [Jhoel777ar](https://github.com/Jhoel777ar)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Tayondw](https://github.com/Tayondw)
 - [slopware](https://github.com/slopware)
 - [lokeshagarwal2304](https://github.com/lokeshagarwal2304)
-- [ElishaBwire01](https://github.com/ElishaBwire01)
 
 ## ⭐ Recent stars
 
