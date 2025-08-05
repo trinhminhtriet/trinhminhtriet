@@ -33,16 +33,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👷 Check out what I'm currently working on
 
-- [trinhminhtriet/pingy](https://github.com/trinhminhtriet/pingy) - ⚡ Pingy: A fast, concurrent Rust-based ping tool with real-time updates & visual charts! 📊🚀 (3 days ago)
+- [trinhminhtriet/pingy](https://github.com/trinhminhtriet/pingy) - ⚡ Pingy: A fast, concurrent Rust-based ping tool with real-time updates & visual charts! 📊🚀 (today)
+- [trinhminhtriet/gitcoco](https://github.com/trinhminhtriet/gitcoco) - ⚡ GitCoco: A Rust-based CLI for Conventional Commits, making commit standardization effortless and consistent for seamless project versioning and collaboration. (today)
+- [trinhminhtriet/filerefine](https://github.com/trinhminhtriet/filerefine) - 🧹 FileRefine is a Rust-based CLI tool that renames files in a directory to remove unwanted or problematic characters from filenames. (today)
 - [trinhminhtriet/git-author](https://github.com/trinhminhtriet/git-author) - 🔍 git-author – Identify codebase authorship at a component level, beyond git blame, for better ownership insights. (1 week ago)
 - [trinhminhtriet/dotfiles](https://github.com/trinhminhtriet/dotfiles) - 🛠️ A collection of configuration files and scripts to customize and streamline your development environment. (1 week ago)
 - [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (1 week ago)
 - [trinhminhtriet/docs](https://github.com/trinhminhtriet/docs) (2 weeks ago)
 - [trinhminhtriet/backstage](https://github.com/trinhminhtriet/backstage) (2 weeks ago)
-- [trinhminhtriet/blast](https://github.com/trinhminhtriet/blast) - 🚀 Blast: A powerful, lightweight HTTP load generator for stress testing and benchmarking web applications with ease. (3 weeks ago)
 - [trinhminhtriet/curli](https://github.com/trinhminhtriet/curli) - 🌀 Curli: A user-friendly curl interface combining HTTPie’s simplicity with curl’s full functionality and power. (3 weeks ago)
-- [trinhminhtriet/netcatr](https://github.com/trinhminhtriet/netcatr) - 📡 netcat: A cross-platform port listener and reverse shell application designed for ease of use, providing seamless network connectivity. (3 weeks ago)
-- [trinhminhtriet/rmrfrs](https://github.com/trinhminhtriet/rmrfrs) - 🧹 rmrfrs is a powerful filesystem cleaning tool designed to optimize storage by identifying and removing unnecessary files within known project structures. (3 weeks ago)
+- [trinhminhtriet/blast](https://github.com/trinhminhtriet/blast) - 🚀 Blast: A powerful, lightweight HTTP load generator for stress testing and benchmarking web applications with ease. (3 weeks ago)
 
 ## 👯 Check out my recent followers
 
@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [trinhminhtriet/pingy](https://github.com/trinhminhtriet/pingy) - ⚡ Pingy: A fast, concurrent Rust-based ping tool with real-time updates & visual charts! 📊🚀 (today)
 - [trinhminhtriet/netcatr](https://github.com/trinhminhtriet/netcatr) - 📡 netcat: A cross-platform port listener and reverse shell application designed for ease of use, providing seamless network connectivity. (today)
 - [moment/luxon](https://github.com/moment/luxon) - ⏱ A library for working with dates and times in JS (1 day ago)
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications. (1 week ago)
 - [karatelabs/karate](https://github.com/karatelabs/karate) - Test Automation Made Simple (1 week ago)
-- [frappe/frappe](https://github.com/frappe/frappe) - Low code web framework for real world applications, in Python and Javascript (1 week ago)
 
 ## 🔨 Latest Pull Requests I published
 
