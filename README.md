@@ -46,7 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
-- [Arison99](https://github.com/Arison99)
+- [Tayondw](https://github.com/Tayondw)
 - [crisddev](https://github.com/crisddev)
 - [pushpank-dhruw](https://github.com/pushpank-dhruw)
 - [MateoRodriguez0](https://github.com/MateoRodriguez0)
@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [trinhminhtriet/netcatr](https://github.com/trinhminhtriet/netcatr) - 📡 netcat: A cross-platform port listener and reverse shell application designed for ease of use, providing seamless network connectivity. (today)
 - [moment/luxon](https://github.com/moment/luxon) - ⏱ A library for working with dates and times in JS (1 day ago)
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications. (1 week ago)
 - [karatelabs/karate](https://github.com/karatelabs/karate) - Test Automation Made Simple (1 week ago)
 - [frappe/frappe](https://github.com/frappe/frappe) - Low code web framework for real world applications, in Python and Javascript (1 week ago)
-- [Aishou/wayland-keylogger](https://github.com/Aishou/wayland-keylogger) - Proof-of-concept Wayland keylogger (1 week ago)
 
 ## 🔨 Latest Pull Requests I published
 
