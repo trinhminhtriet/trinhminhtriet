@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [ravelmello](https://github.com/ravelmello)
 - [holasoymalva](https://github.com/holasoymalva)
 - [Tayondw](https://github.com/Tayondw)
 - [crisddev](https://github.com/crisddev)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [NexusPanda](https://github.com/NexusPanda)
 - [Jhoel777ar](https://github.com/Jhoel777ar)
 - [yashwanth252005](https://github.com/yashwanth252005)
-- [sins921](https://github.com/sins921)
 
 ## ⭐ Recent stars
 
