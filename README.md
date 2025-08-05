@@ -33,8 +33,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👷 Check out what I'm currently working on
 
-- [trinhminhtriet/pingy](https://github.com/trinhminhtriet/pingy) - ⚡ Pingy: A fast, concurrent Rust-based ping tool with real-time updates & visual charts! 📊🚀 (2 days ago)
-- [trinhminhtriet/git-author](https://github.com/trinhminhtriet/git-author) - 🔍 git-author – Identify codebase authorship at a component level, beyond git blame, for better ownership insights. (6 days ago)
+- [trinhminhtriet/pingy](https://github.com/trinhminhtriet/pingy) - ⚡ Pingy: A fast, concurrent Rust-based ping tool with real-time updates & visual charts! 📊🚀 (3 days ago)
+- [trinhminhtriet/git-author](https://github.com/trinhminhtriet/git-author) - 🔍 git-author – Identify codebase authorship at a component level, beyond git blame, for better ownership insights. (1 week ago)
 - [trinhminhtriet/dotfiles](https://github.com/trinhminhtriet/dotfiles) - 🛠️ A collection of configuration files and scripts to customize and streamline your development environment. (1 week ago)
 - [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (1 week ago)
 - [trinhminhtriet/docs](https://github.com/trinhminhtriet/docs) (2 weeks ago)
@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [crisddev](https://github.com/crisddev)
 - [pushpank-dhruw](https://github.com/pushpank-dhruw)
 - [MateoRodriguez0](https://github.com/MateoRodriguez0)
 - [yaquitadeveloper](https://github.com/yaquitadeveloper)
@@ -55,11 +56,10 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [sins921](https://github.com/sins921)
 - [HoDangDung](https://github.com/HoDangDung)
 - [Tayondw](https://github.com/Tayondw)
-- [slopware](https://github.com/slopware)
 
 ## ⭐ Recent stars
 
-- [moment/luxon](https://github.com/moment/luxon) - ⏱ A library for working with dates and times in JS (today)
+- [moment/luxon](https://github.com/moment/luxon) - ⏱ A library for working with dates and times in JS (1 day ago)
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications. (1 week ago)
 - [karatelabs/karate](https://github.com/karatelabs/karate) - Test Automation Made Simple (1 week ago)
 - [frappe/frappe](https://github.com/frappe/frappe) - Low code web framework for real world applications, in Python and Javascript (1 week ago)
