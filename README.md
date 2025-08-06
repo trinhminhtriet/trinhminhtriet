@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Mental-Medusa333](https://github.com/Mental-Medusa333)
 - [ravelmello](https://github.com/ravelmello)
 - [holasoymalva](https://github.com/holasoymalva)
 - [Tayondw](https://github.com/Tayondw)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [yaquitadeveloper](https://github.com/yaquitadeveloper)
 - [NexusPanda](https://github.com/NexusPanda)
 - [Jhoel777ar](https://github.com/Jhoel777ar)
-- [yashwanth252005](https://github.com/yashwanth252005)
 
 ## ⭐ Recent stars
 
+- [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager (today)
+- [simstudioai/sim](https://github.com/simstudioai/sim) - Sim is an open-source AI agent workflow builder. Sim Studio's interface is a lightweight, intuitive way to quickly build and deploy LLMs that connect with your favorite tools. (today)
+- [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader) - A high-performance algorithmic trading platform and event-driven backtester (today)
 - [trinhminhtriet/cargo-kit](https://github.com/trinhminhtriet/cargo-kit) - Cargo subcommand to apply performance, compile-time, or size-optimized profiles and configs to your Rust project for enhanced build efficiency. (1 day ago)
 - [trinhminhtriet/pingy](https://github.com/trinhminhtriet/pingy) - ⚡ Pingy: A fast, concurrent Rust-based ping tool with real-time updates & visual charts! 📊🚀 (1 day ago)
-- [trinhminhtriet/netcatr](https://github.com/trinhminhtriet/netcatr) - 📡 netcat: A cross-platform port listener and reverse shell application designed for ease of use, providing seamless network connectivity. (1 day ago)
-- [moment/luxon](https://github.com/moment/luxon) - ⏱ A library for working with dates and times in JS (2 days ago)
-- [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications. (1 week ago)
 
 ## 🔨 Latest Pull Requests I published
 
