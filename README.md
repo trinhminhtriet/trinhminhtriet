@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [rebelliousi](https://github.com/rebelliousi)
 - [Mental-Medusa333](https://github.com/Mental-Medusa333)
 - [ravelmello](https://github.com/ravelmello)
 - [holasoymalva](https://github.com/holasoymalva)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [MateoRodriguez0](https://github.com/MateoRodriguez0)
 - [yaquitadeveloper](https://github.com/yaquitadeveloper)
 - [NexusPanda](https://github.com/NexusPanda)
-- [Jhoel777ar](https://github.com/Jhoel777ar)
 
 ## ⭐ Recent stars
 
