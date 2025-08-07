@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Hiteshchoudhary25](https://github.com/Hiteshchoudhary25)
 - [martinsoliz9](https://github.com/martinsoliz9)
 - [ManchesterCityFC04](https://github.com/ManchesterCityFC04)
 - [d33pto3](https://github.com/d33pto3)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [holasoymalva](https://github.com/holasoymalva)
 - [Tayondw](https://github.com/Tayondw)
 - [crisddev](https://github.com/crisddev)
-- [pushpank-dhruw](https://github.com/pushpank-dhruw)
 
 ## ⭐ Recent stars
 
