@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [shubhamkumarsharma03](https://github.com/shubhamkumarsharma03)
 - [sipemu](https://github.com/sipemu)
 - [Hiteshchoudhary25](https://github.com/Hiteshchoudhary25)
 - [martinsoliz9](https://github.com/martinsoliz9)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Mental-Medusa333](https://github.com/Mental-Medusa333)
 - [ravelmello](https://github.com/ravelmello)
 - [holasoymalva](https://github.com/holasoymalva)
-- [Tayondw](https://github.com/Tayondw)
 
 ## ⭐ Recent stars
 
+- [Anmol-Baranwal/Cool-GIFs-For-GitHub](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub) - 🤝 Awesome List of GIFs & avatars to use in GitHub. (today)
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager (2 days ago)
 - [simstudioai/sim](https://github.com/simstudioai/sim) - Sim is an open-source AI agent workflow builder. Sim Studio's interface is a lightweight, intuitive way to quickly build and deploy LLMs that connect with your favorite tools. (2 days ago)
 - [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader) - A high-performance algorithmic trading platform and event-driven backtester (2 days ago)
 - [trinhminhtriet/cargo-kit](https://github.com/trinhminhtriet/cargo-kit) - Cargo subcommand to apply performance, compile-time, or size-optimized profiles and configs to your Rust project for enhanced build efficiency. (3 days ago)
-- [trinhminhtriet/pingy](https://github.com/trinhminhtriet/pingy) - ⚡ Pingy: A fast, concurrent Rust-based ping tool with real-time updates & visual charts! 📊🚀 (3 days ago)
 
 ## 🔨 Latest Pull Requests I published
 
