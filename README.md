@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [yogaardd](https://github.com/yogaardd)
 - [OxHazem](https://github.com/OxHazem)
 - [shubhamkumarsharma03](https://github.com/shubhamkumarsharma03)
 - [sipemu](https://github.com/sipemu)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [d33pto3](https://github.com/d33pto3)
 - [rebelliousi](https://github.com/rebelliousi)
 - [Mental-Medusa333](https://github.com/Mental-Medusa333)
-- [ravelmello](https://github.com/ravelmello)
 
 ## ⭐ Recent stars
 
