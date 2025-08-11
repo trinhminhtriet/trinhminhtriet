@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [DIMFLIX](https://github.com/DIMFLIX)
 - [TheAftabAlam](https://github.com/TheAftabAlam)
 - [OxHazem](https://github.com/OxHazem)
 - [shubhamkumarsharma03](https://github.com/shubhamkumarsharma03)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [ManchesterCityFC04](https://github.com/ManchesterCityFC04)
 - [d33pto3](https://github.com/d33pto3)
 - [rebelliousi](https://github.com/rebelliousi)
-- [Mental-Medusa333](https://github.com/Mental-Medusa333)
 
 ## ⭐ Recent stars
 
