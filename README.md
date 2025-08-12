@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [vallq](https://github.com/vallq)
 - [Sheida-Ebrahimi](https://github.com/Sheida-Ebrahimi)
 - [DIMFLIX](https://github.com/DIMFLIX)
 - [TheAftabAlam](https://github.com/TheAftabAlam)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Hiteshchoudhary25](https://github.com/Hiteshchoudhary25)
 - [martinsoliz9](https://github.com/martinsoliz9)
 - [ManchesterCityFC04](https://github.com/ManchesterCityFC04)
-- [d33pto3](https://github.com/d33pto3)
 
 ## ⭐ Recent stars
 
