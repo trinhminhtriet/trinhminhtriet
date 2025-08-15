@@ -50,12 +50,12 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [24601](https://github.com/24601)
 - [vallq](https://github.com/vallq)
 - [Sheida-Ebrahimi](https://github.com/Sheida-Ebrahimi)
-- [DIMFLIX](https://github.com/DIMFLIX)
 - [TheAftabAlam](https://github.com/TheAftabAlam)
 - [OxHazem](https://github.com/OxHazem)
 - [shubhamkumarsharma03](https://github.com/shubhamkumarsharma03)
 - [sipemu](https://github.com/sipemu)
 - [Hiteshchoudhary25](https://github.com/Hiteshchoudhary25)
+- [martinsoliz9](https://github.com/martinsoliz9)
 
 ## ⭐ Recent stars
 
