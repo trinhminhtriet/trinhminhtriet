@@ -46,7 +46,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
-- [menzbaba](https://github.com/menzbaba)
 - [Tayondw](https://github.com/Tayondw)
 - [24601](https://github.com/24601)
 - [vallq](https://github.com/vallq)
@@ -56,6 +55,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [shubhamkumarsharma03](https://github.com/shubhamkumarsharma03)
 - [sipemu](https://github.com/sipemu)
 - [Hiteshchoudhary25](https://github.com/Hiteshchoudhary25)
+- [martinsoliz9](https://github.com/martinsoliz9)
 
 ## ⭐ Recent stars
 
