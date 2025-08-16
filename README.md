@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [phishdestroy/ScamIntelLogs](https://github.com/phishdestroy/ScamIntelLogs) - Preserving Telegram dumps of scammer activities for evidence and awareness (today)
-- [phishdestroy/destroylist](https://github.com/phishdestroy/destroylist) - An up-to-date blacklist of phishing and scam domains, automatically updated by the PhishDestroy system. A reliable threat intelligence source for integration into security systems. (today)
-- [imsyy/vitepress-theme-curve](https://github.com/imsyy/vitepress-theme-curve) - 🎉 A Simple VitePress Theme | 一个极简的 VitePress 主题 (today)
-- [imsyy/SNav](https://github.com/imsyy/SNav) - 【重构中】Snavigation 一个简约的起始页 | 支持自定义搜索引擎，自定义快捷方式，自定义壁纸以及数据备份 (today)
-- [imsyy/site-status](https://github.com/imsyy/site-status) - 📺 一个基于 UptimeRobot API 的在线状态面板 | 站点监测 | 状态检测 | An online status panel based on the UptimeRobot API | UptimeRobot, status, site (today)
+- [tperol/ConvNetQuake](https://github.com/tperol/ConvNetQuake) - Convolutional Neural Network for Earthquake detection and location (today)
+- [martiansideofthemoon/rankgen](https://github.com/martiansideofthemoon/rankgen) - Official code and model checkpoints for our EMNLP 2022 paper "RankGen - Improving Text Generation with Large Ranking Models" (https://arxiv.org/abs/2205.09726). (today)
+- [martiansideofthemoon/ai-detection-paraphrases](https://github.com/martiansideofthemoon/ai-detection-paraphrases) - Official repository for our NeurIPS 2023 paper "Paraphrasing evades detectors of AI-generated text, but retrieval is an effective defense" (https://arxiv.org/abs/2303.13408). (today)
+- [martiansideofthemoon/style-transfer-paraphrase](https://github.com/martiansideofthemoon/style-transfer-paraphrase) - Official code and data repository for our EMNLP 2020 long paper "Reformulating Unsupervised Style Transfer as Paraphrase Generation" (https://arxiv.org/abs/2010.05700). (today)
+- [rinadelph/CursorPlus](https://github.com/rinadelph/CursorPlus) - Enables source file where you can edit and improve your own cursor ide (today)
 
 ## 🔨 Latest Pull Requests I published
 
