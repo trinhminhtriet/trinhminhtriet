@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [happykkAi](https://github.com/happykkAi)
 - [cyberhasan7](https://github.com/cyberhasan7)
 - [shodhanshetty12](https://github.com/shodhanshetty12)
 - [Ram77-code](https://github.com/Ram77-code)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Tayondw](https://github.com/Tayondw)
 - [24601](https://github.com/24601)
 - [vallq](https://github.com/vallq)
-- [Sheida-Ebrahimi](https://github.com/Sheida-Ebrahimi)
 
 ## ⭐ Recent stars
 
-- [mathieuancelin/js-repaint-perfs](https://github.com/mathieuancelin/js-repaint-perfs) - Playground to test repaint rates of JS libs (today)
-- [Kashif-E/Compose-Multiplatform-Video-Player](https://github.com/Kashif-E/Compose-Multiplatform-Video-Player) - This is an example of adding video player to Compose multiplatform ios, android and desktop (today)
-- [Kashif-E/KMPMovies](https://github.com/Kashif-E/KMPMovies) - A Compose multiplatform app, with a focus on architecture and platform specific views/features (today)
-- [Kashif-E/KMPTemplate](https://github.com/Kashif-E/KMPTemplate) - A KMP Template targeting Multiplatform Compose Android, IOS and Desktop. Get started with zero effort. (today)
-- [Kashif-E/KMMNewsAPP](https://github.com/Kashif-E/KMMNewsAPP) - Kotlin multi platform project template and sample app with everything shared except the UI. Built with clean architecture + MVI (today)
+- [kleo/evilportals](https://github.com/kleo/evilportals) - A collection of captive portals for phishing using a WiFi Pineapple  (today)
+- [d1pakda5/PowerShell-for-Pentesters](https://github.com/d1pakda5/PowerShell-for-Pentesters) - PowerShell for Pentesters (today)
+- [vanshg/MacAssistant](https://github.com/vanshg/MacAssistant) - Google Assistant for macOS! (today)
+- [foges/whisper-dictation](https://github.com/foges/whisper-dictation) -  Dictation app based on the OpenAI speech-to-text models (today)
+- [MariaSolOs/dotfiles](https://github.com/MariaSolOs/dotfiles) - Files important enough for version control (today)
 
 ## 🔨 Latest Pull Requests I published
 
