@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [alanz/HaRe](https://github.com/alanz/HaRe) - The Haskell Refactoring Tool (today)
-- [mpdavis/python-jose](https://github.com/mpdavis/python-jose) - A JOSE implementation in Python (today)
-- [jansel/opentuner](https://github.com/jansel/opentuner) - An extensible framework for program autotuning (today)
-- [Asthestarsfalll/img2art](https://github.com/Asthestarsfalll/img2art) - Convert image/gif/video to ascii art. (today)
-- [GuangLun2000/COMAP-MCM-2024](https://github.com/GuangLun2000/COMAP-MCM-2024) - 数模美赛材料合集 COMAP MCM/ICM 2025 (today)
+- [hoovercj/vscode-power-mode](https://github.com/hoovercj/vscode-power-mode) - Your code is powerful, unleash it! The extension made popular by Code in the Dark has finally made its way to VS Code. (today)
+- [jridgewell/babel-plugin-transform-incremental-dom](https://github.com/jridgewell/babel-plugin-transform-incremental-dom) - Turn JSX into IncrementalDOM (today)
+- [jridgewell/Unlock](https://github.com/jridgewell/Unlock) - Unlock multiple Core Storage encrypted volumes at boot. (today)
+- [sonofmagic/tailwindcss-mangle](https://github.com/sonofmagic/tailwindcss-mangle) - a obfuscator tool for tailwindcss mangle (today)
+- [sonofmagic/uni-app-vite-vue3-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vite-vue3-tailwind-vscode-template) - uni-app vue3 tailwindcss 模板，集成了 iconify,eslint,typescript,prettier 等等工具作为解决方案 (today)
 
 ## 🔨 Latest Pull Requests I published
 
