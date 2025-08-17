@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [Quentin-Anthony/nanoMPI](https://github.com/Quentin-Anthony/nanoMPI) - Simple MPI implementation for prototyping or learning (today)
-- [Quentin-Anthony/torch-profiling-tutorial](https://github.com/Quentin-Anthony/torch-profiling-tutorial) (today)
-- [BerenMillidge/PredictiveCodingBackprop](https://github.com/BerenMillidge/PredictiveCodingBackprop) - Code for the paper "Predictive Coding Approximates Backprop along Arbitrary Computation Graphs" (today)
-- [BerenMillidge/FEP_Active_Inference_Papers](https://github.com/BerenMillidge/FEP_Active_Inference_Papers) - A repository for major/influential FEP and active inference papers. (today)
-- [FanqingM/MM-Eureka-V0](https://github.com/FanqingM/MM-Eureka-V0) - MM-Eureka V0 also called R1-Multimodal-Journey, Latest version is in MM-Eureka (today)
+- [brentlintner/synt](https://github.com/brentlintner/synt) - Find similar functions and classes in your JavaScript/TypeScript code (today)
+- [bentolor/idea-cli-inspector](https://github.com/bentolor/idea-cli-inspector) - A little command-line tool to integrate the awesome IntelliJ IDEA code inspections in your continuous integration (CI) process using Jenkins, Bamboo, et. al. (today)
+- [sean7218/ubereats](https://github.com/sean7218/ubereats) - 🍦 UberEats clone 🍜 : iOS in Swift, backend with Yelp API and Node.js. Location uses Google Map Service API. All animation and UI done programmatically (today)
+- [kattouf/ProgressLine](https://github.com/kattouf/ProgressLine) - ⏳Track commands progress in a compact one-line format (today)
+- [oivoodoo/devise_masquerade](https://github.com/oivoodoo/devise_masquerade) - Extension for devise, enable login as functionality. Add link to the masquerade_path(resource) and use it. (today)
 
 ## 🔨 Latest Pull Requests I published
 
