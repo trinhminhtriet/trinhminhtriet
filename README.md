@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [brentlintner/synt](https://github.com/brentlintner/synt) - Find similar functions and classes in your JavaScript/TypeScript code (today)
-- [bentolor/idea-cli-inspector](https://github.com/bentolor/idea-cli-inspector) - A little command-line tool to integrate the awesome IntelliJ IDEA code inspections in your continuous integration (CI) process using Jenkins, Bamboo, et. al. (today)
-- [sean7218/ubereats](https://github.com/sean7218/ubereats) - 🍦 UberEats clone 🍜 : iOS in Swift, backend with Yelp API and Node.js. Location uses Google Map Service API. All animation and UI done programmatically (today)
-- [kattouf/ProgressLine](https://github.com/kattouf/ProgressLine) - ⏳Track commands progress in a compact one-line format (today)
-- [oivoodoo/devise_masquerade](https://github.com/oivoodoo/devise_masquerade) - Extension for devise, enable login as functionality. Add link to the masquerade_path(resource) and use it. (today)
+- [alaouy/sql-moroccan-cities](https://github.com/alaouy/sql-moroccan-cities) - 🇲🇦 Sql dump of the whole list of cities and regions in Morocco. (today)
+- [alaouy/YouTube](https://github.com/alaouy/YouTube) - 🔥 Laravel PHP Facade/Wrapper for the Youtube Data API (today)
+- [trptcolin/consistency_fail](https://github.com/trptcolin/consistency_fail) - A tool for detecting missing unique indexes in Rails projects (today)
+- [trptcolin/reply](https://github.com/trptcolin/reply) - REPL-y: A fitter, happier, more productive REPL for Clojure. (today)
+- [lfv89/vim-interestingwords](https://github.com/lfv89/vim-interestingwords) - 🎨 A plugin for seamlessly highlighting and navigating through words (today)
 
 ## 🔨 Latest Pull Requests I published
 
