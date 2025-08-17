@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [nalzok/wechat-decipher-macos](https://github.com/nalzok/wechat-decipher-macos) - DTrace scripts to extract chat history from WeChat on macOS (today)
-- [rongweihe/CS_Offer](https://github.com/rongweihe/CS_Offer) - 后台开发基础知识总结（春招/秋招） (today)
-- [rongweihe/CPPNotes](https://github.com/rongweihe/CPPNotes) - 【C++ 面试 + C++ 学习指南】 一份涵盖大部分 C++ 程序员所需要掌握的核心知识。 (today)
-- [jxtxzzw/Microsoft-Hackathon-2019-Intelligent-Garbage-Classification-IoT-Edge-Solution](https://github.com/jxtxzzw/Microsoft-Hackathon-2019-Intelligent-Garbage-Classification-IoT-Edge-Solution) - This is the IoT Edge Solution about Intelligent Garbage Classification Project in Microsoft Hackathon 2019. This project has another part which is WeChat mini APP solution. We won the most impactful award. Keywords: IoT, IoT Edge, IoT Hub, Computer Vision, Recoginition, Classification, Azure, Azure IoT Tools, VS Code (today)
-- [DevRico003/youtube_summarizer](https://github.com/DevRico003/youtube_summarizer) - A modern Next.js-based tool for AI-powered YouTube video summarization. This application allows you to generate concise summaries of YouTube videos using different AI models, with support for multiple languages and summary styles. (today)
+- [BigJk/end_of_eden](https://github.com/BigJk/end_of_eden) - "Slay the Spire"-like roguelite fully in console. (today)
+- [BigJk/snd](https://github.com/BigJk/snd) - Sales & Dungeons — Thermal Printer as D&D / TTRPG Utility (today)
+- [cyqresig/ReactNativeComponentDemos](https://github.com/cyqresig/ReactNativeComponentDemos) - Demos for react-native components of 'react-native-component' (today)
+- [arghyac35/aria-telegram-mirror-bot](https://github.com/arghyac35/aria-telegram-mirror-bot) - This is a fork of https://github.com/out386/aria-telegram-mirror-bot. A Telegram bot to download files via HTTP(S)/BitTorrent and upload them to Google Drive (today)
+- [thomas-lowry/themer](https://github.com/thomas-lowry/themer) - A Figma plugin designed to allow you to swap between styles named the same from different published libraries. (today)
 
 ## 🔨 Latest Pull Requests I published
 
