@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [floe/smc_util](https://github.com/floe/smc_util) - Apple System Management Control (SMC) utility (today)
-- [floe/CEC](https://github.com/floe/CEC) - Arduino library for HDMI CEC communication (today)
-- [floe/BTLE](https://github.com/floe/BTLE) - Arduino library for basic Bluetooth Low Energy with the nRF24L01+ (today)
-- [floe/backscrub](https://github.com/floe/backscrub) - Virtual Video Device for Background Replacement with Deep Semantic Segmentation (today)
-- [felixr/docker-zsh-completion](https://github.com/felixr/docker-zsh-completion) - [OUTDATED] zsh completion for docker; use  https://github.com/docker/cli instead (today)
+- [Sarthak2143/sakura](https://github.com/Sarthak2143/sakura) - minimal lib for rendering media in terminal (today)
+- [Testzero-wz/analog](https://github.com/Testzero-wz/analog) - 一款基于机器学习的Web日志统计分析与异常检测命令行工具 (today)
+- [revmischa/rtsp-server](https://github.com/revmischa/rtsp-server) - Lightweight RTSP/RTP streaming media server (today)
+- [Xuefeng-Zhu/SheetSQL](https://github.com/Xuefeng-Zhu/SheetSQL) - SQL engine inside Google Sheet (today)
+- [orico/www.mlcompendium.com](https://github.com/orico/www.mlcompendium.com) - The Machine Learning & Deep Learning Compendium was a list of references in my private & single document, which I curated in order to expand my knowledge, it is now an open knowledge-sharing project compiled using Gitbook. (today)
 
 ## 🔨 Latest Pull Requests I published
 
