@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [zhu7055](https://github.com/zhu7055)
 - [CorlisRay](https://github.com/CorlisRay)
 - [shehrozkha11](https://github.com/shehrozkha11)
 - [Tayondw](https://github.com/Tayondw)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [TheAftabAlam](https://github.com/TheAftabAlam)
 - [OxHazem](https://github.com/OxHazem)
 - [shubhamkumarsharma03](https://github.com/shubhamkumarsharma03)
-- [sipemu](https://github.com/sipemu)
 
 ## ⭐ Recent stars
 
