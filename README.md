@@ -33,7 +33,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👷 Check out what I'm currently working on
 
-- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (3 days ago)
+- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (today)
 - [trinhminhtriet/github-toolkit](https://github.com/trinhminhtriet/github-toolkit) - github-toolkit: Scrapes GitHub developers, followers, repositories into MySQL database. (4 days ago)
 - [trinhminhtriet/markgen](https://github.com/trinhminhtriet/markgen) - 📜 Generate personalized markdown files with templates, GitHub, RSS, and API integrations using Go. (5 days ago)
 - [trinhminhtriet/spiko](https://github.com/trinhminhtriet/spiko) - 🚀 Spiko is a fast, Rust-based load testing tool with a beautiful TUI for real-time insights. (5 days ago)
@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [DIMFLIX](https://github.com/DIMFLIX)
+- [Sandesh-Upadhyay](https://github.com/Sandesh-Upadhyay)
 - [happykkAi](https://github.com/happykkAi)
 - [cyberhasan7](https://github.com/cyberhasan7)
 - [shodhanshetty12](https://github.com/shodhanshetty12)
@@ -54,16 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [CorlisRay](https://github.com/CorlisRay)
 - [shehrozkha11](https://github.com/shehrozkha11)
 - [Tayondw](https://github.com/Tayondw)
-- [24601](https://github.com/24601)
-- [vallq](https://github.com/vallq)
 
 ## ⭐ Recent stars
 
-- [kleo/evilportals](https://github.com/kleo/evilportals) - A collection of captive portals for phishing using a WiFi Pineapple  (today)
-- [d1pakda5/PowerShell-for-Pentesters](https://github.com/d1pakda5/PowerShell-for-Pentesters) - PowerShell for Pentesters (today)
-- [vanshg/MacAssistant](https://github.com/vanshg/MacAssistant) - Google Assistant for macOS! (today)
-- [foges/whisper-dictation](https://github.com/foges/whisper-dictation) -  Dictation app based on the OpenAI speech-to-text models (today)
-- [MariaSolOs/dotfiles](https://github.com/MariaSolOs/dotfiles) - Files important enough for version control (today)
+- [floe/smc_util](https://github.com/floe/smc_util) - Apple System Management Control (SMC) utility (today)
+- [floe/CEC](https://github.com/floe/CEC) - Arduino library for HDMI CEC communication (today)
+- [floe/BTLE](https://github.com/floe/BTLE) - Arduino library for basic Bluetooth Low Energy with the nRF24L01+ (today)
+- [floe/backscrub](https://github.com/floe/backscrub) - Virtual Video Device for Background Replacement with Deep Semantic Segmentation (today)
+- [felixr/docker-zsh-completion](https://github.com/felixr/docker-zsh-completion) - [OUTDATED] zsh completion for docker; use  https://github.com/docker/cli instead (today)
 
 ## 🔨 Latest Pull Requests I published
 
