@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [cyberhasan7](https://github.com/cyberhasan7)
+- [shodhanshetty12](https://github.com/shodhanshetty12)
 - [Ram77-code](https://github.com/Ram77-code)
 - [zhu7055](https://github.com/zhu7055)
 - [CorlisRay](https://github.com/CorlisRay)
@@ -54,16 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [24601](https://github.com/24601)
 - [vallq](https://github.com/vallq)
 - [Sheida-Ebrahimi](https://github.com/Sheida-Ebrahimi)
-- [TheAftabAlam](https://github.com/TheAftabAlam)
-- [OxHazem](https://github.com/OxHazem)
 
 ## ⭐ Recent stars
 
-- [venam/2bwm](https://github.com/venam/2bwm) - A fast floating WM written over the XCB library and derived from mcwm. (today)
-- [d0nd3r3k/PiR.tv](https://github.com/d0nd3r3k/PiR.tv) - A Raspberry PI  smart TV and remote controller built with Open Source tools.  (today)
-- [Xumeiquer/yara-forensics](https://github.com/Xumeiquer/yara-forensics) - Set of Yara rules for finding files using magics headers (today)
-- [FrenchYeti/interruptor](https://github.com/FrenchYeti/interruptor) - Human-friendly cross-platform system call tracing and hooking library based on Frida's Stalker (today)
-- [FrenchYeti/dexcalibur](https://github.com/FrenchYeti/dexcalibur) - [Official] Android reverse engineering tool focused on dynamic instrumentation automation leveraging Frida. It disassembles dex, analyzes it statically, generates hooks, discovers reflected methods, stores intercepted data and does new things from it. Its aim is to be an all-in-one Android reverse engineering platform. (today)
+- [mathieuancelin/js-repaint-perfs](https://github.com/mathieuancelin/js-repaint-perfs) - Playground to test repaint rates of JS libs (today)
+- [Kashif-E/Compose-Multiplatform-Video-Player](https://github.com/Kashif-E/Compose-Multiplatform-Video-Player) - This is an example of adding video player to Compose multiplatform ios, android and desktop (today)
+- [Kashif-E/KMPMovies](https://github.com/Kashif-E/KMPMovies) - A Compose multiplatform app, with a focus on architecture and platform specific views/features (today)
+- [Kashif-E/KMPTemplate](https://github.com/Kashif-E/KMPTemplate) - A KMP Template targeting Multiplatform Compose Android, IOS and Desktop. Get started with zero effort. (today)
+- [Kashif-E/KMMNewsAPP](https://github.com/Kashif-E/KMMNewsAPP) - Kotlin multi platform project template and sample app with everything shared except the UI. Built with clean architecture + MVI (today)
 
 ## 🔨 Latest Pull Requests I published
 
