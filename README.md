@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Ram77-code](https://github.com/Ram77-code)
 - [zhu7055](https://github.com/zhu7055)
 - [CorlisRay](https://github.com/CorlisRay)
 - [shehrozkha11](https://github.com/shehrozkha11)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Sheida-Ebrahimi](https://github.com/Sheida-Ebrahimi)
 - [TheAftabAlam](https://github.com/TheAftabAlam)
 - [OxHazem](https://github.com/OxHazem)
-- [shubhamkumarsharma03](https://github.com/shubhamkumarsharma03)
 
 ## ⭐ Recent stars
 
