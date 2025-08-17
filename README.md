@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [CorlisRay](https://github.com/CorlisRay)
 - [shehrozkha11](https://github.com/shehrozkha11)
 - [Tayondw](https://github.com/Tayondw)
 - [24601](https://github.com/24601)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [OxHazem](https://github.com/OxHazem)
 - [shubhamkumarsharma03](https://github.com/shubhamkumarsharma03)
 - [sipemu](https://github.com/sipemu)
-- [Hiteshchoudhary25](https://github.com/Hiteshchoudhary25)
 
 ## ⭐ Recent stars
 
-- [BigJk/end_of_eden](https://github.com/BigJk/end_of_eden) - "Slay the Spire"-like roguelite fully in console. (today)
-- [BigJk/snd](https://github.com/BigJk/snd) - Sales & Dungeons — Thermal Printer as D&D / TTRPG Utility (today)
-- [cyqresig/ReactNativeComponentDemos](https://github.com/cyqresig/ReactNativeComponentDemos) - Demos for react-native components of 'react-native-component' (today)
-- [arghyac35/aria-telegram-mirror-bot](https://github.com/arghyac35/aria-telegram-mirror-bot) - This is a fork of https://github.com/out386/aria-telegram-mirror-bot. A Telegram bot to download files via HTTP(S)/BitTorrent and upload them to Google Drive (today)
-- [thomas-lowry/themer](https://github.com/thomas-lowry/themer) - A Figma plugin designed to allow you to swap between styles named the same from different published libraries. (today)
+- [mgenev/how-to-sane](https://github.com/mgenev/how-to-sane) - A demonstration of how to use the SANE stack  (today)
+- [mgenev/nodember](https://github.com/mgenev/nodember) -  Full Stack Javascript Boilerplate (today)
+- [d-oliveros/ngSmoothScroll](https://github.com/d-oliveros/ngSmoothScroll) - AngularJS directives for animating smooth scrolling to elements. (today)
+- [d-oliveros/ngSticky](https://github.com/d-oliveros/ngSticky) - AngularJS directive to make elements stick when scrolling down. (today)
+- [thomas4019/pgmongo](https://github.com/thomas4019/pgmongo) - Replace MongoDB with PostgreSQL using jsonb fields (today)
 
 ## 🔨 Latest Pull Requests I published
 
