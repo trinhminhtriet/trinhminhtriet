@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [ream88/stylelint-config-idiomatic-order](https://github.com/ream88/stylelint-config-idiomatic-order) - stylelint + idiomatic-css = ❤️ (today)
-- [arahaya/ImageFilters.js](https://github.com/arahaya/ImageFilters.js) - A Javascript Image filter library for the HTML5 canvas tag. (today)
-- [colin3dmax/CocosCreator](https://github.com/colin3dmax/CocosCreator) - EffectOnLine (today)
-- [domme/VoxelConeTracing](https://github.com/domme/VoxelConeTracing) - An implementation of the "Voxel Cone Tracing" global illumination technique proposed by Cyril Crassin (http://perso.telecom-paristech.fr/~eisemann/publications/Crassin2011VoxelGlobalPG/VoxelGI_EG-pg2011-sub.pdf) (today)
-- [BowlingX/marklib](https://github.com/BowlingX/marklib) - A small library to wrap serializable TextSelections. (today)
+- [Quentin-Anthony/nanoMPI](https://github.com/Quentin-Anthony/nanoMPI) - Simple MPI implementation for prototyping or learning (today)
+- [Quentin-Anthony/torch-profiling-tutorial](https://github.com/Quentin-Anthony/torch-profiling-tutorial) (today)
+- [BerenMillidge/PredictiveCodingBackprop](https://github.com/BerenMillidge/PredictiveCodingBackprop) - Code for the paper "Predictive Coding Approximates Backprop along Arbitrary Computation Graphs" (today)
+- [BerenMillidge/FEP_Active_Inference_Papers](https://github.com/BerenMillidge/FEP_Active_Inference_Papers) - A repository for major/influential FEP and active inference papers. (today)
+- [FanqingM/MM-Eureka-V0](https://github.com/FanqingM/MM-Eureka-V0) - MM-Eureka V0 also called R1-Multimodal-Journey, Latest version is in MM-Eureka (today)
 
 ## 🔨 Latest Pull Requests I published
 
