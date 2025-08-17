@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [hoovercj/vscode-power-mode](https://github.com/hoovercj/vscode-power-mode) - Your code is powerful, unleash it! The extension made popular by Code in the Dark has finally made its way to VS Code. (today)
-- [jridgewell/babel-plugin-transform-incremental-dom](https://github.com/jridgewell/babel-plugin-transform-incremental-dom) - Turn JSX into IncrementalDOM (today)
-- [jridgewell/Unlock](https://github.com/jridgewell/Unlock) - Unlock multiple Core Storage encrypted volumes at boot. (today)
-- [sonofmagic/tailwindcss-mangle](https://github.com/sonofmagic/tailwindcss-mangle) - a obfuscator tool for tailwindcss mangle (today)
-- [sonofmagic/uni-app-vite-vue3-tailwind-vscode-template](https://github.com/sonofmagic/uni-app-vite-vue3-tailwind-vscode-template) - uni-app vue3 tailwindcss 模板，集成了 iconify,eslint,typescript,prettier 等等工具作为解决方案 (today)
+- [ream88/stylelint-config-idiomatic-order](https://github.com/ream88/stylelint-config-idiomatic-order) - stylelint + idiomatic-css = ❤️ (today)
+- [arahaya/ImageFilters.js](https://github.com/arahaya/ImageFilters.js) - A Javascript Image filter library for the HTML5 canvas tag. (today)
+- [colin3dmax/CocosCreator](https://github.com/colin3dmax/CocosCreator) - EffectOnLine (today)
+- [domme/VoxelConeTracing](https://github.com/domme/VoxelConeTracing) - An implementation of the "Voxel Cone Tracing" global illumination technique proposed by Cyril Crassin (http://perso.telecom-paristech.fr/~eisemann/publications/Crassin2011VoxelGlobalPG/VoxelGI_EG-pg2011-sub.pdf) (today)
+- [BowlingX/marklib](https://github.com/BowlingX/marklib) - A small library to wrap serializable TextSelections. (today)
 
 ## 🔨 Latest Pull Requests I published
 
