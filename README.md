@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [alaouy/sql-moroccan-cities](https://github.com/alaouy/sql-moroccan-cities) - 🇲🇦 Sql dump of the whole list of cities and regions in Morocco. (today)
-- [alaouy/YouTube](https://github.com/alaouy/YouTube) - 🔥 Laravel PHP Facade/Wrapper for the Youtube Data API (today)
-- [trptcolin/consistency_fail](https://github.com/trptcolin/consistency_fail) - A tool for detecting missing unique indexes in Rails projects (today)
-- [trptcolin/reply](https://github.com/trptcolin/reply) - REPL-y: A fitter, happier, more productive REPL for Clojure. (today)
-- [lfv89/vim-interestingwords](https://github.com/lfv89/vim-interestingwords) - 🎨 A plugin for seamlessly highlighting and navigating through words (today)
+- [nullbio/abcweb](https://github.com/nullbio/abcweb) - Go web app framework and generator. Inspired by Rails. (today)
+- [Knio/pynmea2](https://github.com/Knio/pynmea2) - Python library for parsing the NMEA 0183 protocol (GPS) (today)
+- [Knio/dominate](https://github.com/Knio/dominate) - Dominate is a Python library for creating and manipulating HTML documents using an elegant DOM API.  It allows you to write HTML pages in pure Python very concisely, which eliminate the need to learn another template language, and to take advantage of the more powerful features of Python. (today)
+- [crivotz/nv-ide](https://github.com/crivotz/nv-ide) - Neovim custom configuration, oriented for full stack developers (Ruby on Rails, ruby, php, html, css, SCSS, javascript) (today)
+- [andrewn/brew-services-menubar](https://github.com/andrewn/brew-services-menubar) - An OS X menu item for starting and stopping homebrew services (today)
 
 ## 🔨 Latest Pull Requests I published
 
