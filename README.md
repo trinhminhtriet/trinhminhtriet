@@ -33,16 +33,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👷 Check out what I'm currently working on
 
-- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (2 days ago)
-- [trinhminhtriet/github-toolkit](https://github.com/trinhminhtriet/github-toolkit) - github-toolkit: Scrapes GitHub developers, followers, repositories into MySQL database. (3 days ago)
-- [trinhminhtriet/markgen](https://github.com/trinhminhtriet/markgen) - 📜 Generate personalized markdown files with templates, GitHub, RSS, and API integrations using Go. (4 days ago)
-- [trinhminhtriet/spiko](https://github.com/trinhminhtriet/spiko) - 🚀 Spiko is a fast, Rust-based load testing tool with a beautiful TUI for real-time insights. (4 days ago)
-- [trinhminhtriet/sizr](https://github.com/trinhminhtriet/sizr) - 📈 A fast, Rust-based tool to analyze file system usage with colorful output, file aggregation, exclusions, and directory comparisons. (4 days ago)
-- [trinhminhtriet/filerefine](https://github.com/trinhminhtriet/filerefine) - 🧹 FileRefine is a Rust-based CLI tool that renames files in a directory to remove unwanted or problematic characters from filenames. (5 days ago)
-- [trinhminhtriet/procx](https://github.com/trinhminhtriet/procx) - ProcX is an interactive command-line tool for quickly searching and terminating processes, offering a streamlined alternative to traditional kill. (5 days ago)
-- [trinhminhtriet/pingy](https://github.com/trinhminhtriet/pingy) - ⚡ Pingy: A fast, concurrent Rust-based ping tool with real-time updates & visual charts! 📊🚀 (5 days ago)
-- [trinhminhtriet/visyo](https://github.com/trinhminhtriet/visyo) - Visyo — ✨ A fast, minimal, and themeable CLI tool that displays visual system output across platforms. (5 days ago)
-- [trinhminhtriet/scanr](https://github.com/trinhminhtriet/scanr) - ScanR: A lightweight, fast, and configurable port scanner built in Rust for reliable multi-platform network scanning. (5 days ago)
+- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (3 days ago)
+- [trinhminhtriet/github-toolkit](https://github.com/trinhminhtriet/github-toolkit) - github-toolkit: Scrapes GitHub developers, followers, repositories into MySQL database. (4 days ago)
+- [trinhminhtriet/markgen](https://github.com/trinhminhtriet/markgen) - 📜 Generate personalized markdown files with templates, GitHub, RSS, and API integrations using Go. (5 days ago)
+- [trinhminhtriet/spiko](https://github.com/trinhminhtriet/spiko) - 🚀 Spiko is a fast, Rust-based load testing tool with a beautiful TUI for real-time insights. (5 days ago)
+- [trinhminhtriet/sizr](https://github.com/trinhminhtriet/sizr) - 📈 A fast, Rust-based tool to analyze file system usage with colorful output, file aggregation, exclusions, and directory comparisons. (5 days ago)
+- [trinhminhtriet/filerefine](https://github.com/trinhminhtriet/filerefine) - 🧹 FileRefine is a Rust-based CLI tool that renames files in a directory to remove unwanted or problematic characters from filenames. (6 days ago)
+- [trinhminhtriet/procx](https://github.com/trinhminhtriet/procx) - ProcX is an interactive command-line tool for quickly searching and terminating processes, offering a streamlined alternative to traditional kill. (6 days ago)
+- [trinhminhtriet/pingy](https://github.com/trinhminhtriet/pingy) - ⚡ Pingy: A fast, concurrent Rust-based ping tool with real-time updates & visual charts! 📊🚀 (6 days ago)
+- [trinhminhtriet/visyo](https://github.com/trinhminhtriet/visyo) - Visyo — ✨ A fast, minimal, and themeable CLI tool that displays visual system output across platforms. (6 days ago)
+- [trinhminhtriet/scanr](https://github.com/trinhminhtriet/scanr) - ScanR: A lightweight, fast, and configurable port scanner built in Rust for reliable multi-platform network scanning. (6 days ago)
 
 ## 👯 Check out my recent followers
 
@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [tperol/ConvNetQuake](https://github.com/tperol/ConvNetQuake) - Convolutional Neural Network for Earthquake detection and location (today)
-- [martiansideofthemoon/rankgen](https://github.com/martiansideofthemoon/rankgen) - Official code and model checkpoints for our EMNLP 2022 paper "RankGen - Improving Text Generation with Large Ranking Models" (https://arxiv.org/abs/2205.09726). (today)
-- [martiansideofthemoon/ai-detection-paraphrases](https://github.com/martiansideofthemoon/ai-detection-paraphrases) - Official repository for our NeurIPS 2023 paper "Paraphrasing evades detectors of AI-generated text, but retrieval is an effective defense" (https://arxiv.org/abs/2303.13408). (today)
-- [martiansideofthemoon/style-transfer-paraphrase](https://github.com/martiansideofthemoon/style-transfer-paraphrase) - Official code and data repository for our EMNLP 2020 long paper "Reformulating Unsupervised Style Transfer as Paraphrase Generation" (https://arxiv.org/abs/2010.05700). (today)
-- [rinadelph/CursorPlus](https://github.com/rinadelph/CursorPlus) - Enables source file where you can edit and improve your own cursor ide (today)
+- [nalzok/wechat-decipher-macos](https://github.com/nalzok/wechat-decipher-macos) - DTrace scripts to extract chat history from WeChat on macOS (today)
+- [rongweihe/CS_Offer](https://github.com/rongweihe/CS_Offer) - 后台开发基础知识总结（春招/秋招） (today)
+- [rongweihe/CPPNotes](https://github.com/rongweihe/CPPNotes) - 【C++ 面试 + C++ 学习指南】 一份涵盖大部分 C++ 程序员所需要掌握的核心知识。 (today)
+- [jxtxzzw/Microsoft-Hackathon-2019-Intelligent-Garbage-Classification-IoT-Edge-Solution](https://github.com/jxtxzzw/Microsoft-Hackathon-2019-Intelligent-Garbage-Classification-IoT-Edge-Solution) - This is the IoT Edge Solution about Intelligent Garbage Classification Project in Microsoft Hackathon 2019. This project has another part which is WeChat mini APP solution. We won the most impactful award. Keywords: IoT, IoT Edge, IoT Hub, Computer Vision, Recoginition, Classification, Azure, Azure IoT Tools, VS Code (today)
+- [DevRico003/youtube_summarizer](https://github.com/DevRico003/youtube_summarizer) - A modern Next.js-based tool for AI-powered YouTube video summarization. This application allows you to generate concise summaries of YouTube videos using different AI models, with support for multiple languages and summary styles. (today)
 
 ## 🔨 Latest Pull Requests I published
 
