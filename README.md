@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [mgenev/how-to-sane](https://github.com/mgenev/how-to-sane) - A demonstration of how to use the SANE stack  (today)
-- [mgenev/nodember](https://github.com/mgenev/nodember) -  Full Stack Javascript Boilerplate (today)
-- [d-oliveros/ngSmoothScroll](https://github.com/d-oliveros/ngSmoothScroll) - AngularJS directives for animating smooth scrolling to elements. (today)
-- [d-oliveros/ngSticky](https://github.com/d-oliveros/ngSticky) - AngularJS directive to make elements stick when scrolling down. (today)
-- [thomas4019/pgmongo](https://github.com/thomas4019/pgmongo) - Replace MongoDB with PostgreSQL using jsonb fields (today)
+- [alanz/HaRe](https://github.com/alanz/HaRe) - The Haskell Refactoring Tool (today)
+- [mpdavis/python-jose](https://github.com/mpdavis/python-jose) - A JOSE implementation in Python (today)
+- [jansel/opentuner](https://github.com/jansel/opentuner) - An extensible framework for program autotuning (today)
+- [Asthestarsfalll/img2art](https://github.com/Asthestarsfalll/img2art) - Convert image/gif/video to ascii art. (today)
+- [GuangLun2000/COMAP-MCM-2024](https://github.com/GuangLun2000/COMAP-MCM-2024) - 数模美赛材料合集 COMAP MCM/ICM 2025 (today)
 
 ## 🔨 Latest Pull Requests I published
 
