@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [oxters168/Pluvia](https://github.com/oxters168/Pluvia) - Lightweight unofficial Steam client for Android (today)
-- [Dragon863/EchoCLI](https://github.com/Dragon863/EchoCLI) -  A python command line tool for rooting your Amazon Echo dot 2nd generation using a bootrom exploit, as seen on HN (today)
-- [rygorous/intel_occlusion_cull](https://github.com/rygorous/intel_occlusion_cull) - Intel's Software Occlusion Culling demo with my modifications (today)
-- [rygorous/ryg_rans](https://github.com/rygorous/ryg_rans) - Simple rANS encoder/decoder (arithmetic coding-ish entropy coder). (today)
-- [ave9858/msdl](https://github.com/ave9858/msdl) - Moved to https://github.com/massgravel/msdl (today)
+- [kinexbt/blockchain-AI-agent](https://github.com/kinexbt/blockchain-AI-agent) - AI Agent built on EVM and Solana Blockchain.  (today)
+- [kinexbt/Solana_Dice_SmartContract](https://github.com/kinexbt/Solana_Dice_SmartContract) - This project is a simple on-chain Dice Game smart contract built for the Solana blockchain using Rust and the Anchor framework. It demonstrates the fundamentals of Solana program development, including instruction handling, randomness simulation, state management, and token transfers. (today)
+- [kinexbt/xrpl-trading-bot](https://github.com/kinexbt/xrpl-trading-bot) - copy-trading and sniping support on xrpl amm, telegram control implemented (today)
+- [kinexbt/open-mint](https://github.com/kinexbt/open-mint) - Token minting enables trading, marketing, and strategic token distribution. It facilitates liquidity, incentivizes adoption, and can be leveraged for airdrops, staking rewards, or even controlled dumping strategies to balance supply and demand. (today)
+- [kinexbt/ai-agent-solana](https://github.com/kinexbt/ai-agent-solana) - enables automated transactions, smart contract interactions, and real-time data retrieval using AI-driven decision-making. Ideal for developers looking to integrate AI with DeFi, NFTs, and on-chain analytics on Solana." (today)
 
 ## 🔨 Latest Pull Requests I published
 
