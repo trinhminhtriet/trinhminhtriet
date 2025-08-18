@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [tkkim-robot/safe_control](https://github.com/tkkim-robot/safe_control) - Safety-critical controllers for single/multi robotic navigation: CBF-QP, MPC-CBF, and etc. (today)
-- [davesarmoury/GLaDOS](https://github.com/davesarmoury/GLaDOS) (today)
-- [at-wat/neonavigation](https://github.com/at-wat/neonavigation) - A 2-D/3-DOF seamless global/local mobile robot motion planner package for ROS (today)
-- [at-wat/mcl_3dl](https://github.com/at-wat/mcl_3dl) - A ROS node to perform a probabilistic 3-D/6-DOF localization system for mobile robots with 3-D LIDAR(s). It implements pointcloud based Monte Carlo localization that uses a reference pointcloud as a map. (today)
-- [mlherd/Dataset-of-Gazebo-Worlds-Models-and-Maps](https://github.com/mlherd/Dataset-of-Gazebo-Worlds-Models-and-Maps) - A set of Gazebo worlds models and maps that I used for testing Navigation2 (today)
+- [craftlinks/zig_learn_opengl](https://github.com/craftlinks/zig_learn_opengl) - Follow the Learn-OpenGL book using Zig (today)
+- [wlxklyh/SoftRenderer](https://github.com/wlxklyh/SoftRenderer) - Soft Renderer软渲染器：安卓工程师、iOS工程师、Unity工程师、Unreal工程师、Java工程师、C++工程师、C#工程师可以通过此来快速深刻理解渲染管线 (today)
+- [sienaiwun/TAA_Unity_URP](https://github.com/sienaiwun/TAA_Unity_URP) - Temporal Anti-Aliasing(TAA) for Unity’s Universal Render Pipeline (today)
+- [MaxwellGengYF/Unity-MPipeline-Framework](https://github.com/MaxwellGengYF/Unity-MPipeline-Framework) - A convenient programming framework for Scriptable Rendering Pipeline (today)
+- [MaxwellGengYF/Unity-Ground-Truth-Ambient-Occlusion](https://github.com/MaxwellGengYF/Unity-Ground-Truth-Ambient-Occlusion) - A physically based screen space ambient occulsion post processing effect (today)
 
 ## 🔨 Latest Pull Requests I published
 
