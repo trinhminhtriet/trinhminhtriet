@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [k-vyn/framer-material-kit](https://github.com/k-vyn/framer-material-kit) (today)
-- [k-vyn/framer-ios-kit](https://github.com/k-vyn/framer-ios-kit) (today)
-- [Reflejo/pam-touchID](https://github.com/Reflejo/pam-touchID) - PAM plugin module that allows touch ID to be used for authentication (today)
-- [Reflejo/jquery-countdown](https://github.com/Reflejo/jquery-countdown) - Amazing jQuery Countdown plugin!, Check it out. (today)
-- [mds/sa](https://github.com/mds/sa) - Service Agreement for design projects. (today)
+- [tkkim-robot/safe_control](https://github.com/tkkim-robot/safe_control) - Safety-critical controllers for single/multi robotic navigation: CBF-QP, MPC-CBF, and etc. (today)
+- [davesarmoury/GLaDOS](https://github.com/davesarmoury/GLaDOS) (today)
+- [at-wat/neonavigation](https://github.com/at-wat/neonavigation) - A 2-D/3-DOF seamless global/local mobile robot motion planner package for ROS (today)
+- [at-wat/mcl_3dl](https://github.com/at-wat/mcl_3dl) - A ROS node to perform a probabilistic 3-D/6-DOF localization system for mobile robots with 3-D LIDAR(s). It implements pointcloud based Monte Carlo localization that uses a reference pointcloud as a map. (today)
+- [mlherd/Dataset-of-Gazebo-Worlds-Models-and-Maps](https://github.com/mlherd/Dataset-of-Gazebo-Worlds-Models-and-Maps) - A set of Gazebo worlds models and maps that I used for testing Navigation2 (today)
 
 ## 🔨 Latest Pull Requests I published
 
