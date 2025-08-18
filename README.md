@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Falamarcao](https://github.com/Falamarcao)
+- [narex-ai](https://github.com/narex-ai)
 - [RMANOV](https://github.com/RMANOV)
 - [nvbinh](https://github.com/nvbinh)
 - [lalomorales22](https://github.com/lalomorales22)
@@ -54,16 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [happykkAi](https://github.com/happykkAi)
 - [cyberhasan7](https://github.com/cyberhasan7)
 - [shodhanshetty12](https://github.com/shodhanshetty12)
-- [Ram77-code](https://github.com/Ram77-code)
-- [zhu7055](https://github.com/zhu7055)
 
 ## ⭐ Recent stars
 
-- [jzck/horQRux](https://github.com/jzck/horQRux) - QR code splitting (today)
-- [jzck/kernel-zig](https://github.com/jzck/kernel-zig) - :floppy_disk: hobby x86 kernel zig (today)
-- [zoontek/react-native-dev-menu](https://github.com/zoontek/react-native-dev-menu) - Add custom items to the React Native dev menu. (today)
-- [zoontek/react-native-edge-to-edge](https://github.com/zoontek/react-native-edge-to-edge) - Effortlessly enable edge-to-edge display in React Native (formerly known as react-native-bars). (today)
-- [zoontek/react-native-localize](https://github.com/zoontek/react-native-localize) - 🌍 A toolbox for your React Native app localization (today)
+- [k-vyn/framer-material-kit](https://github.com/k-vyn/framer-material-kit) (today)
+- [k-vyn/framer-ios-kit](https://github.com/k-vyn/framer-ios-kit) (today)
+- [Reflejo/pam-touchID](https://github.com/Reflejo/pam-touchID) - PAM plugin module that allows touch ID to be used for authentication (today)
+- [Reflejo/jquery-countdown](https://github.com/Reflejo/jquery-countdown) - Amazing jQuery Countdown plugin!, Check it out. (today)
+- [mds/sa](https://github.com/mds/sa) - Service Agreement for design projects. (today)
 
 ## 🔨 Latest Pull Requests I published
 
