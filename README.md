@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [EbenezerBaafi](https://github.com/EbenezerBaafi)
 - [Falamarcao](https://github.com/Falamarcao)
 - [narex-ai](https://github.com/narex-ai)
 - [RMANOV](https://github.com/RMANOV)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Sandesh-Upadhyay](https://github.com/Sandesh-Upadhyay)
 - [happykkAi](https://github.com/happykkAi)
 - [cyberhasan7](https://github.com/cyberhasan7)
-- [shodhanshetty12](https://github.com/shodhanshetty12)
 
 ## ⭐ Recent stars
 
-- [craftlinks/zig_learn_opengl](https://github.com/craftlinks/zig_learn_opengl) - Follow the Learn-OpenGL book using Zig (today)
-- [wlxklyh/SoftRenderer](https://github.com/wlxklyh/SoftRenderer) - Soft Renderer软渲染器：安卓工程师、iOS工程师、Unity工程师、Unreal工程师、Java工程师、C++工程师、C#工程师可以通过此来快速深刻理解渲染管线 (today)
-- [sienaiwun/TAA_Unity_URP](https://github.com/sienaiwun/TAA_Unity_URP) - Temporal Anti-Aliasing(TAA) for Unity’s Universal Render Pipeline (today)
-- [MaxwellGengYF/Unity-MPipeline-Framework](https://github.com/MaxwellGengYF/Unity-MPipeline-Framework) - A convenient programming framework for Scriptable Rendering Pipeline (today)
-- [MaxwellGengYF/Unity-Ground-Truth-Ambient-Occlusion](https://github.com/MaxwellGengYF/Unity-Ground-Truth-Ambient-Occlusion) - A physically based screen space ambient occulsion post processing effect (today)
+- [oxters168/Pluvia](https://github.com/oxters168/Pluvia) - Lightweight unofficial Steam client for Android (today)
+- [Dragon863/EchoCLI](https://github.com/Dragon863/EchoCLI) -  A python command line tool for rooting your Amazon Echo dot 2nd generation using a bootrom exploit, as seen on HN (today)
+- [rygorous/intel_occlusion_cull](https://github.com/rygorous/intel_occlusion_cull) - Intel's Software Occlusion Culling demo with my modifications (today)
+- [rygorous/ryg_rans](https://github.com/rygorous/ryg_rans) - Simple rANS encoder/decoder (arithmetic coding-ish entropy coder). (today)
+- [ave9858/msdl](https://github.com/ave9858/msdl) - Moved to https://github.com/massgravel/msdl (today)
 
 ## 🔨 Latest Pull Requests I published
 
