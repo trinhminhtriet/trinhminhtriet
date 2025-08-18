@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [mcaceresb/stata-gtools](https://github.com/mcaceresb/stata-gtools) - Faster implementation of Stata's collapse, reshape, xtile, egen, isid, and more using C plugins (today)
-- [maartenbreddels/ipywebrtc](https://github.com/maartenbreddels/ipywebrtc) - WebRTC for Jupyter notebook/lab (today)
-- [emeeks/d3-carto-map](https://github.com/emeeks/d3-carto-map) - A mapping API that uses D3 geospatial functionality (today)
-- [emeeks/d3_in_action_2](https://github.com/emeeks/d3_in_action_2) - Examples for D3.js in Action 2nd Edition (D3v4) (today)
-- [jrfiedler/causal_inference_python_code](https://github.com/jrfiedler/causal_inference_python_code) - Python code for part 2 of the book Causal Inference: What If, by Miguel Hernán and James Robins (today)
+- [orionz/minion](https://github.com/orionz/minion) - Super simple job queue over AMQP (today)
+- [antoniogarrote/clj-ml](https://github.com/antoniogarrote/clj-ml) - A machine learning library for Clojure built on top of Weka and friends (today)
+- [antoniogarrote/rdfstore-js](https://github.com/antoniogarrote/rdfstore-js) - JS RDF store with SPARQL support (today)
+- [drewr/postal](https://github.com/drewr/postal) - Clojure email support (today)
+- [remvee/exifr](https://github.com/remvee/exifr) - Moved to codeberg (today)
 
 ## 🔨 Latest Pull Requests I published
 
