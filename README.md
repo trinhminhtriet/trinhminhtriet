@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [orionz/minion](https://github.com/orionz/minion) - Super simple job queue over AMQP (today)
-- [antoniogarrote/clj-ml](https://github.com/antoniogarrote/clj-ml) - A machine learning library for Clojure built on top of Weka and friends (today)
-- [antoniogarrote/rdfstore-js](https://github.com/antoniogarrote/rdfstore-js) - JS RDF store with SPARQL support (today)
-- [drewr/postal](https://github.com/drewr/postal) - Clojure email support (today)
-- [remvee/exifr](https://github.com/remvee/exifr) - Moved to codeberg (today)
+- [GpingFeng/ahooks-analysis](https://github.com/GpingFeng/ahooks-analysis) - ahooks 源码阅读文档 (today)
+- [DuolaD/HoYoShade](https://github.com/DuolaD/HoYoShade) - An unofficial ReShade for all miHoYo/HoYoverse games on Windows. (today)
+- [hmjz100/bilibili-comment-checker](https://github.com/hmjz100/bilibili-comment-checker) - B站评论区自动标注成分，支持动态和关注识别以及手动输入 UID 识别 (today)
+- [hmjz100/123panYouthMember](https://github.com/hmjz100/123panYouthMember) - 123 云盘会员青春版 - 在 123 云盘超过 1GB 上限下载文件，显示身份信息为会员；123 云盘下载辅助增强脚本 - 123云盘 - 用户脚本 - “解锁”123云盘下载 (today)
+- [hmjz100/LinkSwift](https://github.com/hmjz100/LinkSwift) - 一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘 (today)
 
 ## 🔨 Latest Pull Requests I published
 
