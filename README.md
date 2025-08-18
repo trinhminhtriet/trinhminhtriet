@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [mbknor/mbknor-jackson-jsonSchema](https://github.com/mbknor/mbknor-jackson-jsonSchema) - Generate JSON Schema with Polymorphism using Jackson annotations (today)
-- [yonycalsin/nextjs-cors](https://github.com/yonycalsin/nextjs-cors) - :tada: nextjs-cors is a node.js package to provide a Connect/Express middleware that can be used to enable CORS with various options :rocket: (today)
-- [Randgalt/record-builder](https://github.com/Randgalt/record-builder) - Record builder generator for Java records (today)
-- [AndreyPavlenko/Fermata](https://github.com/AndreyPavlenko/Fermata) (today)
-- [RohitKushvaha01/TaskManager](https://github.com/RohitKushvaha01/TaskManager) - A Task Manager for android (today)
+- [mcaceresb/stata-gtools](https://github.com/mcaceresb/stata-gtools) - Faster implementation of Stata's collapse, reshape, xtile, egen, isid, and more using C plugins (today)
+- [maartenbreddels/ipywebrtc](https://github.com/maartenbreddels/ipywebrtc) - WebRTC for Jupyter notebook/lab (today)
+- [emeeks/d3-carto-map](https://github.com/emeeks/d3-carto-map) - A mapping API that uses D3 geospatial functionality (today)
+- [emeeks/d3_in_action_2](https://github.com/emeeks/d3_in_action_2) - Examples for D3.js in Action 2nd Edition (D3v4) (today)
+- [jrfiedler/causal_inference_python_code](https://github.com/jrfiedler/causal_inference_python_code) - Python code for part 2 of the book Causal Inference: What If, by Miguel Hernán and James Robins (today)
 
 ## 🔨 Latest Pull Requests I published
 
