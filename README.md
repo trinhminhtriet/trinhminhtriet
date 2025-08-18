@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [Sarthak2143/sakura](https://github.com/Sarthak2143/sakura) - minimal lib for rendering media in terminal (1 day ago)
-- [Testzero-wz/analog](https://github.com/Testzero-wz/analog) - 一款基于机器学习的Web日志统计分析与异常检测命令行工具 (1 day ago)
-- [revmischa/rtsp-server](https://github.com/revmischa/rtsp-server) - Lightweight RTSP/RTP streaming media server (1 day ago)
-- [Xuefeng-Zhu/SheetSQL](https://github.com/Xuefeng-Zhu/SheetSQL) - SQL engine inside Google Sheet (1 day ago)
-- [orico/www.mlcompendium.com](https://github.com/orico/www.mlcompendium.com) - The Machine Learning & Deep Learning Compendium was a list of references in my private & single document, which I curated in order to expand my knowledge, it is now an open knowledge-sharing project compiled using Gitbook. (1 day ago)
+- [mbknor/mbknor-jackson-jsonSchema](https://github.com/mbknor/mbknor-jackson-jsonSchema) - Generate JSON Schema with Polymorphism using Jackson annotations (today)
+- [yonycalsin/nextjs-cors](https://github.com/yonycalsin/nextjs-cors) - :tada: nextjs-cors is a node.js package to provide a Connect/Express middleware that can be used to enable CORS with various options :rocket: (today)
+- [Randgalt/record-builder](https://github.com/Randgalt/record-builder) - Record builder generator for Java records (today)
+- [AndreyPavlenko/Fermata](https://github.com/AndreyPavlenko/Fermata) (today)
+- [RohitKushvaha01/TaskManager](https://github.com/RohitKushvaha01/TaskManager) - A Task Manager for android (today)
 
 ## 🔨 Latest Pull Requests I published
 
