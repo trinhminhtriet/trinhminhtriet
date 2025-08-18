@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Arison99](https://github.com/Arison99)
 - [nvbinh](https://github.com/nvbinh)
 - [lalomorales22](https://github.com/lalomorales22)
 - [DIMFLIX](https://github.com/DIMFLIX)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [shodhanshetty12](https://github.com/shodhanshetty12)
 - [Ram77-code](https://github.com/Ram77-code)
 - [zhu7055](https://github.com/zhu7055)
-- [CorlisRay](https://github.com/CorlisRay)
 
 ## ⭐ Recent stars
 
