@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [KOBENDE](https://github.com/KOBENDE)
 - [ishandutta2007](https://github.com/ishandutta2007)
 - [bsrodrigue](https://github.com/bsrodrigue)
 - [rohankishore](https://github.com/rohankishore)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [SiSTR0](https://github.com/SiSTR0)
 - [BobzyDv](https://github.com/BobzyDv)
 - [EbenezerBaafi](https://github.com/EbenezerBaafi)
-- [Falamarcao](https://github.com/Falamarcao)
 
 ## ⭐ Recent stars
 
