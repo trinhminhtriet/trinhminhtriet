@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [mrtc0/container-security-book](https://github.com/mrtc0/container-security-book) (today)
-- [arianneorpilla/jidoujisho](https://github.com/arianneorpilla/jidoujisho) - A full-featured immersion language learning suite for mobile. (today)
-- [gbafana25/esp8266_honeypot](https://github.com/gbafana25/esp8266_honeypot) - THE ESP8266 HONEYPOT (today)
-- [VincentChanX/shadowsocks-over-websocket](https://github.com/VincentChanX/shadowsocks-over-websocket) - 免费使用 Heroku 部署 shadowsocks (today)
-- [brianlam38/OSCP-2022](https://github.com/brianlam38/OSCP-2022) - Notes compiled for the OSCP exam. (today)
+- [migreyes/jquery.wanker](https://github.com/migreyes/jquery.wanker) - A jQuery plugin that reveals a takeover when people start excessively resizing their browser. (today)
+- [calebd/CMDQueryStringSerialization](https://github.com/calebd/CMDQueryStringSerialization) - Easy query string conversion for iOS and OS X. (today)
+- [haqu/climbers](https://github.com/haqu/climbers) - iPad game (today)
+- [haqu/tweejump](https://github.com/haqu/tweejump) - iPhone game (today)
+- [cesmoak/smokescreen](https://github.com/cesmoak/smokescreen) - A Flash player written in JavaScript. Now with more bugs! This version is a major rework of what was demoed last year. It is better in many ways, but also less complete in many ways. It also uses Canvas to render instead of SVG. The main difference, though, is that after making a mess building the first player, this codebase is actually maintainable. Currently cleaning up: tools to help dissect SWFs, and the AS2 -> JS compiler. (today)
 
 ## 🔨 Latest Pull Requests I published
 
