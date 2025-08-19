@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [ndrwnaguib/principia](https://github.com/ndrwnaguib/principia) - Rewriting Principia Mathematica in Lean (today)
-- [CameronLonsdale/MTP](https://github.com/CameronLonsdale/MTP) - Many-Time Pad Interactive (today)
-- [jaswdr/faker](https://github.com/jaswdr/faker) - :rocket: Ultimate fake data generator for Go with zero dependencies (today)
-- [chentex/random-logger](https://github.com/chentex/random-logger) - Docker image for a random log generator. (today)
-- [andygeiss/ecs](https://github.com/andygeiss/ecs) - Build your own Game-Engine based on the Entity Component System concept in Golang. (today)
+- [mrtc0/container-security-book](https://github.com/mrtc0/container-security-book) (today)
+- [arianneorpilla/jidoujisho](https://github.com/arianneorpilla/jidoujisho) - A full-featured immersion language learning suite for mobile. (today)
+- [gbafana25/esp8266_honeypot](https://github.com/gbafana25/esp8266_honeypot) - THE ESP8266 HONEYPOT (today)
+- [VincentChanX/shadowsocks-over-websocket](https://github.com/VincentChanX/shadowsocks-over-websocket) - 免费使用 Heroku 部署 shadowsocks (today)
+- [brianlam38/OSCP-2022](https://github.com/brianlam38/OSCP-2022) - Notes compiled for the OSCP exam. (today)
 
 ## 🔨 Latest Pull Requests I published
 
