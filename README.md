@@ -33,11 +33,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👷 Check out what I'm currently working on
 
-- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (1 day ago)
-- [trinhminhtriet/github-toolkit](https://github.com/trinhminhtriet/github-toolkit) - github-toolkit: Scrapes GitHub developers, followers, repositories into MySQL database. (5 days ago)
-- [trinhminhtriet/markgen](https://github.com/trinhminhtriet/markgen) - 📜 Generate personalized markdown files with templates, GitHub, RSS, and API integrations using Go. (6 days ago)
-- [trinhminhtriet/spiko](https://github.com/trinhminhtriet/spiko) - 🚀 Spiko is a fast, Rust-based load testing tool with a beautiful TUI for real-time insights. (6 days ago)
-- [trinhminhtriet/sizr](https://github.com/trinhminhtriet/sizr) - 📈 A fast, Rust-based tool to analyze file system usage with colorful output, file aggregation, exclusions, and directory comparisons. (6 days ago)
+- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (2 days ago)
+- [trinhminhtriet/github-toolkit](https://github.com/trinhminhtriet/github-toolkit) - github-toolkit: Scrapes GitHub developers, followers, repositories into MySQL database. (6 days ago)
+- [trinhminhtriet/markgen](https://github.com/trinhminhtriet/markgen) - 📜 Generate personalized markdown files with templates, GitHub, RSS, and API integrations using Go. (1 week ago)
+- [trinhminhtriet/spiko](https://github.com/trinhminhtriet/spiko) - 🚀 Spiko is a fast, Rust-based load testing tool with a beautiful TUI for real-time insights. (1 week ago)
+- [trinhminhtriet/sizr](https://github.com/trinhminhtriet/sizr) - 📈 A fast, Rust-based tool to analyze file system usage with colorful output, file aggregation, exclusions, and directory comparisons. (1 week ago)
 - [trinhminhtriet/filerefine](https://github.com/trinhminhtriet/filerefine) - 🧹 FileRefine is a Rust-based CLI tool that renames files in a directory to remove unwanted or problematic characters from filenames. (1 week ago)
 - [trinhminhtriet/procx](https://github.com/trinhminhtriet/procx) - ProcX is an interactive command-line tool for quickly searching and terminating processes, offering a streamlined alternative to traditional kill. (1 week ago)
 - [trinhminhtriet/pingy](https://github.com/trinhminhtriet/pingy) - ⚡ Pingy: A fast, concurrent Rust-based ping tool with real-time updates & visual charts! 📊🚀 (1 week ago)
@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [kinexbt/blockchain-AI-agent](https://github.com/kinexbt/blockchain-AI-agent) - AI Agent built on EVM and Solana Blockchain.  (today)
-- [kinexbt/Solana_Dice_SmartContract](https://github.com/kinexbt/Solana_Dice_SmartContract) - This project is a simple on-chain Dice Game smart contract built for the Solana blockchain using Rust and the Anchor framework. It demonstrates the fundamentals of Solana program development, including instruction handling, randomness simulation, state management, and token transfers. (today)
-- [kinexbt/xrpl-trading-bot](https://github.com/kinexbt/xrpl-trading-bot) - copy-trading and sniping support on xrpl amm, telegram control implemented (today)
-- [kinexbt/open-mint](https://github.com/kinexbt/open-mint) - Token minting enables trading, marketing, and strategic token distribution. It facilitates liquidity, incentivizes adoption, and can be leveraged for airdrops, staking rewards, or even controlled dumping strategies to balance supply and demand. (today)
-- [kinexbt/ai-agent-solana](https://github.com/kinexbt/ai-agent-solana) - enables automated transactions, smart contract interactions, and real-time data retrieval using AI-driven decision-making. Ideal for developers looking to integrate AI with DeFi, NFTs, and on-chain analytics on Solana." (today)
+- [AlecKazakova/kotlin-native-cocoapods](https://github.com/AlecKazakova/kotlin-native-cocoapods) - A Gradle plugin for configuring Kotlin/Native with Cocoapods (today)
+- [glaforge/groovywebconsole](https://github.com/glaforge/groovywebconsole) - Groovy Web Console on Google App Engine (today)
+- [meteatamel/knative-tutorial](https://github.com/meteatamel/knative-tutorial) - A collection of samples for Knative Serving, Knative Eventing and Knative-GCP projects. (today)
+- [tfcporciuncula/flow-preferences](https://github.com/tfcporciuncula/flow-preferences) - Kotlin Flow version of rx-preferences -- Coroutines support for Android SharedPreferences (today)
+- [realityexpander/How_to_program_from_ground_up](https://github.com/realityexpander/How_to_program_from_ground_up) - Live code-along document to support my video series about Learning to Program Computers From The Ground Up With Minimal BS. (today)
 
 ## 🔨 Latest Pull Requests I published
 
