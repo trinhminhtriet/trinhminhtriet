@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [SiSTR0](https://github.com/SiSTR0)
 - [BobzyDv](https://github.com/BobzyDv)
 - [EbenezerBaafi](https://github.com/EbenezerBaafi)
 - [Falamarcao](https://github.com/Falamarcao)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [lalomorales22](https://github.com/lalomorales22)
 - [DIMFLIX](https://github.com/DIMFLIX)
 - [Sandesh-Upadhyay](https://github.com/Sandesh-Upadhyay)
-- [happykkAi](https://github.com/happykkAi)
 
 ## ⭐ Recent stars
 
