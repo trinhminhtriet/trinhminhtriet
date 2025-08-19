@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [AlecKazakova/kotlin-native-cocoapods](https://github.com/AlecKazakova/kotlin-native-cocoapods) - A Gradle plugin for configuring Kotlin/Native with Cocoapods (today)
-- [glaforge/groovywebconsole](https://github.com/glaforge/groovywebconsole) - Groovy Web Console on Google App Engine (today)
-- [meteatamel/knative-tutorial](https://github.com/meteatamel/knative-tutorial) - A collection of samples for Knative Serving, Knative Eventing and Knative-GCP projects. (today)
-- [tfcporciuncula/flow-preferences](https://github.com/tfcporciuncula/flow-preferences) - Kotlin Flow version of rx-preferences -- Coroutines support for Android SharedPreferences (today)
-- [realityexpander/How_to_program_from_ground_up](https://github.com/realityexpander/How_to_program_from_ground_up) - Live code-along document to support my video series about Learning to Program Computers From The Ground Up With Minimal BS. (today)
+- [Runixe786/NThing-UI](https://github.com/Runixe786/NThing-UI) - Bring the aesthetics of NothingOS on your WIndows desktop devices. NThing UI features cool NothingOS inspired widgets, taskbar, menu's and more to give your PC a modern, clean and minimal look. (today)
+- [Runixe786/Macified-Windows](https://github.com/Runixe786/Macified-Windows) - Now achieve MacOS look on your windows 11 desktop.  (today)
+- [Runixe786/MD3-Windows](https://github.com/Runixe786/MD3-Windows) - Material you widgets for your windows desktop, adaptable with wallpaper colors with both light & dark modes (today)
+- [nethical6/digipaws](https://github.com/nethical6/digipaws) - Free App Blocker for android (today)
+- [xxDark/SSVM](https://github.com/xxDark/SSVM) - Java VM running on a JVM (today)
 
 ## 🔨 Latest Pull Requests I published
 
