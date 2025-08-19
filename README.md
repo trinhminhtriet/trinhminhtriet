@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [ARKInvest/ARK-Invest-Square-Valuation-Extract](https://github.com/ARKInvest/ARK-Invest-Square-Valuation-Extract) (today)
-- [ARKInvest/SolarBatteryBitcoin](https://github.com/ARKInvest/SolarBatteryBitcoin) (today)
-- [ARKInvest/ARK-Invest-Tesla-Valuation-Model](https://github.com/ARKInvest/ARK-Invest-Tesla-Valuation-Model) - An excerpt from our financial valuation model of Tesla (today)
-- [alexcanessa/typescript-coverage-report](https://github.com/alexcanessa/typescript-coverage-report) - Node command tool to generate TypeScript coverage report (today)
-- [allotrop3/four](https://github.com/allotrop3/four) - Four: WebGL made easier - (today)
+- [ndrwnaguib/principia](https://github.com/ndrwnaguib/principia) - Rewriting Principia Mathematica in Lean (today)
+- [CameronLonsdale/MTP](https://github.com/CameronLonsdale/MTP) - Many-Time Pad Interactive (today)
+- [jaswdr/faker](https://github.com/jaswdr/faker) - :rocket: Ultimate fake data generator for Go with zero dependencies (today)
+- [chentex/random-logger](https://github.com/chentex/random-logger) - Docker image for a random log generator. (today)
+- [andygeiss/ecs](https://github.com/andygeiss/ecs) - Build your own Game-Engine based on the Entity Component System concept in Golang. (today)
 
 ## 🔨 Latest Pull Requests I published
 
