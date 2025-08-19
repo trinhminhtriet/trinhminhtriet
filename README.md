@@ -33,7 +33,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👷 Check out what I'm currently working on
 
-- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (2 days ago)
+- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (today)
 - [trinhminhtriet/github-toolkit](https://github.com/trinhminhtriet/github-toolkit) - github-toolkit: Scrapes GitHub developers, followers, repositories into MySQL database. (6 days ago)
 - [trinhminhtriet/markgen](https://github.com/trinhminhtriet/markgen) - 📜 Generate personalized markdown files with templates, GitHub, RSS, and API integrations using Go. (1 week ago)
 - [trinhminhtriet/spiko](https://github.com/trinhminhtriet/spiko) - 🚀 Spiko is a fast, Rust-based load testing tool with a beautiful TUI for real-time insights. (1 week ago)
@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [clearlysid/tauri-plugin-decorum](https://github.com/clearlysid/tauri-plugin-decorum) - Opinionated window decorations for Tauri apps (today)
-- [puls/objc-codegenutils](https://github.com/puls/objc-codegenutils) - Three small tools to help you meet Xcode halfway. (today)
-- [puls/objc-TimesSquare](https://github.com/puls/objc-TimesSquare) - TimesSquare is an Objective-C calendar view for your apps. (today)
-- [tristandunn/pusher-fake](https://github.com/tristandunn/pusher-fake) - A fake Pusher server for development and testing. (today)
-- [tristandunn/jquery-auto-geocoder](https://github.com/tristandunn/jquery-auto-geocoder) - jQuery plug-in to automatically geocode and display a location entered. (today)
+- [jeandv/jeanrondon.dev](https://github.com/jeandv/jeanrondon.dev) - My portfolio + Blog | Next.js, TypeScript, Tailwind and Sanity CMS (today)
+- [DustinAlandzes/machine-learning-with-python-cookbook-notes](https://github.com/DustinAlandzes/machine-learning-with-python-cookbook-notes) - (Part of) Chris Albon's Machine Learning with Python Cookbook in .ipynb form (today)
+- [joshpuckett/FramerModules](https://github.com/joshpuckett/FramerModules) - Modules that extend Framer.js (today)
+- [joshpuckett/SketchPlugins](https://github.com/joshpuckett/SketchPlugins) - A git repo for my Sketch plugins (today)
+- [MihaiCristianCondrea/Smart-Cleaner-for-Android](https://github.com/MihaiCristianCondrea/Smart-Cleaner-for-Android) - Smart Cleaner is built for everyday people who want their phones running smoothly, without hassle. Get reminders when it’s time to clean, spot and remove rarely used apps, clear out giant forgotten files, and tidy up your contacts in seconds! All in a refreshed, easy-to-use design. (today)
 
 ## 🔨 Latest Pull Requests I published
 
