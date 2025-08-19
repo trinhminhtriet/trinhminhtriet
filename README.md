@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [BobzyDv](https://github.com/BobzyDv)
 - [EbenezerBaafi](https://github.com/EbenezerBaafi)
 - [Falamarcao](https://github.com/Falamarcao)
 - [narex-ai](https://github.com/narex-ai)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [DIMFLIX](https://github.com/DIMFLIX)
 - [Sandesh-Upadhyay](https://github.com/Sandesh-Upadhyay)
 - [happykkAi](https://github.com/happykkAi)
-- [cyberhasan7](https://github.com/cyberhasan7)
 
 ## ⭐ Recent stars
 
-- [Runixe786/NThing-UI](https://github.com/Runixe786/NThing-UI) - Bring the aesthetics of NothingOS on your WIndows desktop devices. NThing UI features cool NothingOS inspired widgets, taskbar, menu's and more to give your PC a modern, clean and minimal look. (today)
-- [Runixe786/Macified-Windows](https://github.com/Runixe786/Macified-Windows) - Now achieve MacOS look on your windows 11 desktop.  (today)
-- [Runixe786/MD3-Windows](https://github.com/Runixe786/MD3-Windows) - Material you widgets for your windows desktop, adaptable with wallpaper colors with both light & dark modes (today)
-- [nethical6/digipaws](https://github.com/nethical6/digipaws) - Free App Blocker for android (today)
-- [xxDark/SSVM](https://github.com/xxDark/SSVM) - Java VM running on a JVM (today)
+- [puls/objc-codegenutils](https://github.com/puls/objc-codegenutils) - Three small tools to help you meet Xcode halfway. (today)
+- [puls/objc-TimesSquare](https://github.com/puls/objc-TimesSquare) - TimesSquare is an Objective-C calendar view for your apps. (today)
+- [tristandunn/pusher-fake](https://github.com/tristandunn/pusher-fake) - A fake Pusher server for development and testing. (today)
+- [tristandunn/jquery-auto-geocoder](https://github.com/tristandunn/jquery-auto-geocoder) - jQuery plug-in to automatically geocode and display a location entered. (today)
+- [itod/threadutils](https://github.com/itod/threadutils) - Cocoa Concurrency Things. (today)
 
 ## 🔨 Latest Pull Requests I published
 
