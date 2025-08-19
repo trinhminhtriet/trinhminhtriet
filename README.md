@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [clearlysid/tauri-plugin-decorum](https://github.com/clearlysid/tauri-plugin-decorum) - Opinionated window decorations for Tauri apps (today)
 - [puls/objc-codegenutils](https://github.com/puls/objc-codegenutils) - Three small tools to help you meet Xcode halfway. (today)
 - [puls/objc-TimesSquare](https://github.com/puls/objc-TimesSquare) - TimesSquare is an Objective-C calendar view for your apps. (today)
 - [tristandunn/pusher-fake](https://github.com/tristandunn/pusher-fake) - A fake Pusher server for development and testing. (today)
 - [tristandunn/jquery-auto-geocoder](https://github.com/tristandunn/jquery-auto-geocoder) - jQuery plug-in to automatically geocode and display a location entered. (today)
-- [itod/threadutils](https://github.com/itod/threadutils) - Cocoa Concurrency Things. (today)
 
 ## 🔨 Latest Pull Requests I published
 
