@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [jeandv/jeanrondon.dev](https://github.com/jeandv/jeanrondon.dev) - My portfolio + Blog | Next.js, TypeScript, Tailwind and Sanity CMS (today)
-- [DustinAlandzes/machine-learning-with-python-cookbook-notes](https://github.com/DustinAlandzes/machine-learning-with-python-cookbook-notes) - (Part of) Chris Albon's Machine Learning with Python Cookbook in .ipynb form (today)
-- [joshpuckett/FramerModules](https://github.com/joshpuckett/FramerModules) - Modules that extend Framer.js (today)
-- [joshpuckett/SketchPlugins](https://github.com/joshpuckett/SketchPlugins) - A git repo for my Sketch plugins (today)
-- [MihaiCristianCondrea/Smart-Cleaner-for-Android](https://github.com/MihaiCristianCondrea/Smart-Cleaner-for-Android) - Smart Cleaner is built for everyday people who want their phones running smoothly, without hassle. Get reminders when it’s time to clean, spot and remove rarely used apps, clear out giant forgotten files, and tidy up your contacts in seconds! All in a refreshed, easy-to-use design. (today)
+- [ARKInvest/ARK-Invest-Square-Valuation-Extract](https://github.com/ARKInvest/ARK-Invest-Square-Valuation-Extract) (today)
+- [ARKInvest/SolarBatteryBitcoin](https://github.com/ARKInvest/SolarBatteryBitcoin) (today)
+- [ARKInvest/ARK-Invest-Tesla-Valuation-Model](https://github.com/ARKInvest/ARK-Invest-Tesla-Valuation-Model) - An excerpt from our financial valuation model of Tesla (today)
+- [alexcanessa/typescript-coverage-report](https://github.com/alexcanessa/typescript-coverage-report) - Node command tool to generate TypeScript coverage report (today)
+- [allotrop3/four](https://github.com/allotrop3/four) - Four: WebGL made easier - (today)
 
 ## 🔨 Latest Pull Requests I published
 
