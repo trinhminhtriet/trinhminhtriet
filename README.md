@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [redis/RedisInsight](https://github.com/redis/RedisInsight) - Redis GUI by Redis (today)
-- [xiam/go-playground](https://github.com/xiam/go-playground) - Your own Go Playground (for demos and workshops) (today)
-- [dstogov/php-ffi](https://github.com/dstogov/php-ffi) - PHP Foreign Function Interface (today)
-- [YuriyNasretdinov/GoSSHa](https://github.com/YuriyNasretdinov/GoSSHa) - Go SSH agent: can execute commands at thousands of servers and upload files to them (today)
-- [bdmac/strong_password](https://github.com/bdmac/strong_password) - Entropy-based password strength checking for Ruby and Rails. (today)
+- [syshen/FlatDatePicker](https://github.com/syshen/FlatDatePicker) (today)
+- [zhangyu9050/UUPhotoActionSheet](https://github.com/zhangyu9050/UUPhotoActionSheet) (today)
+- [ianisme/CoolNavi](https://github.com/ianisme/CoolNavi) - A cool UINavigationbar (today)
+- [JanzTam/MyGithubMark](https://github.com/JanzTam/MyGithubMark) - Record the resources on Github (today)
+- [JanzTam/iOS-blog-acticle](https://github.com/JanzTam/iOS-blog-acticle) - Mark down iOS blog and acticle (today)
 
 ## 🔨 Latest Pull Requests I published
 
