@@ -54,8 +54,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [PiyushMohata](https://github.com/PiyushMohata)
 - [yuzielsyamallaby](https://github.com/yuzielsyamallaby)
 - [wlxklyh](https://github.com/wlxklyh)
-- [SiSTR0](https://github.com/SiSTR0)
 - [BobzyDv](https://github.com/BobzyDv)
+- [EbenezerBaafi](https://github.com/EbenezerBaafi)
 
 ## ⭐ Recent stars
 
