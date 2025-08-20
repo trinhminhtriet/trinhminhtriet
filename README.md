@@ -33,8 +33,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👷 Check out what I'm currently working on
 
-- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (today)
-- [trinhminhtriet/github-toolkit](https://github.com/trinhminhtriet/github-toolkit) - github-toolkit: Scrapes GitHub developers, followers, repositories into MySQL database. (6 days ago)
+- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (1 day ago)
+- [trinhminhtriet/github-toolkit](https://github.com/trinhminhtriet/github-toolkit) - github-toolkit: Scrapes GitHub developers, followers, repositories into MySQL database. (1 week ago)
 - [trinhminhtriet/markgen](https://github.com/trinhminhtriet/markgen) - 📜 Generate personalized markdown files with templates, GitHub, RSS, and API integrations using Go. (1 week ago)
 - [trinhminhtriet/spiko](https://github.com/trinhminhtriet/spiko) - 🚀 Spiko is a fast, Rust-based load testing tool with a beautiful TUI for real-time insights. (1 week ago)
 - [trinhminhtriet/sizr](https://github.com/trinhminhtriet/sizr) - 📈 A fast, Rust-based tool to analyze file system usage with colorful output, file aggregation, exclusions, and directory comparisons. (1 week ago)
@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [wireduclement](https://github.com/wireduclement)
 - [KOBENDE](https://github.com/KOBENDE)
 - [ishandutta2007](https://github.com/ishandutta2007)
 - [bsrodrigue](https://github.com/bsrodrigue)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [wlxklyh](https://github.com/wlxklyh)
 - [SiSTR0](https://github.com/SiSTR0)
 - [BobzyDv](https://github.com/BobzyDv)
-- [EbenezerBaafi](https://github.com/EbenezerBaafi)
 
 ## ⭐ Recent stars
 
-- [migreyes/jquery.wanker](https://github.com/migreyes/jquery.wanker) - A jQuery plugin that reveals a takeover when people start excessively resizing their browser. (today)
-- [calebd/CMDQueryStringSerialization](https://github.com/calebd/CMDQueryStringSerialization) - Easy query string conversion for iOS and OS X. (today)
-- [haqu/climbers](https://github.com/haqu/climbers) - iPad game (today)
-- [haqu/tweejump](https://github.com/haqu/tweejump) - iPhone game (today)
-- [cesmoak/smokescreen](https://github.com/cesmoak/smokescreen) - A Flash player written in JavaScript. Now with more bugs! This version is a major rework of what was demoed last year. It is better in many ways, but also less complete in many ways. It also uses Canvas to render instead of SVG. The main difference, though, is that after making a mess building the first player, this codebase is actually maintainable. Currently cleaning up: tools to help dissect SWFs, and the AS2 -> JS compiler. (today)
+- [migreyes/jquery.wanker](https://github.com/migreyes/jquery.wanker) - A jQuery plugin that reveals a takeover when people start excessively resizing their browser. (1 day ago)
+- [calebd/CMDQueryStringSerialization](https://github.com/calebd/CMDQueryStringSerialization) - Easy query string conversion for iOS and OS X. (1 day ago)
+- [haqu/climbers](https://github.com/haqu/climbers) - iPad game (1 day ago)
+- [haqu/tweejump](https://github.com/haqu/tweejump) - iPhone game (1 day ago)
+- [cesmoak/smokescreen](https://github.com/cesmoak/smokescreen) - A Flash player written in JavaScript. Now with more bugs! This version is a major rework of what was demoed last year. It is better in many ways, but also less complete in many ways. It also uses Canvas to render instead of SVG. The main difference, though, is that after making a mess building the first player, this codebase is actually maintainable. Currently cleaning up: tools to help dissect SWFs, and the AS2 -> JS compiler. (1 day ago)
 
 ## 🔨 Latest Pull Requests I published
 
