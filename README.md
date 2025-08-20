@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Gringo2](https://github.com/Gringo2)
 - [murbachovski](https://github.com/murbachovski)
 - [OjulaRoseline](https://github.com/OjulaRoseline)
 - [wireduclement](https://github.com/wireduclement)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [rohankishore](https://github.com/rohankishore)
 - [PiyushMohata](https://github.com/PiyushMohata)
 - [yuzielsyamallaby](https://github.com/yuzielsyamallaby)
-- [wlxklyh](https://github.com/wlxklyh)
 
 ## ⭐ Recent stars
 
