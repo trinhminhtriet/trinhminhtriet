@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [xiam/go-playground](https://github.com/xiam/go-playground) - Your own Go Playground (for demos and workshops) (today)
+- [dstogov/php-ffi](https://github.com/dstogov/php-ffi) - PHP Foreign Function Interface (today)
+- [YuriyNasretdinov/GoSSHa](https://github.com/YuriyNasretdinov/GoSSHa) - Go SSH agent: can execute commands at thousands of servers and upload files to them (today)
 - [bdmac/strong_password](https://github.com/bdmac/strong_password) - Entropy-based password strength checking for Ruby and Rails. (today)
 - [glidenote/memolist.vim](https://github.com/glidenote/memolist.vim) - simple memo plugin for Vim. (today)
-- [andrewsomething/digitalocean-indicator](https://github.com/andrewsomething/digitalocean-indicator) - Manage and monitor your Droplets from you panel (today)
-- [textnode/gringo](https://github.com/textnode/gringo) - High-performance minimalist queue implemented using a stripped-down lock-free ringbuffer, written in Go (golang.org) (today)
-- [pearkes/gethub](https://github.com/pearkes/gethub) - A utility for cloning and fetching your remote git repositories from GitHub. (today)
 
 ## 🔨 Latest Pull Requests I published
 
