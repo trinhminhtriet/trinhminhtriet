@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [ToBinge](https://github.com/ToBinge)
 - [keidev123](https://github.com/keidev123)
 - [submitaitools](https://github.com/submitaitools)
 - [Gringo2](https://github.com/Gringo2)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [KOBENDE](https://github.com/KOBENDE)
 - [ishandutta2007](https://github.com/ishandutta2007)
 - [bsrodrigue](https://github.com/bsrodrigue)
-- [rohankishore](https://github.com/rohankishore)
 
 ## ⭐ Recent stars
 
+- [redis/RedisInsight](https://github.com/redis/RedisInsight) - Redis GUI by Redis (today)
 - [xiam/go-playground](https://github.com/xiam/go-playground) - Your own Go Playground (for demos and workshops) (today)
 - [dstogov/php-ffi](https://github.com/dstogov/php-ffi) - PHP Foreign Function Interface (today)
 - [YuriyNasretdinov/GoSSHa](https://github.com/YuriyNasretdinov/GoSSHa) - Go SSH agent: can execute commands at thousands of servers and upload files to them (today)
 - [bdmac/strong_password](https://github.com/bdmac/strong_password) - Entropy-based password strength checking for Ruby and Rails. (today)
-- [glidenote/memolist.vim](https://github.com/glidenote/memolist.vim) - simple memo plugin for Vim. (today)
 
 ## 🔨 Latest Pull Requests I published
 
