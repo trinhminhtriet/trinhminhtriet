@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [migreyes/jquery.wanker](https://github.com/migreyes/jquery.wanker) - A jQuery plugin that reveals a takeover when people start excessively resizing their browser. (1 day ago)
-- [calebd/CMDQueryStringSerialization](https://github.com/calebd/CMDQueryStringSerialization) - Easy query string conversion for iOS and OS X. (1 day ago)
-- [haqu/climbers](https://github.com/haqu/climbers) - iPad game (1 day ago)
-- [haqu/tweejump](https://github.com/haqu/tweejump) - iPhone game (1 day ago)
-- [cesmoak/smokescreen](https://github.com/cesmoak/smokescreen) - A Flash player written in JavaScript. Now with more bugs! This version is a major rework of what was demoed last year. It is better in many ways, but also less complete in many ways. It also uses Canvas to render instead of SVG. The main difference, though, is that after making a mess building the first player, this codebase is actually maintainable. Currently cleaning up: tools to help dissect SWFs, and the AS2 -> JS compiler. (1 day ago)
+- [bdmac/strong_password](https://github.com/bdmac/strong_password) - Entropy-based password strength checking for Ruby and Rails. (today)
+- [glidenote/memolist.vim](https://github.com/glidenote/memolist.vim) - simple memo plugin for Vim. (today)
+- [andrewsomething/digitalocean-indicator](https://github.com/andrewsomething/digitalocean-indicator) - Manage and monitor your Droplets from you panel (today)
+- [textnode/gringo](https://github.com/textnode/gringo) - High-performance minimalist queue implemented using a stripped-down lock-free ringbuffer, written in Go (golang.org) (today)
+- [pearkes/gethub](https://github.com/pearkes/gethub) - A utility for cloning and fetching your remote git repositories from GitHub. (today)
 
 ## 🔨 Latest Pull Requests I published
 
