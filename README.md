@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [anasmohammad611](https://github.com/anasmohammad611)
 - [BEPb](https://github.com/BEPb)
 - [Happycocain](https://github.com/Happycocain)
 - [ToBinge](https://github.com/ToBinge)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [murbachovski](https://github.com/murbachovski)
 - [OjulaRoseline](https://github.com/OjulaRoseline)
 - [wireduclement](https://github.com/wireduclement)
-- [KOBENDE](https://github.com/KOBENDE)
 
 ## ⭐ Recent stars
 
