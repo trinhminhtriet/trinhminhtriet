@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [freearhey/iptv-playlist-parser](https://github.com/freearhey/iptv-playlist-parser) - A basic IPTV playlist parser (today)
-- [freearhey/web-learn](https://github.com/freearhey/web-learn) - A free service which provides simple access to thousands of video lessons on web developing and programming (today)
-- [freearhey/iptv-checker](https://github.com/freearhey/iptv-checker) - Node.js CLI tool for checking links in IPTV playlists (today)
-- [freearhey/vue2-filters](https://github.com/freearhey/vue2-filters) - A collection of Vue.js filters (today)
-- [brianpetro/obsidian-smart-connections](https://github.com/brianpetro/obsidian-smart-connections) - Chat with your notes & see links to related content with AI embeddings. Use local models or 100+ via APIs like Claude, Gemini, ChatGPT & Llama 3 (today)
+- [me-no-dev/ESPAsyncUDP](https://github.com/me-no-dev/ESPAsyncUDP) - Async UDP library for ESP8266 (today)
+- [me-no-dev/RasPiArduino](https://github.com/me-no-dev/RasPiArduino) - Arduino Framework for RaspberryPI (today)
+- [me-no-dev/arduino-esp32fs-plugin](https://github.com/me-no-dev/arduino-esp32fs-plugin) - Arduino plugin for uploading files to ESP32 file system (today)
+- [me-no-dev/ESPAsyncTCP](https://github.com/me-no-dev/ESPAsyncTCP) - Async TCP Library for ESP8266 (today)
+- [me-no-dev/AsyncTCP](https://github.com/me-no-dev/AsyncTCP) - Async TCP Library for ESP32 (today)
 
 ## 🔨 Latest Pull Requests I published
 
