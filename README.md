@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [me-no-dev/ESPAsyncUDP](https://github.com/me-no-dev/ESPAsyncUDP) - Async UDP library for ESP8266 (today)
-- [me-no-dev/RasPiArduino](https://github.com/me-no-dev/RasPiArduino) - Arduino Framework for RaspberryPI (today)
-- [me-no-dev/arduino-esp32fs-plugin](https://github.com/me-no-dev/arduino-esp32fs-plugin) - Arduino plugin for uploading files to ESP32 file system (today)
-- [me-no-dev/ESPAsyncTCP](https://github.com/me-no-dev/ESPAsyncTCP) - Async TCP Library for ESP8266 (today)
-- [me-no-dev/AsyncTCP](https://github.com/me-no-dev/AsyncTCP) - Async TCP Library for ESP32 (today)
+- [bizz84/multiple-counters-flutter](https://github.com/bizz84/multiple-counters-flutter) - Flutter State Management [ setState ❖ StreamBuilder ❖ scoped_model ❖ redux ] (today)
+- [bizz84/ftcon24eu_talks](https://github.com/bizz84/ftcon24eu_talks) - List of talks from FlutterCon 24 Europe  (today)
+- [bizz84/stopwatch-flutter](https://github.com/bizz84/stopwatch-flutter) - Simple stopwatch example app in Flutter (today)
+- [bizz84/firebase_user_avatar_flutter](https://github.com/bizz84/firebase_user_avatar_flutter) - Advanced Provider Architecture Demo: Image Picker + Firebase Storage Upload (today)
+- [bizz84/coding-with-flutter-login-demo](https://github.com/bizz84/coding-with-flutter-login-demo) - Source code for login demo in Coding with Flutter series (today)
 
 ## 🔨 Latest Pull Requests I published
 
