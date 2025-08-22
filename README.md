@@ -46,24 +46,24 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Maxxum69](https://github.com/Maxxum69)
+- [murapadev](https://github.com/murapadev)
 - [ckormanyos](https://github.com/ckormanyos)
 - [sonukumar-418](https://github.com/sonukumar-418)
 - [anasmohammad611](https://github.com/anasmohammad611)
 - [BEPb](https://github.com/BEPb)
 - [Happycocain](https://github.com/Happycocain)
 - [ToBinge](https://github.com/ToBinge)
-- [keidev123](https://github.com/keidev123)
 - [submitaitools](https://github.com/submitaitools)
 - [Gringo2](https://github.com/Gringo2)
-- [murbachovski](https://github.com/murbachovski)
 
 ## ⭐ Recent stars
 
-- [danog/php-tokio](https://github.com/danog/php-tokio) - Use any async Rust library from PHP! (today)
-- [danog/MadelineProto](https://github.com/danog/MadelineProto) - Async PHP client API for the telegram MTProto protocol (today)
-- [ryanckulp/speedrail](https://github.com/ryanckulp/speedrail) - Rails 8 app template: Devise auth, Stripe billing, Tailwind CSS, admin panel, SEO helpers, etc (today)
-- [mojombo/rakegem](https://github.com/mojombo/rakegem) - Simple gem and release management with customizable Rake tasks. (today)
-- [mojombo/sf-vegetarian-restaurants](https://github.com/mojombo/sf-vegetarian-restaurants) - A list of awesome vegetarian-friendly restaurants in SF (today)
+- [agarrharr/awesome-static-website-services](https://github.com/agarrharr/awesome-static-website-services) - 📄 🛠 A curated list of awesome static websites services (today)
+- [agarrharr/awesome-macos-screensavers](https://github.com/agarrharr/awesome-macos-screensavers) - 🍎 🖥 🎆 A curated list of screensavers for Mac OS X (today)
+- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps (today)
+- [holman/bubs](https://github.com/holman/bubs) - ⒷⓊⒷⒷⓁⒺⓈ (today)
+- [holman/gifme](https://github.com/holman/gifme) - Fucking animations. You need them. (today)
 
 ## 🔨 Latest Pull Requests I published
 
