@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [hub4j/github-api](https://github.com/hub4j/github-api) - Java API for GitHub (1 day ago)
-- [qrices/LQAccount](https://github.com/qrices/LQAccount) - 密码保护小工具, 完整小项目 (2 days ago)
-- [qrices/LQCartViewController](https://github.com/qrices/LQCartViewController) - 比较完整的购物车界面及逻辑,商品展示,多选,单选,全选及滑动删除,价格计算; (2 days ago)
-- [aizexin/AIAnimationDemo](https://github.com/aizexin/AIAnimationDemo) - 参考youxianming动画 (2 days ago)
-- [SuperDami/react-native-custom-navigation](https://github.com/SuperDami/react-native-custom-navigation) - If you want to customize navbar content, or your navbar need a fade-in effect by scrolling. This is it. (2 days ago)
+- [ryanb/rails-templates](https://github.com/ryanb/rails-templates) - Template scripts for creating new rails applications. (today)
+- [ryanb/xapit](https://github.com/ryanb/xapit) - High level Ruby library for interacting with Xapian, a full text search engine. (today)
+- [ryanb/govsgo](https://github.com/ryanb/govsgo) - Rails 3 app for playing the board game Go online. (today)
+- [ryanb/mustard](https://github.com/ryanb/mustard) - Simple "must" expectations for tests and specs in Ruby. (today)
+- [ryanb/trusted-params](https://github.com/ryanb/trusted-params) - Rails plugin for overriding attr_accessible protection. (today)
 
 ## 🔨 Latest Pull Requests I published
 
