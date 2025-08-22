@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [keidev123](https://github.com/keidev123)
 - [Maxxum69](https://github.com/Maxxum69)
 - [murapadev](https://github.com/murapadev)
 - [ckormanyos](https://github.com/ckormanyos)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Happycocain](https://github.com/Happycocain)
 - [ToBinge](https://github.com/ToBinge)
 - [submitaitools](https://github.com/submitaitools)
-- [Gringo2](https://github.com/Gringo2)
 
 ## ⭐ Recent stars
 
-- [agarrharr/awesome-static-website-services](https://github.com/agarrharr/awesome-static-website-services) - 📄 🛠 A curated list of awesome static websites services (today)
-- [agarrharr/awesome-macos-screensavers](https://github.com/agarrharr/awesome-macos-screensavers) - 🍎 🖥 🎆 A curated list of screensavers for Mac OS X (today)
-- [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps (today)
-- [holman/bubs](https://github.com/holman/bubs) - ⒷⓊⒷⒷⓁⒺⓈ (today)
-- [holman/gifme](https://github.com/holman/gifme) - Fucking animations. You need them. (today)
+- [sarbagyastha/flutter_tagging](https://github.com/sarbagyastha/flutter_tagging) - A TextField flutter package with tagging functionality. (today)
+- [sarbagyastha/flutter_rating_bar](https://github.com/sarbagyastha/flutter_rating_bar) - A simple ratingbar for flutter which also include a rating bar indicator, supporting any fraction of rating. (today)
+- [sarbagyastha/youtube_player_flutter](https://github.com/sarbagyastha/youtube_player_flutter) - A Flutter plugin for inline playback or streaming of YouTube videos using the official iFrame Player API. (today)
+- [leoafarias/sidekick](https://github.com/leoafarias/sidekick) - A simple app to make Flutter development more delightful (today)
+- [leoafarias/fvm](https://github.com/leoafarias/fvm) - Flutter Version Management: A simple CLI to manage Flutter SDK versions. (today)
 
 ## 🔨 Latest Pull Requests I published
 
