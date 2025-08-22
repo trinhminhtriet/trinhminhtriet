@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [sonukumar-418](https://github.com/sonukumar-418)
 - [anasmohammad611](https://github.com/anasmohammad611)
 - [BEPb](https://github.com/BEPb)
 - [Happycocain](https://github.com/Happycocain)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Gringo2](https://github.com/Gringo2)
 - [murbachovski](https://github.com/murbachovski)
 - [OjulaRoseline](https://github.com/OjulaRoseline)
-- [wireduclement](https://github.com/wireduclement)
 
 ## ⭐ Recent stars
 
-- [fuzzybinary/godot_dart](https://github.com/fuzzybinary/godot_dart) - Using Dart as a scripting language for Godot (today)
-- [bizz84/multiple-counters-flutter](https://github.com/bizz84/multiple-counters-flutter) - Flutter State Management [ setState ❖ StreamBuilder ❖ scoped_model ❖ redux ] (today)
-- [bizz84/ftcon24eu_talks](https://github.com/bizz84/ftcon24eu_talks) - List of talks from FlutterCon 24 Europe  (today)
-- [bizz84/stopwatch-flutter](https://github.com/bizz84/stopwatch-flutter) - Simple stopwatch example app in Flutter (today)
-- [bizz84/firebase_user_avatar_flutter](https://github.com/bizz84/firebase_user_avatar_flutter) - Advanced Provider Architecture Demo: Image Picker + Firebase Storage Upload (today)
+- [apangin/java-profiling-presentation](https://github.com/apangin/java-profiling-presentation) - Materials for the presentation TUT2844 "Mastering Java Performance with async-profiler" (today)
+- [apangin/nalim](https://github.com/apangin/nalim) - Fast Java native interface based on JVMCI (today)
+- [stianst/keycloak-experimental](https://github.com/stianst/keycloak-experimental) (today)
+- [stianst/keycloak-containers-demo](https://github.com/stianst/keycloak-containers-demo) (today)
+- [tananaev/rootless-logcat](https://github.com/tananaev/rootless-logcat) - Android Logcat app without Root (today)
 
 ## 🔨 Latest Pull Requests I published
 
