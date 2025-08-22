@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [ryanb/rails-templates](https://github.com/ryanb/rails-templates) - Template scripts for creating new rails applications. (today)
-- [ryanb/xapit](https://github.com/ryanb/xapit) - High level Ruby library for interacting with Xapian, a full text search engine. (today)
-- [ryanb/govsgo](https://github.com/ryanb/govsgo) - Rails 3 app for playing the board game Go online. (today)
-- [ryanb/mustard](https://github.com/ryanb/mustard) - Simple "must" expectations for tests and specs in Ruby. (today)
-- [ryanb/trusted-params](https://github.com/ryanb/trusted-params) - Rails plugin for overriding attr_accessible protection. (today)
+- [KRTirtho/wives](https://github.com/KRTirtho/wives) - A beautiful, modern & feature-rich Terminal Emulator (today)
+- [KRTirtho/flemozi](https://github.com/KRTirtho/flemozi) - Advanced⚡ Emoji Picker😀 for Linux🐧, Windows🪟 and macOS🍎 (today)
+- [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music client! Available for both desktop & mobile! (today)
+- [teunbrand/legendry](https://github.com/teunbrand/legendry) - A 'ggplot2' extension that focusses on expanding the plotter's arsenal of guides, such as axes, legends and colour bars. It brings     various improvements to existing guides by re-implementation, as well as adding novel guides. (today)
+- [teunbrand/ggplot_tricks](https://github.com/teunbrand/ggplot_tricks) - Here, I collect some tricks I've learned about the {ggplot2} R package (today)
 
 ## 🔨 Latest Pull Requests I published
 
