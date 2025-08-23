@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [thibmaek/awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi) - 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources (today)
-- [grahampugh/jamf-upload](https://github.com/grahampugh/jamf-upload) - JamfUploader is a suite of AutoPkg processors for interacting with the Jamf Pro APIs. (today)
-- [grahampugh/macadmin-scripts](https://github.com/grahampugh/macadmin-scripts) - Scripts of possible interest to macOS admins (today)
-- [grahampugh/erase-install](https://github.com/grahampugh/erase-install) - A script that automates downloading macOS installers, and optionally erasing or upgrading macOS in a single process. Watch the video! (today)
-- [fabito/htk8s](https://github.com/fabito/htk8s) - HTPC services running on Kubernetes (today)
+- [lohanidamodar/flutter_audiobooks_app](https://github.com/lohanidamodar/flutter_audiobooks_app) - Now runs on Flutter 3 - An audiobook downloader and player in flutter using librivox api (WIP) (today)
+- [lohanidamodar/flutter_opentrivia](https://github.com/lohanidamodar/flutter_opentrivia) - **Updated to Flutter 3** OpenTrivia-A quiz app made with flutter (today)
+- [lohanidamodar/flutter_custom_clippers](https://github.com/lohanidamodar/flutter_custom_clippers) - Flutter package that provides you custom clippers to help you achieve various custom shapes. (today)
+- [lohanidamodar/flutter_firebase_starter](https://github.com/lohanidamodar/flutter_firebase_starter) - Flutter firebase starter project (today)
+- [lohanidamodar/flutter_ui_challenges](https://github.com/lohanidamodar/flutter_ui_challenges) - Updated for Flutter 3.x ** 100+ Professional UI implementations with Code in Flutter. Available in Android, iOS, Linux and Web (today)
 
 ## 🔨 Latest Pull Requests I published
 
