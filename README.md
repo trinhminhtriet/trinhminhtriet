@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [lohanidamodar/flutter_audiobooks_app](https://github.com/lohanidamodar/flutter_audiobooks_app) - Now runs on Flutter 3 - An audiobook downloader and player in flutter using librivox api (WIP) (today)
-- [lohanidamodar/flutter_opentrivia](https://github.com/lohanidamodar/flutter_opentrivia) - **Updated to Flutter 3** OpenTrivia-A quiz app made with flutter (today)
-- [lohanidamodar/flutter_custom_clippers](https://github.com/lohanidamodar/flutter_custom_clippers) - Flutter package that provides you custom clippers to help you achieve various custom shapes. (today)
-- [lohanidamodar/flutter_firebase_starter](https://github.com/lohanidamodar/flutter_firebase_starter) - Flutter firebase starter project (today)
-- [lohanidamodar/flutter_ui_challenges](https://github.com/lohanidamodar/flutter_ui_challenges) - Updated for Flutter 3.x ** 100+ Professional UI implementations with Code in Flutter. Available in Android, iOS, Linux and Web (today)
+- [delijati/pytorch-siamese](https://github.com/delijati/pytorch-siamese) - Siamese Network implementation using Pytorch (today)
+- [jsalatas/plasma-pstate](https://github.com/jsalatas/plasma-pstate) - Intel P-state and CPUFreq Manager Widget (today)
+- [z3ntu/RazerGenie](https://github.com/z3ntu/RazerGenie) - Qt application for configuring your Razer devices under GNU/Linux. (today)
+- [kernitus/BukkitOldCombatMechanics](https://github.com/kernitus/BukkitOldCombatMechanics) - Spigot plugin to configure combat mechanics for 1.9 onwards (today)
+- [EverythingSmartHome/everything-presence-lite](https://github.com/EverythingSmartHome/everything-presence-lite) - Everything Presence Lite (today)
 
 ## 🔨 Latest Pull Requests I published
 
