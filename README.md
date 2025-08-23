@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Arison99](https://github.com/Arison99)
 - [YASHWANTHGOWDAKS5](https://github.com/YASHWANTHGOWDAKS5)
 - [EncriptionFJ](https://github.com/EncriptionFJ)
 - [keidev123](https://github.com/keidev123)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [sonukumar-418](https://github.com/sonukumar-418)
 - [BEPb](https://github.com/BEPb)
 - [Happycocain](https://github.com/Happycocain)
-- [ToBinge](https://github.com/ToBinge)
 
 ## ⭐ Recent stars
 
-- [binarywang/java-emoji-converter](https://github.com/binarywang/java-emoji-converter) - Emoji转换工具，便于各种类型的客户端生成的Emoji字符串转换成另外一种格式 (today)
-- [binarywang/weixin-java-mp-demo-springmvc](https://github.com/binarywang/weixin-java-mp-demo-springmvc) - 基于Spring MVC 和 WxJava 实现的微信公众号Java后端Demo (today)
-- [binarywang/weixin-java-cp-demo](https://github.com/binarywang/weixin-java-cp-demo) - 基于Spring Boot 和 WxJava 实现的微信企业号/企业微信 后端Demo (today)
-- [binarywang/java-testdata-generator](https://github.com/binarywang/java-testdata-generator) - 使用Java实现的各种测试数据的随机生成工具，包括身份证号码，银行卡号，姓名，手机号等 (today)
-- [binarywang/weixin-java-pay-demo](https://github.com/binarywang/weixin-java-pay-demo) - 基于Spring Boot 和 WxJava 实现的微信支付Java后端Demo (today)
+- [ShishirPatil/poet](https://github.com/ShishirPatil/poet) - ML model training for edge devices  (today)
+- [ShishirPatil/gorilla](https://github.com/ShishirPatil/gorilla) - Gorilla: Training and Evaluating LLMs for Function Calls (Tool Calls) (today)
+- [assafelovic/gptr-mcp](https://github.com/assafelovic/gptr-mcp) - MCP server for enabling LLM applications to perform deep research via the MCP protocol (today)
+- [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - LLM based autonomous agent that conducts deep local and web research on any topic and generates a long report with citations. (today)
+- [michaelneale/goose-perception](https://github.com/michaelneale/goose-perception) - agents watching, listening, learning and acting (today)
 
 ## 🔨 Latest Pull Requests I published
 
