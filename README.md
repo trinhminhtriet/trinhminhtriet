@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [sarbagyastha/flutter_tagging](https://github.com/sarbagyastha/flutter_tagging) - A TextField flutter package with tagging functionality. (1 day ago)
-- [sarbagyastha/flutter_rating_bar](https://github.com/sarbagyastha/flutter_rating_bar) - A simple ratingbar for flutter which also include a rating bar indicator, supporting any fraction of rating. (1 day ago)
-- [sarbagyastha/youtube_player_flutter](https://github.com/sarbagyastha/youtube_player_flutter) - A Flutter plugin for inline playback or streaming of YouTube videos using the official iFrame Player API. (1 day ago)
-- [leoafarias/sidekick](https://github.com/leoafarias/sidekick) - A simple app to make Flutter development more delightful (1 day ago)
-- [leoafarias/fvm](https://github.com/leoafarias/fvm) - Flutter Version Management: A simple CLI to manage Flutter SDK versions. (1 day ago)
+- [fatih/astrewrite](https://github.com/fatih/astrewrite) - Go tool to walk & rewrite AST  (today)
+- [fatih/camelcase](https://github.com/fatih/camelcase) - Split a camelcase word into a slice of words in Go (today)
+- [fatih/motion](https://github.com/fatih/motion) - Navigation and insight in Go (today)
+- [fatih/molokai](https://github.com/fatih/molokai) - Molokai color scheme for Vim (today)
+- [fatih/hclfmt](https://github.com/fatih/hclfmt) - Format and prettify HCL files (today)
 
 ## 🔨 Latest Pull Requests I published
 
