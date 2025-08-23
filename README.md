@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [zyedidia/multiplix](https://github.com/zyedidia/multiplix) - An operating system kernel for RISC-V and AArch64 SBCs (today)
-- [zyedidia/knit](https://github.com/zyedidia/knit) - A simple and flexible build tool using Lua, similar to make/mk. (today)
-- [kisielk/vigo](https://github.com/kisielk/vigo) - Vi in Go (today)
-- [kisielk/sqlstruct](https://github.com/kisielk/sqlstruct) - sqlstruct provides some convenience functions for using structs with go's database/sql package (today)
-- [rs/xlog](https://github.com/rs/xlog) - xlog is a logger for net/context aware HTTP applications (today)
+- [binarywang/java-emoji-converter](https://github.com/binarywang/java-emoji-converter) - Emoji转换工具，便于各种类型的客户端生成的Emoji字符串转换成另外一种格式 (today)
+- [binarywang/weixin-java-mp-demo-springmvc](https://github.com/binarywang/weixin-java-mp-demo-springmvc) - 基于Spring MVC 和 WxJava 实现的微信公众号Java后端Demo (today)
+- [binarywang/weixin-java-cp-demo](https://github.com/binarywang/weixin-java-cp-demo) - 基于Spring Boot 和 WxJava 实现的微信企业号/企业微信 后端Demo (today)
+- [binarywang/java-testdata-generator](https://github.com/binarywang/java-testdata-generator) - 使用Java实现的各种测试数据的随机生成工具，包括身份证号码，银行卡号，姓名，手机号等 (today)
+- [binarywang/weixin-java-pay-demo](https://github.com/binarywang/weixin-java-pay-demo) - 基于Spring Boot 和 WxJava 实现的微信支付Java后端Demo (today)
 
 ## 🔨 Latest Pull Requests I published
 
