@@ -51,11 +51,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [murapadev](https://github.com/murapadev)
 - [ckormanyos](https://github.com/ckormanyos)
 - [sonukumar-418](https://github.com/sonukumar-418)
-- [anasmohammad611](https://github.com/anasmohammad611)
 - [BEPb](https://github.com/BEPb)
 - [Happycocain](https://github.com/Happycocain)
 - [ToBinge](https://github.com/ToBinge)
 - [submitaitools](https://github.com/submitaitools)
+- [Gringo2](https://github.com/Gringo2)
 
 ## ⭐ Recent stars
 
