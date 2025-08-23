@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [EncriptionFJ](https://github.com/EncriptionFJ)
 - [keidev123](https://github.com/keidev123)
 - [Maxxum69](https://github.com/Maxxum69)
 - [murapadev](https://github.com/murapadev)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Happycocain](https://github.com/Happycocain)
 - [ToBinge](https://github.com/ToBinge)
 - [submitaitools](https://github.com/submitaitools)
-- [Gringo2](https://github.com/Gringo2)
 
 ## ⭐ Recent stars
 
-- [igrigorik/tokyo-recipes](https://github.com/igrigorik/tokyo-recipes) - Lean & mean Tokyo Cabinet recipes (with Lua) (today)
-- [igrigorik/textquery](https://github.com/igrigorik/textquery) - Evaluate any text against a collection of match rules (today)
-- [igrigorik/rack-speedtracer](https://github.com/igrigorik/rack-speedtracer) - SpeedTracer middleware for server side debugging (today)
-- [igrigorik/heroku-buildpack-dart](https://github.com/igrigorik/heroku-buildpack-dart) - Heroku buildpack for Dart (today)
-- [igrigorik/PubSubHubbub](https://github.com/igrigorik/PubSubHubbub) - Asynchronous PubSubHubbub Ruby Client (today)
+- [thibmaek/awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi) - 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources (today)
+- [grahampugh/jamf-upload](https://github.com/grahampugh/jamf-upload) - JamfUploader is a suite of AutoPkg processors for interacting with the Jamf Pro APIs. (today)
+- [grahampugh/macadmin-scripts](https://github.com/grahampugh/macadmin-scripts) - Scripts of possible interest to macOS admins (today)
+- [grahampugh/erase-install](https://github.com/grahampugh/erase-install) - A script that automates downloading macOS installers, and optionally erasing or upgrading macOS in a single process. Watch the video! (today)
+- [fabito/htk8s](https://github.com/fabito/htk8s) - HTPC services running on Kubernetes (today)
 
 ## 🔨 Latest Pull Requests I published
 
