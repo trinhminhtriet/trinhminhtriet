@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [AseemWangoo/experiments_with_web](https://github.com/AseemWangoo/experiments_with_web) - Hands on Flutter Web (today)
+- [AseemWangoo/flutter_programs](https://github.com/AseemWangoo/flutter_programs) - Experiments with Mobile (today)
 - [delijati/pytorch-siamese](https://github.com/delijati/pytorch-siamese) - Siamese Network implementation using Pytorch (today)
 - [jsalatas/plasma-pstate](https://github.com/jsalatas/plasma-pstate) - Intel P-state and CPUFreq Manager Widget (today)
 - [z3ntu/RazerGenie](https://github.com/z3ntu/RazerGenie) - Qt application for configuring your Razer devices under GNU/Linux. (today)
-- [kernitus/BukkitOldCombatMechanics](https://github.com/kernitus/BukkitOldCombatMechanics) - Spigot plugin to configure combat mechanics for 1.9 onwards (today)
-- [EverythingSmartHome/everything-presence-lite](https://github.com/EverythingSmartHome/everything-presence-lite) - Everything Presence Lite (today)
 
 ## 🔨 Latest Pull Requests I published
 
