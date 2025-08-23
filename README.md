@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [Raymo111/kahoot-answer-bot](https://github.com/Raymo111/kahoot-answer-bot) - A bot to win Kahoots (today)
-- [Raymo111/Raymo111](https://github.com/Raymo111/Raymo111) - My awesome profile README (today)
-- [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color) - The world's most popular non-default computer lockscreen. (today)
-- [captainsafia/giddy](https://github.com/captainsafia/giddy) - A CLI wrapper around git for an improved developer experience (today)
-- [captainsafia/goops](https://github.com/captainsafia/goops) - A CLI tool that automagically adds or recommends the best .gitignore for your project (today)
+- [unixpickle/learn-ptx](https://github.com/unixpickle/learn-ptx) - Learning about CUDA by writing PTX code. (today)
+- [unixpickle/obs-tower2](https://github.com/unixpickle/obs-tower2) - My solution to the Unity Obstacle Tower Challenge (today)
+- [unixpickle/cbyge](https://github.com/unixpickle/cbyge) - Reverse engineering Cync (formerly "C by GE") WiFi devices (today)
+- [unixpickle/anyrl-py](https://github.com/unixpickle/anyrl-py) - A reinforcement learning framework (today)
+- [unixpickle/model3d](https://github.com/unixpickle/model3d) - Create & render beautiful 3D models (today)
 
 ## 🔨 Latest Pull Requests I published
 
