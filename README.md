@@ -38,9 +38,9 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [trinhminhtriet/github-toolkit](https://github.com/trinhminhtriet/github-toolkit) - github-toolkit: Scrapes GitHub developers, followers, repositories into MySQL database. (1 day ago)
 - [trinhminhtriet/fstree](https://github.com/trinhminhtriet/fstree) - A blazing-fast directory tree viewer for terminals—minimalist, interactive, and packed with smart features! (2 days ago)
 - [trinhminhtriet/binpull](https://github.com/trinhminhtriet/binpull) - 🔧 Installs pre-built binaries from GitHub releases easily—fetch, verify, and extract tools with one command. (3 days ago)
-- [trinhminhtriet/spiko](https://github.com/trinhminhtriet/spiko) - 🚀 Spiko is a fast, Rust-based load testing tool with a beautiful TUI for real-time insights. (1 week ago)
 - [trinhminhtriet/markgen](https://github.com/trinhminhtriet/markgen) - 📜 Generate personalized markdown files with templates, GitHub, RSS, and API integrations using Go. (1 week ago)
 - [trinhminhtriet/sizr](https://github.com/trinhminhtriet/sizr) - 📈 A fast, Rust-based tool to analyze file system usage with colorful output, file aggregation, exclusions, and directory comparisons. (1 week ago)
+- [trinhminhtriet/spiko](https://github.com/trinhminhtriet/spiko) - 🚀 Spiko is a fast, Rust-based load testing tool with a beautiful TUI for real-time insights. (1 week ago)
 - [trinhminhtriet/procx](https://github.com/trinhminhtriet/procx) - ProcX is an interactive command-line tool for quickly searching and terminating processes, offering a streamlined alternative to traditional kill. (1 week ago)
 - [trinhminhtriet/pingy](https://github.com/trinhminhtriet/pingy) - ⚡ Pingy: A fast, concurrent Rust-based ping tool with real-time updates & visual charts! 📊🚀 (1 week ago)
 
@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [Gustash/react-native-image-keyboard](https://github.com/Gustash/react-native-image-keyboard) - React Native TextInput expansion to enable media input. (today)
-- [Gustash/react-native-siri-shortcut](https://github.com/Gustash/react-native-siri-shortcut) - A React Native package for using iOS 12+ Siri Shortcuts. (today)
-- [Gustash/Hyprshot](https://github.com/Gustash/Hyprshot) - Hyprshot is an utility to easily take screenshots in Hyprland using your mouse. (today)
-- [89luca89/terrible](https://github.com/89luca89/terrible) - An Ansible playbook that applies the principle of the Infrastructure as Code on a QEMU/KVM environment. (today)
-- [89luca89/pakkero](https://github.com/89luca89/pakkero) - Pakkero is a binary packer written in Go made for fun and educational purpose. Its main goal is to take in input a program file (elf binary, script, even appimage) and compress it, protect it from tampering and intrusion. (today)
+- [adar2378/pin_code_fields](https://github.com/adar2378/pin_code_fields) - A flutter package which will help you to generate pin code fields with beautiful design and animations. Can be useful for OTP or pin code inputs 🤓🤓 (today)
+- [vladimirvivien/gowfs](https://github.com/vladimirvivien/gowfs) - A Go client binding for Hadoop HDFS using WebHDFS. (today)
+- [vladimirvivien/clamshell-cli](https://github.com/vladimirvivien/clamshell-cli) - A framework to build command-line console applications in Java (today)
+- [vladimirvivien/learning-go](https://github.com/vladimirvivien/learning-go) - Source code repository for my book "Learning Go Programming" (today)
+- [vladimirvivien/go-grpc](https://github.com/vladimirvivien/go-grpc) - A collection of gRPC and Go examples showcasing features of the framework (today)
 
 ## 🔨 Latest Pull Requests I published
 
