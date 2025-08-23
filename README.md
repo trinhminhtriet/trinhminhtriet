@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [YASHWANTHGOWDAKS5](https://github.com/YASHWANTHGOWDAKS5)
 - [EncriptionFJ](https://github.com/EncriptionFJ)
 - [keidev123](https://github.com/keidev123)
 - [Maxxum69](https://github.com/Maxxum69)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [BEPb](https://github.com/BEPb)
 - [Happycocain](https://github.com/Happycocain)
 - [ToBinge](https://github.com/ToBinge)
-- [submitaitools](https://github.com/submitaitools)
 
 ## ⭐ Recent stars
 
