@@ -33,8 +33,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👷 Check out what I'm currently working on
 
+- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (today)
 - [trinhminhtriet/github-toolkit](https://github.com/trinhminhtriet/github-toolkit) - github-toolkit: Scrapes GitHub developers, followers, repositories into MySQL database. (1 day ago)
-- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (1 day ago)
 - [trinhminhtriet/fstree](https://github.com/trinhminhtriet/fstree) - A blazing-fast directory tree viewer for terminals—minimalist, interactive, and packed with smart features! (2 days ago)
 - [trinhminhtriet/binpull](https://github.com/trinhminhtriet/binpull) - 🔧 Installs pre-built binaries from GitHub releases easily—fetch, verify, and extract tools with one command. (3 days ago)
 - [trinhminhtriet/sizr](https://github.com/trinhminhtriet/sizr) - 📈 A fast, Rust-based tool to analyze file system usage with colorful output, file aggregation, exclusions, and directory comparisons. (1 week ago)
@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [fatih/astrewrite](https://github.com/fatih/astrewrite) - Go tool to walk & rewrite AST  (today)
-- [fatih/camelcase](https://github.com/fatih/camelcase) - Split a camelcase word into a slice of words in Go (today)
-- [fatih/motion](https://github.com/fatih/motion) - Navigation and insight in Go (today)
-- [fatih/molokai](https://github.com/fatih/molokai) - Molokai color scheme for Vim (today)
-- [fatih/hclfmt](https://github.com/fatih/hclfmt) - Format and prettify HCL files (today)
+- [igrigorik/tokyo-recipes](https://github.com/igrigorik/tokyo-recipes) - Lean & mean Tokyo Cabinet recipes (with Lua) (today)
+- [igrigorik/textquery](https://github.com/igrigorik/textquery) - Evaluate any text against a collection of match rules (today)
+- [igrigorik/rack-speedtracer](https://github.com/igrigorik/rack-speedtracer) - SpeedTracer middleware for server side debugging (today)
+- [igrigorik/heroku-buildpack-dart](https://github.com/igrigorik/heroku-buildpack-dart) - Heroku buildpack for Dart (today)
+- [igrigorik/PubSubHubbub](https://github.com/igrigorik/PubSubHubbub) - Asynchronous PubSubHubbub Ruby Client (today)
 
 ## 🔨 Latest Pull Requests I published
 
