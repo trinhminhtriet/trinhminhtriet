@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [AseemWangoo/experiments_with_web](https://github.com/AseemWangoo/experiments_with_web) - Hands on Flutter Web (today)
-- [AseemWangoo/flutter_programs](https://github.com/AseemWangoo/flutter_programs) - Experiments with Mobile (today)
-- [delijati/pytorch-siamese](https://github.com/delijati/pytorch-siamese) - Siamese Network implementation using Pytorch (today)
-- [jsalatas/plasma-pstate](https://github.com/jsalatas/plasma-pstate) - Intel P-state and CPUFreq Manager Widget (today)
-- [z3ntu/RazerGenie](https://github.com/z3ntu/RazerGenie) - Qt application for configuring your Razer devices under GNU/Linux. (today)
+- [zyedidia/multiplix](https://github.com/zyedidia/multiplix) - An operating system kernel for RISC-V and AArch64 SBCs (today)
+- [zyedidia/knit](https://github.com/zyedidia/knit) - A simple and flexible build tool using Lua, similar to make/mk. (today)
+- [kisielk/vigo](https://github.com/kisielk/vigo) - Vi in Go (today)
+- [kisielk/sqlstruct](https://github.com/kisielk/sqlstruct) - sqlstruct provides some convenience functions for using structs with go's database/sql package (today)
+- [rs/xlog](https://github.com/rs/xlog) - xlog is a logger for net/context aware HTTP applications (today)
 
 ## 🔨 Latest Pull Requests I published
 
