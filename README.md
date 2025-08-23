@@ -38,14 +38,15 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [trinhminhtriet/github-toolkit](https://github.com/trinhminhtriet/github-toolkit) - github-toolkit: Scrapes GitHub developers, followers, repositories into MySQL database. (1 day ago)
 - [trinhminhtriet/fstree](https://github.com/trinhminhtriet/fstree) - A blazing-fast directory tree viewer for terminals—minimalist, interactive, and packed with smart features! (2 days ago)
 - [trinhminhtriet/binpull](https://github.com/trinhminhtriet/binpull) - 🔧 Installs pre-built binaries from GitHub releases easily—fetch, verify, and extract tools with one command. (3 days ago)
-- [trinhminhtriet/markgen](https://github.com/trinhminhtriet/markgen) - 📜 Generate personalized markdown files with templates, GitHub, RSS, and API integrations using Go. (1 week ago)
 - [trinhminhtriet/spiko](https://github.com/trinhminhtriet/spiko) - 🚀 Spiko is a fast, Rust-based load testing tool with a beautiful TUI for real-time insights. (1 week ago)
+- [trinhminhtriet/markgen](https://github.com/trinhminhtriet/markgen) - 📜 Generate personalized markdown files with templates, GitHub, RSS, and API integrations using Go. (1 week ago)
 - [trinhminhtriet/sizr](https://github.com/trinhminhtriet/sizr) - 📈 A fast, Rust-based tool to analyze file system usage with colorful output, file aggregation, exclusions, and directory comparisons. (1 week ago)
+- [trinhminhtriet/procx](https://github.com/trinhminhtriet/procx) - ProcX is an interactive command-line tool for quickly searching and terminating processes, offering a streamlined alternative to traditional kill. (1 week ago)
 - [trinhminhtriet/pingy](https://github.com/trinhminhtriet/pingy) - ⚡ Pingy: A fast, concurrent Rust-based ping tool with real-time updates & visual charts! 📊🚀 (1 week ago)
-- [trinhminhtriet/visyo](https://github.com/trinhminhtriet/visyo) - Visyo — ✨ A fast, minimal, and themeable CLI tool that displays visual system output across platforms. (1 week ago)
 
 ## 👯 Check out my recent followers
 
+- [ishandutta2007](https://github.com/ishandutta2007)
 - [YASHWANTHGOWDAKS5](https://github.com/YASHWANTHGOWDAKS5)
 - [EncriptionFJ](https://github.com/EncriptionFJ)
 - [keidev123](https://github.com/keidev123)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [sonukumar-418](https://github.com/sonukumar-418)
 - [BEPb](https://github.com/BEPb)
 - [Happycocain](https://github.com/Happycocain)
-- [ToBinge](https://github.com/ToBinge)
 
 ## ⭐ Recent stars
 
-- [unixpickle/learn-ptx](https://github.com/unixpickle/learn-ptx) - Learning about CUDA by writing PTX code. (today)
-- [unixpickle/obs-tower2](https://github.com/unixpickle/obs-tower2) - My solution to the Unity Obstacle Tower Challenge (today)
-- [unixpickle/cbyge](https://github.com/unixpickle/cbyge) - Reverse engineering Cync (formerly "C by GE") WiFi devices (today)
-- [unixpickle/anyrl-py](https://github.com/unixpickle/anyrl-py) - A reinforcement learning framework (today)
-- [unixpickle/model3d](https://github.com/unixpickle/model3d) - Create & render beautiful 3D models (today)
+- [krallin/tini](https://github.com/krallin/tini) - A tiny but valid `init` for containers (today)
+- [wg/lettuce](https://github.com/wg/lettuce) - Scalable Java Redis client (today)
+- [wg/arc](https://github.com/wg/arc) - Secure file archiver (today)
+- [wg/epgsql](https://github.com/wg/epgsql) - Erlang PostgreSQL client (today)
+- [wg/scrypt](https://github.com/wg/scrypt) - Java implementation of scrypt (today)
 
 ## 🔨 Latest Pull Requests I published
 
