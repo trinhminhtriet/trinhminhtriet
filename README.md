@@ -38,9 +38,9 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [trinhminhtriet/github-toolkit](https://github.com/trinhminhtriet/github-toolkit) - github-toolkit: Scrapes GitHub developers, followers, repositories into MySQL database. (1 day ago)
 - [trinhminhtriet/fstree](https://github.com/trinhminhtriet/fstree) - A blazing-fast directory tree viewer for terminals—minimalist, interactive, and packed with smart features! (2 days ago)
 - [trinhminhtriet/binpull](https://github.com/trinhminhtriet/binpull) - 🔧 Installs pre-built binaries from GitHub releases easily—fetch, verify, and extract tools with one command. (3 days ago)
+- [trinhminhtriet/spiko](https://github.com/trinhminhtriet/spiko) - 🚀 Spiko is a fast, Rust-based load testing tool with a beautiful TUI for real-time insights. (1 week ago)
 - [trinhminhtriet/markgen](https://github.com/trinhminhtriet/markgen) - 📜 Generate personalized markdown files with templates, GitHub, RSS, and API integrations using Go. (1 week ago)
 - [trinhminhtriet/sizr](https://github.com/trinhminhtriet/sizr) - 📈 A fast, Rust-based tool to analyze file system usage with colorful output, file aggregation, exclusions, and directory comparisons. (1 week ago)
-- [trinhminhtriet/spiko](https://github.com/trinhminhtriet/spiko) - 🚀 Spiko is a fast, Rust-based load testing tool with a beautiful TUI for real-time insights. (1 week ago)
 - [trinhminhtriet/procx](https://github.com/trinhminhtriet/procx) - ProcX is an interactive command-line tool for quickly searching and terminating processes, offering a streamlined alternative to traditional kill. (1 week ago)
 - [trinhminhtriet/pingy](https://github.com/trinhminhtriet/pingy) - ⚡ Pingy: A fast, concurrent Rust-based ping tool with real-time updates & visual charts! 📊🚀 (1 week ago)
 
@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [78/xxfpm](https://github.com/78/xxfpm) - FCGI Process Manager (today)
-- [78/mcp-calculator](https://github.com/78/mcp-calculator) - Xiaozhi MCP sample program (today)
-- [78/xiaozhi](https://github.com/78/xiaozhi) - Build your own AI friend (today)
-- [78/ssbc](https://github.com/78/ssbc) - 手撕包菜网站 (today)
-- [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32) - An MCP-based chatbot | 一个基于MCP的聊天机器人 (today)
+- [Gustash/react-native-image-keyboard](https://github.com/Gustash/react-native-image-keyboard) - React Native TextInput expansion to enable media input. (today)
+- [Gustash/react-native-siri-shortcut](https://github.com/Gustash/react-native-siri-shortcut) - A React Native package for using iOS 12+ Siri Shortcuts. (today)
+- [Gustash/Hyprshot](https://github.com/Gustash/Hyprshot) - Hyprshot is an utility to easily take screenshots in Hyprland using your mouse. (today)
+- [89luca89/terrible](https://github.com/89luca89/terrible) - An Ansible playbook that applies the principle of the Infrastructure as Code on a QEMU/KVM environment. (today)
+- [89luca89/pakkero](https://github.com/89luca89/pakkero) - Pakkero is a binary packer written in Go made for fun and educational purpose. Its main goal is to take in input a program file (elf binary, script, even appimage) and compress it, protect it from tampering and intrusion. (today)
 
 ## 🔨 Latest Pull Requests I published
 
