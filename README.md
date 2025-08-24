@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [shenwei356/perfect-bioinformatic-tools](https://github.com/shenwei356/perfect-bioinformatic-tools) - What should perfect bioinformatic tools be like? (today)
-- [joe-elliott/cert-exporter](https://github.com/joe-elliott/cert-exporter) - A Prometheus exporter that publishes cert expirations on disk and in Kubernetes secrets (today)
-- [astaxie/goredis](https://github.com/astaxie/goredis) - A simple, powerful Redis client for Go (today)
-- [astaxie/weixin](https://github.com/astaxie/weixin) - 基于beego开发的微信应用 (today)
-- [astaxie/godoc](https://github.com/astaxie/godoc) - godoc  chm pdf (today)
+- [ThomasVitale/spring-boot-multitenancy](https://github.com/ThomasVitale/spring-boot-multitenancy) - Samples showing how to build multitenant applications with Java and Spring Boot (today)
+- [ThomasVitale/cloud-native-spring-in-action](https://github.com/ThomasVitale/cloud-native-spring-in-action) - 🍃 Code samples and projects from the book "Cloud Native Spring in Action - With Spring Boot and Kubernetes" (Manning)  (today)
+- [ThomasVitale/llm-apps-java-spring-ai](https://github.com/ThomasVitale/llm-apps-java-spring-ai) - Samples showing how to build Java applications powered by Generative AI and LLMs using Spring AI and Spring Boot. (today)
+- [ThomasVitale/awesome-spring](https://github.com/ThomasVitale/awesome-spring) - A curated list of awesome books, tutorials, courses, and resources for the Spring framework ecosystem. (today)
+- [TartaricAcid/TouhouLittleMaid](https://github.com/TartaricAcid/TouhouLittleMaid) - A minecraft forge mod about the maid (today)
 
 ## 🔨 Latest Pull Requests I published
 
