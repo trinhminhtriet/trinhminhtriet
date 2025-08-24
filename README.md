@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [hypnoglow/helm-s3](https://github.com/hypnoglow/helm-s3) - ⎈ Helm plugin that adds support for AWS S3 as a chart repository. (today)
-- [jabrena/cursor-rules-java](https://github.com/jabrena/cursor-rules-java) - Modern Java IDEs, such as Cursor AI, provide ways to customize how the `Agent model` behaves using reusable and scoped instructions. In cursor, the way to do it is named `Cursor rule` and you could see it as a `System prompt` if you use a generic term. This repository provides a collection of Cursor rules designed for Java development. (today)
-- [mylinuxforwork/wallpaper](https://github.com/mylinuxforwork/wallpaper) - My personal collection of wallpapers. Works great on all desktop environments. (today)
-- [mylinuxforwork/hyprland-starter](https://github.com/mylinuxforwork/hyprland-starter) - The ML4W Hyprland Starter -  The perfect starting point for your Hyprland experiments. Easy to install, simple to configure. (today)
-- [mylinuxforwork/dotfiles](https://github.com/mylinuxforwork/dotfiles) - The ML4W Dotfiles for Hyprland - An advanced and full-featured configuration for the dynamic tiling window manager Hyprland. Ready to install with the Dotfiles Installer app with setup scripts for Arch, Fedora and openSuse. (today)
+- [jameskokoska/Cashew](https://github.com/jameskokoska/Cashew) - 💸 An app created to help users manage a budget and purchases (today)
+- [mattmc3/zephyr](https://github.com/mattmc3/zephyr) - :wind_face: A Zsh framework as nice as a cool summer breeze (today)
+- [mattmc3/zdotdir](https://github.com/mattmc3/zdotdir) - My zsh config (today)
+- [mattmc3/neovim-cheatsheet](https://github.com/mattmc3/neovim-cheatsheet) - Google Sheets docs for neovim/vim cheatsheets and tutorials supporting multiple alternative keyboard layouts (today)
+- [mattmc3/zsh_unplugged](https://github.com/mattmc3/zsh_unplugged) -  🤔 perhaps you don't need a Zsh plugin manager after all... (today)
 
 ## 🔨 Latest Pull Requests I published
 
