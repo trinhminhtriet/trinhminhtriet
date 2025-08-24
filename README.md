@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [alibaba/arthas](https://github.com/alibaba/arthas) - Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas (today)
-- [hustcc/mcp-mermaid](https://github.com/hustcc/mcp-mermaid) - ❤️ Generate mermaid diagram and chart with AI MCP dynamically. (today)
-- [adar2378/pin_code_fields](https://github.com/adar2378/pin_code_fields) - A flutter package which will help you to generate pin code fields with beautiful design and animations. Can be useful for OTP or pin code inputs 🤓🤓 (1 day ago)
-- [vladimirvivien/gowfs](https://github.com/vladimirvivien/gowfs) - A Go client binding for Hadoop HDFS using WebHDFS. (1 day ago)
-- [vladimirvivien/clamshell-cli](https://github.com/vladimirvivien/clamshell-cli) - A framework to build command-line console applications in Java (1 day ago)
+- [hypnoglow/helm-s3](https://github.com/hypnoglow/helm-s3) - ⎈ Helm plugin that adds support for AWS S3 as a chart repository. (today)
+- [jabrena/cursor-rules-java](https://github.com/jabrena/cursor-rules-java) - Modern Java IDEs, such as Cursor AI, provide ways to customize how the `Agent model` behaves using reusable and scoped instructions. In cursor, the way to do it is named `Cursor rule` and you could see it as a `System prompt` if you use a generic term. This repository provides a collection of Cursor rules designed for Java development. (today)
+- [mylinuxforwork/wallpaper](https://github.com/mylinuxforwork/wallpaper) - My personal collection of wallpapers. Works great on all desktop environments. (today)
+- [mylinuxforwork/hyprland-starter](https://github.com/mylinuxforwork/hyprland-starter) - The ML4W Hyprland Starter -  The perfect starting point for your Hyprland experiments. Easy to install, simple to configure. (today)
+- [mylinuxforwork/dotfiles](https://github.com/mylinuxforwork/dotfiles) - The ML4W Dotfiles for Hyprland - An advanced and full-featured configuration for the dynamic tiling window manager Hyprland. Ready to install with the Dotfiles Installer app with setup scripts for Arch, Fedora and openSuse. (today)
 
 ## 🔨 Latest Pull Requests I published
 
