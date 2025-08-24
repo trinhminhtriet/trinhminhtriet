@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [ThomasVitale/spring-boot-multitenancy](https://github.com/ThomasVitale/spring-boot-multitenancy) - Samples showing how to build multitenant applications with Java and Spring Boot (today)
-- [ThomasVitale/cloud-native-spring-in-action](https://github.com/ThomasVitale/cloud-native-spring-in-action) - 🍃 Code samples and projects from the book "Cloud Native Spring in Action - With Spring Boot and Kubernetes" (Manning)  (today)
-- [ThomasVitale/llm-apps-java-spring-ai](https://github.com/ThomasVitale/llm-apps-java-spring-ai) - Samples showing how to build Java applications powered by Generative AI and LLMs using Spring AI and Spring Boot. (today)
-- [ThomasVitale/awesome-spring](https://github.com/ThomasVitale/awesome-spring) - A curated list of awesome books, tutorials, courses, and resources for the Spring framework ecosystem. (today)
-- [TartaricAcid/TouhouLittleMaid](https://github.com/TartaricAcid/TouhouLittleMaid) - A minecraft forge mod about the maid (today)
+- [karpathy/transformers](https://github.com/karpathy/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX. (today)
+- [karpathy/scriptsbots](https://github.com/karpathy/scriptsbots) - ScriptBots is an Open Source Evolutionary Artificial Life Simulation of Predator-Prey dynamics, written by Andrej Karpathy. (today)
+- [karpathy/nipspreview](https://github.com/karpathy/nipspreview) - Scripts that generate .html to more easily see NIPS papers (today)
+- [karpathy/Random-Forest-Matlab](https://github.com/karpathy/Random-Forest-Matlab) - A Random Forest implementation for MATLAB. Supports arbitrary weak learners that you can define. (today)
+- [karpathy/researchlei](https://github.com/karpathy/researchlei) - An Academic Papers Management and Discovery System (today)
 
 ## 🔨 Latest Pull Requests I published
 
