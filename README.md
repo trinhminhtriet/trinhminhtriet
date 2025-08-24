@@ -33,16 +33,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👷 Check out what I'm currently working on
 
+- [trinhminhtriet/spiko](https://github.com/trinhminhtriet/spiko) - 🚀 Spiko is a fast, Rust-based load testing tool with a beautiful TUI for real-time insights. (today)
+- [rust-rs/tabler](https://github.com/rust-rs/tabler) - 📊 Tabler: A lightweight TUI tool to view, query, and navigate CSV, TSV, and Parquet data files. (today)
 - [trinhminhtriet/java-skel-cli](https://github.com/trinhminhtriet/java-skel-cli) - 🦴 Skel CLI: A command-line tool for generating project skeletons in multiple languages, fast and customizable. (today)
+- [trinhminhtriet/blast](https://github.com/trinhminhtriet/blast) - 🚀 Blast: A powerful, lightweight HTTP load generator for stress testing and benchmarking web applications with ease. (today)
 - [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (1 day ago)
 - [trinhminhtriet/github-toolkit](https://github.com/trinhminhtriet/github-toolkit) - github-toolkit: Scrapes GitHub developers, followers, repositories into MySQL database. (2 days ago)
 - [trinhminhtriet/fstree](https://github.com/trinhminhtriet/fstree) - A blazing-fast directory tree viewer for terminals—minimalist, interactive, and packed with smart features! (3 days ago)
 - [trinhminhtriet/binpull](https://github.com/trinhminhtriet/binpull) - 🔧 Installs pre-built binaries from GitHub releases easily—fetch, verify, and extract tools with one command. (4 days ago)
-- [trinhminhtriet/markgen](https://github.com/trinhminhtriet/markgen) - 📜 Generate personalized markdown files with templates, GitHub, RSS, and API integrations using Go. (1 week ago)
 - [trinhminhtriet/sizr](https://github.com/trinhminhtriet/sizr) - 📈 A fast, Rust-based tool to analyze file system usage with colorful output, file aggregation, exclusions, and directory comparisons. (1 week ago)
-- [trinhminhtriet/spiko](https://github.com/trinhminhtriet/spiko) - 🚀 Spiko is a fast, Rust-based load testing tool with a beautiful TUI for real-time insights. (1 week ago)
-- [trinhminhtriet/procx](https://github.com/trinhminhtriet/procx) - ProcX is an interactive command-line tool for quickly searching and terminating processes, offering a streamlined alternative to traditional kill. (1 week ago)
-- [trinhminhtriet/pingy](https://github.com/trinhminhtriet/pingy) - ⚡ Pingy: A fast, concurrent Rust-based ping tool with real-time updates & visual charts! 📊🚀 (1 week ago)
+- [trinhminhtriet/markgen](https://github.com/trinhminhtriet/markgen) - 📜 Generate personalized markdown files with templates, GitHub, RSS, and API integrations using Go. (1 week ago)
 
 ## 👯 Check out my recent followers
 
@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [jameskokoska/Cashew](https://github.com/jameskokoska/Cashew) - 💸 An app created to help users manage a budget and purchases (today)
-- [mattmc3/zephyr](https://github.com/mattmc3/zephyr) - :wind_face: A Zsh framework as nice as a cool summer breeze (today)
-- [mattmc3/zdotdir](https://github.com/mattmc3/zdotdir) - My zsh config (today)
-- [mattmc3/neovim-cheatsheet](https://github.com/mattmc3/neovim-cheatsheet) - Google Sheets docs for neovim/vim cheatsheets and tutorials supporting multiple alternative keyboard layouts (today)
-- [mattmc3/zsh_unplugged](https://github.com/mattmc3/zsh_unplugged) -  🤔 perhaps you don't need a Zsh plugin manager after all... (today)
+- [zhaobozhen/LibChecker](https://github.com/zhaobozhen/LibChecker) (today)
+- [zhaobozhen/Anywhere-](https://github.com/zhaobozhen/Anywhere-) (today)
+- [rocky-d/wqb](https://github.com/rocky-d/wqb) - A better machine lib. (today)
+- [w568w/CoolapkSDK](https://github.com/w568w/CoolapkSDK) - [停止维护]第三方酷安SDK，目前实现了第三方登录和查看用户/动态详情 (today)
+- [w568w/GitHubFollow](https://github.com/w568w/GitHubFollow) (today)
 
 ## 🔨 Latest Pull Requests I published
 
