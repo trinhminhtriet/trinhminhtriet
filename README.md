@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [ziecho/ZYNetworkAccessibility](https://github.com/ziecho/ZYNetworkAccessibility) - 针对 iOS 网络权限的监控和判断 (today)
-- [SilverFruity/OCRunner](https://github.com/SilverFruity/OCRunner) - Execute Objective-C code as script.  AST Interpreter. iOS hotfix SDK.   (today)
-- [ArchLL/HGPersonalCenter](https://github.com/ArchLL/HGPersonalCenter) - 主要实现头部视图的下拉放大以及分页控制，同样的场景也适用于淘宝/天猫店铺界面/简书主页/微博主页 (today)
-- [ArchLL/HGPersonalCenterExtend](https://github.com/ArchLL/HGPersonalCenterExtend) - 解决UIScrollView嵌套滑动手势冲突问题，适用于复杂的首页或个人主页 (today)
-- [SatanWoo/WZFlashButton](https://github.com/SatanWoo/WZFlashButton) - A button with flash-like effect (today)
+- [shenwei356/perfect-bioinformatic-tools](https://github.com/shenwei356/perfect-bioinformatic-tools) - What should perfect bioinformatic tools be like? (today)
+- [joe-elliott/cert-exporter](https://github.com/joe-elliott/cert-exporter) - A Prometheus exporter that publishes cert expirations on disk and in Kubernetes secrets (today)
+- [astaxie/goredis](https://github.com/astaxie/goredis) - A simple, powerful Redis client for Go (today)
+- [astaxie/weixin](https://github.com/astaxie/weixin) - 基于beego开发的微信应用 (today)
+- [astaxie/godoc](https://github.com/astaxie/godoc) - godoc  chm pdf (today)
 
 ## 🔨 Latest Pull Requests I published
 
