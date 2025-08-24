@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [hustcc/mcp-mermaid](https://github.com/hustcc/mcp-mermaid) - ❤️ Generate mermaid diagram and chart with AI MCP dynamically. (today)
 - [adar2378/pin_code_fields](https://github.com/adar2378/pin_code_fields) - A flutter package which will help you to generate pin code fields with beautiful design and animations. Can be useful for OTP or pin code inputs 🤓🤓 (1 day ago)
 - [vladimirvivien/gowfs](https://github.com/vladimirvivien/gowfs) - A Go client binding for Hadoop HDFS using WebHDFS. (1 day ago)
 - [vladimirvivien/clamshell-cli](https://github.com/vladimirvivien/clamshell-cli) - A framework to build command-line console applications in Java (1 day ago)
 - [vladimirvivien/learning-go](https://github.com/vladimirvivien/learning-go) - Source code repository for my book "Learning Go Programming" (1 day ago)
-- [vladimirvivien/go-grpc](https://github.com/vladimirvivien/go-grpc) - A collection of gRPC and Go examples showcasing features of the framework (1 day ago)
 
 ## 🔨 Latest Pull Requests I published
 
