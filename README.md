@@ -46,7 +46,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
-- [Arison99](https://github.com/Arison99)
 - [MakderIAKO](https://github.com/MakderIAKO)
 - [ishandutta2007](https://github.com/ishandutta2007)
 - [YASHWANTHGOWDAKS5](https://github.com/YASHWANTHGOWDAKS5)
@@ -56,6 +55,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [murapadev](https://github.com/murapadev)
 - [ckormanyos](https://github.com/ckormanyos)
 - [sonukumar-418](https://github.com/sonukumar-418)
+- [BEPb](https://github.com/BEPb)
 
 ## ⭐ Recent stars
 
