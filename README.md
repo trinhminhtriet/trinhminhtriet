@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [karpathy/transformers](https://github.com/karpathy/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX. (1 day ago)
-- [karpathy/scriptsbots](https://github.com/karpathy/scriptsbots) - ScriptBots is an Open Source Evolutionary Artificial Life Simulation of Predator-Prey dynamics, written by Andrej Karpathy. (1 day ago)
-- [karpathy/nipspreview](https://github.com/karpathy/nipspreview) - Scripts that generate .html to more easily see NIPS papers (1 day ago)
-- [karpathy/Random-Forest-Matlab](https://github.com/karpathy/Random-Forest-Matlab) - A Random Forest implementation for MATLAB. Supports arbitrary weak learners that you can define. (1 day ago)
-- [karpathy/researchlei](https://github.com/karpathy/researchlei) - An Academic Papers Management and Discovery System (1 day ago)
+- [spences10/VBA-IDE-Code-Export](https://github.com/spences10/VBA-IDE-Code-Export) - Export & Import VBA code for use with Git (or any VCS) (today)
+- [spences10/mcp-omnisearch](https://github.com/spences10/mcp-omnisearch) - 🔍 A Model Context Protocol (MCP) server providing unified access to multiple search engines (Tavily, Brave, Kagi), AI tools (Perplexity, FastGPT), and content processing services (Jina AI, Kagi). Combines search, AI responses, content processing, and enhancement features through a single interface. (today)
+- [spences10/twitter-bot-bootstrap](https://github.com/spences10/twitter-bot-bootstrap) - Twitter bot bootstrap :boot: using node and twit :bird: (today)
+- [spences10/cheat-sheets](https://github.com/spences10/cheat-sheets) - Cheat Sheets 🐭🤖👀 (today)
+- [spences10/sveltekit-embed](https://github.com/spences10/sveltekit-embed) - SvelteKit embed components (today)
 
 ## 🔨 Latest Pull Requests I published
 
