@@ -33,19 +33,20 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👷 Check out what I'm currently working on
 
+- [trinhminhtriet/sizr](https://github.com/trinhminhtriet/sizr) - 📈 A fast, Rust-based tool to analyze file system usage with colorful output, file aggregation, exclusions, and directory comparisons. (today)
+- [trinhminhtriet/spiko](https://github.com/trinhminhtriet/spiko) - 🚀 Spiko is a fast, Rust-based load testing tool with a beautiful TUI for real-time insights. (1 day ago)
 - [rust-rs/tabler](https://github.com/rust-rs/tabler) - 📊 Tabler: A lightweight TUI tool to view, query, and navigate CSV, TSV, and Parquet data files. (1 day ago)
 - [trinhminhtriet/java-skel-cli](https://github.com/trinhminhtriet/java-skel-cli) - 🦴 Skel CLI: A command-line tool for generating project skeletons in multiple languages, fast and customizable. (1 day ago)
-- [trinhminhtriet/spiko](https://github.com/trinhminhtriet/spiko) - 🚀 Spiko is a fast, Rust-based load testing tool with a beautiful TUI for real-time insights. (1 day ago)
 - [trinhminhtriet/blast](https://github.com/trinhminhtriet/blast) - 🚀 Blast: A powerful, lightweight HTTP load generator for stress testing and benchmarking web applications with ease. (1 day ago)
 - [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (2 days ago)
 - [trinhminhtriet/github-toolkit](https://github.com/trinhminhtriet/github-toolkit) - github-toolkit: Scrapes GitHub developers, followers, repositories into MySQL database. (3 days ago)
 - [trinhminhtriet/fstree](https://github.com/trinhminhtriet/fstree) - A blazing-fast directory tree viewer for terminals—minimalist, interactive, and packed with smart features! (4 days ago)
 - [trinhminhtriet/binpull](https://github.com/trinhminhtriet/binpull) - 🔧 Installs pre-built binaries from GitHub releases easily—fetch, verify, and extract tools with one command. (5 days ago)
 - [trinhminhtriet/markgen](https://github.com/trinhminhtriet/markgen) - 📜 Generate personalized markdown files with templates, GitHub, RSS, and API integrations using Go. (1 week ago)
-- [trinhminhtriet/sizr](https://github.com/trinhminhtriet/sizr) - 📈 A fast, Rust-based tool to analyze file system usage with colorful output, file aggregation, exclusions, and directory comparisons. (1 week ago)
 
 ## 👯 Check out my recent followers
 
+- [am5363075-del](https://github.com/am5363075-del)
 - [MakderIAKO](https://github.com/MakderIAKO)
 - [ishandutta2007](https://github.com/ishandutta2007)
 - [YASHWANTHGOWDAKS5](https://github.com/YASHWANTHGOWDAKS5)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [ckormanyos](https://github.com/ckormanyos)
 - [sonukumar-418](https://github.com/sonukumar-418)
 - [Happycocain](https://github.com/Happycocain)
-- [ToBinge](https://github.com/ToBinge)
 
 ## ⭐ Recent stars
 
-- [remkop/picocli](https://github.com/remkop/picocli) - Picocli is a modern framework for building powerful, user-friendly, GraalVM-enabled command line apps with ease. It supports colors, autocompletion, subcommands, and more.  In 1 source file so apps can include as source & avoid adding a dependency. Written in Java, usable from Groovy, Kotlin, Scala, etc.  (today)
-- [Luancss/pixel-patterns](https://github.com/Luancss/pixel-patterns) - Modern open source components snippets: copy, paste, ready-to-use. (today)
-- [IonelPopJara/moogle](https://github.com/IonelPopJara/moogle) - My very own search engine (today)
-- [sakaki-/raspbian-nspawn-64](https://github.com/sakaki-/raspbian-nspawn-64) - Bootable RPi4 / RPi3 image with 64-bit kernel, 32-bit Raspbian Buster host OS, 64-bit Debian Buster guest OS in nspawn container (today)
-- [sakaki-/gentoo-on-rpi-64bit](https://github.com/sakaki-/gentoo-on-rpi-64bit) - Bootable 64-bit Gentoo image for the Raspberry Pi4B,  3B & 3B+, with Linux 5.4, OpenRC, Xfce4, VC4/V3D, camera and h/w codec support, weekly-autobuild binhost (today)
+- [Buuntu/fastapi-react](https://github.com/Buuntu/fastapi-react) - 🚀   Cookiecutter Template for FastAPI + React Projects.  Using PostgreSQL, SQLAlchemy, and Docker (today)
+- [anujshah1003/Transfer-Learning-in-keras---custom-data](https://github.com/anujshah1003/Transfer-Learning-in-keras---custom-data) - Implementing Transfer Learning for custom data using VGG-16 and Resnet-50 (today)
+- [anujshah1003/own_data_cnn_implementation_keras](https://github.com/anujshah1003/own_data_cnn_implementation_keras) - A complete tutorial on using own dataset to train a CNN from scratch in Keras (TF & Theano Backend)- (today)
+- [chenriwei/FaceTools](https://github.com/chenriwei/FaceTools) - 一键人脸归一化处理工具，包括人脸检测，人脸关键点检测，基于关键点的人脸对齐 (today)
+- [chenriwei/DeepFace](https://github.com/chenriwei/DeepFace) - Face analysis mainly based on Caffe. At this time, face analysis tasks like detection, alignment and recognition have been done. (today)
 
 ## 🔨 Latest Pull Requests I published
 
