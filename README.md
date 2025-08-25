@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [remkop/picocli](https://github.com/remkop/picocli) - Picocli is a modern framework for building powerful, user-friendly, GraalVM-enabled command line apps with ease. It supports colors, autocompletion, subcommands, and more.  In 1 source file so apps can include as source & avoid adding a dependency. Written in Java, usable from Groovy, Kotlin, Scala, etc.  (today)
+- [Luancss/pixel-patterns](https://github.com/Luancss/pixel-patterns) - Modern open source components snippets: copy, paste, ready-to-use. (today)
 - [IonelPopJara/moogle](https://github.com/IonelPopJara/moogle) - My very own search engine (today)
 - [sakaki-/raspbian-nspawn-64](https://github.com/sakaki-/raspbian-nspawn-64) - Bootable RPi4 / RPi3 image with 64-bit kernel, 32-bit Raspbian Buster host OS, 64-bit Debian Buster guest OS in nspawn container (today)
 - [sakaki-/gentoo-on-rpi-64bit](https://github.com/sakaki-/gentoo-on-rpi-64bit) - Bootable 64-bit Gentoo image for the Raspberry Pi4B,  3B & 3B+, with Linux 5.4, OpenRC, Xfce4, VC4/V3D, camera and h/w codec support, weekly-autobuild binhost (today)
-- [ikatyang/tree-sitter-markdown](https://github.com/ikatyang/tree-sitter-markdown) - Markdown grammar for tree-sitter (today)
-- [ikatyang/emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet) - A markdown version emoji cheat sheet (today)
 
 ## 🔨 Latest Pull Requests I published
 
