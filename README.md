@@ -52,10 +52,10 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [EncriptionFJ](https://github.com/EncriptionFJ)
 - [keidev123](https://github.com/keidev123)
 - [Maxxum69](https://github.com/Maxxum69)
-- [murapadev](https://github.com/murapadev)
 - [ckormanyos](https://github.com/ckormanyos)
 - [sonukumar-418](https://github.com/sonukumar-418)
-- [BEPb](https://github.com/BEPb)
+- [Happycocain](https://github.com/Happycocain)
+- [ToBinge](https://github.com/ToBinge)
 
 ## ⭐ Recent stars
 
