@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [ahmedayman4a/Linkedin-Learning-Courses-Downloader](https://github.com/ahmedayman4a/Linkedin-Learning-Courses-Downloader) - Download LinkedIn Learning Courses in mp4 format and in the video quality you like with an intuitive UI (today)
-- [iammukeshm/modular-monolith-aspnet-core-sample](https://github.com/iammukeshm/modular-monolith-aspnet-core-sample) (today)
-- [iammukeshm/AspNetCoreHero-Boilerplate](https://github.com/iammukeshm/AspNetCoreHero-Boilerplate) - ASP.NET CORE HERO - Boilerplate template for your next project! (today)
-- [iammukeshm/RepositoryPattern.WebApi](https://github.com/iammukeshm/RepositoryPattern.WebApi) - We will go through everything you will need to know about Repository Pattern in ASP.NET Core, Generic Repository Patterns, Unit of Work and related topics. We will build a project right from scratch where we implement a clean architecture to access data.  (today)
-- [iammukeshm/PermissionManagement.MVC](https://github.com/iammukeshm/PermissionManagement.MVC) - Let's implement Permission-Based Authorization in ASP.NET Core (today)
+- [msambol/dsa](https://github.com/msambol/dsa) - Data structures and algorithms in X minutes. Code examples from my YouTube channel. (today)
+- [aelassas/movinin](https://github.com/aelassas/movinin) - Rental Property Management Platform with Mobile App (today)
+- [aelassas/servy](https://github.com/aelassas/servy) - Turn Any App into a Native Windows Service — Open-Source Alternative to NSSM & FireDaemon (today)
+- [aelassas/bookcars](https://github.com/aelassas/bookcars) - Car Rental Platform with Mobile App (today)
+- [aelassas/wexflow](https://github.com/aelassas/wexflow) - Workflow Automation Engine (today)
 
 ## 🔨 Latest Pull Requests I published
 
