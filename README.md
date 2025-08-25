@@ -61,7 +61,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 - [msambol/dsa](https://github.com/msambol/dsa) - Data structures and algorithms in X minutes. Code examples from my YouTube channel. (today)
 - [aelassas/movinin](https://github.com/aelassas/movinin) - Rental Property Management Platform with Mobile App (today)
-- [aelassas/servy](https://github.com/aelassas/servy) - Turn Any App into a Native Windows Service — Open-Source Alternative to NSSM & FireDaemon (today)
+- [aelassas/servy](https://github.com/aelassas/servy) - Turn Any App into a Native Windows Service - Open-Source Alternative to NSSM & FireDaemon (today)
 - [aelassas/bookcars](https://github.com/aelassas/bookcars) - Car Rental Platform with Mobile App (today)
 - [aelassas/wexflow](https://github.com/aelassas/wexflow) - Workflow Automation Engine (today)
 
