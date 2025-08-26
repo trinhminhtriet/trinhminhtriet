@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [wh201906/Proxmark3GUI](https://github.com/wh201906/Proxmark3GUI) - A cross-platform GUI for Proxmark3 client | 为PM3设计的跨平台图形界面 (today)
-- [wh201906/SerialTest](https://github.com/wh201906/SerialTest) - Data transceiver(monitor)/realtime plotter/shortcut/file transceiver over serial port/Bluetooth/network on Windows/Linux/Android/macOS | 跨平台串口/蓝牙/网络调试助手，带数据收发/实时绘图/快捷发送/文件收发面板，可在PC和Android设备上使用 (today)
-- [codeartx/awesome-kubernetes](https://github.com/codeartx/awesome-kubernetes) - 面向 docker/kubernates 初学者的快速本地部署和测试 docker/k8s 各种功能特性...持续更新 (today)
-- [codeartx/awesome-security](https://github.com/codeartx/awesome-security) - 广泛搜集、测试千余款开源安全产品，精心挑选300+ 款多star、更新活跃的高质量库，非常适合初学者快速入手安全技术栈、少走弯路。 (today)
-- [roscopeco/jasm](https://github.com/roscopeco/jasm) - A JVM assembler for the modern age (today)
+- [jahirfiquitiva/Kuper](https://github.com/jahirfiquitiva/Kuper) - Free, feature-rich, easily customizable Android dashboard for widgets apps with Zooper widgets and/or Kustom assets (Widgets, Wallpapers and Komponents) (today)
+- [jahirfiquitiva/FABsMenu](https://github.com/jahirfiquitiva/FABsMenu) - A simple library to use a menu of FloatingActionButtons from Design Support Library that follow Material Design Guidelines (today)
+- [jahirfiquitiva/jahir.dev](https://github.com/jahirfiquitiva/jahir.dev) - My (previous) personal website ☻  –  Built using Next.js, TypeScript, Tailwind CSS and MDX (today)
+- [jahirfiquitiva/Frames](https://github.com/jahirfiquitiva/Frames) - Free, feature-rich, easily customizable Android dashboard for wallpapers apps (today)
+- [jahirfiquitiva/Blueprint](https://github.com/jahirfiquitiva/Blueprint) - Free, feature-rich, easily customizable Android dashboard for icon packs (today)
 
 ## 🔨 Latest Pull Requests I published
 
