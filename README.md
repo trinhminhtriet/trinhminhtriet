@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [mogody/swoole-vue-webim](https://github.com/mogody/swoole-vue-webim) - 一个Web聊天应用，基于Vue和Swoole构建 (today)
-- [xudianyang/yaf.auto.complete](https://github.com/xudianyang/yaf.auto.complete) - Yaf在IDE下自动识别类、常量、自动补全方法名（Yaf IDE Auto Complete） (today)
-- [zhoumengkang/netty-websocket](https://github.com/zhoumengkang/netty-websocket) - a fully-functioning websocket server built on netty. (today)
-- [zhoumengkang/netty-restful-server](https://github.com/zhoumengkang/netty-restful-server) - A light restful server built on netty. If you are preparing for leaning java or netty, it's a nice gift for you. (today)
-- [luxixing/swoole-task](https://github.com/luxixing/swoole-task) - 分布式任务处理框架，基于swoole扩展，使用composer打包 (today)
+- [acquitelol/rosiecord](https://github.com/acquitelol/rosiecord) - Wrapper for @enmity-mod with more modifications (today)
+- [noobpk/auto-change-tor-ip](https://github.com/noobpk/auto-change-tor-ip) - Automatically change tor ip address over time when accessing the internet. Make it private and safe for you (today)
+- [noobpk/frida-intercept-encrypted-api](https://github.com/noobpk/frida-intercept-encrypted-api) - A tool to help you intercept encrypted APIs in iOS or Android apps (today)
+- [noobpk/frida-android-hook](https://github.com/noobpk/frida-android-hook) - A tool that helps you work with frida easily for Android platform (today)
+- [noobpk/frida-ios-hook](https://github.com/noobpk/frida-ios-hook) - A tool that helps you easy trace classes, functions, and modify the return values of methods on iOS platform (today)
 
 ## 🔨 Latest Pull Requests I published
 
