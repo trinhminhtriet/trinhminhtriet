@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [alanrenouf/vCheck-vSphere](https://github.com/alanrenouf/vCheck-vSphere) - vCheck Daily Report for vSphere (today)
-- [dainok/unetlab](https://github.com/dainok/unetlab) (today)
-- [adanalvarez/TrailDiscover](https://github.com/adanalvarez/TrailDiscover) - An evolving repository of CloudTrail events with detailed descriptions, MITRE ATT&CK insights, real-world incidents, references and security implications (today)
-- [ddneves/awesome-gcp-certifications](https://github.com/ddneves/awesome-gcp-certifications) -  A curated list of resources for learning about Google Cloud Platform certifications and how to prepare for it. (today)
-- [AdminTurnedDevOps/PearsonCourses](https://github.com/AdminTurnedDevOps/PearsonCourses) (today)
+- [bhowiebkr/laser-level-webcam](https://github.com/bhowiebkr/laser-level-webcam) - A tool for measuring height in microns of arbitrary sized objects using a webcam and a laser level.  (today)
+- [bhowiebkr/python-node-editor](https://github.com/bhowiebkr/python-node-editor) - The Node-Based Python Tool is a software tool that allows you to organize and work with reusable Python code in a dynamic network. Its intuitive GUI and modular approach can streamline your Python development process. (today)
+- [normaldotcom/canable-fw](https://github.com/normaldotcom/canable-fw) - Firmware for the CANable USB to CAN adapter (today)
+- [normaldotcom/cangaroo](https://github.com/normaldotcom/cangaroo) - Open source can bus analyzer software - with support for CANable / CANable2, CANFD, and other new features (today)
+- [tapnair/NESTER](https://github.com/tapnair/NESTER) - Simple script to lay parts out flat in Fusion 360 (today)
 
 ## 🔨 Latest Pull Requests I published
 
