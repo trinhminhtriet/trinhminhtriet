@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [murapadev](https://github.com/murapadev)
 - [BEPb](https://github.com/BEPb)
 - [XiaomingX](https://github.com/XiaomingX)
 - [levonk](https://github.com/levonk)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [YASHWANTHGOWDAKS5](https://github.com/YASHWANTHGOWDAKS5)
 - [EncriptionFJ](https://github.com/EncriptionFJ)
 - [keidev123](https://github.com/keidev123)
-- [ckormanyos](https://github.com/ckormanyos)
 
 ## ⭐ Recent stars
 
-- [alexgolec/career-advice](https://github.com/alexgolec/career-advice) - A collection of essays on career advice.  (today)
-- [alexgolec/schwab-py](https://github.com/alexgolec/schwab-py) - Unofficial API wrapper for the Schwab HTTP API  (today)
-- [alexgolec/tda-api](https://github.com/alexgolec/tda-api) - A TD Ameritrade API client for Python. Includes historical data for equities and ETFs, options chains, streaming order book data, complex order construction, and more.  (today)
-- [workattech/get-a-software-engineering-job](https://github.com/workattech/get-a-software-engineering-job) - Get a Software Engineering Job - Ultimate Guide (today)
-- [sean-parent/sean-parent.github.io](https://github.com/sean-parent/sean-parent.github.io) (today)
+- [creocoder/yii2-taggable](https://github.com/creocoder/yii2-taggable) - The taggable behavior for the Yii framework. (today)
+- [creocoder/yii2-flysystem](https://github.com/creocoder/yii2-flysystem) - The Flysystem integration for the Yii framework. (today)
+- [creocoder/yii2-nested-sets](https://github.com/creocoder/yii2-nested-sets) - The nested sets behavior for the Yii framework. (today)
+- [nathanboktae/robust-websocket](https://github.com/nathanboktae/robust-websocket) - A robust reconnecting WebSocket client for the browser (today)
+- [nathanboktae/mocha-phantomjs](https://github.com/nathanboktae/mocha-phantomjs) - :coffee: :ghost: Run client-side mocha tests in the command line through phantomjs (today)
 
 ## 🔨 Latest Pull Requests I published
 
