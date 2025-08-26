@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [TooTallNate/node-http-proxy-agent](https://github.com/TooTallNate/node-http-proxy-agent) - An HTTP(s) proxy `http.Agent` implementation for HTTP endpoints (today)
-- [TooTallNate/node-nat-pmp](https://github.com/TooTallNate/node-nat-pmp) - Node.js implementation of the NAT Port Mapping Protocol (today)
-- [TooTallNate/superagent-proxy](https://github.com/TooTallNate/superagent-proxy) - `Request#proxy(uri)` superagent extension (today)
-- [TooTallNate/node-wav](https://github.com/TooTallNate/node-wav) - `Reader` and `Writer` streams for Microsoft WAVE audio files (today)
-- [TooTallNate/node-throttle](https://github.com/TooTallNate/node-throttle) - Node.js Transform stream that passes data through at `n` bytes per second (today)
+- [midudev/midu-chatgpt-clone](https://github.com/midudev/midu-chatgpt-clone) - Un clon de ChatGPT por temas educativos (today)
+- [midudev/covid-19-spread-simulator](https://github.com/midudev/covid-19-spread-simulator) - COVID-19 (Coronavirus) Spread Simulator 🦠 (today)
+- [midudev/super-midu-bros](https://github.com/midudev/super-midu-bros) - Desarrollo de videojuegos con JavaScript (today)
+- [midudev/landing-infojobs](https://github.com/midudev/landing-infojobs) - Landing InfoJobs para conseguir tu primer empleo (today)
+- [midudev/react-slidy](https://github.com/midudev/react-slidy) - 🍃 React Slidy - Minimalistic and smooth touch slider and carousel component for React (today)
 
 ## 🔨 Latest Pull Requests I published
 
