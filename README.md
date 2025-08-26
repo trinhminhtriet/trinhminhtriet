@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [koreainvestment/open-trading-api](https://github.com/koreainvestment/open-trading-api) - Korea Investment & Securities Open API Github (today)
-- [mourednik/argotlunar](https://github.com/mourednik/argotlunar) - Surreal transformations of audio streams (today)
-- [AristoChen/usb-proxy](https://github.com/AristoChen/usb-proxy) - A USB proxy based on raw-gadget and libusb (today)
-- [vpavlenko/web-programming](https://github.com/vpavlenko/web-programming) - Course on web programming taught at MIPT, 2014-2015 (today)
-- [vpavlenko/study-music](https://github.com/vpavlenko/study-music) - An "awesome music theory" kinda wiki with books, resources and courses for studying everything about music and sound (today)
+- [NeoMaster831/kurasagi](https://github.com/NeoMaster831/kurasagi) - Windows 11 24H2 Runtime PatchGuard Bypass (today)
+- [runarorama/scala-machines](https://github.com/runarorama/scala-machines) - A stream processing library for Scala (today)
+- [fomkin/korolev](https://github.com/fomkin/korolev) - Single Page Applications running on the server side. (today)
+- [jmcardon/tsec](https://github.com/jmcardon/tsec) - Type-safe general-cryptography library - https://jmcardon.github.io/tsec/ (today)
+- [JordanMartinez/learn-halogen](https://github.com/JordanMartinez/learn-halogen) - Learn purescript-halogen using a bottom-up apporach via this "clone-and-play" repository (today)
 
 ## 🔨 Latest Pull Requests I published
 
