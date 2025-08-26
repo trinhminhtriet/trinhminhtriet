@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [KevinNovak/Discord-Bot-TypeScript-Template](https://github.com/KevinNovak/Discord-Bot-TypeScript-Template) - Discord bot - A discord.js bot template written with TypeScript. (today)
-- [Pan4ur/ThunderHack-Recode](https://github.com/Pan4ur/ThunderHack-Recode) - 1.21 minecraft client for Crystal / Sword hvh (today)
-- [MuhammadMoinFaisal/FireDetectionYOLOv8](https://github.com/MuhammadMoinFaisal/FireDetectionYOLOv8) - Fire Detection using YOLOv8 (today)
-- [MuhammadMoinFaisal/Computervisionprojects](https://github.com/MuhammadMoinFaisal/Computervisionprojects) - Computer Vision Projects (today)
-- [MuhammadMoinFaisal/Automatic_Number_Plate_Detection_Recognition_YOLOv8](https://github.com/MuhammadMoinFaisal/Automatic_Number_Plate_Detection_Recognition_YOLOv8) - Automatic Number Plate Detection YOLOv8 (today)
+- [theNetworkChuck/NetworkChuck](https://github.com/theNetworkChuck/NetworkChuck) (today)
+- [theNetworkChuck/ai_hacking_study_prompts](https://github.com/theNetworkChuck/ai_hacking_study_prompts) (today)
+- [bigbigmdm/IMSProg](https://github.com/bigbigmdm/IMSProg) - IMSProg - software for CH341A-based programmers to work with I2C, SPI and MicroWire EEPROM/Flash chips (today)
+- [emelianov/modbus-esp8266](https://github.com/emelianov/modbus-esp8266) - Most complete Modbus library for Arduino. A library that allows your Arduino board to communicate via Modbus protocol, acting as a master, slave or both. Supports network transport (Modbus TCP) and Serial line/RS-485 (Modbus RTU). Supports Modbus TCP Security for ESP8266/ESP32. (today)
+- [byrantech/laptop](https://github.com/byrantech/laptop) - anyon_e, a highly integrated, high end, open source laptop. Attempt the impossible. (today)
 
 ## 🔨 Latest Pull Requests I published
 
