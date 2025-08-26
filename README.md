@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [msambol/dsa](https://github.com/msambol/dsa) - Data structures and algorithms in X minutes. Code examples from my YouTube channel. (1 day ago)
-- [aelassas/movinin](https://github.com/aelassas/movinin) - Rental Property Management Platform with Mobile App (1 day ago)
-- [aelassas/servy](https://github.com/aelassas/servy) - Turn Any App into a Native Windows Service - Open-Source Alternative to NSSM & FireDaemon (1 day ago)
-- [aelassas/bookcars](https://github.com/aelassas/bookcars) - Car Rental Platform with Mobile App (1 day ago)
-- [aelassas/wexflow](https://github.com/aelassas/wexflow) - Workflow Automation Engine (1 day ago)
+- [steveklabnik/doxidize](https://github.com/steveklabnik/doxidize) - Amazing documentation tooling for Rust (today)
+- [steveklabnik/simple-server](https://github.com/steveklabnik/simple-server) - A simple webserver built on top of the Rust standard library and the http crate. (today)
+- [steveklabnik/rue](https://github.com/steveklabnik/rue) - A programming language that is a minimal subset of Rust (today)
+- [steveklabnik/automatically_update_github_pages_with_travis_example](https://github.com/steveklabnik/automatically_update_github_pages_with_travis_example) - An example of automatically updating GitHub Pages when you're using Travis CI. (today)
+- [steveklabnik/jujutsu-tutorial](https://github.com/steveklabnik/jujutsu-tutorial) - trying to figure out this jujutsu thing (today)
 
 ## 🔨 Latest Pull Requests I published
 
