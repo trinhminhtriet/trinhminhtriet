@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [xairy/mipt-ctf](https://github.com/xairy/mipt-ctf) - A small course on CTF (wargames) for beginners [in Russian] (today)
-- [xairy/usb-hacking](https://github.com/xairy/usb-hacking) - Collection of USB hacking links and materials for my talk on the topic (today)
-- [xairy/raw-gadget](https://github.com/xairy/raw-gadget) - USB Raw Gadget — a low-level interface for the Linux USB Gadget subsystem (today)
-- [xairy/lights-out](https://github.com/xairy/lights-out) - Tools for controlling webcam LED on ThinkPad X230 (today)
-- [xairy/easy-linux-pwn](https://github.com/xairy/easy-linux-pwn) - A set of Linux binary exploitation tasks for beginners on various architectures (today)
+- [koreainvestment/open-trading-api](https://github.com/koreainvestment/open-trading-api) - Korea Investment & Securities Open API Github (today)
+- [mourednik/argotlunar](https://github.com/mourednik/argotlunar) - Surreal transformations of audio streams (today)
+- [AristoChen/usb-proxy](https://github.com/AristoChen/usb-proxy) - A USB proxy based on raw-gadget and libusb (today)
+- [vpavlenko/web-programming](https://github.com/vpavlenko/web-programming) - Course on web programming taught at MIPT, 2014-2015 (today)
+- [vpavlenko/study-music](https://github.com/vpavlenko/study-music) - An "awesome music theory" kinda wiki with books, resources and courses for studying everything about music and sound (today)
 
 ## 🔨 Latest Pull Requests I published
 
