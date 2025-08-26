@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [Jcharis/Python-Machine-Learning](https://github.com/Jcharis/Python-Machine-Learning) - Tutorials on Machine Learning and Deep Learning with Python (today)
-- [Jcharis/data-science-projects](https://github.com/Jcharis/data-science-projects) - A Collection of Data Science/ML Projects (today)
-- [Jcharis/DataScienceTools](https://github.com/Jcharis/DataScienceTools) - Useful Data Science and Machine Learning Tools,Libraries and Packages (today)
-- [Jcharis/Natural-Language-Processing-Tutorials](https://github.com/Jcharis/Natural-Language-Processing-Tutorials) - Natural Language Processing Tutorials(NLP) with Julia and Python (today)
-- [Jcharis/Machine-Learning-Web-Apps](https://github.com/Jcharis/Machine-Learning-Web-Apps) - Building and Embedding Machine Learning Model into a Web App(With Flask,Streamlit,etc) (today)
+- [wh201906/Proxmark3GUI](https://github.com/wh201906/Proxmark3GUI) - A cross-platform GUI for Proxmark3 client | 为PM3设计的跨平台图形界面 (today)
+- [wh201906/SerialTest](https://github.com/wh201906/SerialTest) - Data transceiver(monitor)/realtime plotter/shortcut/file transceiver over serial port/Bluetooth/network on Windows/Linux/Android/macOS | 跨平台串口/蓝牙/网络调试助手，带数据收发/实时绘图/快捷发送/文件收发面板，可在PC和Android设备上使用 (today)
+- [codeartx/awesome-kubernetes](https://github.com/codeartx/awesome-kubernetes) - 面向 docker/kubernates 初学者的快速本地部署和测试 docker/k8s 各种功能特性...持续更新 (today)
+- [codeartx/awesome-security](https://github.com/codeartx/awesome-security) - 广泛搜集、测试千余款开源安全产品，精心挑选300+ 款多star、更新活跃的高质量库，非常适合初学者快速入手安全技术栈、少走弯路。 (today)
+- [roscopeco/jasm](https://github.com/roscopeco/jasm) - A JVM assembler for the modern age (today)
 
 ## 🔨 Latest Pull Requests I published
 
