@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [chenxuan0000/vue-seamless-scroll](https://github.com/chenxuan0000/vue-seamless-scroll) -  :beginner:A simple, seamless scrolling for Vue.js  vue无缝滚动component (today)
-- [codef0rmer/angular-dragdrop](https://github.com/codef0rmer/angular-dragdrop) - Implementing jQueryUI Drag and Drop functionality in AngularJS (with Animation) is easier than ever (today)
-- [minwe/jetbrains-react](https://github.com/minwe/jetbrains-react) - React.js live templates for JetBrains editors. (today)
-- [markgoodyear/headhesive.js](https://github.com/markgoodyear/headhesive.js) - An on-demand sticky header. (today)
-- [markgoodyear/scrollup](https://github.com/markgoodyear/scrollup) (today)
+- [mogody/swoole-vue-webim](https://github.com/mogody/swoole-vue-webim) - 一个Web聊天应用，基于Vue和Swoole构建 (today)
+- [xudianyang/yaf.auto.complete](https://github.com/xudianyang/yaf.auto.complete) - Yaf在IDE下自动识别类、常量、自动补全方法名（Yaf IDE Auto Complete） (today)
+- [zhoumengkang/netty-websocket](https://github.com/zhoumengkang/netty-websocket) - a fully-functioning websocket server built on netty. (today)
+- [zhoumengkang/netty-restful-server](https://github.com/zhoumengkang/netty-restful-server) - A light restful server built on netty. If you are preparing for leaning java or netty, it's a nice gift for you. (today)
+- [luxixing/swoole-task](https://github.com/luxixing/swoole-task) - 分布式任务处理框架，基于swoole扩展，使用composer打包 (today)
 
 ## 🔨 Latest Pull Requests I published
 
