@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [sorairolake](https://github.com/sorairolake)
 - [anasmohammad611](https://github.com/anasmohammad611)
 - [murapadev](https://github.com/murapadev)
 - [BEPb](https://github.com/BEPb)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [MakderIAKO](https://github.com/MakderIAKO)
 - [ishandutta2007](https://github.com/ishandutta2007)
 - [YASHWANTHGOWDAKS5](https://github.com/YASHWANTHGOWDAKS5)
-- [EncriptionFJ](https://github.com/EncriptionFJ)
 
 ## ⭐ Recent stars
 
-- [acquitelol/rosiecord](https://github.com/acquitelol/rosiecord) - Wrapper for @enmity-mod with more modifications (today)
-- [noobpk/auto-change-tor-ip](https://github.com/noobpk/auto-change-tor-ip) - Automatically change tor ip address over time when accessing the internet. Make it private and safe for you (today)
-- [noobpk/frida-intercept-encrypted-api](https://github.com/noobpk/frida-intercept-encrypted-api) - A tool to help you intercept encrypted APIs in iOS or Android apps (today)
-- [noobpk/frida-android-hook](https://github.com/noobpk/frida-android-hook) - A tool that helps you work with frida easily for Android platform (today)
-- [noobpk/frida-ios-hook](https://github.com/noobpk/frida-ios-hook) - A tool that helps you easy trace classes, functions, and modify the return values of methods on iOS platform (today)
+- [Jcharis/Python-Machine-Learning](https://github.com/Jcharis/Python-Machine-Learning) - Tutorials on Machine Learning and Deep Learning with Python (today)
+- [Jcharis/data-science-projects](https://github.com/Jcharis/data-science-projects) - A Collection of Data Science/ML Projects (today)
+- [Jcharis/DataScienceTools](https://github.com/Jcharis/DataScienceTools) - Useful Data Science and Machine Learning Tools,Libraries and Packages (today)
+- [Jcharis/Natural-Language-Processing-Tutorials](https://github.com/Jcharis/Natural-Language-Processing-Tutorials) - Natural Language Processing Tutorials(NLP) with Julia and Python (today)
+- [Jcharis/Machine-Learning-Web-Apps](https://github.com/Jcharis/Machine-Learning-Web-Apps) - Building and Embedding Machine Learning Model into a Web App(With Flask,Streamlit,etc) (today)
 
 ## 🔨 Latest Pull Requests I published
 
