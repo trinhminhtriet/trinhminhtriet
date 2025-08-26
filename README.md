@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [NeoMaster831/kurasagi](https://github.com/NeoMaster831/kurasagi) - Windows 11 24H2 Runtime PatchGuard Bypass (today)
-- [runarorama/scala-machines](https://github.com/runarorama/scala-machines) - A stream processing library for Scala (today)
-- [fomkin/korolev](https://github.com/fomkin/korolev) - Single Page Applications running on the server side. (today)
-- [jmcardon/tsec](https://github.com/jmcardon/tsec) - Type-safe general-cryptography library - https://jmcardon.github.io/tsec/ (today)
-- [JordanMartinez/learn-halogen](https://github.com/JordanMartinez/learn-halogen) - Learn purescript-halogen using a bottom-up apporach via this "clone-and-play" repository (today)
+- [bluewings/pug-as-jsx-loader](https://github.com/bluewings/pug-as-jsx-loader) (today)
+- [bluewings/korean-regexp](https://github.com/bluewings/korean-regexp) (today)
+- [hctilg/root-termux](https://github.com/hctilg/root-termux) - install pseudo-root(sudo) in the termux  (today)
+- [esanchezros/quickfixj-spring-boot-starter](https://github.com/esanchezros/quickfixj-spring-boot-starter) - Spring Boot Starter for QuickFIX/J (today)
+- [yoonje/developer-interview](https://github.com/yoonje/developer-interview) - 개발자 인터뷰 빈출 내용 정리 (today)
 
 ## 🔨 Latest Pull Requests I published
 
