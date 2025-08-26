@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [The-SourceCode/Discord.js-Bot-Development](https://github.com/The-SourceCode/Discord.js-Bot-Development) (today)
-- [noptrix/lulzbuster](https://github.com/noptrix/lulzbuster) - A very fast and smart web directory and file enumeration tool written in C. (today)
-- [noptrix/sshprank](https://github.com/noptrix/sshprank) - A fast SSH mass-scanner, login cracker and banner grabber tool using the python-masscan and shodan module. (today)
-- [r00t-3xp10it/resource_files](https://github.com/r00t-3xp10it/resource_files) - mosquito - Automating reconnaissance and brute force attacks (today)
-- [r00t-3xp10it/msf-auxiliarys](https://github.com/r00t-3xp10it/msf-auxiliarys) - My collection of metasploit auxiliary post-modules (today)
+- [KevinNovak/Discord-Bot-TypeScript-Template](https://github.com/KevinNovak/Discord-Bot-TypeScript-Template) - Discord bot - A discord.js bot template written with TypeScript. (today)
+- [Pan4ur/ThunderHack-Recode](https://github.com/Pan4ur/ThunderHack-Recode) - 1.21 minecraft client for Crystal / Sword hvh (today)
+- [MuhammadMoinFaisal/FireDetectionYOLOv8](https://github.com/MuhammadMoinFaisal/FireDetectionYOLOv8) - Fire Detection using YOLOv8 (today)
+- [MuhammadMoinFaisal/Computervisionprojects](https://github.com/MuhammadMoinFaisal/Computervisionprojects) - Computer Vision Projects (today)
+- [MuhammadMoinFaisal/Automatic_Number_Plate_Detection_Recognition_YOLOv8](https://github.com/MuhammadMoinFaisal/Automatic_Number_Plate_Detection_Recognition_YOLOv8) - Automatic Number Plate Detection YOLOv8 (today)
 
 ## 🔨 Latest Pull Requests I published
 
