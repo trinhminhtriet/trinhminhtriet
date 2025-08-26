@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [midudev/midu-chatgpt-clone](https://github.com/midudev/midu-chatgpt-clone) - Un clon de ChatGPT por temas educativos (today)
-- [midudev/covid-19-spread-simulator](https://github.com/midudev/covid-19-spread-simulator) - COVID-19 (Coronavirus) Spread Simulator 🦠 (today)
-- [midudev/super-midu-bros](https://github.com/midudev/super-midu-bros) - Desarrollo de videojuegos con JavaScript (today)
-- [midudev/landing-infojobs](https://github.com/midudev/landing-infojobs) - Landing InfoJobs para conseguir tu primer empleo (today)
-- [midudev/react-slidy](https://github.com/midudev/react-slidy) - 🍃 React Slidy - Minimalistic and smooth touch slider and carousel component for React (today)
+- [Winderton/xplatform](https://github.com/Winderton/xplatform) - Реализация фундаментальных проектов с курса по Computer Science (today)
+- [NeilAlishev/SpringCourse](https://github.com/NeilAlishev/SpringCourse) - Сопровождающие материалы для курса по Spring Framework (today)
+- [Java0Tutor/1_Basics_of_software_code_development](https://github.com/Java0Tutor/1_Basics_of_software_code_development) (today)
+- [jmcooper/vuejs-fundamentals](https://github.com/jmcooper/vuejs-fundamentals) - Repo for working with the Pluralsight Vue Fundamentals course (today)
+- [jmcooper/angular-fundamentals-files](https://github.com/jmcooper/angular-fundamentals-files) (today)
 
 ## 🔨 Latest Pull Requests I published
 
