@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [anasmohammad611](https://github.com/anasmohammad611)
 - [murapadev](https://github.com/murapadev)
 - [BEPb](https://github.com/BEPb)
 - [XiaomingX](https://github.com/XiaomingX)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [ishandutta2007](https://github.com/ishandutta2007)
 - [YASHWANTHGOWDAKS5](https://github.com/YASHWANTHGOWDAKS5)
 - [EncriptionFJ](https://github.com/EncriptionFJ)
-- [keidev123](https://github.com/keidev123)
 
 ## ⭐ Recent stars
 
-- [creocoder/yii2-taggable](https://github.com/creocoder/yii2-taggable) - The taggable behavior for the Yii framework. (today)
-- [creocoder/yii2-flysystem](https://github.com/creocoder/yii2-flysystem) - The Flysystem integration for the Yii framework. (today)
-- [creocoder/yii2-nested-sets](https://github.com/creocoder/yii2-nested-sets) - The nested sets behavior for the Yii framework. (today)
-- [nathanboktae/robust-websocket](https://github.com/nathanboktae/robust-websocket) - A robust reconnecting WebSocket client for the browser (today)
-- [nathanboktae/mocha-phantomjs](https://github.com/nathanboktae/mocha-phantomjs) - :coffee: :ghost: Run client-side mocha tests in the command line through phantomjs (today)
+- [chenxuan0000/vue-seamless-scroll](https://github.com/chenxuan0000/vue-seamless-scroll) -  :beginner:A simple, seamless scrolling for Vue.js  vue无缝滚动component (today)
+- [codef0rmer/angular-dragdrop](https://github.com/codef0rmer/angular-dragdrop) - Implementing jQueryUI Drag and Drop functionality in AngularJS (with Animation) is easier than ever (today)
+- [minwe/jetbrains-react](https://github.com/minwe/jetbrains-react) - React.js live templates for JetBrains editors. (today)
+- [markgoodyear/headhesive.js](https://github.com/markgoodyear/headhesive.js) - An on-demand sticky header. (today)
+- [markgoodyear/scrollup](https://github.com/markgoodyear/scrollup) (today)
 
 ## 🔨 Latest Pull Requests I published
 
