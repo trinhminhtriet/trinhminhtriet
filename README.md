@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [BEPb](https://github.com/BEPb)
 - [XiaomingX](https://github.com/XiaomingX)
 - [levonk](https://github.com/levonk)
 - [am5363075-del](https://github.com/am5363075-del)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [EncriptionFJ](https://github.com/EncriptionFJ)
 - [keidev123](https://github.com/keidev123)
 - [ckormanyos](https://github.com/ckormanyos)
-- [sonukumar-418](https://github.com/sonukumar-418)
 
 ## ⭐ Recent stars
 
-- [Winderton/xplatform](https://github.com/Winderton/xplatform) - Реализация фундаментальных проектов с курса по Computer Science (today)
-- [NeilAlishev/SpringCourse](https://github.com/NeilAlishev/SpringCourse) - Сопровождающие материалы для курса по Spring Framework (today)
-- [Java0Tutor/1_Basics_of_software_code_development](https://github.com/Java0Tutor/1_Basics_of_software_code_development) (today)
-- [jmcooper/vuejs-fundamentals](https://github.com/jmcooper/vuejs-fundamentals) - Repo for working with the Pluralsight Vue Fundamentals course (today)
-- [jmcooper/angular-fundamentals-files](https://github.com/jmcooper/angular-fundamentals-files) (today)
+- [The-SourceCode/Discord.js-Bot-Development](https://github.com/The-SourceCode/Discord.js-Bot-Development) (today)
+- [noptrix/lulzbuster](https://github.com/noptrix/lulzbuster) - A very fast and smart web directory and file enumeration tool written in C. (today)
+- [noptrix/sshprank](https://github.com/noptrix/sshprank) - A fast SSH mass-scanner, login cracker and banner grabber tool using the python-masscan and shodan module. (today)
+- [r00t-3xp10it/resource_files](https://github.com/r00t-3xp10it/resource_files) - mosquito - Automating reconnaissance and brute force attacks (today)
+- [r00t-3xp10it/msf-auxiliarys](https://github.com/r00t-3xp10it/msf-auxiliarys) - My collection of metasploit auxiliary post-modules (today)
 
 ## 🔨 Latest Pull Requests I published
 
