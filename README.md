@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [jahirfiquitiva/Kuper](https://github.com/jahirfiquitiva/Kuper) - Free, feature-rich, easily customizable Android dashboard for widgets apps with Zooper widgets and/or Kustom assets (Widgets, Wallpapers and Komponents) (today)
-- [jahirfiquitiva/FABsMenu](https://github.com/jahirfiquitiva/FABsMenu) - A simple library to use a menu of FloatingActionButtons from Design Support Library that follow Material Design Guidelines (today)
-- [jahirfiquitiva/jahir.dev](https://github.com/jahirfiquitiva/jahir.dev) - My (previous) personal website ☻  –  Built using Next.js, TypeScript, Tailwind CSS and MDX (today)
-- [jahirfiquitiva/Frames](https://github.com/jahirfiquitiva/Frames) - Free, feature-rich, easily customizable Android dashboard for wallpapers apps (today)
-- [jahirfiquitiva/Blueprint](https://github.com/jahirfiquitiva/Blueprint) - Free, feature-rich, easily customizable Android dashboard for icon packs (today)
+- [xairy/mipt-ctf](https://github.com/xairy/mipt-ctf) - A small course on CTF (wargames) for beginners [in Russian] (today)
+- [xairy/usb-hacking](https://github.com/xairy/usb-hacking) - Collection of USB hacking links and materials for my talk on the topic (today)
+- [xairy/raw-gadget](https://github.com/xairy/raw-gadget) - USB Raw Gadget — a low-level interface for the Linux USB Gadget subsystem (today)
+- [xairy/lights-out](https://github.com/xairy/lights-out) - Tools for controlling webcam LED on ThinkPad X230 (today)
+- [xairy/easy-linux-pwn](https://github.com/xairy/easy-linux-pwn) - A set of Linux binary exploitation tasks for beginners on various architectures (today)
 
 ## 🔨 Latest Pull Requests I published
 
