@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [XiaomingX](https://github.com/XiaomingX)
 - [levonk](https://github.com/levonk)
 - [am5363075-del](https://github.com/am5363075-del)
 - [MakderIAKO](https://github.com/MakderIAKO)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [keidev123](https://github.com/keidev123)
 - [ckormanyos](https://github.com/ckormanyos)
 - [sonukumar-418](https://github.com/sonukumar-418)
-- [Happycocain](https://github.com/Happycocain)
 
 ## ⭐ Recent stars
 
-- [steveklabnik/doxidize](https://github.com/steveklabnik/doxidize) - Amazing documentation tooling for Rust (today)
-- [steveklabnik/simple-server](https://github.com/steveklabnik/simple-server) - A simple webserver built on top of the Rust standard library and the http crate. (today)
-- [steveklabnik/rue](https://github.com/steveklabnik/rue) - A programming language that is a minimal subset of Rust (today)
-- [steveklabnik/automatically_update_github_pages_with_travis_example](https://github.com/steveklabnik/automatically_update_github_pages_with_travis_example) - An example of automatically updating GitHub Pages when you're using Travis CI. (today)
-- [steveklabnik/jujutsu-tutorial](https://github.com/steveklabnik/jujutsu-tutorial) - trying to figure out this jujutsu thing (today)
+- [TooTallNate/node-http-proxy-agent](https://github.com/TooTallNate/node-http-proxy-agent) - An HTTP(s) proxy `http.Agent` implementation for HTTP endpoints (today)
+- [TooTallNate/node-nat-pmp](https://github.com/TooTallNate/node-nat-pmp) - Node.js implementation of the NAT Port Mapping Protocol (today)
+- [TooTallNate/superagent-proxy](https://github.com/TooTallNate/superagent-proxy) - `Request#proxy(uri)` superagent extension (today)
+- [TooTallNate/node-wav](https://github.com/TooTallNate/node-wav) - `Reader` and `Writer` streams for Microsoft WAVE audio files (today)
+- [TooTallNate/node-throttle](https://github.com/TooTallNate/node-throttle) - Node.js Transform stream that passes data through at `n` bytes per second (today)
 
 ## 🔨 Latest Pull Requests I published
 
