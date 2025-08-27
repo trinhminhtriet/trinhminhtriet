@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [CarinaMendesDev](https://github.com/CarinaMendesDev)
 - [VictoriaCabirta](https://github.com/VictoriaCabirta)
 - [EgeOnderX](https://github.com/EgeOnderX)
 - [nshutifabrice09](https://github.com/nshutifabrice09)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [hwan001](https://github.com/hwan001)
 - [azlkiniue](https://github.com/azlkiniue)
 - [Alitindrawan24](https://github.com/Alitindrawan24)
-- [sorairolake](https://github.com/sorairolake)
 
 ## ⭐ Recent stars
 
-- [JosephZhu1983/java-common-mistakes](https://github.com/JosephZhu1983/java-common-mistakes) - 书籍《Java 开发坑点解析：从根因分析到最佳实践》 & 极客时间专栏《Java业务开发常见错误100例》源码 (today)
-- [cirry/astro-yi](https://github.com/cirry/astro-yi) - Astro Theme YI. A simple and lightweight blog theme for Astro. (today)
-- [forijk/vue-audio-better](https://github.com/forijk/vue-audio-better) - :stuck_out_tongue_winking_eye: :stuck_out_tongue_winking_eye: :stuck_out_tongue_winking_eye: Easy to create custom audio player components for Vue. 一个有灵魂的进度条。 A progress bar with soul. (today)
-- [nihaojob/DragLayout](https://github.com/nihaojob/DragLayout) - 使用react 和 sortablejs 实现的页面拖拽Demo  (today)
-- [nihaojob/popular-message](https://github.com/nihaojob/popular-message) - 轻量级的信息反馈组件 (today)
+- [travislang/gspro-garmin-connect-v2](https://github.com/travislang/gspro-garmin-connect-v2) (today)
+- [cloverstudio/Spika-Server](https://github.com/cloverstudio/Spika-Server) - Server backend system for Spika (today)
+- [cloverstudio/Spika](https://github.com/cloverstudio/Spika) - Spika is universal chat module with backend, web, ios and Android client. (today)
+- [thaiphan/magento2-s3](https://github.com/thaiphan/magento2-s3) - Use Amazon S3 as the file storage solution for your Magento 2 application (today)
+- [runabol/spring-security-passwordless](https://github.com/runabol/spring-security-passwordless) - Passwordless authentication example application using Spring Boot and Spring Security (today)
 
 ## 🔨 Latest Pull Requests I published
 
