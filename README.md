@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [VictoriaCabirta](https://github.com/VictoriaCabirta)
 - [EgeOnderX](https://github.com/EgeOnderX)
 - [nshutifabrice09](https://github.com/nshutifabrice09)
 - [Yekta-Ramzannasab](https://github.com/Yekta-Ramzannasab)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [azlkiniue](https://github.com/azlkiniue)
 - [Alitindrawan24](https://github.com/Alitindrawan24)
 - [sorairolake](https://github.com/sorairolake)
-- [murapadev](https://github.com/murapadev)
 
 ## ⭐ Recent stars
 
