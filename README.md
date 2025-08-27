@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [jagenjo/litefilesystem.js](https://github.com/jagenjo/litefilesystem.js) - Library with client (js) and serverside (php) to have a filesystem with previews, quotas, metadata, and multiple users with privileges. (today)
-- [jagenjo/litegui.js](https://github.com/jagenjo/litegui.js) - Javascript Library to create webapps with a desktop look-alike interface. All the widgets are created from Javascript instead of using HTML. (today)
-- [jagenjo/Canvas2DtoWebGL](https://github.com/jagenjo/Canvas2DtoWebGL) - Ports (almost) all Canvas2D functions to the GPU so it can be mixed with a WebGL canvas. (today)
-- [jagenjo/litescene.js](https://github.com/jagenjo/litescene.js) - A WebGL 3D Engine library with component-based node hierarchy. Used by WebGLStudio (today)
-- [jagenjo/litegl.js](https://github.com/jagenjo/litegl.js) - Lightweight Javascript WebGL library for handling Context, Meshes, Textures and Shaders. Relies on glMatrix 2.0, very easy to use. (today)
+- [nuuneoi/StatedFragment](https://github.com/nuuneoi/StatedFragment) - Deprecated (today)
+- [nuuneoi/Lab-Android-DesignLibrary](https://github.com/nuuneoi/Lab-Android-DesignLibrary) (today)
+- [AaronCCWong/react-card-flip](https://github.com/AaronCCWong/react-card-flip) - React component for card flipping animation. (today)
+- [portsmouth/Trinity](https://github.com/portsmouth/Trinity) - Programmable 3D fluid simulator running in WebGL. (today)
+- [portsmouth/snelly](https://github.com/portsmouth/snelly) - A WebGL SDF pathtracer (today)
 
 ## 🔨 Latest Pull Requests I published
 
