@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [ccjensen/PlexMediaTagger](https://github.com/ccjensen/PlexMediaTagger) - Uses the metadata held in the PlexMediaServer to tag media files (today)
-- [krig/go-sox](https://github.com/krig/go-sox) - libsox bindings for go (today)
-- [krig/LISP](https://github.com/krig/LISP) - Lisp interpreter implementations in C and Odin, including a copying garbage collector and an implementation of LISP 1.5 from 1962. (today)
-- [psineur/NSObject-AutomagicCoding](https://github.com/psineur/NSObject-AutomagicCoding) - Ability to save every object to PLIST without any special coding. (today)
-- [Alecaddd/WordPress101](https://github.com/Alecaddd/WordPress101) - Public Repository for the tutorial series "Wordpress 101 for beginner develoeprs" (today)
+- [MarvNC/yomitan-dictionaries](https://github.com/MarvNC/yomitan-dictionaries) - 📚 Japanese and Chinese dictionaries for Yomitan. (today)
+- [SeanDaBlack/AbBOT](https://github.com/SeanDaBlack/AbBOT) (today)
+- [SeanDaBlack/KelloggBot](https://github.com/SeanDaBlack/KelloggBot) - Kellogg bad | Union good | Support strike funds (today)
+- [shivekkhurana/appuity-frontend](https://github.com/shivekkhurana/appuity-frontend) - React codebase and Fractal demo. (today)
+- [2019ChenGong/RL-Paper-notes](https://github.com/2019ChenGong/RL-Paper-notes) (today)
 
 ## 🔨 Latest Pull Requests I published
 
