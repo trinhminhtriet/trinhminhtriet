@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [doe300/VC4CL](https://github.com/doe300/VC4CL) - OpenCL implementation running on the VideoCore IV GPU of the Raspberry Pi models (today)
-- [ptillet/torch-blocksparse](https://github.com/ptillet/torch-blocksparse) - Block-sparse primitives for PyTorch (today)
-- [CNugteren/myGEMM](https://github.com/CNugteren/myGEMM) - Code appendix to an OpenCL matrix-multiplication tutorial (today)
-- [CNugteren/CLTune](https://github.com/CNugteren/CLTune) - CLTune: An automatic OpenCL & CUDA kernel tuner (today)
-- [CNugteren/CLBlast](https://github.com/CNugteren/CLBlast) - Tuned OpenCL BLAS (today)
+- [0age/create2crunch](https://github.com/0age/create2crunch) - A Rust program for finding salts that create gas-efficient Ethereum addresses via CREATE2. (today)
+- [0age/metamorphic](https://github.com/0age/metamorphic) - A factory contract for creating metamorphic (i.e. redeployable) contracts. (today)
+- [mattbierbaum/arxiv-bib-overlay](https://github.com/mattbierbaum/arxiv-bib-overlay) - Providing references and citations on abstract pages for the arXiv (today)
+- [mattbierbaum/arxiv-public-datasets](https://github.com/mattbierbaum/arxiv-public-datasets) - A set of scripts to grab public datasets from resources related to arXiv (today)
+- [jzilly/RecurrentHighwayNetworks](https://github.com/jzilly/RecurrentHighwayNetworks) - Recurrent Highway Networks - Implementations for Tensorflow, Torch7, Theano and Brainstorm (today)
 
 ## 🔨 Latest Pull Requests I published
 
