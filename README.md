@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [jonny12375/rp3a0](https://github.com/jonny12375/rp3a0) - Reverse engineering the RP3A0 SoC from the Raspberry Pi Zero 2W (today)
-- [bluewings/pug-as-jsx-loader](https://github.com/bluewings/pug-as-jsx-loader) (1 day ago)
-- [bluewings/korean-regexp](https://github.com/bluewings/korean-regexp) (1 day ago)
-- [hctilg/root-termux](https://github.com/hctilg/root-termux) - install pseudo-root(sudo) in the termux  (1 day ago)
-- [esanchezros/quickfixj-spring-boot-starter](https://github.com/esanchezros/quickfixj-spring-boot-starter) - Spring Boot Starter for QuickFIX/J (1 day ago)
+- [adonovan/spaghetti](https://github.com/adonovan/spaghetti) - Spaghetti: a dependency analysis tool for Go packages (today)
+- [adonovan/gopl.io](https://github.com/adonovan/gopl.io) - Example programs from "The Go Programming Language" (today)
+- [davecheney/presentations](https://github.com/davecheney/presentations) - Blah, blah, blah. Did I tell you that I think Go is awesome sauce ? (today)
+- [davecheney/mdns](https://github.com/davecheney/mdns) - Multicast DNS library for Go (today)
+- [davecheney/gpio](https://github.com/davecheney/gpio) - GPIO for Go (today)
 
 ## 🔨 Latest Pull Requests I published
 
