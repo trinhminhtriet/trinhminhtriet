@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [EgeOnderX](https://github.com/EgeOnderX)
 - [nshutifabrice09](https://github.com/nshutifabrice09)
 - [Yekta-Ramzannasab](https://github.com/Yekta-Ramzannasab)
 - [mariojgt](https://github.com/mariojgt)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Alitindrawan24](https://github.com/Alitindrawan24)
 - [sorairolake](https://github.com/sorairolake)
 - [murapadev](https://github.com/murapadev)
-- [BEPb](https://github.com/BEPb)
 
 ## ⭐ Recent stars
 
-- [Keno/julia-wasm](https://github.com/Keno/julia-wasm) - Running julia on wasm (today)
-- [mraible/jhipster6-demo](https://github.com/mraible/jhipster6-demo) - JHipster 6 Demo! 🎉 (today)
-- [mraible/jhipster4-demo](https://github.com/mraible/jhipster4-demo) - Blog demo app with JHipster 4 (today)
-- [mraible/infoq-mini-book](https://github.com/mraible/infoq-mini-book) - Template project for creating an InfoQ Mini-Book with Asciidoctor (today)
-- [mraible/ng-demo](https://github.com/mraible/ng-demo) - 🦴 Bare Bones Angular and Angular CLI Tutorial (today)
+- [jagenjo/litefilesystem.js](https://github.com/jagenjo/litefilesystem.js) - Library with client (js) and serverside (php) to have a filesystem with previews, quotas, metadata, and multiple users with privileges. (today)
+- [jagenjo/litegui.js](https://github.com/jagenjo/litegui.js) - Javascript Library to create webapps with a desktop look-alike interface. All the widgets are created from Javascript instead of using HTML. (today)
+- [jagenjo/Canvas2DtoWebGL](https://github.com/jagenjo/Canvas2DtoWebGL) - Ports (almost) all Canvas2D functions to the GPU so it can be mixed with a WebGL canvas. (today)
+- [jagenjo/litescene.js](https://github.com/jagenjo/litescene.js) - A WebGL 3D Engine library with component-based node hierarchy. Used by WebGLStudio (today)
+- [jagenjo/litegl.js](https://github.com/jagenjo/litegl.js) - Lightweight Javascript WebGL library for handling Context, Meshes, Textures and Shaders. Relies on glMatrix 2.0, very easy to use. (today)
 
 ## 🔨 Latest Pull Requests I published
 
