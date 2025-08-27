@@ -46,11 +46,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [fernandoncidade](https://github.com/fernandoncidade)
 - [hwan001](https://github.com/hwan001)
 - [azlkiniue](https://github.com/azlkiniue)
 - [Alitindrawan24](https://github.com/Alitindrawan24)
 - [sorairolake](https://github.com/sorairolake)
-- [anasmohammad611](https://github.com/anasmohammad611)
 - [murapadev](https://github.com/murapadev)
 - [BEPb](https://github.com/BEPb)
 - [XiaomingX](https://github.com/XiaomingX)
