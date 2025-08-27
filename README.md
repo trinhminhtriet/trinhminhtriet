@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [nuuneoi/StatedFragment](https://github.com/nuuneoi/StatedFragment) - Deprecated (today)
-- [nuuneoi/Lab-Android-DesignLibrary](https://github.com/nuuneoi/Lab-Android-DesignLibrary) (today)
-- [AaronCCWong/react-card-flip](https://github.com/AaronCCWong/react-card-flip) - React component for card flipping animation. (today)
-- [portsmouth/Trinity](https://github.com/portsmouth/Trinity) - Programmable 3D fluid simulator running in WebGL. (today)
-- [portsmouth/snelly](https://github.com/portsmouth/snelly) - A WebGL SDF pathtracer (today)
+- [benmvp/react-esnext](https://github.com/benmvp/react-esnext) - Official React tutorial rewritten in ES.next (today)
+- [benmvp/react-workshop](https://github.com/benmvp/react-workshop) - A step-by-step workshop for learning React fundamentals while building an app (today)
+- [benmvp/frontend-confs](https://github.com/benmvp/frontend-confs) - Frontend Conferences for Speaking (today)
+- [ichtrojan/nigerian-banks](https://github.com/ichtrojan/nigerian-banks) - An API that provides Nigerian bank logos, slug and code. (today)
+- [ichtrojan/laravel-location](https://github.com/ichtrojan/laravel-location) - A simple Laravel Package to sort Countries, States and Cities  (today)
 
 ## 🔨 Latest Pull Requests I published
 
