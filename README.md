@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [MarvNC/yomitan-dictionaries](https://github.com/MarvNC/yomitan-dictionaries) - 📚 Japanese and Chinese dictionaries for Yomitan. (today)
-- [SeanDaBlack/AbBOT](https://github.com/SeanDaBlack/AbBOT) (today)
-- [SeanDaBlack/KelloggBot](https://github.com/SeanDaBlack/KelloggBot) - Kellogg bad | Union good | Support strike funds (today)
-- [shivekkhurana/appuity-frontend](https://github.com/shivekkhurana/appuity-frontend) - React codebase and Fractal demo. (today)
-- [2019ChenGong/RL-Paper-notes](https://github.com/2019ChenGong/RL-Paper-notes) (today)
+- [thilowrona/seismic_deep_learning](https://github.com/thilowrona/seismic_deep_learning) - A couple of python scripts to interpret geological structures from geophysical images using deep learning (today)
+- [tot-ra/graphql-schema-registry](https://github.com/tot-ra/graphql-schema-registry) - GraphQL schema registry (today)
+- [Iktwo/QuteLauncher](https://github.com/Iktwo/QuteLauncher) - QML Android Launcher (today)
+- [wolfparticle/machineLearningDeepLearning](https://github.com/wolfparticle/machineLearningDeepLearning) - 李宏毅2021机器学习深度学习笔记PPT作业 (today)
+- [benmoseley/FBPINNs](https://github.com/benmoseley/FBPINNs) - Solve forward and inverse problems related to partial differential equations using finite basis physics-informed neural networks (FBPINNs) (today)
 
 ## 🔨 Latest Pull Requests I published
 
