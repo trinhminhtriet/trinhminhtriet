@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [benmvp/react-esnext](https://github.com/benmvp/react-esnext) - Official React tutorial rewritten in ES.next (today)
-- [benmvp/react-workshop](https://github.com/benmvp/react-workshop) - A step-by-step workshop for learning React fundamentals while building an app (today)
-- [benmvp/frontend-confs](https://github.com/benmvp/frontend-confs) - Frontend Conferences for Speaking (today)
-- [ichtrojan/nigerian-banks](https://github.com/ichtrojan/nigerian-banks) - An API that provides Nigerian bank logos, slug and code. (today)
-- [ichtrojan/laravel-location](https://github.com/ichtrojan/laravel-location) - A simple Laravel Package to sort Countries, States and Cities  (today)
+- [JosephZhu1983/java-common-mistakes](https://github.com/JosephZhu1983/java-common-mistakes) - 书籍《Java 开发坑点解析：从根因分析到最佳实践》 & 极客时间专栏《Java业务开发常见错误100例》源码 (today)
+- [cirry/astro-yi](https://github.com/cirry/astro-yi) - Astro Theme YI. A simple and lightweight blog theme for Astro. (today)
+- [forijk/vue-audio-better](https://github.com/forijk/vue-audio-better) - :stuck_out_tongue_winking_eye: :stuck_out_tongue_winking_eye: :stuck_out_tongue_winking_eye: Easy to create custom audio player components for Vue. 一个有灵魂的进度条。 A progress bar with soul. (today)
+- [nihaojob/DragLayout](https://github.com/nihaojob/DragLayout) - 使用react 和 sortablejs 实现的页面拖拽Demo  (today)
+- [nihaojob/popular-message](https://github.com/nihaojob/popular-message) - 轻量级的信息反馈组件 (today)
 
 ## 🔨 Latest Pull Requests I published
 
