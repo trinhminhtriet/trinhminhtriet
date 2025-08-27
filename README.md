@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [nshutifabrice09](https://github.com/nshutifabrice09)
+- [Yekta-Ramzannasab](https://github.com/Yekta-Ramzannasab)
 - [mariojgt](https://github.com/mariojgt)
 - [fernandoncidade](https://github.com/fernandoncidade)
 - [hwan001](https://github.com/hwan001)
@@ -54,16 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [sorairolake](https://github.com/sorairolake)
 - [murapadev](https://github.com/murapadev)
 - [BEPb](https://github.com/BEPb)
-- [XiaomingX](https://github.com/XiaomingX)
-- [levonk](https://github.com/levonk)
 
 ## ⭐ Recent stars
 
-- [dqbd/tiktoken](https://github.com/dqbd/tiktoken) - JS port and JS/WASM bindings for openai/tiktoken (today)
-- [dqbd/tiktokenizer](https://github.com/dqbd/tiktokenizer) - Online playground for OpenAPI tokenizers (today)
-- [vfarcic/jenkins-docker-ansible](https://github.com/vfarcic/jenkins-docker-ansible) (today)
-- [vfarcic/books-ms](https://github.com/vfarcic/books-ms) (today)
-- [vfarcic/vfarcic.github.io](https://github.com/vfarcic/vfarcic.github.io) (today)
+- [Keno/julia-wasm](https://github.com/Keno/julia-wasm) - Running julia on wasm (today)
+- [mraible/jhipster6-demo](https://github.com/mraible/jhipster6-demo) - JHipster 6 Demo! 🎉 (today)
+- [mraible/jhipster4-demo](https://github.com/mraible/jhipster4-demo) - Blog demo app with JHipster 4 (today)
+- [mraible/infoq-mini-book](https://github.com/mraible/infoq-mini-book) - Template project for creating an InfoQ Mini-Book with Asciidoctor (today)
+- [mraible/ng-demo](https://github.com/mraible/ng-demo) - 🦴 Bare Bones Angular and Angular CLI Tutorial (today)
 
 ## 🔨 Latest Pull Requests I published
 
