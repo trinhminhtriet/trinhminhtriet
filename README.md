@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [illegal-instruction-co](https://github.com/illegal-instruction-co)
 - [parhammohtasham](https://github.com/parhammohtasham)
 - [CarinaMendesDev](https://github.com/CarinaMendesDev)
 - [VictoriaCabirta](https://github.com/VictoriaCabirta)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [mariojgt](https://github.com/mariojgt)
 - [fernandoncidade](https://github.com/fernandoncidade)
 - [hwan001](https://github.com/hwan001)
-- [azlkiniue](https://github.com/azlkiniue)
 
 ## ⭐ Recent stars
 
-- [thilowrona/seismic_deep_learning](https://github.com/thilowrona/seismic_deep_learning) - A couple of python scripts to interpret geological structures from geophysical images using deep learning (today)
-- [tot-ra/graphql-schema-registry](https://github.com/tot-ra/graphql-schema-registry) - GraphQL schema registry (today)
-- [Iktwo/QuteLauncher](https://github.com/Iktwo/QuteLauncher) - QML Android Launcher (today)
-- [wolfparticle/machineLearningDeepLearning](https://github.com/wolfparticle/machineLearningDeepLearning) - 李宏毅2021机器学习深度学习笔记PPT作业 (today)
-- [benmoseley/FBPINNs](https://github.com/benmoseley/FBPINNs) - Solve forward and inverse problems related to partial differential equations using finite basis physics-informed neural networks (FBPINNs) (today)
+- [doe300/VC4CL](https://github.com/doe300/VC4CL) - OpenCL implementation running on the VideoCore IV GPU of the Raspberry Pi models (today)
+- [ptillet/torch-blocksparse](https://github.com/ptillet/torch-blocksparse) - Block-sparse primitives for PyTorch (today)
+- [CNugteren/myGEMM](https://github.com/CNugteren/myGEMM) - Code appendix to an OpenCL matrix-multiplication tutorial (today)
+- [CNugteren/CLTune](https://github.com/CNugteren/CLTune) - CLTune: An automatic OpenCL & CUDA kernel tuner (today)
+- [CNugteren/CLBlast](https://github.com/CNugteren/CLBlast) - Tuned OpenCL BLAS (today)
 
 ## 🔨 Latest Pull Requests I published
 
