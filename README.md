@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [parulnith/Face-Detection-in-Python-using-OpenCV](https://github.com/parulnith/Face-Detection-in-Python-using-OpenCV) - Face Detection with Python using OpenCV (today)
-- [parulnith/Building-a-Simple-Chatbot-in-Python-using-NLTK](https://github.com/parulnith/Building-a-Simple-Chatbot-in-Python-using-NLTK) - Building a Simple Chatbot from Scratch in Python (using NLTK) (today)
-- [yogeshhk/TeachingDataScience](https://github.com/yogeshhk/TeachingDataScience) - Course notes for Data Science related topics, prepared in LaTeX (today)
-- [MuhammadBilalYar/Hadoop-On-Window](https://github.com/MuhammadBilalYar/Hadoop-On-Window) - HADOOP 2.8.0 (22 March, 2017) INSTALLATION ON WINDOW 10 (today)
-- [milinda/kappa-architecture.com](https://github.com/milinda/kappa-architecture.com) - A repository of information, implementations and examples around the Kappa Architecture (today)
+- [Gutem/http-api-design](https://github.com/Gutem/http-api-design) - HTTP API design guide extracted from work on the Heroku Platform API (today)
+- [Idov31/NovaHypervisor](https://github.com/Idov31/NovaHypervisor) - NovaHypervisor is a defensive x64 Intel host based hypervisor. The goal of this project is to protect against kernel based attacks (either via Bring Your Own Vulnerable Driver (BYOVD) or other means) by safeguarding defense products (AntiVirus / Endpoint Protection) and kernel memory structures and preventing unauthorized access to kernel memory. (today)
+- [Idov31/Jormungandr](https://github.com/Idov31/Jormungandr) - Jormungandr is a kernel implementation of a COFF loader, allowing kernel developers to load and execute their COFFs in the kernel.  (today)
+- [Idov31/MrKaplan](https://github.com/Idov31/MrKaplan) - MrKaplan is a tool aimed to help red teamers to stay hidden by clearing evidence of execution. (today)
+- [Idov31/Venom](https://github.com/Idov31/Venom) - Venom is a library that meant to perform evasive communication using stolen browser socket (today)
 
 ## 🔨 Latest Pull Requests I published
 
