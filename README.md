@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [mariojgt](https://github.com/mariojgt)
 - [fernandoncidade](https://github.com/fernandoncidade)
 - [hwan001](https://github.com/hwan001)
 - [azlkiniue](https://github.com/azlkiniue)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [BEPb](https://github.com/BEPb)
 - [XiaomingX](https://github.com/XiaomingX)
 - [levonk](https://github.com/levonk)
-- [am5363075-del](https://github.com/am5363075-del)
 
 ## ⭐ Recent stars
 
-- [XuehaiPan/nvitop](https://github.com/XuehaiPan/nvitop) - An interactive NVIDIA-GPU process viewer and beyond, the one-stop solution for GPU process management. (today)
-- [joelittlejohn/jsonschema2pojo](https://github.com/joelittlejohn/jsonschema2pojo) - Generate Java types from JSON or JSON Schema and annotate those types for data-binding with Jackson, Gson, etc (today)
-- [zimbatm/mdsh](https://github.com/zimbatm/mdsh) - `$ mdsh` # a markdown shell pre-processor (today)
-- [zimbatm/ffmpeg-static](https://github.com/zimbatm/ffmpeg-static) - Scripts to build ffmpeg with all the deps statically (webm + h264 included) (today)
-- [zimbatm/socketmaster](https://github.com/zimbatm/socketmaster) - Zero downtime restarts for your apps (today)
+- [dqbd/tiktoken](https://github.com/dqbd/tiktoken) - JS port and JS/WASM bindings for openai/tiktoken (today)
+- [dqbd/tiktokenizer](https://github.com/dqbd/tiktokenizer) - Online playground for OpenAPI tokenizers (today)
+- [vfarcic/jenkins-docker-ansible](https://github.com/vfarcic/jenkins-docker-ansible) (today)
+- [vfarcic/books-ms](https://github.com/vfarcic/books-ms) (today)
+- [vfarcic/vfarcic.github.io](https://github.com/vfarcic/vfarcic.github.io) (today)
 
 ## 🔨 Latest Pull Requests I published
 
