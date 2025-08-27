@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [parhammohtasham](https://github.com/parhammohtasham)
 - [CarinaMendesDev](https://github.com/CarinaMendesDev)
 - [VictoriaCabirta](https://github.com/VictoriaCabirta)
 - [EgeOnderX](https://github.com/EgeOnderX)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [fernandoncidade](https://github.com/fernandoncidade)
 - [hwan001](https://github.com/hwan001)
 - [azlkiniue](https://github.com/azlkiniue)
-- [Alitindrawan24](https://github.com/Alitindrawan24)
 
 ## ⭐ Recent stars
 
-- [travislang/gspro-garmin-connect-v2](https://github.com/travislang/gspro-garmin-connect-v2) (today)
-- [cloverstudio/Spika-Server](https://github.com/cloverstudio/Spika-Server) - Server backend system for Spika (today)
-- [cloverstudio/Spika](https://github.com/cloverstudio/Spika) - Spika is universal chat module with backend, web, ios and Android client. (today)
-- [thaiphan/magento2-s3](https://github.com/thaiphan/magento2-s3) - Use Amazon S3 as the file storage solution for your Magento 2 application (today)
-- [runabol/spring-security-passwordless](https://github.com/runabol/spring-security-passwordless) - Passwordless authentication example application using Spring Boot and Spring Security (today)
+- [parulnith/Face-Detection-in-Python-using-OpenCV](https://github.com/parulnith/Face-Detection-in-Python-using-OpenCV) - Face Detection with Python using OpenCV (today)
+- [parulnith/Building-a-Simple-Chatbot-in-Python-using-NLTK](https://github.com/parulnith/Building-a-Simple-Chatbot-in-Python-using-NLTK) - Building a Simple Chatbot from Scratch in Python (using NLTK) (today)
+- [yogeshhk/TeachingDataScience](https://github.com/yogeshhk/TeachingDataScience) - Course notes for Data Science related topics, prepared in LaTeX (today)
+- [MuhammadBilalYar/Hadoop-On-Window](https://github.com/MuhammadBilalYar/Hadoop-On-Window) - HADOOP 2.8.0 (22 March, 2017) INSTALLATION ON WINDOW 10 (today)
+- [milinda/kappa-architecture.com](https://github.com/milinda/kappa-architecture.com) - A repository of information, implementations and examples around the Kappa Architecture (today)
 
 ## 🔨 Latest Pull Requests I published
 
