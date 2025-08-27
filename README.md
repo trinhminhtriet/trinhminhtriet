@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [adonovan/spaghetti](https://github.com/adonovan/spaghetti) - Spaghetti: a dependency analysis tool for Go packages (today)
-- [adonovan/gopl.io](https://github.com/adonovan/gopl.io) - Example programs from "The Go Programming Language" (today)
-- [davecheney/presentations](https://github.com/davecheney/presentations) - Blah, blah, blah. Did I tell you that I think Go is awesome sauce ? (today)
-- [davecheney/mdns](https://github.com/davecheney/mdns) - Multicast DNS library for Go (today)
-- [davecheney/gpio](https://github.com/davecheney/gpio) - GPIO for Go (today)
+- [bombsimon/awesome-garmin](https://github.com/bombsimon/awesome-garmin) - A list of Garmin application, both for Garmin devices and other tools (today)
+- [bombsimon/wsl](https://github.com/bombsimon/wsl) - ␊ whitespace linter - Forces you to use empty lines! (today)
+- [digama0/lean-type-theory](https://github.com/digama0/lean-type-theory) - LaTeX code for a paper on lean's type theory (today)
+- [digama0/mm0](https://github.com/digama0/mm0) - Metamath Zero specification language (today)
+- [PThorpe92/CuTE](https://github.com/PThorpe92/CuTE) - HTTP client/libcurl TUI front end in Rust, with request + key storage (today)
 
 ## 🔨 Latest Pull Requests I published
 
