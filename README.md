@@ -33,19 +33,21 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👷 Check out what I'm currently working on
 
-- [nctl-io/.github](https://github.com/nctl-io/.github) - 🌐 Network. Connect. Transform. Lead. (today)
-- [nctl-io/nctl-branding](https://github.com/nctl-io/nctl-branding) - NCTL Branding 🖼️: Centralized assets and guidelines for consistent visual identity across NCTL projects and platforms. (today)
-- [nctl-io/nctl-homepage](https://github.com/nctl-io/nctl-homepage) - 🚀 Modern homepage for NCTL: fast, responsive, TypeScript-powered, open source, and easy to customize. (today)
-- [trinhminhtriet/sizr](https://github.com/trinhminhtriet/sizr) - 📈 A fast, Rust-based tool to analyze file system usage with colorful output, file aggregation, exclusions, and directory comparisons. (1 day ago)
-- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (1 day ago)
-- [trinhminhtriet/blast](https://github.com/trinhminhtriet/blast) - 🚀 Blast: A powerful, lightweight HTTP load generator for stress testing and benchmarking web applications with ease. (2 days ago)
-- [rust-rs/tabler](https://github.com/rust-rs/tabler) - 📊 Tabler: A lightweight TUI tool to view, query, and navigate CSV, TSV, and Parquet data files. (2 days ago)
-- [trinhminhtriet/spiko](https://github.com/trinhminhtriet/spiko) - 🚀 Spiko is a fast, Rust-based load testing tool with a beautiful TUI for real-time insights. (2 days ago)
-- [trinhminhtriet/java-skel-cli](https://github.com/trinhminhtriet/java-skel-cli) - 🦴 Skel CLI: A command-line tool for generating project skeletons in multiple languages, fast and customizable. (2 days ago)
-- [trinhminhtriet/github-toolkit](https://github.com/trinhminhtriet/github-toolkit) - github-toolkit: Scrapes GitHub developers, followers, repositories into MySQL database. (4 days ago)
+- [nctl-io/.github](https://github.com/nctl-io/.github) - 🌐 Network. Connect. Transform. Lead. (1 day ago)
+- [nctl-io/nctl-branding](https://github.com/nctl-io/nctl-branding) - NCTL Branding 🖼️: Centralized assets and guidelines for consistent visual identity across NCTL projects and platforms. (1 day ago)
+- [nctl-io/nctl-homepage](https://github.com/nctl-io/nctl-homepage) - 🚀 Modern homepage for NCTL: fast, responsive, TypeScript-powered, open source, and easy to customize. (1 day ago)
+- [trinhminhtriet/sizr](https://github.com/trinhminhtriet/sizr) - 📈 A fast, Rust-based tool to analyze file system usage with colorful output, file aggregation, exclusions, and directory comparisons. (2 days ago)
+- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (2 days ago)
+- [trinhminhtriet/blast](https://github.com/trinhminhtriet/blast) - 🚀 Blast: A powerful, lightweight HTTP load generator for stress testing and benchmarking web applications with ease. (3 days ago)
+- [rust-rs/tabler](https://github.com/rust-rs/tabler) - 📊 Tabler: A lightweight TUI tool to view, query, and navigate CSV, TSV, and Parquet data files. (3 days ago)
+- [trinhminhtriet/spiko](https://github.com/trinhminhtriet/spiko) - 🚀 Spiko is a fast, Rust-based load testing tool with a beautiful TUI for real-time insights. (3 days ago)
+- [trinhminhtriet/java-skel-cli](https://github.com/trinhminhtriet/java-skel-cli) - 🦴 Skel CLI: A command-line tool for generating project skeletons in multiple languages, fast and customizable. (3 days ago)
+- [trinhminhtriet/github-toolkit](https://github.com/trinhminhtriet/github-toolkit) - github-toolkit: Scrapes GitHub developers, followers, repositories into MySQL database. (5 days ago)
 
 ## 👯 Check out my recent followers
 
+- [azlkiniue](https://github.com/azlkiniue)
+- [Alitindrawan24](https://github.com/Alitindrawan24)
 - [sorairolake](https://github.com/sorairolake)
 - [anasmohammad611](https://github.com/anasmohammad611)
 - [murapadev](https://github.com/murapadev)
@@ -54,16 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [levonk](https://github.com/levonk)
 - [am5363075-del](https://github.com/am5363075-del)
 - [MakderIAKO](https://github.com/MakderIAKO)
-- [ishandutta2007](https://github.com/ishandutta2007)
-- [YASHWANTHGOWDAKS5](https://github.com/YASHWANTHGOWDAKS5)
 
 ## ⭐ Recent stars
 
-- [bluewings/pug-as-jsx-loader](https://github.com/bluewings/pug-as-jsx-loader) (today)
-- [bluewings/korean-regexp](https://github.com/bluewings/korean-regexp) (today)
-- [hctilg/root-termux](https://github.com/hctilg/root-termux) - install pseudo-root(sudo) in the termux  (today)
-- [esanchezros/quickfixj-spring-boot-starter](https://github.com/esanchezros/quickfixj-spring-boot-starter) - Spring Boot Starter for QuickFIX/J (today)
-- [yoonje/developer-interview](https://github.com/yoonje/developer-interview) - 개발자 인터뷰 빈출 내용 정리 (today)
+- [bluewings/pug-as-jsx-loader](https://github.com/bluewings/pug-as-jsx-loader) (1 day ago)
+- [bluewings/korean-regexp](https://github.com/bluewings/korean-regexp) (1 day ago)
+- [hctilg/root-termux](https://github.com/hctilg/root-termux) - install pseudo-root(sudo) in the termux  (1 day ago)
+- [esanchezros/quickfixj-spring-boot-starter](https://github.com/esanchezros/quickfixj-spring-boot-starter) - Spring Boot Starter for QuickFIX/J (1 day ago)
+- [yoonje/developer-interview](https://github.com/yoonje/developer-interview) - 개발자 인터뷰 빈출 내용 정리 (1 day ago)
 
 ## 🔨 Latest Pull Requests I published
 
