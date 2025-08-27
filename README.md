@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [0age/create2crunch](https://github.com/0age/create2crunch) - A Rust program for finding salts that create gas-efficient Ethereum addresses via CREATE2. (today)
-- [0age/metamorphic](https://github.com/0age/metamorphic) - A factory contract for creating metamorphic (i.e. redeployable) contracts. (today)
-- [mattbierbaum/arxiv-bib-overlay](https://github.com/mattbierbaum/arxiv-bib-overlay) - Providing references and citations on abstract pages for the arXiv (today)
-- [mattbierbaum/arxiv-public-datasets](https://github.com/mattbierbaum/arxiv-public-datasets) - A set of scripts to grab public datasets from resources related to arXiv (today)
-- [jzilly/RecurrentHighwayNetworks](https://github.com/jzilly/RecurrentHighwayNetworks) - Recurrent Highway Networks - Implementations for Tensorflow, Torch7, Theano and Brainstorm (today)
+- [GengDavid/pytorch-cpn](https://github.com/GengDavid/pytorch-cpn) - A PyTorch re-implementation of CPN (Cascaded Pyramid Network for Multi-Person Pose Estimation) (today)
+- [gh18l/CrawlGPT](https://github.com/gh18l/CrawlGPT) (today)
+- [vivienzou1/DL-Notes-for-Interview](https://github.com/vivienzou1/DL-Notes-for-Interview) - deep learning/ machine learning (today)
+- [donnyyou/torch-segmentation](https://github.com/donnyyou/torch-segmentation) - Semantic Segmentation (today)
+- [donnyyou/cv-interview](https://github.com/donnyyou/cv-interview) - CV岗常见面试题(欢迎大家补充！！！) (today)
 
 ## 🔨 Latest Pull Requests I published
 
