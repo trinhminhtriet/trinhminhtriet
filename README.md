@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [Lachee/discord-rpc-csharp](https://github.com/Lachee/discord-rpc-csharp) - C# custom implementation for Discord Rich Presence. Not deprecated and still available!  (today)
-- [robertwayne/axum-htmx](https://github.com/robertwayne/axum-htmx) - A set of htmx extractors, responders, and request guards for axum. (today)
-- [rosgos/Mirai-Source-Code](https://github.com/rosgos/Mirai-Source-Code) (today)
-- [le4f/dnsmaper](https://github.com/le4f/dnsmaper) - 子域名枚举与地图标记 (today)
-- [le4f/pcap-analyzer](https://github.com/le4f/pcap-analyzer) - online pcap forensic (today)
+- [ccjensen/PlexMediaTagger](https://github.com/ccjensen/PlexMediaTagger) - Uses the metadata held in the PlexMediaServer to tag media files (today)
+- [krig/go-sox](https://github.com/krig/go-sox) - libsox bindings for go (today)
+- [krig/LISP](https://github.com/krig/LISP) - Lisp interpreter implementations in C and Odin, including a copying garbage collector and an implementation of LISP 1.5 from 1962. (today)
+- [psineur/NSObject-AutomagicCoding](https://github.com/psineur/NSObject-AutomagicCoding) - Ability to save every object to PLIST without any special coding. (today)
+- [Alecaddd/WordPress101](https://github.com/Alecaddd/WordPress101) - Public Repository for the tutorial series "Wordpress 101 for beginner develoeprs" (today)
 
 ## 🔨 Latest Pull Requests I published
 
