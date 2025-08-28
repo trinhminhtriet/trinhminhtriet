@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [vxCrypt0r/AMSI_VEH](https://github.com/vxCrypt0r/AMSI_VEH) - A Powershell AMSI Bypass technique via Vectored Exception Handler (VEH). This technique does not perform assembly instruction patching, function hooking or Import Address Table (IAT) modification. (today)
-- [vxCrypt0r/Voidmaw](https://github.com/vxCrypt0r/Voidmaw) - A new technique that can be used to bypass memory scanners. This can be useful in hiding problematic code (such as reflective loaders implemented by C2 beacons) or other problematic executables that will be flagged by the antimalware programs(such as mimikatz). (today)
-- [vxCrypt0r/Voidgate](https://github.com/vxCrypt0r/Voidgate) - A technique that can be used to bypass AV/EDR memory scanners. This can be used to hide well-known and detected shellcodes (such as msfvenom) by performing on-the-fly decryption of individual encrypted assembly instructions, thus rendering memory scanners useless for that specific memory page. (today)
-- [AzeemIdrisi/PhoneSploit-Pro](https://github.com/AzeemIdrisi/PhoneSploit-Pro) - An all-in-one hacking tool to remotely exploit Android devices using ADB and Metasploit-Framework to get a Meterpreter session. (today)
-- [Pymmdrza/AttackAIO_Crypto](https://github.com/Pymmdrza/AttackAIO_Crypto) - Attack and Crack Private Key AIO (ALL in ONE) All Cryptocurency from words [HACK] (today)
+- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini (today)
+- [twpayne/go-jsonstruct](https://github.com/twpayne/go-jsonstruct) - Generate Go structs from multiple JSON or YAML objects. (today)
+- [twpayne/dotfiles](https://github.com/twpayne/dotfiles) - My dotfiles, managed with https://chezmoi.io. (today)
+- [twpayne/go-geom](https://github.com/twpayne/go-geom) - Package geom implements efficient geometry types for geospatial applications. (today)
+- [codinfox/codinfox-lanyon](https://github.com/codinfox/codinfox-lanyon) - Another jekyll templated based on lanyon (today)
 
 ## 🔨 Latest Pull Requests I published
 
