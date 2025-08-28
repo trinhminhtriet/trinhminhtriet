@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [Kikobeats/free-email-domains](https://github.com/Kikobeats/free-email-domains) - A comprehensive list of all free email domain providers. (today)
-- [Kikobeats/tom](https://github.com/Kikobeats/tom) - tom 🐶 is a backoffice for your projects (today)
-- [Kikobeats/cacheable-response](https://github.com/Kikobeats/cacheable-response) - An HTTP compliant route path middleware for serving cache response with invalidation support. (today)
-- [Kikobeats/awesome-cli](https://github.com/Kikobeats/awesome-cli) - A curated list of awesome resources for building immersive CLI experiences. (today)
-- [Kikobeats/awesome-network-js](https://github.com/Kikobeats/awesome-network-js) - A :tophat: list of network layer resources written pure JS. (today)
+- [filhodanuvem/awesome-php-jobs](https://github.com/filhodanuvem/awesome-php-jobs) - 🐘A curated list of companies using php  (today)
+- [filhodanuvem/gitql](https://github.com/filhodanuvem/gitql) - 💊 A git query language (today)
+- [selfthinker/CSS-Playing-Cards](https://github.com/selfthinker/CSS-Playing-Cards) - CSS Playing Cards help you to create simple and semantic playing cards in (X)HTML (today)
+- [johnkary/phpunit-speedtrap](https://github.com/johnkary/phpunit-speedtrap) - Reports on slow-running tests in your PHPUnit test suite (today)
+- [rcrowe/TwigBridge](https://github.com/rcrowe/TwigBridge) - Give the power of Twig to Laravel (today)
 
 ## 🔨 Latest Pull Requests I published
 
