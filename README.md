@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [atEMq963kO6](https://github.com/atEMq963kO6)
 - [Raquel-Fernandez](https://github.com/Raquel-Fernandez)
 - [achenachena](https://github.com/achenachena)
 - [illegal-instruction-co](https://github.com/illegal-instruction-co)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [EgeOnderX](https://github.com/EgeOnderX)
 - [nshutifabrice09](https://github.com/nshutifabrice09)
 - [Yekta-Ramzannasab](https://github.com/Yekta-Ramzannasab)
-- [mariojgt](https://github.com/mariojgt)
 
 ## ⭐ Recent stars
 
-- [danijar/mindpark](https://github.com/danijar/mindpark) - Testbed for deep reinforcement learning (today)
-- [danijar/layered](https://github.com/danijar/layered) - Clean implementation of feed forward neural networks (today)
-- [danijar/daydreamer](https://github.com/danijar/daydreamer) - DayDreamer: World Models for Physical Robot Learning (today)
-- [danijar/crafter](https://github.com/danijar/crafter) - Benchmarking the Spectrum of Agent Capabilities (today)
-- [danijar/dreamer](https://github.com/danijar/dreamer) - Dream to Control: Learning Behaviors by Latent Imagination (today)
+- [Kikobeats/free-email-domains](https://github.com/Kikobeats/free-email-domains) - A comprehensive list of all free email domain providers. (today)
+- [Kikobeats/tom](https://github.com/Kikobeats/tom) - tom 🐶 is a backoffice for your projects (today)
+- [Kikobeats/cacheable-response](https://github.com/Kikobeats/cacheable-response) - An HTTP compliant route path middleware for serving cache response with invalidation support. (today)
+- [Kikobeats/awesome-cli](https://github.com/Kikobeats/awesome-cli) - A curated list of awesome resources for building immersive CLI experiences. (today)
+- [Kikobeats/awesome-network-js](https://github.com/Kikobeats/awesome-network-js) - A :tophat: list of network layer resources written pure JS. (today)
 
 ## 🔨 Latest Pull Requests I published
 
