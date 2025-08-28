@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [dersonsena/clean-arch-pokemon](https://github.com/dersonsena/clean-arch-pokemon) - Clean Architecture de um modo divertido e prático integrando uma API com uma API de Pokémon. (today)
+- [jochenalt/Walter](https://github.com/jochenalt/Walter) - 6DOF Industrial Robot, vintage style (today)
 - [LilyAcorn/rest-framework-generic-relations](https://github.com/LilyAcorn/rest-framework-generic-relations) (today)
 - [jongacnik/gr8](https://github.com/jongacnik/gr8) - Customizable, functional css utilities (today)
 - [glasnt/wail2ban](https://github.com/glasnt/wail2ban) - fail2ban, for windows.  (today)
-- [develsoftware/GMinerRelease](https://github.com/develsoftware/GMinerRelease) - Ethash, ProgPoW, Equihash, CuckooCycle GPU Miner (today)
-- [GnuriaN/format-README](https://github.com/GnuriaN/format-README) - Формат файла README (today)
 
 ## 🔨 Latest Pull Requests I published
 
