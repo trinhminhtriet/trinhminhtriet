@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [glasnt/wail2ban](https://github.com/glasnt/wail2ban) - fail2ban, for windows.  (today)
+- [develsoftware/GMinerRelease](https://github.com/develsoftware/GMinerRelease) - Ethash, ProgPoW, Equihash, CuckooCycle GPU Miner (today)
 - [GnuriaN/format-README](https://github.com/GnuriaN/format-README) - Формат файла README (today)
 - [GnuriaN/Python-Roadmap](https://github.com/GnuriaN/Python-Roadmap) - Дорожная карта по изучению Python (today)
 - [FunnyKun/NessusReportInChinese](https://github.com/FunnyKun/NessusReportInChinese) - 半自动化将 Nessus 英文报告（csv格式）生成中文 excel ，中文漏洞库已有700多条常见漏洞，后续再进一步加上新漏洞自动翻译，实现全自动化 (today)
-- [Pickfordmatt/SharpLocker](https://github.com/Pickfordmatt/SharpLocker) (today)
-- [jasonblog/note](https://github.com/jasonblog/note) (today)
 
 ## 🔨 Latest Pull Requests I published
 
