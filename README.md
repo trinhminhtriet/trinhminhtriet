@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini (today)
-- [twpayne/go-jsonstruct](https://github.com/twpayne/go-jsonstruct) - Generate Go structs from multiple JSON or YAML objects. (today)
-- [twpayne/dotfiles](https://github.com/twpayne/dotfiles) - My dotfiles, managed with https://chezmoi.io. (today)
-- [twpayne/go-geom](https://github.com/twpayne/go-geom) - Package geom implements efficient geometry types for geospatial applications. (today)
-- [codinfox/codinfox-lanyon](https://github.com/codinfox/codinfox-lanyon) - Another jekyll templated based on lanyon (today)
+- [danijar/mindpark](https://github.com/danijar/mindpark) - Testbed for deep reinforcement learning (today)
+- [danijar/layered](https://github.com/danijar/layered) - Clean implementation of feed forward neural networks (today)
+- [danijar/daydreamer](https://github.com/danijar/daydreamer) - DayDreamer: World Models for Physical Robot Learning (today)
+- [danijar/crafter](https://github.com/danijar/crafter) - Benchmarking the Spectrum of Agent Capabilities (today)
+- [danijar/dreamer](https://github.com/danijar/dreamer) - Dream to Control: Learning Behaviors by Latent Imagination (today)
 
 ## 🔨 Latest Pull Requests I published
 
