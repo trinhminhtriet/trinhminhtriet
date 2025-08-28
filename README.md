@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [crawshaw/sqlitejdbc](https://github.com/crawshaw/sqlitejdbc) - SQLite JDBC Driver (today)
-- [crawshaw/sqlite](https://github.com/crawshaw/sqlite) - Go SQLite3 driver (today)
-- [crawshaw/littleboss](https://github.com/crawshaw/littleboss) - littleboss: supervisor construction kit (today)
-- [fogleman/delaunay](https://github.com/fogleman/delaunay) - Fast Delaunay triangulation implemented in Go. (today)
-- [fogleman/meshview](https://github.com/fogleman/meshview) - Performant 3D mesh viewer written in Go. (today)
+- [oschwartz10612/poppler-windows](https://github.com/oschwartz10612/poppler-windows) - Download Poppler binaries packaged for Windows with dependencies (today)
+- [haacked/haacked.com](https://github.com/haacked/haacked.com) - You've been haacked and you like it (today)
+- [haacked/routemagic](https://github.com/haacked/routemagic) - Utility Library to get the most out of ASP.NET Routing. (today)
+- [haacked/aspnet-client-validation](https://github.com/haacked/aspnet-client-validation) - A client validation library for ASP.NET MVC that does not require jQuery (today)
+- [haacked/CodeHaacks](https://github.com/haacked/CodeHaacks) - This is a collection of prototypes, samples, proof-of-concepts. None of this is meant to be used in production code, but you can take any of the ideas you like and try them out in your own projects. (today)
 
 ## 🔨 Latest Pull Requests I published
 
