@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [samuelscheit/react-native-skia-list](https://github.com/samuelscheit/react-native-skia-list) - The fastest react-native list renderer based on @shopify/react-native-skia (today)
-- [samuelscheit/puppeteer-stream](https://github.com/samuelscheit/puppeteer-stream) - A Library for puppeteer to retrieve audio and video streams of webpages (today)
-- [samuelscheit/discord-bot-client](https://github.com/samuelscheit/discord-bot-client) - A patched version of discord, with bot login support (today)
-- [FransBouma/OtisFX](https://github.com/FransBouma/OtisFX) - A small set of effects for Reshade (today)
-- [FransBouma/RawDataAccessBencher](https://github.com/FransBouma/RawDataAccessBencher) - Bench code which tests entity materialization speed of various .NET data access / ORM implementations (today)
+- [vxCrypt0r/AMSI_VEH](https://github.com/vxCrypt0r/AMSI_VEH) - A Powershell AMSI Bypass technique via Vectored Exception Handler (VEH). This technique does not perform assembly instruction patching, function hooking or Import Address Table (IAT) modification. (today)
+- [vxCrypt0r/Voidmaw](https://github.com/vxCrypt0r/Voidmaw) - A new technique that can be used to bypass memory scanners. This can be useful in hiding problematic code (such as reflective loaders implemented by C2 beacons) or other problematic executables that will be flagged by the antimalware programs(such as mimikatz). (today)
+- [vxCrypt0r/Voidgate](https://github.com/vxCrypt0r/Voidgate) - A technique that can be used to bypass AV/EDR memory scanners. This can be used to hide well-known and detected shellcodes (such as msfvenom) by performing on-the-fly decryption of individual encrypted assembly instructions, thus rendering memory scanners useless for that specific memory page. (today)
+- [AzeemIdrisi/PhoneSploit-Pro](https://github.com/AzeemIdrisi/PhoneSploit-Pro) - An all-in-one hacking tool to remotely exploit Android devices using ADB and Metasploit-Framework to get a Meterpreter session. (today)
+- [Pymmdrza/AttackAIO_Crypto](https://github.com/Pymmdrza/AttackAIO_Crypto) - Attack and Crack Private Key AIO (ALL in ONE) All Cryptocurency from words [HACK] (today)
 
 ## 🔨 Latest Pull Requests I published
 
