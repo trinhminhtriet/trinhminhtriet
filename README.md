@@ -39,9 +39,9 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [trinhminhtriet/sizr](https://github.com/trinhminhtriet/sizr) - 📈 A fast, Rust-based tool to analyze file system usage with colorful output, file aggregation, exclusions, and directory comparisons. (3 days ago)
 - [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (3 days ago)
 - [rust-rs/tabler](https://github.com/rust-rs/tabler) - 📊 Tabler: A lightweight TUI tool to view, query, and navigate CSV, TSV, and Parquet data files. (4 days ago)
+- [trinhminhtriet/spiko](https://github.com/trinhminhtriet/spiko) - 🚀 Spiko is a fast, Rust-based load testing tool with a beautiful TUI for real-time insights. (4 days ago)
 - [trinhminhtriet/java-skel-cli](https://github.com/trinhminhtriet/java-skel-cli) - 🦴 Skel CLI: A command-line tool for generating project skeletons in multiple languages, fast and customizable. (4 days ago)
 - [trinhminhtriet/blast](https://github.com/trinhminhtriet/blast) - 🚀 Blast: A powerful, lightweight HTTP load generator for stress testing and benchmarking web applications with ease. (4 days ago)
-- [trinhminhtriet/spiko](https://github.com/trinhminhtriet/spiko) - 🚀 Spiko is a fast, Rust-based load testing tool with a beautiful TUI for real-time insights. (4 days ago)
 - [trinhminhtriet/github-toolkit](https://github.com/trinhminhtriet/github-toolkit) - github-toolkit: Scrapes GitHub developers, followers, repositories into MySQL database. (6 days ago)
 
 ## 👯 Check out my recent followers
@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [moelgendy/deep_learning_for_vision_systems](https://github.com/moelgendy/deep_learning_for_vision_systems) - This repository accompanies the book "Deep Learning for Vision Systems". (today)
-- [ym2011/SecurityTechnique](https://github.com/ym2011/SecurityTechnique) - Security technique  research and some funny work on it !  (today)
-- [ym2011/POC-EXP](https://github.com/ym2011/POC-EXP) - Collecting  and writing PoC or EXP for  vulnerabilities on some application (today)
-- [ym2011/SecurityMind](https://github.com/ym2011/SecurityMind) - share experience towards for  information management, brainstorming and so on. (today)
-- [ym2011/PenetrationTestingScripts](https://github.com/ym2011/PenetrationTestingScripts) - Here is some simple and useful scripts for penetration. (today)
+- [ID-10086/freenode](https://github.com/ID-10086/freenode) - V2Ray | Clash 免费节点分享 (today)
+- [bowu678/php_bugs](https://github.com/bowu678/php_bugs) - PHP代码审计分段讲解 (today)
+- [FiveAourThe/RedTeamTools](https://github.com/FiveAourThe/RedTeamTools) - 分享红队常用的工具 (today)
+- [Dawnnnnnn/APPPrivacyDetect](https://github.com/Dawnnnnnn/APPPrivacyDetect) - 响应工信部通报的应用隐私检测——Frida检测APP违规收集信息 (today)
+- [Dawnnnnnn/bilibili-tools](https://github.com/Dawnnnnnn/bilibili-tools) - python实现的bilibili主站助手 (today)
 
 ## 🔨 Latest Pull Requests I published
 
