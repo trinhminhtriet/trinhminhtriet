@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Kwynto](https://github.com/Kwynto)
 - [atEMq963kO6](https://github.com/atEMq963kO6)
 - [Raquel-Fernandez](https://github.com/Raquel-Fernandez)
 - [achenachena](https://github.com/achenachena)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [VictoriaCabirta](https://github.com/VictoriaCabirta)
 - [EgeOnderX](https://github.com/EgeOnderX)
 - [nshutifabrice09](https://github.com/nshutifabrice09)
-- [Yekta-Ramzannasab](https://github.com/Yekta-Ramzannasab)
 
 ## ⭐ Recent stars
 
-- [oschwartz10612/poppler-windows](https://github.com/oschwartz10612/poppler-windows) - Download Poppler binaries packaged for Windows with dependencies (today)
-- [haacked/haacked.com](https://github.com/haacked/haacked.com) - You've been haacked and you like it (today)
-- [haacked/routemagic](https://github.com/haacked/routemagic) - Utility Library to get the most out of ASP.NET Routing. (today)
-- [haacked/aspnet-client-validation](https://github.com/haacked/aspnet-client-validation) - A client validation library for ASP.NET MVC that does not require jQuery (today)
-- [haacked/CodeHaacks](https://github.com/haacked/CodeHaacks) - This is a collection of prototypes, samples, proof-of-concepts. None of this is meant to be used in production code, but you can take any of the ideas you like and try them out in your own projects. (today)
+- [srawlins/allocation_stats](https://github.com/srawlins/allocation_stats) - Tooling for tracing object allocations in Ruby 2.1 (today)
+- [kevmoo/git](https://github.com/kevmoo/git) - A dart wrapper around the git command line binary (today)
+- [kevmoo/pubviz](https://github.com/kevmoo/pubviz) - Visualize package dependencies in your Dart project (today)
+- [kevmoo/slide_puzzle](https://github.com/kevmoo/slide_puzzle) - The classic slide (15) puzzle in Dart and Flutter (today)
+- [kevmoo/peanut.dart](https://github.com/kevmoo/peanut.dart) - Easily build and deploy your Dart web app to GitHub pages (today)
 
 ## 🔨 Latest Pull Requests I published
 
