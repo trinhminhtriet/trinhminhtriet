@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [filhodanuvem/awesome-php-jobs](https://github.com/filhodanuvem/awesome-php-jobs) - 🐘A curated list of companies using php  (today)
-- [filhodanuvem/gitql](https://github.com/filhodanuvem/gitql) - 💊 A git query language (today)
-- [selfthinker/CSS-Playing-Cards](https://github.com/selfthinker/CSS-Playing-Cards) - CSS Playing Cards help you to create simple and semantic playing cards in (X)HTML (today)
-- [johnkary/phpunit-speedtrap](https://github.com/johnkary/phpunit-speedtrap) - Reports on slow-running tests in your PHPUnit test suite (today)
-- [rcrowe/TwigBridge](https://github.com/rcrowe/TwigBridge) - Give the power of Twig to Laravel (today)
+- [crawshaw/sqlitejdbc](https://github.com/crawshaw/sqlitejdbc) - SQLite JDBC Driver (today)
+- [crawshaw/sqlite](https://github.com/crawshaw/sqlite) - Go SQLite3 driver (today)
+- [crawshaw/littleboss](https://github.com/crawshaw/littleboss) - littleboss: supervisor construction kit (today)
+- [fogleman/delaunay](https://github.com/fogleman/delaunay) - Fast Delaunay triangulation implemented in Go. (today)
+- [fogleman/meshview](https://github.com/fogleman/meshview) - Performant 3D mesh viewer written in Go. (today)
 
 ## 🔨 Latest Pull Requests I published
 
