@@ -33,11 +33,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👷 Check out what I'm currently working on
 
+- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (today)
 - [nctl-io/.github](https://github.com/nctl-io/.github) - 🌐 Network. Connect. Transform. Lead. (1 day ago)
 - [nctl-io/nctl-branding](https://github.com/nctl-io/nctl-branding) - NCTL Branding 🖼️: Centralized assets and guidelines for consistent visual identity across NCTL projects and platforms. (2 days ago)
 - [nctl-io/nctl-homepage](https://github.com/nctl-io/nctl-homepage) - 🚀 Modern homepage for NCTL: fast, responsive, TypeScript-powered, open source, and easy to customize. (2 days ago)
 - [trinhminhtriet/sizr](https://github.com/trinhminhtriet/sizr) - 📈 A fast, Rust-based tool to analyze file system usage with colorful output, file aggregation, exclusions, and directory comparisons. (3 days ago)
-- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (3 days ago)
 - [rust-rs/tabler](https://github.com/rust-rs/tabler) - 📊 Tabler: A lightweight TUI tool to view, query, and navigate CSV, TSV, and Parquet data files. (4 days ago)
 - [trinhminhtriet/spiko](https://github.com/trinhminhtriet/spiko) - 🚀 Spiko is a fast, Rust-based load testing tool with a beautiful TUI for real-time insights. (4 days ago)
 - [trinhminhtriet/java-skel-cli](https://github.com/trinhminhtriet/java-skel-cli) - 🦴 Skel CLI: A command-line tool for generating project skeletons in multiple languages, fast and customizable. (4 days ago)
@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [Azim-Vau/fcpro](https://github.com/Azim-Vau/fcpro) - NEW FACEBOOK ID CLONER WITH NEW PASSWORD (today)
-- [Azim-Vau/crack-pro](https://github.com/Azim-Vau/crack-pro) - NEW FACEBOOK COINING TOOL (today)
-- [IAmBlackHacker/Facebook-phishing](https://github.com/IAmBlackHacker/Facebook-phishing) - Phishing Facebook Page in Django Code(Python Based) (today)
-- [IAmBlackHacker/Facebook-BruteForce](https://github.com/IAmBlackHacker/Facebook-BruteForce) - Bruteforce attack on Facebook account using python script (today)
-- [solst-ice/chirp](https://github.com/solst-ice/chirp) - Send data with sound (today)
+- [ethanedits/Universal-Unity-ESP](https://github.com/ethanedits/Universal-Unity-ESP) - This is a guide to creating an ESP for any unity game. (today)
+- [ethanedits/Apex-Legends-SDK](https://github.com/ethanedits/Apex-Legends-SDK) - Open Source Cheat for Apex Legends, designed for ease of use. Made to understand reversing of Apex Legends and respawn's modified source engine as well as their Easy Anti Cheat Implementation. (today)
+- [thedemons/opentele](https://github.com/thedemons/opentele) - A Python Telegram API Library for converting between tdata and telethon sessions, with built-in official Telegram APIs. (today)
+- [xd20111/inshackle](https://github.com/xd20111/inshackle) - Instagram hacks: Track unfollowers, Increase your followers, Download Stories, etc (today)
+- [princekrvert/Ravana](https://github.com/princekrvert/Ravana) - Advanced phishing tool for learning (today)
 
 ## 🔨 Latest Pull Requests I published
 
