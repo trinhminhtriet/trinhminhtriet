@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [ID-10086/freenode](https://github.com/ID-10086/freenode) - V2Ray | Clash 免费节点分享 (today)
-- [bowu678/php_bugs](https://github.com/bowu678/php_bugs) - PHP代码审计分段讲解 (today)
-- [FiveAourThe/RedTeamTools](https://github.com/FiveAourThe/RedTeamTools) - 分享红队常用的工具 (today)
-- [Dawnnnnnn/APPPrivacyDetect](https://github.com/Dawnnnnnn/APPPrivacyDetect) - 响应工信部通报的应用隐私检测——Frida检测APP违规收集信息 (today)
-- [Dawnnnnnn/bilibili-tools](https://github.com/Dawnnnnnn/bilibili-tools) - python实现的bilibili主站助手 (today)
+- [FunnyKun/NessusReportInChinese](https://github.com/FunnyKun/NessusReportInChinese) - 半自动化将 Nessus 英文报告（csv格式）生成中文 excel ，中文漏洞库已有700多条常见漏洞，后续再进一步加上新漏洞自动翻译，实现全自动化 (today)
+- [Pickfordmatt/SharpLocker](https://github.com/Pickfordmatt/SharpLocker) (today)
+- [jasonblog/note](https://github.com/jasonblog/note) (today)
+- [Tycx2ry/docker_api_vul](https://github.com/Tycx2ry/docker_api_vul) - docker 未授权访问漏洞利用脚本 (today)
+- [Tycx2ry/SweetPotato_CS](https://github.com/Tycx2ry/SweetPotato_CS) - 修改的SweetPotato，使之可以用于CobaltStrike v4.0 (today)
 
 ## 🔨 Latest Pull Requests I published
 
