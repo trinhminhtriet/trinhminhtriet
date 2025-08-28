@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [ethanedits/Universal-Unity-ESP](https://github.com/ethanedits/Universal-Unity-ESP) - This is a guide to creating an ESP for any unity game. (today)
-- [ethanedits/Apex-Legends-SDK](https://github.com/ethanedits/Apex-Legends-SDK) - Open Source Cheat for Apex Legends, designed for ease of use. Made to understand reversing of Apex Legends and respawn's modified source engine as well as their Easy Anti Cheat Implementation. (today)
-- [thedemons/opentele](https://github.com/thedemons/opentele) - A Python Telegram API Library for converting between tdata and telethon sessions, with built-in official Telegram APIs. (today)
-- [xd20111/inshackle](https://github.com/xd20111/inshackle) - Instagram hacks: Track unfollowers, Increase your followers, Download Stories, etc (today)
-- [princekrvert/Ravana](https://github.com/princekrvert/Ravana) - Advanced phishing tool for learning (today)
+- [samuelscheit/react-native-skia-list](https://github.com/samuelscheit/react-native-skia-list) - The fastest react-native list renderer based on @shopify/react-native-skia (today)
+- [samuelscheit/puppeteer-stream](https://github.com/samuelscheit/puppeteer-stream) - A Library for puppeteer to retrieve audio and video streams of webpages (today)
+- [samuelscheit/discord-bot-client](https://github.com/samuelscheit/discord-bot-client) - A patched version of discord, with bot login support (today)
+- [FransBouma/OtisFX](https://github.com/FransBouma/OtisFX) - A small set of effects for Reshade (today)
+- [FransBouma/RawDataAccessBencher](https://github.com/FransBouma/RawDataAccessBencher) - Bench code which tests entity materialization speed of various .NET data access / ORM implementations (today)
 
 ## 🔨 Latest Pull Requests I published
 
