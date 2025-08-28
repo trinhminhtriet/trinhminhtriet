@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Raquel-Fernandez](https://github.com/Raquel-Fernandez)
 - [achenachena](https://github.com/achenachena)
 - [illegal-instruction-co](https://github.com/illegal-instruction-co)
 - [parhammohtasham](https://github.com/parhammohtasham)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [nshutifabrice09](https://github.com/nshutifabrice09)
 - [Yekta-Ramzannasab](https://github.com/Yekta-Ramzannasab)
 - [mariojgt](https://github.com/mariojgt)
-- [fernandoncidade](https://github.com/fernandoncidade)
 
 ## ⭐ Recent stars
 
-- [himanshurelhan70/Codehelp](https://github.com/himanshurelhan70/Codehelp) - This repository is used for maintaining my assignments & class notes taken during "Web Development Bootcamp" Live course conducted by "Love Babbar and Lakshay Kumar". (today)
-- [anuragtiwarime/HappyLearning](https://github.com/anuragtiwarime/HappyLearning) - A Guided Steps to Learn Development! (today)
-- [chucktomasi/sn-learn-javascript](https://github.com/chucktomasi/sn-learn-javascript) - Example scripts from the series "Learn JavaScript on the Now Platform" (today)
-- [dersonsena/clean-arch-pokemon](https://github.com/dersonsena/clean-arch-pokemon) - Clean Architecture de um modo divertido e prático integrando uma API com uma API de Pokémon. (today)
-- [jochenalt/Walter](https://github.com/jochenalt/Walter) - 6DOF Industrial Robot, vintage style (today)
+- [Azim-Vau/fcpro](https://github.com/Azim-Vau/fcpro) - NEW FACEBOOK ID CLONER WITH NEW PASSWORD (today)
+- [Azim-Vau/crack-pro](https://github.com/Azim-Vau/crack-pro) - NEW FACEBOOK COINING TOOL (today)
+- [IAmBlackHacker/Facebook-phishing](https://github.com/IAmBlackHacker/Facebook-phishing) - Phishing Facebook Page in Django Code(Python Based) (today)
+- [IAmBlackHacker/Facebook-BruteForce](https://github.com/IAmBlackHacker/Facebook-BruteForce) - Bruteforce attack on Facebook account using python script (today)
+- [solst-ice/chirp](https://github.com/solst-ice/chirp) - Send data with sound (today)
 
 ## 🔨 Latest Pull Requests I published
 
