@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [renatoathaydes/LogFX](https://github.com/renatoathaydes/LogFX) - LogFX is a simple Log reader supporting color highlighting and able to handle giant files. (today)
-- [renatoathaydes/rawhttp](https://github.com/renatoathaydes/rawhttp) - HTTP library to make it easy to deal with raw HTTP. (today)
-- [renatoathaydes/spock-reports](https://github.com/renatoathaydes/spock-reports) - This project creates a global extension to Spock to create test reports. (today)
-- [stevedonovan/Lake](https://github.com/stevedonovan/Lake) - A Lua-based Build Tool (today)
-- [stevedonovan/runner](https://github.com/stevedonovan/runner) - Tool for running Rust snippets (today)
+- [rayning0/awesome-for-beginners](https://github.com/rayning0/awesome-for-beginners) - A list of awesome beginners-friendly projects. (today)
+- [rayning0/ctci](https://github.com/rayning0/ctci) - My answers to LeetCode, HackerRank, company code challenge problems, + "Cracking the Coding Interview." All my Data Structures + Algorithm posts: https://www.linkedin.com/search/results/all/?keywords=%23raymonddsa&sid=4YJ. Join our Slack group "LinkedIn Junior Engineers": https://bit.ly/3P7tMja (today)
+- [rayning0/build-your-own-x](https://github.com/rayning0/build-your-own-x) - 🤓 Build your own (insert technology here) (today)
+- [cbovar/ConvNetSharp](https://github.com/cbovar/ConvNetSharp) - Deep Learning in C# (today)
+- [cbovar/ConvNetDraw](https://github.com/cbovar/ConvNetDraw) - Draw multi-layer neural network in your browser (today)
 
 ## 🔨 Latest Pull Requests I published
 
