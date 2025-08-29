@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [Bruteforceman/dynamic-progamming-book](https://github.com/Bruteforceman/dynamic-progamming-book) (today)
-- [PriontoAbdullah/Frontend-Interview-Preparation-for-Interns-and-Junior-Developers](https://github.com/PriontoAbdullah/Frontend-Interview-Preparation-for-Interns-and-Junior-Developers) - 🔥🚀 Here you will find all the materials required for a fresher front-end interview. 💡📚 A list of helpful front-end related questions, answers, notes, blog, video, code example 🎁 You can take interview preparation as a potential candidate and test yourself. 💣 (today)
-- [akashyap2013/Books-bootstrap-website](https://github.com/akashyap2013/Books-bootstrap-website) - In this project, we had created a complete books website. (today)
-- [akashyap2013/MERN_Login_App_with_ResetEmail](https://github.com/akashyap2013/MERN_Login_App_with_ResetEmail) - In this project, we are going to create the MERN Login App with Reset Email Feature. (today)
-- [akashyap2013/CRUD_Application_Node](https://github.com/akashyap2013/CRUD_Application_Node) - In this project, we are going to create node CRUD application with express and mongodb. (today)
+- [davidmoreno/rtpmidid](https://github.com/davidmoreno/rtpmidid) - RTP MIDI (AppleMIDI) daemon for Linux (today)
+- [davidmoreno/onion](https://github.com/davidmoreno/onion) - C library to create simple HTTP servers and Web Applications. (today)
+- [luisfcofv/competitive-programming-book](https://github.com/luisfcofv/competitive-programming-book) - Data Structures & Algorithms From Competitive Programming Book (today)
+- [luisfcofv/react-native-deep-linking](https://github.com/luisfcofv/react-native-deep-linking) - Simple route-matching library to handle deep links (today)
+- [JustinaPetr/Weatherbot_Tutorial](https://github.com/JustinaPetr/Weatherbot_Tutorial) (today)
 
 ## 🔨 Latest Pull Requests I published
 
