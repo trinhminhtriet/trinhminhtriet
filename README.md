@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [HossamElghamry/Mediminder](https://github.com/HossamElghamry/Mediminder) - A  mobile medicine reminder built with Flutter, Provider and BLoC pattern. (today)
-- [hillelcoren/flutter-redux-starter](https://github.com/hillelcoren/flutter-redux-starter) - Starter project and code generator for Flutter/Redux (today)
-- [samuelmarina/is-odd](https://github.com/samuelmarina/is-odd) - Is a number odd? (today)
-- [samuelmarina/is-even](https://github.com/samuelmarina/is-even) - Is a number even? (today)
-- [jchristn/WatsonWebsocket](https://github.com/jchristn/WatsonWebsocket) - A simple C# async websocket server and client for reliable transmission and receipt of data (today)
+- [coditori/highly-skilled-job-offers](https://github.com/coditori/highly-skilled-job-offers) - Sharing some info around job offers and interviews preparations (today)
+- [CharlyKeleb/TravelersSociaApp-UiKit](https://github.com/CharlyKeleb/TravelersSociaApp-UiKit) - Flutter representation of a Travel Social App concept (today)
+- [CharlyKeleb/Animations](https://github.com/CharlyKeleb/Animations) - Flutter animations (today)
+- [CharlyKeleb/SocialMedia-App](https://github.com/CharlyKeleb/SocialMedia-App) - A fully functional social media app built with flutter with multiple features (today)
+- [arxyzan/data2vec-pytorch](https://github.com/arxyzan/data2vec-pytorch) - PyTorch implementation of "data2vec: A General Framework for Self-supervised Learning in Speech, Vision and Language" from Meta AI (today)
 
 ## 🔨 Latest Pull Requests I published
 
