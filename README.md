@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [justkawal/coffee_shop](https://github.com/justkawal/coffee_shop) - Flutter Coffee Shop Design (today)
+- [justkawal/UI](https://github.com/justkawal/UI) - Flutter Apps Collection (today)
+- [justkawal/excel](https://github.com/justkawal/excel) - Excel Library for Flutter and Dart - https://pub.dev/packages/excel (today)
+- [toddhgardner/perf-training-website](https://github.com/toddhgardner/perf-training-website) - Example website for "Improving Web Performance" training. (today)
 - [shengyp/doing_the_PhD](https://github.com/shengyp/doing_the_PhD) (today)
-- [XueyangFeng/LLM-Agent-Paper-Digest](https://github.com/XueyangFeng/LLM-Agent-Paper-Digest) - papers related to LLM-agent that published on top conferences (today)
-- [chuhaojin/LSTMForSentAnalysis](https://github.com/chuhaojin/LSTMForSentAnalysis) - 用LSTM进行文本的情感分析 (today)
-- [chuhaojin/Text2Poster-ICASSP-22](https://github.com/chuhaojin/Text2Poster-ICASSP-22) - Official implementation of the ICASSP-2022 paper "Text2Poster: Laying Out Stylized Texts on Retrieved Images" (today)
-- [ShulinCao/OpenNRE-PyTorch](https://github.com/ShulinCao/OpenNRE-PyTorch) - Neural Relation Extraction implemented in PyTorch (today)
 
 ## 🔨 Latest Pull Requests I published
 
