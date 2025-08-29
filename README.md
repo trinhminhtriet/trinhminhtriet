@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [kuutsav/LeetComp](https://github.com/kuutsav/LeetComp) - Moved to https://github.com/kuutsav/leetcode-compensation (today)
-- [kuutsav/information-retrieval](https://github.com/kuutsav/information-retrieval) - Neural information retrieval / Semantic search / Bi-encoders (today)
-- [kuutsav/leetcode-compensation](https://github.com/kuutsav/leetcode-compensation) - Near real-time LeetCode compensation insights for India (today)
-- [AlreadyBored/basic-js](https://github.com/AlreadyBored/basic-js) (today)
-- [basmilius/weather-icons](https://github.com/basmilius/weather-icons) - Free to use animated weather icons. (today)
+- [michellexliu/receiptify](https://github.com/michellexliu/receiptify) (today)
+- [tweneboah/Full-Stack-Web-Development-Bootcamp-Course](https://github.com/tweneboah/Full-Stack-Web-Development-Bootcamp-Course) - Full-Stack-Web-Development-Bootcamp-Course. This GitHub repository contains the entire curriculum for our Full Stack Web Development Bootcamp Course. The course covers a wide range of subjects, including HTML, CSS, JavaScript, Node.js, Express, React, and MongoDB.  (today)
+- [nschurmann/mongoapp-curso-docker](https://github.com/nschurmann/mongoapp-curso-docker) - Aplicación para el curso gratuito de docker (today)
+- [nschurmann/configs](https://github.com/nschurmann/configs) - My neovim configuration (today)
+- [jkb0o/belly](https://github.com/jkb0o/belly) - Define the Bevy UI tree with `eml!`, style it using a very-css-like `ess` syntax and relate data data with `bind!` and `connect!` (today)
 
 ## 🔨 Latest Pull Requests I published
 
