@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [BalzGuenat/CustomThreads](https://github.com/BalzGuenat/CustomThreads) - Fusion 360 Thread Profiles for 3D-Printed Threads (today)
-- [ajinkyakulkarni14/TED-Multilingual-Parallel-Corpus](https://github.com/ajinkyakulkarni14/TED-Multilingual-Parallel-Corpus) - TED parallel Corpora is growing collection of Bilingual parallel corpora, Multilingual parallel corpora and Monolingual corpora extracted from TED talks www.ted.com for 109 world languages. (today)
-- [hyiltiz/vim-plugins-profile](https://github.com/hyiltiz/vim-plugins-profile) - :clock4: Profile Vim's plugins, generate awesome statistics and optimize (n)vim startup time (today)
-- [Mrlyk423/Relation_Extraction](https://github.com/Mrlyk423/Relation_Extraction) - Knowledge  Base Embedding (today)
-- [xrb92/DKRL](https://github.com/xrb92/DKRL) - Representation Learning of Knowledge Graphs with Entity Descriptions (AAAI'16) (today)
+- [shengyp/doing_the_PhD](https://github.com/shengyp/doing_the_PhD) (today)
+- [XueyangFeng/LLM-Agent-Paper-Digest](https://github.com/XueyangFeng/LLM-Agent-Paper-Digest) - papers related to LLM-agent that published on top conferences (today)
+- [chuhaojin/LSTMForSentAnalysis](https://github.com/chuhaojin/LSTMForSentAnalysis) - 用LSTM进行文本的情感分析 (today)
+- [chuhaojin/Text2Poster-ICASSP-22](https://github.com/chuhaojin/Text2Poster-ICASSP-22) - Official implementation of the ICASSP-2022 paper "Text2Poster: Laying Out Stylized Texts on Retrieved Images" (today)
+- [ShulinCao/OpenNRE-PyTorch](https://github.com/ShulinCao/OpenNRE-PyTorch) - Neural Relation Extraction implemented in PyTorch (today)
 
 ## 🔨 Latest Pull Requests I published
 
