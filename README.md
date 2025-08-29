@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [rayning0/awesome-for-beginners](https://github.com/rayning0/awesome-for-beginners) - A list of awesome beginners-friendly projects. (today)
-- [rayning0/ctci](https://github.com/rayning0/ctci) - My answers to LeetCode, HackerRank, company code challenge problems, + "Cracking the Coding Interview." All my Data Structures + Algorithm posts: https://www.linkedin.com/search/results/all/?keywords=%23raymonddsa&sid=4YJ. Join our Slack group "LinkedIn Junior Engineers": https://bit.ly/3P7tMja (today)
-- [rayning0/build-your-own-x](https://github.com/rayning0/build-your-own-x) - 🤓 Build your own (insert technology here) (today)
-- [cbovar/ConvNetSharp](https://github.com/cbovar/ConvNetSharp) - Deep Learning in C# (today)
-- [cbovar/ConvNetDraw](https://github.com/cbovar/ConvNetDraw) - Draw multi-layer neural network in your browser (today)
+- [akashyap2013/Books-bootstrap-website](https://github.com/akashyap2013/Books-bootstrap-website) - In this project, we had created a complete books website. (today)
+- [akashyap2013/MERN_Login_App_with_ResetEmail](https://github.com/akashyap2013/MERN_Login_App_with_ResetEmail) - In this project, we are going to create the MERN Login App with Reset Email Feature. (today)
+- [akashyap2013/CRUD_Application_Node](https://github.com/akashyap2013/CRUD_Application_Node) - In this project, we are going to create node CRUD application with express and mongodb. (today)
+- [akashyap2013/Blooger_Website](https://github.com/akashyap2013/Blooger_Website) - This is the complete blooger website create using html and css (today)
+- [akashyap2013/Mobile_Shopee-E-Commerce-Website](https://github.com/akashyap2013/Mobile_Shopee-E-Commerce-Website) - In this complete E-commerce Website, We will take a look at how to create Mobile Shopee Using PHP and Mysql Database. We gonna start by creating an HTML template then convert it into PHP and then use MySQL database to fetch products and display it in the project. (today)
 
 ## 🔨 Latest Pull Requests I published
 
