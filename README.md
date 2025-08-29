@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Large-Diamond](https://github.com/Large-Diamond)
 - [BEPb](https://github.com/BEPb)
 - [Kwynto](https://github.com/Kwynto)
 - [atEMq963kO6](https://github.com/atEMq963kO6)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [parhammohtasham](https://github.com/parhammohtasham)
 - [CarinaMendesDev](https://github.com/CarinaMendesDev)
 - [VictoriaCabirta](https://github.com/VictoriaCabirta)
-- [EgeOnderX](https://github.com/EgeOnderX)
 
 ## ⭐ Recent stars
 
-- [davidmoreno/rtpmidid](https://github.com/davidmoreno/rtpmidid) - RTP MIDI (AppleMIDI) daemon for Linux (today)
-- [davidmoreno/onion](https://github.com/davidmoreno/onion) - C library to create simple HTTP servers and Web Applications. (today)
-- [luisfcofv/competitive-programming-book](https://github.com/luisfcofv/competitive-programming-book) - Data Structures & Algorithms From Competitive Programming Book (today)
-- [luisfcofv/react-native-deep-linking](https://github.com/luisfcofv/react-native-deep-linking) - Simple route-matching library to handle deep links (today)
-- [JustinaPetr/Weatherbot_Tutorial](https://github.com/JustinaPetr/Weatherbot_Tutorial) (today)
+- [BalzGuenat/CustomThreads](https://github.com/BalzGuenat/CustomThreads) - Fusion 360 Thread Profiles for 3D-Printed Threads (today)
+- [ajinkyakulkarni14/TED-Multilingual-Parallel-Corpus](https://github.com/ajinkyakulkarni14/TED-Multilingual-Parallel-Corpus) - TED parallel Corpora is growing collection of Bilingual parallel corpora, Multilingual parallel corpora and Monolingual corpora extracted from TED talks www.ted.com for 109 world languages. (today)
+- [hyiltiz/vim-plugins-profile](https://github.com/hyiltiz/vim-plugins-profile) - :clock4: Profile Vim's plugins, generate awesome statistics and optimize (n)vim startup time (today)
+- [Mrlyk423/Relation_Extraction](https://github.com/Mrlyk423/Relation_Extraction) - Knowledge  Base Embedding (today)
+- [xrb92/DKRL](https://github.com/xrb92/DKRL) - Representation Learning of Knowledge Graphs with Entity Descriptions (AAAI'16) (today)
 
 ## 🔨 Latest Pull Requests I published
 
