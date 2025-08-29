@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [Lapple/react-transitive-number](https://github.com/Lapple/react-transitive-number) - React component to apply transition effect to numeric strings, a la old Groupon timers (today)
+- [Lapple/react-json-inspector](https://github.com/Lapple/react-json-inspector) - React JSON inspector component (today)
+- [Lapple/ErrorBoard](https://github.com/Lapple/ErrorBoard) - Track and fix JavaScript errors fired by your visitor's browsers. (today)
+- [Ismaestro/angular-example-app](https://github.com/Ismaestro/angular-example-app) - Angular Example App is a beginner-friendly, production-ready web application built with Angular 19. It serves as a real-world example showcasing core Angular features such as CRUD operations, authentication, i18n (internationalization), lazy loading, and signals. (today)
 - [rootac355/SQL-injection-dorks-list](https://github.com/rootac355/SQL-injection-dorks-list) - Nice list of google dorks for SQL injection (today)
-- [teamhide/fastapi-layered-architecture](https://github.com/teamhide/fastapi-layered-architecture) - FastAPI Layered Architecture (today)
-- [teamhide/fastapi-boilerplate](https://github.com/teamhide/fastapi-boilerplate) - FastAPI boilerplate for real world production (today)
-- [amirgholami/ai_and_memory_wall](https://github.com/amirgholami/ai_and_memory_wall) - AI and Memory Wall (today)
-- [amirgholami/adahessian](https://github.com/amirgholami/adahessian) - ADAHESSIAN: An Adaptive Second Order Optimizer for Machine Learning (today)
 
 ## 🔨 Latest Pull Requests I published
 
