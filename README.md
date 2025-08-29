@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [justkawal/coffee_shop](https://github.com/justkawal/coffee_shop) - Flutter Coffee Shop Design (today)
-- [justkawal/UI](https://github.com/justkawal/UI) - Flutter Apps Collection (today)
-- [justkawal/excel](https://github.com/justkawal/excel) - Excel Library for Flutter and Dart - https://pub.dev/packages/excel (today)
-- [toddhgardner/perf-training-website](https://github.com/toddhgardner/perf-training-website) - Example website for "Improving Web Performance" training. (today)
-- [shengyp/doing_the_PhD](https://github.com/shengyp/doing_the_PhD) (today)
+- [HossamElghamry/Mediminder](https://github.com/HossamElghamry/Mediminder) - A  mobile medicine reminder built with Flutter, Provider and BLoC pattern. (today)
+- [hillelcoren/flutter-redux-starter](https://github.com/hillelcoren/flutter-redux-starter) - Starter project and code generator for Flutter/Redux (today)
+- [samuelmarina/is-odd](https://github.com/samuelmarina/is-odd) - Is a number odd? (today)
+- [samuelmarina/is-even](https://github.com/samuelmarina/is-even) - Is a number even? (today)
+- [jchristn/WatsonWebsocket](https://github.com/jchristn/WatsonWebsocket) - A simple C# async websocket server and client for reliable transmission and receipt of data (today)
 
 ## 🔨 Latest Pull Requests I published
 
