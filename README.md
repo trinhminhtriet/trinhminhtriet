@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [coditori/highly-skilled-job-offers](https://github.com/coditori/highly-skilled-job-offers) - Sharing some info around job offers and interviews preparations (today)
-- [CharlyKeleb/TravelersSociaApp-UiKit](https://github.com/CharlyKeleb/TravelersSociaApp-UiKit) - Flutter representation of a Travel Social App concept (today)
-- [CharlyKeleb/Animations](https://github.com/CharlyKeleb/Animations) - Flutter animations (today)
-- [CharlyKeleb/SocialMedia-App](https://github.com/CharlyKeleb/SocialMedia-App) - A fully functional social media app built with flutter with multiple features (today)
-- [arxyzan/data2vec-pytorch](https://github.com/arxyzan/data2vec-pytorch) - PyTorch implementation of "data2vec: A General Framework for Self-supervised Learning in Speech, Vision and Language" from Meta AI (today)
+- [rootac355/SQL-injection-dorks-list](https://github.com/rootac355/SQL-injection-dorks-list) - Nice list of google dorks for SQL injection (today)
+- [teamhide/fastapi-layered-architecture](https://github.com/teamhide/fastapi-layered-architecture) - FastAPI Layered Architecture (today)
+- [teamhide/fastapi-boilerplate](https://github.com/teamhide/fastapi-boilerplate) - FastAPI boilerplate for real world production (today)
+- [amirgholami/ai_and_memory_wall](https://github.com/amirgholami/ai_and_memory_wall) - AI and Memory Wall (today)
+- [amirgholami/adahessian](https://github.com/amirgholami/adahessian) - ADAHESSIAN: An Adaptive Second Order Optimizer for Machine Learning (today)
 
 ## 🔨 Latest Pull Requests I published
 
