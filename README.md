@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [srawlins/allocation_stats](https://github.com/srawlins/allocation_stats) - Tooling for tracing object allocations in Ruby 2.1 (1 day ago)
-- [kevmoo/git](https://github.com/kevmoo/git) - A dart wrapper around the git command line binary (1 day ago)
-- [kevmoo/pubviz](https://github.com/kevmoo/pubviz) - Visualize package dependencies in your Dart project (1 day ago)
-- [kevmoo/slide_puzzle](https://github.com/kevmoo/slide_puzzle) - The classic slide (15) puzzle in Dart and Flutter (1 day ago)
-- [kevmoo/peanut.dart](https://github.com/kevmoo/peanut.dart) - Easily build and deploy your Dart web app to GitHub pages (1 day ago)
+- [renatoathaydes/LogFX](https://github.com/renatoathaydes/LogFX) - LogFX is a simple Log reader supporting color highlighting and able to handle giant files. (today)
+- [renatoathaydes/rawhttp](https://github.com/renatoathaydes/rawhttp) - HTTP library to make it easy to deal with raw HTTP. (today)
+- [renatoathaydes/spock-reports](https://github.com/renatoathaydes/spock-reports) - This project creates a global extension to Spock to create test reports. (today)
+- [stevedonovan/Lake](https://github.com/stevedonovan/Lake) - A Lua-based Build Tool (today)
+- [stevedonovan/runner](https://github.com/stevedonovan/runner) - Tool for running Rust snippets (today)
 
 ## 🔨 Latest Pull Requests I published
 
