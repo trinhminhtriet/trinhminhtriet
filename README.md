@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [Madhur215/Django-ChatApp](https://github.com/Madhur215/Django-ChatApp) - A chat application built using Django Rest Framework. Users can add other users as friends and have one to one chat.   (today)
-- [amradel2020/vlsi_linkedin_index](https://github.com/amradel2020/vlsi_linkedin_index) - This repo provide an index of VLSI content creators and their materials (today)
-- [jacogr/substrate-ledger-ed25519](https://github.com/jacogr/substrate-ledger-ed25519) - Extract Substrate and Polkadot compatible ed25519 keys from Ledger mnemonic phrases (today)
-- [jacogr/atom-git-control](https://github.com/jacogr/atom-git-control) - Not maintained :( (today)
-- [Lapple/react-transitive-number](https://github.com/Lapple/react-transitive-number) - React component to apply transition effect to numeric strings, a la old Groupon timers (today)
+- [kuutsav/LeetComp](https://github.com/kuutsav/LeetComp) - Moved to https://github.com/kuutsav/leetcode-compensation (today)
+- [kuutsav/information-retrieval](https://github.com/kuutsav/information-retrieval) - Neural information retrieval / Semantic search / Bi-encoders (today)
+- [kuutsav/leetcode-compensation](https://github.com/kuutsav/leetcode-compensation) - Near real-time LeetCode compensation insights for India (today)
+- [AlreadyBored/basic-js](https://github.com/AlreadyBored/basic-js) (today)
+- [basmilius/weather-icons](https://github.com/basmilius/weather-icons) - Free to use animated weather icons. (today)
 
 ## 🔨 Latest Pull Requests I published
 
