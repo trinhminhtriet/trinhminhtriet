@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [WestLee95](https://github.com/WestLee95)
 - [abhijeetBhale](https://github.com/abhijeetBhale)
 - [Large-Diamond](https://github.com/Large-Diamond)
 - [BEPb](https://github.com/BEPb)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [achenachena](https://github.com/achenachena)
 - [illegal-instruction-co](https://github.com/illegal-instruction-co)
 - [parhammohtasham](https://github.com/parhammohtasham)
-- [CarinaMendesDev](https://github.com/CarinaMendesDev)
 
 ## ⭐ Recent stars
 
-- [eminfedar/fedar-f1-rv64im](https://github.com/eminfedar/fedar-f1-rv64im) - 5-Stage Pipelined RV64IM RISC-V CPU design in Verilog. (today)
-- [eminfedar/async-sockets-cpp](https://github.com/eminfedar/async-sockets-cpp) - Simple thread-based asynchronous TCP & UDP Socket classes in C++. (today)
-- [kaitoukito/Integrated-Circuit-Textbooks](https://github.com/kaitoukito/Integrated-Circuit-Textbooks) - Collect some IC textbooks for learning. (today)
-- [kaitoukito/A-Primer-on-Memory-Consistency-and-Cache-Coherence](https://github.com/kaitoukito/A-Primer-on-Memory-Consistency-and-Cache-Coherence) - A Primer on Memory Consistency and Cache Coherence (Second Edition) 翻译计划 (today)
-- [michellexliu/receiptify](https://github.com/michellexliu/receiptify) (today)
+- [jacurtis/laravel-blog-tutorial](https://github.com/jacurtis/laravel-blog-tutorial) - Follow along with how we built this blog using Laravel on YouTube. Read the Readme for more details. Watch it here: (today)
+- [musayazlik/resource-archive-for-designers-and-developers](https://github.com/musayazlik/resource-archive-for-designers-and-developers) - I share with you my archive that I have collected from 2017 to the present day about design and software. What is there everything ... (today)
+- [realsuayip/django-sozluk](https://github.com/realsuayip/django-sozluk) - an exhaustive ekşi sözlük clone, powered by Python (today)
+- [yasaricli/react-native-dots-pagination](https://github.com/yasaricli/react-native-dots-pagination) - A simple dot paging for React Native. (today)
+- [hakandundar34coding/system-monitoring-center](https://github.com/hakandundar34coding/system-monitoring-center) - Multi-featured system monitor (today)
 
 ## 🔨 Latest Pull Requests I published
 
