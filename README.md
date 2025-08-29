@@ -46,7 +46,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
-- [WestLee95](https://github.com/WestLee95)
 - [abhijeetBhale](https://github.com/abhijeetBhale)
 - [Large-Diamond](https://github.com/Large-Diamond)
 - [BEPb](https://github.com/BEPb)
@@ -56,14 +55,15 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [achenachena](https://github.com/achenachena)
 - [illegal-instruction-co](https://github.com/illegal-instruction-co)
 - [parhammohtasham](https://github.com/parhammohtasham)
+- [CarinaMendesDev](https://github.com/CarinaMendesDev)
 
 ## ⭐ Recent stars
 
-- [jacurtis/laravel-blog-tutorial](https://github.com/jacurtis/laravel-blog-tutorial) - Follow along with how we built this blog using Laravel on YouTube. Read the Readme for more details. Watch it here: (today)
-- [musayazlik/resource-archive-for-designers-and-developers](https://github.com/musayazlik/resource-archive-for-designers-and-developers) - I share with you my archive that I have collected from 2017 to the present day about design and software. What is there everything ... (today)
-- [realsuayip/django-sozluk](https://github.com/realsuayip/django-sozluk) - an exhaustive ekşi sözlük clone, powered by Python (today)
-- [yasaricli/react-native-dots-pagination](https://github.com/yasaricli/react-native-dots-pagination) - A simple dot paging for React Native. (today)
-- [hakandundar34coding/system-monitoring-center](https://github.com/hakandundar34coding/system-monitoring-center) - Multi-featured system monitor (today)
+- [CTA-Ripple/Ripple-V1.0](https://github.com/CTA-Ripple/Ripple-V1.0) - open radar API standard to enable hardware / software interoperability and accelerate the growth of applications of general purpose consumer radar. For more information visit cta.tech/Ripple. (today)
+- [lovyan03/ESP32_ScreenShotReceiver](https://github.com/lovyan03/ESP32_ScreenShotReceiver) - ESP32 ScreenShotReceiver. Send jpegs from your Windows PC to the ESP32 receiver. (today)
+- [lovyan03/M5Stack_LovyanLauncher](https://github.com/lovyan03/M5Stack_LovyanLauncher) - M5Stack Tools & Application Launcher (today)
+- [lovyan03/LovyanGFX](https://github.com/lovyan03/LovyanGFX) - SPI LCD graphics library for ESP32 (ESP-IDF/ArduinoESP32) / ESP8266 (ArduinoESP8266) / SAMD51(Seeed ArduinoSAMD51) (today)
+- [martin2250/OpenCNCPilot](https://github.com/martin2250/OpenCNCPilot) - autolevelling gcode-sender for grbl (today)
 
 ## 🔨 Latest Pull Requests I published
 
