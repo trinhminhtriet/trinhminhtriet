@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [abhijeetBhale](https://github.com/abhijeetBhale)
 - [Large-Diamond](https://github.com/Large-Diamond)
 - [BEPb](https://github.com/BEPb)
 - [Kwynto](https://github.com/Kwynto)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [illegal-instruction-co](https://github.com/illegal-instruction-co)
 - [parhammohtasham](https://github.com/parhammohtasham)
 - [CarinaMendesDev](https://github.com/CarinaMendesDev)
-- [VictoriaCabirta](https://github.com/VictoriaCabirta)
 
 ## ⭐ Recent stars
 
+- [Madhur215/Django-ChatApp](https://github.com/Madhur215/Django-ChatApp) - A chat application built using Django Rest Framework. Users can add other users as friends and have one to one chat.   (today)
+- [amradel2020/vlsi_linkedin_index](https://github.com/amradel2020/vlsi_linkedin_index) - This repo provide an index of VLSI content creators and their materials (today)
+- [jacogr/substrate-ledger-ed25519](https://github.com/jacogr/substrate-ledger-ed25519) - Extract Substrate and Polkadot compatible ed25519 keys from Ledger mnemonic phrases (today)
+- [jacogr/atom-git-control](https://github.com/jacogr/atom-git-control) - Not maintained :( (today)
 - [Lapple/react-transitive-number](https://github.com/Lapple/react-transitive-number) - React component to apply transition effect to numeric strings, a la old Groupon timers (today)
-- [Lapple/react-json-inspector](https://github.com/Lapple/react-json-inspector) - React JSON inspector component (today)
-- [Lapple/ErrorBoard](https://github.com/Lapple/ErrorBoard) - Track and fix JavaScript errors fired by your visitor's browsers. (today)
-- [Ismaestro/angular-example-app](https://github.com/Ismaestro/angular-example-app) - Angular Example App is a beginner-friendly, production-ready web application built with Angular 19. It serves as a real-world example showcasing core Angular features such as CRUD operations, authentication, i18n (internationalization), lazy loading, and signals. (today)
-- [rootac355/SQL-injection-dorks-list](https://github.com/rootac355/SQL-injection-dorks-list) - Nice list of google dorks for SQL injection (today)
 
 ## 🔨 Latest Pull Requests I published
 
