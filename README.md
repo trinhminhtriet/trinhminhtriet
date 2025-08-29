@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [BEPb](https://github.com/BEPb)
 - [Kwynto](https://github.com/Kwynto)
 - [atEMq963kO6](https://github.com/atEMq963kO6)
 - [Raquel-Fernandez](https://github.com/Raquel-Fernandez)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [CarinaMendesDev](https://github.com/CarinaMendesDev)
 - [VictoriaCabirta](https://github.com/VictoriaCabirta)
 - [EgeOnderX](https://github.com/EgeOnderX)
-- [nshutifabrice09](https://github.com/nshutifabrice09)
 
 ## ⭐ Recent stars
 
+- [Bruteforceman/dynamic-progamming-book](https://github.com/Bruteforceman/dynamic-progamming-book) (today)
+- [PriontoAbdullah/Frontend-Interview-Preparation-for-Interns-and-Junior-Developers](https://github.com/PriontoAbdullah/Frontend-Interview-Preparation-for-Interns-and-Junior-Developers) - 🔥🚀 Here you will find all the materials required for a fresher front-end interview. 💡📚 A list of helpful front-end related questions, answers, notes, blog, video, code example 🎁 You can take interview preparation as a potential candidate and test yourself. 💣 (today)
 - [akashyap2013/Books-bootstrap-website](https://github.com/akashyap2013/Books-bootstrap-website) - In this project, we had created a complete books website. (today)
 - [akashyap2013/MERN_Login_App_with_ResetEmail](https://github.com/akashyap2013/MERN_Login_App_with_ResetEmail) - In this project, we are going to create the MERN Login App with Reset Email Feature. (today)
 - [akashyap2013/CRUD_Application_Node](https://github.com/akashyap2013/CRUD_Application_Node) - In this project, we are going to create node CRUD application with express and mongodb. (today)
-- [akashyap2013/Blooger_Website](https://github.com/akashyap2013/Blooger_Website) - This is the complete blooger website create using html and css (today)
-- [akashyap2013/Mobile_Shopee-E-Commerce-Website](https://github.com/akashyap2013/Mobile_Shopee-E-Commerce-Website) - In this complete E-commerce Website, We will take a look at how to create Mobile Shopee Using PHP and Mysql Database. We gonna start by creating an HTML template then convert it into PHP and then use MySQL database to fetch products and display it in the project. (today)
 
 ## 🔨 Latest Pull Requests I published
 
