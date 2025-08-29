@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [eminfedar/fedar-f1-rv64im](https://github.com/eminfedar/fedar-f1-rv64im) - 5-Stage Pipelined RV64IM RISC-V CPU design in Verilog. (today)
+- [eminfedar/async-sockets-cpp](https://github.com/eminfedar/async-sockets-cpp) - Simple thread-based asynchronous TCP & UDP Socket classes in C++. (today)
+- [kaitoukito/Integrated-Circuit-Textbooks](https://github.com/kaitoukito/Integrated-Circuit-Textbooks) - Collect some IC textbooks for learning. (today)
+- [kaitoukito/A-Primer-on-Memory-Consistency-and-Cache-Coherence](https://github.com/kaitoukito/A-Primer-on-Memory-Consistency-and-Cache-Coherence) - A Primer on Memory Consistency and Cache Coherence (Second Edition) 翻译计划 (today)
 - [michellexliu/receiptify](https://github.com/michellexliu/receiptify) (today)
-- [tweneboah/Full-Stack-Web-Development-Bootcamp-Course](https://github.com/tweneboah/Full-Stack-Web-Development-Bootcamp-Course) - Full-Stack-Web-Development-Bootcamp-Course. This GitHub repository contains the entire curriculum for our Full Stack Web Development Bootcamp Course. The course covers a wide range of subjects, including HTML, CSS, JavaScript, Node.js, Express, React, and MongoDB.  (today)
-- [nschurmann/mongoapp-curso-docker](https://github.com/nschurmann/mongoapp-curso-docker) - Aplicación para el curso gratuito de docker (today)
-- [nschurmann/configs](https://github.com/nschurmann/configs) - My neovim configuration (today)
-- [jkb0o/belly](https://github.com/jkb0o/belly) - Define the Bevy UI tree with `eml!`, style it using a very-css-like `ess` syntax and relate data data with `bind!` and `connect!` (today)
 
 ## 🔨 Latest Pull Requests I published
 
