@@ -33,7 +33,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👷 Check out what I'm currently working on
 
-- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (2 days ago)
+- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (today)
 - [nctl-io/.github](https://github.com/nctl-io/.github) - 🌐 Network. Connect. Transform. Lead. (3 days ago)
 - [nctl-io/nctl-branding](https://github.com/nctl-io/nctl-branding) - NCTL Branding 🖼️: Centralized assets and guidelines for consistent visual identity across NCTL projects and platforms. (4 days ago)
 - [nctl-io/nctl-homepage](https://github.com/nctl-io/nctl-homepage) - 🚀 Modern homepage for NCTL: fast, responsive, TypeScript-powered, open source, and easy to customize. (4 days ago)
@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [CTA-Ripple/Ripple-V1.0](https://github.com/CTA-Ripple/Ripple-V1.0) - open radar API standard to enable hardware / software interoperability and accelerate the growth of applications of general purpose consumer radar. For more information visit cta.tech/Ripple. (1 day ago)
-- [lovyan03/ESP32_ScreenShotReceiver](https://github.com/lovyan03/ESP32_ScreenShotReceiver) - ESP32 ScreenShotReceiver. Send jpegs from your Windows PC to the ESP32 receiver. (1 day ago)
-- [lovyan03/M5Stack_LovyanLauncher](https://github.com/lovyan03/M5Stack_LovyanLauncher) - M5Stack Tools & Application Launcher (1 day ago)
-- [lovyan03/LovyanGFX](https://github.com/lovyan03/LovyanGFX) - SPI LCD graphics library for ESP32 (ESP-IDF/ArduinoESP32) / ESP8266 (ArduinoESP8266) / SAMD51(Seeed ArduinoSAMD51) (1 day ago)
-- [martin2250/OpenCNCPilot](https://github.com/martin2250/OpenCNCPilot) - autolevelling gcode-sender for grbl (1 day ago)
+- [XenoAmess/p3c](https://github.com/XenoAmess/p3c) - Alibaba Java Coding Guidelines pmd implements and IDE plugin (today)
+- [canyie/SettingsFirewall](https://github.com/canyie/SettingsFirewall) - Block shitty apps from reading system settings (today)
+- [canyie/NbInjection](https://github.com/canyie/NbInjection) - PoC of injecting zygote processes by replacing system native bridge support (today)
+- [canyie/CVE-2024-0044](https://github.com/canyie/CVE-2024-0044) - PoC and writeup for bypassing the initial patch of CVE-2024-0044, Android run-as any app vulnerability allowing privilege escalation from adb to installed app (today)
+- [canyie/MagiskEoP](https://github.com/canyie/MagiskEoP) - Exploit and writeup for installed app to root privilege escalation through CVE-2024-48336 (Magisk Bug #8279), Privileges Escalation / Arbitrary Code Execution Vulnerability (today)
 
 ## 🔨 Latest Pull Requests I published
 
