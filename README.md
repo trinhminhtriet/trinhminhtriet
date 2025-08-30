@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [f-bader/TokenTacticsV2](https://github.com/f-bader/TokenTacticsV2) - A fork of the great TokenTactics with support for CAE and token endpoint v2 (today)
-- [mickael-kerjean/webpty](https://github.com/mickael-kerjean/webpty) - A secure webshell (today)
-- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: A file manager / web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ... (today)
-- [JakeChampion/fetch](https://github.com/JakeChampion/fetch) - A window.fetch JavaScript polyfill. (today)
-- [jasonlong/benfords-law](https://github.com/jasonlong/benfords-law) - Experimenting with Benford's Law (today)
+- [viezel/NappSlideMenu](https://github.com/viezel/NappSlideMenu) - a new UI component for Appcelerator Titanium  (today)
+- [viezel/napp.alloy.adapter.restsql](https://github.com/viezel/napp.alloy.adapter.restsql) - SQL & RestAPI Sync Adapter for Titanium Alloy Framework (today)
+- [viezel/napp.alloy.adapter.restapi](https://github.com/viezel/napp.alloy.adapter.restapi) - RestAPI Sync Adapter for Titanium Alloy Framework (today)
+- [viezel/NappDrawer](https://github.com/viezel/NappDrawer) - A side drawer navigation container view controller for Appcelerator Titanium. (today)
+- [viezel/TiSocial.Framework](https://github.com/viezel/TiSocial.Framework) - iOS6+ Social.Framework. Appcelerator apps are able to share content to Facebook and Twitter. (today)
 
 ## 🔨 Latest Pull Requests I published
 
