@@ -54,8 +54,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [motanelson](https://github.com/motanelson)
 - [moopdee](https://github.com/moopdee)
 - [abhijeetBhale](https://github.com/abhijeetBhale)
-- [Large-Diamond](https://github.com/Large-Diamond)
 - [BEPb](https://github.com/BEPb)
+- [Kwynto](https://github.com/Kwynto)
 
 ## ⭐ Recent stars
 
