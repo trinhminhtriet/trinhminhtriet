@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [victorykop](https://github.com/victorykop)
+- [benjamineruvieru](https://github.com/benjamineruvieru)
 - [ShahwaizZahid](https://github.com/ShahwaizZahid)
 - [parhamdavin](https://github.com/parhamdavin)
 - [thisiszana](https://github.com/thisiszana)
@@ -54,16 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [abhijeetBhale](https://github.com/abhijeetBhale)
 - [Large-Diamond](https://github.com/Large-Diamond)
 - [BEPb](https://github.com/BEPb)
-- [Kwynto](https://github.com/Kwynto)
-- [atEMq963kO6](https://github.com/atEMq963kO6)
 
 ## ⭐ Recent stars
 
-- [kousen/Spring-Framework-Essentials](https://github.com/kousen/Spring-Framework-Essentials) - Projects used in Spring Framework Essentials video course (today)
-- [kousen/java_upgrade](https://github.com/kousen/java_upgrade) - Code for Java upgrade workshop (today)
-- [kousen/Making-Java-Groovy](https://github.com/kousen/Making-Java-Groovy) - Source code for Manning book "Making Java Groovy" (today)
-- [kousen/kotlin-cookbook](https://github.com/kousen/kotlin-cookbook) - Code from the book _Kotlin Cookbook_, published by O'Reilly Media in 2019, http://shop.oreilly.com/product/0636920224327.do (today)
-- [kousen/spring-and-spring-boot](https://github.com/kousen/spring-and-spring-boot) - Lab solutions for Spring and Spring Boot course (today)
+- [f-bader/TokenTacticsV2](https://github.com/f-bader/TokenTacticsV2) - A fork of the great TokenTactics with support for CAE and token endpoint v2 (today)
+- [mickael-kerjean/webpty](https://github.com/mickael-kerjean/webpty) - A secure webshell (today)
+- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: A file manager / web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ... (today)
+- [JakeChampion/fetch](https://github.com/JakeChampion/fetch) - A window.fetch JavaScript polyfill. (today)
+- [jasonlong/benfords-law](https://github.com/jasonlong/benfords-law) - Experimenting with Benford's Law (today)
 
 ## 🔨 Latest Pull Requests I published
 
