@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [motanelson](https://github.com/motanelson)
 - [moopdee](https://github.com/moopdee)
 - [abhijeetBhale](https://github.com/abhijeetBhale)
 - [Large-Diamond](https://github.com/Large-Diamond)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Raquel-Fernandez](https://github.com/Raquel-Fernandez)
 - [achenachena](https://github.com/achenachena)
 - [illegal-instruction-co](https://github.com/illegal-instruction-co)
-- [parhammohtasham](https://github.com/parhammohtasham)
 
 ## ⭐ Recent stars
 
-- [XenoAmess/p3c](https://github.com/XenoAmess/p3c) - Alibaba Java Coding Guidelines pmd implements and IDE plugin (today)
-- [canyie/SettingsFirewall](https://github.com/canyie/SettingsFirewall) - Block shitty apps from reading system settings (today)
-- [canyie/NbInjection](https://github.com/canyie/NbInjection) - PoC of injecting zygote processes by replacing system native bridge support (today)
-- [canyie/CVE-2024-0044](https://github.com/canyie/CVE-2024-0044) - PoC and writeup for bypassing the initial patch of CVE-2024-0044, Android run-as any app vulnerability allowing privilege escalation from adb to installed app (today)
-- [canyie/MagiskEoP](https://github.com/canyie/MagiskEoP) - Exploit and writeup for installed app to root privilege escalation through CVE-2024-48336 (Magisk Bug #8279), Privileges Escalation / Arbitrary Code Execution Vulnerability (today)
+- [jondot/crunch](https://github.com/jondot/crunch) - A fast to develop, fast to run, Go based toolkit for ETL and feature extraction on Hadoop. (today)
+- [jondot/react-native-slowlog](https://github.com/jondot/react-native-slowlog) - A high-performance timer based profiler for React Native that helps you track big performance problems. (today)
+- [jondot/awesome-rust-llm](https://github.com/jondot/awesome-rust-llm) - 🦀 A curated list of Rust tools, libraries, and frameworks for working with LLMs, GPT, AI (today)
+- [jondot/rn-snoopy](https://github.com/jondot/rn-snoopy) - Snoopy is a profiling tool for React Native, that lets you snoop on the React Native Bridge. (today)
+- [jondot/groundcontrol](https://github.com/jondot/groundcontrol) - Manage and monitor your Raspberry Pi with ease (today)
 
 ## 🔨 Latest Pull Requests I published
 
