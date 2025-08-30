@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [varunu28/InterviewBit-Java-Solutions](https://github.com/varunu28/InterviewBit-Java-Solutions) - Java code for solutions of interview problems on InterviewBit (today)
-- [varunu28/LeetCode-Java-Solutions](https://github.com/varunu28/LeetCode-Java-Solutions) - Daily grind 🏃 (today)
-- [brunerm99/videos](https://github.com/brunerm99/videos) - Code for my videos focused on radar and RF engineering published to https://www.youtube.com/@MarshallBrunerRF (today)
-- [neuroprod/webgpu](https://github.com/neuroprod/webgpu) - WebGPU Game  (today)
-- [neuroprod/InsectRobotSimulation](https://github.com/neuroprod/InsectRobotSimulation) - hexapod (today)
+- [guanzhenxing/java_interview_manual](https://github.com/guanzhenxing/java_interview_manual) - Java面试手册 (today)
+- [s1mplecc/spark-hadoop-docker](https://github.com/s1mplecc/spark-hadoop-docker) (today)
+- [josephguan/scala-design-patterns](https://github.com/josephguan/scala-design-patterns) - Design patterns implemented in Scala. (today)
+- [wenhao/jpa-spec](https://github.com/wenhao/jpa-spec) - A JPA Query By Specification framework. (today)
+- [Integralist/ProVim](https://github.com/Integralist/ProVim) - Repository to hold dotfiles and scripts specific to ProVim (today)
 
 ## 🔨 Latest Pull Requests I published
 
