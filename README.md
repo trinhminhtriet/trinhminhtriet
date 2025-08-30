@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [jaypei/emacs-neotree](https://github.com/jaypei/emacs-neotree) - A emacs tree plugin like NerdTree for Vim. (today)
-- [drewww/socket.io-benchmarking](https://github.com/drewww/socket.io-benchmarking) - A framework for testing high concurrency behavior in socket.io (today)
-- [aravindpai/How-to-build-own-text-summarizer-using-deep-learning](https://github.com/aravindpai/How-to-build-own-text-summarizer-using-deep-learning) - In this notebook, we will build an abstractive based text summarizer using deep learning from the scratch in python using keras (today)
-- [abougouffa/minemacs](https://github.com/abougouffa/minemacs) - MinEmacs: an Emacs configuration framework for daily use (today)
-- [abougouffa/awesome-coding-standards](https://github.com/abougouffa/awesome-coding-standards) - Collection of C and C++ Coding Standards (today)
+- [SteveBarnegren/SwiftChess](https://github.com/SteveBarnegren/SwiftChess) - Chess engine and AI written in Swift (today)
+- [SteveBarnegren/TweenKit](https://github.com/SteveBarnegren/TweenKit) - Animation library for iOS in Swift (today)
+- [mschwartz/SilkJS](https://github.com/mschwartz/SilkJS) - V8 Based JavaScript Swiss Army Knife (and HTTP Server!) (today)
+- [mschwartz/assembly-tutorial](https://github.com/mschwartz/assembly-tutorial) - Programming in assembly language tutorial (today)
+- [S-March/smarchGlasses_Public](https://github.com/S-March/smarchGlasses_Public) (today)
 
 ## 🔨 Latest Pull Requests I published
 
