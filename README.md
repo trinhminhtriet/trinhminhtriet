@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [johnkmzhou/cordova-create-react-app](https://github.com/johnkmzhou/cordova-create-react-app) - A tutorial on how to set up a Cordova project using Create React App. (today)
+- [coder3101/protols](https://github.com/coder3101/protols) - Language Server for protocol buffers (today)
+- [sdesilva26/docker-spark](https://github.com/sdesilva26/docker-spark) - Tutorial for setting up a Spark cluster running inside of Docker containers located on different machines (today)
 - [aagarwal1012/Image-Steganography-Library-Android](https://github.com/aagarwal1012/Image-Steganography-Library-Android) - ✔️ Hide a secret message in an image (today)
 - [aagarwal1012/IntroViews-Flutter](https://github.com/aagarwal1012/IntroViews-Flutter) - ☀️ A Flutter package for some material design app intro screens with some cool animations. (today)
-- [aagarwal1012/Liquid-Pull-To-Refresh](https://github.com/aagarwal1012/Liquid-Pull-To-Refresh) - 🔁 A custom refresh indicator for flutter. (today)
-- [aagarwal1012/Animated-Text-Kit](https://github.com/aagarwal1012/Animated-Text-Kit) - 🔔  A flutter package to create cool and beautiful text animations. [Flutter Favorite Package] (today)
-- [MaikuB/incrementally_loading_listview](https://github.com/MaikuB/incrementally_loading_listview) - An extension of the Flutter ListView widget for incrementally loading items upon scrolling (today)
 
 ## 🔨 Latest Pull Requests I published
 
