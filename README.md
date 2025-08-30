@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [susantabiswas/realtime-facial-emotion-analyzer](https://github.com/susantabiswas/realtime-facial-emotion-analyzer) - Human Emotion Analysis using facial expressions in real-time from webcam feed. Based on the dataset from Kaggle's Facial Emotion Recognition Challenge. (today)
-- [juanklopper/JuliaCourseNotebooks](https://github.com/juanklopper/JuliaCourseNotebooks) - Jupyter notebooks for the Julia Scientific Programming course on Coursera (today)
-- [juanklopper/MIT_OCW_Linear_Algebra_18_06](https://github.com/juanklopper/MIT_OCW_Linear_Algebra_18_06) - IPython notebooks on Gilbert Strang's MIT course on linear algebra (18.06) (today)
-- [murraco/vue-cheatsheet](https://github.com/murraco/vue-cheatsheet) - Modified version of the official VueMastery cheatsheet (today)
-- [murraco/jekyll-theme-minimal-resume](https://github.com/murraco/jekyll-theme-minimal-resume) - Simple Jekyll theme for a minimal resume website: https://jekyll-theme-minimal-resume.netlify.app (today)
+- [jaypei/emacs-neotree](https://github.com/jaypei/emacs-neotree) - A emacs tree plugin like NerdTree for Vim. (today)
+- [drewww/socket.io-benchmarking](https://github.com/drewww/socket.io-benchmarking) - A framework for testing high concurrency behavior in socket.io (today)
+- [aravindpai/How-to-build-own-text-summarizer-using-deep-learning](https://github.com/aravindpai/How-to-build-own-text-summarizer-using-deep-learning) - In this notebook, we will build an abstractive based text summarizer using deep learning from the scratch in python using keras (today)
+- [abougouffa/minemacs](https://github.com/abougouffa/minemacs) - MinEmacs: an Emacs configuration framework for daily use (today)
+- [abougouffa/awesome-coding-standards](https://github.com/abougouffa/awesome-coding-standards) - Collection of C and C++ Coding Standards (today)
 
 ## 🔨 Latest Pull Requests I published
 
