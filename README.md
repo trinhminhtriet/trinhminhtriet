@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [jondot/crunch](https://github.com/jondot/crunch) - A fast to develop, fast to run, Go based toolkit for ETL and feature extraction on Hadoop. (today)
-- [jondot/react-native-slowlog](https://github.com/jondot/react-native-slowlog) - A high-performance timer based profiler for React Native that helps you track big performance problems. (today)
-- [jondot/awesome-rust-llm](https://github.com/jondot/awesome-rust-llm) - 🦀 A curated list of Rust tools, libraries, and frameworks for working with LLMs, GPT, AI (today)
-- [jondot/rn-snoopy](https://github.com/jondot/rn-snoopy) - Snoopy is a profiling tool for React Native, that lets you snoop on the React Native Bridge. (today)
-- [jondot/groundcontrol](https://github.com/jondot/groundcontrol) - Manage and monitor your Raspberry Pi with ease (today)
+- [saghul/uvent](https://github.com/saghul/uvent) - A gevent core implemented using libuv (today)
+- [saghul/python-fibers](https://github.com/saghul/python-fibers) - Lightweight cooperative microthreads for Python (today)
+- [saghul/pycares](https://github.com/saghul/pycares) - Python interface for c-ares (today)
+- [saghul/lxd-alpine-builder](https://github.com/saghul/lxd-alpine-builder) - Build Alpine Linux images for LXD (today)
+- [saghul/sipp-scenarios](https://github.com/saghul/sipp-scenarios) - SIPp scenarios I use for testing SIP stuff (today)
 
 ## 🔨 Latest Pull Requests I published
 
