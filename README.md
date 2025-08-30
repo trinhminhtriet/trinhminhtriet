@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [jialeicui/open-lx01](https://github.com/jialeicui/open-lx01) - 小爱音箱mini定制固件   Let the Xiao Ai Speaker Mini free (today)
-- [GuyZhangZhang/falcon-ngx_metric](https://github.com/GuyZhangZhang/falcon-ngx_metric) - falcon plugin for nginx statistic (today)
-- [nicolesaidy/awesome-web-design](https://github.com/nicolesaidy/awesome-web-design) - 🎨 A curated list of awesome resources for digital designers. (today)
-- [MlxChange/MlxTalk](https://github.com/MlxChange/MlxTalk) (today)
-- [MlxChange/WaveDisPlay](https://github.com/MlxChange/WaveDisPlay) - A view that can be used like recyclerView to see the content of the next or previous page (today)
+- [lx544690189/vue-mobile-calendar](https://github.com/lx544690189/vue-mobile-calendar) - a vue component of calendar for mobile移动端vue日期选择组件 (today)
+- [ITJoker233/Gridea-theme-Chic](https://github.com/ITJoker233/Gridea-theme-Chic) - 这个主题出自Hexo中的-Chic....我移植到了Gridea，喜欢的点个赞吧👍 (today)
+- [tangxiangmin/cocos-big-watermelon](https://github.com/tangxiangmin/cocos-big-watermelon) - big watermelon by cocos (today)
+- [JChehe/blog](https://github.com/JChehe/blog) - 🌈  原创&翻译 🌈 (today)
+- [jsjzh/vue-tiny-code](https://github.com/jsjzh/vue-tiny-code) - 这里有一个仿 Chrome 调色盘，有一个拖动排版的页面，还有一些新奇的小点子。 (today)
 
 ## 🔨 Latest Pull Requests I published
 
