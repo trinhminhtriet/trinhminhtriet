@@ -34,15 +34,15 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 ## 👷 Check out what I'm currently working on
 
 - [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (today)
+- [nctl-io/nctl-roadmap](https://github.com/nctl-io/nctl-roadmap) (today)
 - [nctl-io/.github](https://github.com/nctl-io/.github) - 🌐 Network. Connect. Transform. Lead. (3 days ago)
 - [nctl-io/nctl-branding](https://github.com/nctl-io/nctl-branding) - NCTL Branding 🖼️: Centralized assets and guidelines for consistent visual identity across NCTL projects and platforms. (4 days ago)
 - [nctl-io/nctl-homepage](https://github.com/nctl-io/nctl-homepage) - 🚀 Modern homepage for NCTL: fast, responsive, TypeScript-powered, open source, and easy to customize. (4 days ago)
 - [trinhminhtriet/sizr](https://github.com/trinhminhtriet/sizr) - 📈 A fast, Rust-based tool to analyze file system usage with colorful output, file aggregation, exclusions, and directory comparisons. (5 days ago)
-- [rust-rs/tabler](https://github.com/rust-rs/tabler) - 📊 Tabler: A lightweight TUI tool to view, query, and navigate CSV, TSV, and Parquet data files. (6 days ago)
-- [trinhminhtriet/spiko](https://github.com/trinhminhtriet/spiko) - 🚀 Spiko is a fast, Rust-based load testing tool with a beautiful TUI for real-time insights. (6 days ago)
-- [trinhminhtriet/java-skel-cli](https://github.com/trinhminhtriet/java-skel-cli) - 🦴 Skel CLI: A command-line tool for generating project skeletons in multiple languages, fast and customizable. (6 days ago)
 - [trinhminhtriet/blast](https://github.com/trinhminhtriet/blast) - 🚀 Blast: A powerful, lightweight HTTP load generator for stress testing and benchmarking web applications with ease. (6 days ago)
-- [trinhminhtriet/github-toolkit](https://github.com/trinhminhtriet/github-toolkit) - github-toolkit: Scrapes GitHub developers, followers, repositories into MySQL database. (1 week ago)
+- [trinhminhtriet/spiko](https://github.com/trinhminhtriet/spiko) - 🚀 Spiko is a fast, Rust-based load testing tool with a beautiful TUI for real-time insights. (6 days ago)
+- [rust-rs/tabler](https://github.com/rust-rs/tabler) - 📊 Tabler: A lightweight TUI tool to view, query, and navigate CSV, TSV, and Parquet data files. (6 days ago)
+- [trinhminhtriet/java-skel-cli](https://github.com/trinhminhtriet/java-skel-cli) - 🦴 Skel CLI: A command-line tool for generating project skeletons in multiple languages, fast and customizable. (6 days ago)
 
 ## 👯 Check out my recent followers
 
@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [saghul/uvent](https://github.com/saghul/uvent) - A gevent core implemented using libuv (today)
-- [saghul/python-fibers](https://github.com/saghul/python-fibers) - Lightweight cooperative microthreads for Python (today)
-- [saghul/pycares](https://github.com/saghul/pycares) - Python interface for c-ares (today)
-- [saghul/lxd-alpine-builder](https://github.com/saghul/lxd-alpine-builder) - Build Alpine Linux images for LXD (today)
-- [saghul/sipp-scenarios](https://github.com/saghul/sipp-scenarios) - SIPp scenarios I use for testing SIP stuff (today)
+- [aagarwal1012/Image-Steganography-Library-Android](https://github.com/aagarwal1012/Image-Steganography-Library-Android) - ✔️ Hide a secret message in an image (today)
+- [aagarwal1012/IntroViews-Flutter](https://github.com/aagarwal1012/IntroViews-Flutter) - ☀️ A Flutter package for some material design app intro screens with some cool animations. (today)
+- [aagarwal1012/Liquid-Pull-To-Refresh](https://github.com/aagarwal1012/Liquid-Pull-To-Refresh) - 🔁 A custom refresh indicator for flutter. (today)
+- [aagarwal1012/Animated-Text-Kit](https://github.com/aagarwal1012/Animated-Text-Kit) - 🔔  A flutter package to create cool and beautiful text animations. [Flutter Favorite Package] (today)
+- [MaikuB/incrementally_loading_listview](https://github.com/MaikuB/incrementally_loading_listview) - An extension of the Flutter ListView widget for incrementally loading items upon scrolling (today)
 
 ## 🔨 Latest Pull Requests I published
 
