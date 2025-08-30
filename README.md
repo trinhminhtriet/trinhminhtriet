@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [parhamdavin](https://github.com/parhamdavin)
 - [thisiszana](https://github.com/thisiszana)
 - [motanelson](https://github.com/motanelson)
 - [moopdee](https://github.com/moopdee)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Kwynto](https://github.com/Kwynto)
 - [atEMq963kO6](https://github.com/atEMq963kO6)
 - [Raquel-Fernandez](https://github.com/Raquel-Fernandez)
-- [achenachena](https://github.com/achenachena)
 
 ## ⭐ Recent stars
 
-- [guanzhenxing/java_interview_manual](https://github.com/guanzhenxing/java_interview_manual) - Java面试手册 (today)
-- [s1mplecc/spark-hadoop-docker](https://github.com/s1mplecc/spark-hadoop-docker) (today)
-- [josephguan/scala-design-patterns](https://github.com/josephguan/scala-design-patterns) - Design patterns implemented in Scala. (today)
-- [wenhao/jpa-spec](https://github.com/wenhao/jpa-spec) - A JPA Query By Specification framework. (today)
-- [Integralist/ProVim](https://github.com/Integralist/ProVim) - Repository to hold dotfiles and scripts specific to ProVim (today)
+- [jialeicui/open-lx01](https://github.com/jialeicui/open-lx01) - 小爱音箱mini定制固件   Let the Xiao Ai Speaker Mini free (today)
+- [GuyZhangZhang/falcon-ngx_metric](https://github.com/GuyZhangZhang/falcon-ngx_metric) - falcon plugin for nginx statistic (today)
+- [nicolesaidy/awesome-web-design](https://github.com/nicolesaidy/awesome-web-design) - 🎨 A curated list of awesome resources for digital designers. (today)
+- [MlxChange/MlxTalk](https://github.com/MlxChange/MlxTalk) (today)
+- [MlxChange/WaveDisPlay](https://github.com/MlxChange/WaveDisPlay) - A view that can be used like recyclerView to see the content of the next or previous page (today)
 
 ## 🔨 Latest Pull Requests I published
 
