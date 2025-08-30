@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [thisiszana](https://github.com/thisiszana)
 - [motanelson](https://github.com/motanelson)
 - [moopdee](https://github.com/moopdee)
 - [abhijeetBhale](https://github.com/abhijeetBhale)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [atEMq963kO6](https://github.com/atEMq963kO6)
 - [Raquel-Fernandez](https://github.com/Raquel-Fernandez)
 - [achenachena](https://github.com/achenachena)
-- [illegal-instruction-co](https://github.com/illegal-instruction-co)
 
 ## ⭐ Recent stars
 
-- [SteveBarnegren/SwiftChess](https://github.com/SteveBarnegren/SwiftChess) - Chess engine and AI written in Swift (today)
-- [SteveBarnegren/TweenKit](https://github.com/SteveBarnegren/TweenKit) - Animation library for iOS in Swift (today)
-- [mschwartz/SilkJS](https://github.com/mschwartz/SilkJS) - V8 Based JavaScript Swiss Army Knife (and HTTP Server!) (today)
-- [mschwartz/assembly-tutorial](https://github.com/mschwartz/assembly-tutorial) - Programming in assembly language tutorial (today)
-- [S-March/smarchGlasses_Public](https://github.com/S-March/smarchGlasses_Public) (today)
+- [codinginflow/2DPlatformerBeginner](https://github.com/codinginflow/2DPlatformerBeginner) (today)
+- [codinginflow/ImageSearchApp](https://github.com/codinginflow/ImageSearchApp) (today)
+- [codinginflow/MVVMTodo](https://github.com/codinginflow/MVVMTodo) (today)
+- [codinginflow/MVVMNewsApp](https://github.com/codinginflow/MVVMNewsApp) (today)
+- [codinginflow/nextjs-15-social-media-app](https://github.com/codinginflow/nextjs-15-social-media-app) (today)
 
 ## 🔨 Latest Pull Requests I published
 
