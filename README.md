@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [codinginflow/2DPlatformerBeginner](https://github.com/codinginflow/2DPlatformerBeginner) (today)
-- [codinginflow/ImageSearchApp](https://github.com/codinginflow/ImageSearchApp) (today)
-- [codinginflow/MVVMTodo](https://github.com/codinginflow/MVVMTodo) (today)
-- [codinginflow/MVVMNewsApp](https://github.com/codinginflow/MVVMNewsApp) (today)
-- [codinginflow/nextjs-15-social-media-app](https://github.com/codinginflow/nextjs-15-social-media-app) (today)
+- [varunu28/InterviewBit-Java-Solutions](https://github.com/varunu28/InterviewBit-Java-Solutions) - Java code for solutions of interview problems on InterviewBit (today)
+- [varunu28/LeetCode-Java-Solutions](https://github.com/varunu28/LeetCode-Java-Solutions) - Daily grind 🏃 (today)
+- [brunerm99/videos](https://github.com/brunerm99/videos) - Code for my videos focused on radar and RF engineering published to https://www.youtube.com/@MarshallBrunerRF (today)
+- [neuroprod/webgpu](https://github.com/neuroprod/webgpu) - WebGPU Game  (today)
+- [neuroprod/InsectRobotSimulation](https://github.com/neuroprod/InsectRobotSimulation) - hexapod (today)
 
 ## 🔨 Latest Pull Requests I published
 
