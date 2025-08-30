@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [ShahwaizZahid](https://github.com/ShahwaizZahid)
 - [parhamdavin](https://github.com/parhamdavin)
 - [thisiszana](https://github.com/thisiszana)
 - [motanelson](https://github.com/motanelson)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [BEPb](https://github.com/BEPb)
 - [Kwynto](https://github.com/Kwynto)
 - [atEMq963kO6](https://github.com/atEMq963kO6)
-- [Raquel-Fernandez](https://github.com/Raquel-Fernandez)
 
 ## ⭐ Recent stars
 
-- [lx544690189/vue-mobile-calendar](https://github.com/lx544690189/vue-mobile-calendar) - a vue component of calendar for mobile移动端vue日期选择组件 (today)
-- [ITJoker233/Gridea-theme-Chic](https://github.com/ITJoker233/Gridea-theme-Chic) - 这个主题出自Hexo中的-Chic....我移植到了Gridea，喜欢的点个赞吧👍 (today)
-- [tangxiangmin/cocos-big-watermelon](https://github.com/tangxiangmin/cocos-big-watermelon) - big watermelon by cocos (today)
-- [JChehe/blog](https://github.com/JChehe/blog) - 🌈  原创&翻译 🌈 (today)
-- [jsjzh/vue-tiny-code](https://github.com/jsjzh/vue-tiny-code) - 这里有一个仿 Chrome 调色盘，有一个拖动排版的页面，还有一些新奇的小点子。 (today)
+- [kousen/Spring-Framework-Essentials](https://github.com/kousen/Spring-Framework-Essentials) - Projects used in Spring Framework Essentials video course (today)
+- [kousen/java_upgrade](https://github.com/kousen/java_upgrade) - Code for Java upgrade workshop (today)
+- [kousen/Making-Java-Groovy](https://github.com/kousen/Making-Java-Groovy) - Source code for Manning book "Making Java Groovy" (today)
+- [kousen/kotlin-cookbook](https://github.com/kousen/kotlin-cookbook) - Code from the book _Kotlin Cookbook_, published by O'Reilly Media in 2019, http://shop.oreilly.com/product/0636920224327.do (today)
+- [kousen/spring-and-spring-boot](https://github.com/kousen/spring-and-spring-boot) - Lab solutions for Spring and Spring Boot course (today)
 
 ## 🔨 Latest Pull Requests I published
 
