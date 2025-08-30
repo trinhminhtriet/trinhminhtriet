@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [johnkmzhou/cordova-create-react-app](https://github.com/johnkmzhou/cordova-create-react-app) - A tutorial on how to set up a Cordova project using Create React App. (today)
-- [coder3101/protols](https://github.com/coder3101/protols) - Language Server for protocol buffers (today)
-- [sdesilva26/docker-spark](https://github.com/sdesilva26/docker-spark) - Tutorial for setting up a Spark cluster running inside of Docker containers located on different machines (today)
-- [aagarwal1012/Image-Steganography-Library-Android](https://github.com/aagarwal1012/Image-Steganography-Library-Android) - ✔️ Hide a secret message in an image (today)
-- [aagarwal1012/IntroViews-Flutter](https://github.com/aagarwal1012/IntroViews-Flutter) - ☀️ A Flutter package for some material design app intro screens with some cool animations. (today)
+- [susantabiswas/realtime-facial-emotion-analyzer](https://github.com/susantabiswas/realtime-facial-emotion-analyzer) - Human Emotion Analysis using facial expressions in real-time from webcam feed. Based on the dataset from Kaggle's Facial Emotion Recognition Challenge. (today)
+- [juanklopper/JuliaCourseNotebooks](https://github.com/juanklopper/JuliaCourseNotebooks) - Jupyter notebooks for the Julia Scientific Programming course on Coursera (today)
+- [juanklopper/MIT_OCW_Linear_Algebra_18_06](https://github.com/juanklopper/MIT_OCW_Linear_Algebra_18_06) - IPython notebooks on Gilbert Strang's MIT course on linear algebra (18.06) (today)
+- [murraco/vue-cheatsheet](https://github.com/murraco/vue-cheatsheet) - Modified version of the official VueMastery cheatsheet (today)
+- [murraco/jekyll-theme-minimal-resume](https://github.com/murraco/jekyll-theme-minimal-resume) - Simple Jekyll theme for a minimal resume website: https://jekyll-theme-minimal-resume.netlify.app (today)
 
 ## 🔨 Latest Pull Requests I published
 
