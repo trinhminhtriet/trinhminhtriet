@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Cre4T3Tiv3](https://github.com/Cre4T3Tiv3)
+- [crypto-superdev](https://github.com/crypto-superdev)
 - [victorykop](https://github.com/victorykop)
 - [benjamineruvieru](https://github.com/benjamineruvieru)
 - [ShahwaizZahid](https://github.com/ShahwaizZahid)
@@ -54,16 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [motanelson](https://github.com/motanelson)
 - [moopdee](https://github.com/moopdee)
 - [abhijeetBhale](https://github.com/abhijeetBhale)
-- [BEPb](https://github.com/BEPb)
-- [Kwynto](https://github.com/Kwynto)
 
 ## ⭐ Recent stars
 
-- [viezel/NappSlideMenu](https://github.com/viezel/NappSlideMenu) - a new UI component for Appcelerator Titanium  (today)
-- [viezel/napp.alloy.adapter.restsql](https://github.com/viezel/napp.alloy.adapter.restsql) - SQL & RestAPI Sync Adapter for Titanium Alloy Framework (today)
-- [viezel/napp.alloy.adapter.restapi](https://github.com/viezel/napp.alloy.adapter.restapi) - RestAPI Sync Adapter for Titanium Alloy Framework (today)
-- [viezel/NappDrawer](https://github.com/viezel/NappDrawer) - A side drawer navigation container view controller for Appcelerator Titanium. (today)
-- [viezel/TiSocial.Framework](https://github.com/viezel/TiSocial.Framework) - iOS6+ Social.Framework. Appcelerator apps are able to share content to Facebook and Twitter. (today)
+- [picandocodigo/List-Category-Posts](https://github.com/picandocodigo/List-Category-Posts) - WordPress plugin which allows you to list posts from a category into a post/page using the [catlist] shortcode. (today)
+- [jlopp/statoshi](https://github.com/jlopp/statoshi) - Bitcoin Core + StatsD integration (today)
+- [jlopp/lopp.net](https://github.com/jlopp/lopp.net) - Personal web site of Jameson Lopp (today)
+- [jlopp/physical-bitcoin-attacks](https://github.com/jlopp/physical-bitcoin-attacks) - A list of known attacks against Bitcoin / crypto asset owning entities that occurred in meatspace. (today)
+- [Hasnayeen/themes](https://github.com/Hasnayeen/themes) - Themes for Filament panels. (today)
 
 ## 🔨 Latest Pull Requests I published
 
