@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [moopdee](https://github.com/moopdee)
 - [abhijeetBhale](https://github.com/abhijeetBhale)
 - [Large-Diamond](https://github.com/Large-Diamond)
 - [BEPb](https://github.com/BEPb)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [achenachena](https://github.com/achenachena)
 - [illegal-instruction-co](https://github.com/illegal-instruction-co)
 - [parhammohtasham](https://github.com/parhammohtasham)
-- [CarinaMendesDev](https://github.com/CarinaMendesDev)
 
 ## ⭐ Recent stars
 
