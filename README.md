@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [dkgaraujo/OpenSourcedMacroModels](https://github.com/dkgaraujo/OpenSourcedMacroModels) - A best-efforts collection of open-sourced macroeconomic models run by central banks and other official sector agencies (ie, ministries of economy) (today)
-- [grantmcdermott/quarto-revealjs-clean](https://github.com/grantmcdermott/quarto-revealjs-clean) - A minimalist and elegant presentation theme for Quarto Reveal.js (today)
-- [grantmcdermott/tinyplot](https://github.com/grantmcdermott/tinyplot) - Lightweight extension of the base R graphics system (today)
-- [p/redis-dump-load](https://github.com/p/redis-dump-load) - Dump redis databases, load data into redis - in Python (today)
-- [fractalwrench/json-2-kotlin](https://github.com/fractalwrench/json-2-kotlin) - Convert JSON to Kotlin Data Classes (today)
+- [h2non/semver.c](https://github.com/h2non/semver.c) - Semantic version in ANSI C (today)
+- [h2non/paco](https://github.com/h2non/paco) - Small utility library for coroutine-driven asynchronous generic programming in Python (today)
+- [h2non/pook](https://github.com/h2non/pook) - HTTP traffic mocking and testing made easy in Python (today)
+- [h2non/rocky](https://github.com/h2non/rocky) - Full-featured, middleware-oriented, programmatic HTTP and WebSocket proxy for node.js (deprecated) (today)
+- [h2non/nar](https://github.com/h2non/nar) - node.js application archive - create self-contained binary like executable applications that are ready to ship and run (today)
 
 ## 🔨 Latest Pull Requests I published
 
