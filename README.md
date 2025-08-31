@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [h2non/semver.c](https://github.com/h2non/semver.c) - Semantic version in ANSI C (today)
-- [h2non/paco](https://github.com/h2non/paco) - Small utility library for coroutine-driven asynchronous generic programming in Python (today)
-- [h2non/pook](https://github.com/h2non/pook) - HTTP traffic mocking and testing made easy in Python (today)
-- [h2non/rocky](https://github.com/h2non/rocky) - Full-featured, middleware-oriented, programmatic HTTP and WebSocket proxy for node.js (deprecated) (today)
-- [h2non/nar](https://github.com/h2non/nar) - node.js application archive - create self-contained binary like executable applications that are ready to ship and run (today)
+- [KohakuBlueleaf/HyperKohaku](https://github.com/KohakuBlueleaf/HyperKohaku) - A diffusers based implementation of HyperDreamBooth (today)
+- [KohakuBlueleaf/a1111-sd-webui-haku-img](https://github.com/KohakuBlueleaf/a1111-sd-webui-haku-img) - An Image utils extension for A1111's sd-webui (today)
+- [KohakuBlueleaf/PixelOE](https://github.com/KohakuBlueleaf/PixelOE) - Detail-Oriented Pixelization based on Contrast-Aware Outline Expansion. (today)
+- [KohakuBlueleaf/z-tipo-extension](https://github.com/KohakuBlueleaf/z-tipo-extension) - A sd-webui extension for utilizing DanTagGen to "upsample prompts". (today)
+- [KohakuBlueleaf/a1111-sd-webui-locon](https://github.com/KohakuBlueleaf/a1111-sd-webui-locon) - A extension for loading LyCORIS model in sd-webui (today)
 
 ## 🔨 Latest Pull Requests I published
 
