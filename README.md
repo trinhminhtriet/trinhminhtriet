@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [lyfe691](https://github.com/lyfe691)
 - [Landon153](https://github.com/Landon153)
 - [fernandoncidade](https://github.com/fernandoncidade)
 - [Cre4T3Tiv3](https://github.com/Cre4T3Tiv3)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [ShahwaizZahid](https://github.com/ShahwaizZahid)
 - [parhamdavin](https://github.com/parhamdavin)
 - [thisiszana](https://github.com/thisiszana)
-- [motanelson](https://github.com/motanelson)
 
 ## ⭐ Recent stars
 
