@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [kdrag0n/pyrobud](https://github.com/kdrag0n/pyrobud) - A clean selfbot for Telegram with an emphasis on quality and practicality, designed to complement the official clients. (today)
-- [kdrag0n/freqbench](https://github.com/kdrag0n/freqbench) - Comprehensive CPU frequency performance/power benchmark (today)
-- [kdrag0n/base16-kitty](https://github.com/kdrag0n/base16-kitty) - Base16 color scheme template for kitty (today)
-- [kdrag0n/adevtool](https://github.com/kdrag0n/adevtool) - Android ROM device support and bringup tool, designed for maximum automation and speed. (today)
-- [kdrag0n/android-webinstall](https://github.com/kdrag0n/android-webinstall) - Easy-to-use web installer for Android-based operating systems (today)
+- [jhomlala/alice](https://github.com/jhomlala/alice) - HTTP Inspector for Flutter. Allows checking HTTP connections with UI inspector. (today)
+- [jhomlala/feather](https://github.com/jhomlala/feather) - Flutter weather application with beautiful UI and UX. (today)
+- [jhomlala/catcher](https://github.com/jhomlala/catcher) - Flutter error catching & handling plugin. Handles and reports exceptions in your app! (today)
+- [jhomlala/betterplayer](https://github.com/jhomlala/betterplayer) - Better video player for Flutter, with multiple configuration options. Solving typical use cases! (today)
+- [kylemanna/sniffer](https://github.com/kylemanna/sniffer) - ESP32 Air Quality Sensor with PMSA003 + BME680 and 1.14" LCD (today)
 
 ## 🔨 Latest Pull Requests I published
 
