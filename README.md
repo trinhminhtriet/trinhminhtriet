@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [KohakuBlueleaf/HyperKohaku](https://github.com/KohakuBlueleaf/HyperKohaku) - A diffusers based implementation of HyperDreamBooth (today)
-- [KohakuBlueleaf/a1111-sd-webui-haku-img](https://github.com/KohakuBlueleaf/a1111-sd-webui-haku-img) - An Image utils extension for A1111's sd-webui (today)
-- [KohakuBlueleaf/PixelOE](https://github.com/KohakuBlueleaf/PixelOE) - Detail-Oriented Pixelization based on Contrast-Aware Outline Expansion. (today)
-- [KohakuBlueleaf/z-tipo-extension](https://github.com/KohakuBlueleaf/z-tipo-extension) - A sd-webui extension for utilizing DanTagGen to "upsample prompts". (today)
-- [KohakuBlueleaf/a1111-sd-webui-locon](https://github.com/KohakuBlueleaf/a1111-sd-webui-locon) - A extension for loading LyCORIS model in sd-webui (today)
+- [mperham/evented](https://github.com/mperham/evented) - Your source for event-drivenness! (today)
+- [mperham/data_fabric](https://github.com/mperham/data_fabric) - Sharding and replication support for ActiveRecord (today)
+- [mperham/bayes_motel](https://github.com/mperham/bayes_motel) - Multi-variate Bayesian classification engine (today)
+- [mperham/memcache-client](https://github.com/mperham/memcache-client) - Ruby library for accessing memcached. (today)
+- [mperham/rack-fiber_pool](https://github.com/mperham/rack-fiber_pool) - Rack middleware to execute each request in a Fiber (today)
 
 ## 🔨 Latest Pull Requests I published
 
