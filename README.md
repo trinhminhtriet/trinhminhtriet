@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [mperham/evented](https://github.com/mperham/evented) - Your source for event-drivenness! (today)
-- [mperham/data_fabric](https://github.com/mperham/data_fabric) - Sharding and replication support for ActiveRecord (today)
-- [mperham/bayes_motel](https://github.com/mperham/bayes_motel) - Multi-variate Bayesian classification engine (today)
-- [mperham/memcache-client](https://github.com/mperham/memcache-client) - Ruby library for accessing memcached. (today)
-- [mperham/rack-fiber_pool](https://github.com/mperham/rack-fiber_pool) - Rack middleware to execute each request in a Fiber (today)
+- [kdrag0n/pyrobud](https://github.com/kdrag0n/pyrobud) - A clean selfbot for Telegram with an emphasis on quality and practicality, designed to complement the official clients. (today)
+- [kdrag0n/freqbench](https://github.com/kdrag0n/freqbench) - Comprehensive CPU frequency performance/power benchmark (today)
+- [kdrag0n/base16-kitty](https://github.com/kdrag0n/base16-kitty) - Base16 color scheme template for kitty (today)
+- [kdrag0n/adevtool](https://github.com/kdrag0n/adevtool) - Android ROM device support and bringup tool, designed for maximum automation and speed. (today)
+- [kdrag0n/android-webinstall](https://github.com/kdrag0n/android-webinstall) - Easy-to-use web installer for Android-based operating systems (today)
 
 ## 🔨 Latest Pull Requests I published
 
