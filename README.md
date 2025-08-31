@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [lightvector/KataGo](https://github.com/lightvector/KataGo) - GTP engine and self-play learning in Go (today)
-- [jiegec/usbip](https://github.com/jiegec/usbip) - A Rust library to run a USB/IP server (today)
-- [m-schuetz/CudaLOD](https://github.com/m-schuetz/CudaLOD) - CUDA-accelerated LOD construction for point clouds (today)
-- [m-schuetz/Skye](https://github.com/m-schuetz/Skye) - Progressive Real-Time Rendering of Large Point Clouds without Hierarchical Acceleration Structures (today)
-- [m-schuetz/Splatshop](https://github.com/m-schuetz/Splatshop) - Edit gaussian splatting models (today)
+- [grantmcdermott/quarto-revealjs-clean](https://github.com/grantmcdermott/quarto-revealjs-clean) - A minimalist and elegant presentation theme for Quarto Reveal.js (today)
+- [grantmcdermott/tinyplot](https://github.com/grantmcdermott/tinyplot) - Lightweight extension of the base R graphics system (today)
+- [p/redis-dump-load](https://github.com/p/redis-dump-load) - Dump redis databases, load data into redis - in Python (today)
+- [fractalwrench/json-2-kotlin](https://github.com/fractalwrench/json-2-kotlin) - Convert JSON to Kotlin Data Classes (today)
+- [fractalwrench/ApkGolf](https://github.com/fractalwrench/ApkGolf) - The smallest Android APK in the world (today)
 
 ## 🔨 Latest Pull Requests I published
 
