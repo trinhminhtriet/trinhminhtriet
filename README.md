@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [fernandoncidade](https://github.com/fernandoncidade)
 - [Cre4T3Tiv3](https://github.com/Cre4T3Tiv3)
 - [crypto-superdev](https://github.com/crypto-superdev)
 - [victorykop](https://github.com/victorykop)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [thisiszana](https://github.com/thisiszana)
 - [motanelson](https://github.com/motanelson)
 - [moopdee](https://github.com/moopdee)
-- [abhijeetBhale](https://github.com/abhijeetBhale)
 
 ## ⭐ Recent stars
 
