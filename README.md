@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [amanovishnu/ineuron-full-stack-data-science-assignments](https://github.com/amanovishnu/ineuron-full-stack-data-science-assignments) - this repository features assignments and projects from the iNeuron full stack data science course, providing valuable resources for learners to enhance their skills and apply their knowledge. (today)
-- [EricFillion/happy-transformer](https://github.com/EricFillion/happy-transformer) - Happy Transformer makes it easy to fine-tune and perform inference with  NLP Transformer models.   (today)
-- [Simplilearn-Edu/Machine-Learning--Projects](https://github.com/Simplilearn-Edu/Machine-Learning--Projects) - Projects and datasets for Machine Learning (today)
-- [shankybnl/MobileAutomationFramework](https://github.com/shankybnl/MobileAutomationFramework) - Single code base framework to test android and iOS app using appium (v6.1.0), maven, testng,java. Option to start appium server programmatically. (today)
-- [itspyguru/Python-Games](https://github.com/itspyguru/Python-Games) - A collection of small python games made by me using pygame and tkinter libraries (today)
+- [hunglc007/tensorflow-yolov4-tflite](https://github.com/hunglc007/tensorflow-yolov4-tflite) - YOLOv4, YOLOv4-tiny, YOLOv3, YOLOv3-tiny Implemented in Tensorflow 2.0, Android. Convert YOLO v4 .weights tensorflow, tensorrt and tflite (today)
+- [dhalperi/linux-80211n-csitool-supplementary](https://github.com/dhalperi/linux-80211n-csitool-supplementary) - 802.11n CSI Tool based on iwlwifi and Linux-2.6 (today)
+- [dhalperi/linux-80211n-csitool](https://github.com/dhalperi/linux-80211n-csitool) - 802.11n CSI Tool based on iwlwifi and Linux (today)
+- [nathanhubens/Autoencoders](https://github.com/nathanhubens/Autoencoders) - Implementation of simple autoencoders networks with Keras (today)
+- [Elteoremadebeethoven/MyAnimations](https://github.com/Elteoremadebeethoven/MyAnimations) - In this repository you will find the code and files of my own animations of manim (today)
 
 ## 🔨 Latest Pull Requests I published
 
