@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [JuanPE44](https://github.com/JuanPE44)
 - [BEPb](https://github.com/BEPb)
 - [NaZzz97](https://github.com/NaZzz97)
 - [Rajan167030](https://github.com/Rajan167030)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Mahadihusen](https://github.com/Mahadihusen)
 - [lyfe691](https://github.com/lyfe691)
 - [Landon153](https://github.com/Landon153)
-- [fernandoncidade](https://github.com/fernandoncidade)
 
 ## ⭐ Recent stars
 
-- [hunglc007/tensorflow-yolov4-tflite](https://github.com/hunglc007/tensorflow-yolov4-tflite) - YOLOv4, YOLOv4-tiny, YOLOv3, YOLOv3-tiny Implemented in Tensorflow 2.0, Android. Convert YOLO v4 .weights tensorflow, tensorrt and tflite (today)
-- [dhalperi/linux-80211n-csitool-supplementary](https://github.com/dhalperi/linux-80211n-csitool-supplementary) - 802.11n CSI Tool based on iwlwifi and Linux-2.6 (today)
-- [dhalperi/linux-80211n-csitool](https://github.com/dhalperi/linux-80211n-csitool) - 802.11n CSI Tool based on iwlwifi and Linux (today)
-- [nathanhubens/Autoencoders](https://github.com/nathanhubens/Autoencoders) - Implementation of simple autoencoders networks with Keras (today)
-- [Elteoremadebeethoven/MyAnimations](https://github.com/Elteoremadebeethoven/MyAnimations) - In this repository you will find the code and files of my own animations of manim (today)
+- [1998code/19-Splash-Screen-for-SwiftUI](https://github.com/1998code/19-Splash-Screen-for-SwiftUI) - Be the first to try the next-gen SwiftUI Splash Screen. [ AI Assistant available below ] (today)
+- [1998code/SwiftNEWKit](https://github.com/1998code/SwiftNEWKit) - Show "Release Note" on SwiftUI [ AI Assistant available below ] (today)
+- [1998code/SwiftGlass](https://github.com/1998code/SwiftGlass) - Glassy Everything, even Old Devices. [ AI Assistant available below ] (today)
+- [1998code/iOS16-Live-Activities](https://github.com/1998code/iOS16-Live-Activities) - SwiftPizza App for Apple ActivityKit & WidgetKit & Dynamic Island. (today)
+- [jlsutherland/doc2text](https://github.com/jlsutherland/doc2text) - Detect text blocks and OCR poorly scanned PDFs in bulk. Python module available via pip. (today)
 
 ## 🔨 Latest Pull Requests I published
 
