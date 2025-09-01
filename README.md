@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Mahadihusen](https://github.com/Mahadihusen)
 - [lyfe691](https://github.com/lyfe691)
 - [Landon153](https://github.com/Landon153)
 - [fernandoncidade](https://github.com/fernandoncidade)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [benjamineruvieru](https://github.com/benjamineruvieru)
 - [ShahwaizZahid](https://github.com/ShahwaizZahid)
 - [parhamdavin](https://github.com/parhamdavin)
-- [thisiszana](https://github.com/thisiszana)
 
 ## ⭐ Recent stars
 
-- [nebez/floppybird](https://github.com/nebez/floppybird) - in case you missed the hype 🐥 (today)
-- [luan/vimfiles](https://github.com/luan/vimfiles) - The Vim Configuration. Uses vim-plug to manage plugins. (today)
-- [thomashempel/AlfredGoogleTranslateWorkflow](https://github.com/thomashempel/AlfredGoogleTranslateWorkflow) - A workflow for Alfred that implements translation from any language to any other language that is supported by google (today)
-- [abbbi/nullfsvfs](https://github.com/abbbi/nullfsvfs) - a virtual black hole file system that behaves like /dev/null (today)
-- [abbbi/virtnbdbackup](https://github.com/abbbi/virtnbdbackup) - Backup utility for  Libvirt / qemu / kvm supporting incremental and differential backups + instant recovery (agentless). (today)
+- [codeAdrian/react-magic-painter](https://github.com/codeAdrian/react-magic-painter) (today)
+- [codeAdrian/modern-fluid-typography-editor](https://github.com/codeAdrian/modern-fluid-typography-editor) - Modern fluid typography editor (today)
+- [codeAdrian/clay.css](https://github.com/codeAdrian/clay.css) - Easily add claymorphic styles to any HTML element with this micro class and SASS mixin. (today)
+- [KennethWangDotDev/TypographyHandbook](https://github.com/KennethWangDotDev/TypographyHandbook) - A concise, referential guide on best web typographic practices. (today)
+- [alexander-ladygin/illustrator-scripts](https://github.com/alexander-ladygin/illustrator-scripts) - Adobe Illustrator scripts (today)
 
 ## 🔨 Latest Pull Requests I published
 
