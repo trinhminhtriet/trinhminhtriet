@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [Cancro29/NETHERCAP](https://github.com/Cancro29/NETHERCAP) - A Wi-Fi penetration testing tool for ESP8266, ESP-32, and BW16 (today)
-- [jayofelony/pwnagotchi-bullseye](https://github.com/jayofelony/pwnagotchi-bullseye) - (⌐■_■) - Deep Reinforcement Learning instrumenting bettercap for WiFi pwning. (today)
-- [jayofelony/pwnagotchi](https://github.com/jayofelony/pwnagotchi) - (⌐■_■) - Raspberry Pi instrumenting Bettercap for Wi-Fi pwning. (today)
-- [seaky/nspanel_pro_tools_apk](https://github.com/seaky/nspanel_pro_tools_apk) (today)
-- [thorrak/fermentrack](https://github.com/thorrak/fermentrack) - A replacement web interface for BrewPi (today)
+- [kwindrem/SetupHelper](https://github.com/kwindrem/SetupHelper) - Helper functions to simplify writing setup scripts that modify VenusOs functionality. The package includes automatic reinstallation of the package after a VenusOs update. (today)
+- [kwindrem/GuiMods](https://github.com/kwindrem/GuiMods) - VenusOS GUI enhancements and modifications (today)
+- [joBr99/nspanel-lovelace-ui](https://github.com/joBr99/nspanel-lovelace-ui) - Custom Firmware for NsPanel with the design of HomeAssistant's lovelace UI in mind, works with Tasmota. (today)
+- [marcfager/nspanel-mf](https://github.com/marcfager/nspanel-mf) - Custom HMI controlled by ESPHome for the Sonoff NSPanel. Includes media player card and home screen with weather data and clock. More to come. (today)
+- [kaansoral/adventureland](https://github.com/kaansoral/adventureland) - Adventure Land The Open Source CODE MMORPG (today)
 
 ## 🔨 Latest Pull Requests I published
 
