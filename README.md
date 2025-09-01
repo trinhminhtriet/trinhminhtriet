@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [1998code/19-Splash-Screen-for-SwiftUI](https://github.com/1998code/19-Splash-Screen-for-SwiftUI) - Be the first to try the next-gen SwiftUI Splash Screen. [ AI Assistant available below ] (today)
-- [1998code/SwiftNEWKit](https://github.com/1998code/SwiftNEWKit) - Show "Release Note" on SwiftUI [ AI Assistant available below ] (today)
-- [1998code/SwiftGlass](https://github.com/1998code/SwiftGlass) - Glassy Everything, even Old Devices. [ AI Assistant available below ] (today)
-- [1998code/iOS16-Live-Activities](https://github.com/1998code/iOS16-Live-Activities) - SwiftPizza App for Apple ActivityKit & WidgetKit & Dynamic Island. (today)
-- [jlsutherland/doc2text](https://github.com/jlsutherland/doc2text) - Detect text blocks and OCR poorly scanned PDFs in bulk. Python module available via pip. (today)
+- [fatmakiraz/html-css-ogrenirken-faydalandigim-kaynaklar](https://github.com/fatmakiraz/html-css-ogrenirken-faydalandigim-kaynaklar) - HTML/CSS Öğrenirken Faydalandığım Kaynaklar (today)
+- [bufgix/my-react-native-playground](https://github.com/bufgix/my-react-native-playground) - React Native animation challanges (today)
+- [0xVariable/AWS-Security-Tools](https://github.com/0xVariable/AWS-Security-Tools) (today)
+- [alperenugurlu/Network_Assessment](https://github.com/alperenugurlu/Network_Assessment) - With Wireshark or TCPdump, you can determine whether there is harmful activity on your network traffic that you have recorded on the network you monitor. (today)
+- [clemenko/rke_install_blog](https://github.com/clemenko/rke_install_blog) (today)
 
 ## 🔨 Latest Pull Requests I published
 
