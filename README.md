@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [ycwkatie/OOD-Object-Oriented-Design](https://github.com/ycwkatie/OOD-Object-Oriented-Design) - Solutions for Object Oriented Design Problems (today)
-- [ddossot/NxBRE](https://github.com/ddossot/NxBRE) - NxBRE is a lightweight Business Rule Engine (aka Rule Based Engine) for the .NET platform. (today)
-- [Thpffcj/BigData-Getting-Started](https://github.com/Thpffcj/BigData-Getting-Started) - 大数据相关框架实战项目(Hadoop, Spark, Storm, Flink) (today)
-- [kalfazed/tensorrt_starter](https://github.com/kalfazed/tensorrt_starter) - This repository give a guidline to learn CUDA and TensorRT from the beginning. (today)
-- [crockwell/far](https://github.com/crockwell/far) - [CVPR 2024 - Highlight] FAR: Flexible, Accurate and Robust 6DoF Relative Camera Pose Estimation (today)
+- [prabhuomkar/iris](https://github.com/prabhuomkar/iris) - Open Source Photos Platform Powered by PyTorch (today)
+- [prabhuomkar/frisky](https://github.com/prabhuomkar/frisky) - 🍿 Open Source GraphQL API for Online Shows (today)
+- [prabhuomkar/pytorch-cpp](https://github.com/prabhuomkar/pytorch-cpp) - C++ Implementation of PyTorch Tutorials for Everyone (today)
+- [jwhited/corebgp](https://github.com/jwhited/corebgp) - CoreBGP is a BGP library written in Go that implements the BGP FSM with an event-driven, pluggable model. (today)
+- [jwhited/wgsd](https://github.com/jwhited/wgsd) - A CoreDNS plugin that provides WireGuard peer information via DNS-SD semantics (today)
 
 ## 🔨 Latest Pull Requests I published
 
