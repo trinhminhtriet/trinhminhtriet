@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [dimok789/mocha](https://github.com/dimok789/mocha) - Mocha CFW - The sweet chocolate to your latte! (today)
-- [dimok789/loadiine_gx2](https://github.com/dimok789/loadiine_gx2) - A WiiU SD Loader with GX2 GUI (today)
-- [dimok789/homebrew_launcher](https://github.com/dimok789/homebrew_launcher) - WiiU Homebrew Launcher (today)
-- [MOVZX/CyberFSR2](https://github.com/MOVZX/CyberFSR2) - CyberFSR/PotatoFSR (FSR 2.1.2) for Games (today)
-- [skrapeit/skrape.it](https://github.com/skrapeit/skrape.it) - A Kotlin-based testing/scraping/parsing library providing the ability to analyze and extract data from HTML (server & client-side rendered). It places particular emphasis on ease of use and a high level of readability by providing an intuitive DSL. It aims to be a testing lib, but can also be used to scrape websites in a convenient fashion. (today)
+- [nebez/floppybird](https://github.com/nebez/floppybird) - in case you missed the hype 🐥 (today)
+- [luan/vimfiles](https://github.com/luan/vimfiles) - The Vim Configuration. Uses vim-plug to manage plugins. (today)
+- [thomashempel/AlfredGoogleTranslateWorkflow](https://github.com/thomashempel/AlfredGoogleTranslateWorkflow) - A workflow for Alfred that implements translation from any language to any other language that is supported by google (today)
+- [abbbi/nullfsvfs](https://github.com/abbbi/nullfsvfs) - a virtual black hole file system that behaves like /dev/null (today)
+- [abbbi/virtnbdbackup](https://github.com/abbbi/virtnbdbackup) - Backup utility for  Libvirt / qemu / kvm supporting incremental and differential backups + instant recovery (agentless). (today)
 
 ## 🔨 Latest Pull Requests I published
 
