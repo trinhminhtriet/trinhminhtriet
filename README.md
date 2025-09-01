@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [aceat64/EasyBitcoin-PHP](https://github.com/aceat64/EasyBitcoin-PHP) - A simple class for making calls to Bitcoin's API using PHP. This is an old library, I suggest instead using https://github.com/denpamusic/php-bitcoinrpc (today)
-- [zuolizhu/frontendmentor_challenges](https://github.com/zuolizhu/frontendmentor_challenges) - frontend mentor challenges solution repo (today)
-- [rozPierog/Cofi](https://github.com/rozPierog/Cofi) - Free and open-source coffee brew timer. Customizable time settings and an easy-to-use interface. Perfect cup every time. (today)
-- [PricelessToolkit/ESPBell-MAX](https://github.com/PricelessToolkit/ESPBell-MAX) - Intercom / Doorbell IoT Module (today)
-- [PricelessToolkit/Droplet](https://github.com/PricelessToolkit/Droplet) - ALL-IN-ONE Irrigation and monitoring system for ESPHome and Home Assistant. (today)
+- [Cancro29/NETHERCAP](https://github.com/Cancro29/NETHERCAP) - A Wi-Fi penetration testing tool for ESP8266, ESP-32, and BW16 (today)
+- [jayofelony/pwnagotchi-bullseye](https://github.com/jayofelony/pwnagotchi-bullseye) - (⌐■_■) - Deep Reinforcement Learning instrumenting bettercap for WiFi pwning. (today)
+- [jayofelony/pwnagotchi](https://github.com/jayofelony/pwnagotchi) - (⌐■_■) - Raspberry Pi instrumenting Bettercap for Wi-Fi pwning. (today)
+- [seaky/nspanel_pro_tools_apk](https://github.com/seaky/nspanel_pro_tools_apk) (today)
+- [thorrak/fermentrack](https://github.com/thorrak/fermentrack) - A replacement web interface for BrewPi (today)
 
 ## 🔨 Latest Pull Requests I published
 
