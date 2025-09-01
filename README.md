@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [codeAdrian/react-magic-painter](https://github.com/codeAdrian/react-magic-painter) (today)
-- [codeAdrian/modern-fluid-typography-editor](https://github.com/codeAdrian/modern-fluid-typography-editor) - Modern fluid typography editor (today)
-- [codeAdrian/clay.css](https://github.com/codeAdrian/clay.css) - Easily add claymorphic styles to any HTML element with this micro class and SASS mixin. (today)
-- [KennethWangDotDev/TypographyHandbook](https://github.com/KennethWangDotDev/TypographyHandbook) - A concise, referential guide on best web typographic practices. (today)
-- [alexander-ladygin/illustrator-scripts](https://github.com/alexander-ladygin/illustrator-scripts) - Adobe Illustrator scripts (today)
+- [maboa/circleplayer](https://github.com/maboa/circleplayer) - A CSS3 HTML5 audio player with a circular seekable progress bar and complete fallback (today)
+- [Richard-Burns/SimpleMixer](https://github.com/Richard-Burns/SimpleMixer) - A video mixer built in TouchDesigner (today)
+- [gmarty/jsSMS](https://github.com/gmarty/jsSMS) - JavaScript Sega Master System & Game Gear dynamic recompiling emulator. (today)
+- [gmarty/DVD.js](https://github.com/gmarty/DVD.js) - Playing DVD in JavaScript for the sake of interoperability (today)
+- [gmarty/grunt-closure-compiler](https://github.com/gmarty/grunt-closure-compiler) - A Grunt task for Closure Compiler (today)
 
 ## 🔨 Latest Pull Requests I published
 
