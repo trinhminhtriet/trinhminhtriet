@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [YashGajjar7017](https://github.com/YashGajjar7017)
 - [Mahadihusen](https://github.com/Mahadihusen)
 - [lyfe691](https://github.com/lyfe691)
 - [Landon153](https://github.com/Landon153)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [victorykop](https://github.com/victorykop)
 - [benjamineruvieru](https://github.com/benjamineruvieru)
 - [ShahwaizZahid](https://github.com/ShahwaizZahid)
-- [parhamdavin](https://github.com/parhamdavin)
 
 ## ⭐ Recent stars
 
+- [ycwkatie/OOD-Object-Oriented-Design](https://github.com/ycwkatie/OOD-Object-Oriented-Design) - Solutions for Object Oriented Design Problems (today)
+- [ddossot/NxBRE](https://github.com/ddossot/NxBRE) - NxBRE is a lightweight Business Rule Engine (aka Rule Based Engine) for the .NET platform. (today)
+- [Thpffcj/BigData-Getting-Started](https://github.com/Thpffcj/BigData-Getting-Started) - 大数据相关框架实战项目(Hadoop, Spark, Storm, Flink) (today)
 - [kalfazed/tensorrt_starter](https://github.com/kalfazed/tensorrt_starter) - This repository give a guidline to learn CUDA and TensorRT from the beginning. (today)
 - [crockwell/far](https://github.com/crockwell/far) - [CVPR 2024 - Highlight] FAR: Flexible, Accurate and Robust 6DoF Relative Camera Pose Estimation (today)
-- [crockwell/Cap3D](https://github.com/crockwell/Cap3D) - [NeurIPS 2023] Scalable 3D Captioning with Pretrained Models (today)
-- [Caoang327/HexPlane](https://github.com/Caoang327/HexPlane) - Official code for CVPR 2023 Paper, HexPlane: A Fast Representation for Dynamic Scenes (today)
-- [JosephKJ/iOD](https://github.com/JosephKJ/iOD) - (TPAMI 2021) iOD: Incremental Object Detection via Meta-Learning (today)
 
 ## 🔨 Latest Pull Requests I published
 
