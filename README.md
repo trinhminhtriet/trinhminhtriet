@@ -33,12 +33,12 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👷 Check out what I'm currently working on
 
-- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (1 day ago)
-- [nctl-io/nctl-roadmap](https://github.com/nctl-io/nctl-roadmap) (1 day ago)
-- [nctl-io/.github](https://github.com/nctl-io/.github) - 🌐 Network. Connect. Transform. Lead. (4 days ago)
-- [nctl-io/nctl-branding](https://github.com/nctl-io/nctl-branding) - NCTL Branding 🖼️: Centralized assets and guidelines for consistent visual identity across NCTL projects and platforms. (5 days ago)
-- [nctl-io/nctl-homepage](https://github.com/nctl-io/nctl-homepage) - 🚀 Modern homepage for NCTL: fast, responsive, TypeScript-powered, open source, and easy to customize. (5 days ago)
-- [trinhminhtriet/sizr](https://github.com/trinhminhtriet/sizr) - 📈 A fast, Rust-based tool to analyze file system usage with colorful output, file aggregation, exclusions, and directory comparisons. (6 days ago)
+- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (today)
+- [nctl-io/nctl-roadmap](https://github.com/nctl-io/nctl-roadmap) (2 days ago)
+- [nctl-io/.github](https://github.com/nctl-io/.github) - 🌐 Network. Connect. Transform. Lead. (5 days ago)
+- [nctl-io/nctl-branding](https://github.com/nctl-io/nctl-branding) - NCTL Branding 🖼️: Centralized assets and guidelines for consistent visual identity across NCTL projects and platforms. (6 days ago)
+- [nctl-io/nctl-homepage](https://github.com/nctl-io/nctl-homepage) - 🚀 Modern homepage for NCTL: fast, responsive, TypeScript-powered, open source, and easy to customize. (6 days ago)
+- [trinhminhtriet/sizr](https://github.com/trinhminhtriet/sizr) - 📈 A fast, Rust-based tool to analyze file system usage with colorful output, file aggregation, exclusions, and directory comparisons. (1 week ago)
 - [trinhminhtriet/blast](https://github.com/trinhminhtriet/blast) - 🚀 Blast: A powerful, lightweight HTTP load generator for stress testing and benchmarking web applications with ease. (1 week ago)
 - [trinhminhtriet/spiko](https://github.com/trinhminhtriet/spiko) - 🚀 Spiko is a fast, Rust-based load testing tool with a beautiful TUI for real-time insights. (1 week ago)
 - [rust-rs/tabler](https://github.com/rust-rs/tabler) - 📊 Tabler: A lightweight TUI tool to view, query, and navigate CSV, TSV, and Parquet data files. (1 week ago)
@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [jhomlala/alice](https://github.com/jhomlala/alice) - HTTP Inspector for Flutter. Allows checking HTTP connections with UI inspector. (today)
-- [jhomlala/feather](https://github.com/jhomlala/feather) - Flutter weather application with beautiful UI and UX. (today)
-- [jhomlala/catcher](https://github.com/jhomlala/catcher) - Flutter error catching & handling plugin. Handles and reports exceptions in your app! (today)
-- [jhomlala/betterplayer](https://github.com/jhomlala/betterplayer) - Better video player for Flutter, with multiple configuration options. Solving typical use cases! (today)
-- [kylemanna/sniffer](https://github.com/kylemanna/sniffer) - ESP32 Air Quality Sensor with PMSA003 + BME680 and 1.14" LCD (today)
+- [tamland/airsonic-refix](https://github.com/tamland/airsonic-refix) - Modern web UI for Subsonic compatible servers (today)
+- [joonson/voxconverse](https://github.com/joonson/voxconverse) - Spot the conversation: speaker diarisation in the wild (today)
+- [joonson/syncnet_trainer](https://github.com/joonson/syncnet_trainer) - Disentangled Speech Embeddings using Cross-Modal Self-Supervision (today)
+- [joonson/syncnet_python](https://github.com/joonson/syncnet_python) - Out of time: automated lip sync in the wild (today)
+- [abhi2610/ohem](https://github.com/abhi2610/ohem) - OHEM support for Fast R-CNN (today)
 
 ## 🔨 Latest Pull Requests I published
 
