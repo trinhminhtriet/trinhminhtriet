@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [octavian-ganea/equidock_public](https://github.com/octavian-ganea/equidock_public) - EquiDock: geometric deep learning for fast rigid 3D protein-protein docking (today)
-- [stefanopini/simple-HigherHRNet](https://github.com/stefanopini/simple-HigherHRNet) - Multi-person Human Pose Estimation with HigherHRNet in Pytorch, with TensorRT support (today)
-- [stefanopini/simple-HRNet](https://github.com/stefanopini/simple-HRNet) - Multi-person Human Pose Estimation with HRNet in Pytorch (today)
-- [lucabergamini/VAEGAN-PYTORCH](https://github.com/lucabergamini/VAEGAN-PYTORCH) - VAEGAN from "Autoencoding beyond pixels using a learned similarity metric" implemented in Pytorch. Clean, clear and with comments. (today)
-- [fabbrimatteo/LoCO](https://github.com/fabbrimatteo/LoCO) - This repository contains the source code related to the paper Compressed Volumetric Heatmaps for Multi-Person 3D Pose Estimation (today)
+- [OtherCrashOverride/odroid-go-firmware](https://github.com/OtherCrashOverride/odroid-go-firmware) (today)
+- [OtherCrashOverride/go-play](https://github.com/OtherCrashOverride/go-play) - Retro emulation for the ODROID-GO (today)
+- [bijoyandas/Hands-On-Natural-Language-Processing-with-Python](https://github.com/bijoyandas/Hands-On-Natural-Language-Processing-with-Python) - This repository is for my students of Udemy. You can find all lecture codes along with mentioned files for reading in here. So, feel free to clone it and if you have any problem just raise a question. (today)
+- [MadhavPruthi/HR-Management-and-Geo-Attendance-System](https://github.com/MadhavPruthi/HR-Management-and-Geo-Attendance-System) -  An application for location-based attendance and management of the employees using geofencing (today)
+- [iamSahdeep/fu_uber](https://github.com/iamSahdeep/fu_uber) - Flutter based taxi booking app (dummy) using provider. (today)
 
 ## 🔨 Latest Pull Requests I published
 
