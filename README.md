@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Rajan167030](https://github.com/Rajan167030)
 - [soltani59](https://github.com/soltani59)
 - [ishandutta2007](https://github.com/ishandutta2007)
 - [YashGajjar7017](https://github.com/YashGajjar7017)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [fernandoncidade](https://github.com/fernandoncidade)
 - [Cre4T3Tiv3](https://github.com/Cre4T3Tiv3)
 - [0xPleiades](https://github.com/0xPleiades)
-- [victorykop](https://github.com/victorykop)
 
 ## ⭐ Recent stars
 
+- [octavian-ganea/equidock_public](https://github.com/octavian-ganea/equidock_public) - EquiDock: geometric deep learning for fast rigid 3D protein-protein docking (today)
 - [stefanopini/simple-HigherHRNet](https://github.com/stefanopini/simple-HigherHRNet) - Multi-person Human Pose Estimation with HigherHRNet in Pytorch, with TensorRT support (today)
 - [stefanopini/simple-HRNet](https://github.com/stefanopini/simple-HRNet) - Multi-person Human Pose Estimation with HRNet in Pytorch (today)
 - [lucabergamini/VAEGAN-PYTORCH](https://github.com/lucabergamini/VAEGAN-PYTORCH) - VAEGAN from "Autoencoding beyond pixels using a learned similarity metric" implemented in Pytorch. Clean, clear and with comments. (today)
 - [fabbrimatteo/LoCO](https://github.com/fabbrimatteo/LoCO) - This repository contains the source code related to the paper Compressed Volumetric Heatmaps for Multi-Person 3D Pose Estimation (today)
-- [fabbrimatteo/JTA-Dataset](https://github.com/fabbrimatteo/JTA-Dataset) (today)
 
 ## 🔨 Latest Pull Requests I published
 
