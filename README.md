@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [maboa/circleplayer](https://github.com/maboa/circleplayer) - A CSS3 HTML5 audio player with a circular seekable progress bar and complete fallback (today)
-- [Richard-Burns/SimpleMixer](https://github.com/Richard-Burns/SimpleMixer) - A video mixer built in TouchDesigner (today)
-- [gmarty/jsSMS](https://github.com/gmarty/jsSMS) - JavaScript Sega Master System & Game Gear dynamic recompiling emulator. (today)
-- [gmarty/DVD.js](https://github.com/gmarty/DVD.js) - Playing DVD in JavaScript for the sake of interoperability (today)
-- [gmarty/grunt-closure-compiler](https://github.com/gmarty/grunt-closure-compiler) - A Grunt task for Closure Compiler (today)
+- [nick-tonjum/open-webui-artifacts-overhaul](https://github.com/nick-tonjum/open-webui-artifacts-overhaul) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...) (today)
+- [Desdaemon/typed-htmx](https://github.com/Desdaemon/typed-htmx) - Definitions for htmx attributes (today)
+- [AmauryCarrade/MastodonToTwitter](https://github.com/AmauryCarrade/MastodonToTwitter) - Mastodon <-> Twitter cross-poster. (today)
+- [SethBling/cbscript](https://github.com/SethBling/cbscript) - CBScript for Minecraft (today)
+- [RoyJames/room-impulse-responses](https://github.com/RoyJames/room-impulse-responses) - A list of publicly available room impulse response datasets and scripts to download them.  (today)
 
 ## 🔨 Latest Pull Requests I published
 
