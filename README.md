@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [OtherCrashOverride/odroid-go-firmware](https://github.com/OtherCrashOverride/odroid-go-firmware) (today)
-- [OtherCrashOverride/go-play](https://github.com/OtherCrashOverride/go-play) - Retro emulation for the ODROID-GO (today)
-- [bijoyandas/Hands-On-Natural-Language-Processing-with-Python](https://github.com/bijoyandas/Hands-On-Natural-Language-Processing-with-Python) - This repository is for my students of Udemy. You can find all lecture codes along with mentioned files for reading in here. So, feel free to clone it and if you have any problem just raise a question. (today)
-- [MadhavPruthi/HR-Management-and-Geo-Attendance-System](https://github.com/MadhavPruthi/HR-Management-and-Geo-Attendance-System) -  An application for location-based attendance and management of the employees using geofencing (today)
-- [iamSahdeep/fu_uber](https://github.com/iamSahdeep/fu_uber) - Flutter based taxi booking app (dummy) using provider. (today)
+- [zhouxian/act3d-chained-diffuser](https://github.com/zhouxian/act3d-chained-diffuser) - A unified architecture for multimodal multi-task robotic policy learning. (today)
+- [zhouxian/FluidLab](https://github.com/zhouxian/FluidLab) - [ICLR 2023] FluidLab: A Differentiable Environment for Benchmarking Complex Fluid Manipulation (today)
+- [iambumblehead/esmock](https://github.com/iambumblehead/esmock) - ESM import and globals mocking for unit tests (today)
+- [jdesbonnet/RCWL-0516](https://github.com/jdesbonnet/RCWL-0516) - Information about RCWL-0516 microwave proximity switch module (ICStation.com SKU 10630) (today)
+- [o-marshmallow/PocketCHIP-pocket-home](https://github.com/o-marshmallow/PocketCHIP-pocket-home) - PocketCHIP home screen: shows status, opens programs, changes settings (today)
 
 ## 🔨 Latest Pull Requests I published
 
