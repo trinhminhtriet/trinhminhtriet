@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [BEPb](https://github.com/BEPb)
+- [NaZzz97](https://github.com/NaZzz97)
 - [Rajan167030](https://github.com/Rajan167030)
 - [soltani59](https://github.com/soltani59)
 - [ishandutta2007](https://github.com/ishandutta2007)
@@ -54,16 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [lyfe691](https://github.com/lyfe691)
 - [Landon153](https://github.com/Landon153)
 - [fernandoncidade](https://github.com/fernandoncidade)
-- [Cre4T3Tiv3](https://github.com/Cre4T3Tiv3)
-- [0xPleiades](https://github.com/0xPleiades)
 
 ## ⭐ Recent stars
 
-- [zhouxian/act3d-chained-diffuser](https://github.com/zhouxian/act3d-chained-diffuser) - A unified architecture for multimodal multi-task robotic policy learning. (today)
-- [zhouxian/FluidLab](https://github.com/zhouxian/FluidLab) - [ICLR 2023] FluidLab: A Differentiable Environment for Benchmarking Complex Fluid Manipulation (today)
-- [iambumblehead/esmock](https://github.com/iambumblehead/esmock) - ESM import and globals mocking for unit tests (today)
-- [jdesbonnet/RCWL-0516](https://github.com/jdesbonnet/RCWL-0516) - Information about RCWL-0516 microwave proximity switch module (ICStation.com SKU 10630) (today)
-- [o-marshmallow/PocketCHIP-pocket-home](https://github.com/o-marshmallow/PocketCHIP-pocket-home) - PocketCHIP home screen: shows status, opens programs, changes settings (today)
+- [dscripka/openWakeWord](https://github.com/dscripka/openWakeWord) - An open-source audio wake word (or phrase) detection framework with a focus on performance and simplicity. (today)
+- [pilsung-kang/Business-Analytics-IME654-](https://github.com/pilsung-kang/Business-Analytics-IME654-) - Course homepage for "Business Analytics (IME654)" @Korea University (today)
+- [pilsung-kang/Text-Analytics](https://github.com/pilsung-kang/Text-Analytics) - Unstructured Data Analysis (Graduate) @Korea University (today)
+- [wuqi5700/WebCrackv2](https://github.com/wuqi5700/WebCrackv2) - 基于WebCrack增加绕过图片识别码进行弱口令爆破的功能 (today)
+- [gdamdam/awesome-decentralized-web](https://github.com/gdamdam/awesome-decentralized-web) - an awesome list of decentralized services and technologies (today)
 
 ## 🔨 Latest Pull Requests I published
 
