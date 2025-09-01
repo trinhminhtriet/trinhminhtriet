@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [xfjx/TonUINO](https://github.com/xfjx/TonUINO) - Die DIY Musikbox (nicht nur) für Kinder (today)
-- [mpgirro/docker-pihole-unbound](https://github.com/mpgirro/docker-pihole-unbound) - Run Pi-Hole + Unbound on Docker (today)
-- [gicmo/bolt](https://github.com/gicmo/bolt) - ⚡🐧 - Thunderbolt 3 device manager | This is a MIRROR of bolt from fd.o (today)
-- [gicmo/gamemode-extension](https://github.com/gicmo/gamemode-extension) - GNOME Shell extension for Feral Interactive's GameMode (today)
-- [lucahammer/fedifinder](https://github.com/lucahammer/fedifinder) - Find fediverse addresses in the profiles of your Twitter followings (today)
+- [amanovishnu/ineuron-full-stack-data-science-assignments](https://github.com/amanovishnu/ineuron-full-stack-data-science-assignments) - this repository features assignments and projects from the iNeuron full stack data science course, providing valuable resources for learners to enhance their skills and apply their knowledge. (today)
+- [EricFillion/happy-transformer](https://github.com/EricFillion/happy-transformer) - Happy Transformer makes it easy to fine-tune and perform inference with  NLP Transformer models.   (today)
+- [Simplilearn-Edu/Machine-Learning--Projects](https://github.com/Simplilearn-Edu/Machine-Learning--Projects) - Projects and datasets for Machine Learning (today)
+- [shankybnl/MobileAutomationFramework](https://github.com/shankybnl/MobileAutomationFramework) - Single code base framework to test android and iOS app using appium (v6.1.0), maven, testng,java. Option to start appium server programmatically. (today)
+- [itspyguru/Python-Games](https://github.com/itspyguru/Python-Games) - A collection of small python games made by me using pygame and tkinter libraries (today)
 
 ## 🔨 Latest Pull Requests I published
 
