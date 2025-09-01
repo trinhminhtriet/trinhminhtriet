@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [nick-tonjum/open-webui-artifacts-overhaul](https://github.com/nick-tonjum/open-webui-artifacts-overhaul) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...) (today)
-- [Desdaemon/typed-htmx](https://github.com/Desdaemon/typed-htmx) - Definitions for htmx attributes (today)
-- [AmauryCarrade/MastodonToTwitter](https://github.com/AmauryCarrade/MastodonToTwitter) - Mastodon <-> Twitter cross-poster. (today)
-- [SethBling/cbscript](https://github.com/SethBling/cbscript) - CBScript for Minecraft (today)
-- [RoyJames/room-impulse-responses](https://github.com/RoyJames/room-impulse-responses) - A list of publicly available room impulse response datasets and scripts to download them.  (today)
+- [kalfazed/tensorrt_starter](https://github.com/kalfazed/tensorrt_starter) - This repository give a guidline to learn CUDA and TensorRT from the beginning. (today)
+- [crockwell/far](https://github.com/crockwell/far) - [CVPR 2024 - Highlight] FAR: Flexible, Accurate and Robust 6DoF Relative Camera Pose Estimation (today)
+- [crockwell/Cap3D](https://github.com/crockwell/Cap3D) - [NeurIPS 2023] Scalable 3D Captioning with Pretrained Models (today)
+- [Caoang327/HexPlane](https://github.com/Caoang327/HexPlane) - Official code for CVPR 2023 Paper, HexPlane: A Fast Representation for Dynamic Scenes (today)
+- [JosephKJ/iOD](https://github.com/JosephKJ/iOD) - (TPAMI 2021) iOD: Incremental Object Detection via Meta-Learning (today)
 
 ## 🔨 Latest Pull Requests I published
 
