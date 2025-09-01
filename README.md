@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [kwindrem/SetupHelper](https://github.com/kwindrem/SetupHelper) - Helper functions to simplify writing setup scripts that modify VenusOs functionality. The package includes automatic reinstallation of the package after a VenusOs update. (today)
-- [kwindrem/GuiMods](https://github.com/kwindrem/GuiMods) - VenusOS GUI enhancements and modifications (today)
-- [joBr99/nspanel-lovelace-ui](https://github.com/joBr99/nspanel-lovelace-ui) - Custom Firmware for NsPanel with the design of HomeAssistant's lovelace UI in mind, works with Tasmota. (today)
-- [marcfager/nspanel-mf](https://github.com/marcfager/nspanel-mf) - Custom HMI controlled by ESPHome for the Sonoff NSPanel. Includes media player card and home screen with weather data and clock. More to come. (today)
-- [kaansoral/adventureland](https://github.com/kaansoral/adventureland) - Adventure Land The Open Source CODE MMORPG (today)
+- [NinjaJc01/ssh-backdoor](https://github.com/NinjaJc01/ssh-backdoor) (today)
+- [Al-Sad/DroneRF](https://github.com/Al-Sad/DroneRF) - This repository contains all MATLAB and Python codes used for Drones Detection and Identification using their RF signals. (today)
+- [asavinov/intelligent-trading-bot](https://github.com/asavinov/intelligent-trading-bot) - Intelligent Trading Bot: Automatically generating signals and trading based on machine learning and feature engineering (today)
+- [triska/lisprolog](https://github.com/triska/lisprolog) - Interpreter for a simple Lisp. Written in Prolog. (today)
+- [triska/clpfd](https://github.com/triska/clpfd) - Constraint Logic Programming over Finite Domains (today)
 
 ## 🔨 Latest Pull Requests I published
 
