@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [lucahammer/fedifinder](https://github.com/lucahammer/fedifinder) - Find fediverse addresses in the profiles of your Twitter followings (today)
+- [lucahammer/tweetXer](https://github.com/lucahammer/tweetXer) - Delete all your Tweets for free (today)
+- [friendly/SAS-macros](https://github.com/friendly/SAS-macros) - SAS macros for statistics and graphics (today)
+- [wgsxm/PartCrafter](https://github.com/wgsxm/PartCrafter) - PartCrafter: Structured 3D Mesh Generation via Compositional Latent Diffusion Transformers (today)
 - [dscripka/openWakeWord](https://github.com/dscripka/openWakeWord) - An open-source audio wake word (or phrase) detection framework with a focus on performance and simplicity. (today)
-- [pilsung-kang/Business-Analytics-IME654-](https://github.com/pilsung-kang/Business-Analytics-IME654-) - Course homepage for "Business Analytics (IME654)" @Korea University (today)
-- [pilsung-kang/Text-Analytics](https://github.com/pilsung-kang/Text-Analytics) - Unstructured Data Analysis (Graduate) @Korea University (today)
-- [wuqi5700/WebCrackv2](https://github.com/wuqi5700/WebCrackv2) - 基于WebCrack增加绕过图片识别码进行弱口令爆破的功能 (today)
-- [gdamdam/awesome-decentralized-web](https://github.com/gdamdam/awesome-decentralized-web) - an awesome list of decentralized services and technologies (today)
 
 ## 🔨 Latest Pull Requests I published
 
