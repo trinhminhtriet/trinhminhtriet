@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [xfjx/TonUINO](https://github.com/xfjx/TonUINO) - Die DIY Musikbox (nicht nur) für Kinder (today)
+- [mpgirro/docker-pihole-unbound](https://github.com/mpgirro/docker-pihole-unbound) - Run Pi-Hole + Unbound on Docker (today)
+- [gicmo/bolt](https://github.com/gicmo/bolt) - ⚡🐧 - Thunderbolt 3 device manager | This is a MIRROR of bolt from fd.o (today)
+- [gicmo/gamemode-extension](https://github.com/gicmo/gamemode-extension) - GNOME Shell extension for Feral Interactive's GameMode (today)
 - [lucahammer/fedifinder](https://github.com/lucahammer/fedifinder) - Find fediverse addresses in the profiles of your Twitter followings (today)
-- [lucahammer/tweetXer](https://github.com/lucahammer/tweetXer) - Delete all your Tweets for free (today)
-- [friendly/SAS-macros](https://github.com/friendly/SAS-macros) - SAS macros for statistics and graphics (today)
-- [wgsxm/PartCrafter](https://github.com/wgsxm/PartCrafter) - PartCrafter: Structured 3D Mesh Generation via Compositional Latent Diffusion Transformers (today)
-- [dscripka/openWakeWord](https://github.com/dscripka/openWakeWord) - An open-source audio wake word (or phrase) detection framework with a focus on performance and simplicity. (today)
 
 ## 🔨 Latest Pull Requests I published
 
