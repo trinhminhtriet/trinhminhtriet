@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [PratikPaudel](https://github.com/PratikPaudel)
 - [JuanPE44](https://github.com/JuanPE44)
 - [BEPb](https://github.com/BEPb)
 - [NaZzz97](https://github.com/NaZzz97)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [YashGajjar7017](https://github.com/YashGajjar7017)
 - [Mahadihusen](https://github.com/Mahadihusen)
 - [lyfe691](https://github.com/lyfe691)
-- [Landon153](https://github.com/Landon153)
 
 ## ⭐ Recent stars
 
-- [fatmakiraz/html-css-ogrenirken-faydalandigim-kaynaklar](https://github.com/fatmakiraz/html-css-ogrenirken-faydalandigim-kaynaklar) - HTML/CSS Öğrenirken Faydalandığım Kaynaklar (today)
-- [bufgix/my-react-native-playground](https://github.com/bufgix/my-react-native-playground) - React Native animation challanges (today)
-- [0xVariable/AWS-Security-Tools](https://github.com/0xVariable/AWS-Security-Tools) (today)
-- [alperenugurlu/Network_Assessment](https://github.com/alperenugurlu/Network_Assessment) - With Wireshark or TCPdump, you can determine whether there is harmful activity on your network traffic that you have recorded on the network you monitor. (today)
-- [clemenko/rke_install_blog](https://github.com/clemenko/rke_install_blog) (today)
+- [aceat64/EasyBitcoin-PHP](https://github.com/aceat64/EasyBitcoin-PHP) - A simple class for making calls to Bitcoin's API using PHP. This is an old library, I suggest instead using https://github.com/denpamusic/php-bitcoinrpc (today)
+- [zuolizhu/frontendmentor_challenges](https://github.com/zuolizhu/frontendmentor_challenges) - frontend mentor challenges solution repo (today)
+- [rozPierog/Cofi](https://github.com/rozPierog/Cofi) - Free and open-source coffee brew timer. Customizable time settings and an easy-to-use interface. Perfect cup every time. (today)
+- [PricelessToolkit/ESPBell-MAX](https://github.com/PricelessToolkit/ESPBell-MAX) - Intercom / Doorbell IoT Module (today)
+- [PricelessToolkit/Droplet](https://github.com/PricelessToolkit/Droplet) - ALL-IN-ONE Irrigation and monitoring system for ESPHome and Home Assistant. (today)
 
 ## 🔨 Latest Pull Requests I published
 
