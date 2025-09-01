@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [tamland/airsonic-refix](https://github.com/tamland/airsonic-refix) - Modern web UI for Subsonic compatible servers (today)
-- [joonson/voxconverse](https://github.com/joonson/voxconverse) - Spot the conversation: speaker diarisation in the wild (today)
-- [joonson/syncnet_trainer](https://github.com/joonson/syncnet_trainer) - Disentangled Speech Embeddings using Cross-Modal Self-Supervision (today)
-- [joonson/syncnet_python](https://github.com/joonson/syncnet_python) - Out of time: automated lip sync in the wild (today)
-- [abhi2610/ohem](https://github.com/abhi2610/ohem) - OHEM support for Fast R-CNN (today)
+- [dimok789/mocha](https://github.com/dimok789/mocha) - Mocha CFW - The sweet chocolate to your latte! (today)
+- [dimok789/loadiine_gx2](https://github.com/dimok789/loadiine_gx2) - A WiiU SD Loader with GX2 GUI (today)
+- [dimok789/homebrew_launcher](https://github.com/dimok789/homebrew_launcher) - WiiU Homebrew Launcher (today)
+- [MOVZX/CyberFSR2](https://github.com/MOVZX/CyberFSR2) - CyberFSR/PotatoFSR (FSR 2.1.2) for Games (today)
+- [skrapeit/skrape.it](https://github.com/skrapeit/skrape.it) - A Kotlin-based testing/scraping/parsing library providing the ability to analyze and extract data from HTML (server & client-side rendered). It places particular emphasis on ease of use and a high level of readability by providing an intuitive DSL. It aims to be a testing lib, but can also be used to scrape websites in a convenient fashion. (today)
 
 ## 🔨 Latest Pull Requests I published
 
