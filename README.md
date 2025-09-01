@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [soltani59](https://github.com/soltani59)
+- [ishandutta2007](https://github.com/ishandutta2007)
 - [YashGajjar7017](https://github.com/YashGajjar7017)
 - [Mahadihusen](https://github.com/Mahadihusen)
 - [lyfe691](https://github.com/lyfe691)
@@ -54,16 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Cre4T3Tiv3](https://github.com/Cre4T3Tiv3)
 - [0xPleiades](https://github.com/0xPleiades)
 - [victorykop](https://github.com/victorykop)
-- [benjamineruvieru](https://github.com/benjamineruvieru)
-- [ShahwaizZahid](https://github.com/ShahwaizZahid)
 
 ## ⭐ Recent stars
 
-- [prabhuomkar/iris](https://github.com/prabhuomkar/iris) - Open Source Photos Platform Powered by PyTorch (today)
-- [prabhuomkar/frisky](https://github.com/prabhuomkar/frisky) - 🍿 Open Source GraphQL API for Online Shows (today)
-- [prabhuomkar/pytorch-cpp](https://github.com/prabhuomkar/pytorch-cpp) - C++ Implementation of PyTorch Tutorials for Everyone (today)
-- [jwhited/corebgp](https://github.com/jwhited/corebgp) - CoreBGP is a BGP library written in Go that implements the BGP FSM with an event-driven, pluggable model. (today)
-- [jwhited/wgsd](https://github.com/jwhited/wgsd) - A CoreDNS plugin that provides WireGuard peer information via DNS-SD semantics (today)
+- [stefanopini/simple-HigherHRNet](https://github.com/stefanopini/simple-HigherHRNet) - Multi-person Human Pose Estimation with HigherHRNet in Pytorch, with TensorRT support (today)
+- [stefanopini/simple-HRNet](https://github.com/stefanopini/simple-HRNet) - Multi-person Human Pose Estimation with HRNet in Pytorch (today)
+- [lucabergamini/VAEGAN-PYTORCH](https://github.com/lucabergamini/VAEGAN-PYTORCH) - VAEGAN from "Autoencoding beyond pixels using a learned similarity metric" implemented in Pytorch. Clean, clear and with comments. (today)
+- [fabbrimatteo/LoCO](https://github.com/fabbrimatteo/LoCO) - This repository contains the source code related to the paper Compressed Volumetric Heatmaps for Multi-Person 3D Pose Estimation (today)
+- [fabbrimatteo/JTA-Dataset](https://github.com/fabbrimatteo/JTA-Dataset) (today)
 
 ## 🔨 Latest Pull Requests I published
 
