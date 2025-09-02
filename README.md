@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [kkebo/DNSecure](https://github.com/kkebo/DNSecure) - DNSecure is a configuration tool of DoT and DoH for iOS and iPadOS. (today)
-- [compnerd/swift-winrt](https://github.com/compnerd/swift-winrt) - Swift Projections for WinRT (today)
-- [compnerd/swift-build](https://github.com/compnerd/swift-build) - Alternate Swift Builds (today)
-- [compnerd/swift-win32](https://github.com/compnerd/swift-win32) - A Windows application framework for Swift (today)
-- [mike42/escpos-php](https://github.com/mike42/escpos-php) - PHP library for printing to ESC/POS-compatible thermal and impact printers (today)
+- [rodydavis/moor_shared](https://github.com/rodydavis/moor_shared) - Shared SQLite DB across mobile, web and desktop (today)
+- [rodydavis/clean_architecture_todo_app](https://github.com/rodydavis/clean_architecture_todo_app) - Todo App with Flutter + CleanArchitecture + riverpod + drift! (today)
+- [rodydavis/data_tables](https://github.com/rodydavis/data_tables) - Data Tables for Flutter (today)
+- [rodydavis/easy_web_view](https://github.com/rodydavis/easy_web_view) - Flutter Web Views on Mobile and Web made easy! (today)
+- [rodydavis/storyboard](https://github.com/rodydavis/storyboard) - Flutter Storyboard (today)
 
 ## 🔨 Latest Pull Requests I published
 
