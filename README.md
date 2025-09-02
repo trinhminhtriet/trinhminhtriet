@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [sudiptarathi2020](https://github.com/sudiptarathi2020)
+- [ELEF-TQ](https://github.com/ELEF-TQ)
 - [buddy0323](https://github.com/buddy0323)
 - [PratikPaudel](https://github.com/PratikPaudel)
 - [JuanPE44](https://github.com/JuanPE44)
@@ -54,8 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Rajan167030](https://github.com/Rajan167030)
 - [soltani59](https://github.com/soltani59)
 - [ishandutta2007](https://github.com/ishandutta2007)
-- [YashGajjar7017](https://github.com/YashGajjar7017)
-- [Mahadihusen](https://github.com/Mahadihusen)
 
 ## ⭐ Recent stars
 
