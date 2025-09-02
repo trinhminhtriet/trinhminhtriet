@@ -33,11 +33,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👷 Check out what I'm currently working on
 
-- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (today)
-- [nctl-io/nctl-roadmap](https://github.com/nctl-io/nctl-roadmap) (2 days ago)
-- [nctl-io/.github](https://github.com/nctl-io/.github) - 🌐 Network. Connect. Transform. Lead. (5 days ago)
-- [nctl-io/nctl-branding](https://github.com/nctl-io/nctl-branding) - NCTL Branding 🖼️: Centralized assets and guidelines for consistent visual identity across NCTL projects and platforms. (6 days ago)
-- [nctl-io/nctl-homepage](https://github.com/nctl-io/nctl-homepage) - 🚀 Modern homepage for NCTL: fast, responsive, TypeScript-powered, open source, and easy to customize. (6 days ago)
+- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (1 day ago)
+- [nctl-io/nctl-roadmap](https://github.com/nctl-io/nctl-roadmap) (3 days ago)
+- [nctl-io/.github](https://github.com/nctl-io/.github) - 🌐 Network. Connect. Transform. Lead. (6 days ago)
+- [nctl-io/nctl-branding](https://github.com/nctl-io/nctl-branding) - NCTL Branding 🖼️: Centralized assets and guidelines for consistent visual identity across NCTL projects and platforms. (1 week ago)
+- [nctl-io/nctl-homepage](https://github.com/nctl-io/nctl-homepage) - 🚀 Modern homepage for NCTL: fast, responsive, TypeScript-powered, open source, and easy to customize. (1 week ago)
 - [trinhminhtriet/sizr](https://github.com/trinhminhtriet/sizr) - 📈 A fast, Rust-based tool to analyze file system usage with colorful output, file aggregation, exclusions, and directory comparisons. (1 week ago)
 - [trinhminhtriet/blast](https://github.com/trinhminhtriet/blast) - 🚀 Blast: A powerful, lightweight HTTP load generator for stress testing and benchmarking web applications with ease. (1 week ago)
 - [trinhminhtriet/spiko](https://github.com/trinhminhtriet/spiko) - 🚀 Spiko is a fast, Rust-based load testing tool with a beautiful TUI for real-time insights. (1 week ago)
@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [NinjaJc01/ssh-backdoor](https://github.com/NinjaJc01/ssh-backdoor) (today)
-- [Al-Sad/DroneRF](https://github.com/Al-Sad/DroneRF) - This repository contains all MATLAB and Python codes used for Drones Detection and Identification using their RF signals. (today)
-- [asavinov/intelligent-trading-bot](https://github.com/asavinov/intelligent-trading-bot) - Intelligent Trading Bot: Automatically generating signals and trading based on machine learning and feature engineering (today)
-- [triska/lisprolog](https://github.com/triska/lisprolog) - Interpreter for a simple Lisp. Written in Prolog. (today)
-- [triska/clpfd](https://github.com/triska/clpfd) - Constraint Logic Programming over Finite Domains (today)
+- [spencergibb/spring-cloud-gateway-bench](https://github.com/spencergibb/spring-cloud-gateway-bench) - Simple benchmark comparing zuul and spring cloud gateway (today)
+- [spencergibb/battleschool](https://github.com/spencergibb/battleschool) - Development environment provisioning using ansible, ala boxen -> puppet, kitchenplan -> chef (today)
+- [nikita36078/J2ME-Loader](https://github.com/nikita36078/J2ME-Loader) - A J2ME emulator for Android. (today)
+- [ekasetiawans/flutter_background_service](https://github.com/ekasetiawans/flutter_background_service) (today)
+- [MilesCranmer/AirspeedVelocity.jl](https://github.com/MilesCranmer/AirspeedVelocity.jl) - Easily benchmark a Julia package over its commit history (today)
 
 ## 🔨 Latest Pull Requests I published
 
