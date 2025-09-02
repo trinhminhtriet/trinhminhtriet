@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [buddy0323](https://github.com/buddy0323)
 - [PratikPaudel](https://github.com/PratikPaudel)
 - [JuanPE44](https://github.com/JuanPE44)
 - [BEPb](https://github.com/BEPb)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [ishandutta2007](https://github.com/ishandutta2007)
 - [YashGajjar7017](https://github.com/YashGajjar7017)
 - [Mahadihusen](https://github.com/Mahadihusen)
-- [lyfe691](https://github.com/lyfe691)
 
 ## ⭐ Recent stars
 
