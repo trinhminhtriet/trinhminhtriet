@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [spencergibb/spring-cloud-gateway-bench](https://github.com/spencergibb/spring-cloud-gateway-bench) - Simple benchmark comparing zuul and spring cloud gateway (today)
-- [spencergibb/battleschool](https://github.com/spencergibb/battleschool) - Development environment provisioning using ansible, ala boxen -> puppet, kitchenplan -> chef (today)
-- [nikita36078/J2ME-Loader](https://github.com/nikita36078/J2ME-Loader) - A J2ME emulator for Android. (today)
-- [ekasetiawans/flutter_background_service](https://github.com/ekasetiawans/flutter_background_service) (today)
-- [MilesCranmer/AirspeedVelocity.jl](https://github.com/MilesCranmer/AirspeedVelocity.jl) - Easily benchmark a Julia package over its commit history (today)
+- [kkebo/DNSecure](https://github.com/kkebo/DNSecure) - DNSecure is a configuration tool of DoT and DoH for iOS and iPadOS. (today)
+- [compnerd/swift-winrt](https://github.com/compnerd/swift-winrt) - Swift Projections for WinRT (today)
+- [compnerd/swift-build](https://github.com/compnerd/swift-build) - Alternate Swift Builds (today)
+- [compnerd/swift-win32](https://github.com/compnerd/swift-win32) - A Windows application framework for Swift (today)
+- [mike42/escpos-php](https://github.com/mike42/escpos-php) - PHP library for printing to ESC/POS-compatible thermal and impact printers (today)
 
 ## 🔨 Latest Pull Requests I published
 
