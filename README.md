@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [quickapps/cms](https://github.com/quickapps/cms) - Modular CMS powered by CakePHP (today)
-- [webtechnick/CakePHP-Facebook-Plugin](https://github.com/webtechnick/CakePHP-Facebook-Plugin) - CakePHP Facebook Plugin (today)
-- [stormtek/unity-rts-demo](https://github.com/stormtek/unity-rts-demo) - A demo / foundation for an RTS game built using Unity 3d with C# scripting (today)
-- [justalever/tumblrboilerplate](https://github.com/justalever/tumblrboilerplate) - Tumblr Boiler Plate Theme (today)
-- [justalever/kickoff_tailwind](https://github.com/justalever/kickoff_tailwind) - A rapid Rails 7 application template for personal use bundled with Tailwind CSS (today)
+- [boydm/policy_wonk](https://github.com/boydm/policy_wonk) - Elixir authorization and resource loading in Plug form for Phoenix (today)
+- [boydm/phoenix_integration](https://github.com/boydm/phoenix_integration) - Lightweight server side integration test tools for Phoenix (today)
+- [asonge/loom](https://github.com/asonge/loom) - A CRDT library with δ-CRDT support. (today)
+- [JarrodCTaylor/schema-cartographer](https://github.com/JarrodCTaylor/schema-cartographer) - Schema Cartographer provides a means to visualize, navigate, create, edit and share the relationships that exist in your Datomic schema. (today)
+- [JarrodCTaylor/vim-plugin-starter-kit](https://github.com/JarrodCTaylor/vim-plugin-starter-kit) - A tool to create scaffolding for Vim plugins to be written in Python, and a wiki of common usages of the vim module in Python (today)
 
 ## 🔨 Latest Pull Requests I published
 
