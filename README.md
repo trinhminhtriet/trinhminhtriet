@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [ishandutta2007](https://github.com/ishandutta2007)
 - [dominikkoenitzer](https://github.com/dominikkoenitzer)
 - [RafalW3bCraft](https://github.com/RafalW3bCraft)
 - [Vv698K6KO53](https://github.com/Vv698K6KO53)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [buddy0323](https://github.com/buddy0323)
 - [PratikPaudel](https://github.com/PratikPaudel)
 - [JuanPE44](https://github.com/JuanPE44)
-- [BEPb](https://github.com/BEPb)
 
 ## ⭐ Recent stars
 
+- [tek256/astera](https://github.com/tek256/astera) - A C99 Cross Platform 2D Game Library (today)
+- [linqueta/rails-healthcheck](https://github.com/linqueta/rails-healthcheck) - A simple way to configure a healthcheck route for a Rails application (today)
+- [lucasresck/gnome-shell-extension-alt-tab-scroll-workaround](https://github.com/lucasresck/gnome-shell-extension-alt-tab-scroll-workaround) - Quick fix to the bug where scrolling in one application is repeated in another when switching between them using Alt+Tab (e.g., VS Code and Chrome) (today)
 - [normanjoyner/quarry](https://github.com/normanjoyner/quarry) - A rock solid, dynamic DNS server with swappable backends and CRUD API (today)
 - [kenperkins/winston-papertrail](https://github.com/kenperkins/winston-papertrail) - Papertrail transport for Winston (today)
-- [guenter/aws-oss-alternatives](https://github.com/guenter/aws-oss-alternatives) - Open Source Alternatives to AWS Services (today)
-- [phred/5minbootstrap](https://github.com/phred/5minbootstrap) - Bootstrap and secure your server in 5 minutes flat. (today)
-- [luads/php-xbase](https://github.com/luads/php-xbase) - A simple parser for *.dbf files using PHP (today)
 
 ## 🔨 Latest Pull Requests I published
 
