@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [MatheusRich/rails-diff](https://github.com/MatheusRich/rails-diff) - Compare Rails-generated files with the ones in your repository (today)
+- [Ottermandias/Glamourer](https://github.com/Ottermandias/Glamourer) - Change outside appearance of actors using Penumbra. (today)
+- [aeon0/botty](https://github.com/aeon0/botty) - D2R Pixel Bot (today)
+- [davidsmorais/kuro](https://github.com/davidsmorais/kuro) - An elegant Microsoft ToDo desktop client for Linux (a fork of Ao) (today)
 - [boydm/policy_wonk](https://github.com/boydm/policy_wonk) - Elixir authorization and resource loading in Plug form for Phoenix (today)
-- [boydm/phoenix_integration](https://github.com/boydm/phoenix_integration) - Lightweight server side integration test tools for Phoenix (today)
-- [asonge/loom](https://github.com/asonge/loom) - A CRDT library with δ-CRDT support. (today)
-- [JarrodCTaylor/schema-cartographer](https://github.com/JarrodCTaylor/schema-cartographer) - Schema Cartographer provides a means to visualize, navigate, create, edit and share the relationships that exist in your Datomic schema. (today)
-- [JarrodCTaylor/vim-plugin-starter-kit](https://github.com/JarrodCTaylor/vim-plugin-starter-kit) - A tool to create scaffolding for Vim plugins to be written in Python, and a wiki of common usages of the vim module in Python (today)
 
 ## 🔨 Latest Pull Requests I published
 
