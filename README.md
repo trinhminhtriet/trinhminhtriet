@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [dominikkoenitzer](https://github.com/dominikkoenitzer)
 - [RafalW3bCraft](https://github.com/RafalW3bCraft)
 - [Vv698K6KO53](https://github.com/Vv698K6KO53)
 - [rudraparmar76](https://github.com/rudraparmar76)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [PratikPaudel](https://github.com/PratikPaudel)
 - [JuanPE44](https://github.com/JuanPE44)
 - [BEPb](https://github.com/BEPb)
-- [NaZzz97](https://github.com/NaZzz97)
 
 ## ⭐ Recent stars
 
