@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [milsto/robust-kalman](https://github.com/milsto/robust-kalman) - Robust Kalman filter with adaptive noise statistics estimation. (today)
-- [parrotgeek1/Pluvia](https://github.com/parrotgeek1/Pluvia) - Untethered downgrade your GSM iPhone 4 without SHSH blobs. Only for Mac. No longer supported. Pluvia is no longer available for iOS versions other than 6.1.6. Please use https://github.com/LukeZGD/Legacy-iOS-Kit instead. (today)
-- [esdalmaijer/markovbot](https://github.com/esdalmaijer/markovbot) - Library to generate text with a Markov chain, with support to read and post updates to Twitter accounts. (today)
-- [esdalmaijer/PyGazeAnalyser](https://github.com/esdalmaijer/PyGazeAnalyser) - Analysis and high-level plotting toolbox for eye-tracking data (today)
-- [esdalmaijer/webcam-eyetracker](https://github.com/esdalmaijer/webcam-eyetracker) - Webcam-based pupil-tracker, complete with GUI to perform calibrations. (today)
+- [normanjoyner/quarry](https://github.com/normanjoyner/quarry) - A rock solid, dynamic DNS server with swappable backends and CRUD API (today)
+- [kenperkins/winston-papertrail](https://github.com/kenperkins/winston-papertrail) - Papertrail transport for Winston (today)
+- [guenter/aws-oss-alternatives](https://github.com/guenter/aws-oss-alternatives) - Open Source Alternatives to AWS Services (today)
+- [phred/5minbootstrap](https://github.com/phred/5minbootstrap) - Bootstrap and secure your server in 5 minutes flat. (today)
+- [luads/php-xbase](https://github.com/luads/php-xbase) - A simple parser for *.dbf files using PHP (today)
 
 ## 🔨 Latest Pull Requests I published
 
