@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Cup-Of-Liber-Tea](https://github.com/Cup-Of-Liber-Tea)
 - [ishandutta2007](https://github.com/ishandutta2007)
 - [dominikkoenitzer](https://github.com/dominikkoenitzer)
 - [RafalW3bCraft](https://github.com/RafalW3bCraft)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [ELEF-TQ](https://github.com/ELEF-TQ)
 - [buddy0323](https://github.com/buddy0323)
 - [PratikPaudel](https://github.com/PratikPaudel)
-- [JuanPE44](https://github.com/JuanPE44)
 
 ## ⭐ Recent stars
 
-- [tek256/astera](https://github.com/tek256/astera) - A C99 Cross Platform 2D Game Library (today)
-- [linqueta/rails-healthcheck](https://github.com/linqueta/rails-healthcheck) - A simple way to configure a healthcheck route for a Rails application (today)
-- [lucasresck/gnome-shell-extension-alt-tab-scroll-workaround](https://github.com/lucasresck/gnome-shell-extension-alt-tab-scroll-workaround) - Quick fix to the bug where scrolling in one application is repeated in another when switching between them using Alt+Tab (e.g., VS Code and Chrome) (today)
-- [normanjoyner/quarry](https://github.com/normanjoyner/quarry) - A rock solid, dynamic DNS server with swappable backends and CRUD API (today)
-- [kenperkins/winston-papertrail](https://github.com/kenperkins/winston-papertrail) - Papertrail transport for Winston (today)
+- [quickapps/cms](https://github.com/quickapps/cms) - Modular CMS powered by CakePHP (today)
+- [webtechnick/CakePHP-Facebook-Plugin](https://github.com/webtechnick/CakePHP-Facebook-Plugin) - CakePHP Facebook Plugin (today)
+- [stormtek/unity-rts-demo](https://github.com/stormtek/unity-rts-demo) - A demo / foundation for an RTS game built using Unity 3d with C# scripting (today)
+- [justalever/tumblrboilerplate](https://github.com/justalever/tumblrboilerplate) - Tumblr Boiler Plate Theme (today)
+- [justalever/kickoff_tailwind](https://github.com/justalever/kickoff_tailwind) - A rapid Rails 7 application template for personal use bundled with Tailwind CSS (today)
 
 ## 🔨 Latest Pull Requests I published
 
