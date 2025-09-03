@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [choosehappy/HistoQC](https://github.com/choosehappy/HistoQC) - HistoQC is an open-source quality control tool for digital pathology slides (today)
-- [ciro-unity/AnimationRigging-AdvancedSetups](https://github.com/ciro-unity/AnimationRigging-AdvancedSetups) - Distributable samples demonstrating advanced setups and use cases for Unity's Animation Rigging package (today)
-- [ciro-unity/BotW-ToonShader](https://github.com/ciro-unity/BotW-ToonShader) - A recreation of Zelda: Breath of the Wild's toon shader in Unity, using Shader Graph (today)
-- [ciro-unity/UnityRoyale-Public](https://github.com/ciro-unity/UnityRoyale-Public) - Public release of the Unity Royale project. All of the assets are redistributable. (today)
-- [yankooliveira/signals](https://github.com/yankooliveira/signals) - A typesafe, lightweight messaging lib for Unity. (today)
+- [milsto/robust-kalman](https://github.com/milsto/robust-kalman) - Robust Kalman filter with adaptive noise statistics estimation. (today)
+- [parrotgeek1/Pluvia](https://github.com/parrotgeek1/Pluvia) - Untethered downgrade your GSM iPhone 4 without SHSH blobs. Only for Mac. No longer supported. Pluvia is no longer available for iOS versions other than 6.1.6. Please use https://github.com/LukeZGD/Legacy-iOS-Kit instead. (today)
+- [esdalmaijer/markovbot](https://github.com/esdalmaijer/markovbot) - Library to generate text with a Markov chain, with support to read and post updates to Twitter accounts. (today)
+- [esdalmaijer/PyGazeAnalyser](https://github.com/esdalmaijer/PyGazeAnalyser) - Analysis and high-level plotting toolbox for eye-tracking data (today)
+- [esdalmaijer/webcam-eyetracker](https://github.com/esdalmaijer/webcam-eyetracker) - Webcam-based pupil-tracker, complete with GUI to perform calibrations. (today)
 
 ## 🔨 Latest Pull Requests I published
 
