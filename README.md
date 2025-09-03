@@ -33,9 +33,9 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👷 Check out what I'm currently working on
 
-- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (1 day ago)
-- [nctl-io/nctl-roadmap](https://github.com/nctl-io/nctl-roadmap) (3 days ago)
-- [nctl-io/.github](https://github.com/nctl-io/.github) - 🌐 Network. Connect. Transform. Lead. (6 days ago)
+- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (2 days ago)
+- [nctl-io/nctl-roadmap](https://github.com/nctl-io/nctl-roadmap) (4 days ago)
+- [nctl-io/.github](https://github.com/nctl-io/.github) - 🌐 Network. Connect. Transform. Lead. (1 week ago)
 - [nctl-io/nctl-branding](https://github.com/nctl-io/nctl-branding) - NCTL Branding 🖼️: Centralized assets and guidelines for consistent visual identity across NCTL projects and platforms. (1 week ago)
 - [nctl-io/nctl-homepage](https://github.com/nctl-io/nctl-homepage) - 🚀 Modern homepage for NCTL: fast, responsive, TypeScript-powered, open source, and easy to customize. (1 week ago)
 - [trinhminhtriet/sizr](https://github.com/trinhminhtriet/sizr) - 📈 A fast, Rust-based tool to analyze file system usage with colorful output, file aggregation, exclusions, and directory comparisons. (1 week ago)
@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [rodydavis/moor_shared](https://github.com/rodydavis/moor_shared) - Shared SQLite DB across mobile, web and desktop (today)
-- [rodydavis/clean_architecture_todo_app](https://github.com/rodydavis/clean_architecture_todo_app) - Todo App with Flutter + CleanArchitecture + riverpod + drift! (today)
-- [rodydavis/data_tables](https://github.com/rodydavis/data_tables) - Data Tables for Flutter (today)
-- [rodydavis/easy_web_view](https://github.com/rodydavis/easy_web_view) - Flutter Web Views on Mobile and Web made easy! (today)
-- [rodydavis/storyboard](https://github.com/rodydavis/storyboard) - Flutter Storyboard (today)
+- [bdero/flutter_scene](https://github.com/bdero/flutter_scene) - 3D library for Flutter. (today)
+- [hjbdev/pvm](https://github.com/hjbdev/pvm) - PHP Version Manager for the CLI on Windows (today)
+- [jesusrp98/spacex-go](https://github.com/jesusrp98/spacex-go) - Simple yet powerful, open-source SpaceX launch tracker. (today)
+- [codegrue/card_settings](https://github.com/codegrue/card_settings) - A flutter package for building card based forms.  (today)
+- [pselle/django-rest-angular2-example](https://github.com/pselle/django-rest-angular2-example) - A simple example of a Django REST app + Angular2 (1 day ago)
 
 ## 🔨 Latest Pull Requests I published
 
