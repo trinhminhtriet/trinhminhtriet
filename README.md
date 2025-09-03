@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [bdero/flutter_scene](https://github.com/bdero/flutter_scene) - 3D library for Flutter. (today)
-- [hjbdev/pvm](https://github.com/hjbdev/pvm) - PHP Version Manager for the CLI on Windows (today)
-- [jesusrp98/spacex-go](https://github.com/jesusrp98/spacex-go) - Simple yet powerful, open-source SpaceX launch tracker. (today)
-- [codegrue/card_settings](https://github.com/codegrue/card_settings) - A flutter package for building card based forms.  (today)
-- [pselle/django-rest-angular2-example](https://github.com/pselle/django-rest-angular2-example) - A simple example of a Django REST app + Angular2 (1 day ago)
+- [choosehappy/HistoQC](https://github.com/choosehappy/HistoQC) - HistoQC is an open-source quality control tool for digital pathology slides (today)
+- [ciro-unity/AnimationRigging-AdvancedSetups](https://github.com/ciro-unity/AnimationRigging-AdvancedSetups) - Distributable samples demonstrating advanced setups and use cases for Unity's Animation Rigging package (today)
+- [ciro-unity/BotW-ToonShader](https://github.com/ciro-unity/BotW-ToonShader) - A recreation of Zelda: Breath of the Wild's toon shader in Unity, using Shader Graph (today)
+- [ciro-unity/UnityRoyale-Public](https://github.com/ciro-unity/UnityRoyale-Public) - Public release of the Unity Royale project. All of the assets are redistributable. (today)
+- [yankooliveira/signals](https://github.com/yankooliveira/signals) - A typesafe, lightweight messaging lib for Unity. (today)
 
 ## 🔨 Latest Pull Requests I published
 
