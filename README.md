@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [connorgr/colorgorical](https://github.com/connorgr/colorgorical) - Colorgorical: a tool for creating categorical information visualization color palettes. (today)
-- [demi6od/ChatBot](https://github.com/demi6od/ChatBot) - Pytorch Generative ChatBot (Dialog System) based on RNN, Transformer, Bert and GPT2 (today)
-- [demi6od/Smashing_The_Browser](https://github.com/demi6od/Smashing_The_Browser) - Smashing The Browser: From Vulnerability Discovery To Exploit (today)
-- [dchapkine/extract-google-authenticator-credentials](https://github.com/dchapkine/extract-google-authenticator-credentials) - Easily move your android GoogleAuthenticator credentials to any new device ( iOS/Android/WP/UbuntuTouch/FFOS ). This reads your google authenticator database and generates original QRcodes (today)
-- [DominikGuzei/flawless.css](https://github.com/DominikGuzei/flawless.css) - A full stack html5 and css3 framework that uses less.js as it's core to provide a truly modular system with addons and other cute stuff ;-D (today)
+- [mrkline/concurrency-primer](https://github.com/mrkline/concurrency-primer) - The basics of low-level concurrency in a sub-30 minute read (today)
+- [mrkline/modern-latex](https://github.com/mrkline/modern-latex) - A short guide to LaTeX that avoids legacy cruft. (today)
+- [fimad/scalpel](https://github.com/fimad/scalpel) - A high level web scraping library for Haskell. (today)
+- [aisamanra/rust-haskell-ffi](https://github.com/aisamanra/rust-haskell-ffi) - Toy example of calling Rust from Haskell (today)
+- [bkirwi/decline](https://github.com/bkirwi/decline) - A composable command-line parser for Scala. (today)
 
 ## 🔨 Latest Pull Requests I published
 
