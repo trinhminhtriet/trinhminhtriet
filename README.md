@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [troquatte/curso-angular-latest](https://github.com/troquatte/curso-angular-latest) (today)
-- [victorsoares96/epubjs-react-native](https://github.com/victorsoares96/epubjs-react-native) - ePub.js Reader for React Native (today)
-- [flyingluscas/correios-php](https://github.com/flyingluscas/correios-php) - Uma maneira fácil de interagir com as principais funcionalidades dos Correios. (today)
-- [gabrielbrunop/tenda](https://github.com/gabrielbrunop/tenda) - Uma linguagem de programação moderna em português (1 day ago)
-- [fstanis/awesome-webdav](https://github.com/fstanis/awesome-webdav) - A curated list of awesome apps that support WebDAV and tools related to it. (1 day ago)
+- [kylekatarnls/business-time](https://github.com/kylekatarnls/business-time) - Carbon mixin to handle business days and opening hours (today)
+- [kylekatarnls/business-day](https://github.com/kylekatarnls/business-day) - Carbon mixin to handle business days (today)
+- [kylekatarnls/update-helper](https://github.com/kylekatarnls/update-helper) - Composer plugin to rise warnings on update, suggest migration processes (today)
+- [Pindrought/DirectX-11-Engine-VS2017](https://github.com/Pindrought/DirectX-11-Engine-VS2017) - DirectX 11 Engine Repo for my tutorial series on youtube. Uses Visual Studio 2017. (today)
+- [Blazebit/blaze-persistence](https://github.com/Blazebit/blaze-persistence) - Rich Criteria API for JPA providers (today)
 
 ## 🔨 Latest Pull Requests I published
 
