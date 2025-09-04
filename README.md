@@ -47,7 +47,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 ## 👯 Check out my recent followers
 
 - [chatman-media](https://github.com/chatman-media)
-- [ikramagix](https://github.com/ikramagix)
 - [Cup-Of-Liber-Tea](https://github.com/Cup-Of-Liber-Tea)
 - [ishandutta2007](https://github.com/ishandutta2007)
 - [dominikkoenitzer](https://github.com/dominikkoenitzer)
@@ -56,6 +55,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [rudraparmar76](https://github.com/rudraparmar76)
 - [sudiptarathi2020](https://github.com/sudiptarathi2020)
 - [ELEF-TQ](https://github.com/ELEF-TQ)
+- [buddy0323](https://github.com/buddy0323)
 
 ## ⭐ Recent stars
 
