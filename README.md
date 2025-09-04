@@ -33,7 +33,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👷 Check out what I'm currently working on
 
-- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (3 days ago)
+- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (today)
 - [nctl-io/nctl-roadmap](https://github.com/nctl-io/nctl-roadmap) (5 days ago)
 - [nctl-io/.github](https://github.com/nctl-io/.github) - 🌐 Network. Connect. Transform. Lead. (1 week ago)
 - [nctl-io/nctl-branding](https://github.com/nctl-io/nctl-branding) - NCTL Branding 🖼️: Centralized assets and guidelines for consistent visual identity across NCTL projects and platforms. (1 week ago)
@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [Fdawgs/node-poppler](https://github.com/Fdawgs/node-poppler) - Asynchronous Node.js wrapper for the Poppler PDF rendering library (today)
-- [coverdrive/MDP-DP-RL](https://github.com/coverdrive/MDP-DP-RL) - Markov Decision Processes, Dynamic Programming and Reinforcement Learning (today)
-- [mntn-dev/z.js](https://github.com/mntn-dev/z.js) - 🦄 Hide text via Unicode's ZW(N)Js (today)
-- [mntn-dev/t.js](https://github.com/mntn-dev/t.js) - ⌨️ Lightweight $.Hypertext.Typewriter (today)
-- [devat-youtuber/nextjs-ecommerce](https://github.com/devat-youtuber/nextjs-ecommerce) (today)
+- [integrii/flaggy](https://github.com/integrii/flaggy) - Idiomatic Go input parsing with subcommands, positional values, and flags at any position. No required project or package layout and no external dependencies. (today)
+- [matttproud/gochecklist](https://github.com/matttproud/gochecklist) - gochecklist is a set of recommendations for publishing Go projects. (today)
+- [aybabtme/logzalgo](https://github.com/aybabtme/logzalgo) - Logrus formatter invoking the P͉̫o̳̼̊w̖͈̰͎e̬͔̭͂r͚̼̹̲ ̫͓͉̳͈ō̠͕͖̚f̝͍̠ ͕̲̞͖͑Z̖̫̤̫ͪa͉̬͈̗l͖͎g̳̥o̰̥̅!̣͔̲̻͊̄ ̙̘̦̹̦ (today)
+- [aybabtme/uniplot](https://github.com/aybabtme/uniplot) - Makes histograms and barcharts. (today)
+- [aybabtme/rgbterm](https://github.com/aybabtme/rgbterm) - RGB colors for your terminal (today)
 
 ## 🔨 Latest Pull Requests I published
 
