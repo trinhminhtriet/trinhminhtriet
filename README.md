@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [eitchtee](https://github.com/eitchtee)
 - [chatman-media](https://github.com/chatman-media)
 - [Cup-Of-Liber-Tea](https://github.com/Cup-Of-Liber-Tea)
 - [ishandutta2007](https://github.com/ishandutta2007)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [rudraparmar76](https://github.com/rudraparmar76)
 - [sudiptarathi2020](https://github.com/sudiptarathi2020)
 - [ELEF-TQ](https://github.com/ELEF-TQ)
-- [buddy0323](https://github.com/buddy0323)
 
 ## ⭐ Recent stars
 
-- [vnsmoreira/get-route](https://github.com/vnsmoreira/get-route) - A simple utility to calculate route between addresses (today)
-- [tbakerx/react-resume-template](https://github.com/tbakerx/react-resume-template) - A personal resume website template built with React.js, Typescript, Next.js, and styled with Tailwind css (today)
-- [kylekatarnls/business-time](https://github.com/kylekatarnls/business-time) - Carbon mixin to handle business days and opening hours (today)
-- [kylekatarnls/business-day](https://github.com/kylekatarnls/business-day) - Carbon mixin to handle business days (today)
-- [kylekatarnls/update-helper](https://github.com/kylekatarnls/update-helper) - Composer plugin to rise warnings on update, suggest migration processes (today)
+- [mntn-dev/z.js](https://github.com/mntn-dev/z.js) - 🦄 Hide text via Unicode's ZW(N)Js (today)
+- [mntn-dev/t.js](https://github.com/mntn-dev/t.js) - ⌨️ Lightweight $.Hypertext.Typewriter (today)
+- [devat-youtuber/nextjs-ecommerce](https://github.com/devat-youtuber/nextjs-ecommerce) (today)
+- [devat-youtuber/MERN-Stack-Build-a-social-media-app](https://github.com/devat-youtuber/MERN-Stack-Build-a-social-media-app) (today)
+- [devat-youtuber/mern-ecommerce](https://github.com/devat-youtuber/mern-ecommerce) (today)
 
 ## 🔨 Latest Pull Requests I published
 
