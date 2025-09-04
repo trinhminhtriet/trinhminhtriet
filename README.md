@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [Fdawgs/node-poppler](https://github.com/Fdawgs/node-poppler) - Asynchronous Node.js wrapper for the Poppler PDF rendering library (today)
+- [coverdrive/MDP-DP-RL](https://github.com/coverdrive/MDP-DP-RL) - Markov Decision Processes, Dynamic Programming and Reinforcement Learning (today)
 - [mntn-dev/z.js](https://github.com/mntn-dev/z.js) - 🦄 Hide text via Unicode's ZW(N)Js (today)
 - [mntn-dev/t.js](https://github.com/mntn-dev/t.js) - ⌨️ Lightweight $.Hypertext.Typewriter (today)
 - [devat-youtuber/nextjs-ecommerce](https://github.com/devat-youtuber/nextjs-ecommerce) (today)
-- [devat-youtuber/MERN-Stack-Build-a-social-media-app](https://github.com/devat-youtuber/MERN-Stack-Build-a-social-media-app) (today)
-- [devat-youtuber/mern-ecommerce](https://github.com/devat-youtuber/mern-ecommerce) (today)
 
 ## 🔨 Latest Pull Requests I published
 
