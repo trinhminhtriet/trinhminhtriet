@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [chatman-media](https://github.com/chatman-media)
 - [ikramagix](https://github.com/ikramagix)
 - [Cup-Of-Liber-Tea](https://github.com/Cup-Of-Liber-Tea)
 - [ishandutta2007](https://github.com/ishandutta2007)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [rudraparmar76](https://github.com/rudraparmar76)
 - [sudiptarathi2020](https://github.com/sudiptarathi2020)
 - [ELEF-TQ](https://github.com/ELEF-TQ)
-- [buddy0323](https://github.com/buddy0323)
 
 ## ⭐ Recent stars
 
+- [troquatte/curso-angular-latest](https://github.com/troquatte/curso-angular-latest) (today)
+- [victorsoares96/epubjs-react-native](https://github.com/victorsoares96/epubjs-react-native) - ePub.js Reader for React Native (today)
 - [flyingluscas/correios-php](https://github.com/flyingluscas/correios-php) - Uma maneira fácil de interagir com as principais funcionalidades dos Correios. (today)
 - [gabrielbrunop/tenda](https://github.com/gabrielbrunop/tenda) - Uma linguagem de programação moderna em português (1 day ago)
 - [fstanis/awesome-webdav](https://github.com/fstanis/awesome-webdav) - A curated list of awesome apps that support WebDAV and tools related to it. (1 day ago)
-- [MatheusRich/rails-diff](https://github.com/MatheusRich/rails-diff) - Compare Rails-generated files with the ones in your repository (1 day ago)
-- [Ottermandias/Glamourer](https://github.com/Ottermandias/Glamourer) - Change outside appearance of actors using Penumbra. (1 day ago)
 
 ## 🔨 Latest Pull Requests I published
 
