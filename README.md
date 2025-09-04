@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [ayberkozgur/jlcpcb-design-rules-stackups](https://github.com/ayberkozgur/jlcpcb-design-rules-stackups) - JLCPCB design rules and stackups for Altium Designer (today)
-- [danielvegamyhre/minicache](https://github.com/danielvegamyhre/minicache) - Distributed cache with client-side consistent hashing, distributed leader-elections, and dynamic node discovery. Supports both REST and gRPC interfaces secured with mTLS. (today)
-- [wassim249/YT-Navigator](https://github.com/wassim249/YT-Navigator) - YT Navigator: AI-powered YouTube content explorer that lets you search and chat with channel videos using AI agents. Extract insights from hours of content in seconds with semantic search and precise timestamps. (today)
-- [wassim249/fastapi-langgraph-agent-production-ready-template](https://github.com/wassim249/fastapi-langgraph-agent-production-ready-template) - A production-ready FastAPI template for building AI agent applications with LangGraph integration. This template provides a robust foundation for building scalable, secure, and maintainable AI agent services. (today)
-- [max-moser/network-manager-wireguard](https://github.com/max-moser/network-manager-wireguard) - NetworkManager VPN Plugin: Wireguard (today)
+- [grisha/gowebapp](https://github.com/grisha/gowebapp) - Simplistic Go Web App (today)
+- [grisha/thredis](https://github.com/grisha/thredis) - Thredis is Threaded Redis. Thredis is a fork of Redis that allows for complex operations to be processed in parallel threads for better performance on multi-core systems. See thredis.org and README-THREDIS file. (today)
+- [grisha/mod_python](https://github.com/grisha/mod_python) - mod_python (today)
+- [nostalgiaz/donuts](https://github.com/nostalgiaz/donuts) (today)
+- [mli42/containers_test](https://github.com/mli42/containers_test) - My tester for the 42-project ft_containers (today)
 
 ## 🔨 Latest Pull Requests I published
 
