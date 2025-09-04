@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [skyzh/RISCV-Simulator](https://github.com/skyzh/RISCV-Simulator) - 💻 RISC-V Simulator of RV32I ISA. 5-stage pipeline / out-of-order execution with Tomasulo algorithm and Speculation. Support runtime visualization. Project report available. (today)
-- [skyzh/canvas_grab](https://github.com/skyzh/canvas_grab) - 🌐 One-click script to synchronize files from Canvas LMS. (today)
-- [skyzh/tiny-llm](https://github.com/skyzh/tiny-llm) - A course of learning LLM inference serving on Apple Silicon for systems engineers: build a tiny vLLM + Qwen. (today)
-- [brentyi/egoallo](https://github.com/brentyi/egoallo) - Estimating Body and Hand Motion in an Ego-sensed World (today)
-- [brentyi/jaxls](https://github.com/brentyi/jaxls) - Sparse nonlinear least squares in JAX (today)
+- [AnandChowdhary/calendar-link](https://github.com/AnandChowdhary/calendar-link) - 📅 Calendar link generator for popular services (today)
+- [rsxdalv/TTS-WebUI](https://github.com/rsxdalv/TTS-WebUI) - A single Gradio + React WebUI with extensions for ACE-Step, Kimi Audio, Piper TTS, GPT-SoVITS, CosyVoice, XTTSv2, DIA, Kokoro, OpenVoice, ParlerTTS, Stable Audio, MMS, StyleTTS2, MAGNet, AudioGen, MusicGen, Tortoise, RVC, Vocos, Demucs, SeamlessM4T, and Bark! (today)
+- [chrisvxd/react-from-json](https://github.com/chrisvxd/react-from-json) - Declare your React component tree in JSON (today)
+- [chrisvxd/combine-pagination](https://github.com/chrisvxd/combine-pagination) - A JavaScript library for paginating data from multiple sources 🦑 (today)
+- [chrisvxd/puppeteer-social-image](https://github.com/chrisvxd/puppeteer-social-image) - Create dynamic social share images using HTML + CSS via puppeteer 🎁 (today)
 
 ## 🔨 Latest Pull Requests I published
 
