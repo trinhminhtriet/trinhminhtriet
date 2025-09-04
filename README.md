@@ -48,7 +48,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 - [syedshameersarwar](https://github.com/syedshameersarwar)
 - [MarcoAngermann](https://github.com/MarcoAngermann)
-- [eitchtee](https://github.com/eitchtee)
 - [chatman-media](https://github.com/chatman-media)
 - [Cup-Of-Liber-Tea](https://github.com/Cup-Of-Liber-Tea)
 - [ishandutta2007](https://github.com/ishandutta2007)
@@ -56,14 +55,15 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [RafalW3bCraft](https://github.com/RafalW3bCraft)
 - [Vv698K6KO53](https://github.com/Vv698K6KO53)
 - [rudraparmar76](https://github.com/rudraparmar76)
+- [sudiptarathi2020](https://github.com/sudiptarathi2020)
 
 ## ⭐ Recent stars
 
-- [jnunemaker/twitter-app](https://github.com/jnunemaker/twitter-app) - example rails 3 application that uses oauth (today)
-- [exoego/rspec-openapi](https://github.com/exoego/rspec-openapi) - Generate OpenAPI schema from RSpec request specs (today)
-- [silva96/log_bench](https://github.com/silva96/log_bench) - A terminal-based Rails log viewer with real-time monitoring and filtering capabilities (today)
-- [angus-c/es6-react-mixins](https://github.com/angus-c/es6-react-mixins) - universal mixin adapter for react (today)
-- [angus-c/waldojs](https://github.com/angus-c/waldojs) - Find things in your JS object tree (today)
+- [mephraim/ghostscriptsharp](https://github.com/mephraim/ghostscriptsharp) - A C# wrapper for the Ghostscript library (1.1) (today)
+- [calavera/active-proxy](https://github.com/calavera/active-proxy) - Dynamic reverse proxy (today)
+- [calavera/docker-volume-glusterfs](https://github.com/calavera/docker-volume-glusterfs) - [UNMAINTAINED] Volume plugin to use GlusterFS as distributed data storage (today)
+- [netshade/Cocoa-Touch-Barcodes](https://github.com/netshade/Cocoa-Touch-Barcodes) - Fork of Jeff Lamarche's original barcode generator library at http://code.google.com/p/cocoabarcodes/ (today)
+- [grantr/rubberband](https://github.com/grantr/rubberband) - ElasticSearch Ruby client (deprecated) (today)
 
 ## 🔨 Latest Pull Requests I published
 
