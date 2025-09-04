@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [mephraim/ghostscriptsharp](https://github.com/mephraim/ghostscriptsharp) - A C# wrapper for the Ghostscript library (1.1) (today)
-- [calavera/active-proxy](https://github.com/calavera/active-proxy) - Dynamic reverse proxy (today)
-- [calavera/docker-volume-glusterfs](https://github.com/calavera/docker-volume-glusterfs) - [UNMAINTAINED] Volume plugin to use GlusterFS as distributed data storage (today)
-- [netshade/Cocoa-Touch-Barcodes](https://github.com/netshade/Cocoa-Touch-Barcodes) - Fork of Jeff Lamarche's original barcode generator library at http://code.google.com/p/cocoabarcodes/ (today)
-- [grantr/rubberband](https://github.com/grantr/rubberband) - ElasticSearch Ruby client (deprecated) (today)
+- [uipoet/sublime-jshint](https://github.com/uipoet/sublime-jshint) - JSHint any JavaScript file in Sublime Text 2 (today)
+- [vvoovv/blosm](https://github.com/vvoovv/blosm) - Blosm addon for Blender. A few clicks import of Google 3D cities, OpenStreetMap, terrain. Global coverage. Source code is in the branch 'release'. (today)
+- [marcoslin/angularAMD](https://github.com/marcoslin/angularAMD) - Facilitate use of RequireJS in AngularJS (today)
+- [TehloWasTaken/HomeDashboardv3](https://github.com/TehloWasTaken/HomeDashboardv3) - Github Repo explaining what services I run on my Homelab Grafana Dashboard (today)
+- [TehloWasTaken/HomeDashboard](https://github.com/TehloWasTaken/HomeDashboard) - A requested Github Repo for my Grafana Home Dashboard (today)
 
 ## 🔨 Latest Pull Requests I published
 
