@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [grisha/gowebapp](https://github.com/grisha/gowebapp) - Simplistic Go Web App (today)
-- [grisha/thredis](https://github.com/grisha/thredis) - Thredis is Threaded Redis. Thredis is a fork of Redis that allows for complex operations to be processed in parallel threads for better performance on multi-core systems. See thredis.org and README-THREDIS file. (today)
-- [grisha/mod_python](https://github.com/grisha/mod_python) - mod_python (today)
-- [nostalgiaz/donuts](https://github.com/nostalgiaz/donuts) (today)
-- [mli42/containers_test](https://github.com/mli42/containers_test) - My tester for the 42-project ft_containers (today)
+- [a-luna/fastapi-redis-cache](https://github.com/a-luna/fastapi-redis-cache) - A simple and robust caching solution for FastAPI that interprets request header values and creates proper response header values (powered by Redis) (today)
+- [sklivvz/cthulhu](https://github.com/sklivvz/cthulhu) - Extend Redis with JavaScript modules (today)
+- [WhatsNewSaes/Skeleton-Less](https://github.com/WhatsNewSaes/Skeleton-Less) - The (un)official Less Version of Skeleton (2.0.4): A Dead Simple, Responsive Boilerplate for Mobile-Friendly Development (today)
+- [WhatsNewSaes/Skeleton-Sass](https://github.com/WhatsNewSaes/Skeleton-Sass) - The (un)official Sass Version of Skeleton (2.0.4): A Dead Simple, Responsive Boilerplate for Mobile-Friendly Development (today)
+- [datawookie/emayili](https://github.com/datawookie/emayili) - An R package for sending email messages. (today)
 
 ## 🔨 Latest Pull Requests I published
 
