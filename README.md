@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [AnandChowdhary/calendar-link](https://github.com/AnandChowdhary/calendar-link) - 📅 Calendar link generator for popular services (today)
-- [rsxdalv/TTS-WebUI](https://github.com/rsxdalv/TTS-WebUI) - A single Gradio + React WebUI with extensions for ACE-Step, Kimi Audio, Piper TTS, GPT-SoVITS, CosyVoice, XTTSv2, DIA, Kokoro, OpenVoice, ParlerTTS, Stable Audio, MMS, StyleTTS2, MAGNet, AudioGen, MusicGen, Tortoise, RVC, Vocos, Demucs, SeamlessM4T, and Bark! (today)
-- [chrisvxd/react-from-json](https://github.com/chrisvxd/react-from-json) - Declare your React component tree in JSON (today)
-- [chrisvxd/combine-pagination](https://github.com/chrisvxd/combine-pagination) - A JavaScript library for paginating data from multiple sources 🦑 (today)
-- [chrisvxd/puppeteer-social-image](https://github.com/chrisvxd/puppeteer-social-image) - Create dynamic social share images using HTML + CSS via puppeteer 🎁 (today)
+- [jnunemaker/twitter-app](https://github.com/jnunemaker/twitter-app) - example rails 3 application that uses oauth (today)
+- [exoego/rspec-openapi](https://github.com/exoego/rspec-openapi) - Generate OpenAPI schema from RSpec request specs (today)
+- [silva96/log_bench](https://github.com/silva96/log_bench) - A terminal-based Rails log viewer with real-time monitoring and filtering capabilities (today)
+- [angus-c/es6-react-mixins](https://github.com/angus-c/es6-react-mixins) - universal mixin adapter for react (today)
+- [angus-c/waldojs](https://github.com/angus-c/waldojs) - Find things in your JS object tree (today)
 
 ## 🔨 Latest Pull Requests I published
 
