@@ -33,8 +33,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👷 Check out what I'm currently working on
 
-- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (2 days ago)
-- [nctl-io/nctl-roadmap](https://github.com/nctl-io/nctl-roadmap) (4 days ago)
+- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (3 days ago)
+- [nctl-io/nctl-roadmap](https://github.com/nctl-io/nctl-roadmap) (5 days ago)
 - [nctl-io/.github](https://github.com/nctl-io/.github) - 🌐 Network. Connect. Transform. Lead. (1 week ago)
 - [nctl-io/nctl-branding](https://github.com/nctl-io/nctl-branding) - NCTL Branding 🖼️: Centralized assets and guidelines for consistent visual identity across NCTL projects and platforms. (1 week ago)
 - [nctl-io/nctl-homepage](https://github.com/nctl-io/nctl-homepage) - 🚀 Modern homepage for NCTL: fast, responsive, TypeScript-powered, open source, and easy to customize. (1 week ago)
@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [ikramagix](https://github.com/ikramagix)
 - [Cup-Of-Liber-Tea](https://github.com/Cup-Of-Liber-Tea)
 - [ishandutta2007](https://github.com/ishandutta2007)
 - [dominikkoenitzer](https://github.com/dominikkoenitzer)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [sudiptarathi2020](https://github.com/sudiptarathi2020)
 - [ELEF-TQ](https://github.com/ELEF-TQ)
 - [buddy0323](https://github.com/buddy0323)
-- [PratikPaudel](https://github.com/PratikPaudel)
 
 ## ⭐ Recent stars
 
-- [MatheusRich/rails-diff](https://github.com/MatheusRich/rails-diff) - Compare Rails-generated files with the ones in your repository (today)
-- [Ottermandias/Glamourer](https://github.com/Ottermandias/Glamourer) - Change outside appearance of actors using Penumbra. (today)
-- [aeon0/botty](https://github.com/aeon0/botty) - D2R Pixel Bot (today)
-- [davidsmorais/kuro](https://github.com/davidsmorais/kuro) - An elegant Microsoft ToDo desktop client for Linux (a fork of Ao) (today)
-- [boydm/policy_wonk](https://github.com/boydm/policy_wonk) - Elixir authorization and resource loading in Plug form for Phoenix (today)
+- [flyingluscas/correios-php](https://github.com/flyingluscas/correios-php) - Uma maneira fácil de interagir com as principais funcionalidades dos Correios. (today)
+- [gabrielbrunop/tenda](https://github.com/gabrielbrunop/tenda) - Uma linguagem de programação moderna em português (1 day ago)
+- [fstanis/awesome-webdav](https://github.com/fstanis/awesome-webdav) - A curated list of awesome apps that support WebDAV and tools related to it. (1 day ago)
+- [MatheusRich/rails-diff](https://github.com/MatheusRich/rails-diff) - Compare Rails-generated files with the ones in your repository (1 day ago)
+- [Ottermandias/Glamourer](https://github.com/Ottermandias/Glamourer) - Change outside appearance of actors using Penumbra. (1 day ago)
 
 ## 🔨 Latest Pull Requests I published
 
