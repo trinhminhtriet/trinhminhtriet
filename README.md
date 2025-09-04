@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [syedshameersarwar](https://github.com/syedshameersarwar)
 - [MarcoAngermann](https://github.com/MarcoAngermann)
 - [eitchtee](https://github.com/eitchtee)
 - [chatman-media](https://github.com/chatman-media)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [RafalW3bCraft](https://github.com/RafalW3bCraft)
 - [Vv698K6KO53](https://github.com/Vv698K6KO53)
 - [rudraparmar76](https://github.com/rudraparmar76)
-- [sudiptarathi2020](https://github.com/sudiptarathi2020)
 
 ## ⭐ Recent stars
 
-- [integrii/flaggy](https://github.com/integrii/flaggy) - Idiomatic Go input parsing with subcommands, positional values, and flags at any position. No required project or package layout and no external dependencies. (today)
-- [matttproud/gochecklist](https://github.com/matttproud/gochecklist) - gochecklist is a set of recommendations for publishing Go projects. (today)
-- [aybabtme/logzalgo](https://github.com/aybabtme/logzalgo) - Logrus formatter invoking the P͉̫o̳̼̊w̖͈̰͎e̬͔̭͂r͚̼̹̲ ̫͓͉̳͈ō̠͕͖̚f̝͍̠ ͕̲̞͖͑Z̖̫̤̫ͪa͉̬͈̗l͖͎g̳̥o̰̥̅!̣͔̲̻͊̄ ̙̘̦̹̦ (today)
-- [aybabtme/uniplot](https://github.com/aybabtme/uniplot) - Makes histograms and barcharts. (today)
-- [aybabtme/rgbterm](https://github.com/aybabtme/rgbterm) - RGB colors for your terminal (today)
+- [skyzh/RISCV-Simulator](https://github.com/skyzh/RISCV-Simulator) - 💻 RISC-V Simulator of RV32I ISA. 5-stage pipeline / out-of-order execution with Tomasulo algorithm and Speculation. Support runtime visualization. Project report available. (today)
+- [skyzh/canvas_grab](https://github.com/skyzh/canvas_grab) - 🌐 One-click script to synchronize files from Canvas LMS. (today)
+- [skyzh/tiny-llm](https://github.com/skyzh/tiny-llm) - A course of learning LLM inference serving on Apple Silicon for systems engineers: build a tiny vLLM + Qwen. (today)
+- [brentyi/egoallo](https://github.com/brentyi/egoallo) - Estimating Body and Hand Motion in an Ego-sensed World (today)
+- [brentyi/jaxls](https://github.com/brentyi/jaxls) - Sparse nonlinear least squares in JAX (today)
 
 ## 🔨 Latest Pull Requests I published
 
