@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [vnsmoreira/get-route](https://github.com/vnsmoreira/get-route) - A simple utility to calculate route between addresses (today)
+- [tbakerx/react-resume-template](https://github.com/tbakerx/react-resume-template) - A personal resume website template built with React.js, Typescript, Next.js, and styled with Tailwind css (today)
 - [kylekatarnls/business-time](https://github.com/kylekatarnls/business-time) - Carbon mixin to handle business days and opening hours (today)
 - [kylekatarnls/business-day](https://github.com/kylekatarnls/business-day) - Carbon mixin to handle business days (today)
 - [kylekatarnls/update-helper](https://github.com/kylekatarnls/update-helper) - Composer plugin to rise warnings on update, suggest migration processes (today)
-- [Pindrought/DirectX-11-Engine-VS2017](https://github.com/Pindrought/DirectX-11-Engine-VS2017) - DirectX 11 Engine Repo for my tutorial series on youtube. Uses Visual Studio 2017. (today)
-- [Blazebit/blaze-persistence](https://github.com/Blazebit/blaze-persistence) - Rich Criteria API for JPA providers (today)
 
 ## 🔨 Latest Pull Requests I published
 
