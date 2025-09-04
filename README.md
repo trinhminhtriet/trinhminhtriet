@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [uipoet/sublime-jshint](https://github.com/uipoet/sublime-jshint) - JSHint any JavaScript file in Sublime Text 2 (today)
-- [vvoovv/blosm](https://github.com/vvoovv/blosm) - Blosm addon for Blender. A few clicks import of Google 3D cities, OpenStreetMap, terrain. Global coverage. Source code is in the branch 'release'. (today)
-- [marcoslin/angularAMD](https://github.com/marcoslin/angularAMD) - Facilitate use of RequireJS in AngularJS (today)
-- [TehloWasTaken/HomeDashboardv3](https://github.com/TehloWasTaken/HomeDashboardv3) - Github Repo explaining what services I run on my Homelab Grafana Dashboard (today)
-- [TehloWasTaken/HomeDashboard](https://github.com/TehloWasTaken/HomeDashboard) - A requested Github Repo for my Grafana Home Dashboard (today)
+- [connorgr/colorgorical](https://github.com/connorgr/colorgorical) - Colorgorical: a tool for creating categorical information visualization color palettes. (today)
+- [demi6od/ChatBot](https://github.com/demi6od/ChatBot) - Pytorch Generative ChatBot (Dialog System) based on RNN, Transformer, Bert and GPT2 (today)
+- [demi6od/Smashing_The_Browser](https://github.com/demi6od/Smashing_The_Browser) - Smashing The Browser: From Vulnerability Discovery To Exploit (today)
+- [dchapkine/extract-google-authenticator-credentials](https://github.com/dchapkine/extract-google-authenticator-credentials) - Easily move your android GoogleAuthenticator credentials to any new device ( iOS/Android/WP/UbuntuTouch/FFOS ). This reads your google authenticator database and generates original QRcodes (today)
+- [DominikGuzei/flawless.css](https://github.com/DominikGuzei/flawless.css) - A full stack html5 and css3 framework that uses less.js as it's core to provide a truly modular system with addons and other cute stuff ;-D (today)
 
 ## 🔨 Latest Pull Requests I published
 
