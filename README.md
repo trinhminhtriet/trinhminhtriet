@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [davidsmorais](https://github.com/davidsmorais)
+- [MehrshadFb](https://github.com/MehrshadFb)
 - [abdelhadi-haddadi](https://github.com/abdelhadi-haddadi)
 - [macrespo42](https://github.com/macrespo42)
 - [SanidhyaDixit](https://github.com/SanidhyaDixit)
@@ -54,16 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [MarcoAngermann](https://github.com/MarcoAngermann)
 - [chatman-media](https://github.com/chatman-media)
 - [Cup-Of-Liber-Tea](https://github.com/Cup-Of-Liber-Tea)
-- [ishandutta2007](https://github.com/ishandutta2007)
-- [dominikkoenitzer](https://github.com/dominikkoenitzer)
 
 ## ⭐ Recent stars
 
-- [ravsau/aws-labs](https://github.com/ravsau/aws-labs) - step by step guide for aws mini labs. Currently maintained on : https://github.com/Cloud-Yeti/aws-labs Youtube playlist for labs: (today)
-- [nextgenusfs/funannotate](https://github.com/nextgenusfs/funannotate) - Eukaryotic Genome Annotation Pipeline (today)
-- [vdemichev/DiaNN](https://github.com/vdemichev/DiaNN) - DIA-NN - a universal automated software suite for DIA proteomics data analysis.  (today)
-- [AsynctaskCoffee/VideoLayout](https://github.com/AsynctaskCoffee/VideoLayout) - To play video on layout background (textureview videoview for layout designs) (today)
-- [mrtylerzhou/AntFlow.net](https://github.com/mrtylerzhou/AntFlow.net) - .net首个钉钉工作流UI风格BPM工作流平台！支持数十种数据库，开箱即用。同时也是一款纯血版工作流引擎，仅依赖了asp.net 9.0和freesql，natasha等几款优秀开源项目。致力解决传统工作流流程图必须由专业程序员绘制、学习曲线陡峭、上手难、排查问题难、维护成本高等问题。如果喜欢请给颗⭐️。 (today)
+- [dtbinh/OpenCourse](https://github.com/dtbinh/OpenCourse) (today)
+- [SMARTlab-Purdue/SMART-LLM](https://github.com/SMARTlab-Purdue/SMART-LLM) - Code repository for SMART-LLM: Smart Multi-Agent Robot Task Planning using Large Language Models (today)
+- [matt77hias/RasterTek](https://github.com/matt77hias/RasterTek) - DirectX 11 Tutorials (today)
+- [matt77hias/MAGE-v0](https://github.com/matt77hias/MAGE-v0) - 🧙 MAGE v0 (today)
+- [NeonHorizon/lipopi](https://github.com/NeonHorizon/lipopi) - Guide to setting up LiPo batteries on the Raspberry Pi (today)
 
 ## 🔨 Latest Pull Requests I published
 
