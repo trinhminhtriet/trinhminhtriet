@@ -33,8 +33,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👷 Check out what I'm currently working on
 
-- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (today)
-- [nctl-io/nctl-roadmap](https://github.com/nctl-io/nctl-roadmap) (5 days ago)
+- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (1 day ago)
+- [nctl-io/nctl-roadmap](https://github.com/nctl-io/nctl-roadmap) (6 days ago)
 - [nctl-io/.github](https://github.com/nctl-io/.github) - 🌐 Network. Connect. Transform. Lead. (1 week ago)
 - [nctl-io/nctl-branding](https://github.com/nctl-io/nctl-branding) - NCTL Branding 🖼️: Centralized assets and guidelines for consistent visual identity across NCTL projects and platforms. (1 week ago)
 - [nctl-io/nctl-homepage](https://github.com/nctl-io/nctl-homepage) - 🚀 Modern homepage for NCTL: fast, responsive, TypeScript-powered, open source, and easy to customize. (1 week ago)
@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [a-luna/fastapi-redis-cache](https://github.com/a-luna/fastapi-redis-cache) - A simple and robust caching solution for FastAPI that interprets request header values and creates proper response header values (powered by Redis) (today)
-- [sklivvz/cthulhu](https://github.com/sklivvz/cthulhu) - Extend Redis with JavaScript modules (today)
-- [WhatsNewSaes/Skeleton-Less](https://github.com/WhatsNewSaes/Skeleton-Less) - The (un)official Less Version of Skeleton (2.0.4): A Dead Simple, Responsive Boilerplate for Mobile-Friendly Development (today)
-- [WhatsNewSaes/Skeleton-Sass](https://github.com/WhatsNewSaes/Skeleton-Sass) - The (un)official Sass Version of Skeleton (2.0.4): A Dead Simple, Responsive Boilerplate for Mobile-Friendly Development (today)
-- [datawookie/emayili](https://github.com/datawookie/emayili) - An R package for sending email messages. (today)
+- [mirzaevinom/data_science_bowl_2018](https://github.com/mirzaevinom/data_science_bowl_2018) - My 5th place (out of 816 teams) solution to The 2018 Data Science Bowl organized by Booz Allen Hamilton (today)
+- [mck-/Open-VRP](https://github.com/mck-/Open-VRP) - Open-source framework for modeling Vehicle Routing Problems. (1 day ago)
+- [Supernova3339/changerawr](https://github.com/Supernova3339/changerawr) - Changelog software for everyone - Ship, Change, Rawr 🦖 (1 day ago)
+- [Yahweasel/libav.js](https://github.com/Yahweasel/libav.js) - This is a compilation of the libraries associated with handling audio and video in ffmpeg—libavformat, libavcodec, libavfilter, libavutil, libswresample, and libswscale—for emscripten, and thus the web. (1 day ago)
+- [dzaima/CBQN](https://github.com/dzaima/CBQN) - a BQN implementation in C (1 day ago)
 
 ## 🔨 Latest Pull Requests I published
 
