@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [fitri-hy/FhyServe](https://github.com/fitri-hy/FhyServe) - FhyServe is a portable multi-server runtime platform designed to simplify local web application development. (today)
+- [SartMorgs/data-engineer-roadmap](https://github.com/SartMorgs/data-engineer-roadmap) - Roadmap para me tornar uma engenheira de dados. [Roadmap to becoming a data engineer]. (today)
 - [crobibero/jellyfin-plugin-tmdb-trailers](https://github.com/crobibero/jellyfin-plugin-tmdb-trailers) (today)
 - [sajjadium/ctf-writeups](https://github.com/sajjadium/ctf-writeups) - CTF Writeups: Collection of CTF "technical" writeups by PersianCats. (today)
 - [sajjadium/ctf-archives](https://github.com/sajjadium/ctf-archives) -  CTF Archives: Collection of CTF Challenges. (today)
-- [stonecoldpat/anonymousvoting](https://github.com/stonecoldpat/anonymousvoting) - Anonymous voting on Ethereum without a tally authority. Protocol from this paper http://homepages.cs.ncl.ac.uk/feng.hao/files/OpenVote_IET.pdf (today)
-- [SaeedMasoumi/FAB-Loading](https://github.com/SaeedMasoumi/FAB-Loading) - A loading animation based on Floating Action Button (today)
 
 ## 🔨 Latest Pull Requests I published
 
