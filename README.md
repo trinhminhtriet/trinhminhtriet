@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [zouhongzhao/Programming-Collective-Intelligence-Source-Code](https://github.com/zouhongzhao/Programming-Collective-Intelligence-Source-Code) - 集体智慧编程源代码 (today)
+- [guilhermesad/rspotify](https://github.com/guilhermesad/rspotify) - A ruby wrapper for the Spotify Web API (today)
+- [townsfolk/gradle-templates](https://github.com/townsfolk/gradle-templates) - A gradle project templates plugin (today)
 - [chr314/nautilus-copy-path](https://github.com/chr314/nautilus-copy-path) - Configurable extension for Nautilus to copy path, URI, name or content (today)
 - [karonl/InDoorSurfaceView](https://github.com/karonl/InDoorSurfaceView) - Android InDoorView dependent on Canvas (today)
-- [cjekel/Introduction-to-Python-Numerical-Analysis-for-Engineers-and-Scientist](https://github.com/cjekel/Introduction-to-Python-Numerical-Analysis-for-Engineers-and-Scientist) - Introduction to Python: Numerical Analysis for Engineers and Scientist. In 2017, Python became the world's most popular programming language. This course covers the basic syntax, linear algebra, plotting, and more to prepare students for solving numerical problems with Python. (today)
-- [cjekel/similarity_measures](https://github.com/cjekel/similarity_measures) - Quantify the difference between two arbitrary curves in space (today)
-- [cjekel/piecewise_linear_fit_py](https://github.com/cjekel/piecewise_linear_fit_py) - fit piecewise linear data for a specified number of line segments (today)
 
 ## 🔨 Latest Pull Requests I published
 
