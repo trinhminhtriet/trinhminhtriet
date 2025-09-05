@@ -47,7 +47,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 ## 👯 Check out my recent followers
 
 - [abdelhadi-haddadi](https://github.com/abdelhadi-haddadi)
-- [Arison99](https://github.com/Arison99)
 - [macrespo42](https://github.com/macrespo42)
 - [SanidhyaDixit](https://github.com/SanidhyaDixit)
 - [onamfc](https://github.com/onamfc)
@@ -56,14 +55,15 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [chatman-media](https://github.com/chatman-media)
 - [Cup-Of-Liber-Tea](https://github.com/Cup-Of-Liber-Tea)
 - [ishandutta2007](https://github.com/ishandutta2007)
+- [dominikkoenitzer](https://github.com/dominikkoenitzer)
 
 ## ⭐ Recent stars
 
-- [ThemesGuide/top-hat](https://github.com/ThemesGuide/top-hat) - Tophat Themes - Give Bootstrap a custom, stylish look 🎩 (today)
-- [ThemesGuide/bootstrap-themes](https://github.com/ThemesGuide/bootstrap-themes) - Free, open source Bootstrap 4 themes (today)
-- [miguelfzafra/Latest-News-Classifier](https://github.com/miguelfzafra/Latest-News-Classifier) - Master in Data Science Final Project (today)
-- [oscarperpinan/spacetime-vis](https://github.com/oscarperpinan/spacetime-vis) - Sources of the book "Displaying time series, spatial and space-time data with R" (1st Edition) (today)
-- [dario-passos/DeepLearning_for_VIS-NIR_Spectra](https://github.com/dario-passos/DeepLearning_for_VIS-NIR_Spectra) - Deep Learning models applied to the analysis of VIS-NIR spectral data (today)
+- [ravsau/aws-labs](https://github.com/ravsau/aws-labs) - step by step guide for aws mini labs. Currently maintained on : https://github.com/Cloud-Yeti/aws-labs Youtube playlist for labs: (today)
+- [nextgenusfs/funannotate](https://github.com/nextgenusfs/funannotate) - Eukaryotic Genome Annotation Pipeline (today)
+- [vdemichev/DiaNN](https://github.com/vdemichev/DiaNN) - DIA-NN - a universal automated software suite for DIA proteomics data analysis.  (today)
+- [AsynctaskCoffee/VideoLayout](https://github.com/AsynctaskCoffee/VideoLayout) - To play video on layout background (textureview videoview for layout designs) (today)
+- [mrtylerzhou/AntFlow.net](https://github.com/mrtylerzhou/AntFlow.net) - .net首个钉钉工作流UI风格BPM工作流平台！支持数十种数据库，开箱即用。同时也是一款纯血版工作流引擎，仅依赖了asp.net 9.0和freesql，natasha等几款优秀开源项目。致力解决传统工作流流程图必须由专业程序员绘制、学习曲线陡峭、上手难、排查问题难、维护成本高等问题。如果喜欢请给颗⭐️。 (today)
 
 ## 🔨 Latest Pull Requests I published
 
