@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [macrespo42](https://github.com/macrespo42)
 - [SanidhyaDixit](https://github.com/SanidhyaDixit)
 - [onamfc](https://github.com/onamfc)
 - [syedshameersarwar](https://github.com/syedshameersarwar)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [ishandutta2007](https://github.com/ishandutta2007)
 - [dominikkoenitzer](https://github.com/dominikkoenitzer)
 - [RafalW3bCraft](https://github.com/RafalW3bCraft)
-- [Vv698K6KO53](https://github.com/Vv698K6KO53)
 
 ## ⭐ Recent stars
 
+- [togiberlin/ui-ux-designer-roadmap](https://github.com/togiberlin/ui-ux-designer-roadmap) - Roadmap on becoming a UI/UX designer in 2017 (today)
+- [coolbeam/UPFlow_pytorch](https://github.com/coolbeam/UPFlow_pytorch) - PyTorch implementation of UPFlow (unsupervised optical flow learning) (today)
+- [macisamuele/language-formatters-pre-commit-hooks](https://github.com/macisamuele/language-formatters-pre-commit-hooks) - Collection of custom pre-commit hooks. (today)
+- [andreamad8/Universal-Transformer-Pytorch](https://github.com/andreamad8/Universal-Transformer-Pytorch) - Implementation of Universal Transformer in Pytorch (today)
 - [josephwecker/bashrc_dispatch](https://github.com/josephwecker/bashrc_dispatch) - Launch different bash configurations for Linux vs OSX, interactive vs batch (today)
-- [jix/varisat](https://github.com/jix/varisat) - SAT solver written in Rust (today)
-- [torfsen/python-systemd-tutorial](https://github.com/torfsen/python-systemd-tutorial) - A tutorial for writing a systemd service in Python (today)
-- [fkalis/bash-onedrive-upload](https://github.com/fkalis/bash-onedrive-upload) - Upload files to onedrive via linux command line (today)
-- [facebook/pyrefly](https://github.com/facebook/pyrefly) - A fast type checker and IDE for Python (today)
 
 ## 🔨 Latest Pull Requests I published
 
