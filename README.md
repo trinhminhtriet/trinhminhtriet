@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [bueler/p4pdes](https://github.com/bueler/p4pdes) - C and Python examples from my book on using PETSc and Firedrake to solve  PDEs (today)
-- [cafferychen777/ggpicrust2](https://github.com/cafferychen777/ggpicrust2) - Make Picrust2 Output Analysis and Visualization Easier (today)
-- [cafferychen777/mLLMCelltype](https://github.com/cafferychen777/mLLMCelltype) - 🏆 #1 Multi-LLM consensus framework | 550+ stars | 95% accuracy | 10+ LLM providers | Leading cell annotation tool (today)
-- [akoutmos/ecto_dbg](https://github.com/akoutmos/ecto_dbg) - A utility to format and output Ecto queries (today)
-- [akoutmos/doctor](https://github.com/akoutmos/doctor) - Ensure that your Elixir project documentation is healthy (today)
+- [klintan/pytorch-lanenet](https://github.com/klintan/pytorch-lanenet) - LaneNet implementation in PyTorch (today)
+- [klintan/vo-survey](https://github.com/klintan/vo-survey) - Visual Odometry and SLAM survey for ROS and ROS2 (today)
+- [9z0b3t1c/capistrano-resque](https://github.com/9z0b3t1c/capistrano-resque) - Capistrano integration for Resque (today)
+- [LazoVelko/WinAPI-Wrapper](https://github.com/LazoVelko/WinAPI-Wrapper) - Windows API wrapper class for simulating mouse movement, clicking, and more. (today)
+- [LazoVelko/Article-Summarizer](https://github.com/LazoVelko/Article-Summarizer) - Uses frequency analysis to summarize text. (today)
 
 ## 🔨 Latest Pull Requests I published
 
