@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [SanidhyaDixit](https://github.com/SanidhyaDixit)
 - [onamfc](https://github.com/onamfc)
 - [syedshameersarwar](https://github.com/syedshameersarwar)
 - [MarcoAngermann](https://github.com/MarcoAngermann)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [dominikkoenitzer](https://github.com/dominikkoenitzer)
 - [RafalW3bCraft](https://github.com/RafalW3bCraft)
 - [Vv698K6KO53](https://github.com/Vv698K6KO53)
-- [rudraparmar76](https://github.com/rudraparmar76)
 
 ## ⭐ Recent stars
 
-- [klintan/pytorch-lanenet](https://github.com/klintan/pytorch-lanenet) - LaneNet implementation in PyTorch (today)
-- [klintan/vo-survey](https://github.com/klintan/vo-survey) - Visual Odometry and SLAM survey for ROS and ROS2 (today)
-- [9z0b3t1c/capistrano-resque](https://github.com/9z0b3t1c/capistrano-resque) - Capistrano integration for Resque (today)
-- [LazoVelko/WinAPI-Wrapper](https://github.com/LazoVelko/WinAPI-Wrapper) - Windows API wrapper class for simulating mouse movement, clicking, and more. (today)
-- [LazoVelko/Article-Summarizer](https://github.com/LazoVelko/Article-Summarizer) - Uses frequency analysis to summarize text. (today)
+- [chr314/nautilus-copy-path](https://github.com/chr314/nautilus-copy-path) - Configurable extension for Nautilus to copy path, URI, name or content (today)
+- [karonl/InDoorSurfaceView](https://github.com/karonl/InDoorSurfaceView) - Android InDoorView dependent on Canvas (today)
+- [cjekel/Introduction-to-Python-Numerical-Analysis-for-Engineers-and-Scientist](https://github.com/cjekel/Introduction-to-Python-Numerical-Analysis-for-Engineers-and-Scientist) - Introduction to Python: Numerical Analysis for Engineers and Scientist. In 2017, Python became the world's most popular programming language. This course covers the basic syntax, linear algebra, plotting, and more to prepare students for solving numerical problems with Python. (today)
+- [cjekel/similarity_measures](https://github.com/cjekel/similarity_measures) - Quantify the difference between two arbitrary curves in space (today)
+- [cjekel/piecewise_linear_fit_py](https://github.com/cjekel/piecewise_linear_fit_py) - fit piecewise linear data for a specified number of line segments (today)
 
 ## 🔨 Latest Pull Requests I published
 
