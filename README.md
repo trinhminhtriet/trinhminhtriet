@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [taichi-ishitani/tnoc](https://github.com/taichi-ishitani/tnoc) - Network on Chip Implementation written in SytemVerilog (today)
-- [taichi-ishitani/tvip-axi](https://github.com/taichi-ishitani/tvip-axi) - AMBA AXI VIP (today)
-- [funningboy/uvm_axi](https://github.com/funningboy/uvm_axi) - uvm AXI BFM(bus functional model) (today)
-- [adki/gen_amba_2021](https://github.com/adki/gen_amba_2021) - AMBA bus generator including AXI4, AXI3, AHB, and APB (today)
-- [adki/AMBA_AXI_AHB_APB](https://github.com/adki/AMBA_AXI_AHB_APB) - AMBA bus lecture material (today)
+- [quanzaihh/Neural-Network-Accelerator](https://github.com/quanzaihh/Neural-Network-Accelerator) - A Convolutional Neural Network Accelerator implementation on FPGA, xilinx （xczu7ev-ffvc1156-2-i）, The inference of yolov8 took 60ms. (today)
+- [sbyrnes321/metalens](https://github.com/sbyrnes321/metalens) - Design, optimize, & simulate metasurface lenses (aka diffractive lenses), beam deflectors, gratings etc (today)
+- [sbyrnes321/tmm](https://github.com/sbyrnes321/tmm) - transfer-matrix method for optics of thin and thick multilayer films (today)
+- [kafischer/OneStepBabyAGI](https://github.com/kafischer/OneStepBabyAGI) - Baby AGI is cool, but why write so much code when it could just be a single GPT4 call? (today)
+- [kafischer/terminal-copilot](https://github.com/kafischer/terminal-copilot) - A smart terminal assistant that helps you find the right command. (today)
 
 ## 🔨 Latest Pull Requests I published
 
