@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [dtbinh/OpenCourse](https://github.com/dtbinh/OpenCourse) (today)
-- [SMARTlab-Purdue/SMART-LLM](https://github.com/SMARTlab-Purdue/SMART-LLM) - Code repository for SMART-LLM: Smart Multi-Agent Robot Task Planning using Large Language Models (today)
-- [matt77hias/RasterTek](https://github.com/matt77hias/RasterTek) - DirectX 11 Tutorials (today)
-- [matt77hias/MAGE-v0](https://github.com/matt77hias/MAGE-v0) - 🧙 MAGE v0 (today)
-- [NeonHorizon/lipopi](https://github.com/NeonHorizon/lipopi) - Guide to setting up LiPo batteries on the Raspberry Pi (today)
+- [taichi-ishitani/tnoc](https://github.com/taichi-ishitani/tnoc) - Network on Chip Implementation written in SytemVerilog (today)
+- [taichi-ishitani/tvip-axi](https://github.com/taichi-ishitani/tvip-axi) - AMBA AXI VIP (today)
+- [funningboy/uvm_axi](https://github.com/funningboy/uvm_axi) - uvm AXI BFM(bus functional model) (today)
+- [adki/gen_amba_2021](https://github.com/adki/gen_amba_2021) - AMBA bus generator including AXI4, AXI3, AHB, and APB (today)
+- [adki/AMBA_AXI_AHB_APB](https://github.com/adki/AMBA_AXI_AHB_APB) - AMBA bus lecture material (today)
 
 ## 🔨 Latest Pull Requests I published
 
