@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [zouhongzhao/Programming-Collective-Intelligence-Source-Code](https://github.com/zouhongzhao/Programming-Collective-Intelligence-Source-Code) - 集体智慧编程源代码 (today)
-- [guilhermesad/rspotify](https://github.com/guilhermesad/rspotify) - A ruby wrapper for the Spotify Web API (today)
-- [townsfolk/gradle-templates](https://github.com/townsfolk/gradle-templates) - A gradle project templates plugin (today)
-- [chr314/nautilus-copy-path](https://github.com/chr314/nautilus-copy-path) - Configurable extension for Nautilus to copy path, URI, name or content (today)
-- [karonl/InDoorSurfaceView](https://github.com/karonl/InDoorSurfaceView) - Android InDoorView dependent on Canvas (today)
+- [jix/varisat](https://github.com/jix/varisat) - SAT solver written in Rust (today)
+- [torfsen/python-systemd-tutorial](https://github.com/torfsen/python-systemd-tutorial) - A tutorial for writing a systemd service in Python (today)
+- [fkalis/bash-onedrive-upload](https://github.com/fkalis/bash-onedrive-upload) - Upload files to onedrive via linux command line (today)
+- [facebook/pyrefly](https://github.com/facebook/pyrefly) - A fast type checker and IDE for Python (today)
+- [neocturne/fastd](https://github.com/neocturne/fastd) - Fast and Secure Tunnelling Daemon (today)
 
 ## 🔨 Latest Pull Requests I published
 
