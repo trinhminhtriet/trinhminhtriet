@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [frederic-mahe/Hardware-Target-Game-Database](https://github.com/frederic-mahe/Hardware-Target-Game-Database) - Flash-cart optimized file and folder layouts. (today)
+- [ijmarshall/robotreviewer](https://github.com/ijmarshall/robotreviewer) - Automatic synthesis of RCTs (today)
 - [togiberlin/ui-ux-designer-roadmap](https://github.com/togiberlin/ui-ux-designer-roadmap) - Roadmap on becoming a UI/UX designer in 2017 (today)
 - [coolbeam/UPFlow_pytorch](https://github.com/coolbeam/UPFlow_pytorch) - PyTorch implementation of UPFlow (unsupervised optical flow learning) (today)
 - [macisamuele/language-formatters-pre-commit-hooks](https://github.com/macisamuele/language-formatters-pre-commit-hooks) - Collection of custom pre-commit hooks. (today)
-- [andreamad8/Universal-Transformer-Pytorch](https://github.com/andreamad8/Universal-Transformer-Pytorch) - Implementation of Universal Transformer in Pytorch (today)
-- [josephwecker/bashrc_dispatch](https://github.com/josephwecker/bashrc_dispatch) - Launch different bash configurations for Linux vs OSX, interactive vs batch (today)
 
 ## 🔨 Latest Pull Requests I published
 
