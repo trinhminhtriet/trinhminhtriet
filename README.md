@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [JackieHanLab/TOSICA](https://github.com/JackieHanLab/TOSICA) - Transformer for One-Stop Interpretable Cell-type Annotation (today)
-- [Starlitnightly/single_cell_tutorial](https://github.com/Starlitnightly/single_cell_tutorial) - 单细胞分析的中文pipeline (today)
-- [Starlitnightly/omicverse](https://github.com/Starlitnightly/omicverse) - A python library for multi omics included bulk, single cell and spatial RNA-seq analysis. (today)
-- [zktuong/ktplots](https://github.com/zktuong/ktplots) - Some tools for plotting single-cell data (today)
-- [chuiqin/irGSEA](https://github.com/chuiqin/irGSEA) - The integration of single cell rank-based gene set enrichment analysis (today)
+- [bueler/p4pdes](https://github.com/bueler/p4pdes) - C and Python examples from my book on using PETSc and Firedrake to solve  PDEs (today)
+- [cafferychen777/ggpicrust2](https://github.com/cafferychen777/ggpicrust2) - Make Picrust2 Output Analysis and Visualization Easier (today)
+- [cafferychen777/mLLMCelltype](https://github.com/cafferychen777/mLLMCelltype) - 🏆 #1 Multi-LLM consensus framework | 550+ stars | 95% accuracy | 10+ LLM providers | Leading cell annotation tool (today)
+- [akoutmos/ecto_dbg](https://github.com/akoutmos/ecto_dbg) - A utility to format and output Ecto queries (today)
+- [akoutmos/doctor](https://github.com/akoutmos/doctor) - Ensure that your Elixir project documentation is healthy (today)
 
 ## 🔨 Latest Pull Requests I published
 
