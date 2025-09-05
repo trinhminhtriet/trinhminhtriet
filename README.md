@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [abdelhadi-haddadi](https://github.com/abdelhadi-haddadi)
+- [Arison99](https://github.com/Arison99)
 - [macrespo42](https://github.com/macrespo42)
 - [SanidhyaDixit](https://github.com/SanidhyaDixit)
 - [onamfc](https://github.com/onamfc)
@@ -54,16 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [chatman-media](https://github.com/chatman-media)
 - [Cup-Of-Liber-Tea](https://github.com/Cup-Of-Liber-Tea)
 - [ishandutta2007](https://github.com/ishandutta2007)
-- [dominikkoenitzer](https://github.com/dominikkoenitzer)
-- [RafalW3bCraft](https://github.com/RafalW3bCraft)
 
 ## ⭐ Recent stars
 
-- [frederic-mahe/Hardware-Target-Game-Database](https://github.com/frederic-mahe/Hardware-Target-Game-Database) - Flash-cart optimized file and folder layouts. (today)
-- [ijmarshall/robotreviewer](https://github.com/ijmarshall/robotreviewer) - Automatic synthesis of RCTs (today)
-- [togiberlin/ui-ux-designer-roadmap](https://github.com/togiberlin/ui-ux-designer-roadmap) - Roadmap on becoming a UI/UX designer in 2017 (today)
-- [coolbeam/UPFlow_pytorch](https://github.com/coolbeam/UPFlow_pytorch) - PyTorch implementation of UPFlow (unsupervised optical flow learning) (today)
-- [macisamuele/language-formatters-pre-commit-hooks](https://github.com/macisamuele/language-formatters-pre-commit-hooks) - Collection of custom pre-commit hooks. (today)
+- [ThemesGuide/top-hat](https://github.com/ThemesGuide/top-hat) - Tophat Themes - Give Bootstrap a custom, stylish look 🎩 (today)
+- [ThemesGuide/bootstrap-themes](https://github.com/ThemesGuide/bootstrap-themes) - Free, open source Bootstrap 4 themes (today)
+- [miguelfzafra/Latest-News-Classifier](https://github.com/miguelfzafra/Latest-News-Classifier) - Master in Data Science Final Project (today)
+- [oscarperpinan/spacetime-vis](https://github.com/oscarperpinan/spacetime-vis) - Sources of the book "Displaying time series, spatial and space-time data with R" (1st Edition) (today)
+- [dario-passos/DeepLearning_for_VIS-NIR_Spectra](https://github.com/dario-passos/DeepLearning_for_VIS-NIR_Spectra) - Deep Learning models applied to the analysis of VIS-NIR spectral data (today)
 
 ## 🔨 Latest Pull Requests I published
 
