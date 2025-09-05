@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Ahmednoorani258](https://github.com/Ahmednoorani258)
 - [davidsmorais](https://github.com/davidsmorais)
 - [MehrshadFb](https://github.com/MehrshadFb)
 - [abdelhadi-haddadi](https://github.com/abdelhadi-haddadi)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [syedshameersarwar](https://github.com/syedshameersarwar)
 - [MarcoAngermann](https://github.com/MarcoAngermann)
 - [chatman-media](https://github.com/chatman-media)
-- [Cup-Of-Liber-Tea](https://github.com/Cup-Of-Liber-Tea)
 
 ## ⭐ Recent stars
 
-- [fitri-hy/FhyServe](https://github.com/fitri-hy/FhyServe) - FhyServe is a portable multi-server runtime platform designed to simplify local web application development. (today)
-- [SartMorgs/data-engineer-roadmap](https://github.com/SartMorgs/data-engineer-roadmap) - Roadmap para me tornar uma engenheira de dados. [Roadmap to becoming a data engineer]. (today)
-- [crobibero/jellyfin-plugin-tmdb-trailers](https://github.com/crobibero/jellyfin-plugin-tmdb-trailers) (today)
-- [sajjadium/ctf-writeups](https://github.com/sajjadium/ctf-writeups) - CTF Writeups: Collection of CTF "technical" writeups by PersianCats. (today)
-- [sajjadium/ctf-archives](https://github.com/sajjadium/ctf-archives) -  CTF Archives: Collection of CTF Challenges. (today)
+- [MaximeRivest/attachments](https://github.com/MaximeRivest/attachments) - Easiest way to give context to LLMs; Attachments has the ambition to be the general funnel for any files to be transformed into images+text for large language models context by only adding 2 lines to your python code. (today)
+- [Jarvis73/Moving-Least-Squares](https://github.com/Jarvis73/Moving-Least-Squares) - Numpy & PyTorch implementation of three algorithms of image deformation using moving least squares.  http://dl.acm.org/citation.cfm?doid=1179352.1141920 (today)
+- [groepl/Take-Useful-Notes](https://github.com/groepl/Take-Useful-Notes) - eBook: "MAKE USEFUL NOTES. A simple guide to a complex skill by using Sketchnotes, Obsidian and Zettelkasten." (today)
+- [groepl/Obsidian-Zettelkasten-Starter-Kit](https://github.com/groepl/Obsidian-Zettelkasten-Starter-Kit) - A Starter Kit for Obsidian with all essential elements to build up your own Zettelkasten system. (today)
+- [groepl/Obsidian-Templates](https://github.com/groepl/Obsidian-Templates) - A repository containing templates and scripts for #Obsidian to support the #Zettelkasten method for note-taking. (today)
 
 ## 🔨 Latest Pull Requests I published
 
