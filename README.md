@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [onamfc](https://github.com/onamfc)
 - [syedshameersarwar](https://github.com/syedshameersarwar)
 - [MarcoAngermann](https://github.com/MarcoAngermann)
 - [chatman-media](https://github.com/chatman-media)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [RafalW3bCraft](https://github.com/RafalW3bCraft)
 - [Vv698K6KO53](https://github.com/Vv698K6KO53)
 - [rudraparmar76](https://github.com/rudraparmar76)
-- [sudiptarathi2020](https://github.com/sudiptarathi2020)
 
 ## ⭐ Recent stars
 
-- [mirzaevinom/data_science_bowl_2018](https://github.com/mirzaevinom/data_science_bowl_2018) - My 5th place (out of 816 teams) solution to The 2018 Data Science Bowl organized by Booz Allen Hamilton (today)
-- [mck-/Open-VRP](https://github.com/mck-/Open-VRP) - Open-source framework for modeling Vehicle Routing Problems. (1 day ago)
-- [Supernova3339/changerawr](https://github.com/Supernova3339/changerawr) - Changelog software for everyone - Ship, Change, Rawr 🦖 (1 day ago)
-- [Yahweasel/libav.js](https://github.com/Yahweasel/libav.js) - This is a compilation of the libraries associated with handling audio and video in ffmpeg—libavformat, libavcodec, libavfilter, libavutil, libswresample, and libswscale—for emscripten, and thus the web. (1 day ago)
-- [dzaima/CBQN](https://github.com/dzaima/CBQN) - a BQN implementation in C (1 day ago)
+- [JackieHanLab/TOSICA](https://github.com/JackieHanLab/TOSICA) - Transformer for One-Stop Interpretable Cell-type Annotation (today)
+- [Starlitnightly/single_cell_tutorial](https://github.com/Starlitnightly/single_cell_tutorial) - 单细胞分析的中文pipeline (today)
+- [Starlitnightly/omicverse](https://github.com/Starlitnightly/omicverse) - A python library for multi omics included bulk, single cell and spatial RNA-seq analysis. (today)
+- [zktuong/ktplots](https://github.com/zktuong/ktplots) - Some tools for plotting single-cell data (today)
+- [chuiqin/irGSEA](https://github.com/chuiqin/irGSEA) - The integration of single cell rank-based gene set enrichment analysis (today)
 
 ## 🔨 Latest Pull Requests I published
 
