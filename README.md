@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [MaximeRivest/attachments](https://github.com/MaximeRivest/attachments) - Easiest way to give context to LLMs; Attachments has the ambition to be the general funnel for any files to be transformed into images+text for large language models context by only adding 2 lines to your python code. (today)
-- [Jarvis73/Moving-Least-Squares](https://github.com/Jarvis73/Moving-Least-Squares) - Numpy & PyTorch implementation of three algorithms of image deformation using moving least squares.  http://dl.acm.org/citation.cfm?doid=1179352.1141920 (today)
-- [groepl/Take-Useful-Notes](https://github.com/groepl/Take-Useful-Notes) - eBook: "MAKE USEFUL NOTES. A simple guide to a complex skill by using Sketchnotes, Obsidian and Zettelkasten." (today)
-- [groepl/Obsidian-Zettelkasten-Starter-Kit](https://github.com/groepl/Obsidian-Zettelkasten-Starter-Kit) - A Starter Kit for Obsidian with all essential elements to build up your own Zettelkasten system. (today)
-- [groepl/Obsidian-Templates](https://github.com/groepl/Obsidian-Templates) - A repository containing templates and scripts for #Obsidian to support the #Zettelkasten method for note-taking. (today)
+- [ktye/iv](https://github.com/ktye/iv) - APL interpreter and stream processor (today)
+- [ExtremeElectronics/PicoCray](https://github.com/ExtremeElectronics/PicoCray) - A system for running distributed code over multiple PI Picos  (today)
+- [NSchrading/intro-spacy-nlp](https://github.com/NSchrading/intro-spacy-nlp) - An introduction to using spaCy for NLP and machine learning (today)
+- [NSchrading/redditDataExtractor](https://github.com/NSchrading/redditDataExtractor) - The reddit Data Extractor is a cross-platform GUI tool for downloading almost any content posted to reddit. Downloads from specific users, specific subreddits, users by subreddit, and with filters on the content is supported. Some intelligence is built in to attempt to avoid downloading duplicate external content. (today)
+- [wendelmarques/materiais-de-estudos-sobre-data-science-deep-machine-learning](https://github.com/wendelmarques/materiais-de-estudos-sobre-data-science-deep-machine-learning) - 💻 📓 Guia de estudos (iniciante) sobre Inteligência Artificial. Contém trilhas de aprendizagem, canais, cursos , livros etc.  (today)
 
 ## 🔨 Latest Pull Requests I published
 
