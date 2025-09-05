@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [mhyousefi/MIPS-pipeline-processor](https://github.com/mhyousefi/MIPS-pipeline-processor) - A pipelined implementation of the MIPS processor featuring hazard detection as well as forwarding (today)
 - [quanzaihh/Neural-Network-Accelerator](https://github.com/quanzaihh/Neural-Network-Accelerator) - A Convolutional Neural Network Accelerator implementation on FPGA, xilinx （xczu7ev-ffvc1156-2-i）, The inference of yolov8 took 60ms. (today)
 - [sbyrnes321/metalens](https://github.com/sbyrnes321/metalens) - Design, optimize, & simulate metasurface lenses (aka diffractive lenses), beam deflectors, gratings etc (today)
 - [sbyrnes321/tmm](https://github.com/sbyrnes321/tmm) - transfer-matrix method for optics of thin and thick multilayer films (today)
 - [kafischer/OneStepBabyAGI](https://github.com/kafischer/OneStepBabyAGI) - Baby AGI is cool, but why write so much code when it could just be a single GPT4 call? (today)
-- [kafischer/terminal-copilot](https://github.com/kafischer/terminal-copilot) - A smart terminal assistant that helps you find the right command. (today)
 
 ## 🔨 Latest Pull Requests I published
 
