@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [ikramagix](https://github.com/ikramagix)
 - [viiku](https://github.com/viiku)
 - [seniru-dilmith](https://github.com/seniru-dilmith)
 - [Ahmednoorani258](https://github.com/Ahmednoorani258)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [macrespo42](https://github.com/macrespo42)
 - [SanidhyaDixit](https://github.com/SanidhyaDixit)
 - [onamfc](https://github.com/onamfc)
-- [syedshameersarwar](https://github.com/syedshameersarwar)
 
 ## ⭐ Recent stars
 
-- [Swechhya/excelR](https://github.com/Swechhya/excelR) - An Interface to 'jExcel.js' Library (today)
-- [analokmaus/kuma_utils](https://github.com/analokmaus/kuma_utils) - My toolbox for data analysis. :) (today)
-- [ybabakhin/kaggle_salt_bes_phalanx](https://github.com/ybabakhin/kaggle_salt_bes_phalanx) - Winning solution for the Kaggle TGS Salt Identification Challenge. (today)
-- [b01902041/Deep-Virtual-Try-on-with-Clothes-Transform](https://github.com/b01902041/Deep-Virtual-Try-on-with-Clothes-Transform) - An image-based virtual try-on system with deep learning. (today)
-- [dnshi/Leetcode](https://github.com/dnshi/Leetcode) - Leetcode problems & solutions (today)
+- [dancaron/Django-ORM](https://github.com/dancaron/Django-ORM) - Django-ORM-Standalone Template - Use the power of Django's database functionality in regular python scripts. (today)
+- [SmartFinn/eve-ng-integration](https://github.com/SmartFinn/eve-ng-integration) - integrates EVE-NG (aka UNetLab) with Linux desktop (today)
+- [Bishalsarang/Leetcode-Questions-Scraper](https://github.com/Bishalsarang/Leetcode-Questions-Scraper) - Scrape Algorithm Questions from leetcode and generate html and epub file (today)
+- [fasiha/ebisu](https://github.com/fasiha/ebisu) - Public-domain Python library for flashcard quiz scheduling using Bayesian statistics. (JavaScript, Java, Dart, and other ports available!) (today)
+- [augustoroman/v8](https://github.com/augustoroman/v8) - A Go API for the V8 javascript engine. (today)
 
 ## 🔨 Latest Pull Requests I published
 
