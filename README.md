@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [MerlinVR/USharpVideo](https://github.com/MerlinVR/USharpVideo) - A basic video player made for VRChat using Udon and UdonSharp (today)
-- [MerlinVR/UdonSharp](https://github.com/MerlinVR/UdonSharp) - An experimental compiler for compiling C# to Udon assembly (today)
-- [jtoty/Libftest](https://github.com/jtoty/Libftest) (today)
-- [harendra-shakya/solidity-gas-optimization](https://github.com/harendra-shakya/solidity-gas-optimization) - A extensive list of solidity gas optimization tricks (today)
-- [harendra-shakya/smart-contract-attack-vectors](https://github.com/harendra-shakya/smart-contract-attack-vectors) - A curated list of smart contract attack vectors (today)
+- [anton46/Foursquare-CollectionPicker](https://github.com/anton46/Foursquare-CollectionPicker) - Collection Picker is an Android View library that looks like Foursquare Tastes picker (today)
+- [anton46/WhatsApp-ProfileCollapsingToolbar](https://github.com/anton46/WhatsApp-ProfileCollapsingToolbar) - An Android custom animation view that looks like WhastApp Profile screen style (today)
+- [anton46/Android-StepsView](https://github.com/anton46/Android-StepsView) - Android-StepsView (today)
+- [Bilalh/Tagger](https://github.com/Bilalh/Tagger) - Tagger music metadata editor which supports batch tag editing and getting tags from VGMdb (today)
+- [esskar/Serialize.Linq](https://github.com/esskar/Serialize.Linq) - C# library to serialize LINQ expressions (today)
 
 ## 🔨 Latest Pull Requests I published
 
