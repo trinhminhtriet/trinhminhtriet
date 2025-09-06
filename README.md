@@ -46,7 +46,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
-- [TN19N](https://github.com/TN19N)
 - [viiku](https://github.com/viiku)
 - [seniru-dilmith](https://github.com/seniru-dilmith)
 - [Ahmednoorani258](https://github.com/Ahmednoorani258)
@@ -56,14 +55,15 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [macrespo42](https://github.com/macrespo42)
 - [SanidhyaDixit](https://github.com/SanidhyaDixit)
 - [onamfc](https://github.com/onamfc)
+- [syedshameersarwar](https://github.com/syedshameersarwar)
 
 ## ⭐ Recent stars
 
-- [shadorki/genshin-impact-wish-simulator](https://github.com/shadorki/genshin-impact-wish-simulator) - A React web application to simulate Genshin Impact gacha in the browser (today)
-- [Varneon/WorldCreatorAssistant](https://github.com/Varneon/WorldCreatorAssistant) - Discontinued Unity Editor extension for automating VRChat world project package management (today)
-- [CyanLaser/CyanEmu](https://github.com/CyanLaser/CyanEmu) - CyanEmu is a VRChat client emulator in Unity. Includes a player controller with interact system. Works with SDK2 and SDK3. (today)
-- [netri/Neitri-Unity-Shaders](https://github.com/netri/Neitri-Unity-Shaders) - Collection of shaders for Unity3D and VRChat (today)
-- [niivu/resource-redirect-icon-themes](https://github.com/niivu/resource-redirect-icon-themes) - Icon themes for the Resource Redirect mod for Windhawk (today)
+- [carlospaulino/parrot](https://github.com/carlospaulino/parrot) - Automatically translate all your string resources to multiple languages (today)
+- [marcoturi/fastify-boilerplate](https://github.com/marcoturi/fastify-boilerplate) - Fastify 5 application boilerplate based on clean architecture, domain-driven design, CQRS, functional programming, vertical slice architecture for building production-grade applications 🚀 (today)
+- [marcoturi/ionic-boilerplate](https://github.com/marcoturi/ionic-boilerplate) - ✨ An Ionic Starter kit featuring Tests, E2E, Karma, Protractor, Jasmine, Istanbul, Gitlab CI, Automatic IPA and APK, TypeScript 2, TsLint, Codelyzer, Typedoc, Yarn, Rollup, and Webpack 2  (today)
+- [conaticus/FileExplorer](https://github.com/conaticus/FileExplorer) - Fast file explorer written with Tauri and React. (today)
+- [leiweibau/Pi.Alert](https://github.com/leiweibau/Pi.Alert) - Scan the devices connected to your WIFI / LAN and alert you the connection of unknown devices. It also warns if a "always connected" device disconnects. In addition, it is possible to check web services for availability. For this purpose HTTP status codes and the response time of the service are evaluated. (today)
 
 ## 🔨 Latest Pull Requests I published
 
