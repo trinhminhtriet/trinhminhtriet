@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [slowlydev/f1-dash](https://github.com/slowlydev/f1-dash) - A real-time F1 dashboard (today)
-- [jkstill/oracle-script-lib](https://github.com/jkstill/oracle-script-lib) - Library of oracle dba scripts (today)
-- [ThomasAdam/tmux](https://github.com/ThomasAdam/tmux) - Clone of the tmux Git repository.  The master branch contains the latest unreleased code. There are topic branches which may be subject to rebasing, so don't base changes off them.  DO NOT SEND me pull-requests, send patches to tmux-users mailing list instead. (today)
-- [Aetf/xjtuthesis](https://github.com/Aetf/xjtuthesis) -  使用 LaTeX 排版学位论文！适用于西安交通大学学生 (today)
-- [Aetf/kmscon](https://github.com/Aetf/kmscon) - Linux KMS/DRM based virtual Console Emulator (today)
+- [laurentluce/python-algorithms](https://github.com/laurentluce/python-algorithms) - Algorithms implemented in Python (today)
+- [chrisdoble/gps-receiver](https://github.com/chrisdoble/gps-receiver) (today)
+- [eduardoleao052/js-pytorch](https://github.com/eduardoleao052/js-pytorch) - A JavaScript library like PyTorch, with GPU acceleration. (today)
+- [SerCeMan/jnr-fuse](https://github.com/SerCeMan/jnr-fuse) - FUSE implementation in Java using Java Native Runtime (JNR) (today)
+- [SerCeMan/fontogen](https://github.com/SerCeMan/fontogen) - Hey, Computer, Make Me a Font (today)
 
 ## 🔨 Latest Pull Requests I published
 
