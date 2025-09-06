@@ -33,9 +33,9 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👷 Check out what I'm currently working on
 
-- [trinhminhtriet/dwipe](https://github.com/trinhminhtriet/dwipe) - 🧹 Fast, cross-platform disk cleanup tool with interactive UI for easy directory size visualization. (today)
-- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (1 day ago)
-- [nctl-io/nctl-roadmap](https://github.com/nctl-io/nctl-roadmap) (6 days ago)
+- [trinhminhtriet/dwipe](https://github.com/trinhminhtriet/dwipe) - 🧹 Fast, cross-platform disk cleanup tool with interactive UI for easy directory size visualization. (1 day ago)
+- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (2 days ago)
+- [nctl-io/nctl-roadmap](https://github.com/nctl-io/nctl-roadmap) (1 week ago)
 - [nctl-io/.github](https://github.com/nctl-io/.github) - 🌐 Network. Connect. Transform. Lead. (1 week ago)
 - [nctl-io/nctl-branding](https://github.com/nctl-io/nctl-branding) - NCTL Branding 🖼️: Centralized assets and guidelines for consistent visual identity across NCTL projects and platforms. (1 week ago)
 - [nctl-io/nctl-homepage](https://github.com/nctl-io/nctl-homepage) - 🚀 Modern homepage for NCTL: fast, responsive, TypeScript-powered, open source, and easy to customize. (1 week ago)
@@ -59,14 +59,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [rickfast/consul-client](https://github.com/rickfast/consul-client) - Java Client for Consul HTTP API (today)
-- [FerryAr/lhroot](https://github.com/FerryAr/lhroot) - Linux Chroot Installer & Bootscript Magisk Module. (today)
-- [ktye/iv](https://github.com/ktye/iv) - APL interpreter and stream processor (today)
-- [ExtremeElectronics/PicoCray](https://github.com/ExtremeElectronics/PicoCray) - A system for running distributed code over multiple PI Picos  (today)
-- [NSchrading/intro-spacy-nlp](https://github.com/NSchrading/intro-spacy-nlp) - An introduction to using spaCy for NLP and machine learning (today)
+- [mankadronit/Automated-Essay--Scoring](https://github.com/mankadronit/Automated-Essay--Scoring) - Automatically Score essays using Deep Learning (today)
+- [rodmarkun/SmolML](https://github.com/rodmarkun/SmolML) - A fully functional and simple Machine Learning library made entirely from scratch with Python.  (1 day ago)
+- [JCluzet/GrademeBash](https://github.com/JCluzet/GrademeBash) - Automatic testing for all 42, C and CPP projects. Makefile relink, Header wrong name, Coplien Form and so much more. (1 day ago)
+- [JCluzet/42_EXAM](https://github.com/JCluzet/42_EXAM) - A program almost identical to the 42 EXAMS for practice. (Pool EXAM & Stud EXAM) (1 day ago)
+- [PowerBIPark/PowerBITutorials](https://github.com/PowerBIPark/PowerBITutorials) - Tutorial Stuff (1 day ago)
 
 ## 🔨 Latest Pull Requests I published
 
 - [Develop](https://github.com/trinhminhtriet/repoctl/pull/17) on [trinhminhtriet/repoctl](https://github.com/trinhminhtriet/repoctl) (3 months ago)
-- [Develop](https://github.com/trinhminhtriet/scanr/pull/22) on [trinhminhtriet/scanr](https://github.com/trinhminhtriet/scanr) (3 months ago)
-- [Develop](https://github.com/trinhminhtriet/scanr/pull/21) on [trinhminhtriet/scanr](https://github.com/trinhminhtriet/scanr) (3 months ago)
+- [Develop](https://github.com/trinhminhtriet/scanr/pull/22) on [trinhminhtriet/scanr](https://github.com/trinhminhtriet/scanr) (4 months ago)
+- [Develop](https://github.com/trinhminhtriet/scanr/pull/21) on [trinhminhtriet/scanr](https://github.com/trinhminhtriet/scanr) (4 months ago)
