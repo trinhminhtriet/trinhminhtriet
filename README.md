@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [seniru-dilmith](https://github.com/seniru-dilmith)
 - [Ahmednoorani258](https://github.com/Ahmednoorani258)
 - [davidsmorais](https://github.com/davidsmorais)
 - [MehrshadFb](https://github.com/MehrshadFb)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [onamfc](https://github.com/onamfc)
 - [syedshameersarwar](https://github.com/syedshameersarwar)
 - [MarcoAngermann](https://github.com/MarcoAngermann)
-- [chatman-media](https://github.com/chatman-media)
 
 ## ⭐ Recent stars
 
