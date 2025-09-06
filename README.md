@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [magicsih/AndroidScreenCaster](https://github.com/magicsih/AndroidScreenCaster) - Efficient, low-latency Android screen casting with H.264 and WebM encoding via TCP and UDP. (today)
-- [mertthesamael/lalasia](https://github.com/mertthesamael/lalasia) - A comprehensive full-stack e-commerce application developed using Next.js 14. This application leverages nearly complete server-side rendering (SSR) capabilities and incorporates experimental form actions to enhance its functionality and user experience. (today)
-- [AhJo53589/leetcode-cn](https://github.com/AhJo53589/leetcode-cn) (today)
-- [niraj-khatiwada/ultimate-nestjs-boilerplate](https://github.com/niraj-khatiwada/ultimate-nestjs-boilerplate) - Advanced Nest.js boilerplate for scalable startups⚡ (today)
-- [timgit/pg-boss](https://github.com/timgit/pg-boss) - Queueing jobs in Postgres from Node.js like a boss (today)
+- [the4thdoctor/pg_chameleon](https://github.com/the4thdoctor/pg_chameleon) - MySQL to PostgreSQL replica system (today)
+- [GitMurf/roam-highlighter](https://github.com/GitMurf/roam-highlighter) - Chrome highlighter that quickly and easily puts your highlights into Roam format for easy pasting into your notes. (today)
+- [fivefilters/block-ads](https://github.com/fivefilters/block-ads) - Web page to test ad blocking and encourage use of blockers. (today)
+- [fivefilters/readability.php](https://github.com/fivefilters/readability.php) - PHP port of Mozilla's Readability.js (today)
+- [fivefilters/ftr-site-config](https://github.com/fivefilters/ftr-site-config) - Site-specific article extraction rules to aid content extractors, feed readers, and 'read later' applications. (today)
 
 ## 🔨 Latest Pull Requests I published
 
