@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [magicsih/AndroidScreenCaster](https://github.com/magicsih/AndroidScreenCaster) - Efficient, low-latency Android screen casting with H.264 and WebM encoding via TCP and UDP. (today)
+- [mertthesamael/lalasia](https://github.com/mertthesamael/lalasia) - A comprehensive full-stack e-commerce application developed using Next.js 14. This application leverages nearly complete server-side rendering (SSR) capabilities and incorporates experimental form actions to enhance its functionality and user experience. (today)
 - [AhJo53589/leetcode-cn](https://github.com/AhJo53589/leetcode-cn) (today)
 - [niraj-khatiwada/ultimate-nestjs-boilerplate](https://github.com/niraj-khatiwada/ultimate-nestjs-boilerplate) - Advanced Nest.js boilerplate for scalable startups⚡ (today)
 - [timgit/pg-boss](https://github.com/timgit/pg-boss) - Queueing jobs in Postgres from Node.js like a boss (today)
-- [mqvida/PowerBI-DataScience](https://github.com/mqvida/PowerBI-DataScience) - Repositório do Curso Microsoft Power BI Para Data Science (today)
-- [dancaron/Django-ORM](https://github.com/dancaron/Django-ORM) - Django-ORM-Standalone Template - Use the power of Django's database functionality in regular python scripts. (today)
 
 ## 🔨 Latest Pull Requests I published
 
