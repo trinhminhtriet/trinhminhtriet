@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [williaster/data-ui](https://github.com/williaster/data-ui) - A collection of data-rich UI components 📈 (today)
-- [leehanchung/awesome-full-stack-machine-learning-courses](https://github.com/leehanchung/awesome-full-stack-machine-learning-courses) - Curated list of publicly accessible machine learning engineering courses from CalTech, Columbia, Berkeley, MIT, and Stanford. (today)
-- [nicholasyager/dbt-loom](https://github.com/nicholasyager/dbt-loom) - A dbt-core plugin to weave together multi-project dbt-core deployments (today)
-- [louh/lcars](https://github.com/louh/lcars) - A responsive layout for Star Trek's LCARS user interface made completely in HTML/CSS/JavaScript. (today)
-- [braintreeps/vim_dotfiles](https://github.com/braintreeps/vim_dotfiles) - our vim dotfiles (today)
+- [Swechhya/excelR](https://github.com/Swechhya/excelR) - An Interface to 'jExcel.js' Library (today)
+- [analokmaus/kuma_utils](https://github.com/analokmaus/kuma_utils) - My toolbox for data analysis. :) (today)
+- [ybabakhin/kaggle_salt_bes_phalanx](https://github.com/ybabakhin/kaggle_salt_bes_phalanx) - Winning solution for the Kaggle TGS Salt Identification Challenge. (today)
+- [b01902041/Deep-Virtual-Try-on-with-Clothes-Transform](https://github.com/b01902041/Deep-Virtual-Try-on-with-Clothes-Transform) - An image-based virtual try-on system with deep learning. (today)
+- [dnshi/Leetcode](https://github.com/dnshi/Leetcode) - Leetcode problems & solutions (today)
 
 ## 🔨 Latest Pull Requests I published
 
