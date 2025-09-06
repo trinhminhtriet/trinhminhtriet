@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [marblexu/PythonSuperMario](https://github.com/marblexu/PythonSuperMario) - SuperMarioBros game written by python (support level 1-1 to level 1-4)  (today)
+- [marblexu/PythonPlantsVsZombies](https://github.com/marblexu/PythonPlantsVsZombies) - a simple PlantsVsZombies game (today)
+- [ael-bekk/Cub3d-Advanced-Raycasting](https://github.com/ael-bekk/Cub3d-Advanced-Raycasting) - #Cub3D: This project is a 3D game created from scratch written in C using an old graphic library mini-libx, presented with an old technology raycasting to make the 3D feeling looks pretty good (today)
 - [pablouser1/ProxiTok](https://github.com/pablouser1/ProxiTok) - Open source alternative frontend for TikTok made using PHP (today)
 - [mankadronit/Automated-Essay--Scoring](https://github.com/mankadronit/Automated-Essay--Scoring) - Automatically Score essays using Deep Learning (today)
-- [rodmarkun/SmolML](https://github.com/rodmarkun/SmolML) - A fully functional and simple Machine Learning library made entirely from scratch with Python.  (1 day ago)
-- [JCluzet/GrademeBash](https://github.com/JCluzet/GrademeBash) - Automatic testing for all 42, C and CPP projects. Makefile relink, Header wrong name, Coplien Form and so much more. (1 day ago)
-- [JCluzet/42_EXAM](https://github.com/JCluzet/42_EXAM) - A program almost identical to the 42 EXAMS for practice. (Pool EXAM & Stud EXAM) (1 day ago)
 
 ## 🔨 Latest Pull Requests I published
 
