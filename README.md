@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [viiku](https://github.com/viiku)
 - [seniru-dilmith](https://github.com/seniru-dilmith)
 - [Ahmednoorani258](https://github.com/Ahmednoorani258)
 - [davidsmorais](https://github.com/davidsmorais)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [SanidhyaDixit](https://github.com/SanidhyaDixit)
 - [onamfc](https://github.com/onamfc)
 - [syedshameersarwar](https://github.com/syedshameersarwar)
-- [MarcoAngermann](https://github.com/MarcoAngermann)
 
 ## ⭐ Recent stars
 
-- [HxX2/todocli](https://github.com/HxX2/todocli) - Todo CLI to manage your to do list in a neat way (today)
-- [caecitasminimus/school21-checklists](https://github.com/caecitasminimus/school21-checklists) - Ecole 42 (school 21) checklists in english. (today)
-- [marblexu/PythonSuperMario](https://github.com/marblexu/PythonSuperMario) - SuperMarioBros game written by python (support level 1-1 to level 1-4)  (today)
-- [marblexu/PythonPlantsVsZombies](https://github.com/marblexu/PythonPlantsVsZombies) - a simple PlantsVsZombies game (today)
-- [ael-bekk/Cub3d-Advanced-Raycasting](https://github.com/ael-bekk/Cub3d-Advanced-Raycasting) - #Cub3D: This project is a 3D game created from scratch written in C using an old graphic library mini-libx, presented with an old technology raycasting to make the 3D feeling looks pretty good (today)
+- [santiycr/cssify](https://github.com/santiycr/cssify) - XPATH to CSS translator (today)
+- [emmethalm/AI](https://github.com/emmethalm/AI) - The ultimate list of resources to teach yourself how to use the latest AI tools, frameworks, and ideas. (today)
+- [emmethalm/tuneAI](https://github.com/emmethalm/tuneAI) - TuneAI or "autoFinetune" is an effortless way to fine tune an OpenAI model based on YouTube or text input. Automating transcript cleaning & prompt-completion pair generation. (today)
+- [emmethalm/youtube-to-chatbot](https://github.com/emmethalm/youtube-to-chatbot) - Train a chatbot on an entire YouTube channel using OpenAI & Pinecone. (today)
+- [emmethalm/infiniteGPT](https://github.com/emmethalm/infiniteGPT) - InfiniteGPT is a Python script that lets you input an unlimited size text into the OpenAI API. No more tedious copy & pasting. Long live multithreading! (today)
 
 ## 🔨 Latest Pull Requests I published
 
