@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [TN19N](https://github.com/TN19N)
 - [viiku](https://github.com/viiku)
 - [seniru-dilmith](https://github.com/seniru-dilmith)
 - [Ahmednoorani258](https://github.com/Ahmednoorani258)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [macrespo42](https://github.com/macrespo42)
 - [SanidhyaDixit](https://github.com/SanidhyaDixit)
 - [onamfc](https://github.com/onamfc)
-- [syedshameersarwar](https://github.com/syedshameersarwar)
 
 ## ⭐ Recent stars
 
+- [AlexandreDesponds/42-Piscine-C](https://github.com/AlexandreDesponds/42-Piscine-C) - Ecole 42 - C/MINILIBX (today)
 - [anton46/Foursquare-CollectionPicker](https://github.com/anton46/Foursquare-CollectionPicker) - Collection Picker is an Android View library that looks like Foursquare Tastes picker (today)
 - [anton46/WhatsApp-ProfileCollapsingToolbar](https://github.com/anton46/WhatsApp-ProfileCollapsingToolbar) - An Android custom animation view that looks like WhastApp Profile screen style (today)
 - [anton46/Android-StepsView](https://github.com/anton46/Android-StepsView) - Android-StepsView (today)
 - [Bilalh/Tagger](https://github.com/Bilalh/Tagger) - Tagger music metadata editor which supports batch tag editing and getting tags from VGMdb (today)
-- [esskar/Serialize.Linq](https://github.com/esskar/Serialize.Linq) - C# library to serialize LINQ expressions (today)
 
 ## 🔨 Latest Pull Requests I published
 
