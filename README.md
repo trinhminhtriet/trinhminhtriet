@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [sozykin/dlpython_course](https://github.com/sozykin/dlpython_course) - Примеры для курса "Программирование глубоких нейронных сетей на Python" (today)
-- [trehn/termtrack](https://github.com/trehn/termtrack) - Track satellites in your terminal (today)
-- [trehn/termdown](https://github.com/trehn/termdown) - Countdown timer and stopwatch in your terminal (today)
-- [DreamCats/school-bus](https://github.com/DreamCats/school-bus) - 本项目是基于微服务架构的班车预约系统，采用两个版本第一个版本：springboot+mybatis+dubbo+rocketmq+mysql+redis等。第二个版本：spring-cloud重构，当然，该项目也是前后端分离，前端采用比较流行的vue框架。 (today)
-- [DreamCats/java-notes](https://github.com/DreamCats/java-notes) - 自己的学习笔记。包含：个人秋招经历、🐂客面经问题按照频率总结、Java一系列知识、数据库、分布式、微服务、前端、技术面试、每日文章等(持续更新) (today)
+- [williaster/data-ui](https://github.com/williaster/data-ui) - A collection of data-rich UI components 📈 (today)
+- [leehanchung/awesome-full-stack-machine-learning-courses](https://github.com/leehanchung/awesome-full-stack-machine-learning-courses) - Curated list of publicly accessible machine learning engineering courses from CalTech, Columbia, Berkeley, MIT, and Stanford. (today)
+- [nicholasyager/dbt-loom](https://github.com/nicholasyager/dbt-loom) - A dbt-core plugin to weave together multi-project dbt-core deployments (today)
+- [louh/lcars](https://github.com/louh/lcars) - A responsive layout for Star Trek's LCARS user interface made completely in HTML/CSS/JavaScript. (today)
+- [braintreeps/vim_dotfiles](https://github.com/braintreeps/vim_dotfiles) - our vim dotfiles (today)
 
 ## 🔨 Latest Pull Requests I published
 
