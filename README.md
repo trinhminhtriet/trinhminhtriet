@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [AlexandreDesponds/42-Piscine-C](https://github.com/AlexandreDesponds/42-Piscine-C) - Ecole 42 - C/MINILIBX (today)
-- [anton46/Foursquare-CollectionPicker](https://github.com/anton46/Foursquare-CollectionPicker) - Collection Picker is an Android View library that looks like Foursquare Tastes picker (today)
-- [anton46/WhatsApp-ProfileCollapsingToolbar](https://github.com/anton46/WhatsApp-ProfileCollapsingToolbar) - An Android custom animation view that looks like WhastApp Profile screen style (today)
-- [anton46/Android-StepsView](https://github.com/anton46/Android-StepsView) - Android-StepsView (today)
-- [Bilalh/Tagger](https://github.com/Bilalh/Tagger) - Tagger music metadata editor which supports batch tag editing and getting tags from VGMdb (today)
+- [shadorki/genshin-impact-wish-simulator](https://github.com/shadorki/genshin-impact-wish-simulator) - A React web application to simulate Genshin Impact gacha in the browser (today)
+- [Varneon/WorldCreatorAssistant](https://github.com/Varneon/WorldCreatorAssistant) - Discontinued Unity Editor extension for automating VRChat world project package management (today)
+- [CyanLaser/CyanEmu](https://github.com/CyanLaser/CyanEmu) - CyanEmu is a VRChat client emulator in Unity. Includes a player controller with interact system. Works with SDK2 and SDK3. (today)
+- [netri/Neitri-Unity-Shaders](https://github.com/netri/Neitri-Unity-Shaders) - Collection of shaders for Unity3D and VRChat (today)
+- [niivu/resource-redirect-icon-themes](https://github.com/niivu/resource-redirect-icon-themes) - Icon themes for the Resource Redirect mod for Windhawk (today)
 
 ## 🔨 Latest Pull Requests I published
 
