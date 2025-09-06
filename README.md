@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [the4thdoctor/pg_chameleon](https://github.com/the4thdoctor/pg_chameleon) - MySQL to PostgreSQL replica system (today)
-- [GitMurf/roam-highlighter](https://github.com/GitMurf/roam-highlighter) - Chrome highlighter that quickly and easily puts your highlights into Roam format for easy pasting into your notes. (today)
-- [fivefilters/block-ads](https://github.com/fivefilters/block-ads) - Web page to test ad blocking and encourage use of blockers. (today)
-- [fivefilters/readability.php](https://github.com/fivefilters/readability.php) - PHP port of Mozilla's Readability.js (today)
-- [fivefilters/ftr-site-config](https://github.com/fivefilters/ftr-site-config) - Site-specific article extraction rules to aid content extractors, feed readers, and 'read later' applications. (today)
+- [3cky/mbusd](https://github.com/3cky/mbusd) - Open-source Modbus TCP to Modbus RTU (RS-232/485) gateway. (today)
+- [InspectorDidi/Hacking-Books](https://github.com/InspectorDidi/Hacking-Books) - Hacking Books (today)
+- [delfrrr/weather-app-react-native](https://github.com/delfrrr/weather-app-react-native) - The source code of react-native weather app  (today)
+- [delfrrr/npm-consider](https://github.com/delfrrr/npm-consider) - Check package dependencies before installing it (today)
+- [delfrrr/delaunator-cpp](https://github.com/delfrrr/delaunator-cpp) - A really fast C++ library for Delaunay triangulation of 2D points (today)
 
 ## 🔨 Latest Pull Requests I published
 
