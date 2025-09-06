@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [3cky/mbusd](https://github.com/3cky/mbusd) - Open-source Modbus TCP to Modbus RTU (RS-232/485) gateway. (today)
-- [InspectorDidi/Hacking-Books](https://github.com/InspectorDidi/Hacking-Books) - Hacking Books (today)
-- [delfrrr/weather-app-react-native](https://github.com/delfrrr/weather-app-react-native) - The source code of react-native weather app  (today)
-- [delfrrr/npm-consider](https://github.com/delfrrr/npm-consider) - Check package dependencies before installing it (today)
-- [delfrrr/delaunator-cpp](https://github.com/delfrrr/delaunator-cpp) - A really fast C++ library for Delaunay triangulation of 2D points (today)
+- [msmsajjadi/EnhanceNet-Code](https://github.com/msmsajjadi/EnhanceNet-Code) - EnhanceNet: Single Image Super-Resolution Through Automated Texture Synthesis (official repository) (today)
+- [msmsajjadi/FRVSR](https://github.com/msmsajjadi/FRVSR) - Frame-Recurrent Video Super-Resolution (official repository) (today)
+- [paulknysh/blackbox](https://github.com/paulknysh/blackbox) - A Python module for parallel optimization of expensive black-box functions (today)
+- [haasad/PyPardiso](https://github.com/haasad/PyPardiso) - Python interface to the Intel MKL Pardiso library to solve large sparse linear systems of equations (today)
+- [ylikx/forpy](https://github.com/ylikx/forpy) - Forpy - use Python from Fortran (today)
 
 ## 🔨 Latest Pull Requests I published
 
