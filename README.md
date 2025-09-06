@@ -46,7 +46,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
-- [ikramagix](https://github.com/ikramagix)
 - [viiku](https://github.com/viiku)
 - [seniru-dilmith](https://github.com/seniru-dilmith)
 - [Ahmednoorani258](https://github.com/Ahmednoorani258)
@@ -56,14 +55,15 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [macrespo42](https://github.com/macrespo42)
 - [SanidhyaDixit](https://github.com/SanidhyaDixit)
 - [onamfc](https://github.com/onamfc)
+- [syedshameersarwar](https://github.com/syedshameersarwar)
 
 ## ⭐ Recent stars
 
+- [AhJo53589/leetcode-cn](https://github.com/AhJo53589/leetcode-cn) (today)
+- [niraj-khatiwada/ultimate-nestjs-boilerplate](https://github.com/niraj-khatiwada/ultimate-nestjs-boilerplate) - Advanced Nest.js boilerplate for scalable startups⚡ (today)
+- [timgit/pg-boss](https://github.com/timgit/pg-boss) - Queueing jobs in Postgres from Node.js like a boss (today)
+- [mqvida/PowerBI-DataScience](https://github.com/mqvida/PowerBI-DataScience) - Repositório do Curso Microsoft Power BI Para Data Science (today)
 - [dancaron/Django-ORM](https://github.com/dancaron/Django-ORM) - Django-ORM-Standalone Template - Use the power of Django's database functionality in regular python scripts. (today)
-- [SmartFinn/eve-ng-integration](https://github.com/SmartFinn/eve-ng-integration) - integrates EVE-NG (aka UNetLab) with Linux desktop (today)
-- [Bishalsarang/Leetcode-Questions-Scraper](https://github.com/Bishalsarang/Leetcode-Questions-Scraper) - Scrape Algorithm Questions from leetcode and generate html and epub file (today)
-- [fasiha/ebisu](https://github.com/fasiha/ebisu) - Public-domain Python library for flashcard quiz scheduling using Bayesian statistics. (JavaScript, Java, Dart, and other ports available!) (today)
-- [augustoroman/v8](https://github.com/augustoroman/v8) - A Go API for the V8 javascript engine. (today)
 
 ## 🔨 Latest Pull Requests I published
 
