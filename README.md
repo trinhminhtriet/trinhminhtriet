@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [santiycr/cssify](https://github.com/santiycr/cssify) - XPATH to CSS translator (today)
-- [emmethalm/AI](https://github.com/emmethalm/AI) - The ultimate list of resources to teach yourself how to use the latest AI tools, frameworks, and ideas. (today)
-- [emmethalm/tuneAI](https://github.com/emmethalm/tuneAI) - TuneAI or "autoFinetune" is an effortless way to fine tune an OpenAI model based on YouTube or text input. Automating transcript cleaning & prompt-completion pair generation. (today)
-- [emmethalm/youtube-to-chatbot](https://github.com/emmethalm/youtube-to-chatbot) - Train a chatbot on an entire YouTube channel using OpenAI & Pinecone. (today)
-- [emmethalm/infiniteGPT](https://github.com/emmethalm/infiniteGPT) - InfiniteGPT is a Python script that lets you input an unlimited size text into the OpenAI API. No more tedious copy & pasting. Long live multithreading! (today)
+- [MerlinVR/USharpVideo](https://github.com/MerlinVR/USharpVideo) - A basic video player made for VRChat using Udon and UdonSharp (today)
+- [MerlinVR/UdonSharp](https://github.com/MerlinVR/UdonSharp) - An experimental compiler for compiling C# to Udon assembly (today)
+- [jtoty/Libftest](https://github.com/jtoty/Libftest) (today)
+- [harendra-shakya/solidity-gas-optimization](https://github.com/harendra-shakya/solidity-gas-optimization) - A extensive list of solidity gas optimization tricks (today)
+- [harendra-shakya/smart-contract-attack-vectors](https://github.com/harendra-shakya/smart-contract-attack-vectors) - A curated list of smart contract attack vectors (today)
 
 ## 🔨 Latest Pull Requests I published
 
