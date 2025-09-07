@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [ctrlaltdylan/shopify-nextjs-toolbox](https://github.com/ctrlaltdylan/shopify-nextjs-toolbox) - A set of tools to authenticate NextJs apps with Shopify's OAuth handshake and AppBridge Session Tokens (today)
-- [ctrlaltdylan/MirrorMirror](https://github.com/ctrlaltdylan/MirrorMirror) - Mirror mirror on the wall, who's the most capable programmer of them all? (today)
-- [arpit456jain/Amazing-Js-Projects](https://github.com/arpit456jain/Amazing-Js-Projects) - Amazing-Js-Projects (today)
-- [arpit456jain/Amazing-Css-Effects](https://github.com/arpit456jain/Amazing-Css-Effects) - This repo contains some cool CSS effects (today)
-- [arpit456jain/Cool-Front-End-Templates](https://github.com/arpit456jain/Cool-Front-End-Templates) (today)
+- [thomasj02/DeepLearningProjectWorkflow](https://github.com/thomasj02/DeepLearningProjectWorkflow) - Machine Learning Workflow, from Andrew Ng's lecture at Deep Learning Summer School 2016 (today)
+- [pac-dev/protoplug](https://github.com/pac-dev/protoplug) - Create audio plugins on-the-fly with LuaJIT. (today)
+- [andrewdwallo/filament-companies](https://github.com/andrewdwallo/filament-companies) - A comprehensive Laravel authentication and authorization system designed for Filament, focusing on multi-tenant company management. (today)
+- [andrewdwallo/erpsaas](https://github.com/andrewdwallo/erpsaas) - A Laravel and Filament-powered accounting platform featuring full double-entry accrual accounting, delivering modern automation for professional financial management. (today)
+- [andrewelkins/Laravel-4-Bootstrap-Starter-Site](https://github.com/andrewelkins/Laravel-4-Bootstrap-Starter-Site) - Laravel 4 Starter Site is a basic blog application using several nice community packages. (today)
 
 ## 🔨 Latest Pull Requests I published
 
