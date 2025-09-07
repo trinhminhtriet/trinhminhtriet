@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [beckzhu/SimpleRemote](https://github.com/beckzhu/SimpleRemote) - Remote Administration Tools (today)
-- [swapnilsparsh/Rescue](https://github.com/swapnilsparsh/Rescue) - A women’s safety website that sends emails and messages to your trusted ones. (today)
-- [swapnilsparsh/30DaysOfJavaScript](https://github.com/swapnilsparsh/30DaysOfJavaScript) - Projects made during the 30 days of the JavaScript challenge (today)
-- [kyawthiha7/Mobile-App-Pentest](https://github.com/kyawthiha7/Mobile-App-Pentest) (today)
-- [adams85/filelogger](https://github.com/adams85/filelogger) - A lightweight yet feature-rich file logger implementation for the Microsoft.Extensions.Logging framework. (today)
+- [st3v3nmw/awesome-django-performance](https://github.com/st3v3nmw/awesome-django-performance) - A curated list of libraries, tools, blog articles, and books to help profile and optimize your Django project (today)
+- [st3v3nmw/obsidian-spaced-repetition](https://github.com/st3v3nmw/obsidian-spaced-repetition) - Fight the forgetting curve by reviewing flashcards & entire notes on Obsidian (today)
+- [corona10/goimagehash](https://github.com/corona10/goimagehash) - Go Perceptual image hashing package (today)
+- [GSDragoon/RadeonSoftwareSlimmer](https://github.com/GSDragoon/RadeonSoftwareSlimmer) - Radeon Software Slimmer is a utility to trim down the bloat with Radeon Software for AMD GPUs on Microsoft Windows. (today)
+- [damonsk/onlinewardleymaps](https://github.com/damonsk/onlinewardleymaps) - OnlineWardleyMaps.com - Draw Wardley Maps in seconds using this free online tool (today)
 
 ## 🔨 Latest Pull Requests I published
 
