@@ -46,7 +46,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
-- [NamesMT](https://github.com/NamesMT)
 - [viiku](https://github.com/viiku)
 - [seniru-dilmith](https://github.com/seniru-dilmith)
 - [Ahmednoorani258](https://github.com/Ahmednoorani258)
@@ -56,14 +55,15 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [macrespo42](https://github.com/macrespo42)
 - [SanidhyaDixit](https://github.com/SanidhyaDixit)
 - [onamfc](https://github.com/onamfc)
+- [syedshameersarwar](https://github.com/syedshameersarwar)
 
 ## ⭐ Recent stars
 
+- [gasangw/NestJS-Interview-Questions-And-Answers](https://github.com/gasangw/NestJS-Interview-Questions-And-Answers) - This repository aims to be a comprehensive resource for NestJS developers preparing for interviews. Whether you're a beginner or an experienced developer, this collection of questions and answers is designed to help you brush up on your NestJS knowledge and excel in interviews (today)
+- [madsimian/em-redis](https://github.com/madsimian/em-redis) - An eventmachine-based implementation of the Redis protocol (today)
 - [ksassnowski/vueclid](https://github.com/ksassnowski/vueclid) - Delightfully simple math diagrams for Vue 3. (today)
 - [ksassnowski/laravel-shareable-models](https://github.com/ksassnowski/laravel-shareable-models) - Create shareable links from your eloquent models. (today)
 - [ksassnowski/venture](https://github.com/ksassnowski/venture) - Venture allows you to create and manage complex, async workflows in your Laravel apps. (today)
-- [mirahman/PHP-Data-Structure-and-Algorithms](https://github.com/mirahman/PHP-Data-Structure-and-Algorithms) - A repository with implementations of different data structures and algorithms using PHP (today)
-- [woooowen/iBooks](https://github.com/woooowen/iBooks) - 计算机图书,java,mysql,架构类,web (today)
 
 ## 🔨 Latest Pull Requests I published
 
