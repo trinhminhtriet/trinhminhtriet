@@ -38,14 +38,15 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [trinhminhtriet/dwipe](https://github.com/trinhminhtriet/dwipe) - 🧹 Fast, cross-platform disk cleanup tool with interactive UI for easy directory size visualization. (2 days ago)
 - [nctl-io/nctl-roadmap](https://github.com/nctl-io/nctl-roadmap) (1 week ago)
 - [nctl-io/.github](https://github.com/nctl-io/.github) - 🌐 Network. Connect. Transform. Lead. (1 week ago)
-- [nctl-io/nctl-homepage](https://github.com/nctl-io/nctl-homepage) - 🚀 Modern homepage for NCTL: fast, responsive, TypeScript-powered, open source, and easy to customize. (1 week ago)
 - [nctl-io/nctl-branding](https://github.com/nctl-io/nctl-branding) - NCTL Branding 🖼️: Centralized assets and guidelines for consistent visual identity across NCTL projects and platforms. (1 week ago)
+- [nctl-io/nctl-homepage](https://github.com/nctl-io/nctl-homepage) - 🚀 Modern homepage for NCTL: fast, responsive, TypeScript-powered, open source, and easy to customize. (1 week ago)
 - [trinhminhtriet/sizr](https://github.com/trinhminhtriet/sizr) - 📈 A fast, Rust-based tool to analyze file system usage with colorful output, file aggregation, exclusions, and directory comparisons. (1 week ago)
-- [trinhminhtriet/blast](https://github.com/trinhminhtriet/blast) - 🚀 Blast: A powerful, lightweight HTTP load generator for stress testing and benchmarking web applications with ease. (2 weeks ago)
+- [trinhminhtriet/spiko](https://github.com/trinhminhtriet/spiko) - 🚀 Spiko is a fast, Rust-based load testing tool with a beautiful TUI for real-time insights. (2 weeks ago)
 - [rust-rs/tabler](https://github.com/rust-rs/tabler) - 📊 Tabler: A lightweight TUI tool to view, query, and navigate CSV, TSV, and Parquet data files. (2 weeks ago)
 
 ## 👯 Check out my recent followers
 
+- [BEPb](https://github.com/BEPb)
 - [ashiq72](https://github.com/ashiq72)
 - [ishandutta2007](https://github.com/ishandutta2007)
 - [viiku](https://github.com/viiku)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [MehrshadFb](https://github.com/MehrshadFb)
 - [abdelhadi-haddadi](https://github.com/abdelhadi-haddadi)
 - [macrespo42](https://github.com/macrespo42)
-- [SanidhyaDixit](https://github.com/SanidhyaDixit)
 
 ## ⭐ Recent stars
 
+- [beckzhu/SimpleRemote](https://github.com/beckzhu/SimpleRemote) - Remote Administration Tools (today)
+- [swapnilsparsh/Rescue](https://github.com/swapnilsparsh/Rescue) - A women’s safety website that sends emails and messages to your trusted ones. (today)
+- [swapnilsparsh/30DaysOfJavaScript](https://github.com/swapnilsparsh/30DaysOfJavaScript) - Projects made during the 30 days of the JavaScript challenge (today)
+- [kyawthiha7/Mobile-App-Pentest](https://github.com/kyawthiha7/Mobile-App-Pentest) (today)
 - [adams85/filelogger](https://github.com/adams85/filelogger) - A lightweight yet feature-rich file logger implementation for the Microsoft.Extensions.Logging framework. (today)
-- [Oksydan/falcon](https://github.com/Oksydan/falcon) - Prestashop starter theme that provides great development experience. (today)
-- [alexeichhorn/YouTubeKit](https://github.com/alexeichhorn/YouTubeKit) - YouTube video and audio extractor for iOS, watchOS, visionOS, tvOS and macOS (today)
-- [t413/SMS-Tools](https://github.com/t413/SMS-Tools) - Import / Export / Merge tool for your Android/iOS/GV text message history. (today)
-- [t413/SinglePaged](https://github.com/t413/SinglePaged) - SinglePaged - Simple Jekyll template (today)
 
 ## 🔨 Latest Pull Requests I published
 
