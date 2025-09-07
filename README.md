@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [sibvic/mq5-templates](https://github.com/sibvic/mq5-templates) - MQL5/MT5/MetaTrader 5 templates (today)
-- [OmerCora/OCMaskedTextField](https://github.com/OmerCora/OCMaskedTextField) - Simple class to display dynamically masked textFields (today)
-- [gasangw/NestJS-Interview-Questions-And-Answers](https://github.com/gasangw/NestJS-Interview-Questions-And-Answers) - This repository aims to be a comprehensive resource for NestJS developers preparing for interviews. Whether you're a beginner or an experienced developer, this collection of questions and answers is designed to help you brush up on your NestJS knowledge and excel in interviews (today)
-- [madsimian/em-redis](https://github.com/madsimian/em-redis) - An eventmachine-based implementation of the Redis protocol (today)
-- [ksassnowski/vueclid](https://github.com/ksassnowski/vueclid) - Delightfully simple math diagrams for Vue 3. (today)
+- [Dachande663/Plex-Export](https://github.com/Dachande663/Plex-Export) - Export your Plex Library as an interactive HTML page for others to browse. (today)
+- [joelgriffith/navalia](https://github.com/joelgriffith/navalia) - A bullet-proof, fast, and reliable headless browser API (today)
+- [JerrySievert/date-utils](https://github.com/JerrySievert/date-utils) - Date Pollyfills for Node.js and Browser (today)
+- [JerrySievert/mongolike](https://github.com/JerrySievert/mongolike) - A proof of concept MongoDB clone built on Postgres (today)
+- [geocommons/geocoder](https://github.com/geocommons/geocoder) - Modular Street Address Geocoder (today)
 
 ## 🔨 Latest Pull Requests I published
 
