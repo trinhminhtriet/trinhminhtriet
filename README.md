@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [erdemskywalker](https://github.com/erdemskywalker)
 - [BEPb](https://github.com/BEPb)
 - [ashiq72](https://github.com/ashiq72)
 - [ishandutta2007](https://github.com/ishandutta2007)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [davidsmorais](https://github.com/davidsmorais)
 - [MehrshadFb](https://github.com/MehrshadFb)
 - [abdelhadi-haddadi](https://github.com/abdelhadi-haddadi)
-- [macrespo42](https://github.com/macrespo42)
 
 ## ⭐ Recent stars
 
-- [st3v3nmw/awesome-django-performance](https://github.com/st3v3nmw/awesome-django-performance) - A curated list of libraries, tools, blog articles, and books to help profile and optimize your Django project (today)
-- [st3v3nmw/obsidian-spaced-repetition](https://github.com/st3v3nmw/obsidian-spaced-repetition) - Fight the forgetting curve by reviewing flashcards & entire notes on Obsidian (today)
-- [corona10/goimagehash](https://github.com/corona10/goimagehash) - Go Perceptual image hashing package (today)
-- [GSDragoon/RadeonSoftwareSlimmer](https://github.com/GSDragoon/RadeonSoftwareSlimmer) - Radeon Software Slimmer is a utility to trim down the bloat with Radeon Software for AMD GPUs on Microsoft Windows. (today)
-- [damonsk/onlinewardleymaps](https://github.com/damonsk/onlinewardleymaps) - OnlineWardleyMaps.com - Draw Wardley Maps in seconds using this free online tool (today)
+- [yoavf/absolutelyright](https://github.com/yoavf/absolutelyright) - Claude said I'm absolutely right! (today)
+- [shannah/Java-Objective-C-Bridge](https://github.com/shannah/Java-Objective-C-Bridge) - A thin bridge that allows for two-way communication from Java to Objective-C. (today)
+- [shannah/xataface](https://github.com/shannah/xataface) - Framework for building data-driven web applications in PHP and MySQL (today)
+- [shannah/jdeploy](https://github.com/shannah/jdeploy) - Developer friendly desktop deployment tool (today)
+- [cuviper/ssh-pageant](https://github.com/cuviper/ssh-pageant) - An SSH authentication agent for Cygwin/MSYS to PuTTY's Pageant. (today)
 
 ## 🔨 Latest Pull Requests I published
 
