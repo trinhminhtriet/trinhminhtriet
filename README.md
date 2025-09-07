@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [trungdq88/logmine](https://github.com/trungdq88/logmine) - A log pattern analyzer CLI (today)
-- [trungdq88/react-router-page-transition](https://github.com/trungdq88/react-router-page-transition) - Highly customizable page transition component for your React Router (today)
-- [trungdq88/github-explorer](https://github.com/trungdq88/github-explorer) - Progressive Web Apps experiment (today)
-- [trungdq88/Awesome-Black-Friday-Cyber-Monday](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday) - Awesome deals on Black Friday: Apps, SaaS, Books, Courses, etc. (today)
-- [saadpasta/react-blog-github](https://github.com/saadpasta/react-blog-github) - 🔥 React + Github Issues    👉 Your Personal Blog  (today)
+- [freqtrade/ftui](https://github.com/freqtrade/ftui) - FTUI - a terminal-based Freqtrade UI client (today)
+- [freqtrade/freqtrade-strategies](https://github.com/freqtrade/freqtrade-strategies) - Free trading strategies for Freqtrade bot (today)
+- [freqtrade/frequi](https://github.com/freqtrade/frequi) - Freqtrade UI - Frontend for Freqtrade (today)
+- [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot (today)
+- [romange/helio](https://github.com/romange/helio) - A modern framework for backend development based on io_uring Linux interface (today)
 
 ## 🔨 Latest Pull Requests I published
 
