@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [freqtrade/ftui](https://github.com/freqtrade/ftui) - FTUI - a terminal-based Freqtrade UI client (today)
-- [freqtrade/freqtrade-strategies](https://github.com/freqtrade/freqtrade-strategies) - Free trading strategies for Freqtrade bot (today)
-- [freqtrade/frequi](https://github.com/freqtrade/frequi) - Freqtrade UI - Frontend for Freqtrade (today)
-- [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot (today)
-- [romange/helio](https://github.com/romange/helio) - A modern framework for backend development based on io_uring Linux interface (today)
+- [georgezouq/awesome-ai-in-finance](https://github.com/georgezouq/awesome-ai-in-finance) - 🔬 A curated list of awesome LLMs & deep learning strategies & tools in financial market. (today)
+- [firmai/financial-machine-learning](https://github.com/firmai/financial-machine-learning) - A curated list of practical financial machine learning tools and applications. (today)
+- [Frix-x/klippain-shaketune](https://github.com/Frix-x/klippain-shaketune) - Klipper streamlined input shaper workflow and calibration tools (today)
+- [Frix-x/klippain](https://github.com/Frix-x/klippain) - Generic Klipper configuration for 3D printers (today)
+- [dasJ/spotifywm](https://github.com/dasJ/spotifywm) - Set Spotify's WM_NAME before opening the window (today)
 
 ## 🔨 Latest Pull Requests I published
 
