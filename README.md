@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [yfuks/react-native-action-sheet](https://github.com/yfuks/react-native-action-sheet) - React native simple action sheet with native android (using the built-in AlertDialog) (today)
-- [wimagguc/jquery-eu-cookie-law-popup](https://github.com/wimagguc/jquery-eu-cookie-law-popup) - An easy-to-install jQuery plugin to create EU Cookie Law popups (today)
-- [wimagguc/jquery-latitude-longitude-picker-gmaps](https://github.com/wimagguc/jquery-latitude-longitude-picker-gmaps) - A jQuery plugin that creates a Latitude and Longitude picker using Google Maps. (today)
-- [wimagguc/ios-custom-alertview](https://github.com/wimagguc/ios-custom-alertview) - Custom UIAlertView. Continue adding images and UIViews to dialogs in iOS7+ (today)
-- [samsondav/rihanna](https://github.com/samsondav/rihanna) - Rihanna is a high performance postgres-backed job queue for Elixir (today)
+- [ksassnowski/vueclid](https://github.com/ksassnowski/vueclid) - Delightfully simple math diagrams for Vue 3. (today)
+- [ksassnowski/laravel-shareable-models](https://github.com/ksassnowski/laravel-shareable-models) - Create shareable links from your eloquent models. (today)
+- [ksassnowski/venture](https://github.com/ksassnowski/venture) - Venture allows you to create and manage complex, async workflows in your Laravel apps. (today)
+- [mirahman/PHP-Data-Structure-and-Algorithms](https://github.com/mirahman/PHP-Data-Structure-and-Algorithms) - A repository with implementations of different data structures and algorithms using PHP (today)
+- [woooowen/iBooks](https://github.com/woooowen/iBooks) - 计算机图书,java,mysql,架构类,web (today)
 
 ## 🔨 Latest Pull Requests I published
 
