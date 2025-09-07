@@ -33,7 +33,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👷 Check out what I'm currently working on
 
-- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (1 day ago)
+- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (today)
 - [trinhminhtriet/dwipe](https://github.com/trinhminhtriet/dwipe) - 🧹 Fast, cross-platform disk cleanup tool with interactive UI for easy directory size visualization. (2 days ago)
 - [nctl-io/nctl-roadmap](https://github.com/nctl-io/nctl-roadmap) (1 week ago)
 - [nctl-io/.github](https://github.com/nctl-io/.github) - 🌐 Network. Connect. Transform. Lead. (1 week ago)
@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [ishandutta2007](https://github.com/ishandutta2007)
 - [viiku](https://github.com/viiku)
 - [seniru-dilmith](https://github.com/seniru-dilmith)
 - [Ahmednoorani258](https://github.com/Ahmednoorani258)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [macrespo42](https://github.com/macrespo42)
 - [SanidhyaDixit](https://github.com/SanidhyaDixit)
 - [onamfc](https://github.com/onamfc)
-- [syedshameersarwar](https://github.com/syedshameersarwar)
 
 ## ⭐ Recent stars
 
+- [sibvic/mq5-templates](https://github.com/sibvic/mq5-templates) - MQL5/MT5/MetaTrader 5 templates (today)
+- [OmerCora/OCMaskedTextField](https://github.com/OmerCora/OCMaskedTextField) - Simple class to display dynamically masked textFields (today)
 - [gasangw/NestJS-Interview-Questions-And-Answers](https://github.com/gasangw/NestJS-Interview-Questions-And-Answers) - This repository aims to be a comprehensive resource for NestJS developers preparing for interviews. Whether you're a beginner or an experienced developer, this collection of questions and answers is designed to help you brush up on your NestJS knowledge and excel in interviews (today)
 - [madsimian/em-redis](https://github.com/madsimian/em-redis) - An eventmachine-based implementation of the Redis protocol (today)
 - [ksassnowski/vueclid](https://github.com/ksassnowski/vueclid) - Delightfully simple math diagrams for Vue 3. (today)
-- [ksassnowski/laravel-shareable-models](https://github.com/ksassnowski/laravel-shareable-models) - Create shareable links from your eloquent models. (today)
-- [ksassnowski/venture](https://github.com/ksassnowski/venture) - Venture allows you to create and manage complex, async workflows in your Laravel apps. (today)
 
 ## 🔨 Latest Pull Requests I published
 
