@@ -41,11 +41,12 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [nctl-io/nctl-homepage](https://github.com/nctl-io/nctl-homepage) - 🚀 Modern homepage for NCTL: fast, responsive, TypeScript-powered, open source, and easy to customize. (1 week ago)
 - [nctl-io/nctl-branding](https://github.com/nctl-io/nctl-branding) - NCTL Branding 🖼️: Centralized assets and guidelines for consistent visual identity across NCTL projects and platforms. (1 week ago)
 - [trinhminhtriet/sizr](https://github.com/trinhminhtriet/sizr) - 📈 A fast, Rust-based tool to analyze file system usage with colorful output, file aggregation, exclusions, and directory comparisons. (1 week ago)
-- [rust-rs/tabler](https://github.com/rust-rs/tabler) - 📊 Tabler: A lightweight TUI tool to view, query, and navigate CSV, TSV, and Parquet data files. (2 weeks ago)
 - [trinhminhtriet/spiko](https://github.com/trinhminhtriet/spiko) - 🚀 Spiko is a fast, Rust-based load testing tool with a beautiful TUI for real-time insights. (2 weeks ago)
+- [rust-rs/tabler](https://github.com/rust-rs/tabler) - 📊 Tabler: A lightweight TUI tool to view, query, and navigate CSV, TSV, and Parquet data files. (2 weeks ago)
 
 ## 👯 Check out my recent followers
 
+- [ashiq72](https://github.com/ashiq72)
 - [ishandutta2007](https://github.com/ishandutta2007)
 - [viiku](https://github.com/viiku)
 - [seniru-dilmith](https://github.com/seniru-dilmith)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [abdelhadi-haddadi](https://github.com/abdelhadi-haddadi)
 - [macrespo42](https://github.com/macrespo42)
 - [SanidhyaDixit](https://github.com/SanidhyaDixit)
-- [onamfc](https://github.com/onamfc)
 
 ## ⭐ Recent stars
 
+- [mgriebling/SwiftMath](https://github.com/mgriebling/SwiftMath) - SwiftMath provides a full Swift implementation of iosMath for displaying beautifully rendered math equations in iOS and MacOS applications. It typesets formulae written using LaTeX math mode in a UILabel equivalent class. (today)
+- [ventali/awesome-zk](https://github.com/ventali/awesome-zk) - A curated list of awesome ZK resources, libraries, tools and more.   (today)
 - [thomasj02/DeepLearningProjectWorkflow](https://github.com/thomasj02/DeepLearningProjectWorkflow) - Machine Learning Workflow, from Andrew Ng's lecture at Deep Learning Summer School 2016 (today)
 - [pac-dev/protoplug](https://github.com/pac-dev/protoplug) - Create audio plugins on-the-fly with LuaJIT. (today)
 - [andrewdwallo/filament-companies](https://github.com/andrewdwallo/filament-companies) - A comprehensive Laravel authentication and authorization system designed for Filament, focusing on multi-tenant company management. (today)
-- [andrewdwallo/erpsaas](https://github.com/andrewdwallo/erpsaas) - A Laravel and Filament-powered accounting platform featuring full double-entry accrual accounting, delivering modern automation for professional financial management. (today)
-- [andrewelkins/Laravel-4-Bootstrap-Starter-Site](https://github.com/andrewelkins/Laravel-4-Bootstrap-Starter-Site) - Laravel 4 Starter Site is a basic blog application using several nice community packages. (today)
 
 ## 🔨 Latest Pull Requests I published
 
