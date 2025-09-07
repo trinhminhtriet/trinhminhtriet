@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [expectocode/telegram-export](https://github.com/expectocode/telegram-export) - Export Telegram chat data and history (today)
-- [matt-major/do-wrapper](https://github.com/matt-major/do-wrapper) - A Node.js wrapper for the Digital Ocean v2 API (today)
-- [Stono/kconmon](https://github.com/Stono/kconmon) - A Kubernetes node connectivity monitoring tool (today)
-- [s10wen/dotfiles](https://github.com/s10wen/dotfiles) - .files, including ~/.osx — sensible hacker defaults for OS X (today)
-- [imjacobclark/cors-container](https://github.com/imjacobclark/cors-container) - A CORS proxy in a container (Docker) for when you need to `Access-Control-Allow-Origin: *`!  (today)
+- [ivolovikov/fastest-clone](https://github.com/ivolovikov/fastest-clone) - Fast clone library for JavaScript (today)
+- [pasaran/yate](https://github.com/pasaran/yate) - Yet Another Template Engine (today)
+- [rybakit/phive-queue](https://github.com/rybakit/phive-queue) - $queue->push('I can be popped off after', '10 minutes'); (today)
+- [rybakit/msgpack.php](https://github.com/rybakit/msgpack.php) - A pure PHP implementation of the MessagePack serialization format / msgpack.org[PHP] (today)
+- [hbouvier/dns](https://github.com/hbouvier/dns) - A DNS Server with an Web UI and using Redis a configuration store (today)
 
 ## 🔨 Latest Pull Requests I published
 
