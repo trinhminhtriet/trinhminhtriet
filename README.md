@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [yoavf/absolutelyright](https://github.com/yoavf/absolutelyright) - Claude said I'm absolutely right! (today)
-- [shannah/Java-Objective-C-Bridge](https://github.com/shannah/Java-Objective-C-Bridge) - A thin bridge that allows for two-way communication from Java to Objective-C. (today)
-- [shannah/xataface](https://github.com/shannah/xataface) - Framework for building data-driven web applications in PHP and MySQL (today)
-- [shannah/jdeploy](https://github.com/shannah/jdeploy) - Developer friendly desktop deployment tool (today)
-- [cuviper/ssh-pageant](https://github.com/cuviper/ssh-pageant) - An SSH authentication agent for Cygwin/MSYS to PuTTY's Pageant. (today)
+- [trungdq88/logmine](https://github.com/trungdq88/logmine) - A log pattern analyzer CLI (today)
+- [trungdq88/react-router-page-transition](https://github.com/trungdq88/react-router-page-transition) - Highly customizable page transition component for your React Router (today)
+- [trungdq88/github-explorer](https://github.com/trungdq88/github-explorer) - Progressive Web Apps experiment (today)
+- [trungdq88/Awesome-Black-Friday-Cyber-Monday](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday) - Awesome deals on Black Friday: Apps, SaaS, Books, Courses, etc. (today)
+- [saadpasta/react-blog-github](https://github.com/saadpasta/react-blog-github) - 🔥 React + Github Issues    👉 Your Personal Blog  (today)
 
 ## 🔨 Latest Pull Requests I published
 
