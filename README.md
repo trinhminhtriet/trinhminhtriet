@@ -33,16 +33,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👷 Check out what I'm currently working on
 
-- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (today)
-- [trinhminhtriet/dwipe](https://github.com/trinhminhtriet/dwipe) - 🧹 Fast, cross-platform disk cleanup tool with interactive UI for easy directory size visualization. (1 day ago)
+- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (1 day ago)
+- [trinhminhtriet/dwipe](https://github.com/trinhminhtriet/dwipe) - 🧹 Fast, cross-platform disk cleanup tool with interactive UI for easy directory size visualization. (2 days ago)
 - [nctl-io/nctl-roadmap](https://github.com/nctl-io/nctl-roadmap) (1 week ago)
 - [nctl-io/.github](https://github.com/nctl-io/.github) - 🌐 Network. Connect. Transform. Lead. (1 week ago)
 - [nctl-io/nctl-homepage](https://github.com/nctl-io/nctl-homepage) - 🚀 Modern homepage for NCTL: fast, responsive, TypeScript-powered, open source, and easy to customize. (1 week ago)
 - [nctl-io/nctl-branding](https://github.com/nctl-io/nctl-branding) - NCTL Branding 🖼️: Centralized assets and guidelines for consistent visual identity across NCTL projects and platforms. (1 week ago)
 - [trinhminhtriet/sizr](https://github.com/trinhminhtriet/sizr) - 📈 A fast, Rust-based tool to analyze file system usage with colorful output, file aggregation, exclusions, and directory comparisons. (1 week ago)
-- [trinhminhtriet/spiko](https://github.com/trinhminhtriet/spiko) - 🚀 Spiko is a fast, Rust-based load testing tool with a beautiful TUI for real-time insights. (1 week ago)
-- [rust-rs/tabler](https://github.com/rust-rs/tabler) - 📊 Tabler: A lightweight TUI tool to view, query, and navigate CSV, TSV, and Parquet data files. (1 week ago)
-- [trinhminhtriet/java-skel-cli](https://github.com/trinhminhtriet/java-skel-cli) - 🦴 Skel CLI: A command-line tool for generating project skeletons in multiple languages, fast and customizable. (1 week ago)
+- [trinhminhtriet/spiko](https://github.com/trinhminhtriet/spiko) - 🚀 Spiko is a fast, Rust-based load testing tool with a beautiful TUI for real-time insights. (2 weeks ago)
+- [rust-rs/tabler](https://github.com/rust-rs/tabler) - 📊 Tabler: A lightweight TUI tool to view, query, and navigate CSV, TSV, and Parquet data files. (2 weeks ago)
+- [trinhminhtriet/java-skel-cli](https://github.com/trinhminhtriet/java-skel-cli) - 🦴 Skel CLI: A command-line tool for generating project skeletons in multiple languages, fast and customizable. (2 weeks ago)
 
 ## 👯 Check out my recent followers
 
@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [msmsajjadi/EnhanceNet-Code](https://github.com/msmsajjadi/EnhanceNet-Code) - EnhanceNet: Single Image Super-Resolution Through Automated Texture Synthesis (official repository) (today)
-- [msmsajjadi/FRVSR](https://github.com/msmsajjadi/FRVSR) - Frame-Recurrent Video Super-Resolution (official repository) (today)
-- [paulknysh/blackbox](https://github.com/paulknysh/blackbox) - A Python module for parallel optimization of expensive black-box functions (today)
-- [haasad/PyPardiso](https://github.com/haasad/PyPardiso) - Python interface to the Intel MKL Pardiso library to solve large sparse linear systems of equations (today)
-- [ylikx/forpy](https://github.com/ylikx/forpy) - Forpy - use Python from Fortran (today)
+- [expectocode/telegram-export](https://github.com/expectocode/telegram-export) - Export Telegram chat data and history (today)
+- [matt-major/do-wrapper](https://github.com/matt-major/do-wrapper) - A Node.js wrapper for the Digital Ocean v2 API (today)
+- [Stono/kconmon](https://github.com/Stono/kconmon) - A Kubernetes node connectivity monitoring tool (today)
+- [s10wen/dotfiles](https://github.com/s10wen/dotfiles) - .files, including ~/.osx — sensible hacker defaults for OS X (today)
+- [imjacobclark/cors-container](https://github.com/imjacobclark/cors-container) - A CORS proxy in a container (Docker) for when you need to `Access-Control-Allow-Origin: *`!  (today)
 
 ## 🔨 Latest Pull Requests I published
 
