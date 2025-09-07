@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [NamesMT](https://github.com/NamesMT)
 - [viiku](https://github.com/viiku)
 - [seniru-dilmith](https://github.com/seniru-dilmith)
 - [Ahmednoorani258](https://github.com/Ahmednoorani258)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [macrespo42](https://github.com/macrespo42)
 - [SanidhyaDixit](https://github.com/SanidhyaDixit)
 - [onamfc](https://github.com/onamfc)
-- [syedshameersarwar](https://github.com/syedshameersarwar)
 
 ## ⭐ Recent stars
 
-- [MCGallaspy/dr_strangetemplate](https://github.com/MCGallaspy/dr_strangetemplate) - A guide for the rest of us on using C++ templates. (today)
-- [tomchen/example-typescript-package](https://github.com/tomchen/example-typescript-package) - Example TypeScript Package ready to be published on npm & Tutorial / Instruction / Workflow for 2021 (today)
-- [alemidev/scope-tui](https://github.com/alemidev/scope-tui) - a simple oscilloscope/vectorscope/spectroscope for your terminal (today)
-- [FabioAntunes/fish-nvm](https://github.com/FabioAntunes/fish-nvm) - nvm wrapper for fish-shell  (today)
-- [chrisgreg/bloom](https://github.com/chrisgreg/bloom) - The opinionated extension to Phoenix core_components (today)
+- [yfuks/react-native-action-sheet](https://github.com/yfuks/react-native-action-sheet) - React native simple action sheet with native android (using the built-in AlertDialog) (today)
+- [wimagguc/jquery-eu-cookie-law-popup](https://github.com/wimagguc/jquery-eu-cookie-law-popup) - An easy-to-install jQuery plugin to create EU Cookie Law popups (today)
+- [wimagguc/jquery-latitude-longitude-picker-gmaps](https://github.com/wimagguc/jquery-latitude-longitude-picker-gmaps) - A jQuery plugin that creates a Latitude and Longitude picker using Google Maps. (today)
+- [wimagguc/ios-custom-alertview](https://github.com/wimagguc/ios-custom-alertview) - Custom UIAlertView. Continue adding images and UIViews to dialogs in iOS7+ (today)
+- [samsondav/rihanna](https://github.com/samsondav/rihanna) - Rihanna is a high performance postgres-backed job queue for Elixir (today)
 
 ## 🔨 Latest Pull Requests I published
 
