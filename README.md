@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [tomchen/example-typescript-package](https://github.com/tomchen/example-typescript-package) - Example TypeScript Package ready to be published on npm & Tutorial / Instruction / Workflow for 2021 (today)
+- [alemidev/scope-tui](https://github.com/alemidev/scope-tui) - a simple oscilloscope/vectorscope/spectroscope for your terminal (today)
+- [FabioAntunes/fish-nvm](https://github.com/FabioAntunes/fish-nvm) - nvm wrapper for fish-shell  (today)
+- [chrisgreg/bloom](https://github.com/chrisgreg/bloom) - The opinionated extension to Phoenix core_components (today)
 - [ivolovikov/fastest-clone](https://github.com/ivolovikov/fastest-clone) - Fast clone library for JavaScript (today)
-- [pasaran/yate](https://github.com/pasaran/yate) - Yet Another Template Engine (today)
-- [rybakit/phive-queue](https://github.com/rybakit/phive-queue) - $queue->push('I can be popped off after', '10 minutes'); (today)
-- [rybakit/msgpack.php](https://github.com/rybakit/msgpack.php) - A pure PHP implementation of the MessagePack serialization format / msgpack.org[PHP] (today)
-- [hbouvier/dns](https://github.com/hbouvier/dns) - A DNS Server with an Web UI and using Redis a configuration store (today)
 
 ## 🔨 Latest Pull Requests I published
 
