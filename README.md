@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [MCGallaspy/dr_strangetemplate](https://github.com/MCGallaspy/dr_strangetemplate) - A guide for the rest of us on using C++ templates. (today)
 - [tomchen/example-typescript-package](https://github.com/tomchen/example-typescript-package) - Example TypeScript Package ready to be published on npm & Tutorial / Instruction / Workflow for 2021 (today)
 - [alemidev/scope-tui](https://github.com/alemidev/scope-tui) - a simple oscilloscope/vectorscope/spectroscope for your terminal (today)
 - [FabioAntunes/fish-nvm](https://github.com/FabioAntunes/fish-nvm) - nvm wrapper for fish-shell  (today)
 - [chrisgreg/bloom](https://github.com/chrisgreg/bloom) - The opinionated extension to Phoenix core_components (today)
-- [ivolovikov/fastest-clone](https://github.com/ivolovikov/fastest-clone) - Fast clone library for JavaScript (today)
 
 ## 🔨 Latest Pull Requests I published
 
