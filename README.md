@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [mgriebling/SwiftMath](https://github.com/mgriebling/SwiftMath) - SwiftMath provides a full Swift implementation of iosMath for displaying beautifully rendered math equations in iOS and MacOS applications. It typesets formulae written using LaTeX math mode in a UILabel equivalent class. (today)
-- [ventali/awesome-zk](https://github.com/ventali/awesome-zk) - A curated list of awesome ZK resources, libraries, tools and more.   (today)
-- [thomasj02/DeepLearningProjectWorkflow](https://github.com/thomasj02/DeepLearningProjectWorkflow) - Machine Learning Workflow, from Andrew Ng's lecture at Deep Learning Summer School 2016 (today)
-- [pac-dev/protoplug](https://github.com/pac-dev/protoplug) - Create audio plugins on-the-fly with LuaJIT. (today)
-- [andrewdwallo/filament-companies](https://github.com/andrewdwallo/filament-companies) - A comprehensive Laravel authentication and authorization system designed for Filament, focusing on multi-tenant company management. (today)
+- [miyyer/scpn](https://github.com/miyyer/scpn) - syntactically controlled paraphrase networks (today)
+- [miyyer/dan](https://github.com/miyyer/dan) - Deep Averaging Networks (today)
+- [traverseda/pycraft](https://github.com/traverseda/pycraft) - A fork of "Minecraft in 500 lines of python" intended to someday be used as a real engine, instead of as a learning example. (today)
+- [harish-io/Impressionist](https://github.com/harish-io/Impressionist) - Visual tool to create impress.js presentations (today)
+- [abperiasamy/rtl8812AU_8821AU_linux](https://github.com/abperiasamy/rtl8812AU_8821AU_linux) - rtl8812AU_8821AU linux kernel driver for AC1200 (801.11ac) Wireless Dual-Band USB Adapter (today)
 
 ## 🔨 Latest Pull Requests I published
 
