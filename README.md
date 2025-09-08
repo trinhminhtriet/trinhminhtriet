@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [githubnemo/CompileDaemon](https://github.com/githubnemo/CompileDaemon) - Very simple compile daemon for Go (today)
 - [CDSecurity/audits](https://github.com/CDSecurity/audits) (today)
 - [bleedline/Awesome-gptlike-shellsite](https://github.com/bleedline/Awesome-gptlike-shellsite) - 深入探索精选的套壳站和必备API资源。本文为初学者和经验丰富的运营者提供一站式指南，涵盖常见问题解答和基础攻略，助您迈向套壳站副业成功之路。Dive into a curated selection of shell sites and essential APIs. This article offers a comprehensive guide for both beginners and seasoned operators, covering FAQs and basic strategies to propel you towards success in your shell site side hustle. (today)
 - [bleedline/aimoneyhunter](https://github.com/bleedline/aimoneyhunter) - ai副业赚钱大集合，教你如何利用ai做一些副业项目，赚取更多额外收益。The Ultimate Guide to Making Money with AI Side Hustles: Learn how to leverage AI for some cool side gigs and rake in some extra cash. Check out the English version for more insights. (today)
 - [mqzhangw/JIMU](https://github.com/mqzhangw/JIMU) - 一种简单有效的android组件化方案，支持组件的代码资源隔离、单独调试、集成调试、组件交互、UI跳转、生命周期等完整功能。 (today)
-- [safemoonprotocol/Safemoon.sol](https://github.com/safemoonprotocol/Safemoon.sol) - safemoon contract (today)
 
 ## 🔨 Latest Pull Requests I published
 
