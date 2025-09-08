@@ -55,7 +55,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [erdemskywalker](https://github.com/erdemskywalker)
 - [BEPb](https://github.com/BEPb)
 - [ashiq72](https://github.com/ashiq72)
-- [ishandutta2007](https://github.com/ishandutta2007)
+- [viiku](https://github.com/viiku)
 
 ## ⭐ Recent stars
 
