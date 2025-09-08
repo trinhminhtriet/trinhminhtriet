@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [roshan-bajgain](https://github.com/roshan-bajgain)
 - [erdemskywalker](https://github.com/erdemskywalker)
 - [BEPb](https://github.com/BEPb)
 - [ashiq72](https://github.com/ashiq72)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Ahmednoorani258](https://github.com/Ahmednoorani258)
 - [davidsmorais](https://github.com/davidsmorais)
 - [abdelhadi-haddadi](https://github.com/abdelhadi-haddadi)
-- [macrespo42](https://github.com/macrespo42)
 
 ## ⭐ Recent stars
 
