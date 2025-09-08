@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [ishandutta2007](https://github.com/ishandutta2007)
 - [DIMFLIX](https://github.com/DIMFLIX)
 - [emilycodestar](https://github.com/emilycodestar)
 - [steve2700](https://github.com/steve2700)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [erdemskywalker](https://github.com/erdemskywalker)
 - [BEPb](https://github.com/BEPb)
 - [ashiq72](https://github.com/ashiq72)
-- [viiku](https://github.com/viiku)
 
 ## ⭐ Recent stars
 
