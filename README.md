@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [steve2700](https://github.com/steve2700)
 - [VictoriaCabirta](https://github.com/VictoriaCabirta)
 - [ClaudiaRojasSoto](https://github.com/ClaudiaRojasSoto)
 - [roshan-bajgain](https://github.com/roshan-bajgain)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [ishandutta2007](https://github.com/ishandutta2007)
 - [viiku](https://github.com/viiku)
 - [seniru-dilmith](https://github.com/seniru-dilmith)
-- [Ahmednoorani258](https://github.com/Ahmednoorani258)
 
 ## ⭐ Recent stars
 
-- [renanlecaro/importabular](https://github.com/renanlecaro/importabular) - 5kb spreadsheet editor for the web, let your users import their data from excel. (today)
-- [MikeKovarik/exifr](https://github.com/MikeKovarik/exifr) - 📷 The fastest and most versatile JS EXIF reading library. (today)
-- [romainbutteaud/Kaffeine](https://github.com/romainbutteaud/Kaffeine) - Keeping free Heroku apps awake. (today)
-- [sickworm/MISportsConnectWidget](https://github.com/sickworm/MISportsConnectWidget) - 【仿写酷界面】【HenCoder】仿小米运动的运动记录界面 (today)
-- [bassamanator/everything-sovol-sv06](https://github.com/bassamanator/everything-sovol-sv06) - A repository containing specifications of the Sovol SV06 3D printer. ⭐ Star to support this work!  (today)
+- [0xpranay/solidity-notes](https://github.com/0xpranay/solidity-notes) - A bunch of notes for beginners learning solidity (today)
+- [bogkonstantin/android_income_sms_gateway_webhook](https://github.com/bogkonstantin/android_income_sms_gateway_webhook) - Simple Android incoming SMS to URL forwarder (today)
+- [megahertz/react-simple-wysiwyg](https://github.com/megahertz/react-simple-wysiwyg) - Simple and lightweight React WYSIWYG editor (today)
+- [megahertz/electron-simple-updater](https://github.com/megahertz/electron-simple-updater) - Simple way to enable update for the electron application (today)
+- [megahertz/electron-log](https://github.com/megahertz/electron-log) - Simple logging module Electron/Node.js/NW.js application. No dependencies. No complicated configuration. (today)
 
 ## 🔨 Latest Pull Requests I published
 
