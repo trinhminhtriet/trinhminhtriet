@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [Arijit-SE/Java-Solutions-TCS-IPA-Questions](https://github.com/Arijit-SE/Java-Solutions-TCS-IPA-Questions) - Java Solutions of TCS IPA exam. 35 marks and 15 marks questions are solved. (today)
 - [sonph/onehalf](https://github.com/sonph/onehalf) - Clean, vibrant and pleasing color schemes for Vim, Sublime Text, iTerm, gnome-terminal and more. (today)
 - [bmwant/hapless](https://github.com/bmwant/hapless) - Run and manage background processes (today)
 - [abhiag/nubit_light_Node](https://github.com/abhiag/nubit_light_Node) (today)
 - [0xpranay/solidity-notes](https://github.com/0xpranay/solidity-notes) - A bunch of notes for beginners learning solidity (today)
-- [bogkonstantin/android_income_sms_gateway_webhook](https://github.com/bogkonstantin/android_income_sms_gateway_webhook) - Simple Android incoming SMS to URL forwarder (today)
 
 ## 🔨 Latest Pull Requests I published
 
