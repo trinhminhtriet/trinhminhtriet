@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [abhiag/nubit_light_Node](https://github.com/abhiag/nubit_light_Node) (today)
 - [0xpranay/solidity-notes](https://github.com/0xpranay/solidity-notes) - A bunch of notes for beginners learning solidity (today)
 - [bogkonstantin/android_income_sms_gateway_webhook](https://github.com/bogkonstantin/android_income_sms_gateway_webhook) - Simple Android incoming SMS to URL forwarder (today)
 - [megahertz/react-simple-wysiwyg](https://github.com/megahertz/react-simple-wysiwyg) - Simple and lightweight React WYSIWYG editor (today)
 - [megahertz/electron-simple-updater](https://github.com/megahertz/electron-simple-updater) - Simple way to enable update for the electron application (today)
-- [megahertz/electron-log](https://github.com/megahertz/electron-log) - Simple logging module Electron/Node.js/NW.js application. No dependencies. No complicated configuration. (today)
 
 ## 🔨 Latest Pull Requests I published
 
