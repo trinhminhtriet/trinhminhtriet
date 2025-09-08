@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [ClaudiaRojasSoto](https://github.com/ClaudiaRojasSoto)
 - [roshan-bajgain](https://github.com/roshan-bajgain)
 - [erdemskywalker](https://github.com/erdemskywalker)
 - [BEPb](https://github.com/BEPb)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [seniru-dilmith](https://github.com/seniru-dilmith)
 - [Ahmednoorani258](https://github.com/Ahmednoorani258)
 - [davidsmorais](https://github.com/davidsmorais)
-- [abdelhadi-haddadi](https://github.com/abdelhadi-haddadi)
 
 ## ⭐ Recent stars
 
