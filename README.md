@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [VictoriaCabirta](https://github.com/VictoriaCabirta)
 - [ClaudiaRojasSoto](https://github.com/ClaudiaRojasSoto)
 - [roshan-bajgain](https://github.com/roshan-bajgain)
 - [erdemskywalker](https://github.com/erdemskywalker)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [viiku](https://github.com/viiku)
 - [seniru-dilmith](https://github.com/seniru-dilmith)
 - [Ahmednoorani258](https://github.com/Ahmednoorani258)
-- [davidsmorais](https://github.com/davidsmorais)
 
 ## ⭐ Recent stars
 
-- [mementum/backtrader](https://github.com/mementum/backtrader) - Python Backtesting library for trading strategies (1 day ago)
-- [quantopian/zipline](https://github.com/quantopian/zipline) - Zipline, a Pythonic Algorithmic Trading Library (1 day ago)
-- [AI4Finance-Foundation/FinRobot](https://github.com/AI4Finance-Foundation/FinRobot) - FinRobot: An Open-Source AI Agent Platform for Financial Analysis using LLMs 🚀 🚀 🚀  (1 day ago)
-- [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) - TradingAgents: Multi-Agents LLM Financial Trading Framework (1 day ago)
-- [georgezouq/awesome-ai-in-finance](https://github.com/georgezouq/awesome-ai-in-finance) - 🔬 A curated list of awesome LLMs & deep learning strategies & tools in financial market. (1 day ago)
+- [renanlecaro/importabular](https://github.com/renanlecaro/importabular) - 5kb spreadsheet editor for the web, let your users import their data from excel. (today)
+- [MikeKovarik/exifr](https://github.com/MikeKovarik/exifr) - 📷 The fastest and most versatile JS EXIF reading library. (today)
+- [romainbutteaud/Kaffeine](https://github.com/romainbutteaud/Kaffeine) - Keeping free Heroku apps awake. (today)
+- [sickworm/MISportsConnectWidget](https://github.com/sickworm/MISportsConnectWidget) - 【仿写酷界面】【HenCoder】仿小米运动的运动记录界面 (today)
+- [bassamanator/everything-sovol-sv06](https://github.com/bassamanator/everything-sovol-sv06) - A repository containing specifications of the Sovol SV06 3D printer. ⭐ Star to support this work!  (today)
 
 ## 🔨 Latest Pull Requests I published
 
