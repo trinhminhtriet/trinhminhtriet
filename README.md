@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [justzloy](https://github.com/justzloy)
 - [steve2700](https://github.com/steve2700)
 - [VictoriaCabirta](https://github.com/VictoriaCabirta)
 - [ClaudiaRojasSoto](https://github.com/ClaudiaRojasSoto)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [ashiq72](https://github.com/ashiq72)
 - [ishandutta2007](https://github.com/ishandutta2007)
 - [viiku](https://github.com/viiku)
-- [seniru-dilmith](https://github.com/seniru-dilmith)
 
 ## ⭐ Recent stars
 
+- [sonph/onehalf](https://github.com/sonph/onehalf) - Clean, vibrant and pleasing color schemes for Vim, Sublime Text, iTerm, gnome-terminal and more. (today)
+- [bmwant/hapless](https://github.com/bmwant/hapless) - Run and manage background processes (today)
 - [abhiag/nubit_light_Node](https://github.com/abhiag/nubit_light_Node) (today)
 - [0xpranay/solidity-notes](https://github.com/0xpranay/solidity-notes) - A bunch of notes for beginners learning solidity (today)
 - [bogkonstantin/android_income_sms_gateway_webhook](https://github.com/bogkonstantin/android_income_sms_gateway_webhook) - Simple Android incoming SMS to URL forwarder (today)
-- [megahertz/react-simple-wysiwyg](https://github.com/megahertz/react-simple-wysiwyg) - Simple and lightweight React WYSIWYG editor (today)
-- [megahertz/electron-simple-updater](https://github.com/megahertz/electron-simple-updater) - Simple way to enable update for the electron application (today)
 
 ## 🔨 Latest Pull Requests I published
 
