@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [aviraxp/ZN-AuditPatch](https://github.com/aviraxp/ZN-AuditPatch) - Replace sensitive context in audit log (today)
-- [aviraxp/Zygisk-KeystoreInjection](https://github.com/aviraxp/Zygisk-KeystoreInjection) - Generate a valid certificate chain from scratch by injecting custom Keystore provider (today)
-- [jamesward/kubernetes-the-easy-way](https://github.com/jamesward/kubernetes-the-easy-way) - Bootstrap Kubernetes the easy way on Google Cloud Platform. No scripts. (today)
-- [jamesward/play2torial](https://github.com/jamesward/play2torial) (today)
-- [jamesward/easyracer](https://github.com/jamesward/easyracer) - A series of obstacle courses as a way to compare how different languages and frameworks handle structured concurrency (today)
+- [dgarcia360/openapi-boilerplate](https://github.com/dgarcia360/openapi-boilerplate) - 📘 Multi-file boilerplate for Open API Specification (today)
+- [shibumi/SRE-cheat-sheet](https://github.com/shibumi/SRE-cheat-sheet) - A vocabulary collection for SREs (today)
+- [aledbf/kube-keepalived-vip](https://github.com/aledbf/kube-keepalived-vip) - Kubernetes Virtual IP address/es using keepalived (today)
+- [kvz/system_daemon](https://github.com/kvz/system_daemon) - Discontinued. All the boilerplate required to daemonize php (today)
+- [kvz/cakephp-rest-plugin](https://github.com/kvz/cakephp-rest-plugin) - Discontinued: recent cakephp versions overlap functionality, there also is @ceeram's plugin. Painless REST server Plugin for CakePHP (today)
 
 ## 🔨 Latest Pull Requests I published
 
