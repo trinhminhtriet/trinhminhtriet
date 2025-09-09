@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [ScorpioFento](https://github.com/ScorpioFento)
 - [ishandutta2007](https://github.com/ishandutta2007)
 - [DIMFLIX](https://github.com/DIMFLIX)
 - [emilycodestar](https://github.com/emilycodestar)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [roshan-bajgain](https://github.com/roshan-bajgain)
 - [erdemskywalker](https://github.com/erdemskywalker)
 - [BEPb](https://github.com/BEPb)
-- [ashiq72](https://github.com/ashiq72)
 
 ## ⭐ Recent stars
 
-- [pngwn/svelte-travel-transitions](https://github.com/pngwn/svelte-travel-transitions) - Native-like Page Transitions with SvelteKit, A Travel App. (today)
-- [indexzero/nodejs-intro](https://github.com/indexzero/nodejs-intro) - My introduction presentation to node.js along with sample code at various stages of building a simple RESTful web service with director, cradle, winston, optimist, and http-console. (today)
-- [indexzero/ps-tree](https://github.com/indexzero/ps-tree) (today)
-- [indexzero/node-pkginfo](https://github.com/indexzero/node-pkginfo) - An easy way to expose properties on a module from a package.json (today)
-- [indexzero/broadway](https://github.com/indexzero/broadway) - Lightweight App extensibility and hookable middleware customization. (today)
+- [aviraxp/ZN-AuditPatch](https://github.com/aviraxp/ZN-AuditPatch) - Replace sensitive context in audit log (today)
+- [aviraxp/Zygisk-KeystoreInjection](https://github.com/aviraxp/Zygisk-KeystoreInjection) - Generate a valid certificate chain from scratch by injecting custom Keystore provider (today)
+- [jamesward/kubernetes-the-easy-way](https://github.com/jamesward/kubernetes-the-easy-way) - Bootstrap Kubernetes the easy way on Google Cloud Platform. No scripts. (today)
+- [jamesward/play2torial](https://github.com/jamesward/play2torial) (today)
+- [jamesward/easyracer](https://github.com/jamesward/easyracer) - A series of obstacle courses as a way to compare how different languages and frameworks handle structured concurrency (today)
 
 ## 🔨 Latest Pull Requests I published
 
