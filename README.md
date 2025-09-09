@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [smketterer](https://github.com/smketterer)
 - [ScorpioFento](https://github.com/ScorpioFento)
 - [ishandutta2007](https://github.com/ishandutta2007)
 - [DIMFLIX](https://github.com/DIMFLIX)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [ClaudiaRojasSoto](https://github.com/ClaudiaRojasSoto)
 - [roshan-bajgain](https://github.com/roshan-bajgain)
 - [erdemskywalker](https://github.com/erdemskywalker)
-- [BEPb](https://github.com/BEPb)
 
 ## ⭐ Recent stars
 
+- [wsshin/jemdoc_mathjax](https://github.com/wsshin/jemdoc_mathjax) - jemdoc with MathJax support and more (today)
+- [danielvarga/string-art](https://github.com/danielvarga/string-art) (today)
+- [danielvarga/keras-finetuning](https://github.com/danielvarga/keras-finetuning) - Training an InceptionV3-based image classifier with your own dataset (today)
+- [rellimmot/Sony-IMX219-Raspberry-Pi-V2-CMOS](https://github.com/rellimmot/Sony-IMX219-Raspberry-Pi-V2-CMOS) - Sony IMX219 Raspberry Pi V2 CMOS Datasheet and Source Code (today)
 - [khaledh/pagemagic](https://github.com/khaledh/pagemagic) - A Chrome extension that uses AI to customize the appearance of any web page (today)
-- [khaledh/fusion](https://github.com/khaledh/fusion) - A hobby OS implemented in Nim https://0xc0ffee.netlify.app/osdev (today)
-- [rixwew/pytorch-fm](https://github.com/rixwew/pytorch-fm) - Factorization Machine models in PyTorch (today)
-- [omarabid/Self-Hosted-WordPress-Plugin-repository](https://github.com/omarabid/Self-Hosted-WordPress-Plugin-repository) - Create your own self-hosted WordPress Plugin repository for pushing automatic updates. (today)
-- [omarabid/rust-companies](https://github.com/omarabid/rust-companies) - A list of companies using Rust in production.  (today)
 
 ## 🔨 Latest Pull Requests I published
 
