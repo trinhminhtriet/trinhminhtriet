@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [mukulhase/WebWhatsapp-Wrapper](https://github.com/mukulhase/WebWhatsapp-Wrapper) - An API for sending and receiving messages over web.whatsapp [Working as of 18th May 2018] (today)
-- [MelbourneDeveloper/RestClient.Net](https://github.com/MelbourneDeveloper/RestClient.Net) - .NET REST Client Framework for all platforms (today)
-- [MelbourneDeveloper/Device.Net](https://github.com/MelbourneDeveloper/Device.Net) - A C# cross platform connected device framework (today)
-- [justinmc/flutter-lazy-performance](https://github.com/justinmc/flutter-lazy-performance) - An example app for exploring Flutter's performance when handling heavy off-screen widgets. (today)
-- [justinmc/react-audio-player](https://github.com/justinmc/react-audio-player) - A simple React wrapper on the HTML5 audio tag (today)
+- [yuanchenyang/smalldiffusion](https://github.com/yuanchenyang/smalldiffusion) - Simple and readable code for training and sampling from diffusion models (today)
+- [sandordargo/cpp-resources](https://github.com/sandordargo/cpp-resources) - C++ Learning Resources (today)
+- [amyxlu/cheap-proteins](https://github.com/amyxlu/cheap-proteins) - Joint embedding of protein sequence and structure with discrete and continuous compressions of protein folding model latent spaces. http://bit.ly/cheap-proteins (today)
+- [pimentel/deep_learning_papers](https://github.com/pimentel/deep_learning_papers) - A place to collect papers that are related to deep learning and computational biology (today)
+- [davek44/Basset](https://github.com/davek44/Basset) - Convolutional neural network analysis for predicting DNA sequence activity. (today)
 
 ## 🔨 Latest Pull Requests I published
 
