@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [yuanchenyang/smalldiffusion](https://github.com/yuanchenyang/smalldiffusion) - Simple and readable code for training and sampling from diffusion models (today)
-- [sandordargo/cpp-resources](https://github.com/sandordargo/cpp-resources) - C++ Learning Resources (today)
-- [amyxlu/cheap-proteins](https://github.com/amyxlu/cheap-proteins) - Joint embedding of protein sequence and structure with discrete and continuous compressions of protein folding model latent spaces. http://bit.ly/cheap-proteins (today)
-- [pimentel/deep_learning_papers](https://github.com/pimentel/deep_learning_papers) - A place to collect papers that are related to deep learning and computational biology (today)
-- [davek44/Basset](https://github.com/davek44/Basset) - Convolutional neural network analysis for predicting DNA sequence activity. (today)
+- [VivienCormier/UIViewAnimationExplose](https://github.com/VivienCormier/UIViewAnimationExplose) - For UIView separation with animation (today)
+- [VivienCormier/UIImageViewModeScaleAspect](https://github.com/VivienCormier/UIImageViewModeScaleAspect) - Create animation of a UIImageView between twice contentMode ( UIViewContentModeScaleAspectFill / UIViewContentModeScaleAspectFit ) (today)
+- [rlabduke/reduce](https://github.com/rlabduke/reduce) - Reduce - tool for adding and correcting hydrogens in PDB files (today)
+- [mittinatten/freesasa](https://github.com/mittinatten/freesasa) - C-library for calculating Solvent Accessible Surface Areas (today)
+- [omarwagih/ggseqlogo](https://github.com/omarwagih/ggseqlogo) - Publication-quality sequence logos in R (today)
 
 ## 🔨 Latest Pull Requests I published
 
