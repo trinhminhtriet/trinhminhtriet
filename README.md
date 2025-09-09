@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [ckaestne/seaibib](https://github.com/ckaestne/seaibib) - Software Engineering for AI/ML -- An Annotated Bibliography (today)
-- [ckaestne/seai](https://github.com/ckaestne/seai) - CMU Lecture: Machine Learning In Production / AI Engineering / Software Engineering for AI-Enabled Systems (SE4AI) (today)
-- [nicbet/docker-phoenix](https://github.com/nicbet/docker-phoenix) - A dockerized Phoenix development and runtime environment. (today)
-- [rsrohan99/tig](https://github.com/rsrohan99/tig) - Terminal-based AI Coding Agent, similar to Claude Code, OpenAI Codex etc. but works with many more LLMs e.g. Gemini, Groq, Deepseek (today)
-- [rsrohan99/llamaindex-docs-agent](https://github.com/rsrohan99/llamaindex-docs-agent) - Full stack advanced chatbot over LlamaIndex.TS documentation with preview feature using Multi-documents-agents, bootstrapped with create-llama (today)
+- [khaledh/pagemagic](https://github.com/khaledh/pagemagic) - A Chrome extension that uses AI to customize the appearance of any web page (today)
+- [khaledh/fusion](https://github.com/khaledh/fusion) - A hobby OS implemented in Nim https://0xc0ffee.netlify.app/osdev (today)
+- [rixwew/pytorch-fm](https://github.com/rixwew/pytorch-fm) - Factorization Machine models in PyTorch (today)
+- [omarabid/Self-Hosted-WordPress-Plugin-repository](https://github.com/omarabid/Self-Hosted-WordPress-Plugin-repository) - Create your own self-hosted WordPress Plugin repository for pushing automatic updates. (today)
+- [omarabid/rust-companies](https://github.com/omarabid/rust-companies) - A list of companies using Rust in production.  (today)
 
 ## 🔨 Latest Pull Requests I published
 
