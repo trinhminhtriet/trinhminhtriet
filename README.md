@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [dgarcia360/openapi-boilerplate](https://github.com/dgarcia360/openapi-boilerplate) - 📘 Multi-file boilerplate for Open API Specification (today)
-- [shibumi/SRE-cheat-sheet](https://github.com/shibumi/SRE-cheat-sheet) - A vocabulary collection for SREs (today)
-- [aledbf/kube-keepalived-vip](https://github.com/aledbf/kube-keepalived-vip) - Kubernetes Virtual IP address/es using keepalived (today)
-- [kvz/system_daemon](https://github.com/kvz/system_daemon) - Discontinued. All the boilerplate required to daemonize php (today)
-- [kvz/cakephp-rest-plugin](https://github.com/kvz/cakephp-rest-plugin) - Discontinued: recent cakephp versions overlap functionality, there also is @ceeram's plugin. Painless REST server Plugin for CakePHP (today)
+- [mukulhase/WebWhatsapp-Wrapper](https://github.com/mukulhase/WebWhatsapp-Wrapper) - An API for sending and receiving messages over web.whatsapp [Working as of 18th May 2018] (today)
+- [MelbourneDeveloper/RestClient.Net](https://github.com/MelbourneDeveloper/RestClient.Net) - .NET REST Client Framework for all platforms (today)
+- [MelbourneDeveloper/Device.Net](https://github.com/MelbourneDeveloper/Device.Net) - A C# cross platform connected device framework (today)
+- [justinmc/flutter-lazy-performance](https://github.com/justinmc/flutter-lazy-performance) - An example app for exploring Flutter's performance when handling heavy off-screen widgets. (today)
+- [justinmc/react-audio-player](https://github.com/justinmc/react-audio-player) - A simple React wrapper on the HTML5 audio tag (today)
 
 ## 🔨 Latest Pull Requests I published
 
