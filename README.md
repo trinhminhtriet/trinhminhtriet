@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [ijjk/notion-blog](https://github.com/ijjk/notion-blog) - A Next.js site using new SSG support with a Notion backed blog (today)
-- [mishushakov/dialogflow-web](https://github.com/mishushakov/dialogflow-web) - Web App for Dialogflow (today)
-- [mishushakov/signin-with-matrix](https://github.com/mishushakov/signin-with-matrix) - Federated sign-in component for your web app (using Matrix) (today)
-- [mishushakov/dialogflow-web-v2](https://github.com/mishushakov/dialogflow-web-v2) - Dialogflow Web Integration. Supports rich components (today)
-- [mishushakov/llm-scraper](https://github.com/mishushakov/llm-scraper) - Turn any webpage into structured data using LLMs (today)
+- [pngwn/svelte-travel-transitions](https://github.com/pngwn/svelte-travel-transitions) - Native-like Page Transitions with SvelteKit, A Travel App. (today)
+- [indexzero/nodejs-intro](https://github.com/indexzero/nodejs-intro) - My introduction presentation to node.js along with sample code at various stages of building a simple RESTful web service with director, cradle, winston, optimist, and http-console. (today)
+- [indexzero/ps-tree](https://github.com/indexzero/ps-tree) (today)
+- [indexzero/node-pkginfo](https://github.com/indexzero/node-pkginfo) - An easy way to expose properties on a module from a package.json (today)
+- [indexzero/broadway](https://github.com/indexzero/broadway) - Lightweight App extensibility and hookable middleware customization. (today)
 
 ## 🔨 Latest Pull Requests I published
 
