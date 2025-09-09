@@ -33,13 +33,13 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👷 Check out what I'm currently working on
 
-- [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) - 🚀 All-in-one CLI toolkit for developers: scaffold, manage, automate, and boost productivity across languages! (1 day ago)
-- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (1 day ago)
-- [trinhminhtriet/dwipe](https://github.com/trinhminhtriet/dwipe) - 🧹 Fast, cross-platform disk cleanup tool with interactive UI for easy directory size visualization. (3 days ago)
+- [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) - 🚀 All-in-one CLI toolkit for developers: scaffold, manage, automate, and boost productivity across languages! (2 days ago)
+- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (2 days ago)
+- [trinhminhtriet/dwipe](https://github.com/trinhminhtriet/dwipe) - 🧹 Fast, cross-platform disk cleanup tool with interactive UI for easy directory size visualization. (4 days ago)
 - [nctl-io/nctl-roadmap](https://github.com/nctl-io/nctl-roadmap) (1 week ago)
 - [nctl-io/.github](https://github.com/nctl-io/.github) - 🌐 Network. Connect. Transform. Lead. (1 week ago)
-- [nctl-io/nctl-branding](https://github.com/nctl-io/nctl-branding) - NCTL Branding 🖼️: Centralized assets and guidelines for consistent visual identity across NCTL projects and platforms. (1 week ago)
-- [nctl-io/nctl-homepage](https://github.com/nctl-io/nctl-homepage) - 🚀 Modern homepage for NCTL: fast, responsive, TypeScript-powered, open source, and easy to customize. (1 week ago)
+- [nctl-io/nctl-branding](https://github.com/nctl-io/nctl-branding) - NCTL Branding 🖼️: Centralized assets and guidelines for consistent visual identity across NCTL projects and platforms. (2 weeks ago)
+- [nctl-io/nctl-homepage](https://github.com/nctl-io/nctl-homepage) - 🚀 Modern homepage for NCTL: fast, responsive, TypeScript-powered, open source, and easy to customize. (2 weeks ago)
 - [trinhminhtriet/sizr](https://github.com/trinhminhtriet/sizr) - 📈 A fast, Rust-based tool to analyze file system usage with colorful output, file aggregation, exclusions, and directory comparisons. (2 weeks ago)
 - [trinhminhtriet/spiko](https://github.com/trinhminhtriet/spiko) - 🚀 Spiko is a fast, Rust-based load testing tool with a beautiful TUI for real-time insights. (2 weeks ago)
 - [rust-rs/tabler](https://github.com/rust-rs/tabler) - 📊 Tabler: A lightweight TUI tool to view, query, and navigate CSV, TSV, and Parquet data files. (2 weeks ago)
@@ -59,14 +59,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [githubnemo/CompileDaemon](https://github.com/githubnemo/CompileDaemon) - Very simple compile daemon for Go (today)
-- [CDSecurity/audits](https://github.com/CDSecurity/audits) (today)
-- [bleedline/Awesome-gptlike-shellsite](https://github.com/bleedline/Awesome-gptlike-shellsite) - 深入探索精选的套壳站和必备API资源。本文为初学者和经验丰富的运营者提供一站式指南，涵盖常见问题解答和基础攻略，助您迈向套壳站副业成功之路。Dive into a curated selection of shell sites and essential APIs. This article offers a comprehensive guide for both beginners and seasoned operators, covering FAQs and basic strategies to propel you towards success in your shell site side hustle. (today)
-- [bleedline/aimoneyhunter](https://github.com/bleedline/aimoneyhunter) - ai副业赚钱大集合，教你如何利用ai做一些副业项目，赚取更多额外收益。The Ultimate Guide to Making Money with AI Side Hustles: Learn how to leverage AI for some cool side gigs and rake in some extra cash. Check out the English version for more insights. (today)
-- [mqzhangw/JIMU](https://github.com/mqzhangw/JIMU) - 一种简单有效的android组件化方案，支持组件的代码资源隔离、单独调试、集成调试、组件交互、UI跳转、生命周期等完整功能。 (today)
+- [githubnemo/CompileDaemon](https://github.com/githubnemo/CompileDaemon) - Very simple compile daemon for Go (1 day ago)
+- [CDSecurity/audits](https://github.com/CDSecurity/audits) (1 day ago)
+- [bleedline/Awesome-gptlike-shellsite](https://github.com/bleedline/Awesome-gptlike-shellsite) - 深入探索精选的套壳站和必备API资源。本文为初学者和经验丰富的运营者提供一站式指南，涵盖常见问题解答和基础攻略，助您迈向套壳站副业成功之路。Dive into a curated selection of shell sites and essential APIs. This article offers a comprehensive guide for both beginners and seasoned operators, covering FAQs and basic strategies to propel you towards success in your shell site side hustle. (1 day ago)
+- [bleedline/aimoneyhunter](https://github.com/bleedline/aimoneyhunter) - ai副业赚钱大集合，教你如何利用ai做一些副业项目，赚取更多额外收益。The Ultimate Guide to Making Money with AI Side Hustles: Learn how to leverage AI for some cool side gigs and rake in some extra cash. Check out the English version for more insights. (1 day ago)
+- [mqzhangw/JIMU](https://github.com/mqzhangw/JIMU) - 一种简单有效的android组件化方案，支持组件的代码资源隔离、单独调试、集成调试、组件交互、UI跳转、生命周期等完整功能。 (1 day ago)
 
 ## 🔨 Latest Pull Requests I published
 
-- [Develop](https://github.com/trinhminhtriet/repoctl/pull/17) on [trinhminhtriet/repoctl](https://github.com/trinhminhtriet/repoctl) (3 months ago)
+- [Develop](https://github.com/trinhminhtriet/repoctl/pull/17) on [trinhminhtriet/repoctl](https://github.com/trinhminhtriet/repoctl) (4 months ago)
 - [Develop](https://github.com/trinhminhtriet/scanr/pull/22) on [trinhminhtriet/scanr](https://github.com/trinhminhtriet/scanr) (4 months ago)
 - [Develop](https://github.com/trinhminhtriet/scanr/pull/21) on [trinhminhtriet/scanr](https://github.com/trinhminhtriet/scanr) (4 months ago)
