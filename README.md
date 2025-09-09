@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [evanw/indirectbuffer](https://github.com/evanw/indirectbuffer) - A small library for out-of-heap memory in emscripten (today)
-- [evanw/sky](https://github.com/evanw/sky) - A text editor written in the Skew programming language (today)
-- [evanw/float-toy](https://github.com/evanw/float-toy) - Use this to build intuition for the IEEE floating-point format (today)
-- [evanw/rapt](https://github.com/evanw/rapt) - Robots Are People Too, a platformer in HTML5 (today)
-- [evanw/fsm](https://github.com/evanw/fsm) - Finite State Machine Designer (today)
+- [ijjk/notion-blog](https://github.com/ijjk/notion-blog) - A Next.js site using new SSG support with a Notion backed blog (today)
+- [mishushakov/dialogflow-web](https://github.com/mishushakov/dialogflow-web) - Web App for Dialogflow (today)
+- [mishushakov/signin-with-matrix](https://github.com/mishushakov/signin-with-matrix) - Federated sign-in component for your web app (using Matrix) (today)
+- [mishushakov/dialogflow-web-v2](https://github.com/mishushakov/dialogflow-web-v2) - Dialogflow Web Integration. Supports rich components (today)
+- [mishushakov/llm-scraper](https://github.com/mishushakov/llm-scraper) - Turn any webpage into structured data using LLMs (today)
 
 ## 🔨 Latest Pull Requests I published
 
