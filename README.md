@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [inca/voie](https://github.com/inca/voie) - [UNMAINTAINED] Simple Vue.js router / layout manager (today)
-- [inca/circumflex](https://github.com/inca/circumflex) - [UNMAINTAINED] Circumflex — lightweight Scala-based Web application framework and ORM (today)
-- [inca/blender-differential-growth](https://github.com/inca/blender-differential-growth) - Blender Addon: Differential Growth (today)
-- [jahe/spring-boot-multiple-datasources](https://github.com/jahe/spring-boot-multiple-datasources) - An example how to configure multiple datasources in a Spring Boot application (today)
-- [VincentLoy/simplyCountdown.js](https://github.com/VincentLoy/simplyCountdown.js) - A lightweight JavaScript countdown library with zero dependencies. Create customizable countdown timers with multiple themes, TypeScript support, and a countdown control API for websites and web applications. (today)
+- [evanw/indirectbuffer](https://github.com/evanw/indirectbuffer) - A small library for out-of-heap memory in emscripten (today)
+- [evanw/sky](https://github.com/evanw/sky) - A text editor written in the Skew programming language (today)
+- [evanw/float-toy](https://github.com/evanw/float-toy) - Use this to build intuition for the IEEE floating-point format (today)
+- [evanw/rapt](https://github.com/evanw/rapt) - Robots Are People Too, a platformer in HTML5 (today)
+- [evanw/fsm](https://github.com/evanw/fsm) - Finite State Machine Designer (today)
 
 ## 🔨 Latest Pull Requests I published
 
