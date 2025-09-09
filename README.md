@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [VivienCormier/UIViewAnimationExplose](https://github.com/VivienCormier/UIViewAnimationExplose) - For UIView separation with animation (today)
-- [VivienCormier/UIImageViewModeScaleAspect](https://github.com/VivienCormier/UIImageViewModeScaleAspect) - Create animation of a UIImageView between twice contentMode ( UIViewContentModeScaleAspectFill / UIViewContentModeScaleAspectFit ) (today)
-- [rlabduke/reduce](https://github.com/rlabduke/reduce) - Reduce - tool for adding and correcting hydrogens in PDB files (today)
-- [mittinatten/freesasa](https://github.com/mittinatten/freesasa) - C-library for calculating Solvent Accessible Surface Areas (today)
-- [omarwagih/ggseqlogo](https://github.com/omarwagih/ggseqlogo) - Publication-quality sequence logos in R (today)
+- [rsrohan99/tig](https://github.com/rsrohan99/tig) - Terminal-based AI Coding Agent, similar to Claude Code, OpenAI Codex etc. but works with many more LLMs e.g. Gemini, Groq, Deepseek (today)
+- [rsrohan99/llamaindex-docs-agent](https://github.com/rsrohan99/llamaindex-docs-agent) - Full stack advanced chatbot over LlamaIndex.TS documentation with preview feature using Multi-documents-agents, bootstrapped with create-llama (today)
+- [rsrohan99/Llama-Researcher](https://github.com/rsrohan99/Llama-Researcher) - Research assistant for performing online research on a given topic, using Llamaindex Workflows and Tavily API. Inspired by GPT-Researcher (today)
+- [rsrohan99/presenter](https://github.com/rsrohan99/presenter) - A Multi-Agent AI Tool that creates beautiful presentations with voice-overs 🎦🔥 (today)
+- [rsrohan99/rag-stream-intermediate-events-tutorial](https://github.com/rsrohan99/rag-stream-intermediate-events-tutorial) - Tutorial on how to properly send intermediate LlamaIndex events to vercel ai sdk via server-sent events during RAG. (today)
 
 ## 🔨 Latest Pull Requests I published
 
