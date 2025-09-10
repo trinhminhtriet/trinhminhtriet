@@ -33,8 +33,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👷 Check out what I'm currently working on
 
-- [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) - 🚀 All-in-one CLI toolkit for developers: scaffold, manage, automate, and boost productivity across languages! (3 days ago)
-- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (3 days ago)
+- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (today)
+- [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) - 🚀 All-in-one CLI toolkit for developers: scaffold, manage, automate, and boost productivity across languages! (today)
 - [trinhminhtriet/dwipe](https://github.com/trinhminhtriet/dwipe) - 🧹 Fast, cross-platform disk cleanup tool with interactive UI for easy directory size visualization. (5 days ago)
 - [nctl-io/nctl-roadmap](https://github.com/nctl-io/nctl-roadmap) (1 week ago)
 - [nctl-io/.github](https://github.com/nctl-io/.github) - 🌐 Network. Connect. Transform. Lead. (2 weeks ago)
@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [TwistedHardware/mltutorial](https://github.com/TwistedHardware/mltutorial) - Machine Learning Tutorial in IPython Notebooks (today)
-- [jasonyates/netbox-documents](https://github.com/jasonyates/netbox-documents) - Plugin to manage site, circuit and device diagrams and documents in Netbox (today)
-- [uhop/node-re2](https://github.com/uhop/node-re2) - node.js bindings for RE2: fast, safe alternative to backtracking regular expression engines. (today)
-- [uhop/stream-json](https://github.com/uhop/stream-json) - The micro-library of Node.js stream components for creating custom JSON processing pipelines with a minimal memory footprint. It can parse JSON files far exceeding available memory streaming individual primitives using a SAX-inspired API. (today)
-- [bromagosa/Snap4Arduino](https://github.com/bromagosa/Snap4Arduino) - Binding Snap! and Arduino together (today)
+- [riggraz/no-style-please](https://github.com/riggraz/no-style-please) - A (nearly) no-CSS, fast, minimalist Jekyll theme. (today)
+- [tbs-trappy/source_one](https://github.com/tbs-trappy/source_one) - Open Source FPV Drone Frame (today)
+- [MrPlusGH/NPlusMiner](https://github.com/MrPlusGH/NPlusMiner) - NPlusMiner + GUI | NVIDIA/AMD/CPU miner | AI | Autoupdate | MultiRig remote management (today)
+- [linkfy/Tools-for-Instagram](https://github.com/linkfy/Tools-for-Instagram) - Automation scripts for Instagram (today)
+- [mon5termatt/medicat_installer](https://github.com/mon5termatt/medicat_installer) - Medicat Installer Repo (today)
 
 ## 🔨 Latest Pull Requests I published
 
