@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [sharaneduard8](https://github.com/sharaneduard8)
 - [rodmarkun](https://github.com/rodmarkun)
 - [murapadev](https://github.com/murapadev)
 - [mrtaz77](https://github.com/mrtaz77)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [ScorpioFento](https://github.com/ScorpioFento)
 - [ishandutta2007](https://github.com/ishandutta2007)
 - [DIMFLIX](https://github.com/DIMFLIX)
-- [emilycodestar](https://github.com/emilycodestar)
 
 ## ⭐ Recent stars
 
