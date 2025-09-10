@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [rust0258/CKSS-Certified-Kubernetes-Security-Specialist](https://github.com/rust0258/CKSS-Certified-Kubernetes-Security-Specialist) - This repository is a collection of resources to prepare for the Certified Kubernetes Security Specialist (CKSS) exam. (today)
-- [rust0258/Deeplearning.ai-Natural-Language-Processing-Specialization](https://github.com/rust0258/Deeplearning.ai-Natural-Language-Processing-Specialization) - This repository contains my full work and notes on Coursera's NLP Specialization (Natural Language Processing) taught by the instructor Younes Bensouda Mourri and Łukasz Kaiser offered by deeplearning.ai (today)
-- [Tlousky/blender_scripts](https://github.com/Tlousky/blender_scripts) - Some nice little python scripts and add-ons for blender (today)
-- [vMeijin/pySmithPlot](https://github.com/vMeijin/pySmithPlot) - Matplotlib extension for creating Smith charts with Python (1 day ago)
-- [zinka/arraytool](https://github.com/zinka/arraytool) - Python based package for phased array antenna design and analysis (1 day ago)
+- [mikejcorey/miditime](https://github.com/mikejcorey/miditime) - Generate MIDI files from time series data. You can control can control what octaves and octave ranges you want. (today)
+- [loup-brun/buttons](https://github.com/loup-brun/buttons) - A collection of CSS buttons. (today)
+- [givanthak/spring-boot-rest-api-tutorial](https://github.com/givanthak/spring-boot-rest-api-tutorial) - Sample REST CRUD API with Spring Boot, Mysql, JPA and Hibernate (today)
+- [zHaytam/SmartBreadcrumbs](https://github.com/zHaytam/SmartBreadcrumbs) - A utility library for ASP.NET Core (both MVC and Razor Pages) websites to easily add and customize breadcrumbs. (today)
+- [gkatzioura/egkatzioura.wordpress.com](https://github.com/gkatzioura/egkatzioura.wordpress.com) - Project from blog posts on https://egkatzioura.wordpress.com/ (today)
 
 ## 🔨 Latest Pull Requests I published
 
