@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [mogenson/PaperWM.spoon](https://github.com/mogenson/PaperWM.spoon) - Tiled scrollable window manager for MacOS (today)
-- [lucfra/FAR-HO](https://github.com/lucfra/FAR-HO) - Gradient based hyperparameter optimization & meta-learning package for TensorFlow (today)
-- [lucfra/LDS-GNN](https://github.com/lucfra/LDS-GNN) - Learning Discrete Structures for Graph Neural Networks (TensorFlow implementation) (today)
-- [ric96/atvx86](https://github.com/ric96/atvx86) - Android TV based on Android-x86 (today)
-- [Bachmann1234/diff_cover](https://github.com/Bachmann1234/diff_cover) - Automatically find diff lines that need test coverage. (today)
+- [lispnik/iup](https://github.com/lispnik/iup) - Common Lisp CFFI bindings to the IUP Portable User Interface library (pre-ALPHA) (today)
+- [bitspook/spookfox](https://github.com/bitspook/spookfox) - A tinkerer's bridge b/w Emacs and Web Browser (Firefox and Chrome) (today)
+- [bitspook/yarr](https://github.com/bitspook/yarr) - Yet Another RSS Reader (big ass RXJS tutorial) (today)
+- [hikettei/cl-waffe2](https://github.com/hikettei/cl-waffe2) - [Experimental] Graph and Tensor Abstraction for Deep Learning all in Common Lisp (today)
+- [hikettei/Caten](https://github.com/hikettei/Caten) - [wip] Deep Learning Compiler based on Polyhedral Compiler, Light-weight IRs, and Optimizing Pattern Matcher. (development is on hold until I secure good sponsors or enough time) (today)
 
 ## 🔨 Latest Pull Requests I published
 
