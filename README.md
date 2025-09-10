@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [mrtaz77](https://github.com/mrtaz77)
 - [maugus0](https://github.com/maugus0)
 - [slavaGanzin](https://github.com/slavaGanzin)
 - [smketterer](https://github.com/smketterer)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [emilycodestar](https://github.com/emilycodestar)
 - [steve2700](https://github.com/steve2700)
 - [VictoriaCabirta](https://github.com/VictoriaCabirta)
-- [ClaudiaRojasSoto](https://github.com/ClaudiaRojasSoto)
 
 ## ⭐ Recent stars
 
