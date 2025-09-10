@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [jasewarner/gulp-shopify](https://github.com/jasewarner/gulp-shopify) - Blank slate Shopify theme for Developers, packaged with Gulp.js for processing SCSS, JavaScript (ES6), images and fonts. Made to support Online Store 2.0 features and Shopify CLI. (today)
-- [evz/tacofancy-api](https://github.com/evz/tacofancy-api) - An API for random taco recipes (today)
-- [mikejcorey/miditime](https://github.com/mikejcorey/miditime) - Generate MIDI files from time series data. You can control can control what octaves and octave ranges you want. (today)
-- [loup-brun/buttons](https://github.com/loup-brun/buttons) - A collection of CSS buttons. (today)
-- [givanthak/spring-boot-rest-api-tutorial](https://github.com/givanthak/spring-boot-rest-api-tutorial) - Sample REST CRUD API with Spring Boot, Mysql, JPA and Hibernate (today)
+- [kohpangwei/group_DRO](https://github.com/kohpangwei/group_DRO) - Distributionally robust neural networks for group shifts (today)
+- [kohpangwei/influence-release](https://github.com/kohpangwei/influence-release) (today)
+- [allanpichardo/Unity-Beat-Detection](https://github.com/allanpichardo/Unity-Beat-Detection) - Musical beat detection and audio spectrum analysis for use with the Unity game engine. (today)
+- [AIAdvantage/chatgpt-api-youtube](https://github.com/AIAdvantage/chatgpt-api-youtube) - 3 ChatGPT Api Apps (today)
+- [paulcollett/vue-masonry-css](https://github.com/paulcollett/vue-masonry-css) - Vue.js Masonry layout component powered by CSS, dependancy free (today)
 
 ## 🔨 Latest Pull Requests I published
 
