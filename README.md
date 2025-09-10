@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [lispnik/iup](https://github.com/lispnik/iup) - Common Lisp CFFI bindings to the IUP Portable User Interface library (pre-ALPHA) (today)
-- [bitspook/spookfox](https://github.com/bitspook/spookfox) - A tinkerer's bridge b/w Emacs and Web Browser (Firefox and Chrome) (today)
-- [bitspook/yarr](https://github.com/bitspook/yarr) - Yet Another RSS Reader (big ass RXJS tutorial) (today)
-- [hikettei/cl-waffe2](https://github.com/hikettei/cl-waffe2) - [Experimental] Graph and Tensor Abstraction for Deep Learning all in Common Lisp (today)
-- [hikettei/Caten](https://github.com/hikettei/Caten) - [wip] Deep Learning Compiler based on Polyhedral Compiler, Light-weight IRs, and Optimizing Pattern Matcher. (development is on hold until I secure good sponsors or enough time) (today)
+- [bitshadow/iconate](https://github.com/bitshadow/iconate) - Transform your icons with trendy animations. (today)
+- [takagi/cl-cuda](https://github.com/takagi/cl-cuda) - Cl-cuda is a library to use NVIDIA CUDA in Common Lisp programs. (today)
+- [unageanu/jiji2](https://github.com/unageanu/jiji2) - Forex algorithmic trading framework using OANDA REST API. (today)
+- [ashok-khanna/react-snippets](https://github.com/ashok-khanna/react-snippets) - A sample of useful snippets in React (today)
+- [ashok-khanna/pdf](https://github.com/ashok-khanna/pdf) - Tutorial on paged.js (today)
 
 ## 🔨 Latest Pull Requests I published
 
