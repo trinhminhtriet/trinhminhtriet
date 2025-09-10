@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [kohpangwei/group_DRO](https://github.com/kohpangwei/group_DRO) - Distributionally robust neural networks for group shifts (today)
-- [kohpangwei/influence-release](https://github.com/kohpangwei/influence-release) (today)
-- [allanpichardo/Unity-Beat-Detection](https://github.com/allanpichardo/Unity-Beat-Detection) - Musical beat detection and audio spectrum analysis for use with the Unity game engine. (today)
-- [AIAdvantage/chatgpt-api-youtube](https://github.com/AIAdvantage/chatgpt-api-youtube) - 3 ChatGPT Api Apps (today)
-- [paulcollett/vue-masonry-css](https://github.com/paulcollett/vue-masonry-css) - Vue.js Masonry layout component powered by CSS, dependancy free (today)
+- [deweizhu/bookget](https://github.com/deweizhu/bookget) - bookget 数字古籍图书下载工具 (today)
+- [andrey-ushakov/esc_pos_utils](https://github.com/andrey-ushakov/esc_pos_utils) - Basic Flutter/Dart classes for ESC/POS printing (today)
+- [andrey-ushakov/esc_pos_bluetooth](https://github.com/andrey-ushakov/esc_pos_bluetooth) - ESC/POS (thermal, receipt) printing for Flutter & Dart (Android/iOS) (today)
+- [andrey-ushakov/esc_pos_printer](https://github.com/andrey-ushakov/esc_pos_printer) - ESC/POS (thermal, receipt) printing for Flutter & Dart (today)
+- [creepymonster/GlucoseDirect](https://github.com/creepymonster/GlucoseDirect) - App programmed in Swift/SwiftUI for using Libre blood glucose sensors. (today)
 
 ## 🔨 Latest Pull Requests I published
 
