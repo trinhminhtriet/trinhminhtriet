@@ -33,11 +33,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👷 Check out what I'm currently working on
 
-- [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) - 🚀 All-in-one CLI toolkit for developers: scaffold, manage, automate, and boost productivity across languages! (2 days ago)
-- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (2 days ago)
-- [trinhminhtriet/dwipe](https://github.com/trinhminhtriet/dwipe) - 🧹 Fast, cross-platform disk cleanup tool with interactive UI for easy directory size visualization. (4 days ago)
+- [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) - 🚀 All-in-one CLI toolkit for developers: scaffold, manage, automate, and boost productivity across languages! (3 days ago)
+- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (3 days ago)
+- [trinhminhtriet/dwipe](https://github.com/trinhminhtriet/dwipe) - 🧹 Fast, cross-platform disk cleanup tool with interactive UI for easy directory size visualization. (5 days ago)
 - [nctl-io/nctl-roadmap](https://github.com/nctl-io/nctl-roadmap) (1 week ago)
-- [nctl-io/.github](https://github.com/nctl-io/.github) - 🌐 Network. Connect. Transform. Lead. (1 week ago)
+- [nctl-io/.github](https://github.com/nctl-io/.github) - 🌐 Network. Connect. Transform. Lead. (2 weeks ago)
 - [nctl-io/nctl-branding](https://github.com/nctl-io/nctl-branding) - NCTL Branding 🖼️: Centralized assets and guidelines for consistent visual identity across NCTL projects and platforms. (2 weeks ago)
 - [nctl-io/nctl-homepage](https://github.com/nctl-io/nctl-homepage) - 🚀 Modern homepage for NCTL: fast, responsive, TypeScript-powered, open source, and easy to customize. (2 weeks ago)
 - [trinhminhtriet/sizr](https://github.com/trinhminhtriet/sizr) - 📈 A fast, Rust-based tool to analyze file system usage with colorful output, file aggregation, exclusions, and directory comparisons. (2 weeks ago)
@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [slavaGanzin](https://github.com/slavaGanzin)
 - [smketterer](https://github.com/smketterer)
 - [ScorpioFento](https://github.com/ScorpioFento)
 - [ishandutta2007](https://github.com/ishandutta2007)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [VictoriaCabirta](https://github.com/VictoriaCabirta)
 - [ClaudiaRojasSoto](https://github.com/ClaudiaRojasSoto)
 - [roshan-bajgain](https://github.com/roshan-bajgain)
-- [erdemskywalker](https://github.com/erdemskywalker)
 
 ## ⭐ Recent stars
 
-- [wsshin/jemdoc_mathjax](https://github.com/wsshin/jemdoc_mathjax) - jemdoc with MathJax support and more (today)
-- [danielvarga/string-art](https://github.com/danielvarga/string-art) (today)
-- [danielvarga/keras-finetuning](https://github.com/danielvarga/keras-finetuning) - Training an InceptionV3-based image classifier with your own dataset (today)
-- [rellimmot/Sony-IMX219-Raspberry-Pi-V2-CMOS](https://github.com/rellimmot/Sony-IMX219-Raspberry-Pi-V2-CMOS) - Sony IMX219 Raspberry Pi V2 CMOS Datasheet and Source Code (today)
-- [khaledh/pagemagic](https://github.com/khaledh/pagemagic) - A Chrome extension that uses AI to customize the appearance of any web page (today)
+- [rust0258/CKSS-Certified-Kubernetes-Security-Specialist](https://github.com/rust0258/CKSS-Certified-Kubernetes-Security-Specialist) - This repository is a collection of resources to prepare for the Certified Kubernetes Security Specialist (CKSS) exam. (today)
+- [rust0258/Deeplearning.ai-Natural-Language-Processing-Specialization](https://github.com/rust0258/Deeplearning.ai-Natural-Language-Processing-Specialization) - This repository contains my full work and notes on Coursera's NLP Specialization (Natural Language Processing) taught by the instructor Younes Bensouda Mourri and Łukasz Kaiser offered by deeplearning.ai (today)
+- [Tlousky/blender_scripts](https://github.com/Tlousky/blender_scripts) - Some nice little python scripts and add-ons for blender (today)
+- [vMeijin/pySmithPlot](https://github.com/vMeijin/pySmithPlot) - Matplotlib extension for creating Smith charts with Python (1 day ago)
+- [zinka/arraytool](https://github.com/zinka/arraytool) - Python based package for phased array antenna design and analysis (1 day ago)
 
 ## 🔨 Latest Pull Requests I published
 
