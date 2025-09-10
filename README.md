@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [maugus0](https://github.com/maugus0)
 - [slavaGanzin](https://github.com/slavaGanzin)
 - [smketterer](https://github.com/smketterer)
 - [ScorpioFento](https://github.com/ScorpioFento)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [steve2700](https://github.com/steve2700)
 - [VictoriaCabirta](https://github.com/VictoriaCabirta)
 - [ClaudiaRojasSoto](https://github.com/ClaudiaRojasSoto)
-- [roshan-bajgain](https://github.com/roshan-bajgain)
 
 ## ⭐ Recent stars
 
+- [evz/tacofancy-api](https://github.com/evz/tacofancy-api) - An API for random taco recipes (today)
 - [mikejcorey/miditime](https://github.com/mikejcorey/miditime) - Generate MIDI files from time series data. You can control can control what octaves and octave ranges you want. (today)
 - [loup-brun/buttons](https://github.com/loup-brun/buttons) - A collection of CSS buttons. (today)
 - [givanthak/spring-boot-rest-api-tutorial](https://github.com/givanthak/spring-boot-rest-api-tutorial) - Sample REST CRUD API with Spring Boot, Mysql, JPA and Hibernate (today)
 - [zHaytam/SmartBreadcrumbs](https://github.com/zHaytam/SmartBreadcrumbs) - A utility library for ASP.NET Core (both MVC and Razor Pages) websites to easily add and customize breadcrumbs. (today)
-- [gkatzioura/egkatzioura.wordpress.com](https://github.com/gkatzioura/egkatzioura.wordpress.com) - Project from blog posts on https://egkatzioura.wordpress.com/ (today)
 
 ## 🔨 Latest Pull Requests I published
 
