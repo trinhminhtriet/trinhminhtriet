@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [deweizhu/bookget](https://github.com/deweizhu/bookget) - bookget 数字古籍图书下载工具 (today)
-- [andrey-ushakov/esc_pos_utils](https://github.com/andrey-ushakov/esc_pos_utils) - Basic Flutter/Dart classes for ESC/POS printing (today)
-- [andrey-ushakov/esc_pos_bluetooth](https://github.com/andrey-ushakov/esc_pos_bluetooth) - ESC/POS (thermal, receipt) printing for Flutter & Dart (Android/iOS) (today)
-- [andrey-ushakov/esc_pos_printer](https://github.com/andrey-ushakov/esc_pos_printer) - ESC/POS (thermal, receipt) printing for Flutter & Dart (today)
-- [creepymonster/GlucoseDirect](https://github.com/creepymonster/GlucoseDirect) - App programmed in Swift/SwiftUI for using Libre blood glucose sensors. (today)
+- [TwistedHardware/mltutorial](https://github.com/TwistedHardware/mltutorial) - Machine Learning Tutorial in IPython Notebooks (today)
+- [jasonyates/netbox-documents](https://github.com/jasonyates/netbox-documents) - Plugin to manage site, circuit and device diagrams and documents in Netbox (today)
+- [uhop/node-re2](https://github.com/uhop/node-re2) - node.js bindings for RE2: fast, safe alternative to backtracking regular expression engines. (today)
+- [uhop/stream-json](https://github.com/uhop/stream-json) - The micro-library of Node.js stream components for creating custom JSON processing pipelines with a minimal memory footprint. It can parse JSON files far exceeding available memory streaming individual primitives using a SAX-inspired API. (today)
+- [bromagosa/Snap4Arduino](https://github.com/bromagosa/Snap4Arduino) - Binding Snap! and Arduino together (today)
 
 ## 🔨 Latest Pull Requests I published
 
