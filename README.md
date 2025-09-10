@@ -54,16 +54,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [slavaGanzin](https://github.com/slavaGanzin)
 - [smketterer](https://github.com/smketterer)
 - [ScorpioFento](https://github.com/ScorpioFento)
-- [ishandutta2007](https://github.com/ishandutta2007)
 - [DIMFLIX](https://github.com/DIMFLIX)
+- [emilycodestar](https://github.com/emilycodestar)
 
 ## ⭐ Recent stars
 
-- [riggraz/no-style-please](https://github.com/riggraz/no-style-please) - A (nearly) no-CSS, fast, minimalist Jekyll theme. (today)
-- [tbs-trappy/source_one](https://github.com/tbs-trappy/source_one) - Open Source FPV Drone Frame (today)
-- [MrPlusGH/NPlusMiner](https://github.com/MrPlusGH/NPlusMiner) - NPlusMiner + GUI | NVIDIA/AMD/CPU miner | AI | Autoupdate | MultiRig remote management (today)
-- [linkfy/Tools-for-Instagram](https://github.com/linkfy/Tools-for-Instagram) - Automation scripts for Instagram (today)
-- [mon5termatt/medicat_installer](https://github.com/mon5termatt/medicat_installer) - Medicat Installer Repo (today)
+- [mogenson/PaperWM.spoon](https://github.com/mogenson/PaperWM.spoon) - Tiled scrollable window manager for MacOS (today)
+- [lucfra/FAR-HO](https://github.com/lucfra/FAR-HO) - Gradient based hyperparameter optimization & meta-learning package for TensorFlow (today)
+- [lucfra/LDS-GNN](https://github.com/lucfra/LDS-GNN) - Learning Discrete Structures for Graph Neural Networks (TensorFlow implementation) (today)
+- [ric96/atvx86](https://github.com/ric96/atvx86) - Android TV based on Android-x86 (today)
+- [Bachmann1234/diff_cover](https://github.com/Bachmann1234/diff_cover) - Automatically find diff lines that need test coverage. (today)
 
 ## 🔨 Latest Pull Requests I published
 
