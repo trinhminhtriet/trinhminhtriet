@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [bitshadow/iconate](https://github.com/bitshadow/iconate) - Transform your icons with trendy animations. (today)
-- [takagi/cl-cuda](https://github.com/takagi/cl-cuda) - Cl-cuda is a library to use NVIDIA CUDA in Common Lisp programs. (today)
-- [unageanu/jiji2](https://github.com/unageanu/jiji2) - Forex algorithmic trading framework using OANDA REST API. (today)
-- [ashok-khanna/react-snippets](https://github.com/ashok-khanna/react-snippets) - A sample of useful snippets in React (today)
-- [ashok-khanna/pdf](https://github.com/ashok-khanna/pdf) - Tutorial on paged.js (today)
+- [rongarret/ergolib](https://github.com/rongarret/ergolib) - A library designed to make programming in Common Lisp easier (today)
+- [rpav/fast-io](https://github.com/rpav/fast-io) - Fast octet-vector/stream I/O for Common Lisp (today)
+- [rpav/cl-autowrap](https://github.com/rpav/cl-autowrap) - (c-include "file.h") => complete FFI wrapper (today)
+- [rpav/c2ffi](https://github.com/rpav/c2ffi) - Clang-based FFI wrapper generator (today)
+- [fjvallarino/monomer](https://github.com/fjvallarino/monomer) - An easy to use, cross platform, GUI library for writing Haskell applications. (today)
 
 ## 🔨 Latest Pull Requests I published
 
