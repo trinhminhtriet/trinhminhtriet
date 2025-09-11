@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [charith-codex](https://github.com/charith-codex)
 - [gorkemsandikci](https://github.com/gorkemsandikci)
 - [crimsonglitch](https://github.com/crimsonglitch)
 - [yeakiniqra](https://github.com/yeakiniqra)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [anisha-guptaa](https://github.com/anisha-guptaa)
 - [ishandutta2007](https://github.com/ishandutta2007)
 - [lexzer42](https://github.com/lexzer42)
-- [sharaneduard8](https://github.com/sharaneduard8)
 
 ## ⭐ Recent stars
 
+- [khanh-ph/proxmox-kubernetes](https://github.com/khanh-ph/proxmox-kubernetes) - Enables you to create a Kubernetes cluster on Proxmox VE with Terraform & Kubespray in a declarative manner. (today)
 - [xiaoji235/airport-free](https://github.com/xiaoji235/airport-free) - Free node, automatically renews subscription every 3hours (today)
 - [vbohush/geometric-progress-view](https://github.com/vbohush/geometric-progress-view) - Customizable progress indicator in the form of 2D geometric shapes (today)
 - [vbohush/SortingAlgorithmAnimations](https://github.com/vbohush/SortingAlgorithmAnimations) - Visualization and comparison of sorting algorithms (today)
 - [FPGADude/Digital-Design](https://github.com/FPGADude/Digital-Design) - Verilog HDL files (today)
-- [krmanik/HSK-3.0](https://github.com/krmanik/HSK-3.0) - Contains HSK 3.0 (HSK 1 to HSK 9) Hanzi, Handwritten, Words and Grammar list, also contains list for Anki decks, with frequency, pinyin, zhuyin and meaning. (today)
 
 ## 🔨 Latest Pull Requests I published
 
