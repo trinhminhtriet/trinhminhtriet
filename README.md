@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [fjz13/UnrealSpecifiers](https://github.com/fjz13/UnrealSpecifiers) - UE5标识符详解，包含100多个标识符以及300多个meta的解释和示例。Detailed Explanation of UE5 Identifiers, including over 100 identifiers and explanations and examples for more than 300 meta tags. (today)
-- [IgorAherne/trellis-stable-projectorz](https://github.com/IgorAherne/trellis-stable-projectorz) - Official repo for paper "Structured 3D Latents for Scalable and Versatile 3D Generation". (today)
-- [cameronhimself/vue-drag-drop](https://github.com/cameronhimself/vue-drag-drop) - A lightweight Vue wrapper that abstracts away the wonkier parts of the Drag and Drop Browser API (today)
-- [Razmoth/CNStudio](https://github.com/Razmoth/CNStudio) - Modded AssetStudio for CN unity games (today)
-- [Phyronnaz/UECompileTimesVisualizer](https://github.com/Phyronnaz/UECompileTimesVisualizer) - Debug compile times in Unreal Engine & MSVC projects (today)
+- [domeccleston/dalle-2](https://github.com/domeccleston/dalle-2) - Dall-E 2 image generator (today)
+- [domeccleston/langchain-ts-starter](https://github.com/domeccleston/langchain-ts-starter) - Langchain.js template to get started quickly (today)
+- [domeccleston/sharegpt](https://github.com/domeccleston/sharegpt) - Easily share permanent links to ChatGPT conversations with your friends (today)
+- [autarc/optimal-select](https://github.com/autarc/optimal-select) - Get efficient & robust CSS selectors for HTML elements (today)
+- [insanoid/SwiftyJSONAccelerator](https://github.com/insanoid/SwiftyJSONAccelerator) - macOS app to generate Swift 5 code for models from JSON (with Codeable) (today)
 
 ## 🔨 Latest Pull Requests I published
 
