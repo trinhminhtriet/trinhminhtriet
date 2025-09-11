@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [HamedAkbarzadeh](https://github.com/HamedAkbarzadeh)
 - [SKaDiZZ](https://github.com/SKaDiZZ)
 - [CJPD00](https://github.com/CJPD00)
 - [BEPb](https://github.com/BEPb)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [yeakiniqra](https://github.com/yeakiniqra)
 - [gursmeep404](https://github.com/gursmeep404)
 - [Siratul804](https://github.com/Siratul804)
-- [RajaSunrise](https://github.com/RajaSunrise)
 
 ## ⭐ Recent stars
 
-- [kotoho7/scratch-realtime-earthquake-viewer-page](https://github.com/kotoho7/scratch-realtime-earthquake-viewer-page) - リアルタイム地震ビューアー - Srcatchで作成したプロジェクトをパッケージ化したアプリ (today)
-- [filippofinke/WordGPT](https://github.com/filippofinke/WordGPT) - 🤖 Bring the power of ChatGPT to Microsoft Word (today)
-- [Kylart/MalScraper](https://github.com/Kylart/MalScraper) - Scrape everything you can from MyAnimeList.net (today)
-- [Loukious/TikTokStreamKeyGenerator](https://github.com/Loukious/TikTokStreamKeyGenerator) - TikTok Live Stream Key Generator for OBS Studio (today)
-- [Loukious/StreamLabsTikTokStreamKeyGenerator](https://github.com/Loukious/StreamLabsTikTokStreamKeyGenerator) - TikTok Live Stream Key Generator for OBS Studio using Streamlabs API (today)
+- [fjz13/UnrealSpecifiers](https://github.com/fjz13/UnrealSpecifiers) - UE5标识符详解，包含100多个标识符以及300多个meta的解释和示例。Detailed Explanation of UE5 Identifiers, including over 100 identifiers and explanations and examples for more than 300 meta tags. (today)
+- [IgorAherne/trellis-stable-projectorz](https://github.com/IgorAherne/trellis-stable-projectorz) - Official repo for paper "Structured 3D Latents for Scalable and Versatile 3D Generation". (today)
+- [cameronhimself/vue-drag-drop](https://github.com/cameronhimself/vue-drag-drop) - A lightweight Vue wrapper that abstracts away the wonkier parts of the Drag and Drop Browser API (today)
+- [Razmoth/CNStudio](https://github.com/Razmoth/CNStudio) - Modded AssetStudio for CN unity games (today)
+- [Phyronnaz/UECompileTimesVisualizer](https://github.com/Phyronnaz/UECompileTimesVisualizer) - Debug compile times in Unreal Engine & MSVC projects (today)
 
 ## 🔨 Latest Pull Requests I published
 
