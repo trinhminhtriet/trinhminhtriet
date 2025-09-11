@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [JD-P/minihf](https://github.com/JD-P/minihf) - MiniHF is an inference, human preference data collection, and fine-tuning tool for local language models. It is intended to help the user develop their prompts into full models. (today)
-- [JD-P/simulacra-aesthetic-captions](https://github.com/JD-P/simulacra-aesthetic-captions) - Dataset of prompts, synthetic AI generated images, and aesthetic ratings. (today)
-- [nhagen/react-intercom](https://github.com/nhagen/react-intercom) - A component to configure and enable Intercom in your react application (today)
-- [dhansel/PaperTapeReader](https://github.com/dhansel/PaperTapeReader) - A DIY reader for vintage 8-bit paper tapes (today)
-- [dhansel/Altair8800](https://github.com/dhansel/Altair8800) - Source code for Arduino Altair 8800 simulator (today)
+- [Upbolt/Hydroxide](https://github.com/Upbolt/Hydroxide) - Lua runtime introspection and network capturing tool for games on the Roblox engine. (today)
+- [depthso/Grow-a-Garden](https://github.com/depthso/Grow-a-Garden) - 🍅 A script for Grow a Garden that features Auto-Sell, Auto-Walk, Auto-Buy, and Auto-Harvest! Free and open source (today)
+- [rjindael/ca-dmv-bot](https://github.com/rjindael/ca-dmv-bot) - Social media bot that posts personalized license plate applications the California DMV received (today)
+- [dongle-the-gadget/WinverUWP](https://github.com/dongle-the-gadget/WinverUWP) - A UWP version of winver (today)
+- [sahaRatul/sela](https://github.com/sahaRatul/sela) - SimplE Lossless Audio (today)
 
 ## 🔨 Latest Pull Requests I published
 
