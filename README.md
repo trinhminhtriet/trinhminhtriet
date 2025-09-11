@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [khanh-ph/proxmox-kubernetes](https://github.com/khanh-ph/proxmox-kubernetes) - Enables you to create a Kubernetes cluster on Proxmox VE with Terraform & Kubespray in a declarative manner. (today)
-- [xiaoji235/airport-free](https://github.com/xiaoji235/airport-free) - Free node, automatically renews subscription every 3hours (today)
-- [vbohush/geometric-progress-view](https://github.com/vbohush/geometric-progress-view) - Customizable progress indicator in the form of 2D geometric shapes (today)
-- [vbohush/SortingAlgorithmAnimations](https://github.com/vbohush/SortingAlgorithmAnimations) - Visualization and comparison of sorting algorithms (today)
-- [FPGADude/Digital-Design](https://github.com/FPGADude/Digital-Design) - Verilog HDL files (today)
+- [slu4coder/Minimal-UART-CPU-System](https://github.com/slu4coder/Minimal-UART-CPU-System) - Legacy: TTL-only CPU featuring UART I/O, an expansion port, 512KB SSD at up to 10MHz clock speed (today)
+- [slu4coder/Minimal-64x4-Home-Computer](https://github.com/slu4coder/Minimal-64x4-Home-Computer) - My DIY TTL home computer with VGA and PS/2 and 4x the processing power of a Commodore C64 or Apple II. (today)
+- [Ftbom/Aria2Manager](https://github.com/Ftbom/Aria2Manager) - Aria2 Server Manager (today)
+- [BytexGrid/NeatShift](https://github.com/BytexGrid/NeatShift) - A modern Windows file organization tool with symbolic link support (today)
+- [aoguai/subscription](https://github.com/aoguai/subscription) - 由 aoguai 维护的 GKD 第三方订阅规则 (today)
 
 ## 🔨 Latest Pull Requests I published
 
