@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [flameastro](https://github.com/flameastro)
+- [sergio-matos-tech](https://github.com/sergio-matos-tech)
 - [HamedAkbarzadeh](https://github.com/HamedAkbarzadeh)
 - [SKaDiZZ](https://github.com/SKaDiZZ)
 - [CJPD00](https://github.com/CJPD00)
@@ -54,16 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [gorkemsandikci](https://github.com/gorkemsandikci)
 - [crimsonglitch](https://github.com/crimsonglitch)
 - [yeakiniqra](https://github.com/yeakiniqra)
-- [gursmeep404](https://github.com/gursmeep404)
-- [Siratul804](https://github.com/Siratul804)
 
 ## ⭐ Recent stars
 
-- [domeccleston/dalle-2](https://github.com/domeccleston/dalle-2) - Dall-E 2 image generator (today)
-- [domeccleston/langchain-ts-starter](https://github.com/domeccleston/langchain-ts-starter) - Langchain.js template to get started quickly (today)
-- [domeccleston/sharegpt](https://github.com/domeccleston/sharegpt) - Easily share permanent links to ChatGPT conversations with your friends (today)
-- [autarc/optimal-select](https://github.com/autarc/optimal-select) - Get efficient & robust CSS selectors for HTML elements (today)
-- [insanoid/SwiftyJSONAccelerator](https://github.com/insanoid/SwiftyJSONAccelerator) - macOS app to generate Swift 5 code for models from JSON (with Codeable) (today)
+- [TheCaduceus/CloneBot_V2](https://github.com/TheCaduceus/CloneBot_V2) - The Powerful Telegram Bot based on Gclone to clone Google Drive's Shared Drive data easily.🔥 (today)
+- [TheCaduceus/Multi-Cloud-Transfer-Tool](https://github.com/TheCaduceus/Multi-Cloud-Transfer-Tool) - The most advanced yet simple Jupyter Notebook to transfer/manage your data from/to any cloud remotely based on Rclone and other engines.⚡ (today)
+- [TheCaduceus/WARP-UNLIMITED-ADVANCED](https://github.com/TheCaduceus/WARP-UNLIMITED-ADVANCED) - Get unlimited amount of data in Cloudflare's WARP VPN🔥 (today)
+- [gautamajay52/UdemyBot](https://github.com/gautamajay52/UdemyBot) - UdemyBot - A Simple Udemy Free Courses Scrapper (today)
+- [Schamper/xbox-remote-power](https://github.com/Schamper/xbox-remote-power) - Python script to remotely turn on your Xbox One (today)
 
 ## 🔨 Latest Pull Requests I published
 
