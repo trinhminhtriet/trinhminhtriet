@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [yeakiniqra](https://github.com/yeakiniqra)
+- [gursmeep404](https://github.com/gursmeep404)
 - [Siratul804](https://github.com/Siratul804)
 - [RajaSunrise](https://github.com/RajaSunrise)
 - [anisha-guptaa](https://github.com/anisha-guptaa)
@@ -54,16 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [sharaneduard8](https://github.com/sharaneduard8)
 - [rodmarkun](https://github.com/rodmarkun)
 - [murapadev](https://github.com/murapadev)
-- [mrtaz77](https://github.com/mrtaz77)
-- [maugus0](https://github.com/maugus0)
 
 ## ⭐ Recent stars
 
+- [navferty/dotnet-learning](https://github.com/navferty/dotnet-learning) - Материалы для обучения C# и ASP.NET (today)
 - [davidhund/awesome-vanilla-js](https://github.com/davidhund/awesome-vanilla-js) - Listing (awesome) plain—Vanilla—Javascript resources (today)
 - [davidhund/styleguide-generators](https://github.com/davidhund/styleguide-generators) - An overview of automatic living styleguide generators (today)
 - [cantrell/stable-diffusion-api-server](https://github.com/cantrell/stable-diffusion-api-server) - A local API server on top of Stable Diffusion. (today)
 - [prenansantana/js-expert-week](https://github.com/prenansantana/js-expert-week) - Repoitório utilizado durante a Semana JS Expert com Erick Wendel (today)
-- [dcavar/python-tutorial-notebooks](https://github.com/dcavar/python-tutorial-notebooks) - Python tutorials as Jupyter Notebooks for NLP, ML, AI (today)
 
 ## 🔨 Latest Pull Requests I published
 
