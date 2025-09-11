@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Siratul804](https://github.com/Siratul804)
+- [RajaSunrise](https://github.com/RajaSunrise)
 - [anisha-guptaa](https://github.com/anisha-guptaa)
 - [ishandutta2007](https://github.com/ishandutta2007)
 - [lexzer42](https://github.com/lexzer42)
@@ -54,8 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [murapadev](https://github.com/murapadev)
 - [mrtaz77](https://github.com/mrtaz77)
 - [maugus0](https://github.com/maugus0)
-- [slavaGanzin](https://github.com/slavaGanzin)
-- [smketterer](https://github.com/smketterer)
 
 ## ⭐ Recent stars
 
