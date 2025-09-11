@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [ishandutta2007](https://github.com/ishandutta2007)
 - [lexzer42](https://github.com/lexzer42)
 - [sharaneduard8](https://github.com/sharaneduard8)
 - [rodmarkun](https://github.com/rodmarkun)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [slavaGanzin](https://github.com/slavaGanzin)
 - [smketterer](https://github.com/smketterer)
 - [ScorpioFento](https://github.com/ScorpioFento)
-- [DIMFLIX](https://github.com/DIMFLIX)
 
 ## ⭐ Recent stars
 
-- [masqu3rad3/tik_manager4](https://github.com/masqu3rad3/tik_manager4) - Tik Manager is a Python-based Pipeline and Project Management platform designed for VFX and Animation Projects. (today)
-- [scratchapixel/scratchapixel-code](https://github.com/scratchapixel/scratchapixel-code) (today)
-- [morganloomis/ml_tools](https://github.com/morganloomis/ml_tools) - Animation and Rigging tools for Autodesk Maya (today)
-- [vux427/ForceFieldFX](https://github.com/vux427/ForceFieldFX) (today)
-- [martin-pr/possumwood](https://github.com/martin-pr/possumwood) - Possumwood is a graph-based procedural authoring tool, in concept not dissimilar to popular CG packages like Houdini, Blender or Maya. It is intended to serve as a sandbox for computer graphics algorithms and libraries, providing a user-friendly and coding-free UI for libraries that would otherwise be inaccessible for an average user. (today)
+- [davidhund/awesome-vanilla-js](https://github.com/davidhund/awesome-vanilla-js) - Listing (awesome) plain—Vanilla—Javascript resources (today)
+- [davidhund/styleguide-generators](https://github.com/davidhund/styleguide-generators) - An overview of automatic living styleguide generators (today)
+- [cantrell/stable-diffusion-api-server](https://github.com/cantrell/stable-diffusion-api-server) - A local API server on top of Stable Diffusion. (today)
+- [prenansantana/js-expert-week](https://github.com/prenansantana/js-expert-week) - Repoitório utilizado durante a Semana JS Expert com Erick Wendel (today)
+- [dcavar/python-tutorial-notebooks](https://github.com/dcavar/python-tutorial-notebooks) - Python tutorials as Jupyter Notebooks for NLP, ML, AI (today)
 
 ## 🔨 Latest Pull Requests I published
 
