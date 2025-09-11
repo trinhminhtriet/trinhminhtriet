@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [BEPb](https://github.com/BEPb)
 - [charith-codex](https://github.com/charith-codex)
 - [gorkemsandikci](https://github.com/gorkemsandikci)
 - [crimsonglitch](https://github.com/crimsonglitch)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [RajaSunrise](https://github.com/RajaSunrise)
 - [anisha-guptaa](https://github.com/anisha-guptaa)
 - [ishandutta2007](https://github.com/ishandutta2007)
-- [lexzer42](https://github.com/lexzer42)
 
 ## ⭐ Recent stars
 
-- [slu4coder/Minimal-UART-CPU-System](https://github.com/slu4coder/Minimal-UART-CPU-System) - Legacy: TTL-only CPU featuring UART I/O, an expansion port, 512KB SSD at up to 10MHz clock speed (today)
-- [slu4coder/Minimal-64x4-Home-Computer](https://github.com/slu4coder/Minimal-64x4-Home-Computer) - My DIY TTL home computer with VGA and PS/2 and 4x the processing power of a Commodore C64 or Apple II. (today)
-- [Ftbom/Aria2Manager](https://github.com/Ftbom/Aria2Manager) - Aria2 Server Manager (today)
-- [BytexGrid/NeatShift](https://github.com/BytexGrid/NeatShift) - A modern Windows file organization tool with symbolic link support (today)
-- [aoguai/subscription](https://github.com/aoguai/subscription) - 由 aoguai 维护的 GKD 第三方订阅规则 (today)
+- [JD-P/minihf](https://github.com/JD-P/minihf) - MiniHF is an inference, human preference data collection, and fine-tuning tool for local language models. It is intended to help the user develop their prompts into full models. (today)
+- [JD-P/simulacra-aesthetic-captions](https://github.com/JD-P/simulacra-aesthetic-captions) - Dataset of prompts, synthetic AI generated images, and aesthetic ratings. (today)
+- [nhagen/react-intercom](https://github.com/nhagen/react-intercom) - A component to configure and enable Intercom in your react application (today)
+- [dhansel/PaperTapeReader](https://github.com/dhansel/PaperTapeReader) - A DIY reader for vintage 8-bit paper tapes (today)
+- [dhansel/Altair8800](https://github.com/dhansel/Altair8800) - Source code for Arduino Altair 8800 simulator (today)
 
 ## 🔨 Latest Pull Requests I published
 
