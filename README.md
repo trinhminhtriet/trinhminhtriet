@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [lexzer42](https://github.com/lexzer42)
 - [sharaneduard8](https://github.com/sharaneduard8)
 - [rodmarkun](https://github.com/rodmarkun)
 - [murapadev](https://github.com/murapadev)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [smketterer](https://github.com/smketterer)
 - [ScorpioFento](https://github.com/ScorpioFento)
 - [DIMFLIX](https://github.com/DIMFLIX)
-- [emilycodestar](https://github.com/emilycodestar)
 
 ## ⭐ Recent stars
 
-- [jreijn/spring-comparing-template-engines](https://github.com/jreijn/spring-comparing-template-engines) - Demo project to show different Java templating engines in combination with Spring MVC (today)
-- [tijn/awesome-password-store](https://github.com/tijn/awesome-password-store) - A collection of awesome pass extensions and interfaces (for zx2c4's pass) (today)
-- [leoliu/easy-kill](https://github.com/leoliu/easy-kill) - Kill & Mark Things Easily in Emacs (today)
-- [leoliu/ggtags](https://github.com/leoliu/ggtags) - Emacs frontend to GNU Global source code tagging system. (today)
-- [ferreiraklet/Jeeves](https://github.com/ferreiraklet/Jeeves) - Jeeves SQLI Finder (1 day ago)
+- [masqu3rad3/tik_manager4](https://github.com/masqu3rad3/tik_manager4) - Tik Manager is a Python-based Pipeline and Project Management platform designed for VFX and Animation Projects. (today)
+- [scratchapixel/scratchapixel-code](https://github.com/scratchapixel/scratchapixel-code) (today)
+- [morganloomis/ml_tools](https://github.com/morganloomis/ml_tools) - Animation and Rigging tools for Autodesk Maya (today)
+- [vux427/ForceFieldFX](https://github.com/vux427/ForceFieldFX) (today)
+- [martin-pr/possumwood](https://github.com/martin-pr/possumwood) - Possumwood is a graph-based procedural authoring tool, in concept not dissimilar to popular CG packages like Houdini, Blender or Maya. It is intended to serve as a sandbox for computer graphics algorithms and libraries, providing a user-friendly and coding-free UI for libraries that would otherwise be inaccessible for an average user. (today)
 
 ## 🔨 Latest Pull Requests I published
 
