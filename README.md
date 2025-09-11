@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [gorkemsandikci](https://github.com/gorkemsandikci)
 - [crimsonglitch](https://github.com/crimsonglitch)
 - [yeakiniqra](https://github.com/yeakiniqra)
 - [gursmeep404](https://github.com/gursmeep404)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [ishandutta2007](https://github.com/ishandutta2007)
 - [lexzer42](https://github.com/lexzer42)
 - [sharaneduard8](https://github.com/sharaneduard8)
-- [rodmarkun](https://github.com/rodmarkun)
 
 ## ⭐ Recent stars
 
+- [xiaoji235/airport-free](https://github.com/xiaoji235/airport-free) - Free node, automatically renews subscription every 3hours (today)
+- [vbohush/geometric-progress-view](https://github.com/vbohush/geometric-progress-view) - Customizable progress indicator in the form of 2D geometric shapes (today)
+- [vbohush/SortingAlgorithmAnimations](https://github.com/vbohush/SortingAlgorithmAnimations) - Visualization and comparison of sorting algorithms (today)
+- [FPGADude/Digital-Design](https://github.com/FPGADude/Digital-Design) - Verilog HDL files (today)
 - [krmanik/HSK-3.0](https://github.com/krmanik/HSK-3.0) - Contains HSK 3.0 (HSK 1 to HSK 9) Hanzi, Handwritten, Words and Grammar list, also contains list for Anki decks, with frequency, pinyin, zhuyin and meaning. (today)
-- [krmanik/Anki-xiehanzi](https://github.com/krmanik/Anki-xiehanzi) - Learn, read, write and practice Mandarin by drawing strokes in Anki Desktop, AnkiDroid and AnkiMobile with audio of HSK 2.0 (HSK1-6) and HSK 3.0 (HSK 1-9) characters. (today)
-- [xuanli199/weekly](https://github.com/xuanli199/weekly) - 保存玄离199每周科技补全中提到的各种软件和项目 (today)
-- [NB-Group/NB_Music](https://github.com/NB-Group/NB_Music) - A (not) nearly perfect music player. (today)
-- [kimcrowing/IPTV](https://github.com/kimcrowing/IPTV) - IPTV直播源 (today)
 
 ## 🔨 Latest Pull Requests I published
 
