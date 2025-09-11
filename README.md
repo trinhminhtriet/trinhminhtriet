@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [Upbolt/Hydroxide](https://github.com/Upbolt/Hydroxide) - Lua runtime introspection and network capturing tool for games on the Roblox engine. (today)
-- [depthso/Grow-a-Garden](https://github.com/depthso/Grow-a-Garden) - 🍅 A script for Grow a Garden that features Auto-Sell, Auto-Walk, Auto-Buy, and Auto-Harvest! Free and open source (today)
-- [rjindael/ca-dmv-bot](https://github.com/rjindael/ca-dmv-bot) - Social media bot that posts personalized license plate applications the California DMV received (today)
-- [dongle-the-gadget/WinverUWP](https://github.com/dongle-the-gadget/WinverUWP) - A UWP version of winver (today)
-- [sahaRatul/sela](https://github.com/sahaRatul/sela) - SimplE Lossless Audio (today)
+- [jbsparrow/CyberDropDownloader](https://github.com/jbsparrow/CyberDropDownloader) - Bulk Gallery Downloader for Cyberdrop.me and Other Sites (today)
+- [Acrillis/SynapseX](https://github.com/Acrillis/SynapseX) - The source code to a build of Synapse X dating from October 21, 2019 (today)
+- [atrexus/vulkan](https://github.com/atrexus/vulkan) - A PE dumper for processes protected by user mode anti-tamper solutions (hyperion, theia, etc.) (today)
+- [cocobelgica/AutoHotkey-JSON](https://github.com/cocobelgica/AutoHotkey-JSON) - JSON module for AutoHotkey (today)
+- [iseahound/Vis2](https://github.com/iseahound/Vis2) - Simple OCR using Tesseract (today)
 
 ## 🔨 Latest Pull Requests I published
 
