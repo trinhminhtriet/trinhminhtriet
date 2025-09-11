@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [Bronya0/Kafka-King](https://github.com/Bronya0/Kafka-King) - A modern and practical kafka GUI client 💕🎉 (today)
-- [Bronya0/ES-King](https://github.com/Bronya0/ES-King) - A modern and practical elasticsearch GUI client | 一个现代、实用的ES本地客户端 💕🎉 (today)
-- [baaron4/GW2-Elite-Insights-Parser](https://github.com/baaron4/GW2-Elite-Insights-Parser) - Binary parser for the .evtc files that arcdps generates after a boss encounter. This will generate a .html file where the results can be easily reviewed. (today)
-- [KeepWannabe/Remot3d](https://github.com/KeepWannabe/Remot3d) - Remot3d: is a simple tool created for large pentesters as well as just for the pleasure of defacers to control server by backdoors (today)
-- [petemc89/craXcel](https://github.com/petemc89/craXcel) - Command line application to unlock Microsoft Office password protected files.  (today)
+- [krmanik/HSK-3.0](https://github.com/krmanik/HSK-3.0) - Contains HSK 3.0 (HSK 1 to HSK 9) Hanzi, Handwritten, Words and Grammar list, also contains list for Anki decks, with frequency, pinyin, zhuyin and meaning. (today)
+- [krmanik/Anki-xiehanzi](https://github.com/krmanik/Anki-xiehanzi) - Learn, read, write and practice Mandarin by drawing strokes in Anki Desktop, AnkiDroid and AnkiMobile with audio of HSK 2.0 (HSK1-6) and HSK 3.0 (HSK 1-9) characters. (today)
+- [xuanli199/weekly](https://github.com/xuanli199/weekly) - 保存玄离199每周科技补全中提到的各种软件和项目 (today)
+- [NB-Group/NB_Music](https://github.com/NB-Group/NB_Music) - A (not) nearly perfect music player. (today)
+- [kimcrowing/IPTV](https://github.com/kimcrowing/IPTV) - IPTV直播源 (today)
 
 ## 🔨 Latest Pull Requests I published
 
