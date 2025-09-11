@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [SKaDiZZ](https://github.com/SKaDiZZ)
 - [CJPD00](https://github.com/CJPD00)
 - [BEPb](https://github.com/BEPb)
 - [charith-codex](https://github.com/charith-codex)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [gursmeep404](https://github.com/gursmeep404)
 - [Siratul804](https://github.com/Siratul804)
 - [RajaSunrise](https://github.com/RajaSunrise)
-- [anisha-guptaa](https://github.com/anisha-guptaa)
 
 ## ⭐ Recent stars
 
+- [Kylart/MalScraper](https://github.com/Kylart/MalScraper) - Scrape everything you can from MyAnimeList.net (today)
+- [Loukious/TikTokStreamKeyGenerator](https://github.com/Loukious/TikTokStreamKeyGenerator) - TikTok Live Stream Key Generator for OBS Studio (today)
+- [Loukious/StreamLabsTikTokStreamKeyGenerator](https://github.com/Loukious/StreamLabsTikTokStreamKeyGenerator) - TikTok Live Stream Key Generator for OBS Studio using Streamlabs API (today)
 - [icepick3000/AirtagAlex](https://github.com/icepick3000/AirtagAlex) - Get all metadata from the Airtags (lat, lon, geocoding information, precision range, battery status) (today)
 - [Mythologyli/qBittorrent-NAT-TCP-Hole-Punching](https://github.com/Mythologyli/qBittorrent-NAT-TCP-Hole-Punching) - qBittorrent NAT Hole Punching/qBittorrent NAT 打洞 (today)
-- [Mythologyli/iOSFakeRun](https://github.com/Mythologyli/iOSFakeRun) - 基于虚拟定位的 iOS 免越狱模拟跑步打卡，在线拾取路径，可设置循环次数和跑步速度 (today)
-- [Mythologyli/ZJU-Connect-for-Windows](https://github.com/Mythologyli/ZJU-Connect-for-Windows) - 基于 Qt 编写的 ZJU 网络客户端 (today)
-- [Mythologyli/zju-connect](https://github.com/Mythologyli/zju-connect) - ZJU RVPN 客户端的 Go 语言实现 (today)
 
 ## 🔨 Latest Pull Requests I published
 
