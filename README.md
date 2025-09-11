@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [CJPD00](https://github.com/CJPD00)
 - [BEPb](https://github.com/BEPb)
 - [charith-codex](https://github.com/charith-codex)
 - [gorkemsandikci](https://github.com/gorkemsandikci)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Siratul804](https://github.com/Siratul804)
 - [RajaSunrise](https://github.com/RajaSunrise)
 - [anisha-guptaa](https://github.com/anisha-guptaa)
-- [ishandutta2007](https://github.com/ishandutta2007)
 
 ## ⭐ Recent stars
 
-- [jbsparrow/CyberDropDownloader](https://github.com/jbsparrow/CyberDropDownloader) - Bulk Gallery Downloader for Cyberdrop.me and Other Sites (today)
-- [Acrillis/SynapseX](https://github.com/Acrillis/SynapseX) - The source code to a build of Synapse X dating from October 21, 2019 (today)
-- [atrexus/vulkan](https://github.com/atrexus/vulkan) - A PE dumper for processes protected by user mode anti-tamper solutions (hyperion, theia, etc.) (today)
-- [cocobelgica/AutoHotkey-JSON](https://github.com/cocobelgica/AutoHotkey-JSON) - JSON module for AutoHotkey (today)
-- [iseahound/Vis2](https://github.com/iseahound/Vis2) - Simple OCR using Tesseract (today)
+- [fjqisba/E-Debug](https://github.com/fjqisba/E-Debug) - X64Dbg插件，分析易语言必备神器 (today)
+- [fjqisba/E-debug-plus](https://github.com/fjqisba/E-debug-plus) - 易语言辅助调试工具:https://github.com/fjqisba/E-debug (today)
+- [fjqisba/WeChatStudy](https://github.com/fjqisba/WeChatStudy) - StudyWechat (today)
+- [fjqisba/VmpHelper](https://github.com/fjqisba/VmpHelper) - an ida plugin used to decompile vmp (today)
+- [fjqisba/E-Decompiler](https://github.com/fjqisba/E-Decompiler) - 用来辅助分析易语言程序的IDA插件 (today)
 
 ## 🔨 Latest Pull Requests I published
 
