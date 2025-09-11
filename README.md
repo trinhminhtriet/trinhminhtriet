@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [dkter/aaaaa](https://github.com/dkter/aaaaa) - a minimalist keyboard (today)
-- [wiktorwiktor12/ConsoleLogonHook](https://github.com/wiktorwiktor12/ConsoleLogonHook) (today)
-- [AHXR/ghost](https://github.com/AHXR/ghost) - :ghost: RAT (Remote Access Trojan) - Silent Botnet - Full Remote Command-Line Access - Download & Execute Programs - Spread Virus' & Malware (today)
-- [ochen1/insanely-fast-whisper-cli](https://github.com/ochen1/insanely-fast-whisper-cli) - The fastest Whisper optimization for automatic speech recognition as a command-line interface ⚡️ (today)
-- [lphuberdeau/Neo4j-PHP-OGM](https://github.com/lphuberdeau/Neo4j-PHP-OGM) - A doctrine2 style library to access neo4j graphs (today)
+- [icepick3000/AirtagAlex](https://github.com/icepick3000/AirtagAlex) - Get all metadata from the Airtags (lat, lon, geocoding information, precision range, battery status) (today)
+- [Mythologyli/qBittorrent-NAT-TCP-Hole-Punching](https://github.com/Mythologyli/qBittorrent-NAT-TCP-Hole-Punching) - qBittorrent NAT Hole Punching/qBittorrent NAT 打洞 (today)
+- [Mythologyli/iOSFakeRun](https://github.com/Mythologyli/iOSFakeRun) - 基于虚拟定位的 iOS 免越狱模拟跑步打卡，在线拾取路径，可设置循环次数和跑步速度 (today)
+- [Mythologyli/ZJU-Connect-for-Windows](https://github.com/Mythologyli/ZJU-Connect-for-Windows) - 基于 Qt 编写的 ZJU 网络客户端 (today)
+- [Mythologyli/zju-connect](https://github.com/Mythologyli/zju-connect) - ZJU RVPN 客户端的 Go 语言实现 (today)
 
 ## 🔨 Latest Pull Requests I published
 
