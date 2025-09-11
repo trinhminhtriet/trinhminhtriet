@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [kotoho7/scratch-realtime-earthquake-viewer-page](https://github.com/kotoho7/scratch-realtime-earthquake-viewer-page) - リアルタイム地震ビューアー - Srcatchで作成したプロジェクトをパッケージ化したアプリ (today)
+- [filippofinke/WordGPT](https://github.com/filippofinke/WordGPT) - 🤖 Bring the power of ChatGPT to Microsoft Word (today)
 - [Kylart/MalScraper](https://github.com/Kylart/MalScraper) - Scrape everything you can from MyAnimeList.net (today)
 - [Loukious/TikTokStreamKeyGenerator](https://github.com/Loukious/TikTokStreamKeyGenerator) - TikTok Live Stream Key Generator for OBS Studio (today)
 - [Loukious/StreamLabsTikTokStreamKeyGenerator](https://github.com/Loukious/StreamLabsTikTokStreamKeyGenerator) - TikTok Live Stream Key Generator for OBS Studio using Streamlabs API (today)
-- [icepick3000/AirtagAlex](https://github.com/icepick3000/AirtagAlex) - Get all metadata from the Airtags (lat, lon, geocoding information, precision range, battery status) (today)
-- [Mythologyli/qBittorrent-NAT-TCP-Hole-Punching](https://github.com/Mythologyli/qBittorrent-NAT-TCP-Hole-Punching) - qBittorrent NAT Hole Punching/qBittorrent NAT 打洞 (today)
 
 ## 🔨 Latest Pull Requests I published
 
