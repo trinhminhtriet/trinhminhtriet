@@ -67,6 +67,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 🔨 Latest Pull Requests I published
 
+- [Sync develop to master](https://github.com/trinhminhtriet/DevPilot/pull/1) on [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) (today)
 - [Develop](https://github.com/trinhminhtriet/repoctl/pull/17) on [trinhminhtriet/repoctl](https://github.com/trinhminhtriet/repoctl) (4 months ago)
 - [Develop](https://github.com/trinhminhtriet/scanr/pull/22) on [trinhminhtriet/scanr](https://github.com/trinhminhtriet/scanr) (4 months ago)
-- [Develop](https://github.com/trinhminhtriet/scanr/pull/21) on [trinhminhtriet/scanr](https://github.com/trinhminhtriet/scanr) (4 months ago)
