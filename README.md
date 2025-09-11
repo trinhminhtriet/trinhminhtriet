@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [adityaravishankar/command-and-conquer](https://github.com/adityaravishankar/command-and-conquer) - Command & Conquer in HTML5/Javascript (today)
-- [jodigiordano/gg](https://github.com/jodigiordano/gg) - The diagramming tool for flowcharts, mindmaps, user flows, network & cloud diagrams, and more! (today)
-- [NtQuery/Scylla](https://github.com/NtQuery/Scylla) - Imports Reconstructor (today)
-- [fjqisba/E-Debug](https://github.com/fjqisba/E-Debug) - X64Dbg插件，分析易语言必备神器 (today)
-- [fjqisba/E-debug-plus](https://github.com/fjqisba/E-debug-plus) - 易语言辅助调试工具:https://github.com/fjqisba/E-debug (today)
+- [dkter/aaaaa](https://github.com/dkter/aaaaa) - a minimalist keyboard (today)
+- [wiktorwiktor12/ConsoleLogonHook](https://github.com/wiktorwiktor12/ConsoleLogonHook) (today)
+- [AHXR/ghost](https://github.com/AHXR/ghost) - :ghost: RAT (Remote Access Trojan) - Silent Botnet - Full Remote Command-Line Access - Download & Execute Programs - Spread Virus' & Malware (today)
+- [ochen1/insanely-fast-whisper-cli](https://github.com/ochen1/insanely-fast-whisper-cli) - The fastest Whisper optimization for automatic speech recognition as a command-line interface ⚡️ (today)
+- [lphuberdeau/Neo4j-PHP-OGM](https://github.com/lphuberdeau/Neo4j-PHP-OGM) - A doctrine2 style library to access neo4j graphs (today)
 
 ## 🔨 Latest Pull Requests I published
 
