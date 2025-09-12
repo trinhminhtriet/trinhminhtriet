@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [gauss314/Bursatil-Argentina-Python](https://github.com/gauss314/Bursatil-Argentina-Python) - Guia de ejemplos didácticos en python temática finanzas bolsa trading argentina usa (today)
-- [gauss314/defi](https://github.com/gauss314/defi) - Tools for use in DeFi. Impermanent Loss calculations, staking and farming strategies, coingecko and pancakeswap API queries, liquidity pools and more (today)
-- [aby-ui/repo-base](https://github.com/aby-ui/repo-base) (today)
-- [danielflower/multi-module-maven-release-plugin](https://github.com/danielflower/multi-module-maven-release-plugin) - A maven release plugin that is fast, does not add extra commits, and works well with single or multiple modules (today)
-- [muleyo/VideoAdBlockForTwitch](https://github.com/muleyo/VideoAdBlockForTwitch) - Blocks Ads on Twitch.tv. (today)
+- [huchao1009/cache-best-practice](https://github.com/huchao1009/cache-best-practice) - 缓存最佳实践代码 (today)
+- [yigexiaoyunwei/BaoTa_History_Release](https://github.com/yigexiaoyunwei/BaoTa_History_Release) - 宝塔回退降级老版本，宝塔Linux原版历史版本存档仓库 使用方法https://blog.csdn.net/baotaserver/article/details/140780359 (today)
+- [yigexiaoyunwei/jumpserver_decrypto](https://github.com/yigexiaoyunwei/jumpserver_decrypto) - jumpserver解密secret (today)
+- [jy02404353/btcposbal2csv](https://github.com/jy02404353/btcposbal2csv) - List all bitcoin addresses with positive balance. (today)
+- [chinapandaman/PyPDFForm](https://github.com/chinapandaman/PyPDFForm) - :fire: The Python library for PDF forms. (today)
 
 ## 🔨 Latest Pull Requests I published
 
