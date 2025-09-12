@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [huchao1009/cache-best-practice](https://github.com/huchao1009/cache-best-practice) - 缓存最佳实践代码 (today)
-- [yigexiaoyunwei/BaoTa_History_Release](https://github.com/yigexiaoyunwei/BaoTa_History_Release) - 宝塔回退降级老版本，宝塔Linux原版历史版本存档仓库 使用方法https://blog.csdn.net/baotaserver/article/details/140780359 (today)
-- [yigexiaoyunwei/jumpserver_decrypto](https://github.com/yigexiaoyunwei/jumpserver_decrypto) - jumpserver解密secret (today)
-- [jy02404353/btcposbal2csv](https://github.com/jy02404353/btcposbal2csv) - List all bitcoin addresses with positive balance. (today)
-- [chinapandaman/PyPDFForm](https://github.com/chinapandaman/PyPDFForm) - :fire: The Python library for PDF forms. (today)
+- [metaodi/osmapi](https://github.com/metaodi/osmapi) - Python wrapper for the OpenStreetMap API (today)
+- [akshaynagpal/w2n](https://github.com/akshaynagpal/w2n) - Convert number words (eg. twenty one) to numeric digits (21) (today)
+- [laugustyniak/awesome-sentiment-analysis](https://github.com/laugustyniak/awesome-sentiment-analysis) - Repository with all what is necessary for sentiment analysis and related areas (today)
+- [niedakh/pqdm](https://github.com/niedakh/pqdm) - Comfortable parallel TQDM using concurrent.futures (today)
+- [chuanli11/MGANs](https://github.com/chuanli11/MGANs) - Precomputed Real-Time Texture Synthesis with Markovian Generative Adversarial Networks (today)
 
 ## 🔨 Latest Pull Requests I published
 
