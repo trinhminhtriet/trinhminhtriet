@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [vitoplantamura/MagicTrackpad2ForWindows](https://github.com/vitoplantamura/MagicTrackpad2ForWindows) - Magic Trackpad 2 Precision Touchpad driver for Windows (USB-only), based on the imbushuo driver, with Control Panel to set haptic feedback and options to improve pointer precision. *** October 2024 Magic Trackpad 2 supported. *** (today)
-- [vitoplantamura/HackerNewsRemovals](https://github.com/vitoplantamura/HackerNewsRemovals) - List of stories removed from the Hacker News Front Page, updated in real time. (today)
-- [vitoplantamura/BugChecker](https://github.com/vitoplantamura/BugChecker) - SoftICE-like kernel debugger for Windows 11 (today)
-- [vitoplantamura/OnnxStream](https://github.com/vitoplantamura/OnnxStream) - Lightweight inference library for ONNX files, written in C++. It can run Stable Diffusion XL 1.0 on a RPI Zero 2 (or in 298MB of RAM) but also Mistral 7B on desktops and servers. ARM, x86, WASM, RISC-V supported. Accelerated by XNNPACK. (today)
-- [Liuhaixv/Goose_Goose_Duck_Hack](https://github.com/Liuhaixv/Goose_Goose_Duck_Hack) - External Hack for Goose Goose Duck.  鹅鸭杀外部辅助 (today)
+- [BotoX/Dahua-Firmware-Mod-Kit](https://github.com/BotoX/Dahua-Firmware-Mod-Kit) - Unpack and repack Dahua IP camera firmware upgrade images. (today)
+- [BotoX/xiaomi-m365-compatible-bms](https://github.com/BotoX/xiaomi-m365-compatible-bms) - Xiaomi M365 compatible, open source firmware for ATMega328p+BQ769x0 BMS. Ninebot in proto_test branch (today)
+- [BotoX/xiaomi-m365-firmware-patcher](https://github.com/BotoX/xiaomi-m365-firmware-patcher) - Automatize patching of Xiaomi Mijia M365 electric scooter firmware (today)
+- [BotoX/ServerStatus](https://github.com/BotoX/ServerStatus) - Display and monitor your servers statistics in a beatiful way (today)
+- [pierreguillot/Camomile](https://github.com/pierreguillot/Camomile) - An audio plugin with Pure Data embedded that allows to load and to control patches (today)
 
 ## 🔨 Latest Pull Requests I published
 
