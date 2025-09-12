@@ -34,7 +34,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 ## 👷 Check out what I'm currently working on
 
 - [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (today)
-- [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) - 🚀 All-in-one CLI toolkit for developers: scaffold, manage, automate, and boost productivity across languages! (1 day ago)
+- [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) - 🚀 All-in-one CLI toolkit for developers: scaffold, manage, automate, and boost productivity across languages! (today)
 - [trinhminhtriet/dwipe](https://github.com/trinhminhtriet/dwipe) - 🧹 Fast, cross-platform disk cleanup tool with interactive UI for easy directory size visualization. (1 week ago)
 - [nctl-io/nctl-roadmap](https://github.com/nctl-io/nctl-roadmap) (1 week ago)
 - [nctl-io/.github](https://github.com/nctl-io/.github) - 🌐 Network. Connect. Transform. Lead. (2 weeks ago)
@@ -59,14 +59,15 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [nishant-666/React-GoogleSheets](https://github.com/nishant-666/React-GoogleSheets) (today)
+- [Adrinlol/landy-react-template](https://github.com/Adrinlol/landy-react-template) - Landy is an open-source React landing page template designed for developers and startups, who want to create a quick and professional landing page for their business or project. (today)
+- [Rizwan17/Ecommerce](https://github.com/Rizwan17/Ecommerce) (today)
+- [ritaly/README-cheatsheet](https://github.com/ritaly/README-cheatsheet) - Template for a clear GitHub README (markdown)  (today)
 - [grigory-lobkov/rtsp-camera-view](https://github.com/grigory-lobkov/rtsp-camera-view) - View IP-camera RTSP in grid, auto bandwidth, full-screen, command line support (today)
-- [xajik/rust-cross-platform-mobile](https://github.com/xajik/rust-cross-platform-mobile) - Crossplatform mobile solution based on Rust for IOS & Android (today)
-- [xajik/thedeck](https://github.com/xajik/thedeck) - The Deck: An Open-Source, Cross-Platform, Mobile, Turn by Turn Card Game Engine in Flutter (today)
-- [Ovi/DummyJSON](https://github.com/Ovi/DummyJSON) - DummyJSON.com provides different types of REST Endpoints filled with JSON data which you can use in developing the frontend with your favorite framework and library without worrying about writing a backend. (today)
-- [asjqkkkk/markdown_widget](https://github.com/asjqkkkk/markdown_widget) - 📖Rendering markdown by flutter！Welcome for pr and issue. (today)
 
 ## 🔨 Latest Pull Requests I published
 
+- [feat: Rename DevPilot to pilot and update related links in README](https://github.com/trinhminhtriet/DevPilot/pull/4) on [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) (today)
+- [feat: Enhance EnvDiffCommand to format output as markdown table for b…](https://github.com/trinhminhtriet/DevPilot/pull/3) on [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) (today)
+- [Develop](https://github.com/trinhminhtriet/DevPilot/pull/2) on [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) (today)
 - [Sync develop to master](https://github.com/trinhminhtriet/DevPilot/pull/1) on [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) (1 day ago)
-- [Develop](https://github.com/trinhminhtriet/repoctl/pull/17) on [trinhminhtriet/repoctl](https://github.com/trinhminhtriet/repoctl) (4 months ago)
-- [Develop](https://github.com/trinhminhtriet/scanr/pull/22) on [trinhminhtriet/scanr](https://github.com/trinhminhtriet/scanr) (4 months ago)
