@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [ogwurujohnson/arbitrage-bot](https://github.com/ogwurujohnson/arbitrage-bot) - An arbitrage bot that detects arbitrage opportunities between pancake and bakery swaps and manages flash swap calls, to the flash swap contract (today)
+- [sdkcarlos/artyom.js](https://github.com/sdkcarlos/artyom.js) - A voice control - voice commands - speech recognition and speech synthesis javascript library. Create your own siri,google now or cortana with Google Chrome within your website. (today)
+- [mabe02/lanterna](https://github.com/mabe02/lanterna) - Java library for creating text-based GUIs (today)
+- [lanzhihong6/stock-scanner](https://github.com/lanzhihong6/stock-scanner) - 开源量化分析 (today)
 - [douglasg14b/awesome-semantic-ui](https://github.com/douglasg14b/awesome-semantic-ui) - A curated list of Semantic-UI & Fomantic-UI resources and related projects (today)
-- [ItIsMeCall911/Awesome-Telegram-OSINT](https://github.com/ItIsMeCall911/Awesome-Telegram-OSINT) - 📚 A Curated List of Awesome Telegram OSINT Tools, Sites & Resources (today)
-- [ItIsMeCall911/Course-Piracy-Index](https://github.com/ItIsMeCall911/Course-Piracy-Index) - Course Piracy Index 🏴‍☠️ (today)
-- [nishant-666/React-GoogleSheets](https://github.com/nishant-666/React-GoogleSheets) (today)
-- [Adrinlol/landy-react-template](https://github.com/Adrinlol/landy-react-template) - Landy is an open-source React landing page template designed for developers and startups, who want to create a quick and professional landing page for their business or project. (today)
 
 ## 🔨 Latest Pull Requests I published
 
