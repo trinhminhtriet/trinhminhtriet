@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [ifatinha](https://github.com/ifatinha)
 - [shoxa0707](https://github.com/shoxa0707)
 - [flameastro](https://github.com/flameastro)
 - [sergio-matos-tech](https://github.com/sergio-matos-tech)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [BEPb](https://github.com/BEPb)
 - [charith-codex](https://github.com/charith-codex)
 - [gorkemsandikci](https://github.com/gorkemsandikci)
-- [crimsonglitch](https://github.com/crimsonglitch)
 
 ## ⭐ Recent stars
 
-- [m-bain/CondensedMovies](https://github.com/m-bain/CondensedMovies) - Story-Based Retrieval with Contextual Embeddings. Largest freely available movie video dataset. [ACCV'20] (today)
-- [codingo/Minesweeper](https://github.com/codingo/Minesweeper) - A Burpsuite plugin (BApp) to aid in the detection of scripts being loaded from over 23000 malicious cryptocurrency mining domains (cryptojacking). (today)
-- [codingo/crithit](https://github.com/codingo/crithit) - Takes a single wordlist item and tests it one by one over a large collection of websites before moving onto the next. Create signatures to cross-check vulnerabilities over multiple hosts. (today)
-- [codingo/bbr](https://github.com/codingo/bbr) - An open source tool to aid in command line driven generation of bug bounty reports based on user provided templates. (today)
-- [codingo/dorky](https://github.com/codingo/dorky) - A tool to quickly do keyword searches over Gitlab and Github for OSINT & bug bounty recon (today)
+- [traviscross/mtr](https://github.com/traviscross/mtr) - Official repository for mtr, a network diagnostic tool (today)
+- [moorepants/learn-multibody-dynamics](https://github.com/moorepants/learn-multibody-dynamics) - Interactive computational book on multibody dynamics (today)
+- [EugenMayer/docker-sync-boilerplate](https://github.com/EugenMayer/docker-sync-boilerplate) - A simple boilerplate for docker-sync (today)
+- [kizitonwose/android-disposebag](https://github.com/kizitonwose/android-disposebag) - Automatically dispose RxJava 2 streams on Android using Lifecycle events. (today)
+- [NathanFlurry/VisualProgrammingLanguage](https://github.com/NathanFlurry/VisualProgrammingLanguage) - Visual programming language written in Swift that assembles to executable Swift code. (today)
 
 ## 🔨 Latest Pull Requests I published
 
