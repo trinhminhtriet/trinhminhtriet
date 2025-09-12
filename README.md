@@ -33,8 +33,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👷 Check out what I'm currently working on
 
-- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (today)
 - [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) - 🚀 All-in-one CLI toolkit for developers: scaffold, manage, automate, and boost productivity across languages! (today)
+- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (today)
 - [trinhminhtriet/dwipe](https://github.com/trinhminhtriet/dwipe) - 🧹 Fast, cross-platform disk cleanup tool with interactive UI for easy directory size visualization. (1 week ago)
 - [nctl-io/nctl-roadmap](https://github.com/nctl-io/nctl-roadmap) (1 week ago)
 - [nctl-io/.github](https://github.com/nctl-io/.github) - 🌐 Network. Connect. Transform. Lead. (2 weeks ago)
@@ -59,14 +59,15 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [douglasg14b/awesome-semantic-ui](https://github.com/douglasg14b/awesome-semantic-ui) - A curated list of Semantic-UI & Fomantic-UI resources and related projects (today)
 - [ItIsMeCall911/Awesome-Telegram-OSINT](https://github.com/ItIsMeCall911/Awesome-Telegram-OSINT) - 📚 A Curated List of Awesome Telegram OSINT Tools, Sites & Resources (today)
 - [ItIsMeCall911/Course-Piracy-Index](https://github.com/ItIsMeCall911/Course-Piracy-Index) - Course Piracy Index 🏴‍☠️ (today)
 - [nishant-666/React-GoogleSheets](https://github.com/nishant-666/React-GoogleSheets) (today)
 - [Adrinlol/landy-react-template](https://github.com/Adrinlol/landy-react-template) - Landy is an open-source React landing page template designed for developers and startups, who want to create a quick and professional landing page for their business or project. (today)
-- [Rizwan17/Ecommerce](https://github.com/Rizwan17/Ecommerce) (today)
 
 ## 🔨 Latest Pull Requests I published
 
+- [Develop](https://github.com/trinhminhtriet/DevPilot/pull/5) on [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) (today)
 - [feat: Rename DevPilot to pilot and update related links in README](https://github.com/trinhminhtriet/DevPilot/pull/4) on [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) (today)
 - [feat: Enhance EnvDiffCommand to format output as markdown table for b…](https://github.com/trinhminhtriet/DevPilot/pull/3) on [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) (today)
 - [Develop](https://github.com/trinhminhtriet/DevPilot/pull/2) on [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) (today)
