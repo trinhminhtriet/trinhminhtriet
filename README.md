@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [traviscross/mtr](https://github.com/traviscross/mtr) - Official repository for mtr, a network diagnostic tool (today)
-- [moorepants/learn-multibody-dynamics](https://github.com/moorepants/learn-multibody-dynamics) - Interactive computational book on multibody dynamics (today)
-- [EugenMayer/docker-sync-boilerplate](https://github.com/EugenMayer/docker-sync-boilerplate) - A simple boilerplate for docker-sync (today)
-- [kizitonwose/android-disposebag](https://github.com/kizitonwose/android-disposebag) - Automatically dispose RxJava 2 streams on Android using Lifecycle events. (today)
-- [NathanFlurry/VisualProgrammingLanguage](https://github.com/NathanFlurry/VisualProgrammingLanguage) - Visual programming language written in Swift that assembles to executable Swift code. (today)
+- [dshukertjr/spot](https://github.com/dshukertjr/spot) - Open source geo based video sharing social app created with Flutter, Supabase and lots of love 💙💙💙 (today)
+- [AhmedLSayed9/shopzler](https://github.com/AhmedLSayed9/shopzler) - E-Commerce App built on Flutter Framework with Firebase as Backend, Multi-Module MVVM Architecture, GetX as State-Management and SQLite. (today)
+- [AhmedLSayed9/dropdown_button2](https://github.com/AhmedLSayed9/dropdown_button2) - Flutter's core Dropdown Button widget with steady dropdown menu and many other features. (today)
+- [AhmedLSayed9/deliverzler](https://github.com/AhmedLSayed9/deliverzler) - Delivery App for Restaurants built on Flutter using Domain-Driven Design (DDD) and Layered Architecture along with Riverpod Framework. (today)
+- [kidonng/unocss-preset-daisy](https://github.com/kidonng/unocss-preset-daisy) - UnoCSS preset for daisyUI (today)
 
 ## 🔨 Latest Pull Requests I published
 
