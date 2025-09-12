@@ -46,6 +46,9 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [HectorDanielAyarachiFuentes](https://github.com/HectorDanielAyarachiFuentes)
+- [Mic-360](https://github.com/Mic-360)
+- [SirSiestaLord](https://github.com/SirSiestaLord)
 - [lrepo52](https://github.com/lrepo52)
 - [SamyShaawat](https://github.com/SamyShaawat)
 - [mhrafi21](https://github.com/mhrafi21)
@@ -53,9 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [shoxa0707](https://github.com/shoxa0707)
 - [flameastro](https://github.com/flameastro)
 - [sergio-matos-tech](https://github.com/sergio-matos-tech)
-- [HamedAkbarzadeh](https://github.com/HamedAkbarzadeh)
-- [SKaDiZZ](https://github.com/SKaDiZZ)
-- [CJPD00](https://github.com/CJPD00)
 
 ## ⭐ Recent stars
 
