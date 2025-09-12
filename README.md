@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [mhrafi21](https://github.com/mhrafi21)
 - [ifatinha](https://github.com/ifatinha)
 - [shoxa0707](https://github.com/shoxa0707)
 - [flameastro](https://github.com/flameastro)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [CJPD00](https://github.com/CJPD00)
 - [BEPb](https://github.com/BEPb)
 - [charith-codex](https://github.com/charith-codex)
-- [gorkemsandikci](https://github.com/gorkemsandikci)
 
 ## ⭐ Recent stars
 
