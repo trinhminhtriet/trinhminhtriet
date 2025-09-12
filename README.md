@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [lrepo52](https://github.com/lrepo52)
 - [SamyShaawat](https://github.com/SamyShaawat)
 - [mhrafi21](https://github.com/mhrafi21)
 - [ifatinha](https://github.com/ifatinha)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [HamedAkbarzadeh](https://github.com/HamedAkbarzadeh)
 - [SKaDiZZ](https://github.com/SKaDiZZ)
 - [CJPD00](https://github.com/CJPD00)
-- [BEPb](https://github.com/BEPb)
 
 ## ⭐ Recent stars
 
