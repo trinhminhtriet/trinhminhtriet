@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [ddPn08/kohya-sd-scripts-webui](https://github.com/ddPn08/kohya-sd-scripts-webui) - Gradio wrapper for sd-scripts by kohya (today)
+- [ddPn08/automatic1111-colab](https://github.com/ddPn08/automatic1111-colab) - Using StableDiffusion webui on Colab (today)
+- [ddPn08/rvc-webui](https://github.com/ddPn08/rvc-webui) - liujing04/Retrieval-based-Voice-Conversion-WebUI reconstruction project (today)
+- [ddPn08/Radiata](https://github.com/ddPn08/Radiata) - Stable diffusion webui based on diffusers. (today)
 - [dshukertjr/spot](https://github.com/dshukertjr/spot) - Open source geo based video sharing social app created with Flutter, Supabase and lots of love 💙💙💙 (today)
-- [AhmedLSayed9/shopzler](https://github.com/AhmedLSayed9/shopzler) - E-Commerce App built on Flutter Framework with Firebase as Backend, Multi-Module MVVM Architecture, GetX as State-Management and SQLite. (today)
-- [AhmedLSayed9/dropdown_button2](https://github.com/AhmedLSayed9/dropdown_button2) - Flutter's core Dropdown Button widget with steady dropdown menu and many other features. (today)
-- [AhmedLSayed9/deliverzler](https://github.com/AhmedLSayed9/deliverzler) - Delivery App for Restaurants built on Flutter using Domain-Driven Design (DDD) and Layered Architecture along with Riverpod Framework. (today)
-- [kidonng/unocss-preset-daisy](https://github.com/kidonng/unocss-preset-daisy) - UnoCSS preset for daisyUI (today)
 
 ## 🔨 Latest Pull Requests I published
 
