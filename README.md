@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [ddPn08/kohya-sd-scripts-webui](https://github.com/ddPn08/kohya-sd-scripts-webui) - Gradio wrapper for sd-scripts by kohya (today)
-- [ddPn08/automatic1111-colab](https://github.com/ddPn08/automatic1111-colab) - Using StableDiffusion webui on Colab (today)
-- [ddPn08/rvc-webui](https://github.com/ddPn08/rvc-webui) - liujing04/Retrieval-based-Voice-Conversion-WebUI reconstruction project (today)
-- [ddPn08/Radiata](https://github.com/ddPn08/Radiata) - Stable diffusion webui based on diffusers. (today)
-- [dshukertjr/spot](https://github.com/dshukertjr/spot) - Open source geo based video sharing social app created with Flutter, Supabase and lots of love 💙💙💙 (today)
+- [grigory-lobkov/rtsp-camera-view](https://github.com/grigory-lobkov/rtsp-camera-view) - View IP-camera RTSP in grid, auto bandwidth, full-screen, command line support (today)
+- [xajik/rust-cross-platform-mobile](https://github.com/xajik/rust-cross-platform-mobile) - Crossplatform mobile solution based on Rust for IOS & Android (today)
+- [xajik/thedeck](https://github.com/xajik/thedeck) - The Deck: An Open-Source, Cross-Platform, Mobile, Turn by Turn Card Game Engine in Flutter (today)
+- [Ovi/DummyJSON](https://github.com/Ovi/DummyJSON) - DummyJSON.com provides different types of REST Endpoints filled with JSON data which you can use in developing the frontend with your favorite framework and library without worrying about writing a backend. (today)
+- [asjqkkkk/markdown_widget](https://github.com/asjqkkkk/markdown_widget) - 📖Rendering markdown by flutter！Welcome for pr and issue. (today)
 
 ## 🔨 Latest Pull Requests I published
 
