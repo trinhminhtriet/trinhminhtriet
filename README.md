@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [SamyShaawat](https://github.com/SamyShaawat)
 - [mhrafi21](https://github.com/mhrafi21)
 - [ifatinha](https://github.com/ifatinha)
 - [shoxa0707](https://github.com/shoxa0707)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [SKaDiZZ](https://github.com/SKaDiZZ)
 - [CJPD00](https://github.com/CJPD00)
 - [BEPb](https://github.com/BEPb)
-- [charith-codex](https://github.com/charith-codex)
 
 ## ⭐ Recent stars
 
+- [ItIsMeCall911/Awesome-Telegram-OSINT](https://github.com/ItIsMeCall911/Awesome-Telegram-OSINT) - 📚 A Curated List of Awesome Telegram OSINT Tools, Sites & Resources (today)
+- [ItIsMeCall911/Course-Piracy-Index](https://github.com/ItIsMeCall911/Course-Piracy-Index) - Course Piracy Index 🏴‍☠️ (today)
 - [nishant-666/React-GoogleSheets](https://github.com/nishant-666/React-GoogleSheets) (today)
 - [Adrinlol/landy-react-template](https://github.com/Adrinlol/landy-react-template) - Landy is an open-source React landing page template designed for developers and startups, who want to create a quick and professional landing page for their business or project. (today)
 - [Rizwan17/Ecommerce](https://github.com/Rizwan17/Ecommerce) (today)
-- [ritaly/README-cheatsheet](https://github.com/ritaly/README-cheatsheet) - Template for a clear GitHub README (markdown)  (today)
-- [grigory-lobkov/rtsp-camera-view](https://github.com/grigory-lobkov/rtsp-camera-view) - View IP-camera RTSP in grid, auto bandwidth, full-screen, command line support (today)
 
 ## 🔨 Latest Pull Requests I published
 
