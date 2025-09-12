@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [metaodi/osmapi](https://github.com/metaodi/osmapi) - Python wrapper for the OpenStreetMap API (today)
-- [akshaynagpal/w2n](https://github.com/akshaynagpal/w2n) - Convert number words (eg. twenty one) to numeric digits (21) (today)
-- [laugustyniak/awesome-sentiment-analysis](https://github.com/laugustyniak/awesome-sentiment-analysis) - Repository with all what is necessary for sentiment analysis and related areas (today)
-- [niedakh/pqdm](https://github.com/niedakh/pqdm) - Comfortable parallel TQDM using concurrent.futures (today)
-- [chuanli11/MGANs](https://github.com/chuanli11/MGANs) - Precomputed Real-Time Texture Synthesis with Markovian Generative Adversarial Networks (today)
+- [m-bain/CondensedMovies](https://github.com/m-bain/CondensedMovies) - Story-Based Retrieval with Contextual Embeddings. Largest freely available movie video dataset. [ACCV'20] (today)
+- [codingo/Minesweeper](https://github.com/codingo/Minesweeper) - A Burpsuite plugin (BApp) to aid in the detection of scripts being loaded from over 23000 malicious cryptocurrency mining domains (cryptojacking). (today)
+- [codingo/crithit](https://github.com/codingo/crithit) - Takes a single wordlist item and tests it one by one over a large collection of websites before moving onto the next. Create signatures to cross-check vulnerabilities over multiple hosts. (today)
+- [codingo/bbr](https://github.com/codingo/bbr) - An open source tool to aid in command line driven generation of bug bounty reports based on user provided templates. (today)
+- [codingo/dorky](https://github.com/codingo/dorky) - A tool to quickly do keyword searches over Gitlab and Github for OSINT & bug bounty recon (today)
 
 ## 🔨 Latest Pull Requests I published
 
