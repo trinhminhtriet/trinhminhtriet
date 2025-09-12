@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [shoxa0707](https://github.com/shoxa0707)
 - [flameastro](https://github.com/flameastro)
 - [sergio-matos-tech](https://github.com/sergio-matos-tech)
 - [HamedAkbarzadeh](https://github.com/HamedAkbarzadeh)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [charith-codex](https://github.com/charith-codex)
 - [gorkemsandikci](https://github.com/gorkemsandikci)
 - [crimsonglitch](https://github.com/crimsonglitch)
-- [yeakiniqra](https://github.com/yeakiniqra)
 
 ## ⭐ Recent stars
 
