@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [BotoX/Dahua-Firmware-Mod-Kit](https://github.com/BotoX/Dahua-Firmware-Mod-Kit) - Unpack and repack Dahua IP camera firmware upgrade images. (today)
-- [BotoX/xiaomi-m365-compatible-bms](https://github.com/BotoX/xiaomi-m365-compatible-bms) - Xiaomi M365 compatible, open source firmware for ATMega328p+BQ769x0 BMS. Ninebot in proto_test branch (today)
-- [BotoX/xiaomi-m365-firmware-patcher](https://github.com/BotoX/xiaomi-m365-firmware-patcher) - Automatize patching of Xiaomi Mijia M365 electric scooter firmware (today)
-- [BotoX/ServerStatus](https://github.com/BotoX/ServerStatus) - Display and monitor your servers statistics in a beatiful way (today)
-- [pierreguillot/Camomile](https://github.com/pierreguillot/Camomile) - An audio plugin with Pure Data embedded that allows to load and to control patches (today)
+- [gauss314/Bursatil-Argentina-Python](https://github.com/gauss314/Bursatil-Argentina-Python) - Guia de ejemplos didácticos en python temática finanzas bolsa trading argentina usa (today)
+- [gauss314/defi](https://github.com/gauss314/defi) - Tools for use in DeFi. Impermanent Loss calculations, staking and farming strategies, coingecko and pancakeswap API queries, liquidity pools and more (today)
+- [aby-ui/repo-base](https://github.com/aby-ui/repo-base) (today)
+- [danielflower/multi-module-maven-release-plugin](https://github.com/danielflower/multi-module-maven-release-plugin) - A maven release plugin that is fast, does not add extra commits, and works well with single or multiple modules (today)
+- [muleyo/VideoAdBlockForTwitch](https://github.com/muleyo/VideoAdBlockForTwitch) - Blocks Ads on Twitch.tv. (today)
 
 ## 🔨 Latest Pull Requests I published
 
