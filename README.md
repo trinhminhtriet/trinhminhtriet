@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [marinskiy/HackerrankPractice](https://github.com/marinskiy/HackerrankPractice) - 170+ solutions to Hackerrank.com practice problems using Python 3, С++ and Oracle SQL (today)
-- [ogwurujohnson/arbitrage-bot](https://github.com/ogwurujohnson/arbitrage-bot) - An arbitrage bot that detects arbitrage opportunities between pancake and bakery swaps and manages flash swap calls, to the flash swap contract (1 day ago)
-- [sdkcarlos/artyom.js](https://github.com/sdkcarlos/artyom.js) - A voice control - voice commands - speech recognition and speech synthesis javascript library. Create your own siri,google now or cortana with Google Chrome within your website. (1 day ago)
-- [mabe02/lanterna](https://github.com/mabe02/lanterna) - Java library for creating text-based GUIs (1 day ago)
-- [lanzhihong6/stock-scanner](https://github.com/lanzhihong6/stock-scanner) - 开源量化分析 (1 day ago)
+- [chinmaymahajan/Registration-and-Login-using-MERN-stack](https://github.com/chinmaymahajan/Registration-and-Login-using-MERN-stack) - Simple Registration and Login component with MERN stack (today)
+- [Gituser143/cryptgo](https://github.com/Gituser143/cryptgo) - A terminal application to watch crypto prices! (today)
+- [HeZaiJin/AnimatedRecordingView](https://github.com/HeZaiJin/AnimatedRecordingView) - Android animated recording view (today)
+- [HeZaiJin/SlantedTextView](https://github.com/HeZaiJin/SlantedTextView) - Android slanted TextView. (today)
+- [o2e/OLLVM-9.0.1](https://github.com/o2e/OLLVM-9.0.1) - OLLVM-9.0.1-NDK-21.3.6528147(ndk-r21d) (today)
 
 ## 🔨 Latest Pull Requests I published
 
