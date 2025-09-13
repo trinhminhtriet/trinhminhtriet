@@ -59,16 +59,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [Ricky-Wilson/Programming-books](https://github.com/Ricky-Wilson/Programming-books) - Books on programming and computer science  (today)
-- [Yashas120/Multiview-3D-Reconstruction](https://github.com/Yashas120/Multiview-3D-Reconstruction) - Using traditional image processing techniques to construct 3D point cloud of objects. Incremental Structure from Motion (SfM) is used, a popular SfM algorithm for 3D reconstruction for reconstruction. The method is then evaluated using certain 3D reconstruction datasets. (today)
-- [chinmaymahajan/Registration-and-Login-using-MERN-stack](https://github.com/chinmaymahajan/Registration-and-Login-using-MERN-stack) - Simple Registration and Login component with MERN stack (today)
-- [Gituser143/cryptgo](https://github.com/Gituser143/cryptgo) - A terminal application to watch crypto prices! (today)
-- [HeZaiJin/AnimatedRecordingView](https://github.com/HeZaiJin/AnimatedRecordingView) - Android animated recording view (today)
+- [dechamps/laplock](https://github.com/dechamps/laplock) - Auto-lock your Windows computer when the lid is closed or the screen turns off. (today)
+- [dechamps/RudeWindowFixer](https://github.com/dechamps/RudeWindowFixer) - Fix Windows taskbar always-on-top issues (today)
+- [dechamps/WinIPBroadcast](https://github.com/dechamps/WinIPBroadcast) - Automagically sends IP broadcast packets to all interfaces on Windows (today)
+- [dechamps/FlexASIO](https://github.com/dechamps/FlexASIO) - A flexible universal ASIO driver that uses the PortAudio sound I/O library. Supports WASAPI (shared and exclusive), KS, DirectSound and MME. (today)
+- [LucasBassetti/react-native-chatbot](https://github.com/LucasBassetti/react-native-chatbot) - :speech_balloon: Easy way to create conversation chats (today)
 
 ## 🔨 Latest Pull Requests I published
 
+- [fix: Update repository URL in README for cloning instructions](https://github.com/trinhminhtriet/DevPilot/pull/7) on [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) (today)
+- [Develop](https://github.com/trinhminhtriet/DevPilot/pull/6) on [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) (today)
 - [Develop](https://github.com/trinhminhtriet/DevPilot/pull/5) on [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) (1 day ago)
 - [feat: Rename DevPilot to pilot and update related links in README](https://github.com/trinhminhtriet/DevPilot/pull/4) on [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) (1 day ago)
 - [feat: Enhance EnvDiffCommand to format output as markdown table for b…](https://github.com/trinhminhtriet/DevPilot/pull/3) on [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) (1 day ago)
-- [Develop](https://github.com/trinhminhtriet/DevPilot/pull/2) on [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) (1 day ago)
-- [Sync develop to master](https://github.com/trinhminhtriet/DevPilot/pull/1) on [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) (2 days ago)
