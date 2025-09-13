@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [klahnakoski/mo-sql-parsing](https://github.com/klahnakoski/mo-sql-parsing) - Let's make a SQL parser so we can provide a familiar interface to non-sql datastores! (today)
+- [LTe/acts-as-messageable](https://github.com/LTe/acts-as-messageable) - Gem that allows communication between the models. (today)
 - [Vishal-Singh-Panwar/InfiniteScrolling](https://github.com/Vishal-Singh-Panwar/InfiniteScrolling) - Add infinite scrolling to collection view. (today)
 - [tinalatif/flat.icns](https://github.com/tinalatif/flat.icns) - A flat icon set for OS X (today)
 - [prat0318/json_resume](https://github.com/prat0318/json_resume) - Generates pretty HTML, LaTeX, markdown, with biodata feeded as input in JSON (today)
-- [petermetz/cordova-plugin-ibeacon](https://github.com/petermetz/cordova-plugin-ibeacon) - An iBeacon plugin for Phonegap / Cordova 3.x and upwards. Supports both iOS and Android (contributions are welcome) (today)
-- [deshpandenu/Time-Series-Forecasting-of-Amazon-Stock-Prices-using-Neural-Networks-LSTM-and-GAN-](https://github.com/deshpandenu/Time-Series-Forecasting-of-Amazon-Stock-Prices-using-Neural-Networks-LSTM-and-GAN-) - Project analyzes Amazon Stock data using Python. Feature Extraction is performed and ARIMA and Fourier series models are made. LSTM is used with multiple features to predict stock prices and then sentimental analysis is performed using news and reddit sentiments.  GANs are used to predict stock data too where Amazon data is taken from an API as Generator and CNNs are used as discriminator.  (today)
 
 ## 🔨 Latest Pull Requests I published
 
