@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [connect2abdulaziz](https://github.com/connect2abdulaziz)
 - [eggduzao](https://github.com/eggduzao)
 - [Kwynto](https://github.com/Kwynto)
 - [niloRoch](https://github.com/niloRoch)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [155728](https://github.com/155728)
 - [codemonkey0612](https://github.com/codemonkey0612)
 - [HectorDanielAyarachiFuentes](https://github.com/HectorDanielAyarachiFuentes)
-- [Mic-360](https://github.com/Mic-360)
 
 ## ⭐ Recent stars
 
+- [tooto1985/js-array-operations](https://github.com/tooto1985/js-array-operations) - 20 kinds of methods to get to know a JavaScript array operations. (today)
+- [Admol/SystemDesign](https://github.com/Admol/SystemDesign) - 系统设计面试：内幕指南（System Design Interview: An Insider’s Guide） (today)
+- [hogan-tech/leetcode-solution](https://github.com/hogan-tech/leetcode-solution) - Explore diverse LeetCode solutions in Python, C++, JavaScript, SQL, and TypeScript. Ideal for interview prep, learning, and code practice in multiple programming languages. (today)
 - [gnehs/subtitle-translator](https://github.com/gnehs/subtitle-translator) - Translate subtitle using ChatGPT (today)
 - [gnehs/subtitle-translator-electron](https://github.com/gnehs/subtitle-translator-electron) - ↔️ Translate subtitle using LLM (today)
-- [natewren/moonshine-iconpack](https://github.com/natewren/moonshine-iconpack) - Graphical Assets for the Moonshine Icon Pack on Google Play (today)
-- [gonsakon/Learn-Sass-in-90-days](https://github.com/gonsakon/Learn-Sass-in-90-days) (today)
-- [xiangsudian/CaoMei](https://github.com/xiangsudian/CaoMei) - 🍓CaoMei Icon - Designed for developers and creatros http://chuangzaoshi.com/icon/ (today)
 
 ## 🔨 Latest Pull Requests I published
 
