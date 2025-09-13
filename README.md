@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [ericallam/font_assets](https://github.com/ericallam/font_assets) - Helps with serving font assets with Rails 3.1 (today)
-- [bubkoo/ascii-progress](https://github.com/bubkoo/ascii-progress) - 🍓 Ascii progress-bar(s) in the terminal. (today)
-- [bubkoo/html-to-image](https://github.com/bubkoo/html-to-image) - ✂️ Generates an image from a DOM node using HTML5 canvas and SVG. (today)
-- [digitarald/digitarald-fancyupload](https://github.com/digitarald/digitarald-fancyupload) - Swiff meets Ajax for powerful and elegant uploads (MooTools Plugin). (today)
-- [ipedrazas/taiga-docker](https://github.com/ipedrazas/taiga-docker) - Docker scripts to run your own Taiga (today)
+- [acdlite/redux-transducers](https://github.com/acdlite/redux-transducers) - Transducer utilities for Redux. (today)
+- [acdlite/realm](https://github.com/acdlite/realm) (today)
+- [acdlite/redux-batched-updates](https://github.com/acdlite/redux-batched-updates) - Batch React updates that occur as a result of Redux dispatches, to prevent cascading renders. See https://github.com/gaearon/redux/issues/125 for more details. (today)
+- [acdlite/rfcs](https://github.com/acdlite/rfcs) - RFCs for changes to React (today)
+- [acdlite/react-remarkable](https://github.com/acdlite/react-remarkable) - A React component for rendering Markdown with remarkable (today)
 
 ## 🔨 Latest Pull Requests I published
 
