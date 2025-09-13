@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [SanojYadav17](https://github.com/SanojYadav17)
 - [NissaGame](https://github.com/NissaGame)
 - [RafalW3bCraft](https://github.com/RafalW3bCraft)
 - [155728](https://github.com/155728)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Mic-360](https://github.com/Mic-360)
 - [SirSiestaLord](https://github.com/SirSiestaLord)
 - [lrepo52](https://github.com/lrepo52)
-- [SamyShaawat](https://github.com/SamyShaawat)
 
 ## ⭐ Recent stars
 
-- [Ardakilic/alerthub](https://github.com/Ardakilic/alerthub) - AlertHub is a simple tool written with NodeJS to get alerted from new GitHub and GitLab repository events.  (today)
-- [jbenet/transformer](https://github.com/jbenet/transformer) - transformer - multiformat data conversion (today)
-- [jbenet/bson-cpp](https://github.com/jbenet/bson-cpp) - Standalone repository for mongodb's BSON C++ Implementation (today)
-- [jbenet/random-ideas](https://github.com/jbenet/random-ideas) - random ideas (today)
-- [jbenet/ios-ntp](https://github.com/jbenet/ios-ntp) - SNTP implementation for iOS (today)
+- [ericallam/font_assets](https://github.com/ericallam/font_assets) - Helps with serving font assets with Rails 3.1 (today)
+- [bubkoo/ascii-progress](https://github.com/bubkoo/ascii-progress) - 🍓 Ascii progress-bar(s) in the terminal. (today)
+- [bubkoo/html-to-image](https://github.com/bubkoo/html-to-image) - ✂️ Generates an image from a DOM node using HTML5 canvas and SVG. (today)
+- [digitarald/digitarald-fancyupload](https://github.com/digitarald/digitarald-fancyupload) - Swiff meets Ajax for powerful and elegant uploads (MooTools Plugin). (today)
+- [ipedrazas/taiga-docker](https://github.com/ipedrazas/taiga-docker) - Docker scripts to run your own Taiga (today)
 
 ## 🔨 Latest Pull Requests I published
 
