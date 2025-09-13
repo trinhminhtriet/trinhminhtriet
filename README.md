@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [klahnakoski/mo-sql-parsing](https://github.com/klahnakoski/mo-sql-parsing) - Let's make a SQL parser so we can provide a familiar interface to non-sql datastores! (today)
-- [LTe/acts-as-messageable](https://github.com/LTe/acts-as-messageable) - Gem that allows communication between the models. (today)
-- [Vishal-Singh-Panwar/InfiniteScrolling](https://github.com/Vishal-Singh-Panwar/InfiniteScrolling) - Add infinite scrolling to collection view. (today)
-- [tinalatif/flat.icns](https://github.com/tinalatif/flat.icns) - A flat icon set for OS X (today)
-- [prat0318/json_resume](https://github.com/prat0318/json_resume) - Generates pretty HTML, LaTeX, markdown, with biodata feeded as input in JSON (today)
+- [Kilo-Loco/30DaysOfFlutter](https://github.com/Kilo-Loco/30DaysOfFlutter) (today)
+- [subhan-nadeem/EZShop](https://github.com/subhan-nadeem/EZShop) - Award winning frictionless shopping IoT and mobile application infrastructure. Created by Subhan Nadeem, Ruslan Nikolaev, John Choi, and Soheil Hamidi (today)
+- [dalenguyen/wordpress-snippets](https://github.com/dalenguyen/wordpress-snippets) - Useful WordPress Snippets for Web Development (today)
+- [dalenguyen/firestore-import-export](https://github.com/dalenguyen/firestore-import-export) - An application that can help you to backup and restore from Cloud Firestore | Firebase (today)
+- [dalenguyen/rest-api-node-typescript](https://github.com/dalenguyen/rest-api-node-typescript) - Building RESTful Web APIs with Node.js, Express, MongoDB and TypeScript (today)
 
 ## 🔨 Latest Pull Requests I published
 
