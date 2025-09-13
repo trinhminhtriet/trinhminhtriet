@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [tadwhitaker/Security_Architect_and_Principal_Security_Engineer_Interview_Questions](https://github.com/tadwhitaker/Security_Architect_and_Principal_Security_Engineer_Interview_Questions) - This is a companion to the Security Engineer Questions (today)
+- [tadwhitaker/Security_Engineer_Interview_Questions](https://github.com/tadwhitaker/Security_Engineer_Interview_Questions) - Every Security Engineer Interview Question From Glassdoor.com (today)
+- [vedartm/pagination_view](https://github.com/vedartm/pagination_view) - Flutter package to simplify pagination of list of items from the internet. (today)
+- [vedartm/rick-and-morty-info](https://github.com/vedartm/rick-and-morty-info) - Made with Clean architecture + TDD + GraphQL + flutter_bloc + CodeCov + GitHooks + GitHub Actions (CI/CD) and finally with 💙 (today)
 - [synackuk/checkm8-a5](https://github.com/synackuk/checkm8-a5) - checkm8 port for S5L8940X/S5L8942X/S5L8945X (today)
-- [synackuk/n1ghtshade](https://github.com/synackuk/n1ghtshade) - A bootchain jailbreak/downgrade utility for 32 bit iOS devices. (today)
-- [DiegoCatalano/Catalano-Framework](https://github.com/DiegoCatalano/Catalano-Framework) - Framework (today)
-- [mrmodise/nodejs-ecommerce-store](https://github.com/mrmodise/nodejs-ecommerce-store) - An ecommerce store built in NodeJS (today)
-- [ambujraj/hacktoberfest2018](https://github.com/ambujraj/hacktoberfest2018) - A repository for HacktoberFest 2018. (today)
 
 ## 🔨 Latest Pull Requests I published
 
