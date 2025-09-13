@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [Anyway-FM/Anyway.Post](https://github.com/Anyway-FM/Anyway.Post) - 一份双周更新的由 Anyway.FM 发行的坊间小报，为大家提供与设计行业相关的新闻咨询、网摘推荐以及专栏文章等内容，现已停止更新，升级为《安妮薇时报》 (today)
-- [zhouxiaoka/autoclip_mvp](https://github.com/zhouxiaoka/autoclip_mvp) - AutoClip: AI-powered video clipping and highlight generation · 一款智能高光提取与剪辑的二创工具 (today)
-- [bigxixi/webp_apng_exporter_for_AE](https://github.com/bigxixi/webp_apng_exporter_for_AE) - Export webp and apng aniamtion from Adobe After Effect (today)
-- [bigxixi/bodymovin](https://github.com/bigxixi/bodymovin) - 将AE制作的动画导出为json数据并在web端播放 (today)
-- [bigxixi/Sketch2AE](https://github.com/bigxixi/Sketch2AE) - A Sketch plugin to export sketch file to Adobe After Effect (today)
+- [gnehs/subtitle-translator](https://github.com/gnehs/subtitle-translator) - Translate subtitle using ChatGPT (today)
+- [gnehs/subtitle-translator-electron](https://github.com/gnehs/subtitle-translator-electron) - ↔️ Translate subtitle using LLM (today)
+- [natewren/moonshine-iconpack](https://github.com/natewren/moonshine-iconpack) - Graphical Assets for the Moonshine Icon Pack on Google Play (today)
+- [gonsakon/Learn-Sass-in-90-days](https://github.com/gonsakon/Learn-Sass-in-90-days) (today)
+- [xiangsudian/CaoMei](https://github.com/xiangsudian/CaoMei) - 🍓CaoMei Icon - Designed for developers and creatros http://chuangzaoshi.com/icon/ (today)
 
 ## 🔨 Latest Pull Requests I published
 
