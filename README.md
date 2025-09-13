@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [155728](https://github.com/155728)
 - [ishandutta2007](https://github.com/ishandutta2007)
 - [codemonkey0612](https://github.com/codemonkey0612)
 - [HectorDanielAyarachiFuentes](https://github.com/HectorDanielAyarachiFuentes)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [SamyShaawat](https://github.com/SamyShaawat)
 - [mhrafi21](https://github.com/mhrafi21)
 - [ifatinha](https://github.com/ifatinha)
-- [shoxa0707](https://github.com/shoxa0707)
 
 ## ⭐ Recent stars
 
+- [marinskiy/HackerrankPractice](https://github.com/marinskiy/HackerrankPractice) - 170+ solutions to Hackerrank.com practice problems using Python 3, С++ and Oracle SQL (today)
 - [ogwurujohnson/arbitrage-bot](https://github.com/ogwurujohnson/arbitrage-bot) - An arbitrage bot that detects arbitrage opportunities between pancake and bakery swaps and manages flash swap calls, to the flash swap contract (1 day ago)
 - [sdkcarlos/artyom.js](https://github.com/sdkcarlos/artyom.js) - A voice control - voice commands - speech recognition and speech synthesis javascript library. Create your own siri,google now or cortana with Google Chrome within your website. (1 day ago)
 - [mabe02/lanterna](https://github.com/mabe02/lanterna) - Java library for creating text-based GUIs (1 day ago)
 - [lanzhihong6/stock-scanner](https://github.com/lanzhihong6/stock-scanner) - 开源量化分析 (1 day ago)
-- [douglasg14b/awesome-semantic-ui](https://github.com/douglasg14b/awesome-semantic-ui) - A curated list of Semantic-UI & Fomantic-UI resources and related projects (1 day ago)
 
 ## 🔨 Latest Pull Requests I published
 
