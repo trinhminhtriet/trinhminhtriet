@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [synackuk/checkm8-a5](https://github.com/synackuk/checkm8-a5) - checkm8 port for S5L8940X/S5L8942X/S5L8945X (today)
+- [synackuk/n1ghtshade](https://github.com/synackuk/n1ghtshade) - A bootchain jailbreak/downgrade utility for 32 bit iOS devices. (today)
+- [DiegoCatalano/Catalano-Framework](https://github.com/DiegoCatalano/Catalano-Framework) - Framework (today)
+- [mrmodise/nodejs-ecommerce-store](https://github.com/mrmodise/nodejs-ecommerce-store) - An ecommerce store built in NodeJS (today)
 - [ambujraj/hacktoberfest2018](https://github.com/ambujraj/hacktoberfest2018) - A repository for HacktoberFest 2018. (today)
-- [nikoo28/java-solutions](https://github.com/nikoo28/java-solutions) - Solutions in JAVA for some coding platforms. (today)
-- [Kilo-Loco/30DaysOfFlutter](https://github.com/Kilo-Loco/30DaysOfFlutter) (today)
-- [subhan-nadeem/EZShop](https://github.com/subhan-nadeem/EZShop) - Award winning frictionless shopping IoT and mobile application infrastructure. Created by Subhan Nadeem, Ruslan Nikolaev, John Choi, and Soheil Hamidi (today)
-- [dalenguyen/wordpress-snippets](https://github.com/dalenguyen/wordpress-snippets) - Useful WordPress Snippets for Web Development (today)
 
 ## 🔨 Latest Pull Requests I published
 
