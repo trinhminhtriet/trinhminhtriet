@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [tadwhitaker/Security_Architect_and_Principal_Security_Engineer_Interview_Questions](https://github.com/tadwhitaker/Security_Architect_and_Principal_Security_Engineer_Interview_Questions) - This is a companion to the Security Engineer Questions (today)
-- [tadwhitaker/Security_Engineer_Interview_Questions](https://github.com/tadwhitaker/Security_Engineer_Interview_Questions) - Every Security Engineer Interview Question From Glassdoor.com (today)
-- [vedartm/pagination_view](https://github.com/vedartm/pagination_view) - Flutter package to simplify pagination of list of items from the internet. (today)
-- [vedartm/rick-and-morty-info](https://github.com/vedartm/rick-and-morty-info) - Made with Clean architecture + TDD + GraphQL + flutter_bloc + CodeCov + GitHooks + GitHub Actions (CI/CD) and finally with 💙 (today)
-- [synackuk/checkm8-a5](https://github.com/synackuk/checkm8-a5) - checkm8 port for S5L8940X/S5L8942X/S5L8945X (today)
+- [manuelCarlos/Easing](https://github.com/manuelCarlos/Easing) - Easing functions in Swift. (today)
+- [joyzoursky/docker-python-chromedriver](https://github.com/joyzoursky/docker-python-chromedriver) - Dockerfile for running Python Selenium in headless Chrome (Python 2.7 / 3.6 / 3.7 / 3.8 / Alpine based Python / Chromedriver / Selenium / Xvfb included in different versions) (today)
+- [ddinan/tsuyo](https://github.com/ddinan/tsuyo) - 🤖 A light-weight and easy-to-use modular Discord bot built with DiscordJS. (today)
+- [ful1e5/XCursor-pro](https://github.com/ful1e5/XCursor-pro) - Modern XCursors. (today)
+- [ful1e5/onedark.nvim](https://github.com/ful1e5/onedark.nvim) - Atom's iconic One Dark theme for Neovim, written in Lua (today)
 
 ## 🔨 Latest Pull Requests I published
 
