@@ -34,9 +34,9 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 ## 👷 Check out what I'm currently working on
 
 - [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) - 🚀 All-in-one CLI toolkit for developers: scaffold, manage, automate, and boost productivity across languages! (today)
-- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (today)
+- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (1 day ago)
 - [trinhminhtriet/dwipe](https://github.com/trinhminhtriet/dwipe) - 🧹 Fast, cross-platform disk cleanup tool with interactive UI for easy directory size visualization. (1 week ago)
-- [nctl-io/nctl-roadmap](https://github.com/nctl-io/nctl-roadmap) (1 week ago)
+- [nctl-io/nctl-roadmap](https://github.com/nctl-io/nctl-roadmap) (2 weeks ago)
 - [nctl-io/.github](https://github.com/nctl-io/.github) - 🌐 Network. Connect. Transform. Lead. (2 weeks ago)
 - [nctl-io/nctl-branding](https://github.com/nctl-io/nctl-branding) - NCTL Branding 🖼️: Centralized assets and guidelines for consistent visual identity across NCTL projects and platforms. (2 weeks ago)
 - [nctl-io/nctl-homepage](https://github.com/nctl-io/nctl-homepage) - 🚀 Modern homepage for NCTL: fast, responsive, TypeScript-powered, open source, and easy to customize. (2 weeks ago)
@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [ishandutta2007](https://github.com/ishandutta2007)
+- [codemonkey0612](https://github.com/codemonkey0612)
 - [HectorDanielAyarachiFuentes](https://github.com/HectorDanielAyarachiFuentes)
 - [Mic-360](https://github.com/Mic-360)
 - [SirSiestaLord](https://github.com/SirSiestaLord)
@@ -54,21 +56,19 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [mhrafi21](https://github.com/mhrafi21)
 - [ifatinha](https://github.com/ifatinha)
 - [shoxa0707](https://github.com/shoxa0707)
-- [flameastro](https://github.com/flameastro)
-- [sergio-matos-tech](https://github.com/sergio-matos-tech)
 
 ## ⭐ Recent stars
 
-- [ogwurujohnson/arbitrage-bot](https://github.com/ogwurujohnson/arbitrage-bot) - An arbitrage bot that detects arbitrage opportunities between pancake and bakery swaps and manages flash swap calls, to the flash swap contract (today)
-- [sdkcarlos/artyom.js](https://github.com/sdkcarlos/artyom.js) - A voice control - voice commands - speech recognition and speech synthesis javascript library. Create your own siri,google now or cortana with Google Chrome within your website. (today)
-- [mabe02/lanterna](https://github.com/mabe02/lanterna) - Java library for creating text-based GUIs (today)
-- [lanzhihong6/stock-scanner](https://github.com/lanzhihong6/stock-scanner) - 开源量化分析 (today)
-- [douglasg14b/awesome-semantic-ui](https://github.com/douglasg14b/awesome-semantic-ui) - A curated list of Semantic-UI & Fomantic-UI resources and related projects (today)
+- [ogwurujohnson/arbitrage-bot](https://github.com/ogwurujohnson/arbitrage-bot) - An arbitrage bot that detects arbitrage opportunities between pancake and bakery swaps and manages flash swap calls, to the flash swap contract (1 day ago)
+- [sdkcarlos/artyom.js](https://github.com/sdkcarlos/artyom.js) - A voice control - voice commands - speech recognition and speech synthesis javascript library. Create your own siri,google now or cortana with Google Chrome within your website. (1 day ago)
+- [mabe02/lanterna](https://github.com/mabe02/lanterna) - Java library for creating text-based GUIs (1 day ago)
+- [lanzhihong6/stock-scanner](https://github.com/lanzhihong6/stock-scanner) - 开源量化分析 (1 day ago)
+- [douglasg14b/awesome-semantic-ui](https://github.com/douglasg14b/awesome-semantic-ui) - A curated list of Semantic-UI & Fomantic-UI resources and related projects (1 day ago)
 
 ## 🔨 Latest Pull Requests I published
 
-- [Develop](https://github.com/trinhminhtriet/DevPilot/pull/5) on [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) (today)
-- [feat: Rename DevPilot to pilot and update related links in README](https://github.com/trinhminhtriet/DevPilot/pull/4) on [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) (today)
-- [feat: Enhance EnvDiffCommand to format output as markdown table for b…](https://github.com/trinhminhtriet/DevPilot/pull/3) on [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) (today)
-- [Develop](https://github.com/trinhminhtriet/DevPilot/pull/2) on [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) (today)
-- [Sync develop to master](https://github.com/trinhminhtriet/DevPilot/pull/1) on [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) (1 day ago)
+- [Develop](https://github.com/trinhminhtriet/DevPilot/pull/5) on [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) (1 day ago)
+- [feat: Rename DevPilot to pilot and update related links in README](https://github.com/trinhminhtriet/DevPilot/pull/4) on [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) (1 day ago)
+- [feat: Enhance EnvDiffCommand to format output as markdown table for b…](https://github.com/trinhminhtriet/DevPilot/pull/3) on [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) (1 day ago)
+- [Develop](https://github.com/trinhminhtriet/DevPilot/pull/2) on [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) (1 day ago)
+- [Sync develop to master](https://github.com/trinhminhtriet/DevPilot/pull/1) on [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) (2 days ago)
