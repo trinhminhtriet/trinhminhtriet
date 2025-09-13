@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [NissaGame](https://github.com/NissaGame)
 - [RafalW3bCraft](https://github.com/RafalW3bCraft)
 - [155728](https://github.com/155728)
 - [ishandutta2007](https://github.com/ishandutta2007)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [SirSiestaLord](https://github.com/SirSiestaLord)
 - [lrepo52](https://github.com/lrepo52)
 - [SamyShaawat](https://github.com/SamyShaawat)
-- [mhrafi21](https://github.com/mhrafi21)
 
 ## ⭐ Recent stars
 
+- [ambujraj/hacktoberfest2018](https://github.com/ambujraj/hacktoberfest2018) - A repository for HacktoberFest 2018. (today)
+- [nikoo28/java-solutions](https://github.com/nikoo28/java-solutions) - Solutions in JAVA for some coding platforms. (today)
 - [Kilo-Loco/30DaysOfFlutter](https://github.com/Kilo-Loco/30DaysOfFlutter) (today)
 - [subhan-nadeem/EZShop](https://github.com/subhan-nadeem/EZShop) - Award winning frictionless shopping IoT and mobile application infrastructure. Created by Subhan Nadeem, Ruslan Nikolaev, John Choi, and Soheil Hamidi (today)
 - [dalenguyen/wordpress-snippets](https://github.com/dalenguyen/wordpress-snippets) - Useful WordPress Snippets for Web Development (today)
-- [dalenguyen/firestore-import-export](https://github.com/dalenguyen/firestore-import-export) - An application that can help you to backup and restore from Cloud Firestore | Firebase (today)
-- [dalenguyen/rest-api-node-typescript](https://github.com/dalenguyen/rest-api-node-typescript) - Building RESTful Web APIs with Node.js, Express, MongoDB and TypeScript (today)
 
 ## 🔨 Latest Pull Requests I published
 
