@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [eggduzao](https://github.com/eggduzao)
+- [Kwynto](https://github.com/Kwynto)
 - [niloRoch](https://github.com/niloRoch)
 - [SanojYadav17](https://github.com/SanojYadav17)
 - [NissaGame](https://github.com/NissaGame)
@@ -54,16 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [codemonkey0612](https://github.com/codemonkey0612)
 - [HectorDanielAyarachiFuentes](https://github.com/HectorDanielAyarachiFuentes)
 - [Mic-360](https://github.com/Mic-360)
-- [SirSiestaLord](https://github.com/SirSiestaLord)
-- [lrepo52](https://github.com/lrepo52)
 
 ## ⭐ Recent stars
 
-- [acdlite/redux-transducers](https://github.com/acdlite/redux-transducers) - Transducer utilities for Redux. (today)
-- [acdlite/realm](https://github.com/acdlite/realm) (today)
-- [acdlite/redux-batched-updates](https://github.com/acdlite/redux-batched-updates) - Batch React updates that occur as a result of Redux dispatches, to prevent cascading renders. See https://github.com/gaearon/redux/issues/125 for more details. (today)
-- [acdlite/rfcs](https://github.com/acdlite/rfcs) - RFCs for changes to React (today)
-- [acdlite/react-remarkable](https://github.com/acdlite/react-remarkable) - A React component for rendering Markdown with remarkable (today)
+- [Anyway-FM/Anyway.Post](https://github.com/Anyway-FM/Anyway.Post) - 一份双周更新的由 Anyway.FM 发行的坊间小报，为大家提供与设计行业相关的新闻咨询、网摘推荐以及专栏文章等内容，现已停止更新，升级为《安妮薇时报》 (today)
+- [zhouxiaoka/autoclip_mvp](https://github.com/zhouxiaoka/autoclip_mvp) - AutoClip: AI-powered video clipping and highlight generation · 一款智能高光提取与剪辑的二创工具 (today)
+- [bigxixi/webp_apng_exporter_for_AE](https://github.com/bigxixi/webp_apng_exporter_for_AE) - Export webp and apng aniamtion from Adobe After Effect (today)
+- [bigxixi/bodymovin](https://github.com/bigxixi/bodymovin) - 将AE制作的动画导出为json数据并在web端播放 (today)
+- [bigxixi/Sketch2AE](https://github.com/bigxixi/Sketch2AE) - A Sketch plugin to export sketch file to Adobe After Effect (today)
 
 ## 🔨 Latest Pull Requests I published
 
