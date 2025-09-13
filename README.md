@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [aershov24/web-developer-interview-questions](https://github.com/aershov24/web-developer-interview-questions) - Web Developer Interview questions and answers (today)
-- [aershov24/101-developer-resume-cv-templates](https://github.com/aershov24/101-developer-resume-cv-templates) - The Only Developer Resume Template You Need To Land Dev Job (Word/PDF) (today)
-- [aershov24/typescript-interview-questions](https://github.com/aershov24/typescript-interview-questions) - 🔴 TypeScript Interview Questions and Answered to prepare for your next Web/Angular developer interview (today)
-- [aershov24/full-stack-interview-questions](https://github.com/aershov24/full-stack-interview-questions) - 🔴 More than ~3877 Full Stack, Coding & System Design Interview Questions And Answers sourced from all around the Internet to help you to prepare to an interview, conduct one, mock your lead dev or completely ignore. Find more questions and answers on 👉   (today)
-- [AISangam/Facenet-Real-time-face-recognition-using-deep-learning-Tensorflow](https://github.com/AISangam/Facenet-Real-time-face-recognition-using-deep-learning-Tensorflow) - Facenet-Real-time-face-recognition-using-deep-learning-Tensorflow (today)
+- [Vishal-Singh-Panwar/InfiniteScrolling](https://github.com/Vishal-Singh-Panwar/InfiniteScrolling) - Add infinite scrolling to collection view. (today)
+- [tinalatif/flat.icns](https://github.com/tinalatif/flat.icns) - A flat icon set for OS X (today)
+- [prat0318/json_resume](https://github.com/prat0318/json_resume) - Generates pretty HTML, LaTeX, markdown, with biodata feeded as input in JSON (today)
+- [petermetz/cordova-plugin-ibeacon](https://github.com/petermetz/cordova-plugin-ibeacon) - An iBeacon plugin for Phonegap / Cordova 3.x and upwards. Supports both iOS and Android (contributions are welcome) (today)
+- [deshpandenu/Time-Series-Forecasting-of-Amazon-Stock-Prices-using-Neural-Networks-LSTM-and-GAN-](https://github.com/deshpandenu/Time-Series-Forecasting-of-Amazon-Stock-Prices-using-Neural-Networks-LSTM-and-GAN-) - Project analyzes Amazon Stock data using Python. Feature Extraction is performed and ARIMA and Fourier series models are made. LSTM is used with multiple features to predict stock prices and then sentimental analysis is performed using news and reddit sentiments.  GANs are used to predict stock data too where Amazon data is taken from an API as Generator and CNNs are used as discriminator.  (today)
 
 ## 🔨 Latest Pull Requests I published
 
