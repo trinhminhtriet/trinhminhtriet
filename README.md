@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [manuelCarlos/Easing](https://github.com/manuelCarlos/Easing) - Easing functions in Swift. (today)
-- [joyzoursky/docker-python-chromedriver](https://github.com/joyzoursky/docker-python-chromedriver) - Dockerfile for running Python Selenium in headless Chrome (Python 2.7 / 3.6 / 3.7 / 3.8 / Alpine based Python / Chromedriver / Selenium / Xvfb included in different versions) (today)
-- [ddinan/tsuyo](https://github.com/ddinan/tsuyo) - 🤖 A light-weight and easy-to-use modular Discord bot built with DiscordJS. (today)
-- [ful1e5/XCursor-pro](https://github.com/ful1e5/XCursor-pro) - Modern XCursors. (today)
-- [ful1e5/onedark.nvim](https://github.com/ful1e5/onedark.nvim) - Atom's iconic One Dark theme for Neovim, written in Lua (today)
+- [Ardakilic/alerthub](https://github.com/Ardakilic/alerthub) - AlertHub is a simple tool written with NodeJS to get alerted from new GitHub and GitLab repository events.  (today)
+- [jbenet/transformer](https://github.com/jbenet/transformer) - transformer - multiformat data conversion (today)
+- [jbenet/bson-cpp](https://github.com/jbenet/bson-cpp) - Standalone repository for mongodb's BSON C++ Implementation (today)
+- [jbenet/random-ideas](https://github.com/jbenet/random-ideas) - random ideas (today)
+- [jbenet/ios-ntp](https://github.com/jbenet/ios-ntp) - SNTP implementation for iOS (today)
 
 ## 🔨 Latest Pull Requests I published
 
