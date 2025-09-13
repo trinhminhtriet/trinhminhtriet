@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [RafalW3bCraft](https://github.com/RafalW3bCraft)
 - [155728](https://github.com/155728)
 - [ishandutta2007](https://github.com/ishandutta2007)
 - [codemonkey0612](https://github.com/codemonkey0612)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [lrepo52](https://github.com/lrepo52)
 - [SamyShaawat](https://github.com/SamyShaawat)
 - [mhrafi21](https://github.com/mhrafi21)
-- [ifatinha](https://github.com/ifatinha)
 
 ## ⭐ Recent stars
 
-- [dechamps/laplock](https://github.com/dechamps/laplock) - Auto-lock your Windows computer when the lid is closed or the screen turns off. (today)
-- [dechamps/RudeWindowFixer](https://github.com/dechamps/RudeWindowFixer) - Fix Windows taskbar always-on-top issues (today)
-- [dechamps/WinIPBroadcast](https://github.com/dechamps/WinIPBroadcast) - Automagically sends IP broadcast packets to all interfaces on Windows (today)
-- [dechamps/FlexASIO](https://github.com/dechamps/FlexASIO) - A flexible universal ASIO driver that uses the PortAudio sound I/O library. Supports WASAPI (shared and exclusive), KS, DirectSound and MME. (today)
-- [LucasBassetti/react-native-chatbot](https://github.com/LucasBassetti/react-native-chatbot) - :speech_balloon: Easy way to create conversation chats (today)
+- [aershov24/web-developer-interview-questions](https://github.com/aershov24/web-developer-interview-questions) - Web Developer Interview questions and answers (today)
+- [aershov24/101-developer-resume-cv-templates](https://github.com/aershov24/101-developer-resume-cv-templates) - The Only Developer Resume Template You Need To Land Dev Job (Word/PDF) (today)
+- [aershov24/typescript-interview-questions](https://github.com/aershov24/typescript-interview-questions) - 🔴 TypeScript Interview Questions and Answered to prepare for your next Web/Angular developer interview (today)
+- [aershov24/full-stack-interview-questions](https://github.com/aershov24/full-stack-interview-questions) - 🔴 More than ~3877 Full Stack, Coding & System Design Interview Questions And Answers sourced from all around the Internet to help you to prepare to an interview, conduct one, mock your lead dev or completely ignore. Find more questions and answers on 👉   (today)
+- [AISangam/Facenet-Real-time-face-recognition-using-deep-learning-Tensorflow](https://github.com/AISangam/Facenet-Real-time-face-recognition-using-deep-learning-Tensorflow) - Facenet-Real-time-face-recognition-using-deep-learning-Tensorflow (today)
 
 ## 🔨 Latest Pull Requests I published
 
