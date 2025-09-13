@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [Ricky-Wilson/Programming-books](https://github.com/Ricky-Wilson/Programming-books) - Books on programming and computer science  (today)
+- [Yashas120/Multiview-3D-Reconstruction](https://github.com/Yashas120/Multiview-3D-Reconstruction) - Using traditional image processing techniques to construct 3D point cloud of objects. Incremental Structure from Motion (SfM) is used, a popular SfM algorithm for 3D reconstruction for reconstruction. The method is then evaluated using certain 3D reconstruction datasets. (today)
 - [chinmaymahajan/Registration-and-Login-using-MERN-stack](https://github.com/chinmaymahajan/Registration-and-Login-using-MERN-stack) - Simple Registration and Login component with MERN stack (today)
 - [Gituser143/cryptgo](https://github.com/Gituser143/cryptgo) - A terminal application to watch crypto prices! (today)
 - [HeZaiJin/AnimatedRecordingView](https://github.com/HeZaiJin/AnimatedRecordingView) - Android animated recording view (today)
-- [HeZaiJin/SlantedTextView](https://github.com/HeZaiJin/SlantedTextView) - Android slanted TextView. (today)
-- [o2e/OLLVM-9.0.1](https://github.com/o2e/OLLVM-9.0.1) - OLLVM-9.0.1-NDK-21.3.6528147(ndk-r21d) (today)
 
 ## 🔨 Latest Pull Requests I published
 
