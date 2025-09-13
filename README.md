@@ -46,11 +46,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [niloRoch](https://github.com/niloRoch)
 - [SanojYadav17](https://github.com/SanojYadav17)
 - [NissaGame](https://github.com/NissaGame)
 - [RafalW3bCraft](https://github.com/RafalW3bCraft)
 - [155728](https://github.com/155728)
-- [ishandutta2007](https://github.com/ishandutta2007)
 - [codemonkey0612](https://github.com/codemonkey0612)
 - [HectorDanielAyarachiFuentes](https://github.com/HectorDanielAyarachiFuentes)
 - [Mic-360](https://github.com/Mic-360)
