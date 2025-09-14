@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [fgaim/gpuview](https://github.com/fgaim/gpuview) - A lightweight web dashboard for monitoring GPU usage (today)
-- [CRogers/pun](https://github.com/CRogers/pun) - A small library to enable pattern matching in javascript and coffeescript (today)
-- [mnkgrover08-zz/whatsapp_automation](https://github.com/mnkgrover08-zz/whatsapp_automation) - Whatsapp Automation is a collection of APIs that interact with WhatsApp messenger running in an Android emulator, allowing developers to build projects that automate sending and receiving messages, adding new contacts and broadcasting messages multiple contacts. (today)
-- [mesinkasir/larapos](https://github.com/mesinkasir/larapos) - Laravel Point of sale with invoice full source code free download pos apps. (today)
-- [vikwin/pcapfex](https://github.com/vikwin/pcapfex) - 'Packet Capture Forensic Evidence eXtractor' is a tool that finds and extracts files from packet capture files (today)
+- [hougr6/SmartisanPull](https://github.com/hougr6/SmartisanPull) - “锤子下拉”，东半球最优雅的下拉控件。也叫SmartisanRefreshableLayout。 (today)
+- [albfernandez/javadbf](https://github.com/albfernandez/javadbf) - Java library for reading and writing Xbase (dBase/DBF) files. (today)
+- [albfernandez/juniversalchardet](https://github.com/albfernandez/juniversalchardet) - Originally exported from code.google.com/p/juniversalchardet (today)
+- [youngxhui/GinHello](https://github.com/youngxhui/GinHello) - Gin 学习示例代码  (today)
+- [gregbkr/kubernetes-kargo-logging-monitoring](https://github.com/gregbkr/kubernetes-kargo-logging-monitoring) - Deploy kubernetes cluster with kargo (today)
 
 ## 🔨 Latest Pull Requests I published
 
