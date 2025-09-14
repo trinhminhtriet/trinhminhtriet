@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [Doddler/RagnarokRebuildTcp](https://github.com/Doddler/RagnarokRebuildTcp) - Ragnarok-like server + client (today)
-- [neelkanthk/laravel-surveillance](https://github.com/neelkanthk/laravel-surveillance) - Put malicious users, IP addresses and anonymous browser fingerprints under surveillance, log the URLs they visit and block malicious ones from accessing the Laravel app. (today)
-- [yyxyz/CaseWesternReserveUniversityData](https://github.com/yyxyz/CaseWesternReserveUniversityData) (today)
-- [yyxyz/Book](https://github.com/yyxyz/Book) (today)
-- [egeerardyn/awesome-LaTeX](https://github.com/egeerardyn/awesome-LaTeX) - Curated list of LaTeX awesomeness (today)
+- [omoindrot/tensorflow-triplet-loss](https://github.com/omoindrot/tensorflow-triplet-loss) - Implementation of triplet loss in TensorFlow (today)
+- [pppoe/LightMenuBar](https://github.com/pppoe/LightMenuBar) - Light-weight Menu Bar for iOS App (today)
+- [petercollingridge/code-for-blog](https://github.com/petercollingridge/code-for-blog) - Code for various tutorials and programs I've written about on my blog (today)
+- [petercollingridge/SVG-Optimiser](https://github.com/petercollingridge/SVG-Optimiser) - A python module to clear up SVG files, especially those created in Inkscape (today)
+- [chrisclark/PythonForDataScience](https://github.com/chrisclark/PythonForDataScience) - PythonForDataScience (today)
 
 ## 🔨 Latest Pull Requests I published
 
