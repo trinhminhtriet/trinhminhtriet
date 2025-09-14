@@ -46,7 +46,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
-- [Varun5711](https://github.com/Varun5711)
 - [ishandutta2007](https://github.com/ishandutta2007)
 - [chandana351](https://github.com/chandana351)
 - [ArpitSharma2800](https://github.com/ArpitSharma2800)
@@ -56,14 +55,15 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Kwynto](https://github.com/Kwynto)
 - [niloRoch](https://github.com/niloRoch)
 - [SanojYadav17](https://github.com/SanojYadav17)
+- [NissaGame](https://github.com/NissaGame)
 
 ## ⭐ Recent stars
 
-- [viktorlarsson/vue-tiny-slider](https://github.com/viktorlarsson/vue-tiny-slider) - Vanilla javascript slider for all purposes created by ganlanyuan in Vue. (today)
-- [AyrA/ZipBomb](https://github.com/AyrA/ZipBomb) - About an old technology that still screws up some anti virus software (today)
-- [AyrA/ExcelStuff](https://github.com/AyrA/ExcelStuff) - Various Tools in Excel (today)
-- [alysonhower/tauri2-svelte5-shadcn](https://github.com/alysonhower/tauri2-svelte5-shadcn) - A clean desktop application template that combines Tauri 2 with Svelte 5 + Shadcn-svelte, including automated CI/CD pipelines for Windows, Linux, and Mac builds. (today)
-- [lulz3xploit/LittleBrother](https://github.com/lulz3xploit/LittleBrother) - Information gathering (OSINT) on a person (EU) (today)
+- [TamSiuhin/LLM-UM-Reading](https://github.com/TamSiuhin/LLM-UM-Reading) - A list of large language models for user modeling (LLM-UM) papers, based on "User Modeling in the Era of Large Language Models: Current Research and Future Directions" at DEBULL (today)
+- [YingtongDou/CARE-GNN](https://github.com/YingtongDou/CARE-GNN) - Code for CIKM 2020 paper Enhancing Graph Neural Network-based Fraud Detectors against Camouflaged Fraudsters (today)
+- [ujnzxw/oh-my-earth](https://github.com/ujnzxw/oh-my-earth) - Make a real time earth picture as your wallpaper (today)
+- [zhenyuczy/openpose_3d-pose-baseline_unity3d](https://github.com/zhenyuczy/openpose_3d-pose-baseline_unity3d) - Control the 3D model by capturing human joint points with a single camera (today)
+- [songrise/AvatarCraft](https://github.com/songrise/AvatarCraft) - [ICCV23] AvatarCraft: Transforming Text into Neural Human Avatars with Parameterized Shape and Pose Control (today)
 
 ## 🔨 Latest Pull Requests I published
 
