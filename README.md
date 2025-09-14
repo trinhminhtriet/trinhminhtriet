@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [cdancy/jenkins-rest](https://github.com/cdancy/jenkins-rest) - Java client, built on top of jclouds, for working with Jenkins REST API  (today)
-- [stretchcloud/deepscrape](https://github.com/stretchcloud/deepscrape) (today)
-- [stretchcloud/cka-lab-practice](https://github.com/stretchcloud/cka-lab-practice) (today)
-- [stretchcloud/claude-code-unified-agents](https://github.com/stretchcloud/claude-code-unified-agents) (today)
-- [xuwang/aws-terraform](https://github.com/xuwang/aws-terraform) - Code examples to create CoreOS cluster on AWS  with Terraform (today)
+- [qiucheng025/zao-](https://github.com/qiucheng025/zao-) - AI技术换脸源码 (today)
+- [RickyYu/Nfc-Android](https://github.com/RickyYu/Nfc-Android) - Android Nfc技术解析、使用 (today)
+- [jhildenbiddle/docsify-tabs](https://github.com/jhildenbiddle/docsify-tabs) - A docsify.js plugin for rendering tabbed content from markdown (today)
+- [jhildenbiddle/canvas-size](https://github.com/jhildenbiddle/canvas-size) - Determine the maximum area, height, width, and custom dimensions of an HTML canvas element. (today)
+- [jhildenbiddle/docsify-themeable](https://github.com/jhildenbiddle/docsify-themeable) - A delightfully simple theme system for docsify.js. Features multiple themes with rich customization options, an improved desktop and mobile experience, and legacy browser support (IE11+). (today)
 
 ## 🔨 Latest Pull Requests I published
 
