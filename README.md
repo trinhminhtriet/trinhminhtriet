@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Varun5711](https://github.com/Varun5711)
 - [ishandutta2007](https://github.com/ishandutta2007)
 - [chandana351](https://github.com/chandana351)
 - [ArpitSharma2800](https://github.com/ArpitSharma2800)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Kwynto](https://github.com/Kwynto)
 - [niloRoch](https://github.com/niloRoch)
 - [SanojYadav17](https://github.com/SanojYadav17)
-- [NissaGame](https://github.com/NissaGame)
 
 ## ⭐ Recent stars
 
-- [omoindrot/tensorflow-triplet-loss](https://github.com/omoindrot/tensorflow-triplet-loss) - Implementation of triplet loss in TensorFlow (today)
-- [pppoe/LightMenuBar](https://github.com/pppoe/LightMenuBar) - Light-weight Menu Bar for iOS App (today)
-- [petercollingridge/code-for-blog](https://github.com/petercollingridge/code-for-blog) - Code for various tutorials and programs I've written about on my blog (today)
-- [petercollingridge/SVG-Optimiser](https://github.com/petercollingridge/SVG-Optimiser) - A python module to clear up SVG files, especially those created in Inkscape (today)
-- [chrisclark/PythonForDataScience](https://github.com/chrisclark/PythonForDataScience) - PythonForDataScience (today)
+- [orinocoz/pirateflix](https://github.com/orinocoz/pirateflix) - :movie_camera: Stream piratebay movies directly from CLI (today)
+- [PascalCoinDev/PascalCoin](https://github.com/PascalCoinDev/PascalCoin) - P2P cryptocurrency without need of historical operations (today)
+- [iShift/twister-webkit](https://github.com/iShift/twister-webkit) - webkit client for twister (today)
+- [dan-da/hd-wallet-addrs](https://github.com/dan-da/hd-wallet-addrs) - A command-line tool that performs Bitcoin wallet address discovery. (today)
+- [dan-da/hd-wallet-derive](https://github.com/dan-da/hd-wallet-derive) - A command-line tool that derives bip32 addresses and private keys. (today)
 
 ## 🔨 Latest Pull Requests I published
 
