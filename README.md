@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [ishandutta2007](https://github.com/ishandutta2007)
 - [chandana351](https://github.com/chandana351)
 - [ArpitSharma2800](https://github.com/ArpitSharma2800)
 - [boolYikes](https://github.com/boolYikes)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [niloRoch](https://github.com/niloRoch)
 - [SanojYadav17](https://github.com/SanojYadav17)
 - [NissaGame](https://github.com/NissaGame)
-- [RafalW3bCraft](https://github.com/RafalW3bCraft)
 
 ## ⭐ Recent stars
 
-- [chauncygu/Multi-Agent-Constrained-Policy-Optimisation](https://github.com/chauncygu/Multi-Agent-Constrained-Policy-Optimisation) - Multi-Agent Constrained Policy Optimisation (MACPO; MAPPO-L). (today)
-- [chauncygu/Safe-Reinforcement-Learning-Baselines](https://github.com/chauncygu/Safe-Reinforcement-Learning-Baselines) - The repository is for safe reinforcement learning baselines. (today)
-- [vincen-github/mlimpl](https://github.com/vincen-github/mlimpl) - This repository collects some codes that encapsulates commonly used algorithms in the field of machine learning. Most of them are based on Numpy, Pandas or Torch. You can deepen your understanding to related model and algorithm or revise it to get the customized code belongs yourself by referring to this repository. (today)
-- [clemtoy/pptree](https://github.com/clemtoy/pptree) - Python tree pretty-print (today)
-- [iamleot/transferwee](https://github.com/iamleot/transferwee) - Download/upload files via wetransfer.com (today)
+- [Doddler/RagnarokRebuildTcp](https://github.com/Doddler/RagnarokRebuildTcp) - Ragnarok-like server + client (today)
+- [neelkanthk/laravel-surveillance](https://github.com/neelkanthk/laravel-surveillance) - Put malicious users, IP addresses and anonymous browser fingerprints under surveillance, log the URLs they visit and block malicious ones from accessing the Laravel app. (today)
+- [yyxyz/CaseWesternReserveUniversityData](https://github.com/yyxyz/CaseWesternReserveUniversityData) (today)
+- [yyxyz/Book](https://github.com/yyxyz/Book) (today)
+- [egeerardyn/awesome-LaTeX](https://github.com/egeerardyn/awesome-LaTeX) - Curated list of LaTeX awesomeness (today)
 
 ## 🔨 Latest Pull Requests I published
 
