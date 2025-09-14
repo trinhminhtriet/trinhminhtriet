@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [vkosuri/CourseraMachineLearning](https://github.com/vkosuri/CourseraMachineLearning) - Coursera Machine Learning By Prof. Andrew Ng (today)
-- [charlesmchen/WeViews](https://github.com/charlesmchen/WeViews) - An iOS Auto Layout Alternative (today)
-- [rjbaker/simple-magento-vagrant](https://github.com/rjbaker/simple-magento-vagrant) - A VERY simple Magento environment provisioner for Vagrant (today)
-- [xujingzhou/BeautyHour](https://github.com/xujingzhou/BeautyHour) - With this software, you can do all kinds of Personalised Customize and  beautifying to your photos. (today)
-- [xujingzhou/VideoBeautify](https://github.com/xujingzhou/VideoBeautify) - With this APP, you can do all kinds of professional optimising and beautifying to your videos (today)
+- [marianosimone/epub-thumbnailer](https://github.com/marianosimone/epub-thumbnailer) - Script to extract the cover of an epub book and create a thumbnail for it (today)
+- [danielbuechele/goofy](https://github.com/danielbuechele/goofy) - Desktop client for Facebook Messenger (today)
+- [adept/full-fledged-hledger](https://github.com/adept/full-fledged-hledger) - Tutorial on Hledger setup with multi-year files, multi-source imports and a range of auto-generated reports (today)
+- [rolodato/gitlab-letsencrypt](https://github.com/rolodato/gitlab-letsencrypt) - Easily generate a Let's Encrypt certificate for GitLab Pages (today)
+- [rolodato/dotenv-safe](https://github.com/rolodato/dotenv-safe) - Load environment variables from .env and ensure they are all present (today)
 
 ## 🔨 Latest Pull Requests I published
 
