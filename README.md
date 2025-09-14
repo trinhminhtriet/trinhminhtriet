@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [hougr6/SmartisanPull](https://github.com/hougr6/SmartisanPull) - “锤子下拉”，东半球最优雅的下拉控件。也叫SmartisanRefreshableLayout。 (today)
-- [albfernandez/javadbf](https://github.com/albfernandez/javadbf) - Java library for reading and writing Xbase (dBase/DBF) files. (today)
-- [albfernandez/juniversalchardet](https://github.com/albfernandez/juniversalchardet) - Originally exported from code.google.com/p/juniversalchardet (today)
-- [youngxhui/GinHello](https://github.com/youngxhui/GinHello) - Gin 学习示例代码  (today)
-- [gregbkr/kubernetes-kargo-logging-monitoring](https://github.com/gregbkr/kubernetes-kargo-logging-monitoring) - Deploy kubernetes cluster with kargo (today)
+- [felisat/clustered-federated-learning](https://github.com/felisat/clustered-federated-learning) - Clustered Federated Learning: Model-Agnostic Distributed Multi-Task Optimization under Privacy Constraints (today)
+- [klemenjak/nilm-papers-with-code](https://github.com/klemenjak/nilm-papers-with-code) - An archive for NILM papers with source code and other supplemental material (today)
+- [chengpeng-wang/LLMDFA](https://github.com/chengpeng-wang/LLMDFA) - LLMDFA: Analyzing Dataflow in Code with Large Language Models (NeurIPS 2024) (today)
+- [monkbai/DNN-decompiler](https://github.com/monkbai/DNN-decompiler) - BTD - Bin To DNN: A DNN Executables Decompiler (today)
+- [Tongjilibo/build_MiniLLM_from_scratch](https://github.com/Tongjilibo/build_MiniLLM_from_scratch) - 从0到1构建一个MiniLLM (pretrain+sft+dpo实践中) (today)
 
 ## 🔨 Latest Pull Requests I published
 
