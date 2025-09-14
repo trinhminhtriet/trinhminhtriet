@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [ssbeatty/oms](https://github.com/ssbeatty/oms) - go 运维平台，实现了隧道，命令分发，文件上传，webSSH (today)
-- [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia) (today)
-- [thedroidgeek/oculus-wireless-adb](https://github.com/thedroidgeek/oculus-wireless-adb) - An app that enables wireless ADB from within a Meta Quest device without requiring a USB cable. (today)
-- [V1sk/VettelGank](https://github.com/V1sk/VettelGank) - Vettel's Gank是基于gank.io开放Api实现的一款非官方干货集中营客户端。 (today)
-- [SharadKumar97/OSINT-SPY](https://github.com/SharadKumar97/OSINT-SPY) - Performs OSINT scan on email/domain/ip_address/organization using OSINT-SPY. It can be used by Data Miners, Infosec Researchers, Penetration Testers and cyber crime investigator in order to find deep information about their target. If you want to ask something please feel free to reach out to me at robotcoder@protonmail.com (today)
+- [fgaim/gpuview](https://github.com/fgaim/gpuview) - A lightweight web dashboard for monitoring GPU usage (today)
+- [CRogers/pun](https://github.com/CRogers/pun) - A small library to enable pattern matching in javascript and coffeescript (today)
+- [mnkgrover08-zz/whatsapp_automation](https://github.com/mnkgrover08-zz/whatsapp_automation) - Whatsapp Automation is a collection of APIs that interact with WhatsApp messenger running in an Android emulator, allowing developers to build projects that automate sending and receiving messages, adding new contacts and broadcasting messages multiple contacts. (today)
+- [mesinkasir/larapos](https://github.com/mesinkasir/larapos) - Laravel Point of sale with invoice full source code free download pos apps. (today)
+- [vikwin/pcapfex](https://github.com/vikwin/pcapfex) - 'Packet Capture Forensic Evidence eXtractor' is a tool that finds and extracts files from packet capture files (today)
 
 ## 🔨 Latest Pull Requests I published
 
