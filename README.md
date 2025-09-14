@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [AdeelK93/collapsibleTree](https://github.com/AdeelK93/collapsibleTree) - Create Interactive Collapsible Tree Diagrams in R using D3.js (today)
-- [phpduke/Algorithms-Notebook](https://github.com/phpduke/Algorithms-Notebook) (today)
-- [thialfihar/apg](https://github.com/thialfihar/apg) - OpenPGP for Android (today)
-- [whydna/Reverse-AVAsset-Efficient](https://github.com/whydna/Reverse-AVAsset-Efficient) - Reverse videos efficiently in Objective C and Swift (today)
-- [MadLittleMods/node-usb-detection](https://github.com/MadLittleMods/node-usb-detection) - List USB devices in system and detect changes on them. (today)
+- [vkosuri/CourseraMachineLearning](https://github.com/vkosuri/CourseraMachineLearning) - Coursera Machine Learning By Prof. Andrew Ng (today)
+- [charlesmchen/WeViews](https://github.com/charlesmchen/WeViews) - An iOS Auto Layout Alternative (today)
+- [rjbaker/simple-magento-vagrant](https://github.com/rjbaker/simple-magento-vagrant) - A VERY simple Magento environment provisioner for Vagrant (today)
+- [xujingzhou/BeautyHour](https://github.com/xujingzhou/BeautyHour) - With this software, you can do all kinds of Personalised Customize and  beautifying to your photos. (today)
+- [xujingzhou/VideoBeautify](https://github.com/xujingzhou/VideoBeautify) - With this APP, you can do all kinds of professional optimising and beautifying to your videos (today)
 
 ## 🔨 Latest Pull Requests I published
 
