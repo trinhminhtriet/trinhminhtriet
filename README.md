@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [TamSiuhin/LLM-UM-Reading](https://github.com/TamSiuhin/LLM-UM-Reading) - A list of large language models for user modeling (LLM-UM) papers, based on "User Modeling in the Era of Large Language Models: Current Research and Future Directions" at DEBULL (today)
-- [YingtongDou/CARE-GNN](https://github.com/YingtongDou/CARE-GNN) - Code for CIKM 2020 paper Enhancing Graph Neural Network-based Fraud Detectors against Camouflaged Fraudsters (today)
-- [ujnzxw/oh-my-earth](https://github.com/ujnzxw/oh-my-earth) - Make a real time earth picture as your wallpaper (today)
-- [zhenyuczy/openpose_3d-pose-baseline_unity3d](https://github.com/zhenyuczy/openpose_3d-pose-baseline_unity3d) - Control the 3D model by capturing human joint points with a single camera (today)
-- [songrise/AvatarCraft](https://github.com/songrise/AvatarCraft) - [ICCV23] AvatarCraft: Transforming Text into Neural Human Avatars with Parameterized Shape and Pose Control (today)
+- [ssbeatty/oms](https://github.com/ssbeatty/oms) - go 运维平台，实现了隧道，命令分发，文件上传，webSSH (today)
+- [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia) (today)
+- [thedroidgeek/oculus-wireless-adb](https://github.com/thedroidgeek/oculus-wireless-adb) - An app that enables wireless ADB from within a Meta Quest device without requiring a USB cable. (today)
+- [V1sk/VettelGank](https://github.com/V1sk/VettelGank) - Vettel's Gank是基于gank.io开放Api实现的一款非官方干货集中营客户端。 (today)
+- [SharadKumar97/OSINT-SPY](https://github.com/SharadKumar97/OSINT-SPY) - Performs OSINT scan on email/domain/ip_address/organization using OSINT-SPY. It can be used by Data Miners, Infosec Researchers, Penetration Testers and cyber crime investigator in order to find deep information about their target. If you want to ask something please feel free to reach out to me at robotcoder@protonmail.com (today)
 
 ## 🔨 Latest Pull Requests I published
 
