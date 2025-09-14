@@ -33,8 +33,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👷 Check out what I'm currently working on
 
+- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (today)
 - [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) - 🚀 All-in-one CLI toolkit for developers: scaffold, manage, automate, and boost productivity across languages! (1 day ago)
-- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (2 days ago)
 - [trinhminhtriet/dwipe](https://github.com/trinhminhtriet/dwipe) - 🧹 Fast, cross-platform disk cleanup tool with interactive UI for easy directory size visualization. (1 week ago)
 - [nctl-io/nctl-roadmap](https://github.com/nctl-io/nctl-roadmap) (2 weeks ago)
 - [nctl-io/.github](https://github.com/nctl-io/.github) - 🌐 Network. Connect. Transform. Lead. (2 weeks ago)
@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [yang69/MIMO-OFDM-Wireless-Communications-with-MATLAB](https://github.com/yang69/MIMO-OFDM-Wireless-Communications-with-MATLAB) - MATLAB Code for MIMO-OFDM Wireless Communications with MATLAB | MIMO-OFDM无线通信技术及MATLAB实现 (today)
-- [GeminiLight/virne](https://github.com/GeminiLight/virne) - Virne is a simulator & benchmark for resource allocation (RA) problems in network function virtualization (NFV), i.e., NFV-RA, including virtual network embedding, service function chain deployment, network slicing, etc. (today)
-- [GeminiLight/sdn-nfv-papers](https://github.com/GeminiLight/sdn-nfv-papers) - This is a paper list about Resource Allocation in Network Functions Virtualization (NFV) and Software-Defined Networking (SDN). (today)
-- [Royalvice/DocDiff](https://github.com/Royalvice/DocDiff) - ACM Multimedia 2023: DocDiff: Document Enhancement via Residual Diffusion Models. Also contains 1597 red seals in Chinese scenes, along with their corresponding binary masks. (today)
-- [umut-demirhan/Cell-free-ISAC-beamforming](https://github.com/umut-demirhan/Cell-free-ISAC-beamforming) - Implementation of the paper "Cell-Free ISAC MIMO Systems: Joint Sensing and Communication Beamforming" (today)
+- [ChinmayMittal/IITD-CSE](https://github.com/ChinmayMittal/IITD-CSE) - The go to place for your departmental needs (today)
+- [farismismar/Deep-Reinforcement-Learning-for-5G-Networks](https://github.com/farismismar/Deep-Reinforcement-Learning-for-5G-Networks) - Code for my publication: Deep Reinforcement Learning for 5G Networks: Joint Beamforming, Power Control, and Interference Coordination. Paper accepted for publication to IEEE Transactions on Communications. (today)
+- [sdrangan/wirelesscomm](https://github.com/sdrangan/wirelesscomm) - Teaching material for wireless communications (today)
+- [sdrangan/introml](https://github.com/sdrangan/introml) - Python tutorials for introduction to machine learning (today)
+- [TiantianUpup/springboot-log](https://github.com/TiantianUpup/springboot-log) - springboot整合log4j2、logback日志框架，包括同步、异步的日志配置方式、MDC全链路日志跟踪 (today)
 
 ## 🔨 Latest Pull Requests I published
 
