@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [Doriandarko/DIY-Astra](https://github.com/Doriandarko/DIY-Astra) (today)
-- [Doriandarko/Claude-Vision-Object-Detection](https://github.com/Doriandarko/Claude-Vision-Object-Detection) - A powerful Python tool that leverages Claude 3.5 Sonnet Vision API to detect and visualize objects in images. The script automatically draws bounding boxes around detected objects, labels them, and displays confidence scores. (today)
-- [Doriandarko/BabyAGIChatGPT](https://github.com/Doriandarko/BabyAGIChatGPT) - A ChatGPT plugin to run BabyAI directly in the chat interface (today)
-- [Doriandarko/RAT-retrieval-augmented-thinking](https://github.com/Doriandarko/RAT-retrieval-augmented-thinking) - RAT is a powerful tool that improves AI responses by leveraging DeepSeek's reasoning capabilities to guide other models through a structured thinking process. (today)
-- [Doriandarko/RepoToTextForLLMs](https://github.com/Doriandarko/RepoToTextForLLMs) - Automate the analysis of GitHub repositories for LLMs with RepoToTextForLLMs. Fetch READMEs, structure, and non-binary files efficiently. Outputs include analysis prompts to aid in comprehensive repo evaluation (today)
+- [viktorlarsson/vue-tiny-slider](https://github.com/viktorlarsson/vue-tiny-slider) - Vanilla javascript slider for all purposes created by ganlanyuan in Vue. (today)
+- [AyrA/ZipBomb](https://github.com/AyrA/ZipBomb) - About an old technology that still screws up some anti virus software (today)
+- [AyrA/ExcelStuff](https://github.com/AyrA/ExcelStuff) - Various Tools in Excel (today)
+- [alysonhower/tauri2-svelte5-shadcn](https://github.com/alysonhower/tauri2-svelte5-shadcn) - A clean desktop application template that combines Tauri 2 with Svelte 5 + Shadcn-svelte, including automated CI/CD pipelines for Windows, Linux, and Mac builds. (today)
+- [lulz3xploit/LittleBrother](https://github.com/lulz3xploit/LittleBrother) - Information gathering (OSINT) on a person (EU) (today)
 
 ## 🔨 Latest Pull Requests I published
 
