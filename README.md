@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [softwaredownload/openwrt-fanqiang](https://github.com/softwaredownload/openwrt-fanqiang) - 最好的路由器翻墙、科学上网教程—OpenWrt—shadowsocks (today)
-- [Seedarchangel/TuChart](https://github.com/Seedarchangel/TuChart) - Tuchart is a visualization interface for the Chinese stock market. Tuchart supports candlestick charts, price charts, tick data, high-frequency data and distribution of top shareholders for individual stocks. Tuchart是一个基于pyqt和echarts的股票视觉化应用。Tuchart 支持日／月线，分笔，高频数据，前十股东分笔的视觉化 (today)
-- [andyzsf/TuShare](https://github.com/andyzsf/TuShare) - TuShare是实现对股票/期货等金融数据从数据采集、清洗加工 到 数据存储过程的工具，满足金融量化分析师和学习数据分析的人在数据获取方面的需求，它的特点是数据覆盖范围广，接口调用简单,响应快速。 (today)
-- [meetbill/zabbix_manager](https://github.com/meetbill/zabbix_manager) - 🍀 (1)安装后一键设置 (2)日常管理工具 (3)一键导出常用报表 (4)Zabbix API  二次开发 (today)
-- [meetbill/Vim](https://github.com/meetbill/Vim) - 🚩 一键化打造 Vim IDE 环境(安装只需数秒) 【环境:Linux 64 位】 Vim7.X 可以安装版本1.0 (today)
+- [weigq/3d_pose_baseline_pytorch](https://github.com/weigq/3d_pose_baseline_pytorch) - A simple baseline for 3d human pose estimation in PyTorch. (today)
+- [Coder-Yu/SELFRec](https://github.com/Coder-Yu/SELFRec) - An open-source framework for self-supervised recommender systems. (today)
+- [Coder-Yu/QRec](https://github.com/Coder-Yu/QRec) - QRec: A Python Framework for quick implementation of recommender systems (TensorFlow Based) (today)
+- [YuanchenBei/Awesome-Pretraining-for-Graph-Neural-Networks](https://github.com/YuanchenBei/Awesome-Pretraining-for-Graph-Neural-Networks) - A curated list of papers on pre-training for graph neural networks (Pre-train4GNN). (today)
+- [YuanchenBei/Awesome-Cold-Start-Recommendation](https://github.com/YuanchenBei/Awesome-Cold-Start-Recommendation) - [Up-to-date] A curated list of resources on cold-start recommendations. (today)
 
 ## 🔨 Latest Pull Requests I published
 
