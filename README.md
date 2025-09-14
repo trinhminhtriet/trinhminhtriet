@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [chandana351](https://github.com/chandana351)
 - [ArpitSharma2800](https://github.com/ArpitSharma2800)
 - [boolYikes](https://github.com/boolYikes)
 - [connect2abdulaziz](https://github.com/connect2abdulaziz)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [SanojYadav17](https://github.com/SanojYadav17)
 - [NissaGame](https://github.com/NissaGame)
 - [RafalW3bCraft](https://github.com/RafalW3bCraft)
-- [155728](https://github.com/155728)
 
 ## ⭐ Recent stars
 
-- [RodrigoHamuy/react-three-map](https://github.com/RodrigoHamuy/react-three-map) - Use React and Three.js inside Mapbox and Maplibre (today)
-- [zhimingshenjun/DD_KaoRou2](https://github.com/zhimingshenjun/DD_KaoRou2) - 你没体验过的船新自动打轴机2.0版 (today)
-- [zhimingshenjun/DD_Monitor](https://github.com/zhimingshenjun/DD_Monitor) - DD监控室第一版 (today)
-- [guohuayan/WSR_maximization_for_RIS_system](https://github.com/guohuayan/WSR_maximization_for_RIS_system) - This repository contains the source codes for the paper ``Weighted Sum-Rate Maximization for Reconfigurable Intelligent Surface Aided Wireless Networks'' in IEEE Transactions on Wireless Communications.  (today)
-- [haoyye/ResourceAllocationReinforcementLearning](https://github.com/haoyye/ResourceAllocationReinforcementLearning) - intial version (today)
+- [yang69/MIMO-OFDM-Wireless-Communications-with-MATLAB](https://github.com/yang69/MIMO-OFDM-Wireless-Communications-with-MATLAB) - MATLAB Code for MIMO-OFDM Wireless Communications with MATLAB | MIMO-OFDM无线通信技术及MATLAB实现 (today)
+- [GeminiLight/virne](https://github.com/GeminiLight/virne) - Virne is a simulator & benchmark for resource allocation (RA) problems in network function virtualization (NFV), i.e., NFV-RA, including virtual network embedding, service function chain deployment, network slicing, etc. (today)
+- [GeminiLight/sdn-nfv-papers](https://github.com/GeminiLight/sdn-nfv-papers) - This is a paper list about Resource Allocation in Network Functions Virtualization (NFV) and Software-Defined Networking (SDN). (today)
+- [Royalvice/DocDiff](https://github.com/Royalvice/DocDiff) - ACM Multimedia 2023: DocDiff: Document Enhancement via Residual Diffusion Models. Also contains 1597 red seals in Chinese scenes, along with their corresponding binary masks. (today)
+- [umut-demirhan/Cell-free-ISAC-beamforming](https://github.com/umut-demirhan/Cell-free-ISAC-beamforming) - Implementation of the paper "Cell-Free ISAC MIMO Systems: Joint Sensing and Communication Beamforming" (today)
 
 ## 🔨 Latest Pull Requests I published
 
