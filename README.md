@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [iktakahiro/dddpy](https://github.com/iktakahiro/dddpy) - Python DDD & Onion Architecture Example and Techniques (today)
-- [ZeChrales/PogoAssets](https://github.com/ZeChrales/PogoAssets) - Unity assets (today)
-- [chilek/lms](https://github.com/chilek/lms) - Lan Management System (LMS) public GIT repo (today)
-- [PaulAnnekov/tuyaha](https://github.com/PaulAnnekov/tuyaha) - Implements the special Tuya Home Assistant API. (today)
-- [krishnasagrawal/Java-Programming-Notes](https://github.com/krishnasagrawal/Java-Programming-Notes) - In this repo, you will find all the Java notes, pdfs and Interview preparation materials. (today)
+- [chauncygu/Multi-Agent-Constrained-Policy-Optimisation](https://github.com/chauncygu/Multi-Agent-Constrained-Policy-Optimisation) - Multi-Agent Constrained Policy Optimisation (MACPO; MAPPO-L). (today)
+- [chauncygu/Safe-Reinforcement-Learning-Baselines](https://github.com/chauncygu/Safe-Reinforcement-Learning-Baselines) - The repository is for safe reinforcement learning baselines. (today)
+- [vincen-github/mlimpl](https://github.com/vincen-github/mlimpl) - This repository collects some codes that encapsulates commonly used algorithms in the field of machine learning. Most of them are based on Numpy, Pandas or Torch. You can deepen your understanding to related model and algorithm or revise it to get the customized code belongs yourself by referring to this repository. (today)
+- [clemtoy/pptree](https://github.com/clemtoy/pptree) - Python tree pretty-print (today)
+- [iamleot/transferwee](https://github.com/iamleot/transferwee) - Download/upload files via wetransfer.com (today)
 
 ## 🔨 Latest Pull Requests I published
 
