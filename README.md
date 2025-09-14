@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [boolYikes](https://github.com/boolYikes)
 - [connect2abdulaziz](https://github.com/connect2abdulaziz)
 - [eggduzao](https://github.com/eggduzao)
 - [Kwynto](https://github.com/Kwynto)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [RafalW3bCraft](https://github.com/RafalW3bCraft)
 - [155728](https://github.com/155728)
 - [codemonkey0612](https://github.com/codemonkey0612)
-- [HectorDanielAyarachiFuentes](https://github.com/HectorDanielAyarachiFuentes)
 
 ## ⭐ Recent stars
 
-- [qiucheng025/zao-](https://github.com/qiucheng025/zao-) - AI技术换脸源码 (today)
-- [RickyYu/Nfc-Android](https://github.com/RickyYu/Nfc-Android) - Android Nfc技术解析、使用 (today)
-- [jhildenbiddle/docsify-tabs](https://github.com/jhildenbiddle/docsify-tabs) - A docsify.js plugin for rendering tabbed content from markdown (today)
-- [jhildenbiddle/canvas-size](https://github.com/jhildenbiddle/canvas-size) - Determine the maximum area, height, width, and custom dimensions of an HTML canvas element. (today)
-- [jhildenbiddle/docsify-themeable](https://github.com/jhildenbiddle/docsify-themeable) - A delightfully simple theme system for docsify.js. Features multiple themes with rich customization options, an improved desktop and mobile experience, and legacy browser support (IE11+). (today)
+- [AdeelK93/collapsibleTree](https://github.com/AdeelK93/collapsibleTree) - Create Interactive Collapsible Tree Diagrams in R using D3.js (today)
+- [phpduke/Algorithms-Notebook](https://github.com/phpduke/Algorithms-Notebook) (today)
+- [thialfihar/apg](https://github.com/thialfihar/apg) - OpenPGP for Android (today)
+- [whydna/Reverse-AVAsset-Efficient](https://github.com/whydna/Reverse-AVAsset-Efficient) - Reverse videos efficiently in Objective C and Swift (today)
+- [MadLittleMods/node-usb-detection](https://github.com/MadLittleMods/node-usb-detection) - List USB devices in system and detect changes on them. (today)
 
 ## 🔨 Latest Pull Requests I published
 
