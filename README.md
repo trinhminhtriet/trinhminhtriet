@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [RogerQi/human-policy](https://github.com/RogerQi/human-policy) (today)
-- [revenol/DDLO](https://github.com/revenol/DDLO) - Distributed Deep Learning-based Offloading for Mobile Edge Computing Networks (today)
-- [revenol/LyDROO](https://github.com/revenol/LyDROO) - Lyapunov-guided Deep Reinforcement Learning for Stable Online Computation Offloading in Mobile-Edge Computing Networks (today)
-- [revenol/DROO](https://github.com/revenol/DROO) - Deep Reinforcement Learning for Online Computation Offloading in Wireless Powered Mobile-Edge Computing Networks (today)
-- [hliangzhao/Edge-Computing-Codes](https://github.com/hliangzhao/Edge-Computing-Codes) - Algorithm implementation for my Edge Computing-related papers. (today)
+- [iktakahiro/dddpy](https://github.com/iktakahiro/dddpy) - Python DDD & Onion Architecture Example and Techniques (today)
+- [ZeChrales/PogoAssets](https://github.com/ZeChrales/PogoAssets) - Unity assets (today)
+- [chilek/lms](https://github.com/chilek/lms) - Lan Management System (LMS) public GIT repo (today)
+- [PaulAnnekov/tuyaha](https://github.com/PaulAnnekov/tuyaha) - Implements the special Tuya Home Assistant API. (today)
+- [krishnasagrawal/Java-Programming-Notes](https://github.com/krishnasagrawal/Java-Programming-Notes) - In this repo, you will find all the Java notes, pdfs and Interview preparation materials. (today)
 
 ## 🔨 Latest Pull Requests I published
 
