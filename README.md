@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [ChinmayMittal/IITD-CSE](https://github.com/ChinmayMittal/IITD-CSE) - The go to place for your departmental needs (today)
-- [farismismar/Deep-Reinforcement-Learning-for-5G-Networks](https://github.com/farismismar/Deep-Reinforcement-Learning-for-5G-Networks) - Code for my publication: Deep Reinforcement Learning for 5G Networks: Joint Beamforming, Power Control, and Interference Coordination. Paper accepted for publication to IEEE Transactions on Communications. (today)
-- [sdrangan/wirelesscomm](https://github.com/sdrangan/wirelesscomm) - Teaching material for wireless communications (today)
-- [sdrangan/introml](https://github.com/sdrangan/introml) - Python tutorials for introduction to machine learning (today)
-- [TiantianUpup/springboot-log](https://github.com/TiantianUpup/springboot-log) - springboot整合log4j2、logback日志框架，包括同步、异步的日志配置方式、MDC全链路日志跟踪 (today)
+- [RogerQi/human-policy](https://github.com/RogerQi/human-policy) (today)
+- [revenol/DDLO](https://github.com/revenol/DDLO) - Distributed Deep Learning-based Offloading for Mobile Edge Computing Networks (today)
+- [revenol/LyDROO](https://github.com/revenol/LyDROO) - Lyapunov-guided Deep Reinforcement Learning for Stable Online Computation Offloading in Mobile-Edge Computing Networks (today)
+- [revenol/DROO](https://github.com/revenol/DROO) - Deep Reinforcement Learning for Online Computation Offloading in Wireless Powered Mobile-Edge Computing Networks (today)
+- [hliangzhao/Edge-Computing-Codes](https://github.com/hliangzhao/Edge-Computing-Codes) - Algorithm implementation for my Edge Computing-related papers. (today)
 
 ## 🔨 Latest Pull Requests I published
 
