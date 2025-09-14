@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [orinocoz/pirateflix](https://github.com/orinocoz/pirateflix) - :movie_camera: Stream piratebay movies directly from CLI (today)
-- [PascalCoinDev/PascalCoin](https://github.com/PascalCoinDev/PascalCoin) - P2P cryptocurrency without need of historical operations (today)
-- [iShift/twister-webkit](https://github.com/iShift/twister-webkit) - webkit client for twister (today)
-- [dan-da/hd-wallet-addrs](https://github.com/dan-da/hd-wallet-addrs) - A command-line tool that performs Bitcoin wallet address discovery. (today)
-- [dan-da/hd-wallet-derive](https://github.com/dan-da/hd-wallet-derive) - A command-line tool that derives bip32 addresses and private keys. (today)
+- [sreyafrancis/BlockchainForFederatedLearning](https://github.com/sreyafrancis/BlockchainForFederatedLearning) - Democratize access to data, decentralize Artificial intelligence and enhance user privacy with Federated learning and Blockchain. (today)
+- [sreyafrancis/PFNN](https://github.com/sreyafrancis/PFNN) - Phase-Functioned Neural Networks for Character Control (today)
+- [YuHengsss/VSSD](https://github.com/YuHengsss/VSSD) - [ICCV2025] Introduce Mamba2 to Vision. (today)
+- [YuHengsss/YOLOV](https://github.com/YuHengsss/YOLOV) - [AAAI'23 & IJCV'25] This repo is an implementation of PyTorch version YOLOV Series (today)
+- [ZhengxueCheng/Learned-Image-Compression-with-GMM-and-Attention](https://github.com/ZhengxueCheng/Learned-Image-Compression-with-GMM-and-Attention) - Repository of the paper "Learned Image Compression with Discretized Gaussian Mixture Likelihoods and Attention Modules" (today)
 
 ## 🔨 Latest Pull Requests I published
 
