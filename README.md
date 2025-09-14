@@ -34,7 +34,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 ## 👷 Check out what I'm currently working on
 
 - [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (today)
-- [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) - 🚀 All-in-one CLI toolkit for developers: scaffold, manage, automate, and boost productivity across languages! (1 day ago)
+- [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) - 🚀 All-in-one CLI toolkit for developers: scaffold, manage, automate, and boost productivity across languages! (today)
 - [trinhminhtriet/dwipe](https://github.com/trinhminhtriet/dwipe) - 🧹 Fast, cross-platform disk cleanup tool with interactive UI for easy directory size visualization. (1 week ago)
 - [nctl-io/nctl-roadmap](https://github.com/nctl-io/nctl-roadmap) (2 weeks ago)
 - [nctl-io/.github](https://github.com/nctl-io/.github) - 🌐 Network. Connect. Transform. Lead. (2 weeks ago)
@@ -59,16 +59,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [sreyafrancis/BlockchainForFederatedLearning](https://github.com/sreyafrancis/BlockchainForFederatedLearning) - Democratize access to data, decentralize Artificial intelligence and enhance user privacy with Federated learning and Blockchain. (today)
-- [sreyafrancis/PFNN](https://github.com/sreyafrancis/PFNN) - Phase-Functioned Neural Networks for Character Control (today)
-- [YuHengsss/VSSD](https://github.com/YuHengsss/VSSD) - [ICCV2025] Introduce Mamba2 to Vision. (today)
-- [YuHengsss/YOLOV](https://github.com/YuHengsss/YOLOV) - [AAAI'23 & IJCV'25] This repo is an implementation of PyTorch version YOLOV Series (today)
-- [ZhengxueCheng/Learned-Image-Compression-with-GMM-and-Attention](https://github.com/ZhengxueCheng/Learned-Image-Compression-with-GMM-and-Attention) - Repository of the paper "Learned Image Compression with Discretized Gaussian Mixture Likelihoods and Attention Modules" (today)
+- [Doriandarko/DIY-Astra](https://github.com/Doriandarko/DIY-Astra) (today)
+- [Doriandarko/Claude-Vision-Object-Detection](https://github.com/Doriandarko/Claude-Vision-Object-Detection) - A powerful Python tool that leverages Claude 3.5 Sonnet Vision API to detect and visualize objects in images. The script automatically draws bounding boxes around detected objects, labels them, and displays confidence scores. (today)
+- [Doriandarko/BabyAGIChatGPT](https://github.com/Doriandarko/BabyAGIChatGPT) - A ChatGPT plugin to run BabyAI directly in the chat interface (today)
+- [Doriandarko/RAT-retrieval-augmented-thinking](https://github.com/Doriandarko/RAT-retrieval-augmented-thinking) - RAT is a powerful tool that improves AI responses by leveraging DeepSeek's reasoning capabilities to guide other models through a structured thinking process. (today)
+- [Doriandarko/RepoToTextForLLMs](https://github.com/Doriandarko/RepoToTextForLLMs) - Automate the analysis of GitHub repositories for LLMs with RepoToTextForLLMs. Fetch READMEs, structure, and non-binary files efficiently. Outputs include analysis prompts to aid in comprehensive repo evaluation (today)
 
 ## 🔨 Latest Pull Requests I published
 
+- [Add global git configuration and implement note management CLI](https://github.com/trinhminhtriet/DevPilot/pull/8) on [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) (today)
 - [fix: Update repository URL in README for cloning instructions](https://github.com/trinhminhtriet/DevPilot/pull/7) on [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) (1 day ago)
 - [Develop](https://github.com/trinhminhtriet/DevPilot/pull/6) on [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) (1 day ago)
 - [Develop](https://github.com/trinhminhtriet/DevPilot/pull/5) on [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) (2 days ago)
 - [feat: Rename DevPilot to pilot and update related links in README](https://github.com/trinhminhtriet/DevPilot/pull/4) on [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) (2 days ago)
-- [feat: Enhance EnvDiffCommand to format output as markdown table for b…](https://github.com/trinhminhtriet/DevPilot/pull/3) on [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) (2 days ago)
