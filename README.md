@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [felisat/clustered-federated-learning](https://github.com/felisat/clustered-federated-learning) - Clustered Federated Learning: Model-Agnostic Distributed Multi-Task Optimization under Privacy Constraints (today)
-- [klemenjak/nilm-papers-with-code](https://github.com/klemenjak/nilm-papers-with-code) - An archive for NILM papers with source code and other supplemental material (today)
-- [chengpeng-wang/LLMDFA](https://github.com/chengpeng-wang/LLMDFA) - LLMDFA: Analyzing Dataflow in Code with Large Language Models (NeurIPS 2024) (today)
-- [monkbai/DNN-decompiler](https://github.com/monkbai/DNN-decompiler) - BTD - Bin To DNN: A DNN Executables Decompiler (today)
-- [Tongjilibo/build_MiniLLM_from_scratch](https://github.com/Tongjilibo/build_MiniLLM_from_scratch) - 从0到1构建一个MiniLLM (pretrain+sft+dpo实践中) (today)
+- [softwaredownload/openwrt-fanqiang](https://github.com/softwaredownload/openwrt-fanqiang) - 最好的路由器翻墙、科学上网教程—OpenWrt—shadowsocks (today)
+- [Seedarchangel/TuChart](https://github.com/Seedarchangel/TuChart) - Tuchart is a visualization interface for the Chinese stock market. Tuchart supports candlestick charts, price charts, tick data, high-frequency data and distribution of top shareholders for individual stocks. Tuchart是一个基于pyqt和echarts的股票视觉化应用。Tuchart 支持日／月线，分笔，高频数据，前十股东分笔的视觉化 (today)
+- [andyzsf/TuShare](https://github.com/andyzsf/TuShare) - TuShare是实现对股票/期货等金融数据从数据采集、清洗加工 到 数据存储过程的工具，满足金融量化分析师和学习数据分析的人在数据获取方面的需求，它的特点是数据覆盖范围广，接口调用简单,响应快速。 (today)
+- [meetbill/zabbix_manager](https://github.com/meetbill/zabbix_manager) - 🍀 (1)安装后一键设置 (2)日常管理工具 (3)一键导出常用报表 (4)Zabbix API  二次开发 (today)
+- [meetbill/Vim](https://github.com/meetbill/Vim) - 🚩 一键化打造 Vim IDE 环境(安装只需数秒) 【环境:Linux 64 位】 Vim7.X 可以安装版本1.0 (today)
 
 ## 🔨 Latest Pull Requests I published
 
