@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [ArpitSharma2800](https://github.com/ArpitSharma2800)
 - [boolYikes](https://github.com/boolYikes)
 - [connect2abdulaziz](https://github.com/connect2abdulaziz)
 - [eggduzao](https://github.com/eggduzao)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [NissaGame](https://github.com/NissaGame)
 - [RafalW3bCraft](https://github.com/RafalW3bCraft)
 - [155728](https://github.com/155728)
-- [codemonkey0612](https://github.com/codemonkey0612)
 
 ## ⭐ Recent stars
 
-- [marianosimone/epub-thumbnailer](https://github.com/marianosimone/epub-thumbnailer) - Script to extract the cover of an epub book and create a thumbnail for it (today)
-- [danielbuechele/goofy](https://github.com/danielbuechele/goofy) - Desktop client for Facebook Messenger (today)
-- [adept/full-fledged-hledger](https://github.com/adept/full-fledged-hledger) - Tutorial on Hledger setup with multi-year files, multi-source imports and a range of auto-generated reports (today)
-- [rolodato/gitlab-letsencrypt](https://github.com/rolodato/gitlab-letsencrypt) - Easily generate a Let's Encrypt certificate for GitLab Pages (today)
-- [rolodato/dotenv-safe](https://github.com/rolodato/dotenv-safe) - Load environment variables from .env and ensure they are all present (today)
+- [RodrigoHamuy/react-three-map](https://github.com/RodrigoHamuy/react-three-map) - Use React and Three.js inside Mapbox and Maplibre (today)
+- [zhimingshenjun/DD_KaoRou2](https://github.com/zhimingshenjun/DD_KaoRou2) - 你没体验过的船新自动打轴机2.0版 (today)
+- [zhimingshenjun/DD_Monitor](https://github.com/zhimingshenjun/DD_Monitor) - DD监控室第一版 (today)
+- [guohuayan/WSR_maximization_for_RIS_system](https://github.com/guohuayan/WSR_maximization_for_RIS_system) - This repository contains the source codes for the paper ``Weighted Sum-Rate Maximization for Reconfigurable Intelligent Surface Aided Wireless Networks'' in IEEE Transactions on Wireless Communications.  (today)
+- [haoyye/ResourceAllocationReinforcementLearning](https://github.com/haoyye/ResourceAllocationReinforcementLearning) - intial version (today)
 
 ## 🔨 Latest Pull Requests I published
 
