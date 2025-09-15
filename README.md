@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [ishandutta2007](https://github.com/ishandutta2007)
 - [dopaemon](https://github.com/dopaemon)
 - [orgamiryazdani](https://github.com/orgamiryazdani)
 - [BEPb](https://github.com/BEPb)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [ArpitSharma2800](https://github.com/ArpitSharma2800)
 - [boolYikes](https://github.com/boolYikes)
 - [connect2abdulaziz](https://github.com/connect2abdulaziz)
-- [eggduzao](https://github.com/eggduzao)
 
 ## ⭐ Recent stars
 
-- [byukan/Marketing-Data-Science](https://github.com/byukan/Marketing-Data-Science) - Analytics and data science business case studies to identify opportunities and inform decisions about products and features.  Topics include Markov chains, A/B testing, customer segmentation, and machine learning models (logistic regression, support vector machines, and quadratic discriminant analysis). (today)
-- [mahsu/MariOCaml](https://github.com/mahsu/MariOCaml) - HTML 5 canvas implementation of Mario written in Ocaml (today)
-- [patrikeh/go-deep](https://github.com/patrikeh/go-deep) - Artificial Neural Network (today)
-- [joakimkarlsson/igloo](https://github.com/joakimkarlsson/igloo) - A framework for unit testing in C++ (today)
-- [dgorissen/pycel](https://github.com/dgorissen/pycel) - A library for compiling excel spreadsheets to python code & visualizing them as a graph (today)
+- [sr4dev/Unity-SpriteAssist](https://github.com/sr4dev/Unity-SpriteAssist) - Unity Sprite mesh extension (today)
+- [integraldx/HowToSNUCSE](https://github.com/integraldx/HowToSNUCSE) - 고인물들은 무엇을 아는가 (today)
+- [appditto/blaise_wallet_flutter](https://github.com/appditto/blaise_wallet_flutter) - Blaise Wallet - A wallet for the Pascal cryptocurrency, made with Flutter (today)
+- [appditto/natrium_wallet_flutter](https://github.com/appditto/natrium_wallet_flutter) - Natrium - Fast, Robust & Secure NANO Wallet, now written with Flutter. (today)
+- [caiiiycuk/postgresql-to-sqlite](https://github.com/caiiiycuk/postgresql-to-sqlite) - pg2sqlite is easy to use solution to create sqlite database from postgresql dump (today)
 
 ## 🔨 Latest Pull Requests I published
 
