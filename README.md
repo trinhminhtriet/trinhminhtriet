@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [Wsky51/THU-CS912-kaoyan](https://github.com/Wsky51/THU-CS912-kaoyan) - 清华大学计算机类912考研的历年真题，清华本科生试卷以及清华相关课程ppt (today)
-- [kxy000/doubanapi](https://github.com/kxy000/doubanapi) - 豆瓣API文档备份 (today)
-- [falseen/shadowsocks-pyqt](https://github.com/falseen/shadowsocks-pyqt) - 一个用PyQt5实现的shadowsocks 客户端, 可以在 windows、linux、OSX 等平台上运行 (today)
-- [PythonShell/study-resource](https://github.com/PythonShell/study-resource) - Keep track of E-learning resources (today)
-- [pine64dev/PINE64-Installer](https://github.com/pine64dev/PINE64-Installer) - Flash PINE64 OS images to SD cards safely and easily. (today)
+- [patrikeh/go-deep](https://github.com/patrikeh/go-deep) - Artificial Neural Network (today)
+- [joakimkarlsson/igloo](https://github.com/joakimkarlsson/igloo) - A framework for unit testing in C++ (today)
+- [dgorissen/pycel](https://github.com/dgorissen/pycel) - A library for compiling excel spreadsheets to python code & visualizing them as a graph (today)
+- [dgorissen/coursera-dl](https://github.com/dgorissen/coursera-dl) - A script for downloading course material (video's, pdfs, quizzes, etc) from coursera.org (today)
+- [justskiv/goschedviz](https://github.com/justskiv/goschedviz) - 📊 Terminal-based Go scheduler visualization tool with real-time metrics, charts and insights (today)
 
 ## 🔨 Latest Pull Requests I published
 
