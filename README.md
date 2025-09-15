@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [mahsu/MariOCaml](https://github.com/mahsu/MariOCaml) - HTML 5 canvas implementation of Mario written in Ocaml (today)
 - [patrikeh/go-deep](https://github.com/patrikeh/go-deep) - Artificial Neural Network (today)
 - [joakimkarlsson/igloo](https://github.com/joakimkarlsson/igloo) - A framework for unit testing in C++ (today)
 - [dgorissen/pycel](https://github.com/dgorissen/pycel) - A library for compiling excel spreadsheets to python code & visualizing them as a graph (today)
 - [dgorissen/coursera-dl](https://github.com/dgorissen/coursera-dl) - A script for downloading course material (video's, pdfs, quizzes, etc) from coursera.org (today)
-- [justskiv/goschedviz](https://github.com/justskiv/goschedviz) - 📊 Terminal-based Go scheduler visualization tool with real-time metrics, charts and insights (today)
 
 ## 🔨 Latest Pull Requests I published
 
