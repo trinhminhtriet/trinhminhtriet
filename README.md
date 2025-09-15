@@ -51,11 +51,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [BEPb](https://github.com/BEPb)
 - [owlman](https://github.com/owlman)
 - [NazmusSayad](https://github.com/NazmusSayad)
-- [ishandutta2007](https://github.com/ishandutta2007)
 - [chandana351](https://github.com/chandana351)
 - [ArpitSharma2800](https://github.com/ArpitSharma2800)
 - [boolYikes](https://github.com/boolYikes)
 - [connect2abdulaziz](https://github.com/connect2abdulaziz)
+- [eggduzao](https://github.com/eggduzao)
 
 ## ⭐ Recent stars
 
