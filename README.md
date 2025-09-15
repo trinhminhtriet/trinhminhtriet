@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [baeharam/Must-Know-About-Frontend](https://github.com/baeharam/Must-Know-About-Frontend) - :mortar_board: 취준생이라면 알면 좋을 프론트엔드 관련 지식들 (today)
-- [dhslrl321/cqrs-journey-guide-korean](https://github.com/dhslrl321/cqrs-journey-guide-korean) - 🚘 CQRS Journey 의 한글 번역본 (Korean version translation of Microsoft's CQRS Journey) (today)
-- [onjsdnjs/spring-batch-lecture](https://github.com/onjsdnjs/spring-batch-lecture) (today)
-- [CatsMiaow/nestjs-project-structure](https://github.com/CatsMiaow/nestjs-project-structure) - Node.js framework NestJS project structure (today)
-- [wotomas/droid-vizu](https://github.com/wotomas/droid-vizu) - Droid-vizu aims to provide customized visualization effects by easily swapping Renderer to get cool effects (today)
+- [youknowone/itunes-iap](https://github.com/youknowone/itunes-iap) - Apple iTunes In-app purchase verification tool (today)
+- [youknowone/VisualJSON](https://github.com/youknowone/VisualJSON) - JSON pretty-viewer for OS X. (today)
+- [youknowone/ring](https://github.com/youknowone/ring) - Python cache interface with clean API and built-in memcache & redis + asyncio support. (today)
+- [youknowone/UI7Kit](https://github.com/youknowone/UI7Kit) - Backport flat-style UIKit from iOS7 to iOS5+ (today)
+- [joelibaceta/video-keyframe-detector](https://github.com/joelibaceta/video-keyframe-detector) - It is a simple python tool to extract key-frames from a video file using peak estimation from frame difference. (today)
 
 ## 🔨 Latest Pull Requests I published
 
