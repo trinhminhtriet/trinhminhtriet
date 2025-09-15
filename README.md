@@ -33,7 +33,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👷 Check out what I'm currently working on
 
-- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (1 day ago)
+- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (today)
 - [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) - 🚀 All-in-one CLI toolkit for developers: scaffold, manage, automate, and boost productivity across languages! (1 day ago)
 - [trinhminhtriet/dwipe](https://github.com/trinhminhtriet/dwipe) - 🧹 Fast, cross-platform disk cleanup tool with interactive UI for easy directory size visualization. (1 week ago)
 - [nctl-io/nctl-roadmap](https://github.com/nctl-io/nctl-roadmap) (2 weeks ago)
@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [sr4dev/Unity-SpriteAssist](https://github.com/sr4dev/Unity-SpriteAssist) - Unity Sprite mesh extension (today)
-- [integraldx/HowToSNUCSE](https://github.com/integraldx/HowToSNUCSE) - 고인물들은 무엇을 아는가 (today)
-- [appditto/blaise_wallet_flutter](https://github.com/appditto/blaise_wallet_flutter) - Blaise Wallet - A wallet for the Pascal cryptocurrency, made with Flutter (today)
-- [appditto/natrium_wallet_flutter](https://github.com/appditto/natrium_wallet_flutter) - Natrium - Fast, Robust & Secure NANO Wallet, now written with Flutter. (today)
-- [caiiiycuk/postgresql-to-sqlite](https://github.com/caiiiycuk/postgresql-to-sqlite) - pg2sqlite is easy to use solution to create sqlite database from postgresql dump (today)
+- [baeharam/Must-Know-About-Frontend](https://github.com/baeharam/Must-Know-About-Frontend) - :mortar_board: 취준생이라면 알면 좋을 프론트엔드 관련 지식들 (today)
+- [dhslrl321/cqrs-journey-guide-korean](https://github.com/dhslrl321/cqrs-journey-guide-korean) - 🚘 CQRS Journey 의 한글 번역본 (Korean version translation of Microsoft's CQRS Journey) (today)
+- [onjsdnjs/spring-batch-lecture](https://github.com/onjsdnjs/spring-batch-lecture) (today)
+- [CatsMiaow/nestjs-project-structure](https://github.com/CatsMiaow/nestjs-project-structure) - Node.js framework NestJS project structure (today)
+- [wotomas/droid-vizu](https://github.com/wotomas/droid-vizu) - Droid-vizu aims to provide customized visualization effects by easily swapping Renderer to get cool effects (today)
 
 ## 🔨 Latest Pull Requests I published
 
