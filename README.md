@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [mraleph/irhydra](https://github.com/mraleph/irhydra) - Tool for displaying IR used by V8 and Dart VM optimizing compilers (today)
-- [kassambara/ggcorrplot](https://github.com/kassambara/ggcorrplot) - Visualization of a correlation matrix using ggplot2 (today)
-- [kassambara/wordpress-docker-compose](https://github.com/kassambara/wordpress-docker-compose) - Deploy Wordpress on Localhost using Docker Compose (today)
-- [kassambara/factoextra](https://github.com/kassambara/factoextra) - Extract and Visualize the Results of Multivariate Data Analyses (today)
-- [kassambara/rstatix](https://github.com/kassambara/rstatix) - Pipe-friendly Framework for Basic Statistical Tests in R (today)
+- [junsooo/linux-insides-ko](https://github.com/junsooo/linux-insides-ko) - linux-insides 한국어 번역 (today)
+- [jakebonk/BoardView](https://github.com/jakebonk/BoardView) - A draggable boardview for java android (Kanban style) (today)
+- [anirudhsharma392/Slider-Button](https://github.com/anirudhsharma392/Slider-Button) - A flutter package for creating a slider button widget. (today)
+- [patsytau/anki_german_a1_vocab](https://github.com/patsytau/anki_german_a1_vocab) - Source for Anki deck "Goethe Institute A1 Wordlist" (today)
+- [CLAY-3D/OpenCLAY](https://github.com/CLAY-3D/OpenCLAY) - CLAY: A Controllable Large-scale Generative Model for Creating High-quality 3D Assets (today)
 
 ## 🔨 Latest Pull Requests I published
 
