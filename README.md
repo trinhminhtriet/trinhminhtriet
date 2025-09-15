@@ -33,19 +33,20 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👷 Check out what I'm currently working on
 
-- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (today)
-- [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) - 🚀 All-in-one CLI toolkit for developers: scaffold, manage, automate, and boost productivity across languages! (today)
+- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (1 day ago)
+- [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) - 🚀 All-in-one CLI toolkit for developers: scaffold, manage, automate, and boost productivity across languages! (1 day ago)
 - [trinhminhtriet/dwipe](https://github.com/trinhminhtriet/dwipe) - 🧹 Fast, cross-platform disk cleanup tool with interactive UI for easy directory size visualization. (1 week ago)
 - [nctl-io/nctl-roadmap](https://github.com/nctl-io/nctl-roadmap) (2 weeks ago)
 - [nctl-io/.github](https://github.com/nctl-io/.github) - 🌐 Network. Connect. Transform. Lead. (2 weeks ago)
 - [nctl-io/nctl-branding](https://github.com/nctl-io/nctl-branding) - NCTL Branding 🖼️: Centralized assets and guidelines for consistent visual identity across NCTL projects and platforms. (2 weeks ago)
 - [nctl-io/nctl-homepage](https://github.com/nctl-io/nctl-homepage) - 🚀 Modern homepage for NCTL: fast, responsive, TypeScript-powered, open source, and easy to customize. (2 weeks ago)
-- [trinhminhtriet/sizr](https://github.com/trinhminhtriet/sizr) - 📈 A fast, Rust-based tool to analyze file system usage with colorful output, file aggregation, exclusions, and directory comparisons. (2 weeks ago)
+- [trinhminhtriet/sizr](https://github.com/trinhminhtriet/sizr) - 📈 A fast, Rust-based tool to analyze file system usage with colorful output, file aggregation, exclusions, and directory comparisons. (3 weeks ago)
 - [trinhminhtriet/spiko](https://github.com/trinhminhtriet/spiko) - 🚀 Spiko is a fast, Rust-based load testing tool with a beautiful TUI for real-time insights. (3 weeks ago)
 - [rust-rs/tabler](https://github.com/rust-rs/tabler) - 📊 Tabler: A lightweight TUI tool to view, query, and navigate CSV, TSV, and Parquet data files. (3 weeks ago)
 
 ## 👯 Check out my recent followers
 
+- [NazmusSayad](https://github.com/NazmusSayad)
 - [ishandutta2007](https://github.com/ishandutta2007)
 - [chandana351](https://github.com/chandana351)
 - [ArpitSharma2800](https://github.com/ArpitSharma2800)
@@ -55,20 +56,19 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Kwynto](https://github.com/Kwynto)
 - [niloRoch](https://github.com/niloRoch)
 - [SanojYadav17](https://github.com/SanojYadav17)
-- [NissaGame](https://github.com/NissaGame)
 
 ## ⭐ Recent stars
 
-- [weigq/3d_pose_baseline_pytorch](https://github.com/weigq/3d_pose_baseline_pytorch) - A simple baseline for 3d human pose estimation in PyTorch. (today)
-- [Coder-Yu/SELFRec](https://github.com/Coder-Yu/SELFRec) - An open-source framework for self-supervised recommender systems. (today)
-- [Coder-Yu/QRec](https://github.com/Coder-Yu/QRec) - QRec: A Python Framework for quick implementation of recommender systems (TensorFlow Based) (today)
-- [YuanchenBei/Awesome-Pretraining-for-Graph-Neural-Networks](https://github.com/YuanchenBei/Awesome-Pretraining-for-Graph-Neural-Networks) - A curated list of papers on pre-training for graph neural networks (Pre-train4GNN). (today)
-- [YuanchenBei/Awesome-Cold-Start-Recommendation](https://github.com/YuanchenBei/Awesome-Cold-Start-Recommendation) - [Up-to-date] A curated list of resources on cold-start recommendations. (today)
+- [pangz-lab/verus_miner-release](https://github.com/pangz-lab/verus_miner-release) - VerusMiner App release (today)
+- [jimxl/onvif-core-specification-cn](https://github.com/jimxl/onvif-core-specification-cn) - onvif核心规范中文翻译 (today)
+- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (today)
+- [Adamm00/IPSet_ASUS](https://github.com/Adamm00/IPSet_ASUS) - Skynet - Advanced IP Blocking For ASUS Routers Using IPSet. (today)
+- [sjtrny/Dark-Channel-Haze-Removal](https://github.com/sjtrny/Dark-Channel-Haze-Removal) - MATLAB implementation of "Single Image Haze Removal Using Dark Channel Prior" (1 day ago)
 
 ## 🔨 Latest Pull Requests I published
 
-- [Add global git configuration and implement note management CLI](https://github.com/trinhminhtriet/DevPilot/pull/8) on [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) (today)
-- [fix: Update repository URL in README for cloning instructions](https://github.com/trinhminhtriet/DevPilot/pull/7) on [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) (1 day ago)
-- [Develop](https://github.com/trinhminhtriet/DevPilot/pull/6) on [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) (1 day ago)
-- [Develop](https://github.com/trinhminhtriet/DevPilot/pull/5) on [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) (2 days ago)
-- [feat: Rename DevPilot to pilot and update related links in README](https://github.com/trinhminhtriet/DevPilot/pull/4) on [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) (2 days ago)
+- [Add global git configuration and implement note management CLI](https://github.com/trinhminhtriet/DevPilot/pull/8) on [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) (1 day ago)
+- [fix: Update repository URL in README for cloning instructions](https://github.com/trinhminhtriet/DevPilot/pull/7) on [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) (2 days ago)
+- [Develop](https://github.com/trinhminhtriet/DevPilot/pull/6) on [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) (2 days ago)
+- [Develop](https://github.com/trinhminhtriet/DevPilot/pull/5) on [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) (3 days ago)
+- [feat: Rename DevPilot to pilot and update related links in README](https://github.com/trinhminhtriet/DevPilot/pull/4) on [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) (3 days ago)
