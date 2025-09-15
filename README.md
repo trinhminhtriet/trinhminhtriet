@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [youknowone/itunes-iap](https://github.com/youknowone/itunes-iap) - Apple iTunes In-app purchase verification tool (today)
-- [youknowone/VisualJSON](https://github.com/youknowone/VisualJSON) - JSON pretty-viewer for OS X. (today)
-- [youknowone/ring](https://github.com/youknowone/ring) - Python cache interface with clean API and built-in memcache & redis + asyncio support. (today)
-- [youknowone/UI7Kit](https://github.com/youknowone/UI7Kit) - Backport flat-style UIKit from iOS7 to iOS5+ (today)
-- [joelibaceta/video-keyframe-detector](https://github.com/joelibaceta/video-keyframe-detector) - It is a simple python tool to extract key-frames from a video file using peak estimation from frame difference. (today)
+- [mraleph/irhydra](https://github.com/mraleph/irhydra) - Tool for displaying IR used by V8 and Dart VM optimizing compilers (today)
+- [kassambara/ggcorrplot](https://github.com/kassambara/ggcorrplot) - Visualization of a correlation matrix using ggplot2 (today)
+- [kassambara/wordpress-docker-compose](https://github.com/kassambara/wordpress-docker-compose) - Deploy Wordpress on Localhost using Docker Compose (today)
+- [kassambara/factoextra](https://github.com/kassambara/factoextra) - Extract and Visualize the Results of Multivariate Data Analyses (today)
+- [kassambara/rstatix](https://github.com/kassambara/rstatix) - Pipe-friendly Framework for Basic Statistical Tests in R (today)
 
 ## 🔨 Latest Pull Requests I published
 
