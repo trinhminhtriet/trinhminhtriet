@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [pangz-lab/verus_miner-release](https://github.com/pangz-lab/verus_miner-release) - VerusMiner App release (today)
-- [jimxl/onvif-core-specification-cn](https://github.com/jimxl/onvif-core-specification-cn) - onvif核心规范中文翻译 (today)
-- [sinamics/ztnet](https://github.com/sinamics/ztnet) - ZTNET - ZeroTier Web UI for Private Controllers with Multiuser and Organization Support. (today)
-- [Adamm00/IPSet_ASUS](https://github.com/Adamm00/IPSet_ASUS) - Skynet - Advanced IP Blocking For ASUS Routers Using IPSet. (today)
-- [sjtrny/Dark-Channel-Haze-Removal](https://github.com/sjtrny/Dark-Channel-Haze-Removal) - MATLAB implementation of "Single Image Haze Removal Using Dark Channel Prior" (1 day ago)
+- [Wsky51/THU-CS912-kaoyan](https://github.com/Wsky51/THU-CS912-kaoyan) - 清华大学计算机类912考研的历年真题，清华本科生试卷以及清华相关课程ppt (today)
+- [kxy000/doubanapi](https://github.com/kxy000/doubanapi) - 豆瓣API文档备份 (today)
+- [falseen/shadowsocks-pyqt](https://github.com/falseen/shadowsocks-pyqt) - 一个用PyQt5实现的shadowsocks 客户端, 可以在 windows、linux、OSX 等平台上运行 (today)
+- [PythonShell/study-resource](https://github.com/PythonShell/study-resource) - Keep track of E-learning resources (today)
+- [pine64dev/PINE64-Installer](https://github.com/pine64dev/PINE64-Installer) - Flash PINE64 OS images to SD cards safely and easily. (today)
 
 ## 🔨 Latest Pull Requests I published
 
