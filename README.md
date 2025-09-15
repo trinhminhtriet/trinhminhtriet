@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [dopaemon](https://github.com/dopaemon)
 - [orgamiryazdani](https://github.com/orgamiryazdani)
 - [BEPb](https://github.com/BEPb)
 - [owlman](https://github.com/owlman)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [ArpitSharma2800](https://github.com/ArpitSharma2800)
 - [boolYikes](https://github.com/boolYikes)
 - [connect2abdulaziz](https://github.com/connect2abdulaziz)
-- [eggduzao](https://github.com/eggduzao)
 
 ## ⭐ Recent stars
 
+- [byukan/Marketing-Data-Science](https://github.com/byukan/Marketing-Data-Science) - Analytics and data science business case studies to identify opportunities and inform decisions about products and features.  Topics include Markov chains, A/B testing, customer segmentation, and machine learning models (logistic regression, support vector machines, and quadratic discriminant analysis). (today)
 - [mahsu/MariOCaml](https://github.com/mahsu/MariOCaml) - HTML 5 canvas implementation of Mario written in Ocaml (today)
 - [patrikeh/go-deep](https://github.com/patrikeh/go-deep) - Artificial Neural Network (today)
 - [joakimkarlsson/igloo](https://github.com/joakimkarlsson/igloo) - A framework for unit testing in C++ (today)
 - [dgorissen/pycel](https://github.com/dgorissen/pycel) - A library for compiling excel spreadsheets to python code & visualizing them as a graph (today)
-- [dgorissen/coursera-dl](https://github.com/dgorissen/coursera-dl) - A script for downloading course material (video's, pdfs, quizzes, etc) from coursera.org (today)
 
 ## 🔨 Latest Pull Requests I published
 
