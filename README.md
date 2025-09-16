@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [fredericojordan/progress-bar](https://github.com/fredericojordan/progress-bar) - 📊 Flask API for SVG progress badges (today)
 - [vetter/shoc](https://github.com/vetter/shoc) - The SHOC Benchmark Suite (today)
 - [31b4/Leetcode-Premium-Bypass](https://github.com/31b4/Leetcode-Premium-Bypass) - Leetcode Premium Unlocker 2024 (today)
 - [rwapp/A11yUITests](https://github.com/rwapp/A11yUITests) - Accessibility tests for XCUI Testing. (today)
 - [vasu31dev/playwright-ts-template](https://github.com/vasu31dev/playwright-ts-template) - Playwright Typescript Automation testing framework Template is designed for Web (Desktop & Mobile), API, and Electron apps. Stable and Robust layer on top of Playwright with inbuilt Utilities, Linting, Logger, Web hooks, Github actions, Reports and much more (today)
-- [gopinathankm/Java-Training-2018](https://github.com/gopinathankm/Java-Training-2018) - Java Training (today)
 
 ## 🔨 Latest Pull Requests I published
 
