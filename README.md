@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Pikay891](https://github.com/Pikay891)
 - [SicKCristi](https://github.com/SicKCristi)
 - [shashankgowda1144](https://github.com/shashankgowda1144)
 - [aarthykc](https://github.com/aarthykc)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [dopaemon](https://github.com/dopaemon)
 - [orgamiryazdani](https://github.com/orgamiryazdani)
 - [BEPb](https://github.com/BEPb)
-- [owlman](https://github.com/owlman)
 
 ## ⭐ Recent stars
 
+- [vetter/shoc](https://github.com/vetter/shoc) - The SHOC Benchmark Suite (today)
+- [31b4/Leetcode-Premium-Bypass](https://github.com/31b4/Leetcode-Premium-Bypass) - Leetcode Premium Unlocker 2024 (today)
 - [rwapp/A11yUITests](https://github.com/rwapp/A11yUITests) - Accessibility tests for XCUI Testing. (today)
 - [vasu31dev/playwright-ts-template](https://github.com/vasu31dev/playwright-ts-template) - Playwright Typescript Automation testing framework Template is designed for Web (Desktop & Mobile), API, and Electron apps. Stable and Robust layer on top of Playwright with inbuilt Utilities, Linting, Logger, Web hooks, Github actions, Reports and much more (today)
 - [gopinathankm/Java-Training-2018](https://github.com/gopinathankm/Java-Training-2018) - Java Training (today)
-- [Hiswe/gulp-svg-symbols](https://github.com/Hiswe/gulp-svg-symbols) - Convert svg files to symbols  (today)
-- [Hiswe/vh-check](https://github.com/Hiswe/vh-check) - mobile vh unit utility (today)
 
 ## 🔨 Latest Pull Requests I published
 
