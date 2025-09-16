@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [galqiwi/demo-aqlm-rs](https://github.com/galqiwi/demo-aqlm-rs) (today)
-- [OtusTeam/Spring](https://github.com/OtusTeam/Spring) (today)
-- [leshark/nometa](https://github.com/leshark/nometa) - Проект по сбору датасета мета-вопросов (today)
-- [OlimpiadaAI/I-OlimpiadaAI](https://github.com/OlimpiadaAI/I-OlimpiadaAI) (today)
-- [Marcelektro/MCP-919](https://github.com/Marcelektro/MCP-919) - Fully working & decompiled MCP for Minecraft 1.8.9  (today)
+- [abdulgaphy/r3con1z3r](https://github.com/abdulgaphy/r3con1z3r) - R3con1z3r is a lightweight Web information gathering tool with an intuitive features written in python. it provides a powerful environment in which open source intelligence (OSINT) web-based footprinting can be conducted quickly and thoroughly.  (today)
+- [ElishaAz/Sayboard](https://github.com/ElishaAz/Sayboard) - An open-source on-device voice IME (keyboard) for Android using the Vosk library.  (today)
+- [allicen/Java-1000](https://github.com/allicen/Java-1000) - 1000 задач на Java. Навигация по задачам в конце страницы.  (today)
+- [braindefender/universal-layout](https://github.com/braindefender/universal-layout) - Универсальная английская и русская раскладка для Windows, Linux и macOS (today)
+- [braindefender/KLP-Lame-Keycaps](https://github.com/braindefender/KLP-Lame-Keycaps) - Sculpted and curved keycaps for Kailh Choc and MX switches (today)
 
 ## 🔨 Latest Pull Requests I published
 
