@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [SicKCristi](https://github.com/SicKCristi)
 - [shashankgowda1144](https://github.com/shashankgowda1144)
 - [aarthykc](https://github.com/aarthykc)
 - [huurray](https://github.com/huurray)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [orgamiryazdani](https://github.com/orgamiryazdani)
 - [BEPb](https://github.com/BEPb)
 - [owlman](https://github.com/owlman)
-- [NazmusSayad](https://github.com/NazmusSayad)
 
 ## ⭐ Recent stars
 
