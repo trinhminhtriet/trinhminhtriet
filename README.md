@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [noelmarkham/learn-you-a-haskell-exercises](https://github.com/noelmarkham/learn-you-a-haskell-exercises) (today)
+- [bony2023/react-terminal](https://github.com/bony2023/react-terminal) - 🚀 React component that renders a Terminal 🖥 (today)
+- [mdejong/AVAnimator](https://github.com/mdejong/AVAnimator) - AVAnimator is an iOS library that makes it easy to implement non-trivial animated/video content in iOS (today)
+- [bill-auger/git-branch-status](https://github.com/bill-auger/git-branch-status) - A shell script that prints out pretty git branch sync status reports (today)
 - [gowen100/Jane-Street-Solutions](https://github.com/gowen100/Jane-Street-Solutions) - Solutions to the Jane St monthly puzzles (today)
-- [lavoiesl/osx-cpu-temp](https://github.com/lavoiesl/osx-cpu-temp) - Outputs current CPU temperature for OSX (today)
-- [julvo/reloading](https://github.com/julvo/reloading) - Change Python code while it's running without losing state (today)
-- [stagadish/NNplusplus](https://github.com/stagadish/NNplusplus) - A small and easy to use neural net implementation for C++. Just download and #include! (today)
-- [auscaster/webrtc-native-to-browser-peerconnection-example](https://github.com/auscaster/webrtc-native-to-browser-peerconnection-example) - WebRTC native C++ to browser PeerConnection example (today)
 
 ## 🔨 Latest Pull Requests I published
 
