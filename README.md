@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [WANstorm/PossumBot](https://github.com/WANstorm/PossumBot) - A bot that will allow you to destroy discord servers. (today)
+- [miguelgazela/Projects](https://github.com/miguelgazela/Projects) - [Python] Trying to complete all projects from http://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/ (today)
+- [ryanfb/ruby-opencv](https://github.com/ryanfb/ruby-opencv) - Versioned fork of the OpenCV gem for Ruby (today)
+- [hannesstruss/unearthed](https://github.com/hannesstruss/unearthed) - Track process deaths in Android apps (today)
 - [Togo/eve](https://github.com/Togo/eve) - We have moved the repo and added a nice front page: http://hotkeyeve.github.com/eve/ (today)
-- [Walkyst/lavaplayer-fork](https://github.com/Walkyst/lavaplayer-fork) (1 day ago)
-- [bencoder/js13k-2019](https://github.com/bencoder/js13k-2019) - xx142-b2.exe. An entry for js13kgames 2019 (1 day ago)
-- [andweeb/Ki](https://github.com/andweeb/Ki) - ⌘ Work in macOS like you work in vim (1 day ago)
-- [andweeb/presence.nvim](https://github.com/andweeb/presence.nvim) - Discord Rich Presence for Neovim (1 day ago)
 
 ## 🔨 Latest Pull Requests I published
 
