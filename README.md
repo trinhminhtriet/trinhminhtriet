@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [shashankgowda1144](https://github.com/shashankgowda1144)
 - [aarthykc](https://github.com/aarthykc)
 - [huurray](https://github.com/huurray)
 - [abolfazl-shadrouh](https://github.com/abolfazl-shadrouh)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [BEPb](https://github.com/BEPb)
 - [owlman](https://github.com/owlman)
 - [NazmusSayad](https://github.com/NazmusSayad)
-- [chandana351](https://github.com/chandana351)
 
 ## ⭐ Recent stars
 
