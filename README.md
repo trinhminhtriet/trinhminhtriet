@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [naworun](https://github.com/naworun)
 - [Pikay891](https://github.com/Pikay891)
 - [SicKCristi](https://github.com/SicKCristi)
 - [shashankgowda1144](https://github.com/shashankgowda1144)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [ishandutta2007](https://github.com/ishandutta2007)
 - [dopaemon](https://github.com/dopaemon)
 - [orgamiryazdani](https://github.com/orgamiryazdani)
-- [BEPb](https://github.com/BEPb)
 
 ## ⭐ Recent stars
 
@@ -71,4 +71,3 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [fix: Update repository URL in README for cloning instructions](https://github.com/trinhminhtriet/DevPilot/pull/7) on [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) (3 days ago)
 - [Develop](https://github.com/trinhminhtriet/DevPilot/pull/6) on [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) (3 days ago)
 - [Develop](https://github.com/trinhminhtriet/DevPilot/pull/5) on [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) (4 days ago)
-- [feat: Rename DevPilot to pilot and update related links in README](https://github.com/trinhminhtriet/DevPilot/pull/4) on [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) (4 days ago)
