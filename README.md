@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [Masterolic/Spotify-Downloader](https://github.com/Masterolic/Spotify-Downloader) - A telegram bot to download Spotify songs from yt and saavn (today)
+- [MrMKN/Simple-Rename-Bot](https://github.com/MrMKN/Simple-Rename-Bot) - 📝 Simple & High Speed Telegram File Rename Bot 🤖 For only personal use  (today)
+- [MrMKN/PROFESSOR-BOT](https://github.com/MrMKN/PROFESSOR-BOT) - A telegram autofilter bot with more ultimate feature's 🚀 (today)
 - [YadaGiriReddy/HYR-Tutorials](https://github.com/YadaGiriReddy/HYR-Tutorials) - This repository is used for uploading the programs used in youtube video tutorials. (today)
 - [zinserjan/mocha-webpack](https://github.com/zinserjan/mocha-webpack) - mocha test runner with integrated webpack precompiler (today)
-- [qxf2/wtfiswronghere](https://github.com/qxf2/wtfiswronghere) - A collection of simple errors that beginners are likely to hit when they start writing Python. (today)
-- [qxf2/qxf2-page-object-model](https://github.com/qxf2/qxf2-page-object-model) - Write Selenium and Appium tests in Python using the Page Object pattern. This Pythonic GUI and API test automation framework will help you get started with QA automation quickly. It comes with many useful integrations like - email, BrowserStack, Slack, TestRail, etc. This repository is developed and maintained by Qxf2 Services.  (today)
-- [cleanbrowsing/dnsperftest](https://github.com/cleanbrowsing/dnsperftest) - DNS Performance test (today)
 
 ## 🔨 Latest Pull Requests I published
 
