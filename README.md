@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [Przemocny/zbior-zadan-html-css-js-react](https://github.com/Przemocny/zbior-zadan-html-css-js-react) - Zadania rekrutacyjne z Javascript - Newbie/Junior/Mid - z HTML, CSS, Javascript, React, Jest, Enzyme (today)
-- [csweichel/werft](https://github.com/csweichel/werft) - Just Kubernetes Native CI (today)
-- [niklongstone/regular-expression-cheat-sheet](https://github.com/niklongstone/regular-expression-cheat-sheet) - Regular Expression Cheat Sheet - PCRE  (today)
-- [craigsapp/midifile](https://github.com/craigsapp/midifile) - C++ classes for reading/writing Standard MIDI Files (today)
-- [loafoe/hubot-matteruser](https://github.com/loafoe/hubot-matteruser) - Hubot adapter for Mattermost using Web API and Websockets (today)
+- [gowen100/Jane-Street-Solutions](https://github.com/gowen100/Jane-Street-Solutions) - Solutions to the Jane St monthly puzzles (today)
+- [lavoiesl/osx-cpu-temp](https://github.com/lavoiesl/osx-cpu-temp) - Outputs current CPU temperature for OSX (today)
+- [julvo/reloading](https://github.com/julvo/reloading) - Change Python code while it's running without losing state (today)
+- [stagadish/NNplusplus](https://github.com/stagadish/NNplusplus) - A small and easy to use neural net implementation for C++. Just download and #include! (today)
+- [auscaster/webrtc-native-to-browser-peerconnection-example](https://github.com/auscaster/webrtc-native-to-browser-peerconnection-example) - WebRTC native C++ to browser PeerConnection example (today)
 
 ## 🔨 Latest Pull Requests I published
 
