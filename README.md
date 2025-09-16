@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [sjmog/ralyxa](https://github.com/sjmog/ralyxa) - A Ruby framework for interacting with Amazon Alexa. (today)
+- [alanross/AlvaAR](https://github.com/alanross/AlvaAR) - World tracking for WebAR. A Javascript library for Augmented Reality to run SLAM in the browser. (today)
+- [alvarofpp/validate-docbr](https://github.com/alvarofpp/validate-docbr) - Pacote Python para validação de documentos brasileiros. (today)
+- [thierryk/ez-css](https://github.com/thierryk/ez-css) - Create complex layouts with ez-css, a light, easy to use, CSS framework. (today)
 - [fredericojordan/progress-bar](https://github.com/fredericojordan/progress-bar) - 📊 Flask API for SVG progress badges (today)
-- [vetter/shoc](https://github.com/vetter/shoc) - The SHOC Benchmark Suite (today)
-- [31b4/Leetcode-Premium-Bypass](https://github.com/31b4/Leetcode-Premium-Bypass) - Leetcode Premium Unlocker 2024 (today)
-- [rwapp/A11yUITests](https://github.com/rwapp/A11yUITests) - Accessibility tests for XCUI Testing. (today)
-- [vasu31dev/playwright-ts-template](https://github.com/vasu31dev/playwright-ts-template) - Playwright Typescript Automation testing framework Template is designed for Web (Desktop & Mobile), API, and Electron apps. Stable and Robust layer on top of Playwright with inbuilt Utilities, Linting, Logger, Web hooks, Github actions, Reports and much more (today)
 
 ## 🔨 Latest Pull Requests I published
 
