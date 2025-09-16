@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [aarthykc](https://github.com/aarthykc)
+- [huurray](https://github.com/huurray)
 - [abolfazl-shadrouh](https://github.com/abolfazl-shadrouh)
 - [ishandutta2007](https://github.com/ishandutta2007)
 - [dopaemon](https://github.com/dopaemon)
@@ -54,16 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [owlman](https://github.com/owlman)
 - [NazmusSayad](https://github.com/NazmusSayad)
 - [chandana351](https://github.com/chandana351)
-- [ArpitSharma2800](https://github.com/ArpitSharma2800)
-- [boolYikes](https://github.com/boolYikes)
 
 ## ⭐ Recent stars
 
-- [WANstorm/PossumBot](https://github.com/WANstorm/PossumBot) - A bot that will allow you to destroy discord servers. (today)
-- [miguelgazela/Projects](https://github.com/miguelgazela/Projects) - [Python] Trying to complete all projects from http://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/ (today)
-- [ryanfb/ruby-opencv](https://github.com/ryanfb/ruby-opencv) - Versioned fork of the OpenCV gem for Ruby (today)
-- [hannesstruss/unearthed](https://github.com/hannesstruss/unearthed) - Track process deaths in Android apps (today)
-- [Togo/eve](https://github.com/Togo/eve) - We have moved the repo and added a nice front page: http://hotkeyeve.github.com/eve/ (today)
+- [leshark/nometa](https://github.com/leshark/nometa) - Проект по сбору датасета мета-вопросов (today)
+- [OlimpiadaAI/I-OlimpiadaAI](https://github.com/OlimpiadaAI/I-OlimpiadaAI) (today)
+- [Marcelektro/MCP-919](https://github.com/Marcelektro/MCP-919) - Fully working & decompiled MCP for Minecraft 1.8.9  (today)
+- [fazibear/export](https://github.com/fazibear/export) - Erlport wrapper for Elixir (today)
+- [fazibear/colorize](https://github.com/fazibear/colorize) - Ruby string class extension. It add some methods to set color, background color and text effect on console easier using ANSI escape sequences. (today)
 
 ## 🔨 Latest Pull Requests I published
 
