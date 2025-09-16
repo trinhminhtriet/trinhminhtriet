@@ -59,15 +59,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [PydPiper/pylightxl](https://github.com/PydPiper/pylightxl) - A light weight, zero dependency, minimal functionality excel read/writer python library (today)
+- [jaymeh13/Keyboardgym](https://github.com/jaymeh13/Keyboardgym) - Prevent and alleviate repetitive strain injuries (RSIs) with this collection of exercise videos and ergonomic gear. (today)
+- [bagilevi/android-pedometer](https://github.com/bagilevi/android-pedometer) - App for Android phones that counts your steps. (today)
+- [lamhaison/aws-cli-utils](https://github.com/lamhaison/aws-cli-utils) - This is the project to collect helpful aws cli commandline with complex options to support your working (today)
 - [sjmog/ralyxa](https://github.com/sjmog/ralyxa) - A Ruby framework for interacting with Amazon Alexa. (today)
-- [alanross/AlvaAR](https://github.com/alanross/AlvaAR) - World tracking for WebAR. A Javascript library for Augmented Reality to run SLAM in the browser. (today)
-- [alvarofpp/validate-docbr](https://github.com/alvarofpp/validate-docbr) - Pacote Python para validação de documentos brasileiros. (today)
-- [thierryk/ez-css](https://github.com/thierryk/ez-css) - Create complex layouts with ez-css, a light, easy to use, CSS framework. (today)
-- [fredericojordan/progress-bar](https://github.com/fredericojordan/progress-bar) - 📊 Flask API for SVG progress badges (today)
 
 ## 🔨 Latest Pull Requests I published
 
+- [[Fix] - correct spelling of 'credential' in README and assume_role.sh](https://github.com/lamhaison/aws-cli-utils/pull/34) on [lamhaison/aws-cli-utils](https://github.com/lamhaison/aws-cli-utils) (today)
 - [Add global git configuration and implement note management CLI](https://github.com/trinhminhtriet/DevPilot/pull/8) on [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) (2 days ago)
 - [fix: Update repository URL in README for cloning instructions](https://github.com/trinhminhtriet/DevPilot/pull/7) on [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) (3 days ago)
-- [Develop](https://github.com/trinhminhtriet/DevPilot/pull/6) on [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) (3 days ago)
-- [Develop](https://github.com/trinhminhtriet/DevPilot/pull/5) on [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) (4 days ago)
