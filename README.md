@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [galqiwi/demo-aqlm-rs](https://github.com/galqiwi/demo-aqlm-rs) (today)
+- [OtusTeam/Spring](https://github.com/OtusTeam/Spring) (today)
 - [leshark/nometa](https://github.com/leshark/nometa) - Проект по сбору датасета мета-вопросов (today)
 - [OlimpiadaAI/I-OlimpiadaAI](https://github.com/OlimpiadaAI/I-OlimpiadaAI) (today)
 - [Marcelektro/MCP-919](https://github.com/Marcelektro/MCP-919) - Fully working & decompiled MCP for Minecraft 1.8.9  (today)
-- [fazibear/export](https://github.com/fazibear/export) - Erlport wrapper for Elixir (today)
-- [fazibear/colorize](https://github.com/fazibear/colorize) - Ruby string class extension. It add some methods to set color, background color and text effect on console easier using ANSI escape sequences. (today)
 
 ## 🔨 Latest Pull Requests I published
 
