@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [startrug/selenium-python-framework](https://github.com/startrug/selenium-python-framework) - Selenium WebDriver with Python (today)
-- [Masterolic/Spotify-Downloader](https://github.com/Masterolic/Spotify-Downloader) - A telegram bot to download Spotify songs from yt and saavn (today)
-- [MrMKN/Simple-Rename-Bot](https://github.com/MrMKN/Simple-Rename-Bot) - 📝 Simple & High Speed Telegram File Rename Bot 🤖 For only personal use  (today)
-- [MrMKN/PROFESSOR-BOT](https://github.com/MrMKN/PROFESSOR-BOT) - A telegram autofilter bot with more ultimate feature's 🚀 (today)
-- [YadaGiriReddy/HYR-Tutorials](https://github.com/YadaGiriReddy/HYR-Tutorials) - This repository is used for uploading the programs used in youtube video tutorials. (today)
+- [rwapp/A11yUITests](https://github.com/rwapp/A11yUITests) - Accessibility tests for XCUI Testing. (today)
+- [vasu31dev/playwright-ts-template](https://github.com/vasu31dev/playwright-ts-template) - Playwright Typescript Automation testing framework Template is designed for Web (Desktop & Mobile), API, and Electron apps. Stable and Robust layer on top of Playwright with inbuilt Utilities, Linting, Logger, Web hooks, Github actions, Reports and much more (today)
+- [gopinathankm/Java-Training-2018](https://github.com/gopinathankm/Java-Training-2018) - Java Training (today)
+- [Hiswe/gulp-svg-symbols](https://github.com/Hiswe/gulp-svg-symbols) - Convert svg files to symbols  (today)
+- [Hiswe/vh-check](https://github.com/Hiswe/vh-check) - mobile vh unit utility (today)
 
 ## 🔨 Latest Pull Requests I published
 
