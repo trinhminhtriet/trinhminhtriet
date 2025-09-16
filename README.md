@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [abdulgaphy/r3con1z3r](https://github.com/abdulgaphy/r3con1z3r) - R3con1z3r is a lightweight Web information gathering tool with an intuitive features written in python. it provides a powerful environment in which open source intelligence (OSINT) web-based footprinting can be conducted quickly and thoroughly.  (today)
-- [ElishaAz/Sayboard](https://github.com/ElishaAz/Sayboard) - An open-source on-device voice IME (keyboard) for Android using the Vosk library.  (today)
-- [allicen/Java-1000](https://github.com/allicen/Java-1000) - 1000 задач на Java. Навигация по задачам в конце страницы.  (today)
-- [braindefender/universal-layout](https://github.com/braindefender/universal-layout) - Универсальная английская и русская раскладка для Windows, Linux и macOS (today)
-- [braindefender/KLP-Lame-Keycaps](https://github.com/braindefender/KLP-Lame-Keycaps) - Sculpted and curved keycaps for Kailh Choc and MX switches (today)
+- [YadaGiriReddy/HYR-Tutorials](https://github.com/YadaGiriReddy/HYR-Tutorials) - This repository is used for uploading the programs used in youtube video tutorials. (today)
+- [zinserjan/mocha-webpack](https://github.com/zinserjan/mocha-webpack) - mocha test runner with integrated webpack precompiler (today)
+- [qxf2/wtfiswronghere](https://github.com/qxf2/wtfiswronghere) - A collection of simple errors that beginners are likely to hit when they start writing Python. (today)
+- [qxf2/qxf2-page-object-model](https://github.com/qxf2/qxf2-page-object-model) - Write Selenium and Appium tests in Python using the Page Object pattern. This Pythonic GUI and API test automation framework will help you get started with QA automation quickly. It comes with many useful integrations like - email, BrowserStack, Slack, TestRail, etc. This repository is developed and maintained by Qxf2 Services.  (today)
+- [cleanbrowsing/dnsperftest](https://github.com/cleanbrowsing/dnsperftest) - DNS Performance test (today)
 
 ## 🔨 Latest Pull Requests I published
 
