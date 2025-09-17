@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [sarkarshuvojit](https://github.com/sarkarshuvojit)
+- [mardavsj](https://github.com/mardavsj)
 - [shashankgowda1144](https://github.com/shashankgowda1144)
 - [BEPb](https://github.com/BEPb)
 - [ishandutta2007](https://github.com/ishandutta2007)
@@ -54,16 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [naworun](https://github.com/naworun)
 - [Pikay891](https://github.com/Pikay891)
 - [SicKCristi](https://github.com/SicKCristi)
-- [aarthykc](https://github.com/aarthykc)
-- [huurray](https://github.com/huurray)
 
 ## ⭐ Recent stars
 
+- [jkakavas/creepy](https://github.com/jkakavas/creepy) - A geolocation OSINT tool. Offers geolocation information gathering through social networking platforms. (today)
 - [ariera/django-vue-template](https://github.com/ariera/django-vue-template) (today)
 - [joshgachnang/diveintopython](https://github.com/joshgachnang/diveintopython) - A mirror of diveintopython.org. (today)
 - [joshgachnang/diveintopython3](https://github.com/joshgachnang/diveintopython3) - [Mirror] Dive Into Python 3 online book (today)
 - [JohnNay/llm-lobbyist](https://github.com/JohnNay/llm-lobbyist) - Code for the paper: "Large Language Models as Corporate Lobbyists" (2023). (today)
-- [xingyul/meteornet](https://github.com/xingyul/meteornet) - MeteorNet: Deep Learning on Dynamic 3D Point Cloud Sequences (ICCV 2019 Oral) (today)
 
 ## 🔨 Latest Pull Requests I published
 
