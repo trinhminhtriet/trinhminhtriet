@@ -55,15 +55,15 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [aarthykc](https://github.com/aarthykc)
 - [huurray](https://github.com/huurray)
 - [abolfazl-shadrouh](https://github.com/abolfazl-shadrouh)
-- [dopaemon](https://github.com/dopaemon)
+- [orgamiryazdani](https://github.com/orgamiryazdani)
 
 ## ⭐ Recent stars
 
-- [mauron85/cordova-plugin-background-geolocation](https://github.com/mauron85/cordova-plugin-background-geolocation) - Background and foreground geolocation plugin for Cordova. (today)
-- [mauron85/react-native-background-geolocation](https://github.com/mauron85/react-native-background-geolocation) - Background and foreground geolocation plugin for React Native. Tracks user when app is running in background. (today)
-- [rexrainbow/phaser3-rex-notes](https://github.com/rexrainbow/phaser3-rex-notes) - Notes of phaser3 engine (today)
-- [gescheit/scripts](https://github.com/gescheit/scripts) - Various scripts. (today)
-- [mrhead/stimulus-search](https://github.com/mrhead/stimulus-search) - Search autocomplete with Stimulus JS. (today)
+- [keithvassallomt/parsec-aws-automation](https://github.com/keithvassallomt/parsec-aws-automation) - Some utility scripts for making rolling your own cloud gaming server with Parsec on AWS easier, particularly with automation (today)
+- [florianutz/Ubuntu1804-CIS](https://github.com/florianutz/Ubuntu1804-CIS) - Ubuntu CIS Hardening Ansible Role (today)
+- [paulbouwer/hello-kubernetes](https://github.com/paulbouwer/hello-kubernetes) - Provides a demo app to deploy to a Kubernetes cluster. It displays a message, the name of the pod and details of the node it's deployed to. (today)
+- [Yermo/nativescript-mapbox](https://github.com/Yermo/nativescript-mapbox) - :statue_of_liberty: :tokyo_tower: :mount_fuji: Native OpenGL powered Maps, by Mapbox (today)
+- [rogden/tailwind-config-viewer](https://github.com/rogden/tailwind-config-viewer) - A local UI tool for visualizing your Tailwind CSS configuration file. (today)
 
 ## 🔨 Latest Pull Requests I published
 
