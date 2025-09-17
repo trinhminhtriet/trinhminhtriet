@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [BEPb](https://github.com/BEPb)
 - [ishandutta2007](https://github.com/ishandutta2007)
 - [yen753042](https://github.com/yen753042)
 - [arundas17](https://github.com/arundas17)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [shashankgowda1144](https://github.com/shashankgowda1144)
 - [aarthykc](https://github.com/aarthykc)
 - [huurray](https://github.com/huurray)
-- [abolfazl-shadrouh](https://github.com/abolfazl-shadrouh)
 
 ## ⭐ Recent stars
 
-- [DestinationFAANG/Destination-FAANG-Java-Solution](https://github.com/DestinationFAANG/Destination-FAANG-Java-Solution) - Java solution for most popular Leetcode questions  (today)
-- [sermanet/OverFeat](https://github.com/sermanet/OverFeat) (today)
-- [charlesbel/Microsoft-Rewards-Farmer](https://github.com/charlesbel/Microsoft-Rewards-Farmer) - A simple bot that uses selenium to farm Microsoft Rewards written in Python (today)
-- [farizanjum/fixtral](https://github.com/farizanjum/fixtral) - Fixtral is an AI-powered Photoshop assistant that automates image edits requested on Reddit's r/PhotoshopRequest using Google's Gemini AI models. (today)
-- [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first. (today)
+- [mattmurray/juno_crawler](https://github.com/mattmurray/juno_crawler) - Scrapy crawler to collect data on the back catalog of songs listed for sale. (today)
+- [mattmurray/music_recommender](https://github.com/mattmurray/music_recommender) - Music recommender using deep learning with Keras and TensorFlow (today)
+- [saravmajestic/ionic](https://github.com/saravmajestic/ionic) - Custom Ionic components (today)
+- [kroll-software/babyagi4all](https://github.com/kroll-software/babyagi4all) - BabyAGI to run with GPT4All (today)
+- [chnirt/nestjs-restful-best-practice](https://github.com/chnirt/nestjs-restful-best-practice) - NestJS (Express + TypeORM + MongoDB) codebase containing real world examples (CRUD, auth, advanced patterns, etc). (today)
 
 ## 🔨 Latest Pull Requests I published
 
