@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [farizanjum/fixtral](https://github.com/farizanjum/fixtral) - Fixtral is an AI-powered Photoshop assistant that automates image edits requested on Reddit's r/PhotoshopRequest using Google's Gemini AI models. (today)
+- [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first. (today)
 - [jignesht24/Aspnetcore](https://github.com/jignesht24/Aspnetcore) - Learn ASP.net core MVC (today)
 - [keithvassallomt/parsec-aws-automation](https://github.com/keithvassallomt/parsec-aws-automation) - Some utility scripts for making rolling your own cloud gaming server with Parsec on AWS easier, particularly with automation (today)
 - [florianutz/Ubuntu1804-CIS](https://github.com/florianutz/Ubuntu1804-CIS) - Ubuntu CIS Hardening Ansible Role (today)
-- [paulbouwer/hello-kubernetes](https://github.com/paulbouwer/hello-kubernetes) - Provides a demo app to deploy to a Kubernetes cluster. It displays a message, the name of the pod and details of the node it's deployed to. (today)
-- [Yermo/nativescript-mapbox](https://github.com/Yermo/nativescript-mapbox) - :statue_of_liberty: :tokyo_tower: :mount_fuji: Native OpenGL powered Maps, by Mapbox (today)
 
 ## 🔨 Latest Pull Requests I published
 
