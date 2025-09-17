@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [whxitte/white-deface](https://github.com/whxitte/white-deface) - This is a simple python tool to automatically deface webdav vulnerable websites. (today)
-- [whxitte/brute-eagle](https://github.com/whxitte/brute-eagle) - A multi-purpose tool  to hack instagram with many options. (today)
-- [joweich/year-in-search-trends](https://github.com/joweich/year-in-search-trends) - Visualization of search interest over time (today)
-- [joweich/chat-miner](https://github.com/joweich/chat-miner) - Parsers and visualizations for chats (today)
-- [taux1c/onlyfans-scraper](https://github.com/taux1c/onlyfans-scraper) - A tool that allows you to print to file all content you are subscribed to on onlyfans including content you have unlocked or has been sent to you in messages. (today)
+- [NateWickstrom/RxActivityResult](https://github.com/NateWickstrom/RxActivityResult) - Reactive results from startActivityForResult() in the form of an Observable.  (today)
+- [bobluppes/graaf](https://github.com/bobluppes/graaf) - A general-purpose lightweight C++ graph library (today)
+- [xyoye/DanDanPlayForAndroid](https://github.com/xyoye/DanDanPlayForAndroid) - 弹弹play 概念版，弹弹play系列应用安卓平台上的实现，是一个提供了视频播放（本地+局域网）和弹幕加载（在线+本地）功能的本地播放器 (today)
+- [wseemann/RoMote](https://github.com/wseemann/RoMote) - Open source Roku remote. Turn your Android Device into a control center for your Roku Player and Roku TV. (today)
+- [wseemann/FFmpegMediaPlayer](https://github.com/wseemann/FFmpegMediaPlayer) - FFmpegMediaPlayer can be used to control playback of audio/video files and streams.  (today)
 
 ## 🔨 Latest Pull Requests I published
 
