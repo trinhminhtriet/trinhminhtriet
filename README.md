@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [jignesht24/Aspnetcore](https://github.com/jignesht24/Aspnetcore) - Learn ASP.net core MVC (today)
+- [QuanHoangAnh/leetcode](https://github.com/QuanHoangAnh/leetcode) - 🔥 LeetCode solutions in any programming language. (today)
 - [keithvassallomt/parsec-aws-automation](https://github.com/keithvassallomt/parsec-aws-automation) - Some utility scripts for making rolling your own cloud gaming server with Parsec on AWS easier, particularly with automation (today)
 - [florianutz/Ubuntu1804-CIS](https://github.com/florianutz/Ubuntu1804-CIS) - Ubuntu CIS Hardening Ansible Role (today)
 - [paulbouwer/hello-kubernetes](https://github.com/paulbouwer/hello-kubernetes) - Provides a demo app to deploy to a Kubernetes cluster. It displays a message, the name of the pod and details of the node it's deployed to. (today)
-- [Yermo/nativescript-mapbox](https://github.com/Yermo/nativescript-mapbox) - :statue_of_liberty: :tokyo_tower: :mount_fuji: Native OpenGL powered Maps, by Mapbox (today)
-- [rogden/tailwind-config-viewer](https://github.com/rogden/tailwind-config-viewer) - A local UI tool for visualizing your Tailwind CSS configuration file. (today)
 
 ## 🔨 Latest Pull Requests I published
 
