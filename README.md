@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [pasindusampath](https://github.com/pasindusampath)
 - [sarkarshuvojit](https://github.com/sarkarshuvojit)
 - [mardavsj](https://github.com/mardavsj)
 - [shashankgowda1144](https://github.com/shashankgowda1144)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [arundas17](https://github.com/arundas17)
 - [naworun](https://github.com/naworun)
 - [Pikay891](https://github.com/Pikay891)
-- [SicKCristi](https://github.com/SicKCristi)
 
 ## ⭐ Recent stars
 
-- [cyraxx/pogobuf](https://github.com/cyraxx/pogobuf) - :rocket: pogobuf, a Pokémon Go Client Library for node.js (today)
-- [JacobEvelyn/git-self-blame](https://github.com/JacobEvelyn/git-self-blame) - Stop trying to always blame others and take some responsibility already. (today)
-- [JacobEvelyn/friends](https://github.com/JacobEvelyn/friends) - Spend time with the people you care about. Introvert-tested. Extrovert-approved. (today)
-- [dark-player/instabrute.github.io](https://github.com/dark-player/instabrute.github.io) - best script for hacking instagram (today)
-- [HyHamza/BYTE-MD](https://github.com/HyHamza/BYTE-MD) (today)
+- [whxitte/white-deface](https://github.com/whxitte/white-deface) - This is a simple python tool to automatically deface webdav vulnerable websites. (today)
+- [whxitte/brute-eagle](https://github.com/whxitte/brute-eagle) - A multi-purpose tool  to hack instagram with many options. (today)
+- [joweich/year-in-search-trends](https://github.com/joweich/year-in-search-trends) - Visualization of search interest over time (today)
+- [joweich/chat-miner](https://github.com/joweich/chat-miner) - Parsers and visualizations for chats (today)
+- [taux1c/onlyfans-scraper](https://github.com/taux1c/onlyfans-scraper) - A tool that allows you to print to file all content you are subscribed to on onlyfans including content you have unlocked or has been sent to you in messages. (today)
 
 ## 🔨 Latest Pull Requests I published
 
