@@ -59,14 +59,13 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [jkakavas/creepy](https://github.com/jkakavas/creepy) - A geolocation OSINT tool. Offers geolocation information gathering through social networking platforms. (today)
-- [ariera/django-vue-template](https://github.com/ariera/django-vue-template) (today)
-- [joshgachnang/diveintopython](https://github.com/joshgachnang/diveintopython) - A mirror of diveintopython.org. (today)
-- [joshgachnang/diveintopython3](https://github.com/joshgachnang/diveintopython3) - [Mirror] Dive Into Python 3 online book (today)
-- [JohnNay/llm-lobbyist](https://github.com/JohnNay/llm-lobbyist) - Code for the paper: "Large Language Models as Corporate Lobbyists" (2023). (today)
+- [yippee-ki-yay/eth-dev-reading-list](https://github.com/yippee-ki-yay/eth-dev-reading-list) - A list of links to articles, tutorials and papers that are helpful for people developing on the ethereum stack (today)
+- [guntrip/table-magic](https://github.com/guntrip/table-magic) - Converts between CSV, HTML and Markdown. Has a little form editor and a preview. (today)
+- [SidOfc/dotfiles](https://github.com/SidOfc/dotfiles) - My dotfiles (today)
+- [SidOfc/carbon.nvim](https://github.com/SidOfc/carbon.nvim) - The simple directory tree viewer for Neovim written in Lua. (today)
+- [SidOfc/mkdx](https://github.com/SidOfc/mkdx) - A vim plugin that adds some nice extra's for working with markdown documents (today)
 
 ## 🔨 Latest Pull Requests I published
 
 - [Add global git configuration and implement note management CLI](https://github.com/trinhminhtriet/DevPilot/pull/9) on [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) (1 day ago)
 - [[Fix] - correct spelling of 'credential' in README and assume_role.sh](https://github.com/lamhaison/aws-cli-utils/pull/34) on [lamhaison/aws-cli-utils](https://github.com/lamhaison/aws-cli-utils) (1 day ago)
-- [Add global git configuration and implement note management CLI](https://github.com/trinhminhtriet/DevPilot/pull/8) on [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) (3 days ago)
