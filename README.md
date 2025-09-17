@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [yen753042](https://github.com/yen753042)
 - [arundas17](https://github.com/arundas17)
 - [naworun](https://github.com/naworun)
 - [Pikay891](https://github.com/Pikay891)
@@ -54,16 +55,15 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [aarthykc](https://github.com/aarthykc)
 - [huurray](https://github.com/huurray)
 - [abolfazl-shadrouh](https://github.com/abolfazl-shadrouh)
-- [ishandutta2007](https://github.com/ishandutta2007)
 - [dopaemon](https://github.com/dopaemon)
 
 ## ⭐ Recent stars
 
-- [redouane59/twittered](https://github.com/redouane59/twittered) - Twitter API client for Java developers (today)
-- [pierotofy/OpenSplat](https://github.com/pierotofy/OpenSplat) - Production-grade 3D gaussian splatting with CPU/GPU support for Windows, Mac and Linux 🚀 (today)
-- [schl3ck/ios-scriptable-types](https://github.com/schl3ck/ios-scriptable-types) (today)
-- [mvan231/Scriptable](https://github.com/mvan231/Scriptable) (today)
-- [by-cx/InvoiceGenerator](https://github.com/by-cx/InvoiceGenerator) - Library to generate PDF invoices. (today)
+- [baynezy/Html2Markdown](https://github.com/baynezy/Html2Markdown) - A library for converting HTML to markdown syntax in C# (today)
+- [viralpoetry/packer-bare-metal](https://github.com/viralpoetry/packer-bare-metal) - Building bare metal OS images with Packer, VirtualBox and qemu-img  (today)
+- [nsmfoo/antivmdetection](https://github.com/nsmfoo/antivmdetection) - Script to create templates to use with VirtualBox to make vm detection harder (today)
+- [pwstegman/bci.js](https://github.com/pwstegman/bci.js) - :bar_chart: EEG signal processing and machine learning in JavaScript (today)
+- [BrockReece/vue-heatmapjs](https://github.com/BrockReece/vue-heatmapjs) - Heatmap directive for tracking user activity (today)
 
 ## 🔨 Latest Pull Requests I published
 
