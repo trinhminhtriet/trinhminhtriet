@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [yippee-ki-yay/eth-dev-reading-list](https://github.com/yippee-ki-yay/eth-dev-reading-list) - A list of links to articles, tutorials and papers that are helpful for people developing on the ethereum stack (today)
-- [guntrip/table-magic](https://github.com/guntrip/table-magic) - Converts between CSV, HTML and Markdown. Has a little form editor and a preview. (today)
-- [SidOfc/dotfiles](https://github.com/SidOfc/dotfiles) - My dotfiles (today)
-- [SidOfc/carbon.nvim](https://github.com/SidOfc/carbon.nvim) - The simple directory tree viewer for Neovim written in Lua. (today)
-- [SidOfc/mkdx](https://github.com/SidOfc/mkdx) - A vim plugin that adds some nice extra's for working with markdown documents (today)
+- [cyraxx/pogobuf](https://github.com/cyraxx/pogobuf) - :rocket: pogobuf, a Pokémon Go Client Library for node.js (today)
+- [JacobEvelyn/git-self-blame](https://github.com/JacobEvelyn/git-self-blame) - Stop trying to always blame others and take some responsibility already. (today)
+- [JacobEvelyn/friends](https://github.com/JacobEvelyn/friends) - Spend time with the people you care about. Introvert-tested. Extrovert-approved. (today)
+- [dark-player/instabrute.github.io](https://github.com/dark-player/instabrute.github.io) - best script for hacking instagram (today)
+- [HyHamza/BYTE-MD](https://github.com/HyHamza/BYTE-MD) (today)
 
 ## 🔨 Latest Pull Requests I published
 
