@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [mauron85/cordova-plugin-background-geolocation](https://github.com/mauron85/cordova-plugin-background-geolocation) - Background and foreground geolocation plugin for Cordova. (today)
+- [mauron85/react-native-background-geolocation](https://github.com/mauron85/react-native-background-geolocation) - Background and foreground geolocation plugin for React Native. Tracks user when app is running in background. (today)
+- [rexrainbow/phaser3-rex-notes](https://github.com/rexrainbow/phaser3-rex-notes) - Notes of phaser3 engine (today)
 - [gescheit/scripts](https://github.com/gescheit/scripts) - Various scripts. (today)
 - [mrhead/stimulus-search](https://github.com/mrhead/stimulus-search) - Search autocomplete with Stimulus JS. (today)
-- [sqm2050/wiki](https://github.com/sqm2050/wiki) (today)
-- [baynezy/Html2Markdown](https://github.com/baynezy/Html2Markdown) - A library for converting HTML to markdown syntax in C# (today)
-- [viralpoetry/packer-bare-metal](https://github.com/viralpoetry/packer-bare-metal) - Building bare metal OS images with Packer, VirtualBox and qemu-img  (today)
 
 ## 🔨 Latest Pull Requests I published
 
