@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [shashankgowda1144](https://github.com/shashankgowda1144)
 - [BEPb](https://github.com/BEPb)
 - [ishandutta2007](https://github.com/ishandutta2007)
 - [yen753042](https://github.com/yen753042)
@@ -53,17 +54,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [naworun](https://github.com/naworun)
 - [Pikay891](https://github.com/Pikay891)
 - [SicKCristi](https://github.com/SicKCristi)
-- [shashankgowda1144](https://github.com/shashankgowda1144)
 - [aarthykc](https://github.com/aarthykc)
 - [huurray](https://github.com/huurray)
 
 ## ⭐ Recent stars
 
-- [mattmurray/juno_crawler](https://github.com/mattmurray/juno_crawler) - Scrapy crawler to collect data on the back catalog of songs listed for sale. (today)
-- [mattmurray/music_recommender](https://github.com/mattmurray/music_recommender) - Music recommender using deep learning with Keras and TensorFlow (today)
-- [saravmajestic/ionic](https://github.com/saravmajestic/ionic) - Custom Ionic components (today)
-- [kroll-software/babyagi4all](https://github.com/kroll-software/babyagi4all) - BabyAGI to run with GPT4All (today)
-- [chnirt/nestjs-restful-best-practice](https://github.com/chnirt/nestjs-restful-best-practice) - NestJS (Express + TypeORM + MongoDB) codebase containing real world examples (CRUD, auth, advanced patterns, etc). (today)
+- [ariera/django-vue-template](https://github.com/ariera/django-vue-template) (today)
+- [joshgachnang/diveintopython](https://github.com/joshgachnang/diveintopython) - A mirror of diveintopython.org. (today)
+- [joshgachnang/diveintopython3](https://github.com/joshgachnang/diveintopython3) - [Mirror] Dive Into Python 3 online book (today)
+- [JohnNay/llm-lobbyist](https://github.com/JohnNay/llm-lobbyist) - Code for the paper: "Large Language Models as Corporate Lobbyists" (2023). (today)
+- [xingyul/meteornet](https://github.com/xingyul/meteornet) - MeteorNet: Deep Learning on Dynamic 3D Point Cloud Sequences (ICCV 2019 Oral) (today)
 
 ## 🔨 Latest Pull Requests I published
 
