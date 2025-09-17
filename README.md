@@ -34,6 +34,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 ## 👷 Check out what I'm currently working on
 
 - [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) - 🚀 All-in-one CLI toolkit for developers: scaffold, manage, automate, and boost productivity across languages! (today)
+- [lamhaison/aws-cli-utils](https://github.com/lamhaison/aws-cli-utils) - This is the project to collect helpful aws cli commandline with complex options to support your working (today)
 - [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (1 day ago)
 - [trinhminhtriet/dwipe](https://github.com/trinhminhtriet/dwipe) - 🧹 Fast, cross-platform disk cleanup tool with interactive UI for easy directory size visualization. (1 week ago)
 - [nctl-io/nctl-roadmap](https://github.com/nctl-io/nctl-roadmap) (2 weeks ago)
@@ -41,7 +42,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [nctl-io/nctl-branding](https://github.com/nctl-io/nctl-branding) - NCTL Branding 🖼️: Centralized assets and guidelines for consistent visual identity across NCTL projects and platforms. (3 weeks ago)
 - [nctl-io/nctl-homepage](https://github.com/nctl-io/nctl-homepage) - 🚀 Modern homepage for NCTL: fast, responsive, TypeScript-powered, open source, and easy to customize. (3 weeks ago)
 - [trinhminhtriet/sizr](https://github.com/trinhminhtriet/sizr) - 📈 A fast, Rust-based tool to analyze file system usage with colorful output, file aggregation, exclusions, and directory comparisons. (3 weeks ago)
-- [trinhminhtriet/spiko](https://github.com/trinhminhtriet/spiko) - 🚀 Spiko is a fast, Rust-based load testing tool with a beautiful TUI for real-time insights. (3 weeks ago)
 - [rust-rs/tabler](https://github.com/rust-rs/tabler) - 📊 Tabler: A lightweight TUI tool to view, query, and navigate CSV, TSV, and Parquet data files. (3 weeks ago)
 
 ## 👯 Check out my recent followers
@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [zsolt-nagy/es6-summary](https://github.com/zsolt-nagy/es6-summary) - A short summary of ES6 features and their ES5 equivalents (today)
-- [jsncmgs1/spotify_ex](https://github.com/jsncmgs1/spotify_ex) - Elixir wrapper for the Spotify Web API (1 day ago)
-- [therubymug/hitch](https://github.com/therubymug/hitch) - Git author attribution helper for pair programmers. (1 day ago)
-- [rich/acts_as_revisable](https://github.com/rich/acts_as_revisable) - A framework for building heavily versioned applications  (1 day ago)
-- [scalatron/scalatron](https://github.com/scalatron/scalatron) - Scalatron, a multi-player programming game in which coders pit bot programs (written in Scala) against each other (1 day ago)
+- [redouane59/twittered](https://github.com/redouane59/twittered) - Twitter API client for Java developers (today)
+- [pierotofy/OpenSplat](https://github.com/pierotofy/OpenSplat) - Production-grade 3D gaussian splatting with CPU/GPU support for Windows, Mac and Linux 🚀 (today)
+- [schl3ck/ios-scriptable-types](https://github.com/schl3ck/ios-scriptable-types) (today)
+- [mvan231/Scriptable](https://github.com/mvan231/Scriptable) (today)
+- [by-cx/InvoiceGenerator](https://github.com/by-cx/InvoiceGenerator) - Library to generate PDF invoices. (today)
 
 ## 🔨 Latest Pull Requests I published
 
