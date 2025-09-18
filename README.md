@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [kodeine/laravel-meta](https://github.com/kodeine/laravel-meta) - Fluent Meta Data for Eloquent Models, as if it is a property on your model (today)
-- [kodeine/laravel-acl](https://github.com/kodeine/laravel-acl) - Light-weight role-based permissions system for Laravel 6+ built in Auth system. (today)
-- [scomup/EasyGaussianSplatting](https://github.com/scomup/EasyGaussianSplatting) (today)
-- [scomup/MathematicalRobotics](https://github.com/scomup/MathematicalRobotics) (today)
-- [kasecato/vscode-intellij-idea-keybindings](https://github.com/kasecato/vscode-intellij-idea-keybindings) - Port of IntelliJ IDEA key bindings for VS Code. (today)
+- [BBBBchan/CorrMatch](https://github.com/BBBBchan/CorrMatch) - [CVPR 2024] Official code for "CorrMatch: Label Propagation via Correlation Matching for Semi-Supervised Semantic Segmentation" (today)
+- [BBBBchan/Awesome-Semi-Supervised-Semantic-Segmentation](https://github.com/BBBBchan/Awesome-Semi-Supervised-Semantic-Segmentation) - A summary of recent semi-supervised semantic segmentation methods (today)
+- [AmeyaJagtap/XPINNs](https://github.com/AmeyaJagtap/XPINNs) - Extended Physics-Informed Neural Networks (XPINNs): A Generalized Space-Time Domain Decomposition Based Deep Learning Framework for Nonlinear Partial Differential Equations (today)
+- [Prasad9/Classify-HandGesturePose](https://github.com/Prasad9/Classify-HandGesturePose) - Network to classify hand gesture poses. (today)
+- [seoungwugoh/RGMP](https://github.com/seoungwugoh/RGMP) - Fast Video Object Segmentation by Reference-Guided Mask Propagation (today)
 
 ## 🔨 Latest Pull Requests I published
 
