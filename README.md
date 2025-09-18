@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [Ecks1337/RyuSAK](https://github.com/Ecks1337/RyuSAK) (today)
-- [ekisu/mpv-webm](https://github.com/ekisu/mpv-webm) - Simple WebM maker for mpv, with no external dependencies. (today)
-- [ivanarandac/Books](https://github.com/ivanarandac/Books) (today)
-- [bawangxx/XZVoice](https://github.com/bawangxx/XZVoice) - Free and open source text-to-speech software (today)
-- [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) - A feature-rich, easy to use, beautifully designed Discord bot made for Hoyoverse gamers (today)
+- [MagmaGuy/EliteMobs](https://github.com/MagmaGuy/EliteMobs) - This is a spigot plugin that aims to extend Minecraft's survival endgame by making mobs more interesting. (today)
+- [proudmonkey/ApiBoilerPlate](https://github.com/proudmonkey/ApiBoilerPlate) - A simple yet organized project template for building ASP.NET Core APIs in .NET Core 3.1 (today)
+- [proudmonkey/AutoWrapper](https://github.com/proudmonkey/AutoWrapper) - A simple, yet customizable global exception handler and Http response wrapper for ASP.NET Core APIs. (today)
+- [Lxtharia/double-minegrub-menu](https://github.com/Lxtharia/double-minegrub-menu) - Why one minegrub when you can TWO (today)
+- [Lxtharia/minegrub-world-sel-theme](https://github.com/Lxtharia/minegrub-world-sel-theme) - A grub theme in the style of the Minecraft singleplayer (sp) world selection screen! (today)
 
 ## 🔨 Latest Pull Requests I published
 
