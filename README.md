@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [maforget/ComicRackKeygen](https://github.com/maforget/ComicRackKeygen) (today)
-- [maforget/ComicRackCE](https://github.com/maforget/ComicRackCE) - A Community Edition for the legendary Comic Book Manager ComicRack. ComicRack is back from the dead. (today)
-- [alessandrofrancesconi/gimp-plugin-bimp](https://github.com/alessandrofrancesconi/gimp-plugin-bimp) - BIMP. Batch Image Manipulation Plugin for GIMP. (today)
-- [jlucansky/Swiddler](https://github.com/jlucansky/Swiddler) - TCP/UDP debugging tool. (today)
-- [jlucansky/Camunda.Api.Client](https://github.com/jlucansky/Camunda.Api.Client) - Camunda REST API Client for .NET platform (today)
+- [Ecks1337/RyuSAK](https://github.com/Ecks1337/RyuSAK) (today)
+- [ekisu/mpv-webm](https://github.com/ekisu/mpv-webm) - Simple WebM maker for mpv, with no external dependencies. (today)
+- [ivanarandac/Books](https://github.com/ivanarandac/Books) (today)
+- [bawangxx/XZVoice](https://github.com/bawangxx/XZVoice) - Free and open source text-to-speech software (today)
+- [seriaati/hoyo-buddy](https://github.com/seriaati/hoyo-buddy) - A feature-rich, easy to use, beautifully designed Discord bot made for Hoyoverse gamers (today)
 
 ## 🔨 Latest Pull Requests I published
 
