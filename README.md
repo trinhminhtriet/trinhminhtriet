@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [DIMFLIX](https://github.com/DIMFLIX)
 - [tkleisas](https://github.com/tkleisas)
 - [2hYan9](https://github.com/2hYan9)
 - [Ravindusasanka1](https://github.com/Ravindusasanka1)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [shashankgowda1144](https://github.com/shashankgowda1144)
 - [BEPb](https://github.com/BEPb)
 - [ishandutta2007](https://github.com/ishandutta2007)
-- [yen753042](https://github.com/yen753042)
 
 ## ⭐ Recent stars
 
-- [0xd4y/Notes](https://github.com/0xd4y/Notes) - Cybersecurity Notes (today)
-- [xRET2pwn/Teamsniper](https://github.com/xRET2pwn/Teamsniper) - Teamsniper is a tool for fetching keywords in a Microsoft Teams such as (passwords, emails, database, etc.).  (today)
-- [vvsevolodovich/solution-architect-roadmap](https://github.com/vvsevolodovich/solution-architect-roadmap) (today)
-- [0xbad1d3a5/Kaku](https://github.com/0xbad1d3a5/Kaku) - 画 - Japanese OCR Dictionary (today)
-- [tomchop/unxor](https://github.com/tomchop/unxor) - unXOR will search a XORed file and try to guess the key using known-plaintext attacks. (today)
+- [maforget/ComicRackKeygen](https://github.com/maforget/ComicRackKeygen) (today)
+- [maforget/ComicRackCE](https://github.com/maforget/ComicRackCE) - A Community Edition for the legendary Comic Book Manager ComicRack. ComicRack is back from the dead. (today)
+- [alessandrofrancesconi/gimp-plugin-bimp](https://github.com/alessandrofrancesconi/gimp-plugin-bimp) - BIMP. Batch Image Manipulation Plugin for GIMP. (today)
+- [jlucansky/Swiddler](https://github.com/jlucansky/Swiddler) - TCP/UDP debugging tool. (today)
+- [jlucansky/Camunda.Api.Client](https://github.com/jlucansky/Camunda.Api.Client) - Camunda REST API Client for .NET platform (today)
 
 ## 🔨 Latest Pull Requests I published
 
