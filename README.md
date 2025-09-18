@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [xslogic/phoebus](https://github.com/xslogic/phoebus) - Phoebus is a distributed framework for large scale graph processing written in Erlang. (today)
+- [infinite-horizon219/Unix-Privilege-Escalation-Exploits-Pack](https://github.com/infinite-horizon219/Unix-Privilege-Escalation-Exploits-Pack) - Exploits for getting local root on Linux, BSD, AIX, HP-UX, Solaris, RHEL, SUSE etc. (today)
+- [cwalk/Pi-Temp](https://github.com/cwalk/Pi-Temp) - Web server using a Raspberry Pi and DHT22 sensor to graph the humidity and temperature in my apartment over time. (today)
 - [xulianuwa/MCTformer](https://github.com/xulianuwa/MCTformer) - Code for CVPR 2022 paper "Multi-Class Token Transformer for Weakly Supervised Semantic Segmentation" (today)
 - [GuangmingZhu/AttentionConvLSTM](https://github.com/GuangmingZhu/AttentionConvLSTM) - "Attention in Convolutional LSTM for Gesture Recognition" in NIPS 2018 (today)
-- [Eonblast/Emysql](https://github.com/Eonblast/Emysql) - Erlang MySQL driver (today)
-- [safwank/Numerix](https://github.com/safwank/Numerix) - A collection of useful mathematical functions in Elixir with a slant towards statistics, linear algebra and machine learning (today)
-- [safwank/ElixirRetry](https://github.com/safwank/ElixirRetry) - Simple Elixir macros for linear retry, exponential backoff and wait with composable delays (today)
 
 ## 🔨 Latest Pull Requests I published
 
