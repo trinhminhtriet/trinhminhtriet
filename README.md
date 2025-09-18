@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [tagawa/bootstrap-without-jquery](https://github.com/tagawa/bootstrap-without-jquery) - Twitter Bootstrap without jQuery (today)
+- [Regaddi/Chart.StackedBar.js](https://github.com/Regaddi/Chart.StackedBar.js) - StackedBar implementation for Chart.js (today)
+- [Palakis/esphome-native-hdmi-cec](https://github.com/Palakis/esphome-native-hdmi-cec) - HDMI-CEC implementation for ESPHome (today)
 - [MagmaGuy/EliteMobs](https://github.com/MagmaGuy/EliteMobs) - This is a spigot plugin that aims to extend Minecraft's survival endgame by making mobs more interesting. (today)
 - [proudmonkey/ApiBoilerPlate](https://github.com/proudmonkey/ApiBoilerPlate) - A simple yet organized project template for building ASP.NET Core APIs in .NET Core 3.1 (today)
-- [proudmonkey/AutoWrapper](https://github.com/proudmonkey/AutoWrapper) - A simple, yet customizable global exception handler and Http response wrapper for ASP.NET Core APIs. (today)
-- [Lxtharia/double-minegrub-menu](https://github.com/Lxtharia/double-minegrub-menu) - Why one minegrub when you can TWO (today)
-- [Lxtharia/minegrub-world-sel-theme](https://github.com/Lxtharia/minegrub-world-sel-theme) - A grub theme in the style of the Minecraft singleplayer (sp) world selection screen! (today)
 
 ## 🔨 Latest Pull Requests I published
 
