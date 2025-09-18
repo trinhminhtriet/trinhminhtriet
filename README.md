@@ -55,15 +55,15 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [mardavsj](https://github.com/mardavsj)
 - [shashankgowda1144](https://github.com/shashankgowda1144)
 - [BEPb](https://github.com/BEPb)
-- [ishandutta2007](https://github.com/ishandutta2007)
+- [yen753042](https://github.com/yen753042)
 
 ## ⭐ Recent stars
 
-- [xslogic/phoebus](https://github.com/xslogic/phoebus) - Phoebus is a distributed framework for large scale graph processing written in Erlang. (today)
-- [infinite-horizon219/Unix-Privilege-Escalation-Exploits-Pack](https://github.com/infinite-horizon219/Unix-Privilege-Escalation-Exploits-Pack) - Exploits for getting local root on Linux, BSD, AIX, HP-UX, Solaris, RHEL, SUSE etc. (today)
-- [cwalk/Pi-Temp](https://github.com/cwalk/Pi-Temp) - Web server using a Raspberry Pi and DHT22 sensor to graph the humidity and temperature in my apartment over time. (today)
-- [xulianuwa/MCTformer](https://github.com/xulianuwa/MCTformer) - Code for CVPR 2022 paper "Multi-Class Token Transformer for Weakly Supervised Semantic Segmentation" (today)
-- [GuangmingZhu/AttentionConvLSTM](https://github.com/GuangmingZhu/AttentionConvLSTM) - "Attention in Convolutional LSTM for Gesture Recognition" in NIPS 2018 (today)
+- [kodeine/laravel-meta](https://github.com/kodeine/laravel-meta) - Fluent Meta Data for Eloquent Models, as if it is a property on your model (today)
+- [kodeine/laravel-acl](https://github.com/kodeine/laravel-acl) - Light-weight role-based permissions system for Laravel 6+ built in Auth system. (today)
+- [scomup/EasyGaussianSplatting](https://github.com/scomup/EasyGaussianSplatting) (today)
+- [scomup/MathematicalRobotics](https://github.com/scomup/MathematicalRobotics) (today)
+- [kasecato/vscode-intellij-idea-keybindings](https://github.com/kasecato/vscode-intellij-idea-keybindings) - Port of IntelliJ IDEA key bindings for VS Code. (today)
 
 ## 🔨 Latest Pull Requests I published
 
