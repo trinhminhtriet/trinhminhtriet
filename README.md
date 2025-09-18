@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [tagawa/bootstrap-without-jquery](https://github.com/tagawa/bootstrap-without-jquery) - Twitter Bootstrap without jQuery (today)
-- [Regaddi/Chart.StackedBar.js](https://github.com/Regaddi/Chart.StackedBar.js) - StackedBar implementation for Chart.js (today)
-- [Palakis/esphome-native-hdmi-cec](https://github.com/Palakis/esphome-native-hdmi-cec) - HDMI-CEC implementation for ESPHome (today)
-- [MagmaGuy/EliteMobs](https://github.com/MagmaGuy/EliteMobs) - This is a spigot plugin that aims to extend Minecraft's survival endgame by making mobs more interesting. (today)
-- [proudmonkey/ApiBoilerPlate](https://github.com/proudmonkey/ApiBoilerPlate) - A simple yet organized project template for building ASP.NET Core APIs in .NET Core 3.1 (today)
+- [yashasvigirdhar/Interview-Preparation](https://github.com/yashasvigirdhar/Interview-Preparation) - Interview Preparation material for Senior Software Engineer - Android role (today)
+- [akshetpandey/react-native-cronet](https://github.com/akshetpandey/react-native-cronet) - [Deprecated] This package allows you to use the Cronet for your react native apps. (today)
+- [sudheerachary/Mesh-Flow-Video-Stabilization](https://github.com/sudheerachary/Mesh-Flow-Video-Stabilization) - Online video stabilization using a novel MeshFlow motion model (today)
+- [jviney/acts_as_taggable_on_steroids](https://github.com/jviney/acts_as_taggable_on_steroids) - Tagging for Ruby on Rails (today)
+- [N1ck/gifs-for-github](https://github.com/N1ck/gifs-for-github) - Repository for the GIFs for GitHub Chrome & Firefox Extension (today)
 
 ## 🔨 Latest Pull Requests I published
 
