@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [yashasvigirdhar/Interview-Preparation](https://github.com/yashasvigirdhar/Interview-Preparation) - Interview Preparation material for Senior Software Engineer - Android role (today)
-- [akshetpandey/react-native-cronet](https://github.com/akshetpandey/react-native-cronet) - [Deprecated] This package allows you to use the Cronet for your react native apps. (today)
-- [sudheerachary/Mesh-Flow-Video-Stabilization](https://github.com/sudheerachary/Mesh-Flow-Video-Stabilization) - Online video stabilization using a novel MeshFlow motion model (today)
-- [jviney/acts_as_taggable_on_steroids](https://github.com/jviney/acts_as_taggable_on_steroids) - Tagging for Ruby on Rails (today)
-- [N1ck/gifs-for-github](https://github.com/N1ck/gifs-for-github) - Repository for the GIFs for GitHub Chrome & Firefox Extension (today)
+- [xulianuwa/MCTformer](https://github.com/xulianuwa/MCTformer) - Code for CVPR 2022 paper "Multi-Class Token Transformer for Weakly Supervised Semantic Segmentation" (today)
+- [GuangmingZhu/AttentionConvLSTM](https://github.com/GuangmingZhu/AttentionConvLSTM) - "Attention in Convolutional LSTM for Gesture Recognition" in NIPS 2018 (today)
+- [Eonblast/Emysql](https://github.com/Eonblast/Emysql) - Erlang MySQL driver (today)
+- [safwank/Numerix](https://github.com/safwank/Numerix) - A collection of useful mathematical functions in Elixir with a slant towards statistics, linear algebra and machine learning (today)
+- [safwank/ElixirRetry](https://github.com/safwank/ElixirRetry) - Simple Elixir macros for linear retry, exponential backoff and wait with composable delays (today)
 
 ## 🔨 Latest Pull Requests I published
 
