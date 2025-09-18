@@ -33,9 +33,9 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👷 Check out what I'm currently working on
 
-- [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) - 🚀 All-in-one CLI toolkit for developers: scaffold, manage, automate, and boost productivity across languages! (today)
-- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (today)
-- [lamhaison/aws-cli-utils](https://github.com/lamhaison/aws-cli-utils) - This is the project to collect helpful aws cli commandline with complex options to support your working (today)
+- [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) - 🚀 All-in-one CLI toolkit for developers: scaffold, manage, automate, and boost productivity across languages! (1 day ago)
+- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (1 day ago)
+- [lamhaison/aws-cli-utils](https://github.com/lamhaison/aws-cli-utils) - This is the project to collect helpful aws cli commandline with complex options to support your working (1 day ago)
 - [trinhminhtriet/dwipe](https://github.com/trinhminhtriet/dwipe) - 🧹 Fast, cross-platform disk cleanup tool with interactive UI for easy directory size visualization. (1 week ago)
 - [nctl-io/nctl-roadmap](https://github.com/nctl-io/nctl-roadmap) (2 weeks ago)
 - [nctl-io/.github](https://github.com/nctl-io/.github) - 🌐 Network. Connect. Transform. Lead. (3 weeks ago)
@@ -59,13 +59,13 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [NateWickstrom/RxActivityResult](https://github.com/NateWickstrom/RxActivityResult) - Reactive results from startActivityForResult() in the form of an Observable.  (today)
-- [bobluppes/graaf](https://github.com/bobluppes/graaf) - A general-purpose lightweight C++ graph library (today)
-- [xyoye/DanDanPlayForAndroid](https://github.com/xyoye/DanDanPlayForAndroid) - 弹弹play 概念版，弹弹play系列应用安卓平台上的实现，是一个提供了视频播放（本地+局域网）和弹幕加载（在线+本地）功能的本地播放器 (today)
-- [wseemann/RoMote](https://github.com/wseemann/RoMote) - Open source Roku remote. Turn your Android Device into a control center for your Roku Player and Roku TV. (today)
-- [wseemann/FFmpegMediaPlayer](https://github.com/wseemann/FFmpegMediaPlayer) - FFmpegMediaPlayer can be used to control playback of audio/video files and streams.  (today)
+- [chaingarden/DBSmartPanels](https://github.com/chaingarden/DBSmartPanels) - Panel manager plugin for Xcode 7 to optimize screen real estate usage (today)
+- [akoscz/YouTubePlaylist](https://github.com/akoscz/YouTubePlaylist) - A sample Android application which demonstrates the use of the YouTube Data  v3 API. (today)
+- [sobjornstad/AnkiLPCG](https://github.com/sobjornstad/AnkiLPCG) - Addon for dae/anki for studying lyrics and poetry (1 day ago)
+- [aloha/laravel-twilio](https://github.com/aloha/laravel-twilio) - Laravel Twillio API Integration (1 day ago)
+- [lwthiker/curl-impersonate](https://github.com/lwthiker/curl-impersonate) - curl-impersonate: A special build of curl that can impersonate Chrome & Firefox (1 day ago)
 
 ## 🔨 Latest Pull Requests I published
 
-- [Add global git configuration and implement note management CLI](https://github.com/trinhminhtriet/DevPilot/pull/9) on [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) (1 day ago)
-- [[Fix] - correct spelling of 'credential' in README and assume_role.sh](https://github.com/lamhaison/aws-cli-utils/pull/34) on [lamhaison/aws-cli-utils](https://github.com/lamhaison/aws-cli-utils) (1 day ago)
+- [Add global git configuration and implement note management CLI](https://github.com/trinhminhtriet/DevPilot/pull/9) on [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) (2 days ago)
+- [[Fix] - correct spelling of 'credential' in README and assume_role.sh](https://github.com/lamhaison/aws-cli-utils/pull/34) on [lamhaison/aws-cli-utils](https://github.com/lamhaison/aws-cli-utils) (2 days ago)
