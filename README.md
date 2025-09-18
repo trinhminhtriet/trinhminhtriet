@@ -39,15 +39,15 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [trinhminhtriet/dwipe](https://github.com/trinhminhtriet/dwipe) - 🧹 Fast, cross-platform disk cleanup tool with interactive UI for easy directory size visualization. (1 week ago)
 - [nctl-io/nctl-roadmap](https://github.com/nctl-io/nctl-roadmap) (2 weeks ago)
 - [nctl-io/.github](https://github.com/nctl-io/.github) - 🌐 Network. Connect. Transform. Lead. (3 weeks ago)
-- [nctl-io/nctl-branding](https://github.com/nctl-io/nctl-branding) - NCTL Branding 🖼️: Centralized assets and guidelines for consistent visual identity across NCTL projects and platforms. (3 weeks ago)
 - [nctl-io/nctl-homepage](https://github.com/nctl-io/nctl-homepage) - 🚀 Modern homepage for NCTL: fast, responsive, TypeScript-powered, open source, and easy to customize. (3 weeks ago)
+- [nctl-io/nctl-branding](https://github.com/nctl-io/nctl-branding) - NCTL Branding 🖼️: Centralized assets and guidelines for consistent visual identity across NCTL projects and platforms. (3 weeks ago)
 - [trinhminhtriet/sizr](https://github.com/trinhminhtriet/sizr) - 📈 A fast, Rust-based tool to analyze file system usage with colorful output, file aggregation, exclusions, and directory comparisons. (3 weeks ago)
 - [rust-rs/tabler](https://github.com/rust-rs/tabler) - 📊 Tabler: A lightweight TUI tool to view, query, and navigate CSV, TSV, and Parquet data files. (3 weeks ago)
 
 ## 👯 Check out my recent followers
 
+- [Deccatron](https://github.com/Deccatron)
 - [pasindusampath](https://github.com/pasindusampath)
-- [sarkarshuvojit](https://github.com/sarkarshuvojit)
 - [mardavsj](https://github.com/mardavsj)
 - [shashankgowda1144](https://github.com/shashankgowda1144)
 - [BEPb](https://github.com/BEPb)
@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [chaingarden/DBSmartPanels](https://github.com/chaingarden/DBSmartPanels) - Panel manager plugin for Xcode 7 to optimize screen real estate usage (today)
-- [akoscz/YouTubePlaylist](https://github.com/akoscz/YouTubePlaylist) - A sample Android application which demonstrates the use of the YouTube Data  v3 API. (today)
-- [sobjornstad/AnkiLPCG](https://github.com/sobjornstad/AnkiLPCG) - Addon for dae/anki for studying lyrics and poetry (1 day ago)
-- [aloha/laravel-twilio](https://github.com/aloha/laravel-twilio) - Laravel Twillio API Integration (1 day ago)
-- [lwthiker/curl-impersonate](https://github.com/lwthiker/curl-impersonate) - curl-impersonate: A special build of curl that can impersonate Chrome & Firefox (1 day ago)
+- [foldl/chatllm.cpp](https://github.com/foldl/chatllm.cpp) - Pure C++ implementation of several models for real-time chatting on your computer (CPU & GPU) (today)
+- [zoddDev/dotfiles](https://github.com/zoddDev/dotfiles) - My bspwm dotfiles. Get whatever you need! :) (today)
+- [Foulest/Osprey](https://github.com/Foulest/Osprey) - Browser extension that protects you from malicious websites. (today)
+- [Malwareman007/Scanner-and-Patcher](https://github.com/Malwareman007/Scanner-and-Patcher) - A Web Vulnerability Scanner and Patcher  (today)
+- [Cloud-Architekt/AzurePrivilegedIAM](https://github.com/Cloud-Architekt/AzurePrivilegedIAM) - Docs and samples for privileged identity and access management in Microsoft Azure and Microsoft Entra. (today)
 
 ## 🔨 Latest Pull Requests I published
 
