@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [foldl/chatllm.cpp](https://github.com/foldl/chatllm.cpp) - Pure C++ implementation of several models for real-time chatting on your computer (CPU & GPU) (today)
-- [zoddDev/dotfiles](https://github.com/zoddDev/dotfiles) - My bspwm dotfiles. Get whatever you need! :) (today)
-- [Foulest/Osprey](https://github.com/Foulest/Osprey) - Browser extension that protects you from malicious websites. (today)
-- [Malwareman007/Scanner-and-Patcher](https://github.com/Malwareman007/Scanner-and-Patcher) - A Web Vulnerability Scanner and Patcher  (today)
-- [Cloud-Architekt/AzurePrivilegedIAM](https://github.com/Cloud-Architekt/AzurePrivilegedIAM) - Docs and samples for privileged identity and access management in Microsoft Azure and Microsoft Entra. (today)
+- [0xd4y/Notes](https://github.com/0xd4y/Notes) - Cybersecurity Notes (today)
+- [xRET2pwn/Teamsniper](https://github.com/xRET2pwn/Teamsniper) - Teamsniper is a tool for fetching keywords in a Microsoft Teams such as (passwords, emails, database, etc.).  (today)
+- [vvsevolodovich/solution-architect-roadmap](https://github.com/vvsevolodovich/solution-architect-roadmap) (today)
+- [0xbad1d3a5/Kaku](https://github.com/0xbad1d3a5/Kaku) - 画 - Japanese OCR Dictionary (today)
+- [tomchop/unxor](https://github.com/tomchop/unxor) - unXOR will search a XORed file and try to guess the key using known-plaintext attacks. (today)
 
 ## 🔨 Latest Pull Requests I published
 
