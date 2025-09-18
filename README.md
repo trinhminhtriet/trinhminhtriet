@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Ravindusasanka1](https://github.com/Ravindusasanka1)
 - [Deccatron](https://github.com/Deccatron)
 - [pasindusampath](https://github.com/pasindusampath)
 - [mardavsj](https://github.com/mardavsj)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [yen753042](https://github.com/yen753042)
 - [arundas17](https://github.com/arundas17)
 - [naworun](https://github.com/naworun)
-- [Pikay891](https://github.com/Pikay891)
 
 ## ⭐ Recent stars
 
