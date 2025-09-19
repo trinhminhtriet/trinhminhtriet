@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [sunsvip/PSD2UGUI_X](https://github.com/sunsvip/PSD2UGUI_X) - Convert psd file to ugui prefab,  text, image, raw image, button, slider, scroll view, dropdown, toggle, textmeshpro... (today)
-- [sunsvip/GF_X](https://github.com/sunsvip/GF_X) - Unity GameFramework + HybridCLR，支持Obfuz代码加固，支持WebGL(小游戏)热更。懒人必备! 简单高效，规范自动化的开发工作流。长期的工作流积累，直击开发痛点，大量自动化编辑器扩展，高效的自动化生产工作流。框架层省心省力，只需专注业务开发。 (today)
-- [su9257/Odin-Inspector-Chinese-Tutorial](https://github.com/su9257/Odin-Inspector-Chinese-Tutorial) - 中文教程 (today)
-- [756915370/LuaRuntimeHotfix](https://github.com/756915370/LuaRuntimeHotfix) - Lua runtime update module in unity (today)
-- [SiMaLaoShi/AssetStudio_Tuanjie](https://github.com/SiMaLaoShi/AssetStudio_Tuanjie) - AssetStudio的团结版本 (today)
+- [superzanti/ServerSync](https://github.com/superzanti/ServerSync) - Sync files between client and server for Minecraft Forge (today)
+- [ZeroUltra/UnityManuallyReload](https://github.com/ZeroUltra/UnityManuallyReload) - unity manually reload domain 减少等待时间 (today)
+- [daniellochner/simple-scroll-snap](https://github.com/daniellochner/simple-scroll-snap) - “Simple Scroll-Snap” is an elegantly designed, intuitive solution that allows for elements within a ScrollView to be snapped to, offering a wide range of customization options. (today)
+- [daniellochner/creature](https://github.com/daniellochner/creature) - Procedurally generate creatures in Unity - inspired by Spore. (today)
+- [Naphier/unity-design-patterns](https://github.com/Naphier/unity-design-patterns) - Examples of programming design patterns in Unity C# (today)
 
 ## 🔨 Latest Pull Requests I published
 
