@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [henriquelalves/GodotTIE](https://github.com/henriquelalves/GodotTIE) - A simple Text Interface Engine to control text output (like in a RPG dialogue) for Godot. (today)
-- [henriquelalves/SimpleGodotCRTShader](https://github.com/henriquelalves/SimpleGodotCRTShader) - A simple Godot shader that simulates CRT Displays (today)
-- [Killeroo/PowerPing](https://github.com/Killeroo/PowerPing) - Advanced command-line ping tool (today)
-- [HarmonyHoney/tiny_crate](https://github.com/HarmonyHoney/tiny_crate) - Godot 3.6 / Tiny Crate / Crate Chucking Puzzle Platformer Game (today)
-- [HarmonyHoney/ROTA](https://github.com/HarmonyHoney/ROTA) - Godot 3.6.1 / ROTA: Bend Gravity / Gravity Bending Block Puzzle Platformer Game (today)
+- [frog-game/lua-5.4.4-comments](https://github.com/frog-game/lua-5.4.4-comments) - lua-5.4.4-每行都加注释版本 (today)
+- [frimin/learning-kcp-protocol](https://github.com/frimin/learning-kcp-protocol) - KCP协议基本数据结构和算法图文介绍 (today)
+- [phoenixthrush/AniWorld-Downloader](https://github.com/phoenixthrush/AniWorld-Downloader) - AniWorld Downloader is a command-line tool for downloading and streaming content from aniworld.to and s.to. If you enjoy using it, feel free to leave a ⭐! (today)
+- [pranaymanocha/PerceptualAudio](https://github.com/pranaymanocha/PerceptualAudio) - Perceptual Metrics of Audio - perceptually relevant loss function. DPAM and CDPAM (today)
+- [Manistein/let-us-build-a-lua-interpreter](https://github.com/Manistein/let-us-build-a-lua-interpreter) - 《Lua解释器构建：从虚拟机到编译器》随书源码 (today)
 
 ## 🔨 Latest Pull Requests I published
 
