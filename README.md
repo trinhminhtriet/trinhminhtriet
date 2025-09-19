@@ -33,10 +33,10 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👷 Check out what I'm currently working on
 
-- [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) - 🚀 All-in-one CLI toolkit for developers: scaffold, manage, automate, and boost productivity across languages! (1 day ago)
-- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (1 day ago)
-- [lamhaison/aws-cli-utils](https://github.com/lamhaison/aws-cli-utils) - This is the project to collect helpful aws cli commandline with complex options to support your working (1 day ago)
-- [trinhminhtriet/dwipe](https://github.com/trinhminhtriet/dwipe) - 🧹 Fast, cross-platform disk cleanup tool with interactive UI for easy directory size visualization. (1 week ago)
+- [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) - 🚀 All-in-one CLI toolkit for developers: scaffold, manage, automate, and boost productivity across languages! (2 days ago)
+- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (2 days ago)
+- [lamhaison/aws-cli-utils](https://github.com/lamhaison/aws-cli-utils) - This is the project to collect helpful aws cli commandline with complex options to support your working (2 days ago)
+- [trinhminhtriet/dwipe](https://github.com/trinhminhtriet/dwipe) - 🧹 Fast, cross-platform disk cleanup tool with interactive UI for easy directory size visualization. (2 weeks ago)
 - [nctl-io/nctl-roadmap](https://github.com/nctl-io/nctl-roadmap) (2 weeks ago)
 - [nctl-io/.github](https://github.com/nctl-io/.github) - 🌐 Network. Connect. Transform. Lead. (3 weeks ago)
 - [nctl-io/nctl-homepage](https://github.com/nctl-io/nctl-homepage) - 🚀 Modern homepage for NCTL: fast, responsive, TypeScript-powered, open source, and easy to customize. (3 weeks ago)
@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [ishandutta2007](https://github.com/ishandutta2007)
+- [0824813690](https://github.com/0824813690)
 - [abhishekjoshi007](https://github.com/abhishekjoshi007)
 - [DIMFLIX](https://github.com/DIMFLIX)
 - [tkleisas](https://github.com/tkleisas)
@@ -54,18 +56,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Deccatron](https://github.com/Deccatron)
 - [pasindusampath](https://github.com/pasindusampath)
 - [mardavsj](https://github.com/mardavsj)
-- [shashankgowda1144](https://github.com/shashankgowda1144)
-- [BEPb](https://github.com/BEPb)
 
 ## ⭐ Recent stars
 
-- [BBBBchan/CorrMatch](https://github.com/BBBBchan/CorrMatch) - [CVPR 2024] Official code for "CorrMatch: Label Propagation via Correlation Matching for Semi-Supervised Semantic Segmentation" (today)
-- [BBBBchan/Awesome-Semi-Supervised-Semantic-Segmentation](https://github.com/BBBBchan/Awesome-Semi-Supervised-Semantic-Segmentation) - A summary of recent semi-supervised semantic segmentation methods (today)
-- [AmeyaJagtap/XPINNs](https://github.com/AmeyaJagtap/XPINNs) - Extended Physics-Informed Neural Networks (XPINNs): A Generalized Space-Time Domain Decomposition Based Deep Learning Framework for Nonlinear Partial Differential Equations (today)
-- [Prasad9/Classify-HandGesturePose](https://github.com/Prasad9/Classify-HandGesturePose) - Network to classify hand gesture poses. (today)
-- [seoungwugoh/RGMP](https://github.com/seoungwugoh/RGMP) - Fast Video Object Segmentation by Reference-Guided Mask Propagation (today)
+- [BBBBchan/CorrMatch](https://github.com/BBBBchan/CorrMatch) - [CVPR 2024] Official code for "CorrMatch: Label Propagation via Correlation Matching for Semi-Supervised Semantic Segmentation" (1 day ago)
+- [BBBBchan/Awesome-Semi-Supervised-Semantic-Segmentation](https://github.com/BBBBchan/Awesome-Semi-Supervised-Semantic-Segmentation) - A summary of recent semi-supervised semantic segmentation methods (1 day ago)
+- [AmeyaJagtap/XPINNs](https://github.com/AmeyaJagtap/XPINNs) - Extended Physics-Informed Neural Networks (XPINNs): A Generalized Space-Time Domain Decomposition Based Deep Learning Framework for Nonlinear Partial Differential Equations (1 day ago)
+- [Prasad9/Classify-HandGesturePose](https://github.com/Prasad9/Classify-HandGesturePose) - Network to classify hand gesture poses. (1 day ago)
+- [seoungwugoh/RGMP](https://github.com/seoungwugoh/RGMP) - Fast Video Object Segmentation by Reference-Guided Mask Propagation (1 day ago)
 
 ## 🔨 Latest Pull Requests I published
 
-- [Add global git configuration and implement note management CLI](https://github.com/trinhminhtriet/DevPilot/pull/9) on [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) (2 days ago)
-- [[Fix] - correct spelling of 'credential' in README and assume_role.sh](https://github.com/lamhaison/aws-cli-utils/pull/34) on [lamhaison/aws-cli-utils](https://github.com/lamhaison/aws-cli-utils) (2 days ago)
+- [Add global git configuration and implement note management CLI](https://github.com/trinhminhtriet/DevPilot/pull/9) on [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) (3 days ago)
+- [[Fix] - correct spelling of 'credential' in README and assume_role.sh](https://github.com/lamhaison/aws-cli-utils/pull/34) on [lamhaison/aws-cli-utils](https://github.com/lamhaison/aws-cli-utils) (3 days ago)
