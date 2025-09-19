@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [geekq/workflow](https://github.com/geekq/workflow) - Ruby finite-state-machine-inspired API for modeling workflow (today)
-- [ijnekenamay/HAGIWOs_Module](https://github.com/ijnekenamay/HAGIWOs_Module) - eurorack modular synthesizers projects using Arduino. (today)
-- [ijnekenamay/M8HeadlessStaging](https://github.com/ijnekenamay/M8HeadlessStaging) - This is a DIY project to push the Dirtywave M8 Headless into a PCB and make it handheld. (today)
-- [JannisX11/blockbench-plugins](https://github.com/JannisX11/blockbench-plugins) - Blockbench plugin repository (today)
-- [JannisX11/snowstorm](https://github.com/JannisX11/snowstorm) - Minecraft Bedrock Particle Generator (today)
+- [Kwisma/cf-worker-mihomo](https://github.com/Kwisma/cf-worker-mihomo) - 快速生成mihomo（clash  meta）配置文件,  适用于软路由 mihomo 内核，clash meta 客户端等 (today)
+- [cervinakuy/KitPvP](https://github.com/cervinakuy/KitPvP) - An all-in-one battle plugin built using customizable kits and features. (today)
+- [peadar/pstack](https://github.com/peadar/pstack) - Print stack traces from running processes, or core files. Supports aarch64, x86_64, and i386 (today)
+- [celstark/OpenNebulosity](https://github.com/celstark/OpenNebulosity) - Astrophotography capture and processing (today)
+- [cheez3d/popcap-patches](https://github.com/cheez3d/popcap-patches) - A collection of patched executables for PopCap games along with various bits of information regarding them. Patches include, but might not be limited to fixes for 3D acceleration as well as higher resolutions not working on recent versions of Windows. (today)
 
 ## 🔨 Latest Pull Requests I published
 
