@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [KuoKuo666/CocosCreator-Bubble](https://github.com/KuoKuo666/CocosCreator-Bubble) - 基于CocosCreator引擎2.1.2版本制作的《泡泡龙》游戏项目，注释很全新手无压力。 (today)
-- [david-reborn/2D-Platform-Controller](https://github.com/david-reborn/2D-Platform-Controller) - The Controller Follow the Celeste (today)
-- [Ji-Rath/MassAIExample](https://github.com/Ji-Rath/MassAIExample) - A project primarily used to test UE5 Mass AI system (today)
-- [km2ii/JVP_TG-PLUS](https://github.com/km2ii/JVP_TG-PLUS) - This is enhanced mod for javplayer, enhance the effect after removing mosaic. (today)
-- [Straw1997/UnityURPCloud](https://github.com/Straw1997/UnityURPCloud) - unity urp RayMarching体积云渲染 (today)
+- [calcmogul/controls-engineering-in-frc](https://github.com/calcmogul/controls-engineering-in-frc) - Controls Engineering in the FIRST Robotics Competition (today)
+- [randomstring/WeasleyClock](https://github.com/randomstring/WeasleyClock) - Project to build my own working Weasley Clock to track the location of family members. (today)
+- [abcfy2/getComic](https://github.com/abcfy2/getComic) - Download tencent comic-下载腾讯漫画 (today)
+- [abcfy2/motd](https://github.com/abcfy2/motd) - My funny motd config. Just for fun! (today)
+- [SongranZhang/tcp-gateway](https://github.com/SongranZhang/tcp-gateway) - High performance TCP Gateway base on Netty 4 for request data or push message. (today)
 
 ## 🔨 Latest Pull Requests I published
 
