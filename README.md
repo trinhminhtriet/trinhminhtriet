@@ -46,7 +46,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
-- [Arison99](https://github.com/Arison99)
 - [lavignes](https://github.com/lavignes)
 - [ishandutta2007](https://github.com/ishandutta2007)
 - [0824813690](https://github.com/0824813690)
@@ -56,14 +55,15 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [2hYan9](https://github.com/2hYan9)
 - [Ravindusasanka1](https://github.com/Ravindusasanka1)
 - [Deccatron](https://github.com/Deccatron)
+- [pasindusampath](https://github.com/pasindusampath)
 
 ## ⭐ Recent stars
 
-- [BBBBchan/CorrMatch](https://github.com/BBBBchan/CorrMatch) - [CVPR 2024] Official code for "CorrMatch: Label Propagation via Correlation Matching for Semi-Supervised Semantic Segmentation" (1 day ago)
-- [BBBBchan/Awesome-Semi-Supervised-Semantic-Segmentation](https://github.com/BBBBchan/Awesome-Semi-Supervised-Semantic-Segmentation) - A summary of recent semi-supervised semantic segmentation methods (1 day ago)
-- [AmeyaJagtap/XPINNs](https://github.com/AmeyaJagtap/XPINNs) - Extended Physics-Informed Neural Networks (XPINNs): A Generalized Space-Time Domain Decomposition Based Deep Learning Framework for Nonlinear Partial Differential Equations (1 day ago)
-- [Prasad9/Classify-HandGesturePose](https://github.com/Prasad9/Classify-HandGesturePose) - Network to classify hand gesture poses. (1 day ago)
-- [seoungwugoh/RGMP](https://github.com/seoungwugoh/RGMP) - Fast Video Object Segmentation by Reference-Guided Mask Propagation (1 day ago)
+- [BATFOR/RecruitDataVsible](https://github.com/BATFOR/RecruitDataVsible) - 爬取智联招聘网数据，并对其进行招聘数据可视化，爬虫，Data visualization，Django2，echarts (today)
+- [chrisbobbe/jekyll-theme-prologue](https://github.com/chrisbobbe/jekyll-theme-prologue) - A Jekyll version of the "Prologue" theme by HTML5 UP (today)
+- [bigmb/Unet-Segmentation-Pytorch-Nest-of-Unets](https://github.com/bigmb/Unet-Segmentation-Pytorch-Nest-of-Unets) - Implementation of different kinds of Unet Models for Image Segmentation - Unet , RCNN-Unet, Attention Unet, RCNN-Attention Unet, Nested Unet (today)
+- [amjltc295/Free-Form-Video-Inpainting](https://github.com/amjltc295/Free-Form-Video-Inpainting) - Official Pytorch implementation of "Learnable Gated Temporal Shift Module for Deep Video Inpainting. Chang et al. BMVC 2019."  and the FVI dataset in "Free-form Video Inpainting with 3D Gated Convolution and Temporal PatchGAN, Chang et al. ICCV 2019" (today)
+- [victoresque/pytorch-template](https://github.com/victoresque/pytorch-template) - PyTorch deep learning projects made easy. (today)
 
 ## 🔨 Latest Pull Requests I published
 
