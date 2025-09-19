@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [xijo/reverse_markdown](https://github.com/xijo/reverse_markdown) - Ruby gem to convert html into markdown (today)
+- [alpaker/fill-column-indicator](https://github.com/alpaker/fill-column-indicator) - An Emacs minor mode that graphically indicates the fill column. (today)
+- [Kas-tle/java2bedrock.sh](https://github.com/Kas-tle/java2bedrock.sh) - Converts 2D and 3D item predicates from Minecraft Java Edition to Minecraft Bedrock Edition (today)
 - [Kwisma/cf-worker-mihomo](https://github.com/Kwisma/cf-worker-mihomo) - 快速生成mihomo（clash  meta）配置文件,  适用于软路由 mihomo 内核，clash meta 客户端等 (today)
 - [cervinakuy/KitPvP](https://github.com/cervinakuy/KitPvP) - An all-in-one battle plugin built using customizable kits and features. (today)
-- [peadar/pstack](https://github.com/peadar/pstack) - Print stack traces from running processes, or core files. Supports aarch64, x86_64, and i386 (today)
-- [celstark/OpenNebulosity](https://github.com/celstark/OpenNebulosity) - Astrophotography capture and processing (today)
-- [cheez3d/popcap-patches](https://github.com/cheez3d/popcap-patches) - A collection of patched executables for PopCap games along with various bits of information regarding them. Patches include, but might not be limited to fixes for 3D acceleration as well as higher resolutions not working on recent versions of Windows. (today)
 
 ## 🔨 Latest Pull Requests I published
 
