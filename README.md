@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [ardendertat/Applied-Deep-Learning-with-Keras](https://github.com/ardendertat/Applied-Deep-Learning-with-Keras) - Deep Learning examples with Keras. (today)
-- [hoppuman/TikTokHacks](https://github.com/hoppuman/TikTokHacks) (today)
-- [BATFOR/RecruitDataVsible](https://github.com/BATFOR/RecruitDataVsible) - 爬取智联招聘网数据，并对其进行招聘数据可视化，爬虫，Data visualization，Django2，echarts (today)
-- [chrisbobbe/jekyll-theme-prologue](https://github.com/chrisbobbe/jekyll-theme-prologue) - A Jekyll version of the "Prologue" theme by HTML5 UP (today)
-- [bigmb/Unet-Segmentation-Pytorch-Nest-of-Unets](https://github.com/bigmb/Unet-Segmentation-Pytorch-Nest-of-Unets) - Implementation of different kinds of Unet Models for Image Segmentation - Unet , RCNN-Unet, Attention Unet, RCNN-Attention Unet, Nested Unet (today)
+- [henriquelalves/GodotTIE](https://github.com/henriquelalves/GodotTIE) - A simple Text Interface Engine to control text output (like in a RPG dialogue) for Godot. (today)
+- [henriquelalves/SimpleGodotCRTShader](https://github.com/henriquelalves/SimpleGodotCRTShader) - A simple Godot shader that simulates CRT Displays (today)
+- [Killeroo/PowerPing](https://github.com/Killeroo/PowerPing) - Advanced command-line ping tool (today)
+- [HarmonyHoney/tiny_crate](https://github.com/HarmonyHoney/tiny_crate) - Godot 3.6 / Tiny Crate / Crate Chucking Puzzle Platformer Game (today)
+- [HarmonyHoney/ROTA](https://github.com/HarmonyHoney/ROTA) - Godot 3.6.1 / ROTA: Bend Gravity / Gravity Bending Block Puzzle Platformer Game (today)
 
 ## 🔨 Latest Pull Requests I published
 
