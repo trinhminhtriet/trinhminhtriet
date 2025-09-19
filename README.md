@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [FlameskyDexive/Legends-Of-Heroes](https://github.com/FlameskyDexive/Legends-Of-Heroes) - A battle of balls game, lol style. 基于ET 8.1的双端C#游戏框架(.net8 + Unity6000, EUI+Luban+YooAsset)，包含战斗系统（技能/buff/行为树），内置LOL风格球球大战demo (today)
-- [iwiniwin/unity-remote-file-explorer](https://github.com/iwiniwin/unity-remote-file-explorer) - 一个跨平台的远程文件浏览器，使用户通过Unity Editor就能操作应用所运行平台上的目录文件。比如当项目打包运行到设备上时，可通过Remote File Explorer直接浏览设备上的目录文件，并进行下载，上传，删除等操作 (today)
-- [iwiniwin/LuaKit](https://github.com/iwiniwin/LuaKit) - Lua核心工具包，包含对面向对象，组件系统（灵活的绑定解绑模式），mvc分模块加载，事件分发系统等常用模式的封装。同时提供打印，内存泄漏检测，性能分析等常用工具类。 (today)
-- [mpplab/mnssp3](https://github.com/mpplab/mnssp3) (today)
-- [aidlearning/AidLearning-FrameWork](https://github.com/aidlearning/AidLearning-FrameWork) - 🔥🔥🔥AidLearning is a powerful AIOT development platform, AidLearning builds a linux env supporting GUI, deep learning and visual IDE on Android...Now Aid supports CPU+GPU+NPU for inference with high performance acceleration...Linux on Android or HarmonyOS  (today)
+- [KuoKuo666/CocosCreator-Bubble](https://github.com/KuoKuo666/CocosCreator-Bubble) - 基于CocosCreator引擎2.1.2版本制作的《泡泡龙》游戏项目，注释很全新手无压力。 (today)
+- [david-reborn/2D-Platform-Controller](https://github.com/david-reborn/2D-Platform-Controller) - The Controller Follow the Celeste (today)
+- [Ji-Rath/MassAIExample](https://github.com/Ji-Rath/MassAIExample) - A project primarily used to test UE5 Mass AI system (today)
+- [km2ii/JVP_TG-PLUS](https://github.com/km2ii/JVP_TG-PLUS) - This is enhanced mod for javplayer, enhance the effect after removing mosaic. (today)
+- [Straw1997/UnityURPCloud](https://github.com/Straw1997/UnityURPCloud) - unity urp RayMarching体积云渲染 (today)
 
 ## 🔨 Latest Pull Requests I published
 
