@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [FineFindus/eyedropper](https://github.com/FineFindus/eyedropper) - Pick and format colors (today)
-- [FineFindus/artem](https://github.com/FineFindus/artem) - Convert images from multiple formats (jpg, png, webp, etc…) to ASCII art, written in Rust (today)
-- [yaneurao/YaneuraOu](https://github.com/yaneurao/YaneuraOu) - YaneuraOu is the World's Strongest Shogi engine(AI player) , WCSC29 1st winner , educational and USI compliant engine. (today)
-- [Supercip971/WingOS](https://github.com/Supercip971/WingOS) - a little 64bit microkernel based operating system written in c++ with smp support  (today)
-- [trezy/next-safe](https://github.com/trezy/next-safe) (today)
+- [geekq/workflow](https://github.com/geekq/workflow) - Ruby finite-state-machine-inspired API for modeling workflow (today)
+- [ijnekenamay/HAGIWOs_Module](https://github.com/ijnekenamay/HAGIWOs_Module) - eurorack modular synthesizers projects using Arduino. (today)
+- [ijnekenamay/M8HeadlessStaging](https://github.com/ijnekenamay/M8HeadlessStaging) - This is a DIY project to push the Dirtywave M8 Headless into a PCB and make it handheld. (today)
+- [JannisX11/blockbench-plugins](https://github.com/JannisX11/blockbench-plugins) - Blockbench plugin repository (today)
+- [JannisX11/snowstorm](https://github.com/JannisX11/snowstorm) - Minecraft Bedrock Particle Generator (today)
 
 ## 🔨 Latest Pull Requests I published
 
