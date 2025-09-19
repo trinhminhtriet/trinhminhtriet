@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [calcmogul/controls-engineering-in-frc](https://github.com/calcmogul/controls-engineering-in-frc) - Controls Engineering in the FIRST Robotics Competition (today)
-- [randomstring/WeasleyClock](https://github.com/randomstring/WeasleyClock) - Project to build my own working Weasley Clock to track the location of family members. (today)
-- [abcfy2/getComic](https://github.com/abcfy2/getComic) - Download tencent comic-下载腾讯漫画 (today)
-- [abcfy2/motd](https://github.com/abcfy2/motd) - My funny motd config. Just for fun! (today)
-- [SongranZhang/tcp-gateway](https://github.com/SongranZhang/tcp-gateway) - High performance TCP Gateway base on Netty 4 for request data or push message. (today)
+- [FineFindus/eyedropper](https://github.com/FineFindus/eyedropper) - Pick and format colors (today)
+- [FineFindus/artem](https://github.com/FineFindus/artem) - Convert images from multiple formats (jpg, png, webp, etc…) to ASCII art, written in Rust (today)
+- [yaneurao/YaneuraOu](https://github.com/yaneurao/YaneuraOu) - YaneuraOu is the World's Strongest Shogi engine(AI player) , WCSC29 1st winner , educational and USI compliant engine. (today)
+- [Supercip971/WingOS](https://github.com/Supercip971/WingOS) - a little 64bit microkernel based operating system written in c++ with smp support  (today)
+- [trezy/next-safe](https://github.com/trezy/next-safe) (today)
 
 ## 🔨 Latest Pull Requests I published
 
