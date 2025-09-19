@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [superzanti/ServerSync](https://github.com/superzanti/ServerSync) - Sync files between client and server for Minecraft Forge (today)
-- [ZeroUltra/UnityManuallyReload](https://github.com/ZeroUltra/UnityManuallyReload) - unity manually reload domain 减少等待时间 (today)
-- [daniellochner/simple-scroll-snap](https://github.com/daniellochner/simple-scroll-snap) - “Simple Scroll-Snap” is an elegantly designed, intuitive solution that allows for elements within a ScrollView to be snapped to, offering a wide range of customization options. (today)
-- [daniellochner/creature](https://github.com/daniellochner/creature) - Procedurally generate creatures in Unity - inspired by Spore. (today)
-- [Naphier/unity-design-patterns](https://github.com/Naphier/unity-design-patterns) - Examples of programming design patterns in Unity C# (today)
+- [FlameskyDexive/Legends-Of-Heroes](https://github.com/FlameskyDexive/Legends-Of-Heroes) - A battle of balls game, lol style. 基于ET 8.1的双端C#游戏框架(.net8 + Unity6000, EUI+Luban+YooAsset)，包含战斗系统（技能/buff/行为树），内置LOL风格球球大战demo (today)
+- [iwiniwin/unity-remote-file-explorer](https://github.com/iwiniwin/unity-remote-file-explorer) - 一个跨平台的远程文件浏览器，使用户通过Unity Editor就能操作应用所运行平台上的目录文件。比如当项目打包运行到设备上时，可通过Remote File Explorer直接浏览设备上的目录文件，并进行下载，上传，删除等操作 (today)
+- [iwiniwin/LuaKit](https://github.com/iwiniwin/LuaKit) - Lua核心工具包，包含对面向对象，组件系统（灵活的绑定解绑模式），mvc分模块加载，事件分发系统等常用模式的封装。同时提供打印，内存泄漏检测，性能分析等常用工具类。 (today)
+- [mpplab/mnssp3](https://github.com/mpplab/mnssp3) (today)
+- [aidlearning/AidLearning-FrameWork](https://github.com/aidlearning/AidLearning-FrameWork) - 🔥🔥🔥AidLearning is a powerful AIOT development platform, AidLearning builds a linux env supporting GUI, deep learning and visual IDE on Android...Now Aid supports CPU+GPU+NPU for inference with high performance acceleration...Linux on Android or HarmonyOS  (today)
 
 ## 🔨 Latest Pull Requests I published
 
