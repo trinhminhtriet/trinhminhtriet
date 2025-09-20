@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [axilesoft/IM-for-UE5](https://github.com/axilesoft/IM-for-UE5) - MMD UE5 Importer (today)
-- [MedZed/Electron-Youtube-to-Mp3-Converter](https://github.com/MedZed/Electron-Youtube-to-Mp3-Converter) - Electron Youtube to Mp3 Converter and downloader  (today)
-- [LenzDu/Kaggle-Competition-Favorita](https://github.com/LenzDu/Kaggle-Competition-Favorita) - 5th place solution for Kaggle competition Favorita Grocery Sales Forecasting (today)
-- [coder2j/pyspark-tutorial](https://github.com/coder2j/pyspark-tutorial) - PySpark Tutorial for Beginners - Practical Examples in Jupyter Notebook with Spark version 3.4.1. The tutorial covers various topics like Spark Introduction, Spark Installation, Spark RDD Transformations and Actions, Spark DataFrame, Spark SQL, and more. It is completely free on YouTube and is beginner-friendly without any prerequisites. (today)
-- [coder2j/airflow-docker](https://github.com/coder2j/airflow-docker) - Source code of the Apache Airflow Tutorial for Beginners on YouTube Channel Coder2j (https://www.youtube.com/c/coder2j) (today)
+- [lisider/my_book](https://github.com/lisider/my_book) - 喜欢的技术书籍 (today)
+- [ex-zee-ex/VIDEO_WAAAVES_2.5_suite](https://github.com/ex-zee-ex/VIDEO_WAAAVES_2.5_suite) - a playground for video feedback synthesis (today)
+- [robbraxman/braxme](https://github.com/robbraxman/braxme) - Brax.Me - Privacy Focused Social Media - Fully operational platform (today)
+- [AvaLovelace1/BrickGPT](https://github.com/AvaLovelace1/BrickGPT) - Official repository for BrickGPT, the first approach for generating physically stable toy brick models from text prompts. (today)
+- [synfinatic/netflow2ng](https://github.com/synfinatic/netflow2ng) - NetFlow v9 collector for ntopng (today)
 
 ## 🔨 Latest Pull Requests I published
 
