@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [idavis/jetson-containers](https://github.com/idavis/jetson-containers) - Running CUDA containers on the Jetson platform (today)
-- [mahrtayyab/tweety](https://github.com/mahrtayyab/tweety) - Twitter Scraper (today)
-- [alt236/USB-Device-Info---Android](https://github.com/alt236/USB-Device-Info---Android) - This application will provide information about almost all currently plugged-in USB devices. (today)
-- [alt236/Bluetooth-LE-Library---Android](https://github.com/alt236/Bluetooth-LE-Library---Android) - This library allows for easy access to a Bluetooth LE device's AdRecord and RSSI value. It offers additional functionality for iBeacons. (today)
-- [Incipiens/DataToVideoEncoderDecoder](https://github.com/Incipiens/DataToVideoEncoderDecoder) (today)
+- [ellson/MOTHBALLED-graphviz](https://github.com/ellson/MOTHBALLED-graphviz) - Moved to https://gitlab.com/graphviz/graphviz (today)
+- [SingingData/StockPerformanceClassification](https://github.com/SingingData/StockPerformanceClassification) - Keras 1D CNN on Azure ML Workbench to classify 4 week stock performance based on text in public earnings statements (today)
+- [TastefulElk/iam-legend](https://github.com/TastefulElk/iam-legend) - IAM policy actions autocomplete, documentation & wildcard resolution for VS Code (today)
+- [stuartlangridge/hushboard](https://github.com/stuartlangridge/hushboard) - Mute your mic while you're typing. An app for Ubuntu. (today)
+- [stuartlangridge/ColourPicker](https://github.com/stuartlangridge/ColourPicker) - A colour picker app for Ubuntu and Linux which allows picking any colour on the screen (today)
 
 ## 🔨 Latest Pull Requests I published
 
