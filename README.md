@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [sarkarshuvojit](https://github.com/sarkarshuvojit)
 - [sphinxzerd](https://github.com/sphinxzerd)
 - [shashankgowda1144](https://github.com/shashankgowda1144)
 - [lavignes](https://github.com/lavignes)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [tkleisas](https://github.com/tkleisas)
 - [2hYan9](https://github.com/2hYan9)
 - [Ravindusasanka1](https://github.com/Ravindusasanka1)
-- [Deccatron](https://github.com/Deccatron)
 
 ## ⭐ Recent stars
 
