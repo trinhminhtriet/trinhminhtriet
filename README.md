@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [jigsawpieces/dog-api-images](https://github.com/jigsawpieces/dog-api-images) - Collection of all the images served from Dog API sorted by breed category (today)
-- [brokenloop/jsontopydantic](https://github.com/brokenloop/jsontopydantic) - Web tool for generating Pydantic models from JSON objects (today)
-- [deluan/zsh-in-docker](https://github.com/deluan/zsh-in-docker) - Install Zsh, Oh My Zsh and plugins inside a Docker container with one line! (today)
-- [vudung45/FaceRec](https://github.com/vudung45/FaceRec) - A Tensorflow implementation of Facial Recognition in Python (today)
-- [markus-wa/cq](https://github.com/markus-wa/cq) - Clojure Query: A Command-line Data Processor for JSON, YAML, EDN, XML and more (today)
+- [TrevorBarns/luxart-vehicle-control](https://github.com/TrevorBarns/luxart-vehicle-control) - A siren / (non-els) emergency lights controller for FiveM. (today)
+- [mascarenhas/alien](https://github.com/mascarenhas/alien) - A C FFI for Lua (today)
+- [devdupont/fastapi-beanie-jwt](https://github.com/devdupont/fastapi-beanie-jwt) - Sample FastAPI server with JWT auth and Beanie ODM (today)
+- [chrisdl/Django-QuerySet-Cheatsheet](https://github.com/chrisdl/Django-QuerySet-Cheatsheet) - A cheatsheet (or really more of a reference) for when I am solving the worlds problems in the Django shell (today)
+- [benhutchins/docker-taiga](https://github.com/benhutchins/docker-taiga) - Docker container for Taiga https://taiga.io (today)
 
 ## 🔨 Latest Pull Requests I published
 
