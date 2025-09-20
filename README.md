@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [howardmann/clean-node](https://github.com/howardmann/clean-node) - Clean Node Architecture (today)
-- [jesuispy/networking-101-gcp-sheet](https://github.com/jesuispy/networking-101-gcp-sheet) - This is a quick ref for general networking topics and google cloud networking stuff (today)
-- [viceroypenguin/RBush](https://github.com/viceroypenguin/RBush) - R-Tree Implementation for C# (today)
-- [mathieucarbou/license-maven-plugin](https://github.com/mathieucarbou/license-maven-plugin) - Manage license headers in your source files (today)
-- [JacopoMangiavacchi/MNIST-CoreML-Training](https://github.com/JacopoMangiavacchi/MNIST-CoreML-Training) - Training MNIST with CoreML on Device (today)
+- [gavinkhung/machine-learning-visualized](https://github.com/gavinkhung/machine-learning-visualized) - ML algorithms implemented and derived from first-principles in Jupyter Notebooks and NumPy (today)
+- [morrissinger/ESP8266-Websocket](https://github.com/morrissinger/ESP8266-Websocket) - A websocket library for the ESP-8266. (today)
+- [josefadamcik/SofleKeyboard](https://github.com/josefadamcik/SofleKeyboard) - A split keyboard based on Lily58, Crkbd and Helix keyboards (today)
+- [jichu4n/basic_wm](https://github.com/jichu4n/basic_wm) - An example basic X11 window manager. (today)
+- [thiago-sydow/controle-de-ponto](https://github.com/thiago-sydow/controle-de-ponto) - Controle pessoal para ponto eletrônico (today)
 
 ## 🔨 Latest Pull Requests I published
 
