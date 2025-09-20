@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [idavis/jetson-containers](https://github.com/idavis/jetson-containers) - Running CUDA containers on the Jetson platform (today)
+- [mahrtayyab/tweety](https://github.com/mahrtayyab/tweety) - Twitter Scraper (today)
 - [alt236/USB-Device-Info---Android](https://github.com/alt236/USB-Device-Info---Android) - This application will provide information about almost all currently plugged-in USB devices. (today)
 - [alt236/Bluetooth-LE-Library---Android](https://github.com/alt236/Bluetooth-LE-Library---Android) - This library allows for easy access to a Bluetooth LE device's AdRecord and RSSI value. It offers additional functionality for iBeacons. (today)
 - [Incipiens/DataToVideoEncoderDecoder](https://github.com/Incipiens/DataToVideoEncoderDecoder) (today)
-- [marcogdepinto/emotion-classification-from-audio-files](https://github.com/marcogdepinto/emotion-classification-from-audio-files) - Understanding emotions from audio files using neural networks and multiple datasets. (today)
-- [brianmaierjr/long-haul](https://github.com/brianmaierjr/long-haul) - A minimal, type-focused Jekyll theme. (today)
 
 ## 🔨 Latest Pull Requests I published
 
