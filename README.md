@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [gavinkhung/machine-learning-visualized](https://github.com/gavinkhung/machine-learning-visualized) - ML algorithms implemented and derived from first-principles in Jupyter Notebooks and NumPy (today)
-- [morrissinger/ESP8266-Websocket](https://github.com/morrissinger/ESP8266-Websocket) - A websocket library for the ESP-8266. (today)
-- [josefadamcik/SofleKeyboard](https://github.com/josefadamcik/SofleKeyboard) - A split keyboard based on Lily58, Crkbd and Helix keyboards (today)
-- [jichu4n/basic_wm](https://github.com/jichu4n/basic_wm) - An example basic X11 window manager. (today)
-- [thiago-sydow/controle-de-ponto](https://github.com/thiago-sydow/controle-de-ponto) - Controle pessoal para ponto eletrônico (today)
+- [RafaGS/Fritzing](https://github.com/RafaGS/Fritzing) - Elementos para Fritzing (today)
+- [lighthousand/books](https://github.com/lighthousand/books) - book list (today)
+- [gmoral/Books](https://github.com/gmoral/Books) (today)
+- [phplego/kotlinlang.ru](https://github.com/phplego/kotlinlang.ru) - Russian translation of Kotlin reference (today)
+- [krahabb/meross_lan](https://github.com/krahabb/meross_lan) - Home Assistant integration for Meross devices (today)
 
 ## 🔨 Latest Pull Requests I published
 
