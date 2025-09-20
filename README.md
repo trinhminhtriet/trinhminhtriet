@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [lisider/my_book](https://github.com/lisider/my_book) - 喜欢的技术书籍 (today)
-- [ex-zee-ex/VIDEO_WAAAVES_2.5_suite](https://github.com/ex-zee-ex/VIDEO_WAAAVES_2.5_suite) - a playground for video feedback synthesis (today)
-- [robbraxman/braxme](https://github.com/robbraxman/braxme) - Brax.Me - Privacy Focused Social Media - Fully operational platform (today)
-- [AvaLovelace1/BrickGPT](https://github.com/AvaLovelace1/BrickGPT) - Official repository for BrickGPT, the first approach for generating physically stable toy brick models from text prompts. (today)
-- [synfinatic/netflow2ng](https://github.com/synfinatic/netflow2ng) - NetFlow v9 collector for ntopng (today)
+- [alt236/USB-Device-Info---Android](https://github.com/alt236/USB-Device-Info---Android) - This application will provide information about almost all currently plugged-in USB devices. (today)
+- [alt236/Bluetooth-LE-Library---Android](https://github.com/alt236/Bluetooth-LE-Library---Android) - This library allows for easy access to a Bluetooth LE device's AdRecord and RSSI value. It offers additional functionality for iBeacons. (today)
+- [Incipiens/DataToVideoEncoderDecoder](https://github.com/Incipiens/DataToVideoEncoderDecoder) (today)
+- [marcogdepinto/emotion-classification-from-audio-files](https://github.com/marcogdepinto/emotion-classification-from-audio-files) - Understanding emotions from audio files using neural networks and multiple datasets. (today)
+- [brianmaierjr/long-haul](https://github.com/brianmaierjr/long-haul) - A minimal, type-focused Jekyll theme. (today)
 
 ## 🔨 Latest Pull Requests I published
 
