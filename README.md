@@ -48,7 +48,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 - [shashankgowda1144](https://github.com/shashankgowda1144)
 - [lavignes](https://github.com/lavignes)
-- [ishandutta2007](https://github.com/ishandutta2007)
 - [0824813690](https://github.com/0824813690)
 - [abhishekjoshi007](https://github.com/abhishekjoshi007)
 - [DIMFLIX](https://github.com/DIMFLIX)
@@ -56,14 +55,15 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [2hYan9](https://github.com/2hYan9)
 - [Ravindusasanka1](https://github.com/Ravindusasanka1)
 - [Deccatron](https://github.com/Deccatron)
+- [pasindusampath](https://github.com/pasindusampath)
 
 ## ⭐ Recent stars
 
-- [TrevorBarns/luxart-vehicle-control](https://github.com/TrevorBarns/luxart-vehicle-control) - A siren / (non-els) emergency lights controller for FiveM. (today)
-- [mascarenhas/alien](https://github.com/mascarenhas/alien) - A C FFI for Lua (today)
-- [devdupont/fastapi-beanie-jwt](https://github.com/devdupont/fastapi-beanie-jwt) - Sample FastAPI server with JWT auth and Beanie ODM (today)
-- [chrisdl/Django-QuerySet-Cheatsheet](https://github.com/chrisdl/Django-QuerySet-Cheatsheet) - A cheatsheet (or really more of a reference) for when I am solving the worlds problems in the Django shell (today)
-- [benhutchins/docker-taiga](https://github.com/benhutchins/docker-taiga) - Docker container for Taiga https://taiga.io (today)
+- [JacopoMangiavacchi/MNIST-CoreML-Training](https://github.com/JacopoMangiavacchi/MNIST-CoreML-Training) - Training MNIST with CoreML on Device (today)
+- [JacopoMangiavacchi/SwiftCoreMLTools](https://github.com/JacopoMangiavacchi/SwiftCoreMLTools) - A Swift library for creating and exporting CoreML Models in Swift (today)
+- [BNMetrics/logme](https://github.com/BNMetrics/logme) - Python Logging For Humans (Also supports configurable color logging for the terminal!) (today)
+- [zamtmn/zcad](https://github.com/zamtmn/zcad) - Simple CAD program (today)
+- [Xor-el/CryptoLib4Pascal](https://github.com/Xor-el/CryptoLib4Pascal) - Crypto for Modern Object Pascal (today)
 
 ## 🔨 Latest Pull Requests I published
 
