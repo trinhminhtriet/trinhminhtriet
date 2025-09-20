@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [shashankgowda1144](https://github.com/shashankgowda1144)
 - [lavignes](https://github.com/lavignes)
 - [ishandutta2007](https://github.com/ishandutta2007)
 - [0824813690](https://github.com/0824813690)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [2hYan9](https://github.com/2hYan9)
 - [Ravindusasanka1](https://github.com/Ravindusasanka1)
 - [Deccatron](https://github.com/Deccatron)
-- [pasindusampath](https://github.com/pasindusampath)
 
 ## ⭐ Recent stars
 
-- [ellson/MOTHBALLED-graphviz](https://github.com/ellson/MOTHBALLED-graphviz) - Moved to https://gitlab.com/graphviz/graphviz (today)
-- [SingingData/StockPerformanceClassification](https://github.com/SingingData/StockPerformanceClassification) - Keras 1D CNN on Azure ML Workbench to classify 4 week stock performance based on text in public earnings statements (today)
-- [TastefulElk/iam-legend](https://github.com/TastefulElk/iam-legend) - IAM policy actions autocomplete, documentation & wildcard resolution for VS Code (today)
-- [stuartlangridge/hushboard](https://github.com/stuartlangridge/hushboard) - Mute your mic while you're typing. An app for Ubuntu. (today)
-- [stuartlangridge/ColourPicker](https://github.com/stuartlangridge/ColourPicker) - A colour picker app for Ubuntu and Linux which allows picking any colour on the screen (today)
+- [jigsawpieces/dog-api-images](https://github.com/jigsawpieces/dog-api-images) - Collection of all the images served from Dog API sorted by breed category (today)
+- [brokenloop/jsontopydantic](https://github.com/brokenloop/jsontopydantic) - Web tool for generating Pydantic models from JSON objects (today)
+- [deluan/zsh-in-docker](https://github.com/deluan/zsh-in-docker) - Install Zsh, Oh My Zsh and plugins inside a Docker container with one line! (today)
+- [vudung45/FaceRec](https://github.com/vudung45/FaceRec) - A Tensorflow implementation of Facial Recognition in Python (today)
+- [markus-wa/cq](https://github.com/markus-wa/cq) - Clojure Query: A Command-line Data Processor for JSON, YAML, EDN, XML and more (today)
 
 ## 🔨 Latest Pull Requests I published
 
