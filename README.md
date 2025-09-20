@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [howardmann/clean-node](https://github.com/howardmann/clean-node) - Clean Node Architecture (today)
+- [jesuispy/networking-101-gcp-sheet](https://github.com/jesuispy/networking-101-gcp-sheet) - This is a quick ref for general networking topics and google cloud networking stuff (today)
+- [viceroypenguin/RBush](https://github.com/viceroypenguin/RBush) - R-Tree Implementation for C# (today)
+- [mathieucarbou/license-maven-plugin](https://github.com/mathieucarbou/license-maven-plugin) - Manage license headers in your source files (today)
 - [JacopoMangiavacchi/MNIST-CoreML-Training](https://github.com/JacopoMangiavacchi/MNIST-CoreML-Training) - Training MNIST with CoreML on Device (today)
-- [JacopoMangiavacchi/SwiftCoreMLTools](https://github.com/JacopoMangiavacchi/SwiftCoreMLTools) - A Swift library for creating and exporting CoreML Models in Swift (today)
-- [BNMetrics/logme](https://github.com/BNMetrics/logme) - Python Logging For Humans (Also supports configurable color logging for the terminal!) (today)
-- [zamtmn/zcad](https://github.com/zamtmn/zcad) - Simple CAD program (today)
-- [Xor-el/CryptoLib4Pascal](https://github.com/Xor-el/CryptoLib4Pascal) - Crypto for Modern Object Pascal (today)
 
 ## 🔨 Latest Pull Requests I published
 
