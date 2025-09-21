@@ -49,13 +49,13 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [ishandutta2007](https://github.com/ishandutta2007)
 - [Yvngjunior](https://github.com/Yvngjunior)
 - [ayoubm11](https://github.com/ayoubm11)
-- [sarkarshuvojit](https://github.com/sarkarshuvojit)
 - [sphinxzerd](https://github.com/sphinxzerd)
 - [shashankgowda1144](https://github.com/shashankgowda1144)
 - [lavignes](https://github.com/lavignes)
 - [0824813690](https://github.com/0824813690)
 - [abhishekjoshi007](https://github.com/abhishekjoshi007)
 - [DIMFLIX](https://github.com/DIMFLIX)
+- [tkleisas](https://github.com/tkleisas)
 
 ## ⭐ Recent stars
 
