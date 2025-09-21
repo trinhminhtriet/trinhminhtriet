@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [bfirsh/dynamicaudio.js](https://github.com/bfirsh/dynamicaudio.js) - An interface for the Web Audio API with a Flash shim for older browsers (today)
-- [bfirsh/funker](https://github.com/bfirsh/funker) - Functions as Docker containers (today)
-- [tholman/buddy](https://github.com/tholman/buddy) - Chrome extension, and friend from hell (today)
-- [tholman/smelvetica](https://github.com/tholman/smelvetica) - Sorry y'all, got a takedown from monotype. (today)
-- [tholman/tileJs](https://github.com/tholman/tileJs) - Windows Metro Tiles with css3 and javascript (today)
+- [MaskRay/ElfHacks](https://github.com/MaskRay/ElfHacks) - Dive into ELF files using simple self-contained examples (today)
+- [MaskRay/Config](https://github.com/MaskRay/Config) - My config for gentoo linux, xmonad, vim, emacs, git, mutt, newsbeuter, tmux, pentadactyl, npm, idesk, xbindkeys, ... (today)
+- [johnnynunez/XiaomiGaming](https://github.com/johnnynunez/XiaomiGaming) - i7-8750h (today)
+- [johnnynunez/Xiaomi-Notebook-Air-1Gen](https://github.com/johnnynunez/Xiaomi-Notebook-Air-1Gen) - Xiaomi Notebook Air 1rst Gen (today)
+- [johnnynunez/Xiaomi-Mi-Air](https://github.com/johnnynunez/Xiaomi-Mi-Air) - Xiaomi Mi Air 13.3" 2018 (today)
 
 ## 🔨 Latest Pull Requests I published
 
