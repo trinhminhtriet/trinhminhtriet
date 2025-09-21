@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [lucidrains/MIMO-pytorch](https://github.com/lucidrains/MIMO-pytorch) - Pytorch implementation of MIMO, Controllable Character Video Synthesis with Spatial Decomposed Modeling, from Alibaba Intelligence Group (today)
-- [lucidrains/improving-transformers-world-model-for-rl](https://github.com/lucidrains/improving-transformers-world-model-for-rl) - Implementation of the new SOTA for model based RL, from the paper "Improving Transformer World Models for Data-Efficient RL", in Pytorch (today)
-- [lucidrains/STAM-pytorch](https://github.com/lucidrains/STAM-pytorch) - Implementation of STAM (Space Time Attention Model), a pure and simple attention model that reaches SOTA for video classification (today)
-- [lucidrains/nystrom-attention](https://github.com/lucidrains/nystrom-attention) - Implementation of Nyström Self-attention, from the paper Nyströmformer (today)
-- [lucidrains/ddpm-proteins](https://github.com/lucidrains/ddpm-proteins) - A denoising diffusion probabilistic model (DDPM) tailored for conditional generation of protein distograms (today)
+- [bfirsh/dynamicaudio.js](https://github.com/bfirsh/dynamicaudio.js) - An interface for the Web Audio API with a Flash shim for older browsers (today)
+- [bfirsh/funker](https://github.com/bfirsh/funker) - Functions as Docker containers (today)
+- [tholman/buddy](https://github.com/tholman/buddy) - Chrome extension, and friend from hell (today)
+- [tholman/smelvetica](https://github.com/tholman/smelvetica) - Sorry y'all, got a takedown from monotype. (today)
+- [tholman/tileJs](https://github.com/tholman/tileJs) - Windows Metro Tiles with css3 and javascript (today)
 
 ## 🔨 Latest Pull Requests I published
 
