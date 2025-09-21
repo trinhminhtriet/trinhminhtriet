@@ -33,19 +33,20 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👷 Check out what I'm currently working on
 
-- [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) - 🚀 All-in-one CLI toolkit for developers: scaffold, manage, automate, and boost productivity across languages! (3 days ago)
-- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (3 days ago)
-- [lamhaison/aws-cli-utils](https://github.com/lamhaison/aws-cli-utils) - This is the project to collect helpful aws cli commandline with complex options to support your working (3 days ago)
+- [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) - 🚀 All-in-one CLI toolkit for developers: scaffold, manage, automate, and boost productivity across languages! (4 days ago)
+- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (4 days ago)
+- [lamhaison/aws-cli-utils](https://github.com/lamhaison/aws-cli-utils) - This is the project to collect helpful aws cli commandline with complex options to support your working (4 days ago)
 - [trinhminhtriet/dwipe](https://github.com/trinhminhtriet/dwipe) - 🧹 Fast, cross-platform disk cleanup tool with interactive UI for easy directory size visualization. (2 weeks ago)
 - [nctl-io/nctl-roadmap](https://github.com/nctl-io/nctl-roadmap) (3 weeks ago)
 - [nctl-io/.github](https://github.com/nctl-io/.github) - 🌐 Network. Connect. Transform. Lead. (3 weeks ago)
 - [nctl-io/nctl-homepage](https://github.com/nctl-io/nctl-homepage) - 🚀 Modern homepage for NCTL: fast, responsive, TypeScript-powered, open source, and easy to customize. (3 weeks ago)
 - [nctl-io/nctl-branding](https://github.com/nctl-io/nctl-branding) - NCTL Branding 🖼️: Centralized assets and guidelines for consistent visual identity across NCTL projects and platforms. (3 weeks ago)
 - [trinhminhtriet/sizr](https://github.com/trinhminhtriet/sizr) - 📈 A fast, Rust-based tool to analyze file system usage with colorful output, file aggregation, exclusions, and directory comparisons. (3 weeks ago)
-- [rust-rs/tabler](https://github.com/rust-rs/tabler) - 📊 Tabler: A lightweight TUI tool to view, query, and navigate CSV, TSV, and Parquet data files. (3 weeks ago)
+- [rust-rs/tabler](https://github.com/rust-rs/tabler) - 📊 Tabler: A lightweight TUI tool to view, query, and navigate CSV, TSV, and Parquet data files. (4 weeks ago)
 
 ## 👯 Check out my recent followers
 
+- [ishandutta2007](https://github.com/ishandutta2007)
 - [Yvngjunior](https://github.com/Yvngjunior)
 - [ayoubm11](https://github.com/ayoubm11)
 - [sarkarshuvojit](https://github.com/sarkarshuvojit)
@@ -55,17 +56,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [0824813690](https://github.com/0824813690)
 - [abhishekjoshi007](https://github.com/abhishekjoshi007)
 - [DIMFLIX](https://github.com/DIMFLIX)
-- [tkleisas](https://github.com/tkleisas)
 
 ## ⭐ Recent stars
 
-- [RafaGS/Fritzing](https://github.com/RafaGS/Fritzing) - Elementos para Fritzing (today)
-- [lighthousand/books](https://github.com/lighthousand/books) - book list (today)
-- [gmoral/Books](https://github.com/gmoral/Books) (today)
-- [phplego/kotlinlang.ru](https://github.com/phplego/kotlinlang.ru) - Russian translation of Kotlin reference (today)
-- [krahabb/meross_lan](https://github.com/krahabb/meross_lan) - Home Assistant integration for Meross devices (today)
+- [RafaGS/Fritzing](https://github.com/RafaGS/Fritzing) - Elementos para Fritzing (1 day ago)
+- [lighthousand/books](https://github.com/lighthousand/books) - book list (1 day ago)
+- [gmoral/Books](https://github.com/gmoral/Books) (1 day ago)
+- [phplego/kotlinlang.ru](https://github.com/phplego/kotlinlang.ru) - Russian translation of Kotlin reference (1 day ago)
+- [krahabb/meross_lan](https://github.com/krahabb/meross_lan) - Home Assistant integration for Meross devices (1 day ago)
 
 ## 🔨 Latest Pull Requests I published
 
-- [Add global git configuration and implement note management CLI](https://github.com/trinhminhtriet/DevPilot/pull/9) on [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) (4 days ago)
-- [[Fix] - correct spelling of 'credential' in README and assume_role.sh](https://github.com/lamhaison/aws-cli-utils/pull/34) on [lamhaison/aws-cli-utils](https://github.com/lamhaison/aws-cli-utils) (4 days ago)
+- [Add global git configuration and implement note management CLI](https://github.com/trinhminhtriet/DevPilot/pull/9) on [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) (5 days ago)
+- [[Fix] - correct spelling of 'credential' in README and assume_role.sh](https://github.com/lamhaison/aws-cli-utils/pull/34) on [lamhaison/aws-cli-utils](https://github.com/lamhaison/aws-cli-utils) (5 days ago)
