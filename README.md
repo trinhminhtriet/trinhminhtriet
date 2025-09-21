@@ -33,8 +33,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👷 Check out what I'm currently working on
 
+- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (today)
 - [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) - 🚀 All-in-one CLI toolkit for developers: scaffold, manage, automate, and boost productivity across languages! (4 days ago)
-- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (4 days ago)
 - [lamhaison/aws-cli-utils](https://github.com/lamhaison/aws-cli-utils) - This is the project to collect helpful aws cli commandline with complex options to support your working (4 days ago)
 - [trinhminhtriet/dwipe](https://github.com/trinhminhtriet/dwipe) - 🧹 Fast, cross-platform disk cleanup tool with interactive UI for easy directory size visualization. (2 weeks ago)
 - [nctl-io/nctl-roadmap](https://github.com/nctl-io/nctl-roadmap) (3 weeks ago)
@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [JupiterMouse/data-lineage-parent](https://github.com/JupiterMouse/data-lineage-parent) - 解析SQL，获取字段、表级别的血缘关系。转换成血缘模型，在图数据库neo4j上呈现。 (today)
-- [Alcatraz323/audiohq_module](https://github.com/Alcatraz323/audiohq_module) - Provide binary and apk for controlling each applications volume using Magisk (today)
-- [kghost/bilibili-area-limit](https://github.com/kghost/bilibili-area-limit) - Bilibili 港澳台, 解除区域限制 (today)
-- [redknotmiaoyuqiao/YouTranser](https://github.com/redknotmiaoyuqiao/YouTranser) (today)
-- [redknotmiaoyuqiao/Fractal](https://github.com/redknotmiaoyuqiao/Fractal) - 生成好看的Fractal图形 (today)
+- [ycq091044/BIOT](https://github.com/ycq091044/BIOT) - NeurIPS2023 - A generic biosignal learning framework. Large EEG pre-trained models. (today)
+- [windirstat/windirstat](https://github.com/windirstat/windirstat) - WinDirStat is a disk usage statistics viewer and cleanup tool for Microsoft Windows (today)
+- [mostafacs/ecommerce-microservices-spring-reactive-webflux](https://github.com/mostafacs/ecommerce-microservices-spring-reactive-webflux) - E-commerce demo with spring reactive webflux and spring cloud microservice (today)
+- [king-yyf/CMeKG_tools](https://github.com/king-yyf/CMeKG_tools) (today)
+- [Nardien/agent-distillation](https://github.com/Nardien/agent-distillation) - Official Code Repository for the paper "Distilling LLM Agent into Small Models with Retrieval and Code Tools" (today)
 
 ## 🔨 Latest Pull Requests I published
 
