@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [MaskRay/ElfHacks](https://github.com/MaskRay/ElfHacks) - Dive into ELF files using simple self-contained examples (today)
-- [MaskRay/Config](https://github.com/MaskRay/Config) - My config for gentoo linux, xmonad, vim, emacs, git, mutt, newsbeuter, tmux, pentadactyl, npm, idesk, xbindkeys, ... (today)
-- [johnnynunez/XiaomiGaming](https://github.com/johnnynunez/XiaomiGaming) - i7-8750h (today)
-- [johnnynunez/Xiaomi-Notebook-Air-1Gen](https://github.com/johnnynunez/Xiaomi-Notebook-Air-1Gen) - Xiaomi Notebook Air 1rst Gen (today)
-- [johnnynunez/Xiaomi-Mi-Air](https://github.com/johnnynunez/Xiaomi-Mi-Air) - Xiaomi Mi Air 13.3" 2018 (today)
+- [pcaversaccio/white-hat-frontrunning](https://github.com/pcaversaccio/white-hat-frontrunning) - White hat frontrunning script to outpace hackers and secure funds from compromised wallets. (today)
+- [pcaversaccio/hardhat-project-template-ts](https://github.com/pcaversaccio/hardhat-project-template-ts) - A fully-fledged Hardhat project template based on TypeScript. (today)
+- [pcaversaccio/create2deployer](https://github.com/pcaversaccio/create2deployer) - Helper smart contract to make easier and safer usage of the `CREATE2` EVM opcode. (today)
+- [pcaversaccio/safe-tx-hashes-util](https://github.com/pcaversaccio/safe-tx-hashes-util) - This Bash script calculates the Safe transaction hashes by retrieving transaction details from the Safe transaction service API and computing both the domain and message hashes using the EIP-712 standard. (today)
+- [pcaversaccio/xdeployer](https://github.com/pcaversaccio/xdeployer) - Hardhat plugin to deploy your smart contracts across multiple EVM chains with the same deterministic address. (today)
 
 ## 🔨 Latest Pull Requests I published
 
