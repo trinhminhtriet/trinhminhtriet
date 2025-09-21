@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [ycq091044/BIOT](https://github.com/ycq091044/BIOT) - NeurIPS2023 - A generic biosignal learning framework. Large EEG pre-trained models. (today)
-- [windirstat/windirstat](https://github.com/windirstat/windirstat) - WinDirStat is a disk usage statistics viewer and cleanup tool for Microsoft Windows (today)
-- [mostafacs/ecommerce-microservices-spring-reactive-webflux](https://github.com/mostafacs/ecommerce-microservices-spring-reactive-webflux) - E-commerce demo with spring reactive webflux and spring cloud microservice (today)
-- [king-yyf/CMeKG_tools](https://github.com/king-yyf/CMeKG_tools) (today)
-- [Nardien/agent-distillation](https://github.com/Nardien/agent-distillation) - Official Code Repository for the paper "Distilling LLM Agent into Small Models with Retrieval and Code Tools" (today)
+- [lucidrains/MIMO-pytorch](https://github.com/lucidrains/MIMO-pytorch) - Pytorch implementation of MIMO, Controllable Character Video Synthesis with Spatial Decomposed Modeling, from Alibaba Intelligence Group (today)
+- [lucidrains/improving-transformers-world-model-for-rl](https://github.com/lucidrains/improving-transformers-world-model-for-rl) - Implementation of the new SOTA for model based RL, from the paper "Improving Transformer World Models for Data-Efficient RL", in Pytorch (today)
+- [lucidrains/STAM-pytorch](https://github.com/lucidrains/STAM-pytorch) - Implementation of STAM (Space Time Attention Model), a pure and simple attention model that reaches SOTA for video classification (today)
+- [lucidrains/nystrom-attention](https://github.com/lucidrains/nystrom-attention) - Implementation of Nyström Self-attention, from the paper Nyströmformer (today)
+- [lucidrains/ddpm-proteins](https://github.com/lucidrains/ddpm-proteins) - A denoising diffusion probabilistic model (DDPM) tailored for conditional generation of protein distograms (today)
 
 ## 🔨 Latest Pull Requests I published
 
