@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [RafaGS/Fritzing](https://github.com/RafaGS/Fritzing) - Elementos para Fritzing (1 day ago)
-- [lighthousand/books](https://github.com/lighthousand/books) - book list (1 day ago)
-- [gmoral/Books](https://github.com/gmoral/Books) (1 day ago)
-- [phplego/kotlinlang.ru](https://github.com/phplego/kotlinlang.ru) - Russian translation of Kotlin reference (1 day ago)
-- [krahabb/meross_lan](https://github.com/krahabb/meross_lan) - Home Assistant integration for Meross devices (1 day ago)
+- [NanoMichael/MicroTeX](https://github.com/NanoMichael/MicroTeX) - A dynamic, cross-platform, and embeddable LaTeX rendering library (today)
+- [kuaidi100-api/java-demo](https://github.com/kuaidi100-api/java-demo) - 快递100API-Java快递查询接口主要应用在电商商城、ERP系统商、WMS系统商、独立站电商卖家、银行等企业。本Java快递查询接口目录提供：快递单号查询API接口、快递电子面单接口、寄快递接口、同城配送接口、快递地图跟踪接口等Java demo。接入只需要跟随Java快递查询接口示例即可，如需帮助，请点击下方官网链接，官网技术人员会免费帮助您接入接口。快递100API开放平台与国内外3000+快递公司合作提供快递单号查询API接口，快递电子面单接口，寄快递接口，快递地图跟踪接口等电商运营必备的物流快递工具. (today)
+- [panyongwei/ngrok](https://github.com/panyongwei/ngrok) (today)
+- [jack15083/laravel-admin](https://github.com/jack15083/laravel-admin) - 基于laravel + vue + element ui 的后台管理系统，自带权限管理系统 (today)
+- [Echosong/ES](https://github.com/Echosong/ES) - Minimalism php web framework (today)
 
 ## 🔨 Latest Pull Requests I published
 
