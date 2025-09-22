@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [gianni-rosato/aviator](https://github.com/gianni-rosato/aviator) - A lightweight, Flatpak-first, easy-to-use GUI utility for encoding with SVT-AV1 & Opus. (today)
-- [cnguyen10/few_shot_meta_learning](https://github.com/cnguyen10/few_shot_meta_learning) - Implementations of many meta-learning algorithms to solve the few-shot learning problem in Pytorch (today)
-- [vignywang/Awesome-Local-Feature-Matching](https://github.com/vignywang/Awesome-Local-Feature-Matching) (today)
-- [tonyngjichun/SOLAR](https://github.com/tonyngjichun/SOLAR) - PyTorch code for "SOLAR: Second-Order Loss and Attention for Image Retrieval". In ECCV 2020 (today)
-- [TMaize/tmaize-blog](https://github.com/TMaize/tmaize-blog) - 一款jekyll主题，简洁纯净，支持自适应，支持夜间模式 (today)
+- [razayunus/ManhattanSLAM](https://github.com/razayunus/ManhattanSLAM) - A Planar RGB-D SLAM which utilizes Manhattan World structure to provide optimal camera pose trajectory while also providing a sparse reconstruction containing points, lines and planes, and a dense surfel-based reconstruction. (today)
+- [Thmen/EGVSR](https://github.com/Thmen/EGVSR) - Efficient & Generic Video Super-Resolution (today)
+- [CryhanFang/CLIP2Video](https://github.com/CryhanFang/CLIP2Video) (today)
+- [JiaRenChang/RealtimeStereo](https://github.com/JiaRenChang/RealtimeStereo) - Attention-Aware Feature Aggregation for Real-time Stereo Matching on Edge Devices (ACCV, 2020) (today)
+- [JiaRenChang/PSMNet](https://github.com/JiaRenChang/PSMNet) - Pyramid Stereo Matching Network (CVPR2018) (today)
 
 ## 🔨 Latest Pull Requests I published
 
