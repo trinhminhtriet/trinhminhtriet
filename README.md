@@ -59,13 +59,12 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [zerothi/sisl](https://github.com/zerothi/sisl) - Electronic structure Python package for post analysis and large scale tight-binding DFT/NEGF calculations (today)
-- [KangLiao929/Awesome-Deep-Camera-Calibration](https://github.com/KangLiao929/Awesome-Deep-Camera-Calibration) - Deep Learning for Camera Calibration and Beyond: A Survey (today)
-- [ZeLianWen/Image-Registration](https://github.com/ZeLianWen/Image-Registration) - Image registration algorithm. Includes SIFT, SAR-SIFT,PSO-SIFT. (today)
-- [blademainer/miwifi-ss](https://github.com/blademainer/miwifi-ss) - 小米路由 ss (today)
-- [guenchi/Darkart](https://github.com/guenchi/Darkart) - A binary interface let Chez Scheme use Python, Lua, Ruby etc's library (today)
+- [yxlllc/DDSP-SVC](https://github.com/yxlllc/DDSP-SVC) - Real-time end-to-end singing voice conversion system based on DDSP (Differentiable Digital Signal Processing) (today)
+- [njpipeorgan/wolfram-language-notebook](https://github.com/njpipeorgan/wolfram-language-notebook) - Notebook support for Wolfram Language in VS Code (today)
+- [TieBaMma/InstallTutorial](https://github.com/TieBaMma/InstallTutorial) (today)
+- [fabridamicelli/kuramoto](https://github.com/fabridamicelli/kuramoto) - Python implementation of the Kuramoto model (today)
+- [iShareStuff/ZoteroTheme](https://github.com/iShareStuff/ZoteroTheme) - ZoteroTheme Plugin (today)
 
 ## 🔨 Latest Pull Requests I published
 
 - [Add global git configuration and implement note management CLI](https://github.com/trinhminhtriet/DevPilot/pull/9) on [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) (6 days ago)
-- [[Fix] - correct spelling of 'credential' in README and assume_role.sh](https://github.com/lamhaison/aws-cli-utils/pull/34) on [lamhaison/aws-cli-utils](https://github.com/lamhaison/aws-cli-utils) (6 days ago)
