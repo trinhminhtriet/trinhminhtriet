@@ -33,24 +33,24 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👷 Check out what I'm currently working on
 
-- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (today)
-- [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) - 🚀 All-in-one CLI toolkit for developers: scaffold, manage, automate, and boost productivity across languages! (4 days ago)
-- [lamhaison/aws-cli-utils](https://github.com/lamhaison/aws-cli-utils) - This is the project to collect helpful aws cli commandline with complex options to support your working (4 days ago)
+- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (1 day ago)
+- [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) - 🚀 All-in-one CLI toolkit for developers: scaffold, manage, automate, and boost productivity across languages! (5 days ago)
+- [lamhaison/aws-cli-utils](https://github.com/lamhaison/aws-cli-utils) - This is the project to collect helpful aws cli commandline with complex options to support your working (5 days ago)
 - [trinhminhtriet/dwipe](https://github.com/trinhminhtriet/dwipe) - 🧹 Fast, cross-platform disk cleanup tool with interactive UI for easy directory size visualization. (2 weeks ago)
 - [nctl-io/nctl-roadmap](https://github.com/nctl-io/nctl-roadmap) (3 weeks ago)
 - [nctl-io/.github](https://github.com/nctl-io/.github) - 🌐 Network. Connect. Transform. Lead. (3 weeks ago)
 - [nctl-io/nctl-homepage](https://github.com/nctl-io/nctl-homepage) - 🚀 Modern homepage for NCTL: fast, responsive, TypeScript-powered, open source, and easy to customize. (3 weeks ago)
 - [nctl-io/nctl-branding](https://github.com/nctl-io/nctl-branding) - NCTL Branding 🖼️: Centralized assets and guidelines for consistent visual identity across NCTL projects and platforms. (3 weeks ago)
-- [trinhminhtriet/sizr](https://github.com/trinhminhtriet/sizr) - 📈 A fast, Rust-based tool to analyze file system usage with colorful output, file aggregation, exclusions, and directory comparisons. (3 weeks ago)
+- [trinhminhtriet/sizr](https://github.com/trinhminhtriet/sizr) - 📈 A fast, Rust-based tool to analyze file system usage with colorful output, file aggregation, exclusions, and directory comparisons. (4 weeks ago)
 - [rust-rs/tabler](https://github.com/rust-rs/tabler) - 📊 Tabler: A lightweight TUI tool to view, query, and navigate CSV, TSV, and Parquet data files. (4 weeks ago)
 
 ## 👯 Check out my recent followers
 
+- [flumiie](https://github.com/flumiie)
 - [PEPAXD](https://github.com/PEPAXD)
 - [MmdBay](https://github.com/MmdBay)
 - [codemonkey0612](https://github.com/codemonkey0612)
 - [IXkosay](https://github.com/IXkosay)
-- [ishandutta2007](https://github.com/ishandutta2007)
 - [Yvngjunior](https://github.com/Yvngjunior)
 - [ayoubm11](https://github.com/ayoubm11)
 - [sphinxzerd](https://github.com/sphinxzerd)
@@ -59,13 +59,13 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [pcaversaccio/white-hat-frontrunning](https://github.com/pcaversaccio/white-hat-frontrunning) - White hat frontrunning script to outpace hackers and secure funds from compromised wallets. (today)
-- [pcaversaccio/hardhat-project-template-ts](https://github.com/pcaversaccio/hardhat-project-template-ts) - A fully-fledged Hardhat project template based on TypeScript. (today)
-- [pcaversaccio/create2deployer](https://github.com/pcaversaccio/create2deployer) - Helper smart contract to make easier and safer usage of the `CREATE2` EVM opcode. (today)
-- [pcaversaccio/safe-tx-hashes-util](https://github.com/pcaversaccio/safe-tx-hashes-util) - This Bash script calculates the Safe transaction hashes by retrieving transaction details from the Safe transaction service API and computing both the domain and message hashes using the EIP-712 standard. (today)
-- [pcaversaccio/xdeployer](https://github.com/pcaversaccio/xdeployer) - Hardhat plugin to deploy your smart contracts across multiple EVM chains with the same deterministic address. (today)
+- [pcaversaccio/white-hat-frontrunning](https://github.com/pcaversaccio/white-hat-frontrunning) - White hat frontrunning script to outpace hackers and secure funds from compromised wallets. (1 day ago)
+- [pcaversaccio/hardhat-project-template-ts](https://github.com/pcaversaccio/hardhat-project-template-ts) - A fully-fledged Hardhat project template based on TypeScript. (1 day ago)
+- [pcaversaccio/create2deployer](https://github.com/pcaversaccio/create2deployer) - Helper smart contract to make easier and safer usage of the `CREATE2` EVM opcode. (1 day ago)
+- [pcaversaccio/safe-tx-hashes-util](https://github.com/pcaversaccio/safe-tx-hashes-util) - This Bash script calculates the Safe transaction hashes by retrieving transaction details from the Safe transaction service API and computing both the domain and message hashes using the EIP-712 standard. (1 day ago)
+- [pcaversaccio/xdeployer](https://github.com/pcaversaccio/xdeployer) - Hardhat plugin to deploy your smart contracts across multiple EVM chains with the same deterministic address. (1 day ago)
 
 ## 🔨 Latest Pull Requests I published
 
-- [Add global git configuration and implement note management CLI](https://github.com/trinhminhtriet/DevPilot/pull/9) on [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) (5 days ago)
-- [[Fix] - correct spelling of 'credential' in README and assume_role.sh](https://github.com/lamhaison/aws-cli-utils/pull/34) on [lamhaison/aws-cli-utils](https://github.com/lamhaison/aws-cli-utils) (5 days ago)
+- [Add global git configuration and implement note management CLI](https://github.com/trinhminhtriet/DevPilot/pull/9) on [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) (6 days ago)
+- [[Fix] - correct spelling of 'credential' in README and assume_role.sh](https://github.com/lamhaison/aws-cli-utils/pull/34) on [lamhaison/aws-cli-utils](https://github.com/lamhaison/aws-cli-utils) (6 days ago)
