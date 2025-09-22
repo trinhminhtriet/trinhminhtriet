@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [BEPb](https://github.com/BEPb)
 - [ishandutta2007](https://github.com/ishandutta2007)
 - [flumiie](https://github.com/flumiie)
 - [PEPAXD](https://github.com/PEPAXD)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Yvngjunior](https://github.com/Yvngjunior)
 - [ayoubm11](https://github.com/ayoubm11)
 - [sphinxzerd](https://github.com/sphinxzerd)
-- [lavignes](https://github.com/lavignes)
 
 ## ⭐ Recent stars
 
-- [pcaversaccio/white-hat-frontrunning](https://github.com/pcaversaccio/white-hat-frontrunning) - White hat frontrunning script to outpace hackers and secure funds from compromised wallets. (1 day ago)
-- [pcaversaccio/hardhat-project-template-ts](https://github.com/pcaversaccio/hardhat-project-template-ts) - A fully-fledged Hardhat project template based on TypeScript. (1 day ago)
-- [pcaversaccio/create2deployer](https://github.com/pcaversaccio/create2deployer) - Helper smart contract to make easier and safer usage of the `CREATE2` EVM opcode. (1 day ago)
-- [pcaversaccio/safe-tx-hashes-util](https://github.com/pcaversaccio/safe-tx-hashes-util) - This Bash script calculates the Safe transaction hashes by retrieving transaction details from the Safe transaction service API and computing both the domain and message hashes using the EIP-712 standard. (1 day ago)
-- [pcaversaccio/xdeployer](https://github.com/pcaversaccio/xdeployer) - Hardhat plugin to deploy your smart contracts across multiple EVM chains with the same deterministic address. (1 day ago)
+- [leondgarse/Keras_insightface](https://github.com/leondgarse/Keras_insightface) - Insightface Keras implementation (today)
+- [leondgarse/keras_cv_attention_models](https://github.com/leondgarse/keras_cv_attention_models) - Keras beit,caformer,CMT,CoAtNet,convnext,davit,dino,efficientdet,edgenext,efficientformer,efficientnet,eva,fasternet,fastervit,fastvit,flexivit,gcvit,ghostnet,gpvit,hornet,hiera,iformer,inceptionnext,lcnet,levit,maxvit,mobilevit,moganet,nat,nfnets,pvt,swin,tinynet,tinyvit,uniformer,volo,vanillanet,yolor,yolov7,yolov8,yolox,gpt2,llama2, alias kecam (today)
+- [xiaoxiong74/rasa_chatbot](https://github.com/xiaoxiong74/rasa_chatbot) - 基于rasa_nlu，rasa_core，rasa_core_sdk构建的聊天机器人 (today)
+- [xiaoxiong74/Cool-NLPCV](https://github.com/xiaoxiong74/Cool-NLPCV) - Some Cool NLP and CV Repositories and Solutions （收集NLP中常见任务的开源解决方案、数据集、工具、学习资料等） (today)
+- [xiaoxiong74/face-cluster-by-infomap](https://github.com/xiaoxiong74/face-cluster-by-infomap) - face-cluster-by-infomap 一种无监督人脸聚类方法，在开源数据集上取得SOTA效果 (today)
 
 ## 🔨 Latest Pull Requests I published
 
