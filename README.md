@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [ExponentialML/Video-BLIP2-Preprocessor](https://github.com/ExponentialML/Video-BLIP2-Preprocessor) - A simple script that reads a directory of videos, grabs a random frame,  and automatically discovers a prompt for it (today)
-- [ExponentialML/Text-To-Video-Finetuning](https://github.com/ExponentialML/Text-To-Video-Finetuning) - Finetune ModelScope's Text To Video model using Diffusers 🧨 (today)
-- [ExponentialML/ComfyUI_VisualStylePrompting](https://github.com/ExponentialML/ComfyUI_VisualStylePrompting) - ComfyUI Version of "Visual Style Prompting with Swapping Self-Attention" (today)
-- [ExponentialML/ComfyUI_ELLA](https://github.com/ExponentialML/ComfyUI_ELLA) - ComfyUI Implementaion of ELLA: Equip Diffusion Models with LLM for Enhanced Semantic Alignment (today)
-- [ExponentialML/AnimateDiff-MotionDirector](https://github.com/ExponentialML/AnimateDiff-MotionDirector) - MotionDirector Training For AnimateDiff. Train a MotionLoRA and run it on any compatible AnimateDiff UI. (today)
+- [guivr/cssbuttons](https://github.com/guivr/cssbuttons) - Buttons For The Web  (today)
+- [tkuanlun350/3DUnet-Tensorflow-Brats18](https://github.com/tkuanlun350/3DUnet-Tensorflow-Brats18) - 3D Unet biomedical segmentation model powered by tensorpack with fast io speed (today)
+- [tkuanlun350/Tensorflow-SegNet](https://github.com/tkuanlun350/Tensorflow-SegNet) - Implement slightly different caffe-segnet in tensorflow (today)
+- [yihua7/NeRF-Texture](https://github.com/yihua7/NeRF-Texture) - [SIGGRAPH 2023, TPAMI 2024] Code for NeRF-Texture: Texture Synthesis with Neural Radiance Fields (today)
+- [Leliana/WhatsThis](https://github.com/Leliana/WhatsThis) (today)
 
 ## 🔨 Latest Pull Requests I published
 
