@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [PeterFWS/Structure-PLP-SLAM](https://github.com/PeterFWS/Structure-PLP-SLAM) - [ICRA'23] The official Implementation of "Structure PLP-SLAM: Efficient Sparse Mapping and Localization using Point, Line and Plane for Monocular, RGB-D and Stereo Cameras" (today)
-- [cavalli1234/AdaLAM](https://github.com/cavalli1234/AdaLAM) - AdaLAM is a fully handcrafted realtime outlier filter integrating several best practices into a single efficient and effective framework. It detects inliers by searching for significant local affine patterns in image correspondences. (today)
-- [andresprados/SPIGA](https://github.com/andresprados/SPIGA) - SPIGA: Shape Preserving Facial Landmarks with Graph Attention Networks. (today)
-- [mtamburrano/LBD_Descriptor](https://github.com/mtamburrano/LBD_Descriptor) (today)
-- [FadyMorris/formula-sheets](https://github.com/FadyMorris/formula-sheets) - A repository for mathematics, machine learning and deep learning formula sheets created by Fady Morris (today)
+- [gianni-rosato/aviator](https://github.com/gianni-rosato/aviator) - A lightweight, Flatpak-first, easy-to-use GUI utility for encoding with SVT-AV1 & Opus. (today)
+- [cnguyen10/few_shot_meta_learning](https://github.com/cnguyen10/few_shot_meta_learning) - Implementations of many meta-learning algorithms to solve the few-shot learning problem in Pytorch (today)
+- [vignywang/Awesome-Local-Feature-Matching](https://github.com/vignywang/Awesome-Local-Feature-Matching) (today)
+- [tonyngjichun/SOLAR](https://github.com/tonyngjichun/SOLAR) - PyTorch code for "SOLAR: Second-Order Loss and Attention for Image Retrieval". In ECCV 2020 (today)
+- [TMaize/tmaize-blog](https://github.com/TMaize/tmaize-blog) - 一款jekyll主题，简洁纯净，支持自适应，支持夜间模式 (today)
 
 ## 🔨 Latest Pull Requests I published
 
