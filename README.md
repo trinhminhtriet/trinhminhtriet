@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [razayunus/ManhattanSLAM](https://github.com/razayunus/ManhattanSLAM) - A Planar RGB-D SLAM which utilizes Manhattan World structure to provide optimal camera pose trajectory while also providing a sparse reconstruction containing points, lines and planes, and a dense surfel-based reconstruction. (today)
-- [Thmen/EGVSR](https://github.com/Thmen/EGVSR) - Efficient & Generic Video Super-Resolution (today)
-- [CryhanFang/CLIP2Video](https://github.com/CryhanFang/CLIP2Video) (today)
-- [JiaRenChang/RealtimeStereo](https://github.com/JiaRenChang/RealtimeStereo) - Attention-Aware Feature Aggregation for Real-time Stereo Matching on Edge Devices (ACCV, 2020) (today)
-- [JiaRenChang/PSMNet](https://github.com/JiaRenChang/PSMNet) - Pyramid Stereo Matching Network (CVPR2018) (today)
+- [zerothi/sisl](https://github.com/zerothi/sisl) - Electronic structure Python package for post analysis and large scale tight-binding DFT/NEGF calculations (today)
+- [KangLiao929/Awesome-Deep-Camera-Calibration](https://github.com/KangLiao929/Awesome-Deep-Camera-Calibration) - Deep Learning for Camera Calibration and Beyond: A Survey (today)
+- [ZeLianWen/Image-Registration](https://github.com/ZeLianWen/Image-Registration) - Image registration algorithm. Includes SIFT, SAR-SIFT,PSO-SIFT. (today)
+- [blademainer/miwifi-ss](https://github.com/blademainer/miwifi-ss) - 小米路由 ss (today)
+- [guenchi/Darkart](https://github.com/guenchi/Darkart) - A binary interface let Chez Scheme use Python, Lua, Ruby etc's library (today)
 
 ## 🔨 Latest Pull Requests I published
 
