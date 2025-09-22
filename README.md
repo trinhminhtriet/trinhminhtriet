@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [ishandutta2007](https://github.com/ishandutta2007)
 - [flumiie](https://github.com/flumiie)
 - [PEPAXD](https://github.com/PEPAXD)
 - [MmdBay](https://github.com/MmdBay)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [ayoubm11](https://github.com/ayoubm11)
 - [sphinxzerd](https://github.com/sphinxzerd)
 - [lavignes](https://github.com/lavignes)
-- [0824813690](https://github.com/0824813690)
 
 ## ⭐ Recent stars
 
