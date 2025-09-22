@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [leondgarse/Keras_insightface](https://github.com/leondgarse/Keras_insightface) - Insightface Keras implementation (today)
-- [leondgarse/keras_cv_attention_models](https://github.com/leondgarse/keras_cv_attention_models) - Keras beit,caformer,CMT,CoAtNet,convnext,davit,dino,efficientdet,edgenext,efficientformer,efficientnet,eva,fasternet,fastervit,fastvit,flexivit,gcvit,ghostnet,gpvit,hornet,hiera,iformer,inceptionnext,lcnet,levit,maxvit,mobilevit,moganet,nat,nfnets,pvt,swin,tinynet,tinyvit,uniformer,volo,vanillanet,yolor,yolov7,yolov8,yolox,gpt2,llama2, alias kecam (today)
-- [xiaoxiong74/rasa_chatbot](https://github.com/xiaoxiong74/rasa_chatbot) - 基于rasa_nlu，rasa_core，rasa_core_sdk构建的聊天机器人 (today)
-- [xiaoxiong74/Cool-NLPCV](https://github.com/xiaoxiong74/Cool-NLPCV) - Some Cool NLP and CV Repositories and Solutions （收集NLP中常见任务的开源解决方案、数据集、工具、学习资料等） (today)
-- [xiaoxiong74/face-cluster-by-infomap](https://github.com/xiaoxiong74/face-cluster-by-infomap) - face-cluster-by-infomap 一种无监督人脸聚类方法，在开源数据集上取得SOTA效果 (today)
+- [ExponentialML/Video-BLIP2-Preprocessor](https://github.com/ExponentialML/Video-BLIP2-Preprocessor) - A simple script that reads a directory of videos, grabs a random frame,  and automatically discovers a prompt for it (today)
+- [ExponentialML/Text-To-Video-Finetuning](https://github.com/ExponentialML/Text-To-Video-Finetuning) - Finetune ModelScope's Text To Video model using Diffusers 🧨 (today)
+- [ExponentialML/ComfyUI_VisualStylePrompting](https://github.com/ExponentialML/ComfyUI_VisualStylePrompting) - ComfyUI Version of "Visual Style Prompting with Swapping Self-Attention" (today)
+- [ExponentialML/ComfyUI_ELLA](https://github.com/ExponentialML/ComfyUI_ELLA) - ComfyUI Implementaion of ELLA: Equip Diffusion Models with LLM for Enhanced Semantic Alignment (today)
+- [ExponentialML/AnimateDiff-MotionDirector](https://github.com/ExponentialML/AnimateDiff-MotionDirector) - MotionDirector Training For AnimateDiff. Train a MotionLoRA and run it on any compatible AnimateDiff UI. (today)
 
 ## 🔨 Latest Pull Requests I published
 
