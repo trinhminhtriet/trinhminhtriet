@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [M-Yerro](https://github.com/M-Yerro)
 - [BEPb](https://github.com/BEPb)
 - [ishandutta2007](https://github.com/ishandutta2007)
 - [flumiie](https://github.com/flumiie)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [IXkosay](https://github.com/IXkosay)
 - [Yvngjunior](https://github.com/Yvngjunior)
 - [ayoubm11](https://github.com/ayoubm11)
-- [sphinxzerd](https://github.com/sphinxzerd)
 
 ## ⭐ Recent stars
 
-- [guivr/cssbuttons](https://github.com/guivr/cssbuttons) - Buttons For The Web  (today)
-- [tkuanlun350/3DUnet-Tensorflow-Brats18](https://github.com/tkuanlun350/3DUnet-Tensorflow-Brats18) - 3D Unet biomedical segmentation model powered by tensorpack with fast io speed (today)
-- [tkuanlun350/Tensorflow-SegNet](https://github.com/tkuanlun350/Tensorflow-SegNet) - Implement slightly different caffe-segnet in tensorflow (today)
-- [yihua7/NeRF-Texture](https://github.com/yihua7/NeRF-Texture) - [SIGGRAPH 2023, TPAMI 2024] Code for NeRF-Texture: Texture Synthesis with Neural Radiance Fields (today)
-- [Leliana/WhatsThis](https://github.com/Leliana/WhatsThis) (today)
+- [PeterFWS/Structure-PLP-SLAM](https://github.com/PeterFWS/Structure-PLP-SLAM) - [ICRA'23] The official Implementation of "Structure PLP-SLAM: Efficient Sparse Mapping and Localization using Point, Line and Plane for Monocular, RGB-D and Stereo Cameras" (today)
+- [cavalli1234/AdaLAM](https://github.com/cavalli1234/AdaLAM) - AdaLAM is a fully handcrafted realtime outlier filter integrating several best practices into a single efficient and effective framework. It detects inliers by searching for significant local affine patterns in image correspondences. (today)
+- [andresprados/SPIGA](https://github.com/andresprados/SPIGA) - SPIGA: Shape Preserving Facial Landmarks with Graph Attention Networks. (today)
+- [mtamburrano/LBD_Descriptor](https://github.com/mtamburrano/LBD_Descriptor) (today)
+- [FadyMorris/formula-sheets](https://github.com/FadyMorris/formula-sheets) - A repository for mathematics, machine learning and deep learning formula sheets created by Fady Morris (today)
 
 ## 🔨 Latest Pull Requests I published
 
