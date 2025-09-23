@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [minjun0219](https://github.com/minjun0219)
 - [M-Yerro](https://github.com/M-Yerro)
 - [BEPb](https://github.com/BEPb)
 - [ishandutta2007](https://github.com/ishandutta2007)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [codemonkey0612](https://github.com/codemonkey0612)
 - [IXkosay](https://github.com/IXkosay)
 - [Yvngjunior](https://github.com/Yvngjunior)
-- [ayoubm11](https://github.com/ayoubm11)
 
 ## ⭐ Recent stars
 
