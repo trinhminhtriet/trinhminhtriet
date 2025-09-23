@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [nuno-faria/tetris-ai](https://github.com/nuno-faria/tetris-ai) - A deep reinforcement learning bot that plays tetris (today)
-- [nuno-faria/tetris-sql](https://github.com/nuno-faria/tetris-sql) - Using SQL's Turing Completeness to Build Tetris (today)
-- [nuno-faria/tiler](https://github.com/nuno-faria/tiler) - 👷 Build images with images (today)
-- [wangdan/AisenForAndroid](https://github.com/wangdan/AisenForAndroid) (today)
-- [wangdan/AisenWeiBo](https://github.com/wangdan/AisenWeiBo) - 新浪微博第三方Android客户端 (today)
+- [dankelley/oce](https://github.com/dankelley/oce) - R package for oceanographic processing (today)
+- [xsren/wx_taobao_fanli](https://github.com/xsren/wx_taobao_fanli) - 微信 淘宝 返利 (today)
+- [michalfaber/tensorflow_Realtime_Multi-Person_Pose_Estimation](https://github.com/michalfaber/tensorflow_Realtime_Multi-Person_Pose_Estimation) - Multi-Person Pose Estimation project for Tensorflow 2.0 with a small and fast model based on MobilenetV3  (today)
+- [michalfaber/keras_Realtime_Multi-Person_Pose_Estimation](https://github.com/michalfaber/keras_Realtime_Multi-Person_Pose_Estimation) - Keras version of Realtime Multi-Person Pose Estimation project (today)
+- [manvalls/server-only-context](https://github.com/manvalls/server-only-context) - Context for your server components (today)
 
 ## 🔨 Latest Pull Requests I published
 
