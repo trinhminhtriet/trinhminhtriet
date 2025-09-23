@@ -46,24 +46,24 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [jilt](https://github.com/jilt)
+- [cryptogirlie](https://github.com/cryptogirlie)
 - [minjun0219](https://github.com/minjun0219)
 - [M-Yerro](https://github.com/M-Yerro)
 - [BEPb](https://github.com/BEPb)
-- [ishandutta2007](https://github.com/ishandutta2007)
 - [flumiie](https://github.com/flumiie)
 - [PEPAXD](https://github.com/PEPAXD)
 - [MmdBay](https://github.com/MmdBay)
 - [codemonkey0612](https://github.com/codemonkey0612)
 - [IXkosay](https://github.com/IXkosay)
-- [Yvngjunior](https://github.com/Yvngjunior)
 
 ## ⭐ Recent stars
 
-- [ferrygun/PDFTableExtract](https://github.com/ferrygun/PDFTableExtract) - PDFTableExtract (today)
-- [SaeedShurrab/awesome-self-supervised-learning-in-medical-imaging](https://github.com/SaeedShurrab/awesome-self-supervised-learning-in-medical-imaging) - This repository is mainly dedicated for listing the recent research advancements in the application of Self-Supervised-Learning in medical images computing field (today)
-- [Ai-Austin/GPT4ALL-Voice-Assistant](https://github.com/Ai-Austin/GPT4ALL-Voice-Assistant) - This is a 100% offline GPT4ALL Voice Assistant. Completely open source and privacy friendly. Use any language model on GPT4ALL. Background process voice detection. Watch the full YouTube tutorial for setup guide: https://youtu.be/6zAk0KHmiGw (today)
-- [Ai-Austin/Bing-GPT-Voice-Assistant](https://github.com/Ai-Austin/Bing-GPT-Voice-Assistant) - This is a Python voice assistant that takes two different wake words. One for prompting Bing AI using EdgeGPT and the other will prompt the GPT-3.5-Turbo API (today)
-- [kang205/DVBPR](https://github.com/kang205/DVBPR) - Personalized Fashion Recommendation and Generation (today)
+- [SirRob1997/Crowded-Valley---Results](https://github.com/SirRob1997/Crowded-Valley---Results) - This repository contains the results for the paper: "Descending through a Crowded Valley - Benchmarking Deep Learning Optimizers" (today)
+- [TidorP/MLJobSearch2025](https://github.com/TidorP/MLJobSearch2025) - ML Companies Tier List and Interview Questions (today)
+- [aapatel09/handson-unsupervised-learning](https://github.com/aapatel09/handson-unsupervised-learning) - Code for Hands-on Unsupervised Learning Using Python (O'Reilly Media) (today)
+- [jind11/MedQA](https://github.com/jind11/MedQA) - Code and data for MedQA (today)
+- [jind11/TextFooler](https://github.com/jind11/TextFooler) - A Model for Natural Language Attack on Text Classification and Inference (today)
 
 ## 🔨 Latest Pull Requests I published
 
