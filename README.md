@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [MuradIsazade777](https://github.com/MuradIsazade777)
+- [ishandutta2007](https://github.com/ishandutta2007)
 - [Niharika-solanki](https://github.com/Niharika-solanki)
 - [alyemeni965-dev](https://github.com/alyemeni965-dev)
 - [jilt](https://github.com/jilt)
@@ -54,16 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [M-Yerro](https://github.com/M-Yerro)
 - [BEPb](https://github.com/BEPb)
 - [flumiie](https://github.com/flumiie)
-- [PEPAXD](https://github.com/PEPAXD)
-- [MmdBay](https://github.com/MmdBay)
 
 ## ⭐ Recent stars
 
-- [dankelley/oce](https://github.com/dankelley/oce) - R package for oceanographic processing (today)
-- [xsren/wx_taobao_fanli](https://github.com/xsren/wx_taobao_fanli) - 微信 淘宝 返利 (today)
-- [michalfaber/tensorflow_Realtime_Multi-Person_Pose_Estimation](https://github.com/michalfaber/tensorflow_Realtime_Multi-Person_Pose_Estimation) - Multi-Person Pose Estimation project for Tensorflow 2.0 with a small and fast model based on MobilenetV3  (today)
-- [michalfaber/keras_Realtime_Multi-Person_Pose_Estimation](https://github.com/michalfaber/keras_Realtime_Multi-Person_Pose_Estimation) - Keras version of Realtime Multi-Person Pose Estimation project (today)
-- [manvalls/server-only-context](https://github.com/manvalls/server-only-context) - Context for your server components (today)
+- [NekitCorp/chrome-extension-svelte-typescript-boilerplate](https://github.com/NekitCorp/chrome-extension-svelte-typescript-boilerplate) - Boilerplate for Chrome Extension Svelte Typescript project (today)
+- [AlbertoFdzM/express-list-endpoints](https://github.com/AlbertoFdzM/express-list-endpoints) - A express package to list all registered endpoints and its verbs (today)
+- [mimecorg/vuido](https://github.com/mimecorg/vuido) - Native desktop applications using Vue.js. (today)
+- [sapondanaisriwan/AdashimaaTube](https://github.com/sapondanaisriwan/AdashimaaTube) - Restore old Youtube layout in 2021-2022 with many customizable options. (today)
+- [sapondanaisriwan/youtube-row-fixer](https://github.com/sapondanaisriwan/youtube-row-fixer) - A browser extension for customizing the videos per row and Make YouTube Great Again! (today)
 
 ## 🔨 Latest Pull Requests I published
 
