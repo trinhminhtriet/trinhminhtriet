@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Liuboshenko](https://github.com/Liuboshenko)
 - [MuradIsazade777](https://github.com/MuradIsazade777)
 - [ishandutta2007](https://github.com/ishandutta2007)
 - [Niharika-solanki](https://github.com/Niharika-solanki)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [minjun0219](https://github.com/minjun0219)
 - [M-Yerro](https://github.com/M-Yerro)
 - [BEPb](https://github.com/BEPb)
-- [flumiie](https://github.com/flumiie)
 
 ## ⭐ Recent stars
 
+- [josex2r/jQuery-SlotMachine](https://github.com/josex2r/jQuery-SlotMachine) - Makes Slot Machine effect without jquery (the name is just legacy O_O) (today)
+- [callumrollo/cmcrameri](https://github.com/callumrollo/cmcrameri) - Making Fabio Crameri's perceptually uniform colourmaps for geosciences available on PyPI and conda-forge (today)
 - [NekitCorp/chrome-extension-svelte-typescript-boilerplate](https://github.com/NekitCorp/chrome-extension-svelte-typescript-boilerplate) - Boilerplate for Chrome Extension Svelte Typescript project (today)
 - [AlbertoFdzM/express-list-endpoints](https://github.com/AlbertoFdzM/express-list-endpoints) - A express package to list all registered endpoints and its verbs (today)
 - [mimecorg/vuido](https://github.com/mimecorg/vuido) - Native desktop applications using Vue.js. (today)
-- [sapondanaisriwan/AdashimaaTube](https://github.com/sapondanaisriwan/AdashimaaTube) - Restore old Youtube layout in 2021-2022 with many customizable options. (today)
-- [sapondanaisriwan/youtube-row-fixer](https://github.com/sapondanaisriwan/youtube-row-fixer) - A browser extension for customizing the videos per row and Make YouTube Great Again! (today)
 
 ## 🔨 Latest Pull Requests I published
 
