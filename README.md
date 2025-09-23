@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Niharika-solanki](https://github.com/Niharika-solanki)
 - [alyemeni965-dev](https://github.com/alyemeni965-dev)
 - [jilt](https://github.com/jilt)
 - [cryptogirlie](https://github.com/cryptogirlie)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [flumiie](https://github.com/flumiie)
 - [PEPAXD](https://github.com/PEPAXD)
 - [MmdBay](https://github.com/MmdBay)
-- [codemonkey0612](https://github.com/codemonkey0612)
 
 ## ⭐ Recent stars
 
-- [cotestatnt/esp-fs-webserver](https://github.com/cotestatnt/esp-fs-webserver) - ESP32/ESP8266 webserver, WiFi manager and web editor Arduino library (today)
-- [GCYZSL/MoLA](https://github.com/GCYZSL/MoLA) (today)
-- [fernandodelacalle/adv-financial-ml-marcos-exercises](https://github.com/fernandodelacalle/adv-financial-ml-marcos-exercises) - Exercises of the book: Advances in Financial Machine Learning by Marcos Lopez de Prado (today)
-- [DiatomStudio/Piccolo](https://github.com/DiatomStudio/Piccolo) - Piccolo is a pocket-sized stand-alone CNC platform.  (today)
-- [kellyegan/OpenSCAD-Arduino-Mounting-Library](https://github.com/kellyegan/OpenSCAD-Arduino-Mounting-Library) - Modules for helping to add Arduino enclosures and mounts to OpenSCAD projects. (today)
+- [nuno-faria/tetris-ai](https://github.com/nuno-faria/tetris-ai) - A deep reinforcement learning bot that plays tetris (today)
+- [nuno-faria/tetris-sql](https://github.com/nuno-faria/tetris-sql) - Using SQL's Turing Completeness to Build Tetris (today)
+- [nuno-faria/tiler](https://github.com/nuno-faria/tiler) - 👷 Build images with images (today)
+- [wangdan/AisenForAndroid](https://github.com/wangdan/AisenForAndroid) (today)
+- [wangdan/AisenWeiBo](https://github.com/wangdan/AisenWeiBo) - 新浪微博第三方Android客户端 (today)
 
 ## 🔨 Latest Pull Requests I published
 
