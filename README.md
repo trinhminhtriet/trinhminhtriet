@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [alyemeni965-dev](https://github.com/alyemeni965-dev)
 - [jilt](https://github.com/jilt)
 - [cryptogirlie](https://github.com/cryptogirlie)
 - [minjun0219](https://github.com/minjun0219)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [PEPAXD](https://github.com/PEPAXD)
 - [MmdBay](https://github.com/MmdBay)
 - [codemonkey0612](https://github.com/codemonkey0612)
-- [IXkosay](https://github.com/IXkosay)
 
 ## ⭐ Recent stars
 
-- [SirRob1997/Crowded-Valley---Results](https://github.com/SirRob1997/Crowded-Valley---Results) - This repository contains the results for the paper: "Descending through a Crowded Valley - Benchmarking Deep Learning Optimizers" (today)
-- [TidorP/MLJobSearch2025](https://github.com/TidorP/MLJobSearch2025) - ML Companies Tier List and Interview Questions (today)
-- [aapatel09/handson-unsupervised-learning](https://github.com/aapatel09/handson-unsupervised-learning) - Code for Hands-on Unsupervised Learning Using Python (O'Reilly Media) (today)
-- [jind11/MedQA](https://github.com/jind11/MedQA) - Code and data for MedQA (today)
-- [jind11/TextFooler](https://github.com/jind11/TextFooler) - A Model for Natural Language Attack on Text Classification and Inference (today)
+- [cotestatnt/esp-fs-webserver](https://github.com/cotestatnt/esp-fs-webserver) - ESP32/ESP8266 webserver, WiFi manager and web editor Arduino library (today)
+- [GCYZSL/MoLA](https://github.com/GCYZSL/MoLA) (today)
+- [fernandodelacalle/adv-financial-ml-marcos-exercises](https://github.com/fernandodelacalle/adv-financial-ml-marcos-exercises) - Exercises of the book: Advances in Financial Machine Learning by Marcos Lopez de Prado (today)
+- [DiatomStudio/Piccolo](https://github.com/DiatomStudio/Piccolo) - Piccolo is a pocket-sized stand-alone CNC platform.  (today)
+- [kellyegan/OpenSCAD-Arduino-Mounting-Library](https://github.com/kellyegan/OpenSCAD-Arduino-Mounting-Library) - Modules for helping to add Arduino enclosures and mounts to OpenSCAD projects. (today)
 
 ## 🔨 Latest Pull Requests I published
 
