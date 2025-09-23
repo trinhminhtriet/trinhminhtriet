@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [GavriloviciEduard/Asclepios-DICOM-Viewer](https://github.com/GavriloviciEduard/Asclepios-DICOM-Viewer) - Bachelor thesis project. A DICOM Viewer written in C++, QT and VTK. (today)
+- [carrascoacd/ArduinoSIM800L](https://github.com/carrascoacd/ArduinoSIM800L) - Arduino HTTP & FTP client for SIM800L/SIM800 boards to perform GET and POST requests to a JSON API as well as FTP uploads. (today)
+- [ddd-espanol/asombroso-ddd](https://github.com/ddd-espanol/asombroso-ddd) - Una lista cuidadosamente curada de recursos sobre Domain Driven Design, Eventos, Event Sourcing, Command Query Responsibility Segregation (CQRS). (today)
+- [petrovicstefanrs/30_seconds_of_knowledge](https://github.com/petrovicstefanrs/30_seconds_of_knowledge) - Google Chrome Extension that lets you gain new developer skills, every time you open a New Tab. (today)
 - [josex2r/jQuery-SlotMachine](https://github.com/josex2r/jQuery-SlotMachine) - Makes Slot Machine effect without jquery (the name is just legacy O_O) (today)
-- [callumrollo/cmcrameri](https://github.com/callumrollo/cmcrameri) - Making Fabio Crameri's perceptually uniform colourmaps for geosciences available on PyPI and conda-forge (today)
-- [NekitCorp/chrome-extension-svelte-typescript-boilerplate](https://github.com/NekitCorp/chrome-extension-svelte-typescript-boilerplate) - Boilerplate for Chrome Extension Svelte Typescript project (today)
-- [AlbertoFdzM/express-list-endpoints](https://github.com/AlbertoFdzM/express-list-endpoints) - A express package to list all registered endpoints and its verbs (today)
-- [mimecorg/vuido](https://github.com/mimecorg/vuido) - Native desktop applications using Vue.js. (today)
 
 ## 🔨 Latest Pull Requests I published
 
