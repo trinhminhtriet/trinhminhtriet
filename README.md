@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [Margaret2/pantone-colors](https://github.com/Margaret2/pantone-colors) - Hex values of all 2310 Pantone colors (today)
+- [mathisGarberg/angular-folder-structure](https://github.com/mathisGarberg/angular-folder-structure) - The project is based on best practices from the community, other github Angular projects and developer experience from production Angular projects. (today)
 - [GavriloviciEduard/Asclepios-DICOM-Viewer](https://github.com/GavriloviciEduard/Asclepios-DICOM-Viewer) - Bachelor thesis project. A DICOM Viewer written in C++, QT and VTK. (today)
 - [carrascoacd/ArduinoSIM800L](https://github.com/carrascoacd/ArduinoSIM800L) - Arduino HTTP & FTP client for SIM800L/SIM800 boards to perform GET and POST requests to a JSON API as well as FTP uploads. (today)
 - [ddd-espanol/asombroso-ddd](https://github.com/ddd-espanol/asombroso-ddd) - Una lista cuidadosamente curada de recursos sobre Domain Driven Design, Eventos, Event Sourcing, Command Query Responsibility Segregation (CQRS). (today)
-- [petrovicstefanrs/30_seconds_of_knowledge](https://github.com/petrovicstefanrs/30_seconds_of_knowledge) - Google Chrome Extension that lets you gain new developer skills, every time you open a New Tab. (today)
-- [josex2r/jQuery-SlotMachine](https://github.com/josex2r/jQuery-SlotMachine) - Makes Slot Machine effect without jquery (the name is just legacy O_O) (today)
 
 ## 🔨 Latest Pull Requests I published
 
