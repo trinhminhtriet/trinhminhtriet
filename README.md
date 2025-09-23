@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [yxlllc/DDSP-SVC](https://github.com/yxlllc/DDSP-SVC) - Real-time end-to-end singing voice conversion system based on DDSP (Differentiable Digital Signal Processing) (1 day ago)
-- [njpipeorgan/wolfram-language-notebook](https://github.com/njpipeorgan/wolfram-language-notebook) - Notebook support for Wolfram Language in VS Code (1 day ago)
-- [TieBaMma/InstallTutorial](https://github.com/TieBaMma/InstallTutorial) (1 day ago)
-- [fabridamicelli/kuramoto](https://github.com/fabridamicelli/kuramoto) - Python implementation of the Kuramoto model (1 day ago)
-- [iShareStuff/ZoteroTheme](https://github.com/iShareStuff/ZoteroTheme) - ZoteroTheme Plugin (1 day ago)
+- [ferrygun/PDFTableExtract](https://github.com/ferrygun/PDFTableExtract) - PDFTableExtract (today)
+- [SaeedShurrab/awesome-self-supervised-learning-in-medical-imaging](https://github.com/SaeedShurrab/awesome-self-supervised-learning-in-medical-imaging) - This repository is mainly dedicated for listing the recent research advancements in the application of Self-Supervised-Learning in medical images computing field (today)
+- [Ai-Austin/GPT4ALL-Voice-Assistant](https://github.com/Ai-Austin/GPT4ALL-Voice-Assistant) - This is a 100% offline GPT4ALL Voice Assistant. Completely open source and privacy friendly. Use any language model on GPT4ALL. Background process voice detection. Watch the full YouTube tutorial for setup guide: https://youtu.be/6zAk0KHmiGw (today)
+- [Ai-Austin/Bing-GPT-Voice-Assistant](https://github.com/Ai-Austin/Bing-GPT-Voice-Assistant) - This is a Python voice assistant that takes two different wake words. One for prompting Bing AI using EdgeGPT and the other will prompt the GPT-3.5-Turbo API (today)
+- [kang205/DVBPR](https://github.com/kang205/DVBPR) - Personalized Fashion Recommendation and Generation (today)
 
 ## 🔨 Latest Pull Requests I published
 
