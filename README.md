@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [mahmudnibir](https://github.com/mahmudnibir)
+- [HenriqueThz](https://github.com/HenriqueThz)
 - [Liuboshenko](https://github.com/Liuboshenko)
 - [MuradIsazade777](https://github.com/MuradIsazade777)
 - [ishandutta2007](https://github.com/ishandutta2007)
@@ -54,16 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [jilt](https://github.com/jilt)
 - [cryptogirlie](https://github.com/cryptogirlie)
 - [minjun0219](https://github.com/minjun0219)
-- [M-Yerro](https://github.com/M-Yerro)
-- [BEPb](https://github.com/BEPb)
 
 ## ⭐ Recent stars
 
-- [Margaret2/pantone-colors](https://github.com/Margaret2/pantone-colors) - Hex values of all 2310 Pantone colors (today)
-- [mathisGarberg/angular-folder-structure](https://github.com/mathisGarberg/angular-folder-structure) - The project is based on best practices from the community, other github Angular projects and developer experience from production Angular projects. (today)
-- [GavriloviciEduard/Asclepios-DICOM-Viewer](https://github.com/GavriloviciEduard/Asclepios-DICOM-Viewer) - Bachelor thesis project. A DICOM Viewer written in C++, QT and VTK. (today)
-- [carrascoacd/ArduinoSIM800L](https://github.com/carrascoacd/ArduinoSIM800L) - Arduino HTTP & FTP client for SIM800L/SIM800 boards to perform GET and POST requests to a JSON API as well as FTP uploads. (today)
-- [ddd-espanol/asombroso-ddd](https://github.com/ddd-espanol/asombroso-ddd) - Una lista cuidadosamente curada de recursos sobre Domain Driven Design, Eventos, Event Sourcing, Command Query Responsibility Segregation (CQRS). (today)
+- [aas-n/spraykatz](https://github.com/aas-n/spraykatz) - Credentials gathering tool automating remote procdump and parse of lsass process. (today)
+- [zhengyuf/PointAvatar](https://github.com/zhengyuf/PointAvatar) - Official Repository for CVPR 2023 paper PointAvatar: Deformable Point-based Head Avatars from Videos. (today)
+- [zhengyuf/IMavatar](https://github.com/zhengyuf/IMavatar) - Official repository for CVPR 2022 paper: I M Avatar: Implicit Morphable Head Avatars from Videos (today)
+- [AntSimi/py-eddy-tracker](https://github.com/AntSimi/py-eddy-tracker) - Eddy identification and tracking (today)
+- [marshallward/f90nml](https://github.com/marshallward/f90nml) - A Python module and command line tool for working with Fortran namelists (today)
 
 ## 🔨 Latest Pull Requests I published
 
