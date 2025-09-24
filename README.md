@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [truchuynh63](https://github.com/truchuynh63)
+- [Salehmoradi2005](https://github.com/Salehmoradi2005)
 - [mrwm03191-cyber](https://github.com/mrwm03191-cyber)
 - [levonk](https://github.com/levonk)
 - [mahmudnibir](https://github.com/mahmudnibir)
@@ -54,16 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [MuradIsazade777](https://github.com/MuradIsazade777)
 - [ishandutta2007](https://github.com/ishandutta2007)
 - [Niharika-solanki](https://github.com/Niharika-solanki)
-- [alyemeni965-dev](https://github.com/alyemeni965-dev)
-- [jilt](https://github.com/jilt)
 
 ## ⭐ Recent stars
 
-- [s-sahoo/duo](https://github.com/s-sahoo/duo) - [ICML 2025] The Diffusion Duality (today)
-- [kevslinger/DTQN](https://github.com/kevslinger/DTQN) - Deep Transformer Q-Networks for Partially Observable Reinforcement Learning (today)
-- [heykeetae/Self-Attention-GAN](https://github.com/heykeetae/Self-Attention-GAN) - Pytorch implementation of Self-Attention Generative Adversarial Networks (SAGAN) (today)
-- [hiwonjoon/tf-vqvae](https://github.com/hiwonjoon/tf-vqvae) - Tensorflow Implementation of the paper [Neural Discrete Representation Learning](https://arxiv.org/abs/1711.00937) (VQ-VAE). (today)
-- [anita-hu/TF2-RL](https://github.com/anita-hu/TF2-RL) - Reinforcement learning algorithms implemented for Tensorflow 2.0+ [DQN, DDPG, AE-DDPG, SAC, PPO, Primal-Dual DDPG] (today)
+- [lauramsmith/fine-tuning-locomotion](https://github.com/lauramsmith/fine-tuning-locomotion) (today)
+- [friendlyanon/cmake-init](https://github.com/friendlyanon/cmake-init) - The missing CMake project initializer (today)
+- [Shenyi-Z/ToCa](https://github.com/Shenyi-Z/ToCa) - [ICLR2025] Accelerating Diffusion Transformers with Token-wise Feature Caching (today)
+- [Shenyi-Z/TaylorSeer](https://github.com/Shenyi-Z/TaylorSeer) - [ICCV2025] From Reusing to Forecasting: Accelerating Diffusion Models with TaylorSeers (today)
+- [shreyaspadhy/UNet-Zoo](https://github.com/shreyaspadhy/UNet-Zoo) - A collection of UNet and hybrid architectures in PyTorch for 2D and 3D Biomedical Image segmentation (today)
 
 ## 🔨 Latest Pull Requests I published
 
