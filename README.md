@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [valgeirb/vue3-popper](https://github.com/valgeirb/vue3-popper) - A Vue.js popover component based on PopperJS (today)
-- [AlexeySoshin/smali2java](https://github.com/AlexeySoshin/smali2java) - Recreate Java code from Smali (today)
-- [Sniki/OS-X-USB-Inject-All](https://github.com/Sniki/OS-X-USB-Inject-All) - Kext to inject all USB ports for the installed Intel EHCI/XHCI chipset automatically. (today)
-- [awaik/flutter_instagram_stories](https://github.com/awaik/flutter_instagram_stories) - Stories like in Instagram, each story can include multiple images and videos. Package supports video, titles, preliminary caching. (today)
-- [YuanGao-YG/OneForecast](https://github.com/YuanGao-YG/OneForecast) - [ICML 2025] OneForecast: A Universal Framework for Global and Regional Weather Forecasting (today)
+- [s-sahoo/duo](https://github.com/s-sahoo/duo) - [ICML 2025] The Diffusion Duality (today)
+- [kevslinger/DTQN](https://github.com/kevslinger/DTQN) - Deep Transformer Q-Networks for Partially Observable Reinforcement Learning (today)
+- [heykeetae/Self-Attention-GAN](https://github.com/heykeetae/Self-Attention-GAN) - Pytorch implementation of Self-Attention Generative Adversarial Networks (SAGAN) (today)
+- [hiwonjoon/tf-vqvae](https://github.com/hiwonjoon/tf-vqvae) - Tensorflow Implementation of the paper [Neural Discrete Representation Learning](https://arxiv.org/abs/1711.00937) (VQ-VAE). (today)
+- [anita-hu/TF2-RL](https://github.com/anita-hu/TF2-RL) - Reinforcement learning algorithms implemented for Tensorflow 2.0+ [DQN, DDPG, AE-DDPG, SAC, PPO, Primal-Dual DDPG] (today)
 
 ## 🔨 Latest Pull Requests I published
 
