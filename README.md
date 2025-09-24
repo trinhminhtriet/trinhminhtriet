@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [jacopotarantino/angular-match-media](https://github.com/jacopotarantino/angular-match-media) - Angular module to use Bootstrap3 media queries in your angular controllers. (today)
-- [bmitch/churn-php](https://github.com/bmitch/churn-php) - Discover files in need of refactoring. (today)
-- [samayo/bulletproof](https://github.com/samayo/bulletproof) - Simple and secure image uploader in PHP (today)
-- [samayo/country-json](https://github.com/samayo/country-json) - A simple data of the world by country each in JSON format. (today)
-- [ssola/python-flask-microservice](https://github.com/ssola/python-flask-microservice) - Skeleton of a Microservice built with the Flask (today)
+- [erdavids/Hex-Map](https://github.com/erdavids/Hex-Map) - Perlin Noise Hex Map (today)
+- [erdavids/Generative-Art](https://github.com/erdavids/Generative-Art) - A hub for all of my generative art projects (today)
+- [cvidan/bet365-scraper](https://github.com/cvidan/bet365-scraper) - Python script to scrape Bet365 odds using Selenium. (today)
+- [bengrunfeld/rexpack](https://github.com/bengrunfeld/rexpack) - React, Express, and Webpack Boilerplate App (today)
+- [bengrunfeld/expack](https://github.com/bengrunfeld/expack) - Express and Webpack boilerplate application (today)
 
 ## 🔨 Latest Pull Requests I published
 
