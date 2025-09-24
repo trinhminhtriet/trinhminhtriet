@@ -33,7 +33,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👷 Check out what I'm currently working on
 
-- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (3 days ago)
+- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (today)
 - [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) - 🚀 All-in-one CLI toolkit for developers: scaffold, manage, automate, and boost productivity across languages! (1 week ago)
 - [lamhaison/aws-cli-utils](https://github.com/lamhaison/aws-cli-utils) - This is the project to collect helpful aws cli commandline with complex options to support your working (1 week ago)
 - [trinhminhtriet/dwipe](https://github.com/trinhminhtriet/dwipe) - 🧹 Fast, cross-platform disk cleanup tool with interactive UI for easy directory size visualization. (2 weeks ago)
@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [DtxdF/AppJail](https://github.com/DtxdF/AppJail) - Simple and easy-to-use tool for creating portable jails. (today)
+- [emanuelev/supereight](https://github.com/emanuelev/supereight) - supereight: a high performance template octree library and a dense volumetric SLAM pipeline implementation (today)
+- [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool (today)
 - [somratpro/somrat-hugo-theme](https://github.com/somratpro/somrat-hugo-theme) - A Hugo portfolio theme (archived) (today)
 - [OanaMariaCamburu/e-SNLI](https://github.com/OanaMariaCamburu/e-SNLI) (today)
-- [julioasotodv/spark-df-profiling](https://github.com/julioasotodv/spark-df-profiling) - Create HTML profiling reports from Apache Spark DataFrames (today)
-- [i-break-codes/scrum-board](https://github.com/i-break-codes/scrum-board) - JavaScript Scrum App to manage tasks with ease (today)
-- [i-break-codes/logerr](https://github.com/i-break-codes/logerr) - Make JavaScript errors readable, and log them remotely. (today)
 
 ## 🔨 Latest Pull Requests I published
 
