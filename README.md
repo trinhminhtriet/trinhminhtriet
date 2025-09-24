@@ -33,8 +33,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👷 Check out what I'm currently working on
 
+- [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) - 🚀 All-in-one CLI toolkit for developers: scaffold, manage, automate, and boost productivity across languages! (today)
 - [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (today)
-- [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) - 🚀 All-in-one CLI toolkit for developers: scaffold, manage, automate, and boost productivity across languages! (1 week ago)
 - [lamhaison/aws-cli-utils](https://github.com/lamhaison/aws-cli-utils) - This is the project to collect helpful aws cli commandline with complex options to support your working (1 week ago)
 - [trinhminhtriet/dwipe](https://github.com/trinhminhtriet/dwipe) - 🧹 Fast, cross-platform disk cleanup tool with interactive UI for easy directory size visualization. (2 weeks ago)
 - [nctl-io/nctl-roadmap](https://github.com/nctl-io/nctl-roadmap) (3 weeks ago)
@@ -59,12 +59,12 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [DtxdF/AppJail](https://github.com/DtxdF/AppJail) - Simple and easy-to-use tool for creating portable jails. (today)
-- [emanuelev/supereight](https://github.com/emanuelev/supereight) - supereight: a high performance template octree library and a dense volumetric SLAM pipeline implementation (today)
-- [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool (today)
-- [somratpro/somrat-hugo-theme](https://github.com/somratpro/somrat-hugo-theme) - A Hugo portfolio theme (archived) (today)
-- [OanaMariaCamburu/e-SNLI](https://github.com/OanaMariaCamburu/e-SNLI) (today)
+- [j-alex-hanson/speedy-splat](https://github.com/j-alex-hanson/speedy-splat) (today)
+- [GWxuan/TSP3D](https://github.com/GWxuan/TSP3D) - [CVPR 2025, All Strong Accept] TSP3D: Text-guided Sparse Voxel Pruning for Efficient 3D Visual Grounding (today)
+- [JasonFengGit/Visualizer](https://github.com/JasonFengGit/Visualizer) - A single-page website aiming to provide innovative and intuitive visualizations of common and AI algorithms. (today)
+- [cchester25/FAST_LIVO2_Noted](https://github.com/cchester25/FAST_LIVO2_Noted) - 从小白的视角去分析多源融合SLAM的SOTA框架 (today)
+- [javaidnabi31/Multi-Label-Text-classification-Using-BERT](https://github.com/javaidnabi31/Multi-Label-Text-classification-Using-BERT) - Multi Label text classification using bert (today)
 
 ## 🔨 Latest Pull Requests I published
 
-- [Add global git configuration and implement note management CLI](https://github.com/trinhminhtriet/DevPilot/pull/9) on [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) (1 week ago)
+- [Add DNS record management command with export functionality](https://github.com/trinhminhtriet/DevPilot/pull/10) on [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) (today)
