@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [iBicha/ImageEffectGraph](https://github.com/iBicha/ImageEffectGraph) - Image effects for post processing stack created with shader graph for Unity (today)
-- [iBicha/UnityYoutubePlayer](https://github.com/iBicha/UnityYoutubePlayer) - Play YouTube videos in Unity (today)
-- [iBicha/playlet](https://github.com/iBicha/playlet) - The unofficial, privacy driven, YouTube client for Roku (today)
-- [Napster2210/ngx-spinner](https://github.com/Napster2210/ngx-spinner) - A library for loading spinner for Angular 4 - 19. (today)
-- [nupurkmr9/syncd](https://github.com/nupurkmr9/syncd) - SynCD: Generating Multi-Image Synthetic Data for Text-to-Image Customization (today)
+- [jacopotarantino/angular-match-media](https://github.com/jacopotarantino/angular-match-media) - Angular module to use Bootstrap3 media queries in your angular controllers. (today)
+- [bmitch/churn-php](https://github.com/bmitch/churn-php) - Discover files in need of refactoring. (today)
+- [samayo/bulletproof](https://github.com/samayo/bulletproof) - Simple and secure image uploader in PHP (today)
+- [samayo/country-json](https://github.com/samayo/country-json) - A simple data of the world by country each in JSON format. (today)
+- [ssola/python-flask-microservice](https://github.com/ssola/python-flask-microservice) - Skeleton of a Microservice built with the Flask (today)
 
 ## 🔨 Latest Pull Requests I published
 
