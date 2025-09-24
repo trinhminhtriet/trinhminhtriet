@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [uahengojr/mongoose-rbac](https://github.com/uahengojr/mongoose-rbac) - Role-based access control for mongoose apps. (today)
-- [yg211/bert_nli](https://github.com/yg211/bert_nli) - A Natural Language Inference (NLI) model based on Transformers (BERT and ALBERT) (today)
-- [br-g/openf1](https://github.com/br-g/openf1) - OpenF1 API - Real-time and historical Formula 1 data (today)
-- [abhishekmj303/ytm2spt](https://github.com/abhishekmj303/ytm2spt) - Transfer Playlists from YouTube Music to Spotify (today)
-- [AakashBelide/DSA](https://github.com/AakashBelide/DSA) - DSA placements preparation guide. Includes DSA Python codes. (today)
+- [somratpro/somrat-hugo-theme](https://github.com/somratpro/somrat-hugo-theme) - A Hugo portfolio theme (archived) (today)
+- [OanaMariaCamburu/e-SNLI](https://github.com/OanaMariaCamburu/e-SNLI) (today)
+- [julioasotodv/spark-df-profiling](https://github.com/julioasotodv/spark-df-profiling) - Create HTML profiling reports from Apache Spark DataFrames (today)
+- [i-break-codes/scrum-board](https://github.com/i-break-codes/scrum-board) - JavaScript Scrum App to manage tasks with ease (today)
+- [i-break-codes/logerr](https://github.com/i-break-codes/logerr) - Make JavaScript errors readable, and log them remotely. (today)
 
 ## 🔨 Latest Pull Requests I published
 
