@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [neelsjain/NEFTune](https://github.com/neelsjain/NEFTune) - Official repository of NEFTune: Noisy Embeddings Improves Instruction Finetuning (today)
-- [haochen-rye/HNeRV](https://github.com/haochen-rye/HNeRV) - Official Pytorch implementation for HNeRV: a hybrid video neural representation (CVPR 2023) (today)
-- [haochen-rye/NeRV](https://github.com/haochen-rye/NeRV) - Official Pytorch implementation for video neural representation (NeRV) (today)
-- [mcleish7/arithmetic](https://github.com/mcleish7/arithmetic) - Code to reproduce "Transformers Can Do Arithmetic with the Right Embeddings", McLeish et al (NeurIPS 2024) (today)
-- [learn2phoenix/CSD](https://github.com/learn2phoenix/CSD) (today)
+- [lacion/cookiecutter-golang](https://github.com/lacion/cookiecutter-golang) - A Go project template (today)
+- [sigtrapgames/VrTunnellingPro-Unity](https://github.com/sigtrapgames/VrTunnellingPro-Unity) - Plug-and-play VR comfort for Unity. (today)
+- [sigtrapgames/SmartData](https://github.com/sigtrapgames/SmartData) - A designer-friendly, editor-driven Unity3D framework for connecting data and events. (today)
+- [tanrax/org-social](https://github.com/tanrax/org-social) - Org Social is a decentralized social network that runs on an Org Mode file over HTTP. (today)
+- [tanrax/terminal-AdvancedNewFile](https://github.com/tanrax/terminal-AdvancedNewFile) - Fast creation of files and directories. Mimics the operation of AdvancedNewFile (Vim plugin) (today)
 
 ## 🔨 Latest Pull Requests I published
 
