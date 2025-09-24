@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [ganibonzila-create](https://github.com/ganibonzila-create)
 - [truchuynh63](https://github.com/truchuynh63)
 - [Salehmoradi2005](https://github.com/Salehmoradi2005)
 - [mrwm03191-cyber](https://github.com/mrwm03191-cyber)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Liuboshenko](https://github.com/Liuboshenko)
 - [MuradIsazade777](https://github.com/MuradIsazade777)
 - [ishandutta2007](https://github.com/ishandutta2007)
-- [Niharika-solanki](https://github.com/Niharika-solanki)
 
 ## ⭐ Recent stars
 
