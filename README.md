@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [valgeirb/vue3-popper](https://github.com/valgeirb/vue3-popper) - A Vue.js popover component based on PopperJS (today)
+- [AlexeySoshin/smali2java](https://github.com/AlexeySoshin/smali2java) - Recreate Java code from Smali (today)
+- [Sniki/OS-X-USB-Inject-All](https://github.com/Sniki/OS-X-USB-Inject-All) - Kext to inject all USB ports for the installed Intel EHCI/XHCI chipset automatically. (today)
+- [awaik/flutter_instagram_stories](https://github.com/awaik/flutter_instagram_stories) - Stories like in Instagram, each story can include multiple images and videos. Package supports video, titles, preliminary caching. (today)
 - [YuanGao-YG/OneForecast](https://github.com/YuanGao-YG/OneForecast) - [ICML 2025] OneForecast: A Universal Framework for Global and Regional Weather Forecasting (today)
-- [YuanGao-YG/NeuralOM](https://github.com/YuanGao-YG/NeuralOM) - NeuralOM: Neural Ocean Model for Subseasonal-to-Seasonal Simulation (today)
-- [PetrKryslUCSD/FinEtools.jl](https://github.com/PetrKryslUCSD/FinEtools.jl) - Finite  Element tools in Julia (today)
-- [duffman/tspath](https://github.com/duffman/tspath) - TypeScript path alias resolver (today)
-- [dlevsha/compalex](https://github.com/dlevsha/compalex) - Lightweight script to compare two database (today)
 
 ## 🔨 Latest Pull Requests I published
 
