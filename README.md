@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [hectorgimenez/koolo](https://github.com/hectorgimenez/koolo) - Diablo II Resurrected bot written in Go (today)
-- [gurgentil/laravel-eloquent-sequencer](https://github.com/gurgentil/laravel-eloquent-sequencer) - A package that allows you to create and manage sequences on Eloquent models. (today)
-- [Szpadel/chrome-headless-render-pdf](https://github.com/Szpadel/chrome-headless-render-pdf) (today)
-- [deepakdaswani/whatsapp_discover](https://github.com/deepakdaswani/whatsapp_discover) - "Whatsapp Discover" is a tool for getting phone numbers of devices using Whatsapp by real time sniffing from an interface (disabled in this first version) or from a list of pcap files, which can be processed in batch (today)
-- [rlopezdiez/RLDTableViewSwift](https://github.com/rlopezdiez/RLDTableViewSwift) - Reusable table view controller, data source and delegate for all your UITableView needs in Swift (1 day ago)
+- [YuanGao-YG/OneForecast](https://github.com/YuanGao-YG/OneForecast) - [ICML 2025] OneForecast: A Universal Framework for Global and Regional Weather Forecasting (today)
+- [YuanGao-YG/NeuralOM](https://github.com/YuanGao-YG/NeuralOM) - NeuralOM: Neural Ocean Model for Subseasonal-to-Seasonal Simulation (today)
+- [PetrKryslUCSD/FinEtools.jl](https://github.com/PetrKryslUCSD/FinEtools.jl) - Finite  Element tools in Julia (today)
+- [duffman/tspath](https://github.com/duffman/tspath) - TypeScript path alias resolver (today)
+- [dlevsha/compalex](https://github.com/dlevsha/compalex) - Lightweight script to compare two database (today)
 
 ## 🔨 Latest Pull Requests I published
 
