@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [mrwm03191-cyber](https://github.com/mrwm03191-cyber)
 - [levonk](https://github.com/levonk)
 - [mahmudnibir](https://github.com/mahmudnibir)
 - [HenriqueThz](https://github.com/HenriqueThz)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Niharika-solanki](https://github.com/Niharika-solanki)
 - [alyemeni965-dev](https://github.com/alyemeni965-dev)
 - [jilt](https://github.com/jilt)
-- [cryptogirlie](https://github.com/cryptogirlie)
 
 ## ⭐ Recent stars
 
