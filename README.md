@@ -33,15 +33,15 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👷 Check out what I'm currently working on
 
-- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (2 days ago)
-- [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) - 🚀 All-in-one CLI toolkit for developers: scaffold, manage, automate, and boost productivity across languages! (6 days ago)
-- [lamhaison/aws-cli-utils](https://github.com/lamhaison/aws-cli-utils) - This is the project to collect helpful aws cli commandline with complex options to support your working (6 days ago)
+- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (3 days ago)
+- [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) - 🚀 All-in-one CLI toolkit for developers: scaffold, manage, automate, and boost productivity across languages! (1 week ago)
+- [lamhaison/aws-cli-utils](https://github.com/lamhaison/aws-cli-utils) - This is the project to collect helpful aws cli commandline with complex options to support your working (1 week ago)
 - [trinhminhtriet/dwipe](https://github.com/trinhminhtriet/dwipe) - 🧹 Fast, cross-platform disk cleanup tool with interactive UI for easy directory size visualization. (2 weeks ago)
 - [nctl-io/nctl-roadmap](https://github.com/nctl-io/nctl-roadmap) (3 weeks ago)
-- [nctl-io/.github](https://github.com/nctl-io/.github) - 🌐 Network. Connect. Transform. Lead. (3 weeks ago)
+- [nctl-io/.github](https://github.com/nctl-io/.github) - 🌐 Network. Connect. Transform. Lead. (4 weeks ago)
 - [nctl-io/nctl-homepage](https://github.com/nctl-io/nctl-homepage) - 🚀 Modern homepage for NCTL: fast, responsive, TypeScript-powered, open source, and easy to customize. (4 weeks ago)
 - [nctl-io/nctl-branding](https://github.com/nctl-io/nctl-branding) - NCTL Branding 🖼️: Centralized assets and guidelines for consistent visual identity across NCTL projects and platforms. (4 weeks ago)
-- [trinhminhtriet/sizr](https://github.com/trinhminhtriet/sizr) - 📈 A fast, Rust-based tool to analyze file system usage with colorful output, file aggregation, exclusions, and directory comparisons. (4 weeks ago)
+- [trinhminhtriet/sizr](https://github.com/trinhminhtriet/sizr) - 📈 A fast, Rust-based tool to analyze file system usage with colorful output, file aggregation, exclusions, and directory comparisons. (1 month ago)
 - [rust-rs/tabler](https://github.com/rust-rs/tabler) - 📊 Tabler: A lightweight TUI tool to view, query, and navigate CSV, TSV, and Parquet data files. (1 month ago)
 
 ## 👯 Check out my recent followers
@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [aas-n/spraykatz](https://github.com/aas-n/spraykatz) - Credentials gathering tool automating remote procdump and parse of lsass process. (today)
-- [zhengyuf/PointAvatar](https://github.com/zhengyuf/PointAvatar) - Official Repository for CVPR 2023 paper PointAvatar: Deformable Point-based Head Avatars from Videos. (today)
-- [zhengyuf/IMavatar](https://github.com/zhengyuf/IMavatar) - Official repository for CVPR 2022 paper: I M Avatar: Implicit Morphable Head Avatars from Videos (today)
-- [AntSimi/py-eddy-tracker](https://github.com/AntSimi/py-eddy-tracker) - Eddy identification and tracking (today)
-- [marshallward/f90nml](https://github.com/marshallward/f90nml) - A Python module and command line tool for working with Fortran namelists (today)
+- [hectorgimenez/koolo](https://github.com/hectorgimenez/koolo) - Diablo II Resurrected bot written in Go (today)
+- [gurgentil/laravel-eloquent-sequencer](https://github.com/gurgentil/laravel-eloquent-sequencer) - A package that allows you to create and manage sequences on Eloquent models. (today)
+- [Szpadel/chrome-headless-render-pdf](https://github.com/Szpadel/chrome-headless-render-pdf) (today)
+- [deepakdaswani/whatsapp_discover](https://github.com/deepakdaswani/whatsapp_discover) - "Whatsapp Discover" is a tool for getting phone numbers of devices using Whatsapp by real time sniffing from an interface (disabled in this first version) or from a list of pcap files, which can be processed in batch (today)
+- [rlopezdiez/RLDTableViewSwift](https://github.com/rlopezdiez/RLDTableViewSwift) - Reusable table view controller, data source and delegate for all your UITableView needs in Swift (1 day ago)
 
 ## 🔨 Latest Pull Requests I published
 
