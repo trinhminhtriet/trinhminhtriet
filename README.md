@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [lacion/cookiecutter-golang](https://github.com/lacion/cookiecutter-golang) - A Go project template (today)
-- [sigtrapgames/VrTunnellingPro-Unity](https://github.com/sigtrapgames/VrTunnellingPro-Unity) - Plug-and-play VR comfort for Unity. (today)
-- [sigtrapgames/SmartData](https://github.com/sigtrapgames/SmartData) - A designer-friendly, editor-driven Unity3D framework for connecting data and events. (today)
-- [tanrax/org-social](https://github.com/tanrax/org-social) - Org Social is a decentralized social network that runs on an Org Mode file over HTTP. (today)
-- [tanrax/terminal-AdvancedNewFile](https://github.com/tanrax/terminal-AdvancedNewFile) - Fast creation of files and directories. Mimics the operation of AdvancedNewFile (Vim plugin) (today)
+- [iBicha/ImageEffectGraph](https://github.com/iBicha/ImageEffectGraph) - Image effects for post processing stack created with shader graph for Unity (today)
+- [iBicha/UnityYoutubePlayer](https://github.com/iBicha/UnityYoutubePlayer) - Play YouTube videos in Unity (today)
+- [iBicha/playlet](https://github.com/iBicha/playlet) - The unofficial, privacy driven, YouTube client for Roku (today)
+- [Napster2210/ngx-spinner](https://github.com/Napster2210/ngx-spinner) - A library for loading spinner for Angular 4 - 19. (today)
+- [nupurkmr9/syncd](https://github.com/nupurkmr9/syncd) - SynCD: Generating Multi-Image Synthetic Data for Text-to-Image Customization (today)
 
 ## 🔨 Latest Pull Requests I published
 
