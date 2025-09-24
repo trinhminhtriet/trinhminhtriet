@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [lauramsmith/fine-tuning-locomotion](https://github.com/lauramsmith/fine-tuning-locomotion) (today)
-- [friendlyanon/cmake-init](https://github.com/friendlyanon/cmake-init) - The missing CMake project initializer (today)
-- [Shenyi-Z/ToCa](https://github.com/Shenyi-Z/ToCa) - [ICLR2025] Accelerating Diffusion Transformers with Token-wise Feature Caching (today)
-- [Shenyi-Z/TaylorSeer](https://github.com/Shenyi-Z/TaylorSeer) - [ICCV2025] From Reusing to Forecasting: Accelerating Diffusion Models with TaylorSeers (today)
-- [shreyaspadhy/UNet-Zoo](https://github.com/shreyaspadhy/UNet-Zoo) - A collection of UNet and hybrid architectures in PyTorch for 2D and 3D Biomedical Image segmentation (today)
+- [uahengojr/mongoose-rbac](https://github.com/uahengojr/mongoose-rbac) - Role-based access control for mongoose apps. (today)
+- [yg211/bert_nli](https://github.com/yg211/bert_nli) - A Natural Language Inference (NLI) model based on Transformers (BERT and ALBERT) (today)
+- [br-g/openf1](https://github.com/br-g/openf1) - OpenF1 API - Real-time and historical Formula 1 data (today)
+- [abhishekmj303/ytm2spt](https://github.com/abhishekmj303/ytm2spt) - Transfer Playlists from YouTube Music to Spotify (today)
+- [AakashBelide/DSA](https://github.com/AakashBelide/DSA) - DSA placements preparation guide. Includes DSA Python codes. (today)
 
 ## 🔨 Latest Pull Requests I published
 
