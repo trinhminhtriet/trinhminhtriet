@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [j-alex-hanson/speedy-splat](https://github.com/j-alex-hanson/speedy-splat) (today)
-- [GWxuan/TSP3D](https://github.com/GWxuan/TSP3D) - [CVPR 2025, All Strong Accept] TSP3D: Text-guided Sparse Voxel Pruning for Efficient 3D Visual Grounding (today)
-- [JasonFengGit/Visualizer](https://github.com/JasonFengGit/Visualizer) - A single-page website aiming to provide innovative and intuitive visualizations of common and AI algorithms. (today)
-- [cchester25/FAST_LIVO2_Noted](https://github.com/cchester25/FAST_LIVO2_Noted) - 从小白的视角去分析多源融合SLAM的SOTA框架 (today)
-- [javaidnabi31/Multi-Label-Text-classification-Using-BERT](https://github.com/javaidnabi31/Multi-Label-Text-classification-Using-BERT) - Multi Label text classification using bert (today)
+- [haochen-rye/NeRV](https://github.com/haochen-rye/NeRV) - Official Pytorch implementation for video neural representation (NeRV) (today)
+- [mcleish7/arithmetic](https://github.com/mcleish7/arithmetic) - Code to reproduce "Transformers Can Do Arithmetic with the Right Embeddings", McLeish et al (NeurIPS 2024) (today)
+- [learn2phoenix/CSD](https://github.com/learn2phoenix/CSD) (today)
+- [Martin1887/oxigen](https://github.com/Martin1887/oxigen) - Fast, parallel, extensible and adaptable genetic algorithms framework written in Rust (today)
+- [soyguijarro/react-storage-hooks](https://github.com/soyguijarro/react-storage-hooks) - React hooks for persistent state (today)
 
 ## 🔨 Latest Pull Requests I published
 
