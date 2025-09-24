@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [neelsjain/NEFTune](https://github.com/neelsjain/NEFTune) - Official repository of NEFTune: Noisy Embeddings Improves Instruction Finetuning (today)
+- [haochen-rye/HNeRV](https://github.com/haochen-rye/HNeRV) - Official Pytorch implementation for HNeRV: a hybrid video neural representation (CVPR 2023) (today)
 - [haochen-rye/NeRV](https://github.com/haochen-rye/NeRV) - Official Pytorch implementation for video neural representation (NeRV) (today)
 - [mcleish7/arithmetic](https://github.com/mcleish7/arithmetic) - Code to reproduce "Transformers Can Do Arithmetic with the Right Embeddings", McLeish et al (NeurIPS 2024) (today)
 - [learn2phoenix/CSD](https://github.com/learn2phoenix/CSD) (today)
-- [Martin1887/oxigen](https://github.com/Martin1887/oxigen) - Fast, parallel, extensible and adaptable genetic algorithms framework written in Rust (today)
-- [soyguijarro/react-storage-hooks](https://github.com/soyguijarro/react-storage-hooks) - React hooks for persistent state (today)
 
 ## 🔨 Latest Pull Requests I published
 
