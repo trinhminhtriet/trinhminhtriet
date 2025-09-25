@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [creio/dots](https://github.com/creio/dots) - config (today)
-- [waylow/boneWidget](https://github.com/waylow/boneWidget) (today)
-- [waylow/boneWidget_temp](https://github.com/waylow/boneWidget_temp) - Blender add-on for making bone shape (today)
-- [elmoiv/azapi](https://github.com/elmoiv/azapi) - Get Lyrics from AZLyrics.com like a Boss ~(0_0)~ (today)
-- [elmoiv/elmocut](https://github.com/elmoiv/elmocut) - Eye candy ARP spoofer for Windows (today)
+- [aman0046/LastMinuteRevision-CN](https://github.com/aman0046/LastMinuteRevision-CN) - Here is the last minute revision notes of Computer Network (today)
+- [aman0046/LastMinuteRevision-OS](https://github.com/aman0046/LastMinuteRevision-OS) (today)
+- [aman0046/TOP-100-DSA-Interview-Questions](https://github.com/aman0046/TOP-100-DSA-Interview-Questions) (today)
+- [aman0046/LastMinuteRevision-DBMS](https://github.com/aman0046/LastMinuteRevision-DBMS) - Here is the last minute revision notes of Database Management System (today)
+- [aman0046/LastMinuteRevision-OOP](https://github.com/aman0046/LastMinuteRevision-OOP) - Here is the last minute revision notes of Object Oriented Programming (today)
 
 ## 🔨 Latest Pull Requests I published
 
