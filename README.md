@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [comp500/SSLSocks](https://github.com/comp500/SSLSocks) - stunnel for Android GUI, allows tunneling over TLS (today)
-- [comp500/Indium](https://github.com/comp500/Indium) - Sodium addon providing support for the Fabric Rendering API, based on Indigo (today)
-- [comp500/quilt-serverside-mods](https://github.com/comp500/quilt-serverside-mods) - A list of server-side mods for the Quilt mod loader; including many Fabric mods (which are compatible with Quilt) and some Quilt-only mods. (today)
-- [udos86/ng-dynamic-forms](https://github.com/udos86/ng-dynamic-forms) - Rapid form development library for Angular (today)
-- [zfbx/zdiscord](https://github.com/zfbx/zdiscord) - A Discord bot that runs in FiveM for the purpose of whitelisting, moderation and utilties using discord.js (1 day ago)
+- [JulesBelveze/time-series-autoencoder](https://github.com/JulesBelveze/time-series-autoencoder) - PyTorch Dual-Attention LSTM-Autoencoder For Multivariate Time Series (today)
+- [chaokunyang/cloud-shop](https://github.com/chaokunyang/cloud-shop) - 基于Spring Cloud、微服务的电商购物平台 (today)
+- [chaokunyang/jkes](https://github.com/chaokunyang/jkes) - A search framework and multi-tenant search platform based on java, kafka, kafka connect, elasticsearch (today)
+- [chaokunyang/microservices-event-sourcing](https://github.com/chaokunyang/microservices-event-sourcing) - Microservices Event Sourcing 是一个微服务架构的在线购物网站，使用Spring Boot、Spring Cloud、Spring Reactor、OAuth2、CQRS 构建，实现了基于Event Sourcing的最终一致性，提供了构建端到端微服务的最佳实践 (today)
+- [cescoffier/reactive-coffeeshop-demo](https://github.com/cescoffier/reactive-coffeeshop-demo) - Quarkus, Kafka and Reactive are ordering coffee (today)
 
 ## 🔨 Latest Pull Requests I published
 
