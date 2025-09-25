@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [peter279k](https://github.com/peter279k)
+- [hiroshi-nagaya](https://github.com/hiroshi-nagaya)
 - [Bhushannasre](https://github.com/Bhushannasre)
 - [deepak9829](https://github.com/deepak9829)
 - [ai-joon](https://github.com/ai-joon)
@@ -54,16 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [ganibonzila-create](https://github.com/ganibonzila-create)
 - [truchuynh63](https://github.com/truchuynh63)
 - [Salehmoradi2005](https://github.com/Salehmoradi2005)
-- [mrwm03191-cyber](https://github.com/mrwm03191-cyber)
-- [levonk](https://github.com/levonk)
 
 ## ⭐ Recent stars
 
-- [JulesBelveze/time-series-autoencoder](https://github.com/JulesBelveze/time-series-autoencoder) - PyTorch Dual-Attention LSTM-Autoencoder For Multivariate Time Series (today)
-- [chaokunyang/cloud-shop](https://github.com/chaokunyang/cloud-shop) - 基于Spring Cloud、微服务的电商购物平台 (today)
-- [chaokunyang/jkes](https://github.com/chaokunyang/jkes) - A search framework and multi-tenant search platform based on java, kafka, kafka connect, elasticsearch (today)
-- [chaokunyang/microservices-event-sourcing](https://github.com/chaokunyang/microservices-event-sourcing) - Microservices Event Sourcing 是一个微服务架构的在线购物网站，使用Spring Boot、Spring Cloud、Spring Reactor、OAuth2、CQRS 构建，实现了基于Event Sourcing的最终一致性，提供了构建端到端微服务的最佳实践 (today)
-- [cescoffier/reactive-coffeeshop-demo](https://github.com/cescoffier/reactive-coffeeshop-demo) - Quarkus, Kafka and Reactive are ordering coffee (today)
+- [dmaicher/doctrine-test-bundle](https://github.com/dmaicher/doctrine-test-bundle) - Symfony bundle to isolate your app's doctrine database tests and improve the test performance (today)
+- [tabuna/web-socket](https://github.com/tabuna/web-socket) - Laravel library for asynchronously serving WebSockets. (today)
+- [tabuna/breadcrumbs](https://github.com/tabuna/breadcrumbs) - Laravel Breadcrumbs - An easy way to add breadcrumbs to your @Laravel app. (today)
+- [lynndylanhurley/j-toker](https://github.com/lynndylanhurley/j-toker) - Simple, secure token authentication for jQuery. (today)
+- [mattdesl/polyline-normals](https://github.com/mattdesl/polyline-normals) - gets miter normals for a 2D polyline (today)
 
 ## 🔨 Latest Pull Requests I published
 
