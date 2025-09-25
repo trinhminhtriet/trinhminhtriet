@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [deepadv](https://github.com/deepadv)
 - [peter279k](https://github.com/peter279k)
 - [hiroshi-nagaya](https://github.com/hiroshi-nagaya)
 - [Bhushannasre](https://github.com/Bhushannasre)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [edulazaro](https://github.com/edulazaro)
 - [ganibonzila-create](https://github.com/ganibonzila-create)
 - [truchuynh63](https://github.com/truchuynh63)
-- [Salehmoradi2005](https://github.com/Salehmoradi2005)
 
 ## ⭐ Recent stars
 
+- [filiph/egamebook](https://github.com/filiph/egamebook) - A procedural sword & sorcery adventure (today)
+- [filiph/english_words](https://github.com/filiph/english_words) - Utilities for working with English words (today)
+- [filiph/unsure](https://github.com/filiph/unsure) - Unsure Calculator (today)
+- [gaoyifan/china-operator-ip](https://github.com/gaoyifan/china-operator-ip) - 中国运营商IPv4/IPv6地址库-每日更新 (today)
 - [claudiob/bh](https://github.com/claudiob/bh) - Bootstrap Helpers for Ruby (today)
-- [JDevlieghere/dotfiles](https://github.com/JDevlieghere/dotfiles) - ⚙ Dotfiles for Linux & macOS (today)
-- [YilingQiao/diffsim](https://github.com/YilingQiao/diffsim) - Scalable Differentiable Physics for Learning and Control (ICML2020)  (today)
-- [YilingQiao/DMRF](https://github.com/YilingQiao/DMRF) - Dynamic Mesh-Aware Radiance Fields (ICCV2023): Raytracing rendering and interactive simulating mesh with NeRF (today)
-- [collin80/can_common](https://github.com/collin80/can_common) - Common structures and functionality for CAN libraries (today)
 
 ## 🔨 Latest Pull Requests I published
 
