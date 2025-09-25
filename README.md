@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [tenhobi/effective_dart](https://github.com/tenhobi/effective_dart) - Linter rules corresponding to the guidelines in Effective Dart (today)
+- [kobakei/MaterialFabSpeedDial](https://github.com/kobakei/MaterialFabSpeedDial) - Android UI library of FAB speed dial (today)
+- [kobakei/Android-RateThisApp](https://github.com/kobakei/Android-RateThisApp) - Android library to show "Rate this app" dialog (today)
 - [filiph/egamebook](https://github.com/filiph/egamebook) - A procedural sword & sorcery adventure (today)
 - [filiph/english_words](https://github.com/filiph/english_words) - Utilities for working with English words (today)
-- [filiph/unsure](https://github.com/filiph/unsure) - Unsure Calculator (today)
-- [gaoyifan/china-operator-ip](https://github.com/gaoyifan/china-operator-ip) - 中国运营商IPv4/IPv6地址库-每日更新 (today)
-- [claudiob/bh](https://github.com/claudiob/bh) - Bootstrap Helpers for Ruby (today)
 
 ## 🔨 Latest Pull Requests I published
 
