@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [devddine](https://github.com/devddine)
 - [deepadv](https://github.com/deepadv)
 - [peter279k](https://github.com/peter279k)
 - [hiroshi-nagaya](https://github.com/hiroshi-nagaya)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [admiralcarry-byte](https://github.com/admiralcarry-byte)
 - [edulazaro](https://github.com/edulazaro)
 - [ganibonzila-create](https://github.com/ganibonzila-create)
-- [truchuynh63](https://github.com/truchuynh63)
 
 ## ⭐ Recent stars
 
