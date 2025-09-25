@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [dmaicher/doctrine-test-bundle](https://github.com/dmaicher/doctrine-test-bundle) - Symfony bundle to isolate your app's doctrine database tests and improve the test performance (today)
-- [tabuna/web-socket](https://github.com/tabuna/web-socket) - Laravel library for asynchronously serving WebSockets. (today)
-- [tabuna/breadcrumbs](https://github.com/tabuna/breadcrumbs) - Laravel Breadcrumbs - An easy way to add breadcrumbs to your @Laravel app. (today)
-- [lynndylanhurley/j-toker](https://github.com/lynndylanhurley/j-toker) - Simple, secure token authentication for jQuery. (today)
-- [mattdesl/polyline-normals](https://github.com/mattdesl/polyline-normals) - gets miter normals for a 2D polyline (today)
+- [claudiob/bh](https://github.com/claudiob/bh) - Bootstrap Helpers for Ruby (today)
+- [JDevlieghere/dotfiles](https://github.com/JDevlieghere/dotfiles) - ⚙ Dotfiles for Linux & macOS (today)
+- [YilingQiao/diffsim](https://github.com/YilingQiao/diffsim) - Scalable Differentiable Physics for Learning and Control (ICML2020)  (today)
+- [YilingQiao/DMRF](https://github.com/YilingQiao/DMRF) - Dynamic Mesh-Aware Radiance Fields (ICCV2023): Raytracing rendering and interactive simulating mesh with NeRF (today)
+- [collin80/can_common](https://github.com/collin80/can_common) - Common structures and functionality for CAN libraries (today)
 
 ## 🔨 Latest Pull Requests I published
 
