@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [ishandutta2007](https://github.com/ishandutta2007)
 - [devddine](https://github.com/devddine)
 - [deepadv](https://github.com/deepadv)
 - [peter279k](https://github.com/peter279k)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [ai-joon](https://github.com/ai-joon)
 - [admiralcarry-byte](https://github.com/admiralcarry-byte)
 - [edulazaro](https://github.com/edulazaro)
-- [ganibonzila-create](https://github.com/ganibonzila-create)
 
 ## ⭐ Recent stars
 
-- [aman0046/LastMinuteRevision-CN](https://github.com/aman0046/LastMinuteRevision-CN) - Here is the last minute revision notes of Computer Network (today)
-- [aman0046/LastMinuteRevision-OS](https://github.com/aman0046/LastMinuteRevision-OS) (today)
-- [aman0046/TOP-100-DSA-Interview-Questions](https://github.com/aman0046/TOP-100-DSA-Interview-Questions) (today)
-- [aman0046/LastMinuteRevision-DBMS](https://github.com/aman0046/LastMinuteRevision-DBMS) - Here is the last minute revision notes of Database Management System (today)
-- [aman0046/LastMinuteRevision-OOP](https://github.com/aman0046/LastMinuteRevision-OOP) - Here is the last minute revision notes of Object Oriented Programming (today)
+- [snooppr/snoop](https://github.com/snooppr/snoop) - Snoop — инструмент разведки на основе открытых данных (OSINT world) (today)
+- [h2337/tsink](https://github.com/h2337/tsink) - Embedded time-series database for Rust (today)
+- [h2337/modreveal](https://github.com/h2337/modreveal) - Utility to find hidden Linux kernel modules (today)
+- [h2337/rssnix](https://github.com/h2337/rssnix) - Unix-style filesystem-based RSS/Atom/JSON Feed fetcher/reader (today)
+- [h2337/sysm](https://github.com/h2337/sysm) - sysm makes your system play custom sounds when any configured system or external event happens (today)
 
 ## 🔨 Latest Pull Requests I published
 
