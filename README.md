@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [admiralcarry-byte](https://github.com/admiralcarry-byte)
 - [edulazaro](https://github.com/edulazaro)
 - [ganibonzila-create](https://github.com/ganibonzila-create)
 - [truchuynh63](https://github.com/truchuynh63)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [mahmudnibir](https://github.com/mahmudnibir)
 - [HenriqueThz](https://github.com/HenriqueThz)
 - [Liuboshenko](https://github.com/Liuboshenko)
-- [MuradIsazade777](https://github.com/MuradIsazade777)
 
 ## ⭐ Recent stars
 
