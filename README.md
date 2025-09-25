@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [tenhobi/effective_dart](https://github.com/tenhobi/effective_dart) - Linter rules corresponding to the guidelines in Effective Dart (today)
-- [kobakei/MaterialFabSpeedDial](https://github.com/kobakei/MaterialFabSpeedDial) - Android UI library of FAB speed dial (today)
-- [kobakei/Android-RateThisApp](https://github.com/kobakei/Android-RateThisApp) - Android library to show "Rate this app" dialog (today)
-- [filiph/egamebook](https://github.com/filiph/egamebook) - A procedural sword & sorcery adventure (today)
-- [filiph/english_words](https://github.com/filiph/english_words) - Utilities for working with English words (today)
+- [elmoiv/azapi](https://github.com/elmoiv/azapi) - Get Lyrics from AZLyrics.com like a Boss ~(0_0)~ (today)
+- [elmoiv/elmocut](https://github.com/elmoiv/elmocut) - Eye candy ARP spoofer for Windows (today)
+- [ITachiLab/hotkey-detective](https://github.com/ITachiLab/hotkey-detective) - A small program for investigating stolen key combinations under Windows 7 and later. (today)
+- [ash2shukla/streamlit-bokeh-events](https://github.com/ash2shukla/streamlit-bokeh-events) - A streamlit component for bi-directional communication with bokeh plots. (today)
+- [pavansolapure/opencodez-samples](https://github.com/pavansolapure/opencodez-samples) - The code repository for Opencodez. Here at this git, we are trying to share code for Java, Python, PHP, Oracle and any new technology we try our hands and feel it can add value. (today)
 
 ## 🔨 Latest Pull Requests I published
 
