@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [kotritrona/osumapper](https://github.com/kotritrona/osumapper) - An automatic beatmap generator using Tensorflow / Deep Learning. (today)
+- [Superlee506/Mask_RCNN_Humanpose](https://github.com/Superlee506/Mask_RCNN_Humanpose) - Mask R-CNN for Human Pose Estimation on Keras and TensorFlow. (today)
+- [MimiOnuoha/missing-datasets](https://github.com/MimiOnuoha/missing-datasets) - An overview and exploration of the concept of missing datasets.  (today)
 - [pyfisch/cbor](https://github.com/pyfisch/cbor) - CBOR support for serde. (today)
 - [taberoajorge/saime-script](https://github.com/taberoajorge/saime-script) - This is a python script to validate up time of the saime web, even you can change the URL and you can use to everything that you want (today)
-- [Thermionix/fusion360](https://github.com/Thermionix/fusion360) - This is the snap for Autodesk Fusion 360 (today)
-- [baqihg/wxTimer](https://github.com/baqihg/wxTimer) - 微信小程序中的定时器（用于倒计时） (today)
-- [t-davidson/hate-speech-and-offensive-language](https://github.com/t-davidson/hate-speech-and-offensive-language) - Repository for the paper "Automated Hate Speech Detection and the Problem of Offensive Language", ICWSM 2017 (today)
 
 ## 🔨 Latest Pull Requests I published
 
