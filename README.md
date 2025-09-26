@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [headphonejames/acrn](https://github.com/headphonejames/acrn) -  Implementation of acoustic coordinated reset neuromodulation tinnitus treatment protocol in javascript. (today)
+- [DruRly/gemrat](https://github.com/DruRly/gemrat) - Save Time. Add the latest version of gems to your Gemfile from the command line. (today)
+- [PrajitR/fast-pixel-cnn](https://github.com/PrajitR/fast-pixel-cnn) - Speed up PixelCNN++ image generation by up to a 183 times (today)
 - [amv213/ComponentLibrary](https://github.com/amv213/ComponentLibrary) - Improved Inkscape vector graphics library for illustrations of optics experiments (today)
 - [aewallin/openvoronoi](https://github.com/aewallin/openvoronoi) - 2D voronoi diagram for point and line-segment sites using incremental topology-oriented algorithm. C++ with python bindings. Licensed under LGPL2.1. (today)
-- [aewallin/allantools](https://github.com/aewallin/allantools) - Allan deviation and related time & frequency statistics library in Python (today)
-- [aewallin/opencamlib](https://github.com/aewallin/opencamlib) - open source computer aided manufacturing algorithms library (today)
-- [braice/MuMuDVB](https://github.com/braice/MuMuDVB) - A DVB IPTV streaming software (today)
 
 ## 🔨 Latest Pull Requests I published
 
