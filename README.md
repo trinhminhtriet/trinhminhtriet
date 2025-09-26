@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [kala13x/slog](https://github.com/kala13x/slog) - Advanced cross-platform logging library for C/C++ (today)
-- [kala13x/flipper-xremote](https://github.com/kala13x/flipper-xremote) - Advanced IR Remote Application for Flipper Zero Device  (today)
-- [ngfw/Recipe](https://github.com/ngfw/Recipe) - Collection of PHP Functions (today)
-- [Nudin/iptable_vis](https://github.com/Nudin/iptable_vis) - visualise your iptables chains (today)
-- [astrochili/narrator](https://github.com/astrochili/narrator) - The Ink language parser and runtime implementation in Lua (today)
+- [mmai/glicko2js](https://github.com/mmai/glicko2js) - Glicko2 javascript implementation (today)
+- [Timendus/chip8-test-suite](https://github.com/Timendus/chip8-test-suite) - A collection of ROM images with tests that will aid you in developing your own CHIP-8, SUPER-CHIP or XO-CHIP interpreter (or "emulator") (today)
+- [jakc4103/DFQ](https://github.com/jakc4103/DFQ) - PyTorch implementation of Data Free Quantization Through Weight Equalization and Bias Correction. (today)
+- [VSehwag/minimal-diffusion](https://github.com/VSehwag/minimal-diffusion) - A minimal yet resourceful implementation of diffusion models (along with pretrained models + synthetic images for nine datasets) (today)
+- [coreylammie/MemTorch](https://github.com/coreylammie/MemTorch) - A Simulation Framework for Memristive Deep Learning Systems (today)
 
 ## 🔨 Latest Pull Requests I published
 
