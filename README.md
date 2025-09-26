@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [zhukovyuri/VIINA](https://github.com/zhukovyuri/VIINA) - VIINA: Violent Incident Information from News Articles on the 2022 Russian Invasion of Ukraine (today)
-- [ddohler/gdal-js](https://github.com/ddohler/gdal-js) - This is an Emscripten port of GDAL, an open source X/MIT licensed translator library for raster and vector geospatial data formats. (today)
-- [pkremp/polls](https://github.com/pkremp/polls) (today)
-- [bitterteasweetorange/nvim](https://github.com/bitterteasweetorange/nvim) - Neovim 0.9 configuration for coding React, TypeScript and Rust (today)
-- [1bardesign/batteries](https://github.com/1bardesign/batteries) - Reusable dependencies for games made with lua (especially with love) (today)
+- [rizasif/sqlite-unity-plugin](https://github.com/rizasif/sqlite-unity-plugin) - SQLite plugin for Unity3D Android and iOS build (today)
+- [hosseinshn/Basic-Multi-task-Learning](https://github.com/hosseinshn/Basic-Multi-task-Learning) - This is a repository for Multi-task learning with toy data in Pytorch and Tensorflow (today)
+- [hosseinshn/GradNorm](https://github.com/hosseinshn/GradNorm) - This in my Demo of Chen et al. "GradNorm: Gradient Normalization for Adaptive Loss Balancing in Deep Multitask Networks" ICML 2018 (today)
+- [kvh/Python-Suffix-Tree](https://github.com/kvh/Python-Suffix-Tree) - Suffix tree for string searching (today)
+- [kvh/recurrent](https://github.com/kvh/recurrent) - Natural language parsing of dates and recurring events (today)
 
 ## 🔨 Latest Pull Requests I published
 
