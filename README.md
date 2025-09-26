@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [rafa-houssam](https://github.com/rafa-houssam)
+- [BlackRaptor421](https://github.com/BlackRaptor421)
 - [JohnPollock](https://github.com/JohnPollock)
 - [ishandutta2007](https://github.com/ishandutta2007)
 - [devddine](https://github.com/devddine)
@@ -54,16 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [hiroshi-nagaya](https://github.com/hiroshi-nagaya)
 - [Bhushannasre](https://github.com/Bhushannasre)
 - [deepak9829](https://github.com/deepak9829)
-- [ai-joon](https://github.com/ai-joon)
-- [admiralcarry-byte](https://github.com/admiralcarry-byte)
 
 ## ⭐ Recent stars
 
-- [engineertype/Controleo3](https://github.com/engineertype/Controleo3) - Software for Controleo3 Reflow Oven Controller (today)
-- [engineer1109/LearnVulkan](https://github.com/engineer1109/LearnVulkan) - Learn Vulkan. Advanced examples of Vulkan, QT, CUDA, OpenCV for Linux, Windows, Android. (today)
-- [Brikwerk/nxbt](https://github.com/Brikwerk/nxbt) - Control your Nintendo Switch through a website, terminal, or macro. (today)
-- [yash42828/YOLO-object-detection-with-OpenCV](https://github.com/yash42828/YOLO-object-detection-with-OpenCV) - Object detection using YOLO object detector (today)
-- [yash42828/Data-Science--All-Cheat-Sheet](https://github.com/yash42828/Data-Science--All-Cheat-Sheet) (today)
+- [noahgolmant/pytorch-hessian-eigenthings](https://github.com/noahgolmant/pytorch-hessian-eigenthings) - Efficient PyTorch Hessian eigendecomposition tools! (today)
+- [WaqasSultani/AnomalyDetectionCVPR2018](https://github.com/WaqasSultani/AnomalyDetectionCVPR2018) (today)
+- [AbdelrhmanNile/steal](https://github.com/AbdelrhmanNile/steal) - Free and Open Source game center for Linux, Native and Wine pre-configured games. (today)
+- [laurentS/slowapi](https://github.com/laurentS/slowapi) - A rate limiter for Starlette and FastAPI (today)
+- [mrmierzejewski/conkyrc](https://github.com/mrmierzejewski/conkyrc) - Sample Conky (system monitor) configuration file with weather, CPU graph, memory graph, network traffic graph and processes (today)
 
 ## 🔨 Latest Pull Requests I published
 
