@@ -33,12 +33,12 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👷 Check out what I'm currently working on
 
-- [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) - 🚀 All-in-one CLI toolkit for developers: scaffold, manage, automate, and boost productivity across languages! (1 day ago)
-- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (1 day ago)
+- [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) - 🚀 All-in-one CLI toolkit for developers: scaffold, manage, automate, and boost productivity across languages! (2 days ago)
+- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (2 days ago)
 - [lamhaison/aws-cli-utils](https://github.com/lamhaison/aws-cli-utils) - This is the project to collect helpful aws cli commandline with complex options to support your working (1 week ago)
-- [trinhminhtriet/dwipe](https://github.com/trinhminhtriet/dwipe) - 🧹 Fast, cross-platform disk cleanup tool with interactive UI for easy directory size visualization. (2 weeks ago)
+- [trinhminhtriet/dwipe](https://github.com/trinhminhtriet/dwipe) - 🧹 Fast, cross-platform disk cleanup tool with interactive UI for easy directory size visualization. (3 weeks ago)
 - [nctl-io/nctl-roadmap](https://github.com/nctl-io/nctl-roadmap) (3 weeks ago)
-- [nctl-io/.github](https://github.com/nctl-io/.github) - 🌐 Network. Connect. Transform. Lead. (4 weeks ago)
+- [nctl-io/.github](https://github.com/nctl-io/.github) - 🌐 Network. Connect. Transform. Lead. (1 month ago)
 - [nctl-io/nctl-homepage](https://github.com/nctl-io/nctl-homepage) - 🚀 Modern homepage for NCTL: fast, responsive, TypeScript-powered, open source, and easy to customize. (1 month ago)
 - [nctl-io/nctl-branding](https://github.com/nctl-io/nctl-branding) - NCTL Branding 🖼️: Centralized assets and guidelines for consistent visual identity across NCTL projects and platforms. (1 month ago)
 - [trinhminhtriet/sizr](https://github.com/trinhminhtriet/sizr) - 📈 A fast, Rust-based tool to analyze file system usage with colorful output, file aggregation, exclusions, and directory comparisons. (1 month ago)
@@ -59,12 +59,12 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [snooppr/snoop](https://github.com/snooppr/snoop) - Snoop — инструмент разведки на основе открытых данных (OSINT world) (today)
-- [h2337/tsink](https://github.com/h2337/tsink) - Embedded time-series database for Rust (today)
-- [h2337/modreveal](https://github.com/h2337/modreveal) - Utility to find hidden Linux kernel modules (today)
-- [h2337/rssnix](https://github.com/h2337/rssnix) - Unix-style filesystem-based RSS/Atom/JSON Feed fetcher/reader (today)
-- [h2337/sysm](https://github.com/h2337/sysm) - sysm makes your system play custom sounds when any configured system or external event happens (today)
+- [arisada/midgetpack](https://github.com/arisada/midgetpack) - midgetpack is a multiplatform secure ELF packer (today)
+- [MetaWatchOpenProjects/MetaWatch-Gen2](https://github.com/MetaWatchOpenProjects/MetaWatch-Gen2) - This is the repository for the embedded watch source for Bluetooth 2.1 and 4.0 for models WDS111, WDS112, and SW12. This tree is designed for TI Code Composer Studio (CCS) and IAR Embedded Workbench® for TI MSP430.  This project has all the modules of the firmware including GUI, Bluetooth stack, background threads, and remote protocol handler. Different branches may be used for more divergent projects. TI's Code Composer firmware IDE is supported in this same firmware repository as the IAR version. The CCS IDE is available for FREE to all Meta Watch users that purchased a WDS11x development system or a development clip for STRATA or FRAME. Until there is a special download site, just get the 30 evaluation version and email ccs@metawatch.org when you need your license upgraded. (1 day ago)
+- [RTippin/messenger-demo](https://github.com/RTippin/messenger-demo) - Laravel messenger demo app using rtippin/messenger. Private and group threads with real-time messaging, reactions, attachments, calling, chat bots, and more! (1 day ago)
+- [RTippin/messenger](https://github.com/RTippin/messenger) - Laravel messenger. A full messenger suite for your new / existing laravel app! Private and group threads between multiple models, with real-time messaging, reactions, attachments, calling, chat bots, and more! (1 day ago)
+- [snooppr/snoop](https://github.com/snooppr/snoop) - Snoop — инструмент разведки на основе открытых данных (OSINT world) (1 day ago)
 
 ## 🔨 Latest Pull Requests I published
 
-- [Add DNS record management command with export functionality](https://github.com/trinhminhtriet/DevPilot/pull/10) on [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) (1 day ago)
+- [Add DNS record management command with export functionality](https://github.com/trinhminhtriet/DevPilot/pull/10) on [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) (2 days ago)
