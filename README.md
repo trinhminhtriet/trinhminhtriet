@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [alxkm](https://github.com/alxkm)
 - [rafa-houssam](https://github.com/rafa-houssam)
 - [BlackRaptor421](https://github.com/BlackRaptor421)
 - [JohnPollock](https://github.com/JohnPollock)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [peter279k](https://github.com/peter279k)
 - [hiroshi-nagaya](https://github.com/hiroshi-nagaya)
 - [Bhushannasre](https://github.com/Bhushannasre)
-- [deepak9829](https://github.com/deepak9829)
 
 ## ⭐ Recent stars
 
-- [rizasif/sqlite-unity-plugin](https://github.com/rizasif/sqlite-unity-plugin) - SQLite plugin for Unity3D Android and iOS build (today)
-- [hosseinshn/Basic-Multi-task-Learning](https://github.com/hosseinshn/Basic-Multi-task-Learning) - This is a repository for Multi-task learning with toy data in Pytorch and Tensorflow (today)
-- [hosseinshn/GradNorm](https://github.com/hosseinshn/GradNorm) - This in my Demo of Chen et al. "GradNorm: Gradient Normalization for Adaptive Loss Balancing in Deep Multitask Networks" ICML 2018 (today)
-- [kvh/Python-Suffix-Tree](https://github.com/kvh/Python-Suffix-Tree) - Suffix tree for string searching (today)
-- [kvh/recurrent](https://github.com/kvh/recurrent) - Natural language parsing of dates and recurring events (today)
+- [astrochili/narrator](https://github.com/astrochili/narrator) - The Ink language parser and runtime implementation in Lua (today)
+- [astrochili/vscode-defold](https://github.com/astrochili/vscode-defold) - A toolkit for Visual Studio Code to develop games with Defold (today)
+- [astrochili/awesome-defold](https://github.com/astrochili/awesome-defold) - Alternative Awesome Defold (today)
+- [PKGaspi/AsepriteScripts](https://github.com/PKGaspi/AsepriteScripts) - My collection of Aseprite Scripts. Useful to make repetitive export patterns quicker. (today)
+- [jpcy/ioq3-renderer-bgfx](https://github.com/jpcy/ioq3-renderer-bgfx) - A renderer for ioquake3 that uses bgfx. (today)
 
 ## 🔨 Latest Pull Requests I published
 
