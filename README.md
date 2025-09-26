@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [AnCG7/URPShaderCodeSample](https://github.com/AnCG7/URPShaderCodeSample) - Unity URP Shader 代码示例 (today)
+- [SteveHedden/kg_llm](https://github.com/SteveHedden/kg_llm) - Integrating knowledge graphs (KG) with large language models (LLM) (today)
+- [jbetancur/react-data-table-component](https://github.com/jbetancur/react-data-table-component) - A responsive table library with built-in sorting, pagination, selection, expandable rows, and customizable styling. (today)
 - [apteryxxyz/next-ws](https://github.com/apteryxxyz/next-ws) - Add support for WebSockets in Next.js app directory. (today)
 - [christopherpow/nesicide](https://github.com/christopherpow/nesicide) - Integrated Development Environment for the 8-bit Nintendo Entertainment System (today)
-- [christopherpow/nes-test-roms](https://github.com/christopherpow/nes-test-roms) - Collection of test ROMs for testing a NES emulator. (today)
-- [jcklie/wikimapper](https://github.com/jcklie/wikimapper) - Mapping Wikipedia pages to Wikidata IDs and vice versa. (today)
-- [kotritrona/osumapper](https://github.com/kotritrona/osumapper) - An automatic beatmap generator using Tensorflow / Deep Learning. (today)
 
 ## 🔨 Latest Pull Requests I published
 
