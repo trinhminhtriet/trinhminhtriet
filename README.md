@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [headphonejames/acrn](https://github.com/headphonejames/acrn) -  Implementation of acoustic coordinated reset neuromodulation tinnitus treatment protocol in javascript. (today)
-- [DruRly/gemrat](https://github.com/DruRly/gemrat) - Save Time. Add the latest version of gems to your Gemfile from the command line. (today)
-- [PrajitR/fast-pixel-cnn](https://github.com/PrajitR/fast-pixel-cnn) - Speed up PixelCNN++ image generation by up to a 183 times (today)
-- [amv213/ComponentLibrary](https://github.com/amv213/ComponentLibrary) - Improved Inkscape vector graphics library for illustrations of optics experiments (today)
-- [aewallin/openvoronoi](https://github.com/aewallin/openvoronoi) - 2D voronoi diagram for point and line-segment sites using incremental topology-oriented algorithm. C++ with python bindings. Licensed under LGPL2.1. (today)
+- [metroid-maniac/SCFW](https://github.com/metroid-maniac/SCFW) - SCFW Supercard Custom Firmware & Kernel  (today)
+- [andrew-lim/sdl2-raycast](https://github.com/andrew-lim/sdl2-raycast) - SDL2 C++ raycasting engine with vertical movement, floor/ceiling texture mapping and sprites. (today)
+- [nbarkhina/MarioHTML](https://github.com/nbarkhina/MarioHTML) - My take on an iconic game written in TypeScript (today)
+- [nbarkhina/N64Wasm](https://github.com/nbarkhina/N64Wasm) - A web based N64 Emulator (today)
+- [iamutkarshtiwari/Ananas](https://github.com/iamutkarshtiwari/Ananas) - An easy image editor integration for your Android apps.  (today)
 
 ## 🔨 Latest Pull Requests I published
 
