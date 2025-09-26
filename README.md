@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [thisalireza](https://github.com/thisalireza)
 - [abhijitpavse](https://github.com/abhijitpavse)
 - [yLeonardoDev](https://github.com/yLeonardoDev)
 - [mukeshlilawat1](https://github.com/mukeshlilawat1)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [JohnPollock](https://github.com/JohnPollock)
 - [ishandutta2007](https://github.com/ishandutta2007)
 - [devddine](https://github.com/devddine)
-- [deepadv](https://github.com/deepadv)
 
 ## ⭐ Recent stars
 
-- [AnCG7/URPShaderCodeSample](https://github.com/AnCG7/URPShaderCodeSample) - Unity URP Shader 代码示例 (today)
-- [SteveHedden/kg_llm](https://github.com/SteveHedden/kg_llm) - Integrating knowledge graphs (KG) with large language models (LLM) (today)
-- [jbetancur/react-data-table-component](https://github.com/jbetancur/react-data-table-component) - A responsive table library with built-in sorting, pagination, selection, expandable rows, and customizable styling. (today)
-- [apteryxxyz/next-ws](https://github.com/apteryxxyz/next-ws) - Add support for WebSockets in Next.js app directory. (today)
-- [christopherpow/nesicide](https://github.com/christopherpow/nesicide) - Integrated Development Environment for the 8-bit Nintendo Entertainment System (today)
+- [XueTianyu24/cnn_accelerator](https://github.com/XueTianyu24/cnn_accelerator) - 【入门项目】基于PYNQ-Z2实现手写数字识别卷积神经网络硬件加速器 (today)
+- [morninj/django-docker](https://github.com/morninj/django-docker) - A framework for deploying Django projects on Docker (today)
+- [mbilalzafar/fair-classification](https://github.com/mbilalzafar/fair-classification) - Python code for training fair logistic regression classifiers. (today)
+- [alexanyernas/Biblioteca](https://github.com/alexanyernas/Biblioteca) - Colección de libros recomendados en formato PDF que he realizado para ti y así puedas mejorar tus habilidades como programador. Recuerda, siempre disfruta del aprendizaje. (today)
+- [alexanyernas/Ejercicios-Practicos](https://github.com/alexanyernas/Ejercicios-Practicos) - Mejora tu lógica de programación y aprende mucho más resolviendo estos ejercicios. (today)
 
 ## 🔨 Latest Pull Requests I published
 
