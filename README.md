@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [mukeshlilawat1](https://github.com/mukeshlilawat1)
 - [alxkm](https://github.com/alxkm)
 - [rafa-houssam](https://github.com/rafa-houssam)
 - [BlackRaptor421](https://github.com/BlackRaptor421)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [deepadv](https://github.com/deepadv)
 - [peter279k](https://github.com/peter279k)
 - [hiroshi-nagaya](https://github.com/hiroshi-nagaya)
-- [Bhushannasre](https://github.com/Bhushannasre)
 
 ## ⭐ Recent stars
 
+- [kala13x/slog](https://github.com/kala13x/slog) - Advanced cross-platform logging library for C/C++ (today)
+- [kala13x/flipper-xremote](https://github.com/kala13x/flipper-xremote) - Advanced IR Remote Application for Flipper Zero Device  (today)
+- [ngfw/Recipe](https://github.com/ngfw/Recipe) - Collection of PHP Functions (today)
+- [Nudin/iptable_vis](https://github.com/Nudin/iptable_vis) - visualise your iptables chains (today)
 - [astrochili/narrator](https://github.com/astrochili/narrator) - The Ink language parser and runtime implementation in Lua (today)
-- [astrochili/vscode-defold](https://github.com/astrochili/vscode-defold) - A toolkit for Visual Studio Code to develop games with Defold (today)
-- [astrochili/awesome-defold](https://github.com/astrochili/awesome-defold) - Alternative Awesome Defold (today)
-- [PKGaspi/AsepriteScripts](https://github.com/PKGaspi/AsepriteScripts) - My collection of Aseprite Scripts. Useful to make repetitive export patterns quicker. (today)
-- [jpcy/ioq3-renderer-bgfx](https://github.com/jpcy/ioq3-renderer-bgfx) - A renderer for ioquake3 that uses bgfx. (today)
 
 ## 🔨 Latest Pull Requests I published
 
