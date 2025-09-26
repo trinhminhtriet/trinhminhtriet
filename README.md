@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [abhijitpavse](https://github.com/abhijitpavse)
 - [yLeonardoDev](https://github.com/yLeonardoDev)
 - [mukeshlilawat1](https://github.com/mukeshlilawat1)
 - [alxkm](https://github.com/alxkm)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [ishandutta2007](https://github.com/ishandutta2007)
 - [devddine](https://github.com/devddine)
 - [deepadv](https://github.com/deepadv)
-- [peter279k](https://github.com/peter279k)
 
 ## ⭐ Recent stars
 
+- [apteryxxyz/next-ws](https://github.com/apteryxxyz/next-ws) - Add support for WebSockets in Next.js app directory. (today)
+- [christopherpow/nesicide](https://github.com/christopherpow/nesicide) - Integrated Development Environment for the 8-bit Nintendo Entertainment System (today)
+- [christopherpow/nes-test-roms](https://github.com/christopherpow/nes-test-roms) - Collection of test ROMs for testing a NES emulator. (today)
+- [jcklie/wikimapper](https://github.com/jcklie/wikimapper) - Mapping Wikipedia pages to Wikidata IDs and vice versa. (today)
 - [kotritrona/osumapper](https://github.com/kotritrona/osumapper) - An automatic beatmap generator using Tensorflow / Deep Learning. (today)
-- [Superlee506/Mask_RCNN_Humanpose](https://github.com/Superlee506/Mask_RCNN_Humanpose) - Mask R-CNN for Human Pose Estimation on Keras and TensorFlow. (today)
-- [MimiOnuoha/missing-datasets](https://github.com/MimiOnuoha/missing-datasets) - An overview and exploration of the concept of missing datasets.  (today)
-- [pyfisch/cbor](https://github.com/pyfisch/cbor) - CBOR support for serde. (today)
-- [taberoajorge/saime-script](https://github.com/taberoajorge/saime-script) - This is a python script to validate up time of the saime web, even you can change the URL and you can use to everything that you want (today)
 
 ## 🔨 Latest Pull Requests I published
 
