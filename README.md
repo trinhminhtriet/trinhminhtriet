@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [grimfang4/sfxr](https://github.com/grimfang4/sfxr) - DrPetter's sound effect generator (today)
-- [grimfang4/SDL_FontCache](https://github.com/grimfang4/SDL_FontCache) - A generic font caching C library with loading and rendering support for SDL. (today)
-- [grimfang4/sdl-gpu](https://github.com/grimfang4/sdl-gpu) - A library for high-performance, modern 2D graphics with SDL written in C. (today)
-- [jprjr/multistreamer](https://github.com/jprjr/multistreamer) - [discontinued] A webapp for publishing video to multiple streaming services at once. (today)
-- [mausimus/rvx](https://github.com/mausimus/rvx) - Retro VoXel graphics framework (today)
+- [synchronizing/mitm](https://github.com/synchronizing/mitm) - 👨🏼‍💻‎‎‎‏‏ A customizable man-in-the-middle TCP intercepting proxy. (today)
+- [synchronizing/bluelink](https://github.com/synchronizing/bluelink) - 🚙 Control your Hyundai car via Python. (today)
+- [electricessence/TypeScript.NET](https://github.com/electricessence/TypeScript.NET) - A JavaScript-Friendly .NET Based TypeScript Library (Moved) (today)
+- [ivantsepp/annotate_gem](https://github.com/ivantsepp/annotate_gem) - :evergreen_tree: Add comments to your Gemfile with each dependency's description (today)
+- [DaGooseYT/FrameGUI](https://github.com/DaGooseYT/FrameGUI) - FrameGUI (frame-gooey) is a free, cross-platform, very easy to use encoding utility featuring AI filters, based on the more comprehensive EncodeGUI encoding tool. (today)
 
 ## 🔨 Latest Pull Requests I published
 
