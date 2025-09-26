@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Y4NN777](https://github.com/Y4NN777)
 - [ishandutta2007](https://github.com/ishandutta2007)
 - [digas99](https://github.com/digas99)
 - [thisalireza](https://github.com/thisalireza)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [alxkm](https://github.com/alxkm)
 - [rafa-houssam](https://github.com/rafa-houssam)
 - [BlackRaptor421](https://github.com/BlackRaptor421)
-- [JohnPollock](https://github.com/JohnPollock)
 
 ## ⭐ Recent stars
 
-- [metroid-maniac/SCFW](https://github.com/metroid-maniac/SCFW) - SCFW Supercard Custom Firmware & Kernel  (today)
-- [andrew-lim/sdl2-raycast](https://github.com/andrew-lim/sdl2-raycast) - SDL2 C++ raycasting engine with vertical movement, floor/ceiling texture mapping and sprites. (today)
-- [nbarkhina/MarioHTML](https://github.com/nbarkhina/MarioHTML) - My take on an iconic game written in TypeScript (today)
-- [nbarkhina/N64Wasm](https://github.com/nbarkhina/N64Wasm) - A web based N64 Emulator (today)
-- [iamutkarshtiwari/Ananas](https://github.com/iamutkarshtiwari/Ananas) - An easy image editor integration for your Android apps.  (today)
+- [grimfang4/sfxr](https://github.com/grimfang4/sfxr) - DrPetter's sound effect generator (today)
+- [grimfang4/SDL_FontCache](https://github.com/grimfang4/SDL_FontCache) - A generic font caching C library with loading and rendering support for SDL. (today)
+- [grimfang4/sdl-gpu](https://github.com/grimfang4/sdl-gpu) - A library for high-performance, modern 2D graphics with SDL written in C. (today)
+- [jprjr/multistreamer](https://github.com/jprjr/multistreamer) - [discontinued] A webapp for publishing video to multiple streaming services at once. (today)
+- [mausimus/rvx](https://github.com/mausimus/rvx) - Retro VoXel graphics framework (today)
 
 ## 🔨 Latest Pull Requests I published
 
