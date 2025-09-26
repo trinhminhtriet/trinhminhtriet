@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [XueTianyu24/cnn_accelerator](https://github.com/XueTianyu24/cnn_accelerator) - 【入门项目】基于PYNQ-Z2实现手写数字识别卷积神经网络硬件加速器 (today)
-- [morninj/django-docker](https://github.com/morninj/django-docker) - A framework for deploying Django projects on Docker (today)
-- [mbilalzafar/fair-classification](https://github.com/mbilalzafar/fair-classification) - Python code for training fair logistic regression classifiers. (today)
-- [alexanyernas/Biblioteca](https://github.com/alexanyernas/Biblioteca) - Colección de libros recomendados en formato PDF que he realizado para ti y así puedas mejorar tus habilidades como programador. Recuerda, siempre disfruta del aprendizaje. (today)
-- [alexanyernas/Ejercicios-Practicos](https://github.com/alexanyernas/Ejercicios-Practicos) - Mejora tu lógica de programación y aprende mucho más resolviendo estos ejercicios. (today)
+- [richstokes/cheekymonkey](https://github.com/richstokes/cheekymonkey) - 🐵 Literally a Chaos Monkey for your Kubernetes clusters (today)
+- [renpenguin/display3d](https://github.com/renpenguin/display3d) - A command line interface for rendering and animating 3D objects (today)
+- [hectorm/hblock](https://github.com/hectorm/hblock) - Improve your security and privacy by blocking ads, tracking and malware domains. (today)
+- [Gorcenski/voting-machines](https://github.com/Gorcenski/voting-machines) - A repo for exploring the software quality of electronic voting machines (today)
+- [bbbradsmith/NES-ca65-example](https://github.com/bbbradsmith/NES-ca65-example) - A minimal NES example using ca65 (today)
 
 ## 🔨 Latest Pull Requests I published
 
