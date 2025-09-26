@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [arisada/midgetpack](https://github.com/arisada/midgetpack) - midgetpack is a multiplatform secure ELF packer (today)
-- [MetaWatchOpenProjects/MetaWatch-Gen2](https://github.com/MetaWatchOpenProjects/MetaWatch-Gen2) - This is the repository for the embedded watch source for Bluetooth 2.1 and 4.0 for models WDS111, WDS112, and SW12. This tree is designed for TI Code Composer Studio (CCS) and IAR Embedded Workbench® for TI MSP430.  This project has all the modules of the firmware including GUI, Bluetooth stack, background threads, and remote protocol handler. Different branches may be used for more divergent projects. TI's Code Composer firmware IDE is supported in this same firmware repository as the IAR version. The CCS IDE is available for FREE to all Meta Watch users that purchased a WDS11x development system or a development clip for STRATA or FRAME. Until there is a special download site, just get the 30 evaluation version and email ccs@metawatch.org when you need your license upgraded. (1 day ago)
-- [RTippin/messenger-demo](https://github.com/RTippin/messenger-demo) - Laravel messenger demo app using rtippin/messenger. Private and group threads with real-time messaging, reactions, attachments, calling, chat bots, and more! (1 day ago)
-- [RTippin/messenger](https://github.com/RTippin/messenger) - Laravel messenger. A full messenger suite for your new / existing laravel app! Private and group threads between multiple models, with real-time messaging, reactions, attachments, calling, chat bots, and more! (1 day ago)
-- [snooppr/snoop](https://github.com/snooppr/snoop) - Snoop — инструмент разведки на основе открытых данных (OSINT world) (1 day ago)
+- [0xDanielLopez/phishing_kits](https://github.com/0xDanielLopez/phishing_kits) - Exposing phishing kits seen from phishunt.io (today)
+- [0xDanielLopez/TweetFeed](https://github.com/0xDanielLopez/TweetFeed) - TweetFeed collects Indicators of Compromise (IOCs) shared by the infosec community at Twitter. Here you will find malicious URLs, domains, IPs, and SHA256/MD5 hashes. (today)
+- [Shad0w-ops/H.I.V.E](https://github.com/Shad0w-ops/H.I.V.E) - H.I.V.E is an automated OSINT (Open Source Intelligence) multi-tool that enables efficient data gathering from various sources through the utilization of a single, unified platform. (today)
+- [OSINT-TECHNOLOGIES/dpulse](https://github.com/OSINT-TECHNOLOGIES/dpulse) - DPULSE - Tool for complex approach to domain OSINT (today)
+- [nmrr/flipperzero-geigercounter](https://github.com/nmrr/flipperzero-geigercounter) - ☢☢ A geiger counter application for the Flipper Zero ☢☢ (today)
 
 ## 🔨 Latest Pull Requests I published
 
