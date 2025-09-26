@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [tanus786/CP-Codes-HackOctober-Fest-2023](https://github.com/tanus786/CP-Codes-HackOctober-Fest-2023) - This repository is for beginners who want to contribution in open source HackOctober Fest 2023 (today)
 - [WolfIcefang/dactyl-chimera-keyboard](https://github.com/WolfIcefang/dactyl-chimera-keyboard) - A mechanical keyboard designed for 3D printing, tinkering, and experimentation. (today)
 - [nazywam/AutoIt-Ripper](https://github.com/nazywam/AutoIt-Ripper) - Extract AutoIt scripts embedded in PE binaries (today)
 - [jamesbachini/DEX-Arbitrage](https://github.com/jamesbachini/DEX-Arbitrage) - Example arbitrage trading bot (today)
 - [Phype/telnet-iot-honeypot](https://github.com/Phype/telnet-iot-honeypot) - Python telnet honeypot for catching botnet binaries (today)
-- [cludeex/spammer](https://github.com/cludeex/spammer) - Простой, но мощный SMS-спамер (today)
 
 ## 🔨 Latest Pull Requests I published
 
