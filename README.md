@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [noahgolmant/pytorch-hessian-eigenthings](https://github.com/noahgolmant/pytorch-hessian-eigenthings) - Efficient PyTorch Hessian eigendecomposition tools! (today)
-- [WaqasSultani/AnomalyDetectionCVPR2018](https://github.com/WaqasSultani/AnomalyDetectionCVPR2018) (today)
-- [AbdelrhmanNile/steal](https://github.com/AbdelrhmanNile/steal) - Free and Open Source game center for Linux, Native and Wine pre-configured games. (today)
-- [laurentS/slowapi](https://github.com/laurentS/slowapi) - A rate limiter for Starlette and FastAPI (today)
-- [mrmierzejewski/conkyrc](https://github.com/mrmierzejewski/conkyrc) - Sample Conky (system monitor) configuration file with weather, CPU graph, memory graph, network traffic graph and processes (today)
+- [zhukovyuri/VIINA](https://github.com/zhukovyuri/VIINA) - VIINA: Violent Incident Information from News Articles on the 2022 Russian Invasion of Ukraine (today)
+- [ddohler/gdal-js](https://github.com/ddohler/gdal-js) - This is an Emscripten port of GDAL, an open source X/MIT licensed translator library for raster and vector geospatial data formats. (today)
+- [pkremp/polls](https://github.com/pkremp/polls) (today)
+- [bitterteasweetorange/nvim](https://github.com/bitterteasweetorange/nvim) - Neovim 0.9 configuration for coding React, TypeScript and Rust (today)
+- [1bardesign/batteries](https://github.com/1bardesign/batteries) - Reusable dependencies for games made with lua (especially with love) (today)
 
 ## 🔨 Latest Pull Requests I published
 
