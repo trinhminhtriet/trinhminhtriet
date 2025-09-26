@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [digas99](https://github.com/digas99)
 - [thisalireza](https://github.com/thisalireza)
 - [abhijitpavse](https://github.com/abhijitpavse)
 - [yLeonardoDev](https://github.com/yLeonardoDev)
@@ -54,16 +55,15 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [rafa-houssam](https://github.com/rafa-houssam)
 - [BlackRaptor421](https://github.com/BlackRaptor421)
 - [JohnPollock](https://github.com/JohnPollock)
-- [ishandutta2007](https://github.com/ishandutta2007)
 - [devddine](https://github.com/devddine)
 
 ## ⭐ Recent stars
 
+- [MrFrenik/Enjon](https://github.com/MrFrenik/Enjon) - Game engine created using OpenGL and C++ (today)
+- [MrFrenik/gunslinger](https://github.com/MrFrenik/gunslinger) - C99, header-only framework for games and multimedia applications (today)
+- [dinguschan-owo/Helios](https://github.com/dinguschan-owo/Helios) - Helios is an COMPLETELY UNBLOCKABLE proxy with tabs that can be static hosted, can be run locally, and is html css js only! This is (as far as i've found) the only true UNBLOCKABLE only HTML proxy that works with any blocking software! Plus its open sauce so you can take this code and build your own proxy! (⭐ PLEASE star if you fork! ⭐) (today)
+- [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development (today)
 - [richstokes/cheekymonkey](https://github.com/richstokes/cheekymonkey) - 🐵 Literally a Chaos Monkey for your Kubernetes clusters (today)
-- [renpenguin/display3d](https://github.com/renpenguin/display3d) - A command line interface for rendering and animating 3D objects (today)
-- [hectorm/hblock](https://github.com/hectorm/hblock) - Improve your security and privacy by blocking ads, tracking and malware domains. (today)
-- [Gorcenski/voting-machines](https://github.com/Gorcenski/voting-machines) - A repo for exploring the software quality of electronic voting machines (today)
-- [bbbradsmith/NES-ca65-example](https://github.com/bbbradsmith/NES-ca65-example) - A minimal NES example using ca65 (today)
 
 ## 🔨 Latest Pull Requests I published
 
