@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [ishandutta2007](https://github.com/ishandutta2007)
 - [digas99](https://github.com/digas99)
 - [thisalireza](https://github.com/thisalireza)
 - [abhijitpavse](https://github.com/abhijitpavse)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [rafa-houssam](https://github.com/rafa-houssam)
 - [BlackRaptor421](https://github.com/BlackRaptor421)
 - [JohnPollock](https://github.com/JohnPollock)
-- [devddine](https://github.com/devddine)
 
 ## ⭐ Recent stars
 
-- [MrFrenik/Enjon](https://github.com/MrFrenik/Enjon) - Game engine created using OpenGL and C++ (today)
-- [MrFrenik/gunslinger](https://github.com/MrFrenik/gunslinger) - C99, header-only framework for games and multimedia applications (today)
-- [dinguschan-owo/Helios](https://github.com/dinguschan-owo/Helios) - Helios is an COMPLETELY UNBLOCKABLE proxy with tabs that can be static hosted, can be run locally, and is html css js only! This is (as far as i've found) the only true UNBLOCKABLE only HTML proxy that works with any blocking software! Plus its open sauce so you can take this code and build your own proxy! (⭐ PLEASE star if you fork! ⭐) (today)
-- [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development (today)
-- [richstokes/cheekymonkey](https://github.com/richstokes/cheekymonkey) - 🐵 Literally a Chaos Monkey for your Kubernetes clusters (today)
+- [amv213/ComponentLibrary](https://github.com/amv213/ComponentLibrary) - Improved Inkscape vector graphics library for illustrations of optics experiments (today)
+- [aewallin/openvoronoi](https://github.com/aewallin/openvoronoi) - 2D voronoi diagram for point and line-segment sites using incremental topology-oriented algorithm. C++ with python bindings. Licensed under LGPL2.1. (today)
+- [aewallin/allantools](https://github.com/aewallin/allantools) - Allan deviation and related time & frequency statistics library in Python (today)
+- [aewallin/opencamlib](https://github.com/aewallin/opencamlib) - open source computer aided manufacturing algorithms library (today)
+- [braice/MuMuDVB](https://github.com/braice/MuMuDVB) - A DVB IPTV streaming software (today)
 
 ## 🔨 Latest Pull Requests I published
 
