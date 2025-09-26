@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [0xDanielLopez/phishing_kits](https://github.com/0xDanielLopez/phishing_kits) - Exposing phishing kits seen from phishunt.io (today)
-- [0xDanielLopez/TweetFeed](https://github.com/0xDanielLopez/TweetFeed) - TweetFeed collects Indicators of Compromise (IOCs) shared by the infosec community at Twitter. Here you will find malicious URLs, domains, IPs, and SHA256/MD5 hashes. (today)
-- [Shad0w-ops/H.I.V.E](https://github.com/Shad0w-ops/H.I.V.E) - H.I.V.E is an automated OSINT (Open Source Intelligence) multi-tool that enables efficient data gathering from various sources through the utilization of a single, unified platform. (today)
-- [OSINT-TECHNOLOGIES/dpulse](https://github.com/OSINT-TECHNOLOGIES/dpulse) - DPULSE - Tool for complex approach to domain OSINT (today)
-- [nmrr/flipperzero-geigercounter](https://github.com/nmrr/flipperzero-geigercounter) - ☢☢ A geiger counter application for the Flipper Zero ☢☢ (today)
+- [WolfIcefang/dactyl-chimera-keyboard](https://github.com/WolfIcefang/dactyl-chimera-keyboard) - A mechanical keyboard designed for 3D printing, tinkering, and experimentation. (today)
+- [nazywam/AutoIt-Ripper](https://github.com/nazywam/AutoIt-Ripper) - Extract AutoIt scripts embedded in PE binaries (today)
+- [jamesbachini/DEX-Arbitrage](https://github.com/jamesbachini/DEX-Arbitrage) - Example arbitrage trading bot (today)
+- [Phype/telnet-iot-honeypot](https://github.com/Phype/telnet-iot-honeypot) - Python telnet honeypot for catching botnet binaries (today)
+- [cludeex/spammer](https://github.com/cludeex/spammer) - Простой, но мощный SMS-спамер (today)
 
 ## 🔨 Latest Pull Requests I published
 
