@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [JohnPollock](https://github.com/JohnPollock)
 - [ishandutta2007](https://github.com/ishandutta2007)
 - [devddine](https://github.com/devddine)
 - [deepadv](https://github.com/deepadv)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [deepak9829](https://github.com/deepak9829)
 - [ai-joon](https://github.com/ai-joon)
 - [admiralcarry-byte](https://github.com/admiralcarry-byte)
-- [edulazaro](https://github.com/edulazaro)
 
 ## ⭐ Recent stars
 
-- [tanus786/CP-Codes-HackOctober-Fest-2023](https://github.com/tanus786/CP-Codes-HackOctober-Fest-2023) - This repository is for beginners who want to contribution in open source HackOctober Fest 2023 (today)
-- [WolfIcefang/dactyl-chimera-keyboard](https://github.com/WolfIcefang/dactyl-chimera-keyboard) - A mechanical keyboard designed for 3D printing, tinkering, and experimentation. (today)
-- [nazywam/AutoIt-Ripper](https://github.com/nazywam/AutoIt-Ripper) - Extract AutoIt scripts embedded in PE binaries (today)
-- [jamesbachini/DEX-Arbitrage](https://github.com/jamesbachini/DEX-Arbitrage) - Example arbitrage trading bot (today)
-- [Phype/telnet-iot-honeypot](https://github.com/Phype/telnet-iot-honeypot) - Python telnet honeypot for catching botnet binaries (today)
+- [engineertype/Controleo3](https://github.com/engineertype/Controleo3) - Software for Controleo3 Reflow Oven Controller (today)
+- [engineer1109/LearnVulkan](https://github.com/engineer1109/LearnVulkan) - Learn Vulkan. Advanced examples of Vulkan, QT, CUDA, OpenCV for Linux, Windows, Android. (today)
+- [Brikwerk/nxbt](https://github.com/Brikwerk/nxbt) - Control your Nintendo Switch through a website, terminal, or macro. (today)
+- [yash42828/YOLO-object-detection-with-OpenCV](https://github.com/yash42828/YOLO-object-detection-with-OpenCV) - Object detection using YOLO object detector (today)
+- [yash42828/Data-Science--All-Cheat-Sheet](https://github.com/yash42828/Data-Science--All-Cheat-Sheet) (today)
 
 ## 🔨 Latest Pull Requests I published
 
