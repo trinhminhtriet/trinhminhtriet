@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [yLeonardoDev](https://github.com/yLeonardoDev)
 - [mukeshlilawat1](https://github.com/mukeshlilawat1)
 - [alxkm](https://github.com/alxkm)
 - [rafa-houssam](https://github.com/rafa-houssam)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [devddine](https://github.com/devddine)
 - [deepadv](https://github.com/deepadv)
 - [peter279k](https://github.com/peter279k)
-- [hiroshi-nagaya](https://github.com/hiroshi-nagaya)
 
 ## ⭐ Recent stars
 
-- [mmai/glicko2js](https://github.com/mmai/glicko2js) - Glicko2 javascript implementation (today)
-- [Timendus/chip8-test-suite](https://github.com/Timendus/chip8-test-suite) - A collection of ROM images with tests that will aid you in developing your own CHIP-8, SUPER-CHIP or XO-CHIP interpreter (or "emulator") (today)
-- [jakc4103/DFQ](https://github.com/jakc4103/DFQ) - PyTorch implementation of Data Free Quantization Through Weight Equalization and Bias Correction. (today)
-- [VSehwag/minimal-diffusion](https://github.com/VSehwag/minimal-diffusion) - A minimal yet resourceful implementation of diffusion models (along with pretrained models + synthetic images for nine datasets) (today)
-- [coreylammie/MemTorch](https://github.com/coreylammie/MemTorch) - A Simulation Framework for Memristive Deep Learning Systems (today)
+- [pyfisch/cbor](https://github.com/pyfisch/cbor) - CBOR support for serde. (today)
+- [taberoajorge/saime-script](https://github.com/taberoajorge/saime-script) - This is a python script to validate up time of the saime web, even you can change the URL and you can use to everything that you want (today)
+- [Thermionix/fusion360](https://github.com/Thermionix/fusion360) - This is the snap for Autodesk Fusion 360 (today)
+- [baqihg/wxTimer](https://github.com/baqihg/wxTimer) - 微信小程序中的定时器（用于倒计时） (today)
+- [t-davidson/hate-speech-and-offensive-language](https://github.com/t-davidson/hate-speech-and-offensive-language) - Repository for the paper "Automated Hate Speech Detection and the Problem of Offensive Language", ICWSM 2017 (today)
 
 ## 🔨 Latest Pull Requests I published
 
