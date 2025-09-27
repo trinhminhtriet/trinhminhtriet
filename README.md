@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [dclardy64/ISPConfig-3-Debian-Installer](https://github.com/dclardy64/ISPConfig-3-Debian-Installer) - Auto install script for ISPConfig 3 on Debian (today)
 - [rheadsh/baffects.js](https://github.com/rheadsh/baffects.js) - Baffects.js is a library adaptation in JavaScript for Adobe After Effects of the Processing language. It allows for most of the functionality included in Processing to be used natively in After Effects, plus a custom workflow to enhance productivity in After Effects. (today)
 - [captainhammy/Houdini-Toolbox](https://github.com/captainhammy/Houdini-Toolbox) - Houdini things! (today)
 - [heimlich1024/OD_CopyPasteExternal](https://github.com/heimlich1024/OD_CopyPasteExternal) - Easily copying and pasting of geometry between 3D Applications (today)
 - [aturtur/after-effects-scripts](https://github.com/aturtur/after-effects-scripts) - My collection of After Effects scripts (today)
-- [aturtur/cinema4d-scripts](https://github.com/aturtur/cinema4d-scripts) - My collection of Cinema 4D scripts (today)
 
 ## 🔨 Latest Pull Requests I published
 
