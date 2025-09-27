@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [notoriousb1t/awesome-css-variables](https://github.com/notoriousb1t/awesome-css-variables) - A curated list of all awesome libraries and resources for CSS Variables (today)
+- [notoriousb1t/polymorph](https://github.com/notoriousb1t/polymorph) - Get Your SVG into Shape! (today)
+- [MrPrimate/ddb-importer](https://github.com/MrPrimate/ddb-importer) - Integrate your dndbeyond.com content into Foundry virtual tabletop (today)
 - [heyseth/worm-sim](https://github.com/heyseth/worm-sim) - Simulate the C. Elegans worm brain in your browser and interact with the worm as it moves around (today)
 - [jeaiii/itoa](https://github.com/jeaiii/itoa) - Fast integer to ascii / integer to string conversion (today)
-- [jirihnidek/daemon](https://github.com/jirihnidek/daemon) - Simple example of daemon for Linux (today)
-- [kakashidinho/metalangle](https://github.com/kakashidinho/metalangle) - MetalANGLE: OpenGL ES to Metal API translation layer (today)
-- [kaliatech/web-audio-recording-tests](https://github.com/kaliatech/web-audio-recording-tests) - Web audio recording tests, particularly for verifying functionality on iOS/Safari. (today)
 
 ## 🔨 Latest Pull Requests I published
 
