@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [ipqwery](https://github.com/ipqwery)
 - [Ashnice](https://github.com/Ashnice)
 - [JRigh](https://github.com/JRigh)
 - [dd7793168-ai](https://github.com/dd7793168-ai)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [abhijitpavse](https://github.com/abhijitpavse)
 - [yLeonardoDev](https://github.com/yLeonardoDev)
 - [mukeshlilawat1](https://github.com/mukeshlilawat1)
-- [alxkm](https://github.com/alxkm)
 
 ## ⭐ Recent stars
 
+- [sandipanpaul21/Clustering-in-Python](https://github.com/sandipanpaul21/Clustering-in-Python) - Clustering methods in Machine Learning includes both theory and python code of each algorithm. Algorithms include K Mean, K Mode, Hierarchical, DB Scan and Gaussian Mixture Model GMM. Interview questions on clustering are also added in the end.  (today)
+- [t-redactyl/llm-semantic-book-recommender](https://github.com/t-redactyl/llm-semantic-book-recommender) - The code to accompany the freeCodeCamp tutorial explaining how to use large language models to build a semantic book recommender. (today)
+- [alfredosalzillo/rollup-plugin-multi-input](https://github.com/alfredosalzillo/rollup-plugin-multi-input) - A Rollup plugin to bundle modular libraries (today)
 - [notoriousb1t/awesome-css-variables](https://github.com/notoriousb1t/awesome-css-variables) - A curated list of all awesome libraries and resources for CSS Variables (today)
 - [notoriousb1t/polymorph](https://github.com/notoriousb1t/polymorph) - Get Your SVG into Shape! (today)
-- [MrPrimate/ddb-importer](https://github.com/MrPrimate/ddb-importer) - Integrate your dndbeyond.com content into Foundry virtual tabletop (today)
-- [heyseth/worm-sim](https://github.com/heyseth/worm-sim) - Simulate the C. Elegans worm brain in your browser and interact with the worm as it moves around (today)
-- [jeaiii/itoa](https://github.com/jeaiii/itoa) - Fast integer to ascii / integer to string conversion (today)
 
 ## 🔨 Latest Pull Requests I published
 
