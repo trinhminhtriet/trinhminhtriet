@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [JRigh](https://github.com/JRigh)
 - [dd7793168-ai](https://github.com/dd7793168-ai)
 - [Y4NN777](https://github.com/Y4NN777)
 - [ishandutta2007](https://github.com/ishandutta2007)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [yLeonardoDev](https://github.com/yLeonardoDev)
 - [mukeshlilawat1](https://github.com/mukeshlilawat1)
 - [alxkm](https://github.com/alxkm)
-- [rafa-houssam](https://github.com/rafa-houssam)
 
 ## ⭐ Recent stars
 
-- [yuvalsuede/jasper-alternative-gpt](https://github.com/yuvalsuede/jasper-alternative-gpt) - A Jasper alternative open source with ChatGPT (today)
-- [yuvalsuede/ai-component-generator](https://github.com/yuvalsuede/ai-component-generator) (today)
-- [Achalogy/advent-js-2022](https://github.com/Achalogy/advent-js-2022) - Retos de Advent Js 2022 explicado para principantes. (today)
-- [shengyu-meng/dreamfields-3D](https://github.com/shengyu-meng/dreamfields-3D) - A colab friendly toolkit to generate 3D mesh model / video / nerf instance / multiview images of colourful 3D objects by text and image prompts input, based on dreamfields. (today)
-- [madhavthaker/spotify-recommendation-system](https://github.com/madhavthaker/spotify-recommendation-system) - Spotify recommendation system that recommends new songs for your playlist (1 day ago)
+- [DoumanAsh/xxhash-rust](https://github.com/DoumanAsh/xxhash-rust) - Rust implementation of xxhash (today)
+- [jazzsaxmafia/Inpainting](https://github.com/jazzsaxmafia/Inpainting) - Implementation of "Context Encoders: Feature Learning by Inpainting" (today)
+- [jazzsaxmafia/video_to_sequence](https://github.com/jazzsaxmafia/video_to_sequence) - Implementation of "Sequence to Sequence – Video to Text"  (today)
+- [jazzsaxmafia/show_and_tell.tensorflow](https://github.com/jazzsaxmafia/show_and_tell.tensorflow) (today)
+- [jazzsaxmafia/Weakly_detector](https://github.com/jazzsaxmafia/Weakly_detector) - Tensorflow implementation of "Learning Deep Features for Discriminative Localization" (today)
 
 ## 🔨 Latest Pull Requests I published
 
