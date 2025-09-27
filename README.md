@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [abhinand5/tamil-llama](https://github.com/abhinand5/tamil-llama) - A New Tamil Large Language Model (LLM) Based on Llama 2 (today)
-- [varunkumar-dev/TransformersDataAugmentation](https://github.com/varunkumar-dev/TransformersDataAugmentation) - Code associated with the "Data Augmentation using Pre-trained Transformer Models" paper (today)
-- [kernelmachine/utah](https://github.com/kernelmachine/utah) - Dataframe structure and operations in Rust (today)
-- [akisatok/pySaliencyMap](https://github.com/akisatok/pySaliencyMap) - Python implementation of Itti's saliency map (today)
-- [dasmith/stanford-corenlp-python](https://github.com/dasmith/stanford-corenlp-python) - Python wrapper for Stanford CoreNLP tools v3.4.1 (today)
+- [damianpetla/kotlin-dagger-example](https://github.com/damianpetla/kotlin-dagger-example) - Example of Android project showing integration with Kotlin and Dagger 2 (today)
+- [phpdude/django-macros-url](https://github.com/phpdude/django-macros-url) - Django Macros URL. Routing must be simple as possible (today)
+- [phpdude/docker-django-webpack-skeleton](https://github.com/phpdude/docker-django-webpack-skeleton) - Django Skeleton W/ Docker Dev & Production W/ Webpack 2 W/ BabelJS W/ Sass W/ PostgreSQL (today)
+- [askanium/rustplotlib](https://github.com/askanium/rustplotlib) - A pure Rust visualization library inspired by D3.js (today)
+- [galoget/free-programming-books](https://github.com/galoget/free-programming-books) - Free Programming Books (today)
 
 ## 🔨 Latest Pull Requests I published
 
