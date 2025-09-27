@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [sandipanpaul21/Clustering-in-Python](https://github.com/sandipanpaul21/Clustering-in-Python) - Clustering methods in Machine Learning includes both theory and python code of each algorithm. Algorithms include K Mean, K Mode, Hierarchical, DB Scan and Gaussian Mixture Model GMM. Interview questions on clustering are also added in the end.  (today)
-- [t-redactyl/llm-semantic-book-recommender](https://github.com/t-redactyl/llm-semantic-book-recommender) - The code to accompany the freeCodeCamp tutorial explaining how to use large language models to build a semantic book recommender. (today)
-- [alfredosalzillo/rollup-plugin-multi-input](https://github.com/alfredosalzillo/rollup-plugin-multi-input) - A Rollup plugin to bundle modular libraries (today)
-- [notoriousb1t/awesome-css-variables](https://github.com/notoriousb1t/awesome-css-variables) - A curated list of all awesome libraries and resources for CSS Variables (today)
-- [notoriousb1t/polymorph](https://github.com/notoriousb1t/polymorph) - Get Your SVG into Shape! (today)
+- [admineral/OpenAI-Assistant-API-Chat](https://github.com/admineral/OpenAI-Assistant-API-Chat) - OpenAI Assistant API Template: Customize your Assistant and chat with your files. (today)
+- [rolandsz/Mi-Fit-and-Zepp-workout-exporter](https://github.com/rolandsz/Mi-Fit-and-Zepp-workout-exporter) - A Python script, which allows users to export workout data from Mi Fit and Zepp applications. (today)
+- [balintkissdev/awesome-dos](https://github.com/balintkissdev/awesome-dos) - Curated list of references for development of DOS applications. (today)
+- [idreesshaikh/Autonomous-Driving-in-Carla-using-Deep-Reinforcement-Learning](https://github.com/idreesshaikh/Autonomous-Driving-in-Carla-using-Deep-Reinforcement-Learning) - Deep Reinforcement Learning (PPO) in Autonomous Driving (Carla) [from scratch] (today)
+- [badicsalex/ar-drivers-rs](https://github.com/badicsalex/ar-drivers-rs) - Opensource Rust driver for various AR glasses (today)
 
 ## 🔨 Latest Pull Requests I published
 
