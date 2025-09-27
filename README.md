@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [elijah-dot](https://github.com/elijah-dot)
 - [ipqwery](https://github.com/ipqwery)
 - [Ashnice](https://github.com/Ashnice)
 - [JRigh](https://github.com/JRigh)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [thisalireza](https://github.com/thisalireza)
 - [abhijitpavse](https://github.com/abhijitpavse)
 - [yLeonardoDev](https://github.com/yLeonardoDev)
-- [mukeshlilawat1](https://github.com/mukeshlilawat1)
 
 ## ⭐ Recent stars
 
+- [abeade/fcm-push-plugin](https://github.com/abeade/fcm-push-plugin) - IntelliJ IDEA plugin to send pushes using Firebase Cloud Messaging (FCM) (today)
+- [vikmarino/TabbedCoordinatorLayout](https://github.com/vikmarino/TabbedCoordinatorLayout) - TabbedCoordinatorLayout is a Sample project demostrating the usage of TabLayout (ViewPager with Tabs) inside of CollapsingToolbarLayout all together in CoordinatorLayout (today)
 - [Nintorac/NeuralDX7](https://github.com/Nintorac/NeuralDX7) - Deep models related to the Yamaha DX7 (today)
 - [Thrandis/EKFAC-pytorch](https://github.com/Thrandis/EKFAC-pytorch) - Repository containing Pytorch code for EKFAC and K-FAC perconditioners. (today)
 - [belltailjp/selective_search_py](https://github.com/belltailjp/selective_search_py) - Python-based implementation of the Selective Search for Object Recognition. (today)
-- [duerrp/pyexperiment](https://github.com/duerrp/pyexperiment) - Run experiments with Python - quick and clean. (today)
-- [Swall0w/torchstat](https://github.com/Swall0w/torchstat) - Model analyzer in PyTorch (today)
 
 ## 🔨 Latest Pull Requests I published
 
