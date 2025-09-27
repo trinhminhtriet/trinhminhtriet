@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [prman-pixar/RenderManForBlender](https://github.com/prman-pixar/RenderManForBlender) - RenderMan for Blender render addon (today)
+- [Universal-Rom-Tools/Universal-XML-Scraper](https://github.com/Universal-Rom-Tools/Universal-XML-Scraper) - Scraper de Rom (today)
 - [damianpetla/kotlin-dagger-example](https://github.com/damianpetla/kotlin-dagger-example) - Example of Android project showing integration with Kotlin and Dagger 2 (today)
 - [phpdude/django-macros-url](https://github.com/phpdude/django-macros-url) - Django Macros URL. Routing must be simple as possible (today)
 - [phpdude/docker-django-webpack-skeleton](https://github.com/phpdude/docker-django-webpack-skeleton) - Django Skeleton W/ Docker Dev & Production W/ Webpack 2 W/ BabelJS W/ Sass W/ PostgreSQL (today)
-- [askanium/rustplotlib](https://github.com/askanium/rustplotlib) - A pure Rust visualization library inspired by D3.js (today)
-- [galoget/free-programming-books](https://github.com/galoget/free-programming-books) - Free Programming Books (today)
 
 ## 🔨 Latest Pull Requests I published
 
