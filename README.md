@@ -33,11 +33,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👷 Check out what I'm currently working on
 
-- [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) - 🚀 All-in-one CLI toolkit for developers: scaffold, manage, automate, and boost productivity across languages! (2 days ago)
-- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (2 days ago)
+- [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) - 🚀 All-in-one CLI toolkit for developers: scaffold, manage, automate, and boost productivity across languages! (3 days ago)
+- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (3 days ago)
 - [lamhaison/aws-cli-utils](https://github.com/lamhaison/aws-cli-utils) - This is the project to collect helpful aws cli commandline with complex options to support your working (1 week ago)
 - [trinhminhtriet/dwipe](https://github.com/trinhminhtriet/dwipe) - 🧹 Fast, cross-platform disk cleanup tool with interactive UI for easy directory size visualization. (3 weeks ago)
-- [nctl-io/nctl-roadmap](https://github.com/nctl-io/nctl-roadmap) (3 weeks ago)
+- [nctl-io/nctl-roadmap](https://github.com/nctl-io/nctl-roadmap) (4 weeks ago)
 - [nctl-io/.github](https://github.com/nctl-io/.github) - 🌐 Network. Connect. Transform. Lead. (1 month ago)
 - [nctl-io/nctl-homepage](https://github.com/nctl-io/nctl-homepage) - 🚀 Modern homepage for NCTL: fast, responsive, TypeScript-powered, open source, and easy to customize. (1 month ago)
 - [nctl-io/nctl-branding](https://github.com/nctl-io/nctl-branding) - NCTL Branding 🖼️: Centralized assets and guidelines for consistent visual identity across NCTL projects and platforms. (1 month ago)
@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [dd7793168-ai](https://github.com/dd7793168-ai)
 - [Y4NN777](https://github.com/Y4NN777)
 - [ishandutta2007](https://github.com/ishandutta2007)
 - [digas99](https://github.com/digas99)
@@ -55,16 +56,15 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [mukeshlilawat1](https://github.com/mukeshlilawat1)
 - [alxkm](https://github.com/alxkm)
 - [rafa-houssam](https://github.com/rafa-houssam)
-- [BlackRaptor421](https://github.com/BlackRaptor421)
 
 ## ⭐ Recent stars
 
-- [synchronizing/mitm](https://github.com/synchronizing/mitm) - 👨🏼‍💻‎‎‎‏‏ A customizable man-in-the-middle TCP intercepting proxy. (today)
-- [synchronizing/bluelink](https://github.com/synchronizing/bluelink) - 🚙 Control your Hyundai car via Python. (today)
-- [electricessence/TypeScript.NET](https://github.com/electricessence/TypeScript.NET) - A JavaScript-Friendly .NET Based TypeScript Library (Moved) (today)
-- [ivantsepp/annotate_gem](https://github.com/ivantsepp/annotate_gem) - :evergreen_tree: Add comments to your Gemfile with each dependency's description (today)
-- [DaGooseYT/FrameGUI](https://github.com/DaGooseYT/FrameGUI) - FrameGUI (frame-gooey) is a free, cross-platform, very easy to use encoding utility featuring AI filters, based on the more comprehensive EncodeGUI encoding tool. (today)
+- [yuvalsuede/jasper-alternative-gpt](https://github.com/yuvalsuede/jasper-alternative-gpt) - A Jasper alternative open source with ChatGPT (today)
+- [yuvalsuede/ai-component-generator](https://github.com/yuvalsuede/ai-component-generator) (today)
+- [Achalogy/advent-js-2022](https://github.com/Achalogy/advent-js-2022) - Retos de Advent Js 2022 explicado para principantes. (today)
+- [shengyu-meng/dreamfields-3D](https://github.com/shengyu-meng/dreamfields-3D) - A colab friendly toolkit to generate 3D mesh model / video / nerf instance / multiview images of colourful 3D objects by text and image prompts input, based on dreamfields. (today)
+- [madhavthaker/spotify-recommendation-system](https://github.com/madhavthaker/spotify-recommendation-system) - Spotify recommendation system that recommends new songs for your playlist (1 day ago)
 
 ## 🔨 Latest Pull Requests I published
 
-- [Add DNS record management command with export functionality](https://github.com/trinhminhtriet/DevPilot/pull/10) on [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) (2 days ago)
+- [Add DNS record management command with export functionality](https://github.com/trinhminhtriet/DevPilot/pull/10) on [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) (3 days ago)
