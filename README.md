@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Ashnice](https://github.com/Ashnice)
 - [JRigh](https://github.com/JRigh)
 - [dd7793168-ai](https://github.com/dd7793168-ai)
 - [Y4NN777](https://github.com/Y4NN777)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [abhijitpavse](https://github.com/abhijitpavse)
 - [yLeonardoDev](https://github.com/yLeonardoDev)
 - [mukeshlilawat1](https://github.com/mukeshlilawat1)
-- [alxkm](https://github.com/alxkm)
 
 ## ⭐ Recent stars
 
+- [kateptrv/Candles](https://github.com/kateptrv/Candles) - Data + code examples used here: https://twitter.com/kate_ptrv/status/1332398737604431874?s=20 (today)
+- [MillionIntegrals/vel](https://github.com/MillionIntegrals/vel) - Velocity in deep-learning research (today)
 - [BIG-RAT/Prune](https://github.com/BIG-RAT/Prune) - Remove unused items from your Jamf server (today)
 - [SaruarChy/Codeforces-Solution](https://github.com/SaruarChy/Codeforces-Solution) (today)
 - [blaiti/Wallety](https://github.com/blaiti/Wallety) - Wallety is a budget tracker for personal finance and budget planning. (today)
-- [lanmessenger/lanmessenger](https://github.com/lanmessenger/lanmessenger) - LAN Messenger for Windows, Mac, Linux (today)
-- [kyprizel/testcookie-nginx-module](https://github.com/kyprizel/testcookie-nginx-module) - simple robot mitigation module using cookie based challenge/response technique. Not supported any more. (today)
 
 ## 🔨 Latest Pull Requests I published
 
