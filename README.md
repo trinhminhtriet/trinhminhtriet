@@ -51,19 +51,19 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [dd7793168-ai](https://github.com/dd7793168-ai)
 - [Y4NN777](https://github.com/Y4NN777)
 - [ishandutta2007](https://github.com/ishandutta2007)
-- [digas99](https://github.com/digas99)
 - [thisalireza](https://github.com/thisalireza)
 - [abhijitpavse](https://github.com/abhijitpavse)
 - [yLeonardoDev](https://github.com/yLeonardoDev)
 - [mukeshlilawat1](https://github.com/mukeshlilawat1)
+- [alxkm](https://github.com/alxkm)
 
 ## ⭐ Recent stars
 
-- [prman-pixar/RenderManForBlender](https://github.com/prman-pixar/RenderManForBlender) - RenderMan for Blender render addon (today)
-- [Universal-Rom-Tools/Universal-XML-Scraper](https://github.com/Universal-Rom-Tools/Universal-XML-Scraper) - Scraper de Rom (today)
-- [damianpetla/kotlin-dagger-example](https://github.com/damianpetla/kotlin-dagger-example) - Example of Android project showing integration with Kotlin and Dagger 2 (today)
-- [phpdude/django-macros-url](https://github.com/phpdude/django-macros-url) - Django Macros URL. Routing must be simple as possible (today)
-- [phpdude/docker-django-webpack-skeleton](https://github.com/phpdude/docker-django-webpack-skeleton) - Django Skeleton W/ Docker Dev & Production W/ Webpack 2 W/ BabelJS W/ Sass W/ PostgreSQL (today)
+- [heyseth/worm-sim](https://github.com/heyseth/worm-sim) - Simulate the C. Elegans worm brain in your browser and interact with the worm as it moves around (today)
+- [jeaiii/itoa](https://github.com/jeaiii/itoa) - Fast integer to ascii / integer to string conversion (today)
+- [jirihnidek/daemon](https://github.com/jirihnidek/daemon) - Simple example of daemon for Linux (today)
+- [kakashidinho/metalangle](https://github.com/kakashidinho/metalangle) - MetalANGLE: OpenGL ES to Metal API translation layer (today)
+- [kaliatech/web-audio-recording-tests](https://github.com/kaliatech/web-audio-recording-tests) - Web audio recording tests, particularly for verifying functionality on iOS/Safari. (today)
 
 ## 🔨 Latest Pull Requests I published
 
