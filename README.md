@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [ike3/mangosbot](https://github.com/ike3/mangosbot) - This is a modification of MaNGOS (Zero, One, R2, Trinity) server which brings a number of bots online and available for any player. Also allows you to use your account/guild characters as bots. (today)
-- [2kpr/dreambooth-tokens](https://github.com/2kpr/dreambooth-tokens) (today)
-- [2kpr/ComfyUI-UltraPixel](https://github.com/2kpr/ComfyUI-UltraPixel) (today)
-- [2kpr/ComfyUI-PMRF](https://github.com/2kpr/ComfyUI-PMRF) (today)
-- [OrfeasZ/ZHMModSDK](https://github.com/OrfeasZ/ZHMModSDK) - A modding SDK for Hitman 3 (today)
+- [HermanFassett/youtube-scrape](https://github.com/HermanFassett/youtube-scrape) - Scrape YouTube searches (API) (today)
+- [smebberson/docker-alpine](https://github.com/smebberson/docker-alpine) - Docker containers running Alpine Linux and s6 for process management. Solid, reliable containers. (today)
+- [akatz-ai/ComfyUI-DepthCrafter-Nodes](https://github.com/akatz-ai/ComfyUI-DepthCrafter-Nodes) - A port of tencent/DepthCrafter into ComfyUI (today)
+- [akatz-ai/ComfyUI-Depthflow-Nodes](https://github.com/akatz-ai/ComfyUI-Depthflow-Nodes) - An implementation of Depthflow in ComfyUI (today)
+- [bing127/peeplus](https://github.com/bing127/peeplus) - python+vue3前后端分离项目 (today)
 
 ## 🔨 Latest Pull Requests I published
 
