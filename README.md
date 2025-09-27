@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [abeade/fcm-push-plugin](https://github.com/abeade/fcm-push-plugin) - IntelliJ IDEA plugin to send pushes using Firebase Cloud Messaging (FCM) (today)
-- [vikmarino/TabbedCoordinatorLayout](https://github.com/vikmarino/TabbedCoordinatorLayout) - TabbedCoordinatorLayout is a Sample project demostrating the usage of TabLayout (ViewPager with Tabs) inside of CollapsingToolbarLayout all together in CoordinatorLayout (today)
-- [Nintorac/NeuralDX7](https://github.com/Nintorac/NeuralDX7) - Deep models related to the Yamaha DX7 (today)
-- [Thrandis/EKFAC-pytorch](https://github.com/Thrandis/EKFAC-pytorch) - Repository containing Pytorch code for EKFAC and K-FAC perconditioners. (today)
-- [belltailjp/selective_search_py](https://github.com/belltailjp/selective_search_py) - Python-based implementation of the Selective Search for Object Recognition. (today)
+- [2kpr/dreambooth-tokens](https://github.com/2kpr/dreambooth-tokens) (today)
+- [2kpr/ComfyUI-UltraPixel](https://github.com/2kpr/ComfyUI-UltraPixel) (today)
+- [2kpr/ComfyUI-PMRF](https://github.com/2kpr/ComfyUI-PMRF) (today)
+- [OrfeasZ/ZHMModSDK](https://github.com/OrfeasZ/ZHMModSDK) - A modding SDK for Hitman 3 (today)
+- [dci05049/Verlet-Rope-Unity](https://github.com/dci05049/Verlet-Rope-Unity) (today)
 
 ## 🔨 Latest Pull Requests I published
 
