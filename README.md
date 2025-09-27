@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [BIG-RAT/Prune](https://github.com/BIG-RAT/Prune) - Remove unused items from your Jamf server (today)
 - [SaruarChy/Codeforces-Solution](https://github.com/SaruarChy/Codeforces-Solution) (today)
 - [blaiti/Wallety](https://github.com/blaiti/Wallety) - Wallety is a budget tracker for personal finance and budget planning. (today)
 - [lanmessenger/lanmessenger](https://github.com/lanmessenger/lanmessenger) - LAN Messenger for Windows, Mac, Linux (today)
 - [kyprizel/testcookie-nginx-module](https://github.com/kyprizel/testcookie-nginx-module) - simple robot mitigation module using cookie based challenge/response technique. Not supported any more. (today)
-- [dclardy64/ISPConfig-3-Debian-Installer](https://github.com/dclardy64/ISPConfig-3-Debian-Installer) - Auto install script for ISPConfig 3 on Debian (today)
 
 ## 🔨 Latest Pull Requests I published
 
