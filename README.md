@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [AlexTorresDev/custom-electron-titlebar](https://github.com/AlexTorresDev/custom-electron-titlebar) - Custom electon title bar inpire on VS Code title bar (today)
-- [DiegoCaraballo/Email-extractor](https://github.com/DiegoCaraballo/Email-extractor) - The main functionality is to extract all the emails from one or several URLs - La funcionalidad principal es extraer todos los correos electrónicos de una o varias Url (today)
-- [jbaileyh/geogrid](https://github.com/jbaileyh/geogrid) - Turning geospatial polygons into regular or hexagonal grids. For other similar functionality see the tilemaps package https://github.com/kaerosen/tilemaps  (today)
-- [anvoz/CodeIgniter-Skeleton](https://github.com/anvoz/CodeIgniter-Skeleton) - A decent starter for most web apps. Includes HMVC, jQuery, Bootstrap, Bootstrap TLDR, Ajax and Template libraries. Unit tests with PHPUnit and vfsStream. (today)
-- [anvoz/world-js](https://github.com/anvoz/world-js) - A brief history of humankind in Javascript simulation game (today)
+- [abhinand5/tamil-llama](https://github.com/abhinand5/tamil-llama) - A New Tamil Large Language Model (LLM) Based on Llama 2 (today)
+- [varunkumar-dev/TransformersDataAugmentation](https://github.com/varunkumar-dev/TransformersDataAugmentation) - Code associated with the "Data Augmentation using Pre-trained Transformer Models" paper (today)
+- [kernelmachine/utah](https://github.com/kernelmachine/utah) - Dataframe structure and operations in Rust (today)
+- [akisatok/pySaliencyMap](https://github.com/akisatok/pySaliencyMap) - Python implementation of Itti's saliency map (today)
+- [dasmith/stanford-corenlp-python](https://github.com/dasmith/stanford-corenlp-python) - Python wrapper for Stanford CoreNLP tools v3.4.1 (today)
 
 ## 🔨 Latest Pull Requests I published
 
