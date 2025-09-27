@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [admineral/OpenAI-Assistant-API-Chat](https://github.com/admineral/OpenAI-Assistant-API-Chat) - OpenAI Assistant API Template: Customize your Assistant and chat with your files. (today)
-- [rolandsz/Mi-Fit-and-Zepp-workout-exporter](https://github.com/rolandsz/Mi-Fit-and-Zepp-workout-exporter) - A Python script, which allows users to export workout data from Mi Fit and Zepp applications. (today)
-- [balintkissdev/awesome-dos](https://github.com/balintkissdev/awesome-dos) - Curated list of references for development of DOS applications. (today)
-- [idreesshaikh/Autonomous-Driving-in-Carla-using-Deep-Reinforcement-Learning](https://github.com/idreesshaikh/Autonomous-Driving-in-Carla-using-Deep-Reinforcement-Learning) - Deep Reinforcement Learning (PPO) in Autonomous Driving (Carla) [from scratch] (today)
-- [badicsalex/ar-drivers-rs](https://github.com/badicsalex/ar-drivers-rs) - Opensource Rust driver for various AR glasses (today)
+- [Nintorac/NeuralDX7](https://github.com/Nintorac/NeuralDX7) - Deep models related to the Yamaha DX7 (today)
+- [Thrandis/EKFAC-pytorch](https://github.com/Thrandis/EKFAC-pytorch) - Repository containing Pytorch code for EKFAC and K-FAC perconditioners. (today)
+- [belltailjp/selective_search_py](https://github.com/belltailjp/selective_search_py) - Python-based implementation of the Selective Search for Object Recognition. (today)
+- [duerrp/pyexperiment](https://github.com/duerrp/pyexperiment) - Run experiments with Python - quick and clean. (today)
+- [Swall0w/torchstat](https://github.com/Swall0w/torchstat) - Model analyzer in PyTorch (today)
 
 ## 🔨 Latest Pull Requests I published
 
