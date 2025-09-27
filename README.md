@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [ike3/mangosbot](https://github.com/ike3/mangosbot) - This is a modification of MaNGOS (Zero, One, R2, Trinity) server which brings a number of bots online and available for any player. Also allows you to use your account/guild characters as bots. (today)
 - [2kpr/dreambooth-tokens](https://github.com/2kpr/dreambooth-tokens) (today)
 - [2kpr/ComfyUI-UltraPixel](https://github.com/2kpr/ComfyUI-UltraPixel) (today)
 - [2kpr/ComfyUI-PMRF](https://github.com/2kpr/ComfyUI-PMRF) (today)
 - [OrfeasZ/ZHMModSDK](https://github.com/OrfeasZ/ZHMModSDK) - A modding SDK for Hitman 3 (today)
-- [dci05049/Verlet-Rope-Unity](https://github.com/dci05049/Verlet-Rope-Unity) (today)
 
 ## 🔨 Latest Pull Requests I published
 
