@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [radu985](https://github.com/radu985)
+- [Fareed-Murtaza](https://github.com/Fareed-Murtaza)
 - [ishandutta2007](https://github.com/ishandutta2007)
 - [elijah-dot](https://github.com/elijah-dot)
 - [ipqwery](https://github.com/ipqwery)
@@ -54,16 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [dd7793168-ai](https://github.com/dd7793168-ai)
 - [Y4NN777](https://github.com/Y4NN777)
 - [thisalireza](https://github.com/thisalireza)
-- [abhijitpavse](https://github.com/abhijitpavse)
-- [yLeonardoDev](https://github.com/yLeonardoDev)
 
 ## ⭐ Recent stars
 
-- [WisdomSky/CasaOS-Coolstore](https://github.com/WisdomSky/CasaOS-Coolstore) - Just an another CasaOS third-party Appstore with ❄Cool❄ apps. (today)
-- [WisdomSky/Cloudflared-web](https://github.com/WisdomSky/Cloudflared-web) - Cloudflared-web is a docker image that packages both cloudflared cli and a simple Web UI to easily start or stop remotely-managed Cloudflare tunnel. (today)
-- [WisdomSky/CasaOS-LinuxServer-AppStore](https://github.com/WisdomSky/CasaOS-LinuxServer-AppStore) - A CasaOS custom Appstore containing over 100+ LinuxServer.io images. (today)
-- [tom-anders/Easy_xkcd](https://github.com/tom-anders/Easy_xkcd) - An easy and simple open source xkcd reader (today)
-- [pmg1989/dva-admin](https://github.com/pmg1989/dva-admin) - dva admin antd dashboard (today)
+- [zealic/autorosvpn](https://github.com/zealic/autorosvpn) - RouterOS address list, include chnroutes(chnroutes.txt), well-known Cloud Providers and Sites (today)
+- [priitj/whitedb](https://github.com/priitj/whitedb) - WhiteDB memory database (today)
+- [ibaihuo/chanvis](https://github.com/ibaihuo/chanvis) - 基于TradingView本地SDK的可视化前后端代码，适用于缠论量化研究，和其他的基于几何交易的量化研究。 缠论量化 摩尔缠论 缠论可视化 TradingView TV-SDK (today)
+- [narakeet/examples](https://github.com/narakeet/examples) - Samples and examples for Narakeet scripts (today)
+- [antouhou/rs-merkle](https://github.com/antouhou/rs-merkle) - The most advanced Merkle tree library for Rust (today)
 
 ## 🔨 Latest Pull Requests I published
 
