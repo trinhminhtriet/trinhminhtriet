@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [robotchangzhang/nftqianggou](https://github.com/robotchangzhang/nftqianggou) (today)
-- [FunkyFr3sh/cnc-ddraw](https://github.com/FunkyFr3sh/cnc-ddraw) - GDI, OpenGL and Direct3D 9 re-implementation of the DirectDraw API for classic 2D games for better compatibility with Windows ME, 2000, XP, Vista, 7, 8, 10, 11, Wine (Linux/macOS/Android) and Virtual Machines (today)
-- [tianzhuo112/VTMagic](https://github.com/tianzhuo112/VTMagic) - VTMagic is a page container library for iOS. (today)
-- [BatuhanUsluel/ArbitrageBot](https://github.com/BatuhanUsluel/ArbitrageBot) - Arbitrage bot that currently works on bittrex & poloniex (today)
-- [BatuhanUsluel/Algorithmic-Support-and-Resistance](https://github.com/BatuhanUsluel/Algorithmic-Support-and-Resistance) - Automatically identifies support and resistance lines on a stock chart using reversal points, displays candlestick chart. (today)
+- [Kron4ek/minecraft-vortex-launcher](https://github.com/Kron4ek/minecraft-vortex-launcher) - Fast, lightweight and easy to use Minecraft launcher (today)
+- [Kron4ek/Conty](https://github.com/Kron4ek/Conty) - Easy to use unprivileged Linux container packed into a single portable executable (today)
+- [Kron4ek/Wine-Builds](https://github.com/Kron4ek/Wine-Builds) - Wine builds (Vanilla, Staging, TkG and Proton) (today)
+- [cvet/fonline](https://github.com/cvet/fonline) - FOnline Engine is a flexible cross-platform isometric game engine (today)
+- [burner1024/zabbix-sql](https://github.com/burner1024/zabbix-sql) - Useful Zabbix SQL queries (today)
 
 ## 🔨 Latest Pull Requests I published
 
