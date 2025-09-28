@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [NamesMT](https://github.com/NamesMT)
 - [elijah-dot](https://github.com/elijah-dot)
 - [ipqwery](https://github.com/ipqwery)
 - [Ashnice](https://github.com/Ashnice)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [ishandutta2007](https://github.com/ishandutta2007)
 - [thisalireza](https://github.com/thisalireza)
 - [abhijitpavse](https://github.com/abhijitpavse)
-- [yLeonardoDev](https://github.com/yLeonardoDev)
 
 ## ⭐ Recent stars
 
-- [awwaiid/ghostwriter](https://github.com/awwaiid/ghostwriter) - Use the reMarkable2 as an interface to vision-LLMs (ChatGPT, Claude, Gemini). Ghost in the machine! (today)
-- [awwaiid/gremllm](https://github.com/awwaiid/gremllm) - A slight upgrade to the Gremlins in your code (today)
-- [mmstick/tv-renamer](https://github.com/mmstick/tv-renamer) - Mirror of https://gitlab.com/mmstick/tv-renamer (today)
-- [mmstick/fontfinder](https://github.com/mmstick/fontfinder) - GTK application for browsing and installing fonts from Google's font archive (today)
-- [mmstick/cargo-deb](https://github.com/mmstick/cargo-deb) - A cargo subcommand that generates Debian packages from information in Cargo.toml (today)
+- [grant/go-diagram](https://github.com/grant/go-diagram) - 🌐 A UML diagram editor for Golang projects (today)
+- [codebytere/node-mac-permissions](https://github.com/codebytere/node-mac-permissions) - A native node module to manage system permissions on macOS. (today)
+- [codebytere/codebytere.github.io](https://github.com/codebytere/codebytere.github.io) - personal website (today)
+- [codebytere/so-you-want-an-internship](https://github.com/codebytere/so-you-want-an-internship) - for those seeking software engineering internships (today)
+- [lydell/elm-watch](https://github.com/lydell/elm-watch) - `elm make` in watch mode. Fast and reliable. (today)
 
 ## 🔨 Latest Pull Requests I published
 
