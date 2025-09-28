@@ -46,7 +46,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
-- [NamesMT](https://github.com/NamesMT)
 - [elijah-dot](https://github.com/elijah-dot)
 - [ipqwery](https://github.com/ipqwery)
 - [Ashnice](https://github.com/Ashnice)
@@ -56,14 +55,15 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [ishandutta2007](https://github.com/ishandutta2007)
 - [thisalireza](https://github.com/thisalireza)
 - [abhijitpavse](https://github.com/abhijitpavse)
+- [yLeonardoDev](https://github.com/yLeonardoDev)
 
 ## ⭐ Recent stars
 
-- [grant/go-diagram](https://github.com/grant/go-diagram) - 🌐 A UML diagram editor for Golang projects (today)
-- [codebytere/node-mac-permissions](https://github.com/codebytere/node-mac-permissions) - A native node module to manage system permissions on macOS. (today)
-- [codebytere/codebytere.github.io](https://github.com/codebytere/codebytere.github.io) - personal website (today)
-- [codebytere/so-you-want-an-internship](https://github.com/codebytere/so-you-want-an-internship) - for those seeking software engineering internships (today)
-- [lydell/elm-watch](https://github.com/lydell/elm-watch) - `elm make` in watch mode. Fast and reliable. (today)
+- [brianegan/dart_redux_epics](https://github.com/brianegan/dart_redux_epics) - Redux.dart middleware for handling actions using Dart Streams (today)
+- [brianegan/new_flutter_template](https://github.com/brianegan/new_flutter_template) - Test ideas for a new flutter template (today)
+- [brianegan/flutter_stetho](https://github.com/brianegan/flutter_stetho) - Integrate Flutter with the Facebook Stetho tool for Android (today)
+- [brianegan/bansa](https://github.com/brianegan/bansa) - A state container for Java & Kotlin, inspired by Redux & Elm (today)
+- [brianegan/scoped_model](https://github.com/brianegan/scoped_model) - A Widget that passes a Reactive Model to all of it's children (today)
 
 ## 🔨 Latest Pull Requests I published
 
