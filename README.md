@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer) - The best way to get AI coding agents to solve hard problems in complex codebases. (today)
-- [tim-soft/react-spring-lightbox](https://github.com/tim-soft/react-spring-lightbox) - 📷 A flexible image gallery lightbox with native-feeling touch gestures and buttery smooth animations, built with react-spring. (today)
-- [tim-soft/react-particles-webgl](https://github.com/tim-soft/react-particles-webgl) - 🔆 A 2D/3D particle library built on React, Three.js and WebGL (today)
-- [BetaPundit/Yoga-Guru](https://github.com/BetaPundit/Yoga-Guru) - A personalized yoga trainer app based on Flutter and TensorFlow Lite. (today)
-- [matbeich/StickyCollectionView-Swift](https://github.com/matbeich/StickyCollectionView-Swift) - UICollectionView layout for presenting of the overlapping cells. (today)
+- [awwaiid/ghostwriter](https://github.com/awwaiid/ghostwriter) - Use the reMarkable2 as an interface to vision-LLMs (ChatGPT, Claude, Gemini). Ghost in the machine! (today)
+- [awwaiid/gremllm](https://github.com/awwaiid/gremllm) - A slight upgrade to the Gremlins in your code (today)
+- [mmstick/tv-renamer](https://github.com/mmstick/tv-renamer) - Mirror of https://gitlab.com/mmstick/tv-renamer (today)
+- [mmstick/fontfinder](https://github.com/mmstick/fontfinder) - GTK application for browsing and installing fonts from Google's font archive (today)
+- [mmstick/cargo-deb](https://github.com/mmstick/cargo-deb) - A cargo subcommand that generates Debian packages from information in Cargo.toml (today)
 
 ## 🔨 Latest Pull Requests I published
 
