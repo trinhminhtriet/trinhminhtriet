@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [henninghall/react-native-date-picker](https://github.com/henninghall/react-native-date-picker) - React Native Date Picker is datetime picker for Android and iOS. It includes date, time and datetime picker modes. The datepicker is customizable and is supporting different languages. It's written with native code to achieve the best possible look, feel and performance. (today)
 - [zealic/autorosvpn](https://github.com/zealic/autorosvpn) - RouterOS address list, include chnroutes(chnroutes.txt), well-known Cloud Providers and Sites (today)
 - [priitj/whitedb](https://github.com/priitj/whitedb) - WhiteDB memory database (today)
 - [ibaihuo/chanvis](https://github.com/ibaihuo/chanvis) - 基于TradingView本地SDK的可视化前后端代码，适用于缠论量化研究，和其他的基于几何交易的量化研究。 缠论量化 摩尔缠论 缠论可视化 TradingView TV-SDK (today)
 - [narakeet/examples](https://github.com/narakeet/examples) - Samples and examples for Narakeet scripts (today)
-- [antouhou/rs-merkle](https://github.com/antouhou/rs-merkle) - The most advanced Merkle tree library for Rust (today)
 
 ## 🔨 Latest Pull Requests I published
 
