@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [giladfuchs](https://github.com/giladfuchs)
 - [radu985](https://github.com/radu985)
 - [Fareed-Murtaza](https://github.com/Fareed-Murtaza)
 - [ishandutta2007](https://github.com/ishandutta2007)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [JRigh](https://github.com/JRigh)
 - [dd7793168-ai](https://github.com/dd7793168-ai)
 - [Y4NN777](https://github.com/Y4NN777)
-- [thisalireza](https://github.com/thisalireza)
 
 ## ⭐ Recent stars
 
+- [ChrisRfr/Win10XPE](https://github.com/ChrisRfr/Win10XPE) - Win10XPE is a Complete Project Based on Win10, Win11 Recovery Environment With Many Windows Features Added... (today)
+- [enricofoltran/simple-go-server](https://github.com/enricofoltran/simple-go-server) - A simple golang web server with basic logging, tracing, health check, graceful shutdown and zero dependencies (today)
+- [enricofoltran/hello-auth-grpc](https://github.com/enricofoltran/hello-auth-grpc) - two grpc microservices with mutual TLS and token authentication in Go (today)
+- [moverest/wl-kbptr](https://github.com/moverest/wl-kbptr) - Control the mouse pointer with the keyboard on Wayland. (today)
 - [henninghall/react-native-date-picker](https://github.com/henninghall/react-native-date-picker) - React Native Date Picker is datetime picker for Android and iOS. It includes date, time and datetime picker modes. The datepicker is customizable and is supporting different languages. It's written with native code to achieve the best possible look, feel and performance. (today)
-- [zealic/autorosvpn](https://github.com/zealic/autorosvpn) - RouterOS address list, include chnroutes(chnroutes.txt), well-known Cloud Providers and Sites (today)
-- [priitj/whitedb](https://github.com/priitj/whitedb) - WhiteDB memory database (today)
-- [ibaihuo/chanvis](https://github.com/ibaihuo/chanvis) - 基于TradingView本地SDK的可视化前后端代码，适用于缠论量化研究，和其他的基于几何交易的量化研究。 缠论量化 摩尔缠论 缠论可视化 TradingView TV-SDK (today)
-- [narakeet/examples](https://github.com/narakeet/examples) - Samples and examples for Narakeet scripts (today)
 
 ## 🔨 Latest Pull Requests I published
 
