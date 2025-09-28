@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [ishandutta2007](https://github.com/ishandutta2007)
 - [elijah-dot](https://github.com/elijah-dot)
 - [ipqwery](https://github.com/ipqwery)
 - [Ashnice](https://github.com/Ashnice)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [thisalireza](https://github.com/thisalireza)
 - [abhijitpavse](https://github.com/abhijitpavse)
 - [yLeonardoDev](https://github.com/yLeonardoDev)
-- [mukeshlilawat1](https://github.com/mukeshlilawat1)
 
 ## ⭐ Recent stars
 
-- [Kron4ek/minecraft-vortex-launcher](https://github.com/Kron4ek/minecraft-vortex-launcher) - Fast, lightweight and easy to use Minecraft launcher (today)
-- [Kron4ek/Conty](https://github.com/Kron4ek/Conty) - Easy to use unprivileged Linux container packed into a single portable executable (today)
-- [Kron4ek/Wine-Builds](https://github.com/Kron4ek/Wine-Builds) - Wine builds (Vanilla, Staging, TkG and Proton) (today)
-- [cvet/fonline](https://github.com/cvet/fonline) - FOnline Engine is a flexible cross-platform isometric game engine (today)
-- [burner1024/zabbix-sql](https://github.com/burner1024/zabbix-sql) - Useful Zabbix SQL queries (today)
+- [Joeri-Abbo/techworld-with-nana-devops-bootcamp](https://github.com/Joeri-Abbo/techworld-with-nana-devops-bootcamp) - Notes taken from the techworld with Nana devops bootcamp with projects (today)
+- [Allyans3/steam-market-api-v2](https://github.com/Allyans3/steam-market-api-v2) - Steam Market API v2 package (today)
+- [toqueteos/webbrowser](https://github.com/toqueteos/webbrowser) - :snake: Python's webbrowser lib in Go. Simple API for opening web pages on your default browser. (today)
+- [bradleyd/devops_for_the_desperate](https://github.com/bradleyd/devops_for_the_desperate) - The companion code for the book DevOps for the Desperate (today)
+- [narzoul/DDrawCompat](https://github.com/narzoul/DDrawCompat) - DirectDraw and Direct3D 1-7 compatibility, performance and visual enhancements for Windows Vista, 7, 8, 10 and 11 (today)
 
 ## 🔨 Latest Pull Requests I published
 
