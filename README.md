@@ -33,8 +33,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👷 Check out what I'm currently working on
 
-- [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) - 🚀 All-in-one CLI toolkit for developers: scaffold, manage, automate, and boost productivity across languages! (3 days ago)
-- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (3 days ago)
+- [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) - 🚀 All-in-one CLI toolkit for developers: scaffold, manage, automate, and boost productivity across languages! (4 days ago)
+- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (4 days ago)
 - [lamhaison/aws-cli-utils](https://github.com/lamhaison/aws-cli-utils) - This is the project to collect helpful aws cli commandline with complex options to support your working (1 week ago)
 - [trinhminhtriet/dwipe](https://github.com/trinhminhtriet/dwipe) - 🧹 Fast, cross-platform disk cleanup tool with interactive UI for easy directory size visualization. (3 weeks ago)
 - [nctl-io/nctl-roadmap](https://github.com/nctl-io/nctl-roadmap) (4 weeks ago)
@@ -59,12 +59,12 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [HermanFassett/youtube-scrape](https://github.com/HermanFassett/youtube-scrape) - Scrape YouTube searches (API) (today)
-- [smebberson/docker-alpine](https://github.com/smebberson/docker-alpine) - Docker containers running Alpine Linux and s6 for process management. Solid, reliable containers. (today)
-- [akatz-ai/ComfyUI-DepthCrafter-Nodes](https://github.com/akatz-ai/ComfyUI-DepthCrafter-Nodes) - A port of tencent/DepthCrafter into ComfyUI (today)
-- [akatz-ai/ComfyUI-Depthflow-Nodes](https://github.com/akatz-ai/ComfyUI-Depthflow-Nodes) - An implementation of Depthflow in ComfyUI (today)
-- [bing127/peeplus](https://github.com/bing127/peeplus) - python+vue3前后端分离项目 (today)
+- [shivaverma/OpenAIGym](https://github.com/shivaverma/OpenAIGym) - Solving OpenAI Gym problems. (today)
+- [Charlie5DH/PredictiveMaintenance-and-Vibration-Resources](https://github.com/Charlie5DH/PredictiveMaintenance-and-Vibration-Resources) - Papers and datasets for Vibration Analysis (1 day ago)
+- [HermanFassett/youtube-scrape](https://github.com/HermanFassett/youtube-scrape) - Scrape YouTube searches (API) (1 day ago)
+- [smebberson/docker-alpine](https://github.com/smebberson/docker-alpine) - Docker containers running Alpine Linux and s6 for process management. Solid, reliable containers. (1 day ago)
+- [akatz-ai/ComfyUI-DepthCrafter-Nodes](https://github.com/akatz-ai/ComfyUI-DepthCrafter-Nodes) - A port of tencent/DepthCrafter into ComfyUI (1 day ago)
 
 ## 🔨 Latest Pull Requests I published
 
-- [Add DNS record management command with export functionality](https://github.com/trinhminhtriet/DevPilot/pull/10) on [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) (3 days ago)
+- [Add DNS record management command with export functionality](https://github.com/trinhminhtriet/DevPilot/pull/10) on [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) (4 days ago)
