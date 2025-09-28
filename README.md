@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer) - The best way to get AI coding agents to solve hard problems in complex codebases. (today)
+- [tim-soft/react-spring-lightbox](https://github.com/tim-soft/react-spring-lightbox) - 📷 A flexible image gallery lightbox with native-feeling touch gestures and buttery smooth animations, built with react-spring. (today)
+- [tim-soft/react-particles-webgl](https://github.com/tim-soft/react-particles-webgl) - 🔆 A 2D/3D particle library built on React, Three.js and WebGL (today)
 - [BetaPundit/Yoga-Guru](https://github.com/BetaPundit/Yoga-Guru) - A personalized yoga trainer app based on Flutter and TensorFlow Lite. (today)
 - [matbeich/StickyCollectionView-Swift](https://github.com/matbeich/StickyCollectionView-Swift) - UICollectionView layout for presenting of the overlapping cells. (today)
-- [matbeich/StickyCollectionView](https://github.com/matbeich/StickyCollectionView) - UICollectionView layout for presenting of the overlapping cells. (today)
-- [TigerWf/WFReader](https://github.com/TigerWf/WFReader) - a simple reader (today)
-- [TigerWf/WFCoretext](https://github.com/TigerWf/WFCoretext) (today)
 
 ## 🔨 Latest Pull Requests I published
 
