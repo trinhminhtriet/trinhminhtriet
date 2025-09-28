@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [szferi/gomdb](https://github.com/szferi/gomdb) - Go wrapper for LMDB - OpenLDAP Lightning Memory-Mapped Database (today)
-- [ApexLegendsUC/anti-cheat-emulator](https://github.com/ApexLegendsUC/anti-cheat-emulator) (today)
-- [gerhardberger/electron-pdf-window](https://github.com/gerhardberger/electron-pdf-window) - view PDF files in electron browser windows (today)
-- [asacristani/fastapi-rocket-boilerplate](https://github.com/asacristani/fastapi-rocket-boilerplate) - 🐍💨 FastAPI Rocket Boilerplate to build an API based in Python with its most modern technologies! (today)
-- [shijianjian/EfficientNet-PyTorch-3D](https://github.com/shijianjian/EfficientNet-PyTorch-3D) - A PyTorch implementation of EfficientNet (today)
+- [adri-romsor/FitNets](https://github.com/adri-romsor/FitNets) - FitNets: Hints for Thin Deep Nets (today)
+- [yannrichet/jmathplot](https://github.com/yannrichet/jmathplot) - Java interactive 2D and 3D plots (no OpenGL) (today)
+- [James-Jones/HLSLCrossCompiler](https://github.com/James-Jones/HLSLCrossCompiler) (today)
+- [kanishka-linux/kawaii-player](https://github.com/kanishka-linux/kawaii-player) - Multimedia player, media library manager and portable media server with PC-To-PC casting feature. (today)
+- [kanishka-linux/reminiscence](https://github.com/kanishka-linux/reminiscence) - Self-Hosted Bookmark And Archive Manager (today)
 
 ## 🔨 Latest Pull Requests I published
 
