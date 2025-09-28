@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [Joeri-Abbo/techworld-with-nana-devops-bootcamp](https://github.com/Joeri-Abbo/techworld-with-nana-devops-bootcamp) - Notes taken from the techworld with Nana devops bootcamp with projects (today)
-- [Allyans3/steam-market-api-v2](https://github.com/Allyans3/steam-market-api-v2) - Steam Market API v2 package (today)
-- [toqueteos/webbrowser](https://github.com/toqueteos/webbrowser) - :snake: Python's webbrowser lib in Go. Simple API for opening web pages on your default browser. (today)
-- [bradleyd/devops_for_the_desperate](https://github.com/bradleyd/devops_for_the_desperate) - The companion code for the book DevOps for the Desperate (today)
-- [narzoul/DDrawCompat](https://github.com/narzoul/DDrawCompat) - DirectDraw and Direct3D 1-7 compatibility, performance and visual enhancements for Windows Vista, 7, 8, 10 and 11 (today)
+- [WisdomSky/CasaOS-Coolstore](https://github.com/WisdomSky/CasaOS-Coolstore) - Just an another CasaOS third-party Appstore with ❄Cool❄ apps. (today)
+- [WisdomSky/Cloudflared-web](https://github.com/WisdomSky/Cloudflared-web) - Cloudflared-web is a docker image that packages both cloudflared cli and a simple Web UI to easily start or stop remotely-managed Cloudflare tunnel. (today)
+- [WisdomSky/CasaOS-LinuxServer-AppStore](https://github.com/WisdomSky/CasaOS-LinuxServer-AppStore) - A CasaOS custom Appstore containing over 100+ LinuxServer.io images. (today)
+- [tom-anders/Easy_xkcd](https://github.com/tom-anders/Easy_xkcd) - An easy and simple open source xkcd reader (today)
+- [pmg1989/dva-admin](https://github.com/pmg1989/dva-admin) - dva admin antd dashboard (today)
 
 ## 🔨 Latest Pull Requests I published
 
