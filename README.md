@@ -52,18 +52,18 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [JRigh](https://github.com/JRigh)
 - [dd7793168-ai](https://github.com/dd7793168-ai)
 - [Y4NN777](https://github.com/Y4NN777)
-- [ishandutta2007](https://github.com/ishandutta2007)
 - [thisalireza](https://github.com/thisalireza)
 - [abhijitpavse](https://github.com/abhijitpavse)
 - [yLeonardoDev](https://github.com/yLeonardoDev)
+- [mukeshlilawat1](https://github.com/mukeshlilawat1)
 
 ## ⭐ Recent stars
 
-- [freescout-help-desk/freescout](https://github.com/freescout-help-desk/freescout) - FreeScout — Free self-hosted help desk & shared mailbox (Zendesk / Help Scout alternative) (today)
-- [w0ng/googlefontdirectory](https://github.com/w0ng/googlefontdirectory) - Obsolete. Use https://github.com/google/fonts (today)
-- [w0ng/vim-hybrid](https://github.com/w0ng/vim-hybrid) - A dark color scheme for Vim (today)
-- [cbrst/startpage.rwrt](https://github.com/cbrst/startpage.rwrt) (today)
-- [kakzaki/blue_thermal_printer](https://github.com/kakzaki/blue_thermal_printer) - Working with thermal printer via bluetooth (Flutter) (today)
+- [robotchangzhang/nftqianggou](https://github.com/robotchangzhang/nftqianggou) (today)
+- [FunkyFr3sh/cnc-ddraw](https://github.com/FunkyFr3sh/cnc-ddraw) - GDI, OpenGL and Direct3D 9 re-implementation of the DirectDraw API for classic 2D games for better compatibility with Windows ME, 2000, XP, Vista, 7, 8, 10, 11, Wine (Linux/macOS/Android) and Virtual Machines (today)
+- [tianzhuo112/VTMagic](https://github.com/tianzhuo112/VTMagic) - VTMagic is a page container library for iOS. (today)
+- [BatuhanUsluel/ArbitrageBot](https://github.com/BatuhanUsluel/ArbitrageBot) - Arbitrage bot that currently works on bittrex & poloniex (today)
+- [BatuhanUsluel/Algorithmic-Support-and-Resistance](https://github.com/BatuhanUsluel/Algorithmic-Support-and-Resistance) - Automatically identifies support and resistance lines on a stock chart using reversal points, displays candlestick chart. (today)
 
 ## 🔨 Latest Pull Requests I published
 
