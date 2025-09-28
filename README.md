@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [szferi/gomdb](https://github.com/szferi/gomdb) - Go wrapper for LMDB - OpenLDAP Lightning Memory-Mapped Database (today)
+- [ApexLegendsUC/anti-cheat-emulator](https://github.com/ApexLegendsUC/anti-cheat-emulator) (today)
+- [gerhardberger/electron-pdf-window](https://github.com/gerhardberger/electron-pdf-window) - view PDF files in electron browser windows (today)
 - [asacristani/fastapi-rocket-boilerplate](https://github.com/asacristani/fastapi-rocket-boilerplate) - 🐍💨 FastAPI Rocket Boilerplate to build an API based in Python with its most modern technologies! (today)
 - [shijianjian/EfficientNet-PyTorch-3D](https://github.com/shijianjian/EfficientNet-PyTorch-3D) - A PyTorch implementation of EfficientNet (today)
-- [shivaverma/OpenAIGym](https://github.com/shivaverma/OpenAIGym) - Solving OpenAI Gym problems. (today)
-- [Charlie5DH/PredictiveMaintenance-and-Vibration-Resources](https://github.com/Charlie5DH/PredictiveMaintenance-and-Vibration-Resources) - Papers and datasets for Vibration Analysis (1 day ago)
-- [HermanFassett/youtube-scrape](https://github.com/HermanFassett/youtube-scrape) - Scrape YouTube searches (API) (1 day ago)
 
 ## 🔨 Latest Pull Requests I published
 
