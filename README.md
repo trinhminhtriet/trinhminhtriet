@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [brianegan/dart_redux_epics](https://github.com/brianegan/dart_redux_epics) - Redux.dart middleware for handling actions using Dart Streams (today)
-- [brianegan/new_flutter_template](https://github.com/brianegan/new_flutter_template) - Test ideas for a new flutter template (today)
-- [brianegan/flutter_stetho](https://github.com/brianegan/flutter_stetho) - Integrate Flutter with the Facebook Stetho tool for Android (today)
-- [brianegan/bansa](https://github.com/brianegan/bansa) - A state container for Java & Kotlin, inspired by Redux & Elm (today)
-- [brianegan/scoped_model](https://github.com/brianegan/scoped_model) - A Widget that passes a Reactive Model to all of it's children (today)
+- [freescout-help-desk/freescout](https://github.com/freescout-help-desk/freescout) - FreeScout — Free self-hosted help desk & shared mailbox (Zendesk / Help Scout alternative) (today)
+- [w0ng/googlefontdirectory](https://github.com/w0ng/googlefontdirectory) - Obsolete. Use https://github.com/google/fonts (today)
+- [w0ng/vim-hybrid](https://github.com/w0ng/vim-hybrid) - A dark color scheme for Vim (today)
+- [cbrst/startpage.rwrt](https://github.com/cbrst/startpage.rwrt) (today)
+- [kakzaki/blue_thermal_printer](https://github.com/kakzaki/blue_thermal_printer) - Working with thermal printer via bluetooth (Flutter) (today)
 
 ## 🔨 Latest Pull Requests I published
 
