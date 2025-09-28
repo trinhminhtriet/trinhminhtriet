@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [lilboy716](https://github.com/lilboy716)
 - [giladfuchs](https://github.com/giladfuchs)
 - [radu985](https://github.com/radu985)
 - [Fareed-Murtaza](https://github.com/Fareed-Murtaza)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Ashnice](https://github.com/Ashnice)
 - [JRigh](https://github.com/JRigh)
 - [dd7793168-ai](https://github.com/dd7793168-ai)
-- [Y4NN777](https://github.com/Y4NN777)
 
 ## ⭐ Recent stars
 
-- [ChrisRfr/Win10XPE](https://github.com/ChrisRfr/Win10XPE) - Win10XPE is a Complete Project Based on Win10, Win11 Recovery Environment With Many Windows Features Added... (today)
-- [enricofoltran/simple-go-server](https://github.com/enricofoltran/simple-go-server) - A simple golang web server with basic logging, tracing, health check, graceful shutdown and zero dependencies (today)
-- [enricofoltran/hello-auth-grpc](https://github.com/enricofoltran/hello-auth-grpc) - two grpc microservices with mutual TLS and token authentication in Go (today)
-- [moverest/wl-kbptr](https://github.com/moverest/wl-kbptr) - Control the mouse pointer with the keyboard on Wayland. (today)
-- [henninghall/react-native-date-picker](https://github.com/henninghall/react-native-date-picker) - React Native Date Picker is datetime picker for Android and iOS. It includes date, time and datetime picker modes. The datepicker is customizable and is supporting different languages. It's written with native code to achieve the best possible look, feel and performance. (today)
+- [stevenfontanella/microlens](https://github.com/stevenfontanella/microlens) - A lightweight (but compatible with ‘lens’) lenses library (today)
+- [CongWeilin/mtcnn-caffe](https://github.com/CongWeilin/mtcnn-caffe) - Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Neural Networks (today)
+- [belastrittmatter/Framely](https://github.com/belastrittmatter/Framely) - Framely: The open-source, lightweight, multi-tenant drag-and-drop website editor for modern web applications, powered by Next.js (today)
+- [Shpendrr/react-app-structure](https://github.com/Shpendrr/react-app-structure) (today)
+- [victor-valencia/bootstrap-iconpicker](https://github.com/victor-valencia/bootstrap-iconpicker) - A simple icon picker (today)
 
 ## 🔨 Latest Pull Requests I published
 
