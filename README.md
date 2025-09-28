@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [adri-romsor/FitNets](https://github.com/adri-romsor/FitNets) - FitNets: Hints for Thin Deep Nets (today)
-- [yannrichet/jmathplot](https://github.com/yannrichet/jmathplot) - Java interactive 2D and 3D plots (no OpenGL) (today)
-- [James-Jones/HLSLCrossCompiler](https://github.com/James-Jones/HLSLCrossCompiler) (today)
-- [kanishka-linux/kawaii-player](https://github.com/kanishka-linux/kawaii-player) - Multimedia player, media library manager and portable media server with PC-To-PC casting feature. (today)
-- [kanishka-linux/reminiscence](https://github.com/kanishka-linux/reminiscence) - Self-Hosted Bookmark And Archive Manager (today)
+- [lzyickobe/UnInstallDemo](https://github.com/lzyickobe/UnInstallDemo) - Android卸载自身，反馈统计 (today)
+- [Fichardu/CircleProgress](https://github.com/Fichardu/CircleProgress) - A circle progress animation view on Android (today)
+- [yueban/DraggedViewPager](https://github.com/yueban/DraggedViewPager) - (Deprecated) A View whose pages and items both can be dragged, looking like a ViewPager  (today)
+- [lijiankun24/Koala](https://github.com/lijiankun24/Koala) - 从 Java 字节码到 ASM 实践 (today)
+- [lijiankun24/ArchitecturePractice](https://github.com/lijiankun24/ArchitecturePractice) - Android 应用架构组件（Architecture Components）实践 (today)
 
 ## 🔨 Latest Pull Requests I published
 
