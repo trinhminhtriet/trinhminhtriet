@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [asacristani/fastapi-rocket-boilerplate](https://github.com/asacristani/fastapi-rocket-boilerplate) - 🐍💨 FastAPI Rocket Boilerplate to build an API based in Python with its most modern technologies! (today)
+- [shijianjian/EfficientNet-PyTorch-3D](https://github.com/shijianjian/EfficientNet-PyTorch-3D) - A PyTorch implementation of EfficientNet (today)
 - [shivaverma/OpenAIGym](https://github.com/shivaverma/OpenAIGym) - Solving OpenAI Gym problems. (today)
 - [Charlie5DH/PredictiveMaintenance-and-Vibration-Resources](https://github.com/Charlie5DH/PredictiveMaintenance-and-Vibration-Resources) - Papers and datasets for Vibration Analysis (1 day ago)
 - [HermanFassett/youtube-scrape](https://github.com/HermanFassett/youtube-scrape) - Scrape YouTube searches (API) (1 day ago)
-- [smebberson/docker-alpine](https://github.com/smebberson/docker-alpine) - Docker containers running Alpine Linux and s6 for process management. Solid, reliable containers. (1 day ago)
-- [akatz-ai/ComfyUI-DepthCrafter-Nodes](https://github.com/akatz-ai/ComfyUI-DepthCrafter-Nodes) - A port of tencent/DepthCrafter into ComfyUI (1 day ago)
 
 ## 🔨 Latest Pull Requests I published
 
