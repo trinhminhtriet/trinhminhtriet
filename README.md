@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [lzyickobe/UnInstallDemo](https://github.com/lzyickobe/UnInstallDemo) - Android卸载自身，反馈统计 (today)
-- [Fichardu/CircleProgress](https://github.com/Fichardu/CircleProgress) - A circle progress animation view on Android (today)
-- [yueban/DraggedViewPager](https://github.com/yueban/DraggedViewPager) - (Deprecated) A View whose pages and items both can be dragged, looking like a ViewPager  (today)
-- [lijiankun24/Koala](https://github.com/lijiankun24/Koala) - 从 Java 字节码到 ASM 实践 (today)
-- [lijiankun24/ArchitecturePractice](https://github.com/lijiankun24/ArchitecturePractice) - Android 应用架构组件（Architecture Components）实践 (today)
+- [BetaPundit/Yoga-Guru](https://github.com/BetaPundit/Yoga-Guru) - A personalized yoga trainer app based on Flutter and TensorFlow Lite. (today)
+- [matbeich/StickyCollectionView-Swift](https://github.com/matbeich/StickyCollectionView-Swift) - UICollectionView layout for presenting of the overlapping cells. (today)
+- [matbeich/StickyCollectionView](https://github.com/matbeich/StickyCollectionView) - UICollectionView layout for presenting of the overlapping cells. (today)
+- [TigerWf/WFReader](https://github.com/TigerWf/WFReader) - a simple reader (today)
+- [TigerWf/WFCoretext](https://github.com/TigerWf/WFCoretext) (today)
 
 ## 🔨 Latest Pull Requests I published
 
