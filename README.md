@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [allisonnicoledeal/VideoSync](https://github.com/allisonnicoledeal/VideoSync) - Automatically synchronize crowd-sourced concert videos (today)
-- [drmingler/docling-api](https://github.com/drmingler/docling-api) - Easily deployable and scalable backend server that efficiently converts various document formats (pdf, docx, pptx, html, images, etc) into Markdown. With support for both CPU and GPU processing, it is Ideal for large-scale workflows, it offers text/table extraction, OCR, and batch processing with sync/async endpoints. (today)
-- [debkbanerji/lego-art-remix](https://github.com/debkbanerji/lego-art-remix) - Powerful computer vision assisted Lego mosaic creator · Over 1 million images created (so far!) (1 day ago)
-- [ChrisWaites/pyvacy](https://github.com/ChrisWaites/pyvacy) - Differentially Private Optimization for PyTorch  👁🙅‍♀️ (1 day ago)
-- [ChrisWaites/jax-flows](https://github.com/ChrisWaites/jax-flows) - Normalizing Flows in JAX 🌊 (1 day ago)
+- [L33Z22L11/blog-v3](https://github.com/L33Z22L11/blog-v3) - My blog, powered by Nuxt Content v3. (today)
+- [dquist/EventBus](https://github.com/dquist/EventBus) - A lightweight synchronous event framework for C++11 (today)
+- [harrytandata/airflow_course](https://github.com/harrytandata/airflow_course) (today)
+- [likelovewant/ROCmLibs-for-gfx1103-AMD780M-APU](https://github.com/likelovewant/ROCmLibs-for-gfx1103-AMD780M-APU) - ROCm Library Files for  gfx1103 and update with others arches based  on AMD GPUs for use in Windows.  (today)
+- [likelovewant/ollama-for-amd](https://github.com/likelovewant/ollama-for-amd) - Get up and running with Llama 3, Mistral, Gemma, and other large language models.by adding more amd gpu support. (today)
 
 ## 🔨 Latest Pull Requests I published
 
