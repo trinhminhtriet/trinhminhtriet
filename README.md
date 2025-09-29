@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [philipmulcahy/azad](https://github.com/philipmulcahy/azad) - amazon order history reporter chrome extension (today)
-- [webrender/synthwave-x-fluoromachine](https://github.com/webrender/synthwave-x-fluoromachine) - VS Code theme - @robb0wen's Synthwave '84 x @fullerenedream's Fluoromachine (today)
-- [rlee0525/TechnicalConceptsForInterviews](https://github.com/rlee0525/TechnicalConceptsForInterviews) - Various technical concepts for interviews - Feel free to contribute and make it better! (today)
-- [ZacharyHampton/HomeHarvest](https://github.com/ZacharyHampton/HomeHarvest) - Python package for scraping real estate property data (today)
-- [thomasjhuang/deep-learning-for-document-dewarping](https://github.com/thomasjhuang/deep-learning-for-document-dewarping) - An application of high resolution GANs to dewarp images of perturbed documents (today)
+- [mbezhanov/faker-provider-collection](https://github.com/mbezhanov/faker-provider-collection) - A collection of custom providers for the Faker PHP library (today)
+- [bobmccune/Core-Animation-Demos](https://github.com/bobmccune/Core-Animation-Demos) - The new master source for these can be found at: (today)
+- [neilpa/cmd-colors-solarized](https://github.com/neilpa/cmd-colors-solarized) - Solarized color settings for Windows command prompt (today)
+- [Relsoul/whisper-win-gui](https://github.com/Relsoul/whisper-win-gui) - 基于whisper的实时语音识别 网页和桌面客户端 (today)
+- [tobefuturer/app2dylib](https://github.com/tobefuturer/app2dylib) - A reverse engineering tool to convert iOS app to dylib  (today)
 
 ## 🔨 Latest Pull Requests I published
 
