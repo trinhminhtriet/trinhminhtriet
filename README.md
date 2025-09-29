@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [mbezhanov/faker-provider-collection](https://github.com/mbezhanov/faker-provider-collection) - A collection of custom providers for the Faker PHP library (today)
-- [bobmccune/Core-Animation-Demos](https://github.com/bobmccune/Core-Animation-Demos) - The new master source for these can be found at: (today)
-- [neilpa/cmd-colors-solarized](https://github.com/neilpa/cmd-colors-solarized) - Solarized color settings for Windows command prompt (today)
-- [Relsoul/whisper-win-gui](https://github.com/Relsoul/whisper-win-gui) - 基于whisper的实时语音识别 网页和桌面客户端 (today)
-- [tobefuturer/app2dylib](https://github.com/tobefuturer/app2dylib) - A reverse engineering tool to convert iOS app to dylib  (today)
+- [gbammc/WechatPayDemo](https://github.com/gbammc/WechatPayDemo) - 非官方微信支付 iOS demo (today)
+- [gbammc/Thor](https://github.com/gbammc/Thor) - Switch the right application ASAP. (today)
+- [wangxp423/ViewExercise](https://github.com/wangxp423/ViewExercise) - 自己写的一些自定义View。水波纹，仿探探搜索，语音输入动画，Canvas研究，状态栏研究等。 (today)
+- [iOrchid/android-jetpack-demo](https://github.com/iOrchid/android-jetpack-demo) - 🔥  快速入门Android Jetpack&Compose 以及相关Kotlin、MVVM/MVI等独立构架App的基础技能 (today)
+- [gaoleicoding/BiuBike](https://github.com/gaoleicoding/BiuBike) - Android百度地图实例详解之仿摩拜单车APP(包括附近车辆、规划路径、行驶距离、行驶轨迹记录，轨迹回放，导航等) (today)
 
 ## 🔨 Latest Pull Requests I published
 
