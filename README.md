@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [ellen-simonyan](https://github.com/ellen-simonyan)
+- [Mustafa-isa](https://github.com/Mustafa-isa)
 - [lilboy716](https://github.com/lilboy716)
 - [giladfuchs](https://github.com/giladfuchs)
 - [radu985](https://github.com/radu985)
@@ -54,16 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [elijah-dot](https://github.com/elijah-dot)
 - [ipqwery](https://github.com/ipqwery)
 - [Ashnice](https://github.com/Ashnice)
-- [JRigh](https://github.com/JRigh)
-- [dd7793168-ai](https://github.com/dd7793168-ai)
 
 ## ⭐ Recent stars
 
-- [ChengjinLi/machine_learning](https://github.com/ChengjinLi/machine_learning) - 机器学习、深度学习、NLP实战项目 (today)
-- [charlessolar/DDD.Enterprise.Example](https://github.com/charlessolar/DDD.Enterprise.Example) - An example of an enterprise-ready architecture built with NServicebus, GetEventStore, RabbitMq, and ServiceStack (today)
-- [charlessolar/TodoMVC-DDD-CQRS-EventSourcing](https://github.com/charlessolar/TodoMVC-DDD-CQRS-EventSourcing) - Implementation of basic Todo app via tastejs/todomvc in C#/Typescript with eventsourcing, cqrs, and domain driven design (today)
-- [charlessolar/eShopOnContainersDDD](https://github.com/charlessolar/eShopOnContainersDDD) - Fork of dotnet-architecture/eShopOnContainers in full DDD/CQRS design using my own patterns (today)
-- [charlessolar/Aggregates.NET](https://github.com/charlessolar/Aggregates.NET) - .NET event sourced domain driven design model via NServiceBus and GetEventStore (today)
+- [itinypocket/spring-boot-study](https://github.com/itinypocket/spring-boot-study) (today)
+- [zhuchao941/canal2sql](https://github.com/zhuchao941/canal2sql) - 同时支持在线和离线解析binlog，输出标准sql (today)
+- [Ryan-Miao/wxappUnpacker](https://github.com/Ryan-Miao/wxappUnpacker) - 微信小程序反编译 (today)
+- [Ryan-Miao/docker-yapi](https://github.com/Ryan-Miao/docker-yapi) - Docker build and run yapi as service (today)
+- [samuel-code/faceTracking](https://github.com/samuel-code/faceTracking) - this is my blog pages (today)
 
 ## 🔨 Latest Pull Requests I published
 
