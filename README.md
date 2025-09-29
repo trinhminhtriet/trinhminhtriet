@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [gbammc/WechatPayDemo](https://github.com/gbammc/WechatPayDemo) - 非官方微信支付 iOS demo (today)
-- [gbammc/Thor](https://github.com/gbammc/Thor) - Switch the right application ASAP. (today)
-- [wangxp423/ViewExercise](https://github.com/wangxp423/ViewExercise) - 自己写的一些自定义View。水波纹，仿探探搜索，语音输入动画，Canvas研究，状态栏研究等。 (today)
-- [iOrchid/android-jetpack-demo](https://github.com/iOrchid/android-jetpack-demo) - 🔥  快速入门Android Jetpack&Compose 以及相关Kotlin、MVVM/MVI等独立构架App的基础技能 (today)
-- [gaoleicoding/BiuBike](https://github.com/gaoleicoding/BiuBike) - Android百度地图实例详解之仿摩拜单车APP(包括附近车辆、规划路径、行驶距离、行驶轨迹记录，轨迹回放，导航等) (today)
+- [Kennytian/LagouApp](https://github.com/Kennytian/LagouApp) - React Native 版仿拉勾 App, 用纯纯的 ES6 实现 (today)
+- [Kennytian/learning-react-native](https://github.com/Kennytian/learning-react-native) - React Native Learning Notebook (today)
+- [JZHowe/HoweAssistant](https://github.com/JZHowe/HoweAssistant) - 好帮手是一个基于Android系统开发的智能语音助手,它能够实现陪你聊天、打电话、发短信、打开应用、查询天气以及智能问答等操作。本应用的语音引擎来自于科大讯飞开放平台，具备较高的普通话识别能力。 (today)
+- [HelloHuDi/AndroidReverseNotes](https://github.com/HelloHuDi/AndroidReverseNotes) - Android逆向笔记---从入门到入土 (today)
+- [BillyWei01/EasyAlbum](https://github.com/BillyWei01/EasyAlbum) - An easy to use media image and video selector for Android. (today)
 
 ## 🔨 Latest Pull Requests I published
 
