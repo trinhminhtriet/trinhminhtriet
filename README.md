@@ -46,6 +46,9 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [codeWithMarina](https://github.com/codeWithMarina)
+- [samiiroosi63-cmyk](https://github.com/samiiroosi63-cmyk)
+- [qsozzz](https://github.com/qsozzz)
 - [ellen-simonyan](https://github.com/ellen-simonyan)
 - [Mustafa-isa](https://github.com/Mustafa-isa)
 - [lilboy716](https://github.com/lilboy716)
@@ -53,17 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [radu985](https://github.com/radu985)
 - [Fareed-Murtaza](https://github.com/Fareed-Murtaza)
 - [ishandutta2007](https://github.com/ishandutta2007)
-- [elijah-dot](https://github.com/elijah-dot)
-- [ipqwery](https://github.com/ipqwery)
-- [Ashnice](https://github.com/Ashnice)
 
 ## ⭐ Recent stars
 
+- [alvesoaj/JoystickView](https://github.com/alvesoaj/JoystickView) - An Android Joystick View (today)
+- [alvesoaj/eFLL](https://github.com/alvesoaj/eFLL) - eFLL (Embedded Fuzzy Logic Library) is a standard library for Embedded Systems (today)
 - [SaltwaterC/romanian-programmers-mac](https://github.com/SaltwaterC/romanian-programmers-mac) - Aranjament de tastatură "Romanian - Programmers" pentru Mac OS X / macOS (today)
 - [SaltwaterC/aws2js](https://github.com/SaltwaterC/aws2js) - [DEPRECATED - use aws-sdk for node.js] AWS (Amazon Web Services) APIs client implementation for node.js (today)
 - [c10b10/wp-cli-deploy](https://github.com/c10b10/wp-cli-deploy) - A WP-Cli command that allows you to deploy the local database or uploads directory to a remote server using ssh. (today)
-- [breily/juno](https://github.com/breily/juno) - a lightweight and simple python web framework (today)
-- [jamespacileo/django-pure-pagination](https://github.com/jamespacileo/django-pure-pagination) - Django pagination based upon the core pagination module (today)
 
 ## 🔨 Latest Pull Requests I published
 
