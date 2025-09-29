@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [Kennytian/LagouApp](https://github.com/Kennytian/LagouApp) - React Native 版仿拉勾 App, 用纯纯的 ES6 实现 (today)
-- [Kennytian/learning-react-native](https://github.com/Kennytian/learning-react-native) - React Native Learning Notebook (today)
-- [JZHowe/HoweAssistant](https://github.com/JZHowe/HoweAssistant) - 好帮手是一个基于Android系统开发的智能语音助手,它能够实现陪你聊天、打电话、发短信、打开应用、查询天气以及智能问答等操作。本应用的语音引擎来自于科大讯飞开放平台，具备较高的普通话识别能力。 (today)
-- [HelloHuDi/AndroidReverseNotes](https://github.com/HelloHuDi/AndroidReverseNotes) - Android逆向笔记---从入门到入土 (today)
-- [BillyWei01/EasyAlbum](https://github.com/BillyWei01/EasyAlbum) - An easy to use media image and video selector for Android. (today)
+- [ChengjinLi/machine_learning](https://github.com/ChengjinLi/machine_learning) - 机器学习、深度学习、NLP实战项目 (today)
+- [charlessolar/DDD.Enterprise.Example](https://github.com/charlessolar/DDD.Enterprise.Example) - An example of an enterprise-ready architecture built with NServicebus, GetEventStore, RabbitMq, and ServiceStack (today)
+- [charlessolar/TodoMVC-DDD-CQRS-EventSourcing](https://github.com/charlessolar/TodoMVC-DDD-CQRS-EventSourcing) - Implementation of basic Todo app via tastejs/todomvc in C#/Typescript with eventsourcing, cqrs, and domain driven design (today)
+- [charlessolar/eShopOnContainersDDD](https://github.com/charlessolar/eShopOnContainersDDD) - Fork of dotnet-architecture/eShopOnContainers in full DDD/CQRS design using my own patterns (today)
+- [charlessolar/Aggregates.NET](https://github.com/charlessolar/Aggregates.NET) - .NET event sourced domain driven design model via NServiceBus and GetEventStore (today)
 
 ## 🔨 Latest Pull Requests I published
 
