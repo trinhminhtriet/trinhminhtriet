@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [itinypocket/spring-boot-study](https://github.com/itinypocket/spring-boot-study) (today)
-- [zhuchao941/canal2sql](https://github.com/zhuchao941/canal2sql) - 同时支持在线和离线解析binlog，输出标准sql (today)
-- [Ryan-Miao/wxappUnpacker](https://github.com/Ryan-Miao/wxappUnpacker) - 微信小程序反编译 (today)
-- [Ryan-Miao/docker-yapi](https://github.com/Ryan-Miao/docker-yapi) - Docker build and run yapi as service (today)
-- [samuel-code/faceTracking](https://github.com/samuel-code/faceTracking) - this is my blog pages (today)
+- [SaltwaterC/romanian-programmers-mac](https://github.com/SaltwaterC/romanian-programmers-mac) - Aranjament de tastatură "Romanian - Programmers" pentru Mac OS X / macOS (today)
+- [SaltwaterC/aws2js](https://github.com/SaltwaterC/aws2js) - [DEPRECATED - use aws-sdk for node.js] AWS (Amazon Web Services) APIs client implementation for node.js (today)
+- [c10b10/wp-cli-deploy](https://github.com/c10b10/wp-cli-deploy) - A WP-Cli command that allows you to deploy the local database or uploads directory to a remote server using ssh. (today)
+- [breily/juno](https://github.com/breily/juno) - a lightweight and simple python web framework (today)
+- [jamespacileo/django-pure-pagination](https://github.com/jamespacileo/django-pure-pagination) - Django pagination based upon the core pagination module (today)
 
 ## 🔨 Latest Pull Requests I published
 
