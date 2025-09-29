@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [L33Z22L11/blog-v3](https://github.com/L33Z22L11/blog-v3) - My blog, powered by Nuxt Content v3. (today)
-- [dquist/EventBus](https://github.com/dquist/EventBus) - A lightweight synchronous event framework for C++11 (today)
-- [harrytandata/airflow_course](https://github.com/harrytandata/airflow_course) (today)
-- [likelovewant/ROCmLibs-for-gfx1103-AMD780M-APU](https://github.com/likelovewant/ROCmLibs-for-gfx1103-AMD780M-APU) - ROCm Library Files for  gfx1103 and update with others arches based  on AMD GPUs for use in Windows.  (today)
-- [likelovewant/ollama-for-amd](https://github.com/likelovewant/ollama-for-amd) - Get up and running with Llama 3, Mistral, Gemma, and other large language models.by adding more amd gpu support. (today)
+- [philipmulcahy/azad](https://github.com/philipmulcahy/azad) - amazon order history reporter chrome extension (today)
+- [webrender/synthwave-x-fluoromachine](https://github.com/webrender/synthwave-x-fluoromachine) - VS Code theme - @robb0wen's Synthwave '84 x @fullerenedream's Fluoromachine (today)
+- [rlee0525/TechnicalConceptsForInterviews](https://github.com/rlee0525/TechnicalConceptsForInterviews) - Various technical concepts for interviews - Feel free to contribute and make it better! (today)
+- [ZacharyHampton/HomeHarvest](https://github.com/ZacharyHampton/HomeHarvest) - Python package for scraping real estate property data (today)
+- [thomasjhuang/deep-learning-for-document-dewarping](https://github.com/thomasjhuang/deep-learning-for-document-dewarping) - An application of high resolution GANs to dewarp images of perturbed documents (today)
 
 ## 🔨 Latest Pull Requests I published
 
