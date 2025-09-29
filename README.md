@@ -33,11 +33,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👷 Check out what I'm currently working on
 
-- [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) - 🚀 All-in-one CLI toolkit for developers: scaffold, manage, automate, and boost productivity across languages! (4 days ago)
-- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (4 days ago)
+- [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) - 🚀 All-in-one CLI toolkit for developers: scaffold, manage, automate, and boost productivity across languages! (5 days ago)
+- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (5 days ago)
 - [lamhaison/aws-cli-utils](https://github.com/lamhaison/aws-cli-utils) - This is the project to collect helpful aws cli commandline with complex options to support your working (1 week ago)
 - [trinhminhtriet/dwipe](https://github.com/trinhminhtriet/dwipe) - 🧹 Fast, cross-platform disk cleanup tool with interactive UI for easy directory size visualization. (3 weeks ago)
-- [nctl-io/nctl-roadmap](https://github.com/nctl-io/nctl-roadmap) (4 weeks ago)
+- [nctl-io/nctl-roadmap](https://github.com/nctl-io/nctl-roadmap) (1 month ago)
 - [nctl-io/.github](https://github.com/nctl-io/.github) - 🌐 Network. Connect. Transform. Lead. (1 month ago)
 - [nctl-io/nctl-homepage](https://github.com/nctl-io/nctl-homepage) - 🚀 Modern homepage for NCTL: fast, responsive, TypeScript-powered, open source, and easy to customize. (1 month ago)
 - [nctl-io/nctl-branding](https://github.com/nctl-io/nctl-branding) - NCTL Branding 🖼️: Centralized assets and guidelines for consistent visual identity across NCTL projects and platforms. (1 month ago)
@@ -59,12 +59,12 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [stevenfontanella/microlens](https://github.com/stevenfontanella/microlens) - A lightweight (but compatible with ‘lens’) lenses library (today)
-- [CongWeilin/mtcnn-caffe](https://github.com/CongWeilin/mtcnn-caffe) - Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Neural Networks (today)
-- [belastrittmatter/Framely](https://github.com/belastrittmatter/Framely) - Framely: The open-source, lightweight, multi-tenant drag-and-drop website editor for modern web applications, powered by Next.js (today)
-- [Shpendrr/react-app-structure](https://github.com/Shpendrr/react-app-structure) (today)
-- [victor-valencia/bootstrap-iconpicker](https://github.com/victor-valencia/bootstrap-iconpicker) - A simple icon picker (today)
+- [allisonnicoledeal/VideoSync](https://github.com/allisonnicoledeal/VideoSync) - Automatically synchronize crowd-sourced concert videos (today)
+- [drmingler/docling-api](https://github.com/drmingler/docling-api) - Easily deployable and scalable backend server that efficiently converts various document formats (pdf, docx, pptx, html, images, etc) into Markdown. With support for both CPU and GPU processing, it is Ideal for large-scale workflows, it offers text/table extraction, OCR, and batch processing with sync/async endpoints. (today)
+- [debkbanerji/lego-art-remix](https://github.com/debkbanerji/lego-art-remix) - Powerful computer vision assisted Lego mosaic creator · Over 1 million images created (so far!) (1 day ago)
+- [ChrisWaites/pyvacy](https://github.com/ChrisWaites/pyvacy) - Differentially Private Optimization for PyTorch  👁🙅‍♀️ (1 day ago)
+- [ChrisWaites/jax-flows](https://github.com/ChrisWaites/jax-flows) - Normalizing Flows in JAX 🌊 (1 day ago)
 
 ## 🔨 Latest Pull Requests I published
 
-- [Add DNS record management command with export functionality](https://github.com/trinhminhtriet/DevPilot/pull/10) on [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) (4 days ago)
+- [Add DNS record management command with export functionality](https://github.com/trinhminhtriet/DevPilot/pull/10) on [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) (5 days ago)
