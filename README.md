@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [ennauata/houseganpp](https://github.com/ennauata/houseganpp) (today)
-- [ennauata/housegan](https://github.com/ennauata/housegan) - House-GAN: Relational Generative Adversarial Networks for Graph-constrained House Layout Generation (today)
-- [jeycaarce/message](https://github.com/jeycaarce/message) (today)
-- [jeycaarce/flowers](https://github.com/jeycaarce/flowers) (today)
-- [Donaldcwl/browser-image-compression](https://github.com/Donaldcwl/browser-image-compression) - Image compression in web browser (today)
+- [g8row/gphotos-guide](https://github.com/g8row/gphotos-guide) - a guide for unlimited google photos storage with a windows pc (non-root) (today)
+- [ChristianPanov/lwlog](https://github.com/ChristianPanov/lwlog) - Very fast synchronous and asynchronous C++17 logging library (today)
+- [indjev99/Evolving-Snakes](https://github.com/indjev99/Evolving-Snakes) - Snakes from the classical game are controlled by neural networks and evolve using a genetic algorithm. (today)
+- [b3b00/csly](https://github.com/b3b00/csly) - a C# embeddable lexer and parser generator (.Net core) (today)
+- [yeayee/LaTeX_OCR_PRO](https://github.com/yeayee/LaTeX_OCR_PRO) - 数学公式识别，增强：中文公式、手写公式 (today)
 
 ## 🔨 Latest Pull Requests I published
 
