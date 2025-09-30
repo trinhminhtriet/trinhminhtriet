@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [Proektsoftbg/Calcpad](https://github.com/Proektsoftbg/Calcpad) - Free and open source software for mathematical and engineering calculations. (today)
 - [Angeld55/Object-oriented_programming_FMI](https://github.com/Angeld55/Object-oriented_programming_FMI) - Repository with examples for the "Object-oriented programming" course given by me @ Faculty of Mathematics and Informatics, Sofia University (today)
 - [wIksS/SoftuniExcersises](https://github.com/wIksS/SoftuniExcersises) (today)
 - [ashishps1/awesome-behavioral-interviews](https://github.com/ashishps1/awesome-behavioral-interviews) - Tips and resources to prepare for Behavioral interviews. (today)
 - [ashishps1/awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) - Learn System Design concepts and prepare for interviews using free resources. (today)
-- [apache/maven](https://github.com/apache/maven) - Apache Maven core (today)
 
 ## 🔨 Latest Pull Requests I published
 
