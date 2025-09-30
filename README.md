@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [wIksS/SoftuniExcersises](https://github.com/wIksS/SoftuniExcersises) (today)
+- [ashishps1/awesome-behavioral-interviews](https://github.com/ashishps1/awesome-behavioral-interviews) - Tips and resources to prepare for Behavioral interviews. (today)
+- [ashishps1/awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) - Learn System Design concepts and prepare for interviews using free resources. (today)
 - [apache/maven](https://github.com/apache/maven) - Apache Maven core (today)
 - [modelcontextprotocol/java-sdk](https://github.com/modelcontextprotocol/java-sdk) - The official Java SDK for Model Context Protocol servers and clients. Maintained in collaboration with Spring AI (today)
-- [google/adk-java](https://github.com/google/adk-java) - An open-source, code-first Java toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control. (today)
-- [alvesoaj/JoystickView](https://github.com/alvesoaj/JoystickView) - An Android Joystick View (1 day ago)
-- [alvesoaj/eFLL](https://github.com/alvesoaj/eFLL) - eFLL (Embedded Fuzzy Logic Library) is a standard library for Embedded Systems (1 day ago)
 
 ## 🔨 Latest Pull Requests I published
 
