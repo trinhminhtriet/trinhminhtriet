@@ -33,8 +33,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👷 Check out what I'm currently working on
 
-- [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) - 🚀 All-in-one CLI toolkit for developers: scaffold, manage, automate, and boost productivity across languages! (5 days ago)
-- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (5 days ago)
+- [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) - 🚀 All-in-one CLI toolkit for developers: scaffold, manage, automate, and boost productivity across languages! (6 days ago)
+- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (6 days ago)
 - [lamhaison/aws-cli-utils](https://github.com/lamhaison/aws-cli-utils) - This is the project to collect helpful aws cli commandline with complex options to support your working (1 week ago)
 - [trinhminhtriet/dwipe](https://github.com/trinhminhtriet/dwipe) - 🧹 Fast, cross-platform disk cleanup tool with interactive UI for easy directory size visualization. (3 weeks ago)
 - [nctl-io/nctl-roadmap](https://github.com/nctl-io/nctl-roadmap) (1 month ago)
@@ -59,12 +59,12 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [alvesoaj/JoystickView](https://github.com/alvesoaj/JoystickView) - An Android Joystick View (today)
-- [alvesoaj/eFLL](https://github.com/alvesoaj/eFLL) - eFLL (Embedded Fuzzy Logic Library) is a standard library for Embedded Systems (today)
-- [SaltwaterC/romanian-programmers-mac](https://github.com/SaltwaterC/romanian-programmers-mac) - Aranjament de tastatură "Romanian - Programmers" pentru Mac OS X / macOS (today)
-- [SaltwaterC/aws2js](https://github.com/SaltwaterC/aws2js) - [DEPRECATED - use aws-sdk for node.js] AWS (Amazon Web Services) APIs client implementation for node.js (today)
-- [c10b10/wp-cli-deploy](https://github.com/c10b10/wp-cli-deploy) - A WP-Cli command that allows you to deploy the local database or uploads directory to a remote server using ssh. (today)
+- [alvesoaj/JoystickView](https://github.com/alvesoaj/JoystickView) - An Android Joystick View (1 day ago)
+- [alvesoaj/eFLL](https://github.com/alvesoaj/eFLL) - eFLL (Embedded Fuzzy Logic Library) is a standard library for Embedded Systems (1 day ago)
+- [SaltwaterC/romanian-programmers-mac](https://github.com/SaltwaterC/romanian-programmers-mac) - Aranjament de tastatură "Romanian - Programmers" pentru Mac OS X / macOS (1 day ago)
+- [SaltwaterC/aws2js](https://github.com/SaltwaterC/aws2js) - [DEPRECATED - use aws-sdk for node.js] AWS (Amazon Web Services) APIs client implementation for node.js (1 day ago)
+- [c10b10/wp-cli-deploy](https://github.com/c10b10/wp-cli-deploy) - A WP-Cli command that allows you to deploy the local database or uploads directory to a remote server using ssh. (1 day ago)
 
 ## 🔨 Latest Pull Requests I published
 
-- [Add DNS record management command with export functionality](https://github.com/trinhminhtriet/DevPilot/pull/10) on [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) (5 days ago)
+- [Add DNS record management command with export functionality](https://github.com/trinhminhtriet/DevPilot/pull/10) on [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) (6 days ago)
