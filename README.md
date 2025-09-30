@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [davicesarm](https://github.com/davicesarm)
 - [BEPb](https://github.com/BEPb)
 - [codeWithMarina](https://github.com/codeWithMarina)
 - [samiiroosi63-cmyk](https://github.com/samiiroosi63-cmyk)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [lilboy716](https://github.com/lilboy716)
 - [giladfuchs](https://github.com/giladfuchs)
 - [radu985](https://github.com/radu985)
-- [Fareed-Murtaza](https://github.com/Fareed-Murtaza)
 
 ## ⭐ Recent stars
 
