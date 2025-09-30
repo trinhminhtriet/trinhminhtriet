@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [stelf/en2bg4term](https://github.com/stelf/en2bg4term) - речник с грижливо подбирани преводи на често срещани понятия от света на науката, технологиите (в това число ИТ) и математиката (STEM). приемат се предложения. прочетете по-долу как можете дас е включите. (today)
-- [Proektsoftbg/Calcpad](https://github.com/Proektsoftbg/Calcpad) - Free and open source software for mathematical and engineering calculations. (today)
-- [Angeld55/Object-oriented_programming_FMI](https://github.com/Angeld55/Object-oriented_programming_FMI) - Repository with examples for the "Object-oriented programming" course given by me @ Faculty of Mathematics and Informatics, Sofia University (today)
-- [wIksS/SoftuniExcersises](https://github.com/wIksS/SoftuniExcersises) (today)
-- [ashishps1/awesome-behavioral-interviews](https://github.com/ashishps1/awesome-behavioral-interviews) - Tips and resources to prepare for Behavioral interviews. (today)
+- [Donaldcwl/browser-image-compression](https://github.com/Donaldcwl/browser-image-compression) - Image compression in web browser (today)
+- [segler-alex/radiobrowser-api-rust](https://github.com/segler-alex/radiobrowser-api-rust) - radio-browser API implementation in rust (today)
+- [segler-alex/RadioDroid](https://github.com/segler-alex/RadioDroid) - radio browser app that uses www.radio-browser.info on android (today)
+- [gzalo/HalfMapper](https://github.com/gzalo/HalfMapper) - A viewer that displays all maps from Half-Life at the same time. Navigate though Black Mesa Research Facility and appreciate its immenseness! (today)
+- [zewish/rmodal.js](https://github.com/zewish/rmodal.js) - A simple 1.2 KB modal dialog with no dependencies (today)
 
 ## 🔨 Latest Pull Requests I published
 
