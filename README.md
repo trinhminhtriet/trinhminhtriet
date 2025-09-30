@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [ennauata/houseganpp](https://github.com/ennauata/houseganpp) (today)
+- [ennauata/housegan](https://github.com/ennauata/housegan) - House-GAN: Relational Generative Adversarial Networks for Graph-constrained House Layout Generation (today)
+- [jeycaarce/message](https://github.com/jeycaarce/message) (today)
+- [jeycaarce/flowers](https://github.com/jeycaarce/flowers) (today)
 - [Donaldcwl/browser-image-compression](https://github.com/Donaldcwl/browser-image-compression) - Image compression in web browser (today)
-- [segler-alex/radiobrowser-api-rust](https://github.com/segler-alex/radiobrowser-api-rust) - radio-browser API implementation in rust (today)
-- [segler-alex/RadioDroid](https://github.com/segler-alex/RadioDroid) - radio browser app that uses www.radio-browser.info on android (today)
-- [gzalo/HalfMapper](https://github.com/gzalo/HalfMapper) - A viewer that displays all maps from Half-Life at the same time. Navigate though Black Mesa Research Facility and appreciate its immenseness! (today)
-- [zewish/rmodal.js](https://github.com/zewish/rmodal.js) - A simple 1.2 KB modal dialog with no dependencies (today)
 
 ## 🔨 Latest Pull Requests I published
 
