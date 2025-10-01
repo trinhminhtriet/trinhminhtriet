@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [K0p1-Git/cloudflare-ddns-updater](https://github.com/K0p1-Git/cloudflare-ddns-updater) - Dynamic DNS (DDNS) service based on Cloudflare! Access your home network remotely via a custom domain name without a static IP! Written in pure BASH~ (today)
-- [bugventure/jsen](https://github.com/bugventure/jsen) - JSON-Schema validator built for speed (today)
-- [KOWLOR/DaftPunKonsole](https://github.com/KOWLOR/DaftPunKonsole) - Keyboard console (today)
-- [Cortys/comic-backup](https://github.com/Cortys/comic-backup) - Back up your comics as CBZ. (today)
-- [karolsluszniak/ex_check](https://github.com/karolsluszniak/ex_check) - One task to efficiently run all code analysis & testing tools in an Elixir project. Born out of 💜 to Elixir and pragmatism. (today)
+- [timjansen/hanson](https://github.com/timjansen/hanson) - JSON for Humans - with unquoted identifiers, multi-line strings and comments (today)
+- [timjansen/minified.js](https://github.com/timjansen/minified.js) - A lightweight library for the Web (today)
+- [akarlsten/cuberun](https://github.com/akarlsten/cuberun) - A small 3D game built with react-three-fiber (today)
+- [atanasyanew/media-server](https://github.com/atanasyanew/media-server) - Docker project for a automated media server - Plex, Ombi/Overserr, Prowlarr/Jacket, qBittorrent, Sonarr, Radarr and Lidarr (today)
+- [carlosgprado/JARVIS](https://github.com/carlosgprado/JARVIS) - "Just Another ReVersIng Suite" or whatever other bullshit you can think of  (today)
 
 ## 🔨 Latest Pull Requests I published
 
