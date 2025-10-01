@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [ftzi/eslint-config-biome](https://github.com/ftzi/eslint-config-biome) - Disables ESLint rules that have a recommended and equivalent Biome rule (today)
+- [ftzi/react-native-shadow-2](https://github.com/ftzi/react-native-shadow-2) - Cross-platform shadow for React Native. Supports Android, iOS, Web, and Expo (today)
+- [victorharry/zap-gpt](https://github.com/victorharry/zap-gpt) - ChatGPT para Whatsapp (today)
 - [OthmanAba/TeamFortress2](https://github.com/OthmanAba/TeamFortress2) - TF2 Source Code leaked on 22/4/2020 (today)
 - [IgnorantGuru/udevil](https://github.com/IgnorantGuru/udevil) - Mount without password (today)
-- [IgnorantGuru/spacefm](https://github.com/IgnorantGuru/spacefm) - SpaceFM File Manager (today)
-- [jasonlewis/enhanced-router](https://github.com/jasonlewis/enhanced-router) - Enhanced Router is an extension to the Laravel 4 router and provides some enhanced functionality. (today)
-- [jasonlewis/resource-watcher](https://github.com/jasonlewis/resource-watcher) - Simple PHP resource watcher library. (today)
 
 ## 🔨 Latest Pull Requests I published
 
