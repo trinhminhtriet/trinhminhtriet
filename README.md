@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [kalanakt/awesome-telegram](https://github.com/kalanakt/awesome-telegram) - A curated list of awesome telegram groups, channels, bots, open source projects And Libraries (today)
+- [kalanakt/All-Url-Uploader](https://github.com/kalanakt/All-Url-Uploader) - A simple telegram Bot, Upload Media File| video To telegram using the direct download link. (youtube, Mediafire, google drive, mega drive, etc) (today)
 - [NielsLeenheer/ReceiptPrinterEncoder](https://github.com/NielsLeenheer/ReceiptPrinterEncoder) - Create a set of commands that can be send to any receipt printer that supports ESC/POS, StarLine or StarPRNT (today)
 - [NielsLeenheer/EscPosEncoder](https://github.com/NielsLeenheer/EscPosEncoder) - Create a set of commands that can be send to any receipt printer that supports ESC/POS (today)
 - [ftzi/eslint-config-biome](https://github.com/ftzi/eslint-config-biome) - Disables ESLint rules that have a recommended and equivalent Biome rule (today)
-- [ftzi/react-native-shadow-2](https://github.com/ftzi/react-native-shadow-2) - Cross-platform shadow for React Native. Supports Android, iOS, Web, and Expo (today)
-- [victorharry/zap-gpt](https://github.com/victorharry/zap-gpt) - ChatGPT para Whatsapp (today)
 
 ## 🔨 Latest Pull Requests I published
 
