@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [zukahai/confess-crush](https://github.com/zukahai/confess-crush) - Creating a cute website to send to your crush is very simple (today)
-- [MankaranSingh/Auto-Birds-Eye](https://github.com/MankaranSingh/Auto-Birds-Eye) - Bird's eye/Top Down view generation and mapping with deep learning. (today)
-- [haltakov/suboptimal](https://github.com/haltakov/suboptimal) - Seriously Unnecessary Baffling Obscure Perplexing Terms In MAchine Learning (today)
-- [haltakov/simple-photo-gallery](https://github.com/haltakov/simple-photo-gallery) - Beautiful and simple photo galleries that help you tell your story. Free and open-source. (today)
-- [haltakov/natural-language-youtube-search](https://github.com/haltakov/natural-language-youtube-search) - Search inside YouTube videos using natural language  (today)
+- [K0p1-Git/cloudflare-ddns-updater](https://github.com/K0p1-Git/cloudflare-ddns-updater) - Dynamic DNS (DDNS) service based on Cloudflare! Access your home network remotely via a custom domain name without a static IP! Written in pure BASH~ (today)
+- [bugventure/jsen](https://github.com/bugventure/jsen) - JSON-Schema validator built for speed (today)
+- [KOWLOR/DaftPunKonsole](https://github.com/KOWLOR/DaftPunKonsole) - Keyboard console (today)
+- [Cortys/comic-backup](https://github.com/Cortys/comic-backup) - Back up your comics as CBZ. (today)
+- [karolsluszniak/ex_check](https://github.com/karolsluszniak/ex_check) - One task to efficiently run all code analysis & testing tools in an Elixir project. Born out of 💜 to Elixir and pragmatism. (today)
 
 ## 🔨 Latest Pull Requests I published
 
