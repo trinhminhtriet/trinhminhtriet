@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [YumNumm/EQMonitor](https://github.com/YumNumm/EQMonitor) - An earthquake monitoring Application (today)
-- [brianquinlan/learn-rust](https://github.com/brianquinlan/learn-rust) - Projects to help me learn the Rust programming language (today)
-- [gaborcsardi/prompt](https://github.com/gaborcsardi/prompt) - Dynamic R prompt (today)
-- [hkdobrev/awesome-handbooks](https://github.com/hkdobrev/awesome-handbooks) - A curated list of awesome company handbooks (today)
-- [hkdobrev/cleanmac](https://github.com/hkdobrev/cleanmac) - Clean your macOS with a script, not an expensive app (today)
+- [ghedipunk/PHP-Websockets](https://github.com/ghedipunk/PHP-Websockets) - A Websockets server written in PHP. (today)
+- [dstahlke/gnuplot-iostream](https://github.com/dstahlke/gnuplot-iostream) - C++ interface to gnuplot (today)
+- [opera7133/tella](https://github.com/opera7133/tella) - Tella, A Hugo theme for Companies. (today)
+- [ingen084/KyoshinEewViewerIngen](https://github.com/ingen084/KyoshinEewViewerIngen) - Custom client for Kyoshin Monitor (today)
+- [p4wnsolo/breach-torrents](https://github.com/p4wnsolo/breach-torrents) - Torrent files for data breaches used in research (today)
 
 ## 🔨 Latest Pull Requests I published
 
