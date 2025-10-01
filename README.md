@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [timjansen/hanson](https://github.com/timjansen/hanson) - JSON for Humans - with unquoted identifiers, multi-line strings and comments (today)
-- [timjansen/minified.js](https://github.com/timjansen/minified.js) - A lightweight library for the Web (today)
-- [akarlsten/cuberun](https://github.com/akarlsten/cuberun) - A small 3D game built with react-three-fiber (today)
-- [atanasyanew/media-server](https://github.com/atanasyanew/media-server) - Docker project for a automated media server - Plex, Ombi/Overserr, Prowlarr/Jacket, qBittorrent, Sonarr, Radarr and Lidarr (today)
-- [carlosgprado/JARVIS](https://github.com/carlosgprado/JARVIS) - "Just Another ReVersIng Suite" or whatever other bullshit you can think of  (today)
+- [benmccann/esm-env](https://github.com/benmccann/esm-env) (today)
+- [fi3ework/react-cloud-music](https://github.com/fi3ework/react-cloud-music) - 🎶 NetEase Cloud Music based on React. (today)
+- [fi3ework/react-live-route](https://github.com/fi3ework/react-live-route) - :pushpin: An enhanced react-router-v4/5 Route that keeps route alive. (today)
+- [fi3ework/blog](https://github.com/fi3ework/blog) - 📝 (today)
+- [fi3ework/vite-plugin-checker](https://github.com/fi3ework/vite-plugin-checker) - 💬 Vite plugin that provide checks of TypeScript, ESLint, vue-tsc, Stylelint and more. (today)
 
 ## 🔨 Latest Pull Requests I published
 
