@@ -33,9 +33,9 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👷 Check out what I'm currently working on
 
-- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (today)
-- [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) - 🚀 All-in-one CLI toolkit for developers: scaffold, manage, automate, and boost productivity across languages! (6 days ago)
-- [lamhaison/aws-cli-utils](https://github.com/lamhaison/aws-cli-utils) - This is the project to collect helpful aws cli commandline with complex options to support your working (1 week ago)
+- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (1 day ago)
+- [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) - 🚀 All-in-one CLI toolkit for developers: scaffold, manage, automate, and boost productivity across languages! (1 week ago)
+- [lamhaison/aws-cli-utils](https://github.com/lamhaison/aws-cli-utils) - This is the project to collect helpful aws cli commandline with complex options to support your working (2 weeks ago)
 - [trinhminhtriet/dwipe](https://github.com/trinhminhtriet/dwipe) - 🧹 Fast, cross-platform disk cleanup tool with interactive UI for easy directory size visualization. (3 weeks ago)
 - [nctl-io/nctl-roadmap](https://github.com/nctl-io/nctl-roadmap) (1 month ago)
 - [nctl-io/.github](https://github.com/nctl-io/.github) - 🌐 Network. Connect. Transform. Lead. (1 month ago)
@@ -59,12 +59,12 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [Edesem/Suckless](https://github.com/Edesem/Suckless) - All my suckless software, compiled into one repo (today)
-- [g8row/gphotos-guide](https://github.com/g8row/gphotos-guide) - a guide for unlimited google photos storage with a windows pc (non-root) (today)
-- [ChristianPanov/lwlog](https://github.com/ChristianPanov/lwlog) - Very fast synchronous and asynchronous C++17 logging library (today)
-- [indjev99/Evolving-Snakes](https://github.com/indjev99/Evolving-Snakes) - Snakes from the classical game are controlled by neural networks and evolve using a genetic algorithm. (today)
-- [b3b00/csly](https://github.com/b3b00/csly) - a C# embeddable lexer and parser generator (.Net core) (today)
+- [wo/tpg](https://github.com/wo/tpg) - Tree Proof Generator (today)
+- [d3dcoder/d3d12book](https://github.com/d3dcoder/d3d12book) - Sample code for the book "Introduction to 3D Game Programming with DirectX 12" (today)
+- [SolidAlloy/GenericScriptableArchitecture](https://github.com/SolidAlloy/GenericScriptableArchitecture) - ScriptableObject architecture with small, easy-to-expand codebase, and simple UI. (today)
+- [SolidAlloy/ExtEvents](https://github.com/SolidAlloy/ExtEvents) - A better replacement for UnityEvents (today)
+- [SolidAlloy/GenericUnityObjects](https://github.com/SolidAlloy/GenericUnityObjects) - Generic UnityEngine.Objects (today)
 
 ## 🔨 Latest Pull Requests I published
 
-- [Add DNS record management command with export functionality](https://github.com/trinhminhtriet/DevPilot/pull/10) on [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) (6 days ago)
+- [Add DNS record management command with export functionality](https://github.com/trinhminhtriet/DevPilot/pull/10) on [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) (1 week ago)
