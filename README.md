@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [huan/docker-wxwork](https://github.com/huan/docker-wxwork) - DoWork is a Dockerized WeChat Work (盒装企业微信) PC Windows Client for Linux (today)
-- [huan/node-facenet](https://github.com/huan/node-facenet) - Solve face verification, recognition and clustering problems: A TensorFlow backed FaceNet implementation for Node.js. (today)
-- [huan/docker-simple-mail-forwarder](https://github.com/huan/docker-simple-mail-forwarder) - Simplest and Smallest Email Forward Service based on Docker. (today)
-- [huan/docker-wechat](https://github.com/huan/docker-wechat) - DoChat is a Dockerized WeChat (盒装微信) PC Windows Client for Linux (today)
-- [okalachev/arucogen](https://github.com/okalachev/arucogen) - Online ArUco markers generator (today)
+- [YumNumm/EQMonitor](https://github.com/YumNumm/EQMonitor) - An earthquake monitoring Application (today)
+- [brianquinlan/learn-rust](https://github.com/brianquinlan/learn-rust) - Projects to help me learn the Rust programming language (today)
+- [gaborcsardi/prompt](https://github.com/gaborcsardi/prompt) - Dynamic R prompt (today)
+- [hkdobrev/awesome-handbooks](https://github.com/hkdobrev/awesome-handbooks) - A curated list of awesome company handbooks (today)
+- [hkdobrev/cleanmac](https://github.com/hkdobrev/cleanmac) - Clean your macOS with a script, not an expensive app (today)
 
 ## 🔨 Latest Pull Requests I published
 
