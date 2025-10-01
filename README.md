@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [NielsLeenheer/ReceiptPrinterEncoder](https://github.com/NielsLeenheer/ReceiptPrinterEncoder) - Create a set of commands that can be send to any receipt printer that supports ESC/POS, StarLine or StarPRNT (today)
+- [NielsLeenheer/EscPosEncoder](https://github.com/NielsLeenheer/EscPosEncoder) - Create a set of commands that can be send to any receipt printer that supports ESC/POS (today)
 - [ftzi/eslint-config-biome](https://github.com/ftzi/eslint-config-biome) - Disables ESLint rules that have a recommended and equivalent Biome rule (today)
 - [ftzi/react-native-shadow-2](https://github.com/ftzi/react-native-shadow-2) - Cross-platform shadow for React Native. Supports Android, iOS, Web, and Expo (today)
 - [victorharry/zap-gpt](https://github.com/victorharry/zap-gpt) - ChatGPT para Whatsapp (today)
-- [OthmanAba/TeamFortress2](https://github.com/OthmanAba/TeamFortress2) - TF2 Source Code leaked on 22/4/2020 (today)
-- [IgnorantGuru/udevil](https://github.com/IgnorantGuru/udevil) - Mount without password (today)
 
 ## 🔨 Latest Pull Requests I published
 
