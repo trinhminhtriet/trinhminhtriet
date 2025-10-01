@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [benmccann/esm-env](https://github.com/benmccann/esm-env) (today)
-- [fi3ework/react-cloud-music](https://github.com/fi3ework/react-cloud-music) - 🎶 NetEase Cloud Music based on React. (today)
-- [fi3ework/react-live-route](https://github.com/fi3ework/react-live-route) - :pushpin: An enhanced react-router-v4/5 Route that keeps route alive. (today)
-- [fi3ework/blog](https://github.com/fi3ework/blog) - 📝 (today)
-- [fi3ework/vite-plugin-checker](https://github.com/fi3ework/vite-plugin-checker) - 💬 Vite plugin that provide checks of TypeScript, ESLint, vue-tsc, Stylelint and more. (today)
+- [huan/docker-wxwork](https://github.com/huan/docker-wxwork) - DoWork is a Dockerized WeChat Work (盒装企业微信) PC Windows Client for Linux (today)
+- [huan/node-facenet](https://github.com/huan/node-facenet) - Solve face verification, recognition and clustering problems: A TensorFlow backed FaceNet implementation for Node.js. (today)
+- [huan/docker-simple-mail-forwarder](https://github.com/huan/docker-simple-mail-forwarder) - Simplest and Smallest Email Forward Service based on Docker. (today)
+- [huan/docker-wechat](https://github.com/huan/docker-wechat) - DoChat is a Dockerized WeChat (盒装微信) PC Windows Client for Linux (today)
+- [okalachev/arucogen](https://github.com/okalachev/arucogen) - Online ArUco markers generator (today)
 
 ## 🔨 Latest Pull Requests I published
 
