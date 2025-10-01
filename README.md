@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [wo/tpg](https://github.com/wo/tpg) - Tree Proof Generator (today)
-- [d3dcoder/d3d12book](https://github.com/d3dcoder/d3d12book) - Sample code for the book "Introduction to 3D Game Programming with DirectX 12" (today)
-- [SolidAlloy/GenericScriptableArchitecture](https://github.com/SolidAlloy/GenericScriptableArchitecture) - ScriptableObject architecture with small, easy-to-expand codebase, and simple UI. (today)
-- [SolidAlloy/ExtEvents](https://github.com/SolidAlloy/ExtEvents) - A better replacement for UnityEvents (today)
-- [SolidAlloy/GenericUnityObjects](https://github.com/SolidAlloy/GenericUnityObjects) - Generic UnityEngine.Objects (today)
+- [zukahai/confess-crush](https://github.com/zukahai/confess-crush) - Creating a cute website to send to your crush is very simple (today)
+- [MankaranSingh/Auto-Birds-Eye](https://github.com/MankaranSingh/Auto-Birds-Eye) - Bird's eye/Top Down view generation and mapping with deep learning. (today)
+- [haltakov/suboptimal](https://github.com/haltakov/suboptimal) - Seriously Unnecessary Baffling Obscure Perplexing Terms In MAchine Learning (today)
+- [haltakov/simple-photo-gallery](https://github.com/haltakov/simple-photo-gallery) - Beautiful and simple photo galleries that help you tell your story. Free and open-source. (today)
+- [haltakov/natural-language-youtube-search](https://github.com/haltakov/natural-language-youtube-search) - Search inside YouTube videos using natural language  (today)
 
 ## 🔨 Latest Pull Requests I published
 
