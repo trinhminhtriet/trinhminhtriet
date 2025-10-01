@@ -48,7 +48,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 - [QianyangWang](https://github.com/QianyangWang)
 - [criticalcoder-ai](https://github.com/criticalcoder-ai)
-- [davicesarm](https://github.com/davicesarm)
 - [BEPb](https://github.com/BEPb)
 - [codeWithMarina](https://github.com/codeWithMarina)
 - [samiiroosi63-cmyk](https://github.com/samiiroosi63-cmyk)
@@ -56,6 +55,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [ellen-simonyan](https://github.com/ellen-simonyan)
 - [Mustafa-isa](https://github.com/Mustafa-isa)
 - [lilboy716](https://github.com/lilboy716)
+- [giladfuchs](https://github.com/giladfuchs)
 
 ## ⭐ Recent stars
 
