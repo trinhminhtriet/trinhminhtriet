@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [urtzurd/html-audio](https://github.com/urtzurd/html-audio) - Web audio API pitch shifter (today)
+- [kintoandar/fwd](https://github.com/kintoandar/fwd) - 🚂 The little forwarder that could (today)
 - [thorin/redmine_ldap_sync](https://github.com/thorin/redmine_ldap_sync) - [UNMAINTAINED] A redmine plugin to synchronize both users and groups with an ldap server (today)
 - [ajtowf/ng2_play](https://github.com/ajtowf/ng2_play) - Angular 2 Play with Material Design, code from live coding screencasts (1 day ago)
 - [vishnuraghavb/EnBizCard](https://github.com/vishnuraghavb/EnBizCard) - EnBizCard helps you create interactive and responsive HTML-based digital business cards that can be hosted with your website. (1 day ago)
-- [sanderfrenken/Universal-LPC-Spritesheet-Character-Generator](https://github.com/sanderfrenken/Universal-LPC-Spritesheet-Character-Generator) - Character Generator based on Universal-LPC-Spritesheet (1 day ago)
-- [vrimar/construct-ui](https://github.com/vrimar/construct-ui) - A Mithril.js UI library (1 day ago)
 
 ## 🔨 Latest Pull Requests I published
 
