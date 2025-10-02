@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [doaa10](https://github.com/doaa10)
 - [meerhamza777](https://github.com/meerhamza777)
 - [YoanaBast](https://github.com/YoanaBast)
 - [ChiperSage](https://github.com/ChiperSage)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [criticalcoder-ai](https://github.com/criticalcoder-ai)
 - [codeWithMarina](https://github.com/codeWithMarina)
 - [samiiroosi63-cmyk](https://github.com/samiiroosi63-cmyk)
-- [qsozzz](https://github.com/qsozzz)
 
 ## ⭐ Recent stars
 
