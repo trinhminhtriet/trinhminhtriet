@@ -46,13 +46,13 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [meerhamza777](https://github.com/meerhamza777)
 - [YoanaBast](https://github.com/YoanaBast)
 - [ChiperSage](https://github.com/ChiperSage)
 - [snggamer](https://github.com/snggamer)
 - [djonmaila](https://github.com/djonmaila)
 - [QianyangWang](https://github.com/QianyangWang)
 - [criticalcoder-ai](https://github.com/criticalcoder-ai)
-- [BEPb](https://github.com/BEPb)
 - [codeWithMarina](https://github.com/codeWithMarina)
 - [samiiroosi63-cmyk](https://github.com/samiiroosi63-cmyk)
 - [qsozzz](https://github.com/qsozzz)
