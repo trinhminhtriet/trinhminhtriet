@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [ChiperSage](https://github.com/ChiperSage)
 - [snggamer](https://github.com/snggamer)
 - [djonmaila](https://github.com/djonmaila)
 - [QianyangWang](https://github.com/QianyangWang)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [samiiroosi63-cmyk](https://github.com/samiiroosi63-cmyk)
 - [qsozzz](https://github.com/qsozzz)
 - [ellen-simonyan](https://github.com/ellen-simonyan)
-- [Mustafa-isa](https://github.com/Mustafa-isa)
 
 ## ⭐ Recent stars
 
