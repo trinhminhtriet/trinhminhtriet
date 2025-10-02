@@ -33,7 +33,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👷 Check out what I'm currently working on
 
-- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (1 day ago)
+- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (2 days ago)
 - [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) - 🚀 All-in-one CLI toolkit for developers: scaffold, manage, automate, and boost productivity across languages! (1 week ago)
 - [lamhaison/aws-cli-utils](https://github.com/lamhaison/aws-cli-utils) - This is the project to collect helpful aws cli commandline with complex options to support your working (2 weeks ago)
 - [trinhminhtriet/dwipe](https://github.com/trinhminhtriet/dwipe) - 🧹 Fast, cross-platform disk cleanup tool with interactive UI for easy directory size visualization. (3 weeks ago)
@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [djonmaila](https://github.com/djonmaila)
 - [QianyangWang](https://github.com/QianyangWang)
 - [criticalcoder-ai](https://github.com/criticalcoder-ai)
 - [BEPb](https://github.com/BEPb)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [ellen-simonyan](https://github.com/ellen-simonyan)
 - [Mustafa-isa](https://github.com/Mustafa-isa)
 - [lilboy716](https://github.com/lilboy716)
-- [giladfuchs](https://github.com/giladfuchs)
 
 ## ⭐ Recent stars
 
-- [kalanakt/awesome-telegram](https://github.com/kalanakt/awesome-telegram) - A curated list of awesome telegram groups, channels, bots, open source projects And Libraries (today)
-- [kalanakt/All-Url-Uploader](https://github.com/kalanakt/All-Url-Uploader) - A simple telegram Bot, Upload Media File| video To telegram using the direct download link. (youtube, Mediafire, google drive, mega drive, etc) (today)
-- [NielsLeenheer/ReceiptPrinterEncoder](https://github.com/NielsLeenheer/ReceiptPrinterEncoder) - Create a set of commands that can be send to any receipt printer that supports ESC/POS, StarLine or StarPRNT (today)
-- [NielsLeenheer/EscPosEncoder](https://github.com/NielsLeenheer/EscPosEncoder) - Create a set of commands that can be send to any receipt printer that supports ESC/POS (today)
-- [ftzi/eslint-config-biome](https://github.com/ftzi/eslint-config-biome) - Disables ESLint rules that have a recommended and equivalent Biome rule (today)
+- [thorin/redmine_ldap_sync](https://github.com/thorin/redmine_ldap_sync) - [UNMAINTAINED] A redmine plugin to synchronize both users and groups with an ldap server (today)
+- [ajtowf/ng2_play](https://github.com/ajtowf/ng2_play) - Angular 2 Play with Material Design, code from live coding screencasts (1 day ago)
+- [vishnuraghavb/EnBizCard](https://github.com/vishnuraghavb/EnBizCard) - EnBizCard helps you create interactive and responsive HTML-based digital business cards that can be hosted with your website. (1 day ago)
+- [sanderfrenken/Universal-LPC-Spritesheet-Character-Generator](https://github.com/sanderfrenken/Universal-LPC-Spritesheet-Character-Generator) - Character Generator based on Universal-LPC-Spritesheet (1 day ago)
+- [vrimar/construct-ui](https://github.com/vrimar/construct-ui) - A Mithril.js UI library (1 day ago)
 
 ## 🔨 Latest Pull Requests I published
 
