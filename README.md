@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [shaonianyr/Autotest_platform](https://github.com/shaonianyr/Autotest_platform) - 一款基于 POM 模式开发的 Web UI 自动化测试平台 (today)
 - [EthanSchatzline/DrawableView](https://github.com/EthanSchatzline/DrawableView) - A UIView subclass that allows the user to draw on it. (today)
 - [yonik/java_util](https://github.com/yonik/java_util) - Small useful things for Java (today)
 - [satya-verma/Data-Structures-and-Algorithms--using-JAVA](https://github.com/satya-verma/Data-Structures-and-Algorithms--using-JAVA) - This repo contains implementation of data structures and algorithms using JAVA (today)
 - [azeam/camset](https://github.com/azeam/camset) - GUI for v4l2-ctl (today)
-- [alexpearce/dotfiles](https://github.com/alexpearce/dotfiles) - My dotfiles. (today)
 
 ## 🔨 Latest Pull Requests I published
 
