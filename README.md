@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [ibuetler/docker-keycloak-traefik-workshop](https://github.com/ibuetler/docker-keycloak-traefik-workshop) - Docker with Keycloak and Traefik Workshop (today)
+- [andig/fritzapi](https://github.com/andig/fritzapi) - Home automation API for Fritz!Box, Fritz!DECT and FRITZ!Powerline devices (today)
+- [uesleibros/OpenGPT](https://github.com/uesleibros/OpenGPT) - OpenGPT 3.5/4 is a project aimed at providing practical and user-friendly APIs. The APIs allow for easy integration with various applications, making it simple for developers to incorporate the natural language processing capabilities of GPT into their projects. (today)
 - [silofy/hackthebox](https://github.com/silofy/hackthebox) (today)
 - [urtzurd/html-audio](https://github.com/urtzurd/html-audio) - Web audio API pitch shifter (today)
-- [kintoandar/fwd](https://github.com/kintoandar/fwd) - 🚂 The little forwarder that could (today)
-- [thorin/redmine_ldap_sync](https://github.com/thorin/redmine_ldap_sync) - [UNMAINTAINED] A redmine plugin to synchronize both users and groups with an ldap server (today)
-- [ajtowf/ng2_play](https://github.com/ajtowf/ng2_play) - Angular 2 Play with Material Design, code from live coding screencasts (1 day ago)
 
 ## 🔨 Latest Pull Requests I published
 
