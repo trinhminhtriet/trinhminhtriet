@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [socadk/design-practice-repository](https://github.com/socadk/design-practice-repository) - Summaries of artifacts, templates, practices, and techniques for agile architecting (DPR-mm) and service design (SDPR-nn).   (today)
-- [tonisuter/aws-lambda-swift](https://github.com/tonisuter/aws-lambda-swift) - A custom AWS Lambda Runtime for Swift (today)
-- [devedup/FlickrKit](https://github.com/devedup/FlickrKit) - An iOS Flickr Framework, written in Objective-C (today)
-- [prasannajeet/kotlin-mvvm-hilt-flow-app](https://github.com/prasannajeet/kotlin-mvvm-hilt-flow-app) - Kotlin first app using Clean Architecture with MVVM pattern along with Android Architecture Components such as LiveData, ViewModel, Navigation and idiomatic Kotlin using extension functions, type-aliases, Coroutines and Dependency Injection using Hilt (today)
-- [mehah/otclient](https://github.com/mehah/otclient) - An alternative tibia client for otserv written in C++20 and Lua, made with a modular system that uses lua scripts for ingame interface and functionality, making otclient flexible and easy to customize (today)
+- [EthanSchatzline/DrawableView](https://github.com/EthanSchatzline/DrawableView) - A UIView subclass that allows the user to draw on it. (today)
+- [yonik/java_util](https://github.com/yonik/java_util) - Small useful things for Java (today)
+- [satya-verma/Data-Structures-and-Algorithms--using-JAVA](https://github.com/satya-verma/Data-Structures-and-Algorithms--using-JAVA) - This repo contains implementation of data structures and algorithms using JAVA (today)
+- [azeam/camset](https://github.com/azeam/camset) - GUI for v4l2-ctl (today)
+- [alexpearce/dotfiles](https://github.com/alexpearce/dotfiles) - My dotfiles. (today)
 
 ## 🔨 Latest Pull Requests I published
 
