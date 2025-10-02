@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [SalmanO7](https://github.com/SalmanO7)
 - [doaa10](https://github.com/doaa10)
 - [meerhamza777](https://github.com/meerhamza777)
 - [YoanaBast](https://github.com/YoanaBast)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [QianyangWang](https://github.com/QianyangWang)
 - [criticalcoder-ai](https://github.com/criticalcoder-ai)
 - [codeWithMarina](https://github.com/codeWithMarina)
-- [samiiroosi63-cmyk](https://github.com/samiiroosi63-cmyk)
 
 ## ⭐ Recent stars
 
+- [silofy/hackthebox](https://github.com/silofy/hackthebox) (today)
 - [urtzurd/html-audio](https://github.com/urtzurd/html-audio) - Web audio API pitch shifter (today)
 - [kintoandar/fwd](https://github.com/kintoandar/fwd) - 🚂 The little forwarder that could (today)
 - [thorin/redmine_ldap_sync](https://github.com/thorin/redmine_ldap_sync) - [UNMAINTAINED] A redmine plugin to synchronize both users and groups with an ldap server (today)
 - [ajtowf/ng2_play](https://github.com/ajtowf/ng2_play) - Angular 2 Play with Material Design, code from live coding screencasts (1 day ago)
-- [vishnuraghavb/EnBizCard](https://github.com/vishnuraghavb/EnBizCard) - EnBizCard helps you create interactive and responsive HTML-based digital business cards that can be hosted with your website. (1 day ago)
 
 ## 🔨 Latest Pull Requests I published
 
