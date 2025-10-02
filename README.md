@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [mehah/otclient](https://github.com/mehah/otclient) - An alternative tibia client for otserv written in C++20 and Lua, made with a modular system that uses lua scripts for ingame interface and functionality, making otclient flexible and easy to customize (today)
+- [djlastnight/KeyboardSplitterXbox](https://github.com/djlastnight/KeyboardSplitterXbox) - Creates up to 4 virtual xbox 360 controllers and feeds them via one or more keyboards. (today)
 - [ibuetler/docker-keycloak-traefik-workshop](https://github.com/ibuetler/docker-keycloak-traefik-workshop) - Docker with Keycloak and Traefik Workshop (today)
 - [andig/fritzapi](https://github.com/andig/fritzapi) - Home automation API for Fritz!Box, Fritz!DECT and FRITZ!Powerline devices (today)
 - [uesleibros/OpenGPT](https://github.com/uesleibros/OpenGPT) - OpenGPT 3.5/4 is a project aimed at providing practical and user-friendly APIs. The APIs allow for easy integration with various applications, making it simple for developers to incorporate the natural language processing capabilities of GPT into their projects. (today)
-- [silofy/hackthebox](https://github.com/silofy/hackthebox) (today)
-- [urtzurd/html-audio](https://github.com/urtzurd/html-audio) - Web audio API pitch shifter (today)
 
 ## 🔨 Latest Pull Requests I published
 
