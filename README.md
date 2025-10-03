@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [johnGettings/LIHQ](https://github.com/johnGettings/LIHQ) - Long-Inference, High Quality Synthetic Speaker (AI avatar/ AI presenter) (today)
-- [shaonianyr/Autotest_platform](https://github.com/shaonianyr/Autotest_platform) - 一款基于 POM 模式开发的 Web UI 自动化测试平台 (1 day ago)
-- [EthanSchatzline/DrawableView](https://github.com/EthanSchatzline/DrawableView) - A UIView subclass that allows the user to draw on it. (1 day ago)
-- [yonik/java_util](https://github.com/yonik/java_util) - Small useful things for Java (1 day ago)
-- [satya-verma/Data-Structures-and-Algorithms--using-JAVA](https://github.com/satya-verma/Data-Structures-and-Algorithms--using-JAVA) - This repo contains implementation of data structures and algorithms using JAVA (1 day ago)
+- [magic-blue-smoke/Dual-Edge-TPU-Adapter](https://github.com/magic-blue-smoke/Dual-Edge-TPU-Adapter) - Dual Edge TPU Adapter to use it on a system with single PCIe port on m.2 A/B/E/M slot (today)
+- [Dhayalanb/windows-php-reverse-shell](https://github.com/Dhayalanb/windows-php-reverse-shell) - Simple php reverse shell implemented using binary . (today)
+- [chocoford/ExcalidrawZ](https://github.com/chocoford/ExcalidrawZ) - Excalidraw app for mac. Powered by pure SwiftUI. (today)
+- [apacha/sensor-fusion-demo](https://github.com/apacha/sensor-fusion-demo) - This repository contains several different sensor-fusion implementation that can be compared with each other. (today)
+- [apacha/OMR-Datasets](https://github.com/apacha/OMR-Datasets) - Collection of datasets used for Optical Music Recognition (today)
 
 ## 🔨 Latest Pull Requests I published
 
