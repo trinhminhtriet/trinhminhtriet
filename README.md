@@ -33,10 +33,10 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👷 Check out what I'm currently working on
 
-- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (2 days ago)
+- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (3 days ago)
 - [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) - 🚀 All-in-one CLI toolkit for developers: scaffold, manage, automate, and boost productivity across languages! (1 week ago)
 - [lamhaison/aws-cli-utils](https://github.com/lamhaison/aws-cli-utils) - This is the project to collect helpful aws cli commandline with complex options to support your working (2 weeks ago)
-- [trinhminhtriet/dwipe](https://github.com/trinhminhtriet/dwipe) - 🧹 Fast, cross-platform disk cleanup tool with interactive UI for easy directory size visualization. (3 weeks ago)
+- [trinhminhtriet/dwipe](https://github.com/trinhminhtriet/dwipe) - 🧹 Fast, cross-platform disk cleanup tool with interactive UI for easy directory size visualization. (4 weeks ago)
 - [nctl-io/nctl-roadmap](https://github.com/nctl-io/nctl-roadmap) (1 month ago)
 - [nctl-io/.github](https://github.com/nctl-io/.github) - 🌐 Network. Connect. Transform. Lead. (1 month ago)
 - [nctl-io/nctl-homepage](https://github.com/nctl-io/nctl-homepage) - 🚀 Modern homepage for NCTL: fast, responsive, TypeScript-powered, open source, and easy to customize. (1 month ago)
@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [shaonianyr/Autotest_platform](https://github.com/shaonianyr/Autotest_platform) - 一款基于 POM 模式开发的 Web UI 自动化测试平台 (today)
-- [EthanSchatzline/DrawableView](https://github.com/EthanSchatzline/DrawableView) - A UIView subclass that allows the user to draw on it. (today)
-- [yonik/java_util](https://github.com/yonik/java_util) - Small useful things for Java (today)
-- [satya-verma/Data-Structures-and-Algorithms--using-JAVA](https://github.com/satya-verma/Data-Structures-and-Algorithms--using-JAVA) - This repo contains implementation of data structures and algorithms using JAVA (today)
-- [azeam/camset](https://github.com/azeam/camset) - GUI for v4l2-ctl (today)
+- [shaonianyr/Autotest_platform](https://github.com/shaonianyr/Autotest_platform) - 一款基于 POM 模式开发的 Web UI 自动化测试平台 (1 day ago)
+- [EthanSchatzline/DrawableView](https://github.com/EthanSchatzline/DrawableView) - A UIView subclass that allows the user to draw on it. (1 day ago)
+- [yonik/java_util](https://github.com/yonik/java_util) - Small useful things for Java (1 day ago)
+- [satya-verma/Data-Structures-and-Algorithms--using-JAVA](https://github.com/satya-verma/Data-Structures-and-Algorithms--using-JAVA) - This repo contains implementation of data structures and algorithms using JAVA (1 day ago)
+- [azeam/camset](https://github.com/azeam/camset) - GUI for v4l2-ctl (1 day ago)
 
 ## 🔨 Latest Pull Requests I published
 
