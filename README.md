@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [gildasio/h2t](https://github.com/gildasio/h2t) - h2t (HTTP Hardening Tool) scans a website and suggests security headers to apply (today)
 - [magic-blue-smoke/Dual-Edge-TPU-Adapter](https://github.com/magic-blue-smoke/Dual-Edge-TPU-Adapter) - Dual Edge TPU Adapter to use it on a system with single PCIe port on m.2 A/B/E/M slot (today)
 - [Dhayalanb/windows-php-reverse-shell](https://github.com/Dhayalanb/windows-php-reverse-shell) - Simple php reverse shell implemented using binary . (today)
 - [chocoford/ExcalidrawZ](https://github.com/chocoford/ExcalidrawZ) - Excalidraw app for mac. Powered by pure SwiftUI. (today)
 - [apacha/sensor-fusion-demo](https://github.com/apacha/sensor-fusion-demo) - This repository contains several different sensor-fusion implementation that can be compared with each other. (today)
-- [apacha/OMR-Datasets](https://github.com/apacha/OMR-Datasets) - Collection of datasets used for Optical Music Recognition (today)
 
 ## 🔨 Latest Pull Requests I published
 
