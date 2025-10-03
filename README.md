@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [johnGettings/LIHQ](https://github.com/johnGettings/LIHQ) - Long-Inference, High Quality Synthetic Speaker (AI avatar/ AI presenter) (today)
 - [shaonianyr/Autotest_platform](https://github.com/shaonianyr/Autotest_platform) - 一款基于 POM 模式开发的 Web UI 自动化测试平台 (1 day ago)
 - [EthanSchatzline/DrawableView](https://github.com/EthanSchatzline/DrawableView) - A UIView subclass that allows the user to draw on it. (1 day ago)
 - [yonik/java_util](https://github.com/yonik/java_util) - Small useful things for Java (1 day ago)
 - [satya-verma/Data-Structures-and-Algorithms--using-JAVA](https://github.com/satya-verma/Data-Structures-and-Algorithms--using-JAVA) - This repo contains implementation of data structures and algorithms using JAVA (1 day ago)
-- [azeam/camset](https://github.com/azeam/camset) - GUI for v4l2-ctl (1 day ago)
 
 ## 🔨 Latest Pull Requests I published
 
