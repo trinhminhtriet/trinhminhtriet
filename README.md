@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [sgsjha](https://github.com/sgsjha)
+- [fulcrum6378](https://github.com/fulcrum6378)
 - [yuridomingues](https://github.com/yuridomingues)
 - [BEPb](https://github.com/BEPb)
 - [SalmanO7](https://github.com/SalmanO7)
@@ -54,8 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [YoanaBast](https://github.com/YoanaBast)
 - [ChiperSage](https://github.com/ChiperSage)
 - [snggamer](https://github.com/snggamer)
-- [djonmaila](https://github.com/djonmaila)
-- [QianyangWang](https://github.com/QianyangWang)
 
 ## ⭐ Recent stars
 
