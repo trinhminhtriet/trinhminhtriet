@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [BEPb](https://github.com/BEPb)
 - [SalmanO7](https://github.com/SalmanO7)
 - [doaa10](https://github.com/doaa10)
 - [meerhamza777](https://github.com/meerhamza777)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [djonmaila](https://github.com/djonmaila)
 - [QianyangWang](https://github.com/QianyangWang)
 - [criticalcoder-ai](https://github.com/criticalcoder-ai)
-- [codeWithMarina](https://github.com/codeWithMarina)
 
 ## ⭐ Recent stars
 
