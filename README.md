@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [polycarpdev](https://github.com/polycarpdev)
 - [DIMFLIX](https://github.com/DIMFLIX)
 - [ishandutta2007](https://github.com/ishandutta2007)
 - [xReveres](https://github.com/xReveres)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [ChinmayKaitade](https://github.com/ChinmayKaitade)
 - [levonk](https://github.com/levonk)
 - [sgsjha](https://github.com/sgsjha)
-- [fulcrum6378](https://github.com/fulcrum6378)
 
 ## ⭐ Recent stars
 
