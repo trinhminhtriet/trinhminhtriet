@@ -46,7 +46,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
-- [Arison99](https://github.com/Arison99)
 - [polycarpdev](https://github.com/polycarpdev)
 - [DIMFLIX](https://github.com/DIMFLIX)
 - [ishandutta2007](https://github.com/ishandutta2007)
@@ -56,14 +55,15 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [shashankgowda1144](https://github.com/shashankgowda1144)
 - [ChinmayKaitade](https://github.com/ChinmayKaitade)
 - [levonk](https://github.com/levonk)
+- [sgsjha](https://github.com/sgsjha)
 
 ## ⭐ Recent stars
 
-- [ZainAchak/DeFi_PanCakeSwapBot](https://github.com/ZainAchak/DeFi_PanCakeSwapBot) - Defi PancakeSwap bot is programmed in Python to buy and sell tokens in seconds once the target is hit.  (today)
-- [AnBui2004/Vectras-VM-Android](https://github.com/AnBui2004/Vectras-VM-Android) - It's a Virtual Machine App for Android Which is Based on QEMU (today)
-- [HorizonEmuTeam/Horizon-Emu](https://github.com/HorizonEmuTeam/Horizon-Emu) (today)
-- [ahmad1abbadi/darkos](https://github.com/ahmad1abbadi/darkos) - small project that allow run pc games on android by wine using box64  (today)
-- [devbaji/vue3-google-login](https://github.com/devbaji/vue3-google-login) - Add Sign In With Google feature to your Vue 3 application (today)
+- [gaining/Resetter](https://github.com/gaining/Resetter) - The easiest way to reset your debian or ubuntu based linux back to stock (today)
+- [liantian-cn/logitech-pubg](https://github.com/liantian-cn/logitech-pubg) - PUBG no recoil script for Logitech gaming mouse / 绝地求生 罗技 鼠标宏 (today)
+- [chrysn/aiocoap](https://github.com/chrysn/aiocoap) - The Python CoAP library (today)
+- [KOWX712/PlayIntegrityFix](https://github.com/KOWX712/PlayIntegrityFix) - Fix Play Integrity verdicts. (today)
+- [KOWX712/Tricky-Addon-Update-Target-List](https://github.com/KOWX712/Tricky-Addon-Update-Target-List) - A KSU WebUI to configure Tricky Store target.txt (today)
 
 ## 🔨 Latest Pull Requests I published
 
