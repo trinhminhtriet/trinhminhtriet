@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [Android-PowerUser/Windroid_11](https://github.com/Android-PowerUser/Windroid_11) - Windroid 11 is a Windows 11 equivalent for Android. (today)
+- [Shakil-Shahadat/awesome-piracy](https://github.com/Shakil-Shahadat/awesome-piracy) - A curated list of awesome warez and piracy links. (today)
 - [gaining/Resetter](https://github.com/gaining/Resetter) - The easiest way to reset your debian or ubuntu based linux back to stock (today)
 - [liantian-cn/logitech-pubg](https://github.com/liantian-cn/logitech-pubg) - PUBG no recoil script for Logitech gaming mouse / 绝地求生 罗技 鼠标宏 (today)
 - [chrysn/aiocoap](https://github.com/chrysn/aiocoap) - The Python CoAP library (today)
-- [KOWX712/PlayIntegrityFix](https://github.com/KOWX712/PlayIntegrityFix) - Fix Play Integrity verdicts. (today)
-- [KOWX712/Tricky-Addon-Update-Target-List](https://github.com/KOWX712/Tricky-Addon-Update-Target-List) - A KSU WebUI to configure Tricky Store target.txt (today)
 
 ## 🔨 Latest Pull Requests I published
 
