@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [null0NULL123](https://github.com/null0NULL123)
 - [Shahriar-Sahaf](https://github.com/Shahriar-Sahaf)
 - [shashankgowda1144](https://github.com/shashankgowda1144)
 - [ChinmayKaitade](https://github.com/ChinmayKaitade)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [yuridomingues](https://github.com/yuridomingues)
 - [BEPb](https://github.com/BEPb)
 - [SalmanO7](https://github.com/SalmanO7)
-- [doaa10](https://github.com/doaa10)
 
 ## ⭐ Recent stars
 
-- [klesun/deep-assoc-completion](https://github.com/klesun/deep-assoc-completion) - A phpstorm plugin for associative array key typing and completion (1 day ago)
-- [t-mart/kill-sticky](https://github.com/t-mart/kill-sticky) - Bookmarklet to remove sticky elements and restore scrolling to web pages! (1 day ago)
-- [gildasio/h2t](https://github.com/gildasio/h2t) - h2t (HTTP Hardening Tool) scans a website and suggests security headers to apply (1 day ago)
-- [magic-blue-smoke/Dual-Edge-TPU-Adapter](https://github.com/magic-blue-smoke/Dual-Edge-TPU-Adapter) - Dual Edge TPU Adapter to use it on a system with single PCIe port on m.2 A/B/E/M slot (1 day ago)
-- [Dhayalanb/windows-php-reverse-shell](https://github.com/Dhayalanb/windows-php-reverse-shell) - Simple php reverse shell implemented using binary . (1 day ago)
+- [thetron/mongoid_token](https://github.com/thetron/mongoid_token) - A little random, unique token generator for Mongoid documents. (today)
+- [thetron/css3buttons_rails_helpers](https://github.com/thetron/css3buttons_rails_helpers) - Rails helpers to generate beautiful css3 buttons, based on the 'css3-github-buttons' (today)
+- [thetron/StringScore](https://github.com/thetron/StringScore) - StringScore is an Objective-C library which provides super fast fuzzy string matching/scoring. Based on the JavaScript library of the same name. (today)
+- [DominoKorean/Render-dragon-shader-list](https://github.com/DominoKorean/Render-dragon-shader-list) - List of shaders and related information, files, etc. that are compatible with RenderDragon. (today)
+- [corentin-c/SpotifyAutoPatcher](https://github.com/corentin-c/SpotifyAutoPatcher) - Android app to patch Spotify combining the powers of AntiSplit-M and ReVanced Manager ! (today)
 
 ## 🔨 Latest Pull Requests I published
 
