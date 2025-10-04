@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [ChinmayKaitade](https://github.com/ChinmayKaitade)
 - [levonk](https://github.com/levonk)
 - [sgsjha](https://github.com/sgsjha)
 - [fulcrum6378](https://github.com/fulcrum6378)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [doaa10](https://github.com/doaa10)
 - [meerhamza777](https://github.com/meerhamza777)
 - [YoanaBast](https://github.com/YoanaBast)
-- [ChiperSage](https://github.com/ChiperSage)
 
 ## ⭐ Recent stars
 
