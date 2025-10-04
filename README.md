@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [xReveres](https://github.com/xReveres)
 - [null0NULL123](https://github.com/null0NULL123)
 - [Shahriar-Sahaf](https://github.com/Shahriar-Sahaf)
 - [shashankgowda1144](https://github.com/shashankgowda1144)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [fulcrum6378](https://github.com/fulcrum6378)
 - [yuridomingues](https://github.com/yuridomingues)
 - [BEPb](https://github.com/BEPb)
-- [SalmanO7](https://github.com/SalmanO7)
 
 ## ⭐ Recent stars
 
-- [giorzang/lol-language-ja_JP](https://github.com/giorzang/lol-language-ja_JP) (today)
-- [xteve-project/xTeVe-Documentation](https://github.com/xteve-project/xTeVe-Documentation) (today)
-- [xteve-project/xTeVe](https://github.com/xteve-project/xTeVe) - M3U Proxy for Plex DVR and Emby Live TV (today)
-- [itsToggle/rclone_RD](https://github.com/itsToggle/rclone_RD) - RClone Fork that implements RealDebrid (today)
-- [itsToggle/plex_debrid](https://github.com/itsToggle/plex_debrid) - Plex torrent streaming through Debrid Services (today)
+- [aanarchyy/bully](https://github.com/aanarchyy/bully) (today)
+- [LiNuX-Mallu/Track-Em](https://github.com/LiNuX-Mallu/Track-Em) - GPS Location Tracer Using Malicious URL (today)
+- [LiNuX-Mallu/CAM-DUMPER](https://github.com/LiNuX-Mallu/CAM-DUMPER) - Take webcam shots from target by just sending a malicious link (today)
+- [hyperfield/ai-file-sorter](https://github.com/hyperfield/ai-file-sorter) - Powerful cross-platform desktop application that automates file organization with AI. Works with Local LLMs. (today)
+- [hyperfield/yt-channel-downloader](https://github.com/hyperfield/yt-channel-downloader) - A Qt GUI app that makes it easy to download multiple videos at once from Youtube channels. (today)
 
 ## 🔨 Latest Pull Requests I published
 
