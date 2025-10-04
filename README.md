@@ -33,7 +33,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👷 Check out what I'm currently working on
 
-- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (3 days ago)
+- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (4 days ago)
 - [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) - 🚀 All-in-one CLI toolkit for developers: scaffold, manage, automate, and boost productivity across languages! (1 week ago)
 - [lamhaison/aws-cli-utils](https://github.com/lamhaison/aws-cli-utils) - This is the project to collect helpful aws cli commandline with complex options to support your working (2 weeks ago)
 - [trinhminhtriet/dwipe](https://github.com/trinhminhtriet/dwipe) - 🧹 Fast, cross-platform disk cleanup tool with interactive UI for easy directory size visualization. (4 weeks ago)
@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [klesun/deep-assoc-completion](https://github.com/klesun/deep-assoc-completion) - A phpstorm plugin for associative array key typing and completion (today)
-- [t-mart/kill-sticky](https://github.com/t-mart/kill-sticky) - Bookmarklet to remove sticky elements and restore scrolling to web pages! (today)
-- [gildasio/h2t](https://github.com/gildasio/h2t) - h2t (HTTP Hardening Tool) scans a website and suggests security headers to apply (today)
-- [magic-blue-smoke/Dual-Edge-TPU-Adapter](https://github.com/magic-blue-smoke/Dual-Edge-TPU-Adapter) - Dual Edge TPU Adapter to use it on a system with single PCIe port on m.2 A/B/E/M slot (today)
-- [Dhayalanb/windows-php-reverse-shell](https://github.com/Dhayalanb/windows-php-reverse-shell) - Simple php reverse shell implemented using binary . (today)
+- [klesun/deep-assoc-completion](https://github.com/klesun/deep-assoc-completion) - A phpstorm plugin for associative array key typing and completion (1 day ago)
+- [t-mart/kill-sticky](https://github.com/t-mart/kill-sticky) - Bookmarklet to remove sticky elements and restore scrolling to web pages! (1 day ago)
+- [gildasio/h2t](https://github.com/gildasio/h2t) - h2t (HTTP Hardening Tool) scans a website and suggests security headers to apply (1 day ago)
+- [magic-blue-smoke/Dual-Edge-TPU-Adapter](https://github.com/magic-blue-smoke/Dual-Edge-TPU-Adapter) - Dual Edge TPU Adapter to use it on a system with single PCIe port on m.2 A/B/E/M slot (1 day ago)
+- [Dhayalanb/windows-php-reverse-shell](https://github.com/Dhayalanb/windows-php-reverse-shell) - Simple php reverse shell implemented using binary . (1 day ago)
 
 ## 🔨 Latest Pull Requests I published
 
