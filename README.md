@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [JuanOrbegoso](https://github.com/JuanOrbegoso)
 - [polycarpdev](https://github.com/polycarpdev)
 - [DIMFLIX](https://github.com/DIMFLIX)
 - [ishandutta2007](https://github.com/ishandutta2007)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [shashankgowda1144](https://github.com/shashankgowda1144)
 - [ChinmayKaitade](https://github.com/ChinmayKaitade)
 - [levonk](https://github.com/levonk)
-- [sgsjha](https://github.com/sgsjha)
 
 ## ⭐ Recent stars
 
-- [Android-PowerUser/Windroid_11](https://github.com/Android-PowerUser/Windroid_11) - Windroid 11 is a Windows 11 equivalent for Android. (today)
-- [Shakil-Shahadat/awesome-piracy](https://github.com/Shakil-Shahadat/awesome-piracy) - A curated list of awesome warez and piracy links. (today)
-- [gaining/Resetter](https://github.com/gaining/Resetter) - The easiest way to reset your debian or ubuntu based linux back to stock (today)
-- [liantian-cn/logitech-pubg](https://github.com/liantian-cn/logitech-pubg) - PUBG no recoil script for Logitech gaming mouse / 绝地求生 罗技 鼠标宏 (today)
-- [chrysn/aiocoap](https://github.com/chrysn/aiocoap) - The Python CoAP library (today)
+- [chisewaguri/systemapp_nuker](https://github.com/chisewaguri/systemapp_nuker) - A KernelSU module to debloat system apps with WebUI Interface (today)
+- [ZG089/Re-Malwack](https://github.com/ZG089/Re-Malwack) - A fully-fledged ad-block module. Contains all your needs ✨ (today)
+- [duzhaokun123/YAPatch](https://github.com/duzhaokun123/YAPatch) (today)
+- [duzhaokun123/BilibiliHD2](https://github.com/duzhaokun123/BilibiliHD2) - 非官方哔哩哔哩客户端 (today)
+- [duzhaokun123/YAMF](https://github.com/duzhaokun123/YAMF) - Yet Another Mi-FreeForm (today)
 
 ## 🔨 Latest Pull Requests I published
 
