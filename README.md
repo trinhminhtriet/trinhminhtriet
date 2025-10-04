@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [ishandutta2007](https://github.com/ishandutta2007)
 - [xReveres](https://github.com/xReveres)
 - [null0NULL123](https://github.com/null0NULL123)
 - [Shahriar-Sahaf](https://github.com/Shahriar-Sahaf)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [sgsjha](https://github.com/sgsjha)
 - [fulcrum6378](https://github.com/fulcrum6378)
 - [yuridomingues](https://github.com/yuridomingues)
-- [BEPb](https://github.com/BEPb)
 
 ## ⭐ Recent stars
 
