@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Arison99](https://github.com/Arison99)
 - [polycarpdev](https://github.com/polycarpdev)
 - [DIMFLIX](https://github.com/DIMFLIX)
 - [ishandutta2007](https://github.com/ishandutta2007)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [shashankgowda1144](https://github.com/shashankgowda1144)
 - [ChinmayKaitade](https://github.com/ChinmayKaitade)
 - [levonk](https://github.com/levonk)
-- [sgsjha](https://github.com/sgsjha)
 
 ## ⭐ Recent stars
 
-- [Succubussix/winlator-bionic-glibc](https://github.com/Succubussix/winlator-bionic-glibc) - Android application for running Windows applications with Wine and Box86/Box64 (today)
-- [cctv18/oppo_oplus_realme_sm8650](https://github.com/cctv18/oppo_oplus_realme_sm8650) - An automatic kernel builder for Oppo/Oneplus/Realme Snapdragon sm8650 series in a completely new way. (today)
-- [aanarchyy/bully](https://github.com/aanarchyy/bully) (today)
-- [LiNuX-Mallu/Track-Em](https://github.com/LiNuX-Mallu/Track-Em) - GPS Location Tracer Using Malicious URL (today)
-- [LiNuX-Mallu/CAM-DUMPER](https://github.com/LiNuX-Mallu/CAM-DUMPER) - Take webcam shots from target by just sending a malicious link (today)
+- [ZainAchak/DeFi_PanCakeSwapBot](https://github.com/ZainAchak/DeFi_PanCakeSwapBot) - Defi PancakeSwap bot is programmed in Python to buy and sell tokens in seconds once the target is hit.  (today)
+- [AnBui2004/Vectras-VM-Android](https://github.com/AnBui2004/Vectras-VM-Android) - It's a Virtual Machine App for Android Which is Based on QEMU (today)
+- [HorizonEmuTeam/Horizon-Emu](https://github.com/HorizonEmuTeam/Horizon-Emu) (today)
+- [ahmad1abbadi/darkos](https://github.com/ahmad1abbadi/darkos) - small project that allow run pc games on android by wine using box64  (today)
+- [devbaji/vue3-google-login](https://github.com/devbaji/vue3-google-login) - Add Sign In With Google feature to your Vue 3 application (today)
 
 ## 🔨 Latest Pull Requests I published
 
