@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [fernandoncidade](https://github.com/fernandoncidade)
 - [JuanOrbegoso](https://github.com/JuanOrbegoso)
 - [polycarpdev](https://github.com/polycarpdev)
 - [DIMFLIX](https://github.com/DIMFLIX)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Shahriar-Sahaf](https://github.com/Shahriar-Sahaf)
 - [shashankgowda1144](https://github.com/shashankgowda1144)
 - [ChinmayKaitade](https://github.com/ChinmayKaitade)
-- [levonk](https://github.com/levonk)
 
 ## ⭐ Recent stars
 
