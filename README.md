@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [Succubussix/winlator-bionic-glibc](https://github.com/Succubussix/winlator-bionic-glibc) - Android application for running Windows applications with Wine and Box86/Box64 (today)
+- [cctv18/oppo_oplus_realme_sm8650](https://github.com/cctv18/oppo_oplus_realme_sm8650) - An automatic kernel builder for Oppo/Oneplus/Realme Snapdragon sm8650 series in a completely new way. (today)
 - [aanarchyy/bully](https://github.com/aanarchyy/bully) (today)
 - [LiNuX-Mallu/Track-Em](https://github.com/LiNuX-Mallu/Track-Em) - GPS Location Tracer Using Malicious URL (today)
 - [LiNuX-Mallu/CAM-DUMPER](https://github.com/LiNuX-Mallu/CAM-DUMPER) - Take webcam shots from target by just sending a malicious link (today)
-- [hyperfield/ai-file-sorter](https://github.com/hyperfield/ai-file-sorter) - Powerful cross-platform desktop application that automates file organization with AI. Works with Local LLMs. (today)
-- [hyperfield/yt-channel-downloader](https://github.com/hyperfield/yt-channel-downloader) - A Qt GUI app that makes it easy to download multiple videos at once from Youtube channels. (today)
 
 ## 🔨 Latest Pull Requests I published
 
