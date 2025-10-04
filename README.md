@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [neverendingqs/netlify-express](https://github.com/neverendingqs/netlify-express) - Express.js hosted on Netlify (today)
-- [neverendingqs/serverless-dotenv-plugin](https://github.com/neverendingqs/serverless-dotenv-plugin) - Preload Environment Variables with Dotenv into Serverless (today)
-- [jecovier/vue-json-excel](https://github.com/jecovier/vue-json-excel) (today)
-- [fabiandev/angular-quiz-app](https://github.com/fabiandev/angular-quiz-app) - A music quiz in Angular 2+ using the Spotify API. (today)
-- [fabiandev/ts-runtime](https://github.com/fabiandev/ts-runtime) - Runtime Type Checks for TypeScript (today)
+- [MrBoomDeveloper/Awery](https://github.com/MrBoomDeveloper/Awery) - A mobile app for watching Anime, Movies and TV series based on Dantotsu, which is based on Saikou. (today)
+- [gregalletti/CTF_tools](https://github.com/gregalletti/CTF_tools) - List of tools and commands that may be helpful in CTFs (today)
+- [DEMON1A/GmailBruterV2](https://github.com/DEMON1A/GmailBruterV2) - Simple tool written in python3 to perform limited brute-force attacks on gmail accounts. (today)
+- [agarzola/jQueryAutocompletePlugin](https://github.com/agarzola/jQueryAutocompletePlugin) - Jörn Zaefferer’s (now deprecated) jQuery plugin, with tweaks. (today)
+- [RodenLuo/py4e-cn](https://github.com/RodenLuo/py4e-cn) - www.py4e.com 和 Python 3.0 书的源码 (today)
 
 ## 🔨 Latest Pull Requests I published
 
