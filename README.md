@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [thetron/mongoid_token](https://github.com/thetron/mongoid_token) - A little random, unique token generator for Mongoid documents. (today)
-- [thetron/css3buttons_rails_helpers](https://github.com/thetron/css3buttons_rails_helpers) - Rails helpers to generate beautiful css3 buttons, based on the 'css3-github-buttons' (today)
-- [thetron/StringScore](https://github.com/thetron/StringScore) - StringScore is an Objective-C library which provides super fast fuzzy string matching/scoring. Based on the JavaScript library of the same name. (today)
-- [DominoKorean/Render-dragon-shader-list](https://github.com/DominoKorean/Render-dragon-shader-list) - List of shaders and related information, files, etc. that are compatible with RenderDragon. (today)
-- [corentin-c/SpotifyAutoPatcher](https://github.com/corentin-c/SpotifyAutoPatcher) - Android app to patch Spotify combining the powers of AntiSplit-M and ReVanced Manager ! (today)
+- [giorzang/lol-language-ja_JP](https://github.com/giorzang/lol-language-ja_JP) (today)
+- [xteve-project/xTeVe-Documentation](https://github.com/xteve-project/xTeVe-Documentation) (today)
+- [xteve-project/xTeVe](https://github.com/xteve-project/xTeVe) - M3U Proxy for Plex DVR and Emby Live TV (today)
+- [itsToggle/rclone_RD](https://github.com/itsToggle/rclone_RD) - RClone Fork that implements RealDebrid (today)
+- [itsToggle/plex_debrid](https://github.com/itsToggle/plex_debrid) - Plex torrent streaming through Debrid Services (today)
 
 ## 🔨 Latest Pull Requests I published
 
