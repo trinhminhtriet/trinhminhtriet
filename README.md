@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [iamacarpet/ssh-bastion](https://github.com/iamacarpet/ssh-bastion) - An auditing / logging SSH relay for a jump box / bastion host. (today)
-- [iamacarpet/go-win64api](https://github.com/iamacarpet/go-win64api) - Windows API wrappers for Go - useful for SysOps (today)
-- [chisewaguri/systemapp_nuker](https://github.com/chisewaguri/systemapp_nuker) - A KernelSU module to debloat system apps with WebUI Interface (today)
-- [ZG089/Re-Malwack](https://github.com/ZG089/Re-Malwack) - A fully-fledged ad-block module. Contains all your needs ✨ (today)
-- [duzhaokun123/YAPatch](https://github.com/duzhaokun123/YAPatch) (today)
+- [neverendingqs/netlify-express](https://github.com/neverendingqs/netlify-express) - Express.js hosted on Netlify (today)
+- [neverendingqs/serverless-dotenv-plugin](https://github.com/neverendingqs/serverless-dotenv-plugin) - Preload Environment Variables with Dotenv into Serverless (today)
+- [jecovier/vue-json-excel](https://github.com/jecovier/vue-json-excel) (today)
+- [fabiandev/angular-quiz-app](https://github.com/fabiandev/angular-quiz-app) - A music quiz in Angular 2+ using the Spotify API. (today)
+- [fabiandev/ts-runtime](https://github.com/fabiandev/ts-runtime) - Runtime Type Checks for TypeScript (today)
 
 ## 🔨 Latest Pull Requests I published
 
