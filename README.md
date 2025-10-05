@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [FeMiner/wms](https://github.com/FeMiner/wms) - 企业仓库管理系统 (today)
-- [C3Pool/xmrig-C3](https://github.com/C3Pool/xmrig-C3) - Monero (rx/0, rx/wow, rx/loki, defyx, rx/arq, rx/sfx, rx/keva, cn/0, cn/1, cn/2, cn/r, cn/fast, cn/half, cn/xao, cn/rto, cn/rwz, cn/zls, cn/double, cn/gpu, cn-lite/0, cn-lite/1, cn-heavy/0, cn-heavy/tube, cn-heavy/xhv, cn-pico, cn-pico/tlo, argon2/chukwa, argon2/wrkz, astrobwt) CPU/GPU miner   https://c3pool.com/ (today)
-- [mercurykd/vpnbot](https://github.com/mercurykd/vpnbot) (today)
-- [Shina-SG/Shina-Fox](https://github.com/Shina-SG/Shina-Fox) - A Minimal, Cozy, Vertical Optimized Firefox Theme  (today)
-- [hikaruAi/FacebookBot](https://github.com/hikaruAi/FacebookBot) - A facebook bot to scrap, post, spam and more without the facebook API (today)
+- [petoolse/petools](https://github.com/petoolse/petools) - PE Tools - Portable executable (PE) manipulation toolkit (today)
+- [AikoMidori/steam-dark-mode](https://github.com/AikoMidori/steam-dark-mode) - A true Dark Mode for Steam. (today)
+- [AikoMidori/steam-library](https://github.com/AikoMidori/steam-library) - A Complete Make-Over For Steam Library. (today)
+- [qq8e/qq](https://github.com/qq8e/qq) - 8亿QQ绑定数据泄露查询源码，附送数据。不定期更新下载地址 关注越多送的越多 (today)
+- [whoiszxl/tt-zhipin](https://github.com/whoiszxl/tt-zhipin) - 头头直聘，仿Boss直聘实现。SpringCloud Alibaba 构建后端，React Native 构建移动端，Vue3.0 + Arco Design 构建管理后台，Hadoop + Flink 实现大数据体系。实现招聘、内容管理、IM即时通讯等业务。 (today)
 
 ## 🔨 Latest Pull Requests I published
 
