@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [fe80Grau/ytdlp2STRM](https://github.com/fe80Grau/ytdlp2STRM) - A little script to serve Youtube / Twitch / Crunchyroll videos without storage it.  Uses yt-dlp HTTP data throught Flask and dynamic URLs. We can use this dynamic URLs to set STRM files. (today)
-- [cuitianze/Front-end-Developer-Interview-Questions-of-Chinese](https://github.com/cuitianze/Front-end-Developer-Interview-Questions-of-Chinese) - 高级前端开发工程师面试题（不定期更新） (today)
-- [chenzongshu/Kubernetes](https://github.com/chenzongshu/Kubernetes) (today)
-- [RobodLee/DayDayUP](https://github.com/RobodLee/DayDayUP) - 好好学习，天天向上！ (today)
-- [trick758/pms](https://github.com/trick758/pms) - 基于SpringBoot的物业管理系统 (today)
+- [mjuhasz/BDSup2Sub](https://github.com/mjuhasz/BDSup2Sub) - Blu-Ray/DVD subtitle editor (today)
+- [ivarbrandt/skin.fentastic](https://github.com/ivarbrandt/skin.fentastic) (today)
+- [henry-richard7/TeleRAT](https://github.com/henry-richard7/TeleRAT) - TeleRAT is a python based Remote Administration Tool that uses the Telegram Bot API (today)
+- [henry-richard7/Browser-password-stealer](https://github.com/henry-richard7/Browser-password-stealer) - This python program gets all the saved passwords, credit cards and bookmarks from chromium based browsers supports chromium 80 and above! (today)
+- [vital987/chrome-novnc](https://github.com/vital987/chrome-novnc) - Chromium via noVNC (Browser in Browser) (today)
 
 ## 🔨 Latest Pull Requests I published
 
