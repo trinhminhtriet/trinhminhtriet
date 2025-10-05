@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [xiaoyvyv/bangumi](https://github.com/xiaoyvyv/bangumi) - Bangumi for Android - A full-featured unofficial android native application for the bangumi.tv (today)
-- [Natoune/SpotifyMobileLyricsAPI](https://github.com/Natoune/SpotifyMobileLyricsAPI) - This API overrides the Spotify API endpoint used in the Spotify mobile app to fetch lyrics for the currently playing song. (today)
-- [prajwalch/yazap](https://github.com/prajwalch/yazap) - 🔧 The ultimate Zig library for seamless command line argument parsing.  (today)
-- [prajwalch/TorrentSearch](https://github.com/prajwalch/TorrentSearch) - A Material 3 designed Android app for searching and downloading torrents from multiple providers. (today)
-- [krvstek/rvx-apks](https://github.com/krvstek/rvx-apks) - 📦 ReVanced's pre-made APKs (today)
+- [FeMiner/wms](https://github.com/FeMiner/wms) - 企业仓库管理系统 (today)
+- [C3Pool/xmrig-C3](https://github.com/C3Pool/xmrig-C3) - Monero (rx/0, rx/wow, rx/loki, defyx, rx/arq, rx/sfx, rx/keva, cn/0, cn/1, cn/2, cn/r, cn/fast, cn/half, cn/xao, cn/rto, cn/rwz, cn/zls, cn/double, cn/gpu, cn-lite/0, cn-lite/1, cn-heavy/0, cn-heavy/tube, cn-heavy/xhv, cn-pico, cn-pico/tlo, argon2/chukwa, argon2/wrkz, astrobwt) CPU/GPU miner   https://c3pool.com/ (today)
+- [mercurykd/vpnbot](https://github.com/mercurykd/vpnbot) (today)
+- [Shina-SG/Shina-Fox](https://github.com/Shina-SG/Shina-Fox) - A Minimal, Cozy, Vertical Optimized Firefox Theme  (today)
+- [hikaruAi/FacebookBot](https://github.com/hikaruAi/FacebookBot) - A facebook bot to scrap, post, spam and more without the facebook API (today)
 
 ## 🔨 Latest Pull Requests I published
 
