@@ -33,7 +33,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👷 Check out what I'm currently working on
 
-- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (1 day ago)
+- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (today)
 - [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) - 🚀 All-in-one CLI toolkit for developers: scaffold, manage, automate, and boost productivity across languages! (1 week ago)
 - [lamhaison/aws-cli-utils](https://github.com/lamhaison/aws-cli-utils) - This is the project to collect helpful aws cli commandline with complex options to support your working (2 weeks ago)
 - [trinhminhtriet/dwipe](https://github.com/trinhminhtriet/dwipe) - 🧹 Fast, cross-platform disk cleanup tool with interactive UI for easy directory size visualization. (1 month ago)
@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [w3schools-test/w3schools-test.github.io](https://github.com/w3schools-test/w3schools-test.github.io) - w3schools.com repository used in demonstrating GitHub and GitHub pages (today)
-- [kumopult/blender_BoneAnimCopy](https://github.com/kumopult/blender_BoneAnimCopy) - 用于在blender中桥接骨骼动画的插件 (today)
-- [AlexanderGrom/go-patterns](https://github.com/AlexanderGrom/go-patterns) - Design patterns in Golang (today)
-- [theartofdevel/golang-clean-architecture](https://github.com/theartofdevel/golang-clean-architecture) - Пример упрощенного применения Чистой Архитектуры Роберта Мартина (today)
-- [theartofdevel/notes_system](https://github.com/theartofdevel/notes_system) - Система заметок с использованием Golang, Python и микросервисной архитектуры. (today)
+- [cuitianze/Front-end-Developer-Interview-Questions-of-Chinese](https://github.com/cuitianze/Front-end-Developer-Interview-Questions-of-Chinese) - 高级前端开发工程师面试题（不定期更新） (today)
+- [chenzongshu/Kubernetes](https://github.com/chenzongshu/Kubernetes) (today)
+- [RobodLee/DayDayUP](https://github.com/RobodLee/DayDayUP) - 好好学习，天天向上！ (today)
+- [trick758/pms](https://github.com/trick758/pms) - 基于SpringBoot的物业管理系统 (today)
+- [jeffreyning/mybatisplus-plus](https://github.com/jeffreyning/mybatisplus-plus) - mybatisplus-plus对mybatisplus的一些功能补充：根据多个字段联合主键增删改查;优化分页插件实现在不分页时进行排序操作;自动填充优化功能 & 自动扫描Entity类构建ResultMap功能;ognl设置默认包名 (today)
 
 ## 🔨 Latest Pull Requests I published
 
