@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [xaf/qolsysgw](https://github.com/xaf/qolsysgw) - Qolsys IQ Panel 2+ gateway to an Home Assistant Alarm Control Panel (today)
-- [xaf/TraktForVLC](https://github.com/xaf/TraktForVLC) - Automatically trakt.tv what you're watching on VLC (today)
-- [vingojw/vue1_demo](https://github.com/vingojw/vue1_demo) - Vue, vue-router, Webpack 和 vue-loader (today)
-- [itsnine/yolov5-onnxruntime](https://github.com/itsnine/yolov5-onnxruntime) - YOLOv5 ONNX Runtime C++ inference code. (today)
-- [xan105/Achievement-Watcher](https://github.com/xan105/Achievement-Watcher) - A sexy achievement file parser with real-time notification, automatic screenshot and playtime tracking. View every achievements earned on your PC whether it's coming from Steam, a Steam emulator, and more. (today)
+- [barrykn/big-sur-micropatcher](https://github.com/barrykn/big-sur-micropatcher) - A primitive USB patcher for installing macOS Big Sur on unsupported Macs (today)
+- [ekmungai/python-accounting](https://github.com/ekmungai/python-accounting) - Python Double Entry Accounting with a focus on IFRS Compliant Reporting (today)
+- [ekmungai/eloquent-ifrs](https://github.com/ekmungai/eloquent-ifrs) - Eloquent Double Entry Accounting with a focus on IFRS Compliant Reporting (today)
+- [gustavofreze/aws-certified-cloud-practitioner](https://github.com/gustavofreze/aws-certified-cloud-practitioner) - Compilado de anotações usadas na preparação para a certificação AWS Certified Cloud Practitioner (CLF-C01). (today)
+- [gustavofreze/kotlin4noobs](https://github.com/gustavofreze/kotlin4noobs) - Tutorial de Kotlin para iniciantes na linguagem. (today)
 
 ## 🔨 Latest Pull Requests I published
 
