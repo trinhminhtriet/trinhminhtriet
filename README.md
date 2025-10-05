@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [Esk0r/LeagueSharp](https://github.com/Esk0r/LeagueSharp) (today)
-- [6vr/Bug-Bounty-Tips](https://github.com/6vr/Bug-Bounty-Tips) -  A collection of notes, checklists, writeups on bug bounty hunting and web application security.  (today)
-- [rockz5555/NFG-Multi-Crack](https://github.com/rockz5555/NFG-Multi-Crack) (today)
-- [adultmm/AdultMediaManager](https://github.com/adultmm/AdultMediaManager) - Adult Media Manager is the ultimate media manager for your adult movies and videos. Organize your content for Kodi, Plex, and other media centers. (today)
-- [LivingWithHippos/unchained-android](https://github.com/LivingWithHippos/unchained-android) - App to interact with real-debrid API (today)
+- [ccminerproxy/CC-MinerProxy](https://github.com/ccminerproxy/CC-MinerProxy) - ETH,BTC,ETC,RVN,ERGO,CFX 等币种中转抽水,有效防止CC攻击。支持SSL加密，后台web页监控，实时查看自己抽水情况。monitor目录下为多端口监控器，下载到本地pc使用。 (today)
+- [whuanle/maomi](https://github.com/whuanle/maomi) - Maomi 框架是一个简单的、简洁的开发框架，除了框架本身提供的功能之外，Maomi 还作为一个易于阅读的开源项目，能够给开发者提供设计框架的思路和代码。 (today)
+- [whuanle/CZGL.SystemInfo](https://github.com/whuanle/CZGL.SystemInfo) - 一个.NET Core监控系统CPU内存等信息的工具 (today)
+- [Zaxblog/MinerProxy](https://github.com/Zaxblog/MinerProxy) - MinerProxy(中文名：加密挖全球 )，采用IOCP超高性能的网络框架编写，具有稳定性高，传输速度快，并发强等优点。可快速实现一键搭建任意矿池（ETH/ETC/RVN/ERGO/AE/BTC等）的中转节点，支持SSL加密，支持SSL矿池，支持任意第三方挖矿软件(包括OS系统)，支持协议模拟功能，内网无需客户端即可SSL加密传输至VPS解密，并同时支持5个矿池的转发，有精准清晰的矿机数据展示列表，可方便配置合理抽水，自动拦截抽水增加业主算力。在保持业主算力不受大的影响的情况下，给予VPS搭建者一定的运营费用。 (today)
+- [kepkin/dev-shell-essentials](https://github.com/kepkin/dev-shell-essentials) (today)
 
 ## 🔨 Latest Pull Requests I published
 
