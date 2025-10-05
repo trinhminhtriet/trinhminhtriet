@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [ilyasozkurt/automobile-models-and-specs](https://github.com/ilyasozkurt/automobile-models-and-specs) - A database that includes automobile manufacturers, models, and engine options with specs. Last data update: 23/10/2024 (today)
 - [OrigamiDream/gato](https://github.com/OrigamiDream/gato) - Unofficial Gato: A Generalist Agent (today)
 - [bguzmanrio/maskjs](https://github.com/bguzmanrio/maskjs) - Mask.js is a simple functionality that you can use to force user met a pattern into inputs (today)
 - [guto-alves/loterias-api](https://github.com/guto-alves/loterias-api) - API de Resultados das Loterias CAIXA (today)
 - [ipatix/agbplay](https://github.com/ipatix/agbplay) - Music player for the most common GBA sound format (today)
-- [giuse88/duka](https://github.com/giuse88/duka) -  duka - Dukascopy historical data downloader  (today)
 
 ## 🔨 Latest Pull Requests I published
 
