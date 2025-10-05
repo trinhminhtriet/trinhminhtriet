@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [nic0q](https://github.com/nic0q)
 - [Murad098](https://github.com/Murad098)
 - [A2020GK](https://github.com/A2020GK)
 - [lrepo52](https://github.com/lrepo52)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [DIMFLIX](https://github.com/DIMFLIX)
 - [ishandutta2007](https://github.com/ishandutta2007)
 - [null0NULL123](https://github.com/null0NULL123)
-- [Shahriar-Sahaf](https://github.com/Shahriar-Sahaf)
 
 ## ⭐ Recent stars
 
-- [Jigen-Ohtsusuki/ViMusic](https://github.com/Jigen-Ohtsusuki/ViMusic) - An Android application for streaming music from YouTube Music. (today)
-- [Arturo254/OpenTune](https://github.com/Arturo254/OpenTune) - Un cliente de YouTube Music con Material Design 3, para Android (today)
-- [Malopieds/InnerTune](https://github.com/Malopieds/InnerTune) - A fork of InnerTune, a Material 3 YouTube Music client for Android (today)
-- [DJDoubleD/QobuzDownloaderX-MOD](https://github.com/DJDoubleD/QobuzDownloaderX-MOD) - Downloads streams directly from Qobuz. Experimental refactoring of QobuzDownloaderX by AiiR (today)
-- [DJDoubleD/refreezer](https://github.com/DJDoubleD/refreezer) - An alternative Deezer music streaming & downloading client, based on Freezer. (today)
+- [guto-alves/loterias-api](https://github.com/guto-alves/loterias-api) - API de Resultados das Loterias CAIXA (today)
+- [ipatix/agbplay](https://github.com/ipatix/agbplay) - Music player for the most common GBA sound format (today)
+- [giuse88/duka](https://github.com/giuse88/duka) -  duka - Dukascopy historical data downloader  (today)
+- [CodeUpdaterBot/ClickUi](https://github.com/CodeUpdaterBot/ClickUi) - The best way to use AI is on your own computer. Use local or paid API models, and ctrl+k to show/hide the chat UI. Experience the future of AI, and help build it too! (today)
+- [Jackywine/Bella](https://github.com/Jackywine/Bella) - Bella is best (today)
 
 ## 🔨 Latest Pull Requests I published
 
