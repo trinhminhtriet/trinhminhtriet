@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [EbenezerBaafi](https://github.com/EbenezerBaafi)
 - [nic0q](https://github.com/nic0q)
 - [Murad098](https://github.com/Murad098)
 - [A2020GK](https://github.com/A2020GK)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [polycarpdev](https://github.com/polycarpdev)
 - [DIMFLIX](https://github.com/DIMFLIX)
 - [ishandutta2007](https://github.com/ishandutta2007)
-- [null0NULL123](https://github.com/null0NULL123)
 
 ## ⭐ Recent stars
 
+- [bguzmanrio/maskjs](https://github.com/bguzmanrio/maskjs) - Mask.js is a simple functionality that you can use to force user met a pattern into inputs (today)
 - [guto-alves/loterias-api](https://github.com/guto-alves/loterias-api) - API de Resultados das Loterias CAIXA (today)
 - [ipatix/agbplay](https://github.com/ipatix/agbplay) - Music player for the most common GBA sound format (today)
 - [giuse88/duka](https://github.com/giuse88/duka) -  duka - Dukascopy historical data downloader  (today)
 - [CodeUpdaterBot/ClickUi](https://github.com/CodeUpdaterBot/ClickUi) - The best way to use AI is on your own computer. Use local or paid API models, and ctrl+k to show/hide the chat UI. Experience the future of AI, and help build it too! (today)
-- [Jackywine/Bella](https://github.com/Jackywine/Bella) - Bella is best (today)
 
 ## 🔨 Latest Pull Requests I published
 
