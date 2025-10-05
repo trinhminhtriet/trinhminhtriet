@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [CarkusL/CenterPoint](https://github.com/CarkusL/CenterPoint) - Export CenterPoint PonintPillars ONNX Model For TensorRT (today)
+- [frankyghost/projekktor](https://github.com/frankyghost/projekktor) - The Free Web Video Player (today)
+- [lixmal/keepass4web](https://github.com/lixmal/keepass4web) - [deprecated] KeePass databases served on the web (today)
+- [chrispederick/web-developer](https://github.com/chrispederick/web-developer) - A browser extension that adds various web developer tools to a browser. (today)
 - [barrykn/big-sur-micropatcher](https://github.com/barrykn/big-sur-micropatcher) - A primitive USB patcher for installing macOS Big Sur on unsupported Macs (today)
-- [ekmungai/python-accounting](https://github.com/ekmungai/python-accounting) - Python Double Entry Accounting with a focus on IFRS Compliant Reporting (today)
-- [ekmungai/eloquent-ifrs](https://github.com/ekmungai/eloquent-ifrs) - Eloquent Double Entry Accounting with a focus on IFRS Compliant Reporting (today)
-- [gustavofreze/aws-certified-cloud-practitioner](https://github.com/gustavofreze/aws-certified-cloud-practitioner) - Compilado de anotações usadas na preparação para a certificação AWS Certified Cloud Practitioner (CLF-C01). (today)
-- [gustavofreze/kotlin4noobs](https://github.com/gustavofreze/kotlin4noobs) - Tutorial de Kotlin para iniciantes na linguagem. (today)
 
 ## 🔨 Latest Pull Requests I published
 
