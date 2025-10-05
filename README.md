@@ -52,18 +52,18 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [polycarpdev](https://github.com/polycarpdev)
 - [DIMFLIX](https://github.com/DIMFLIX)
 - [ishandutta2007](https://github.com/ishandutta2007)
-- [xReveres](https://github.com/xReveres)
 - [null0NULL123](https://github.com/null0NULL123)
 - [Shahriar-Sahaf](https://github.com/Shahriar-Sahaf)
 - [shashankgowda1144](https://github.com/shashankgowda1144)
+- [ChinmayKaitade](https://github.com/ChinmayKaitade)
 
 ## ⭐ Recent stars
 
+- [fe80Grau/ytdlp2STRM](https://github.com/fe80Grau/ytdlp2STRM) - A little script to serve Youtube / Twitch / Crunchyroll videos without storage it.  Uses yt-dlp HTTP data throught Flask and dynamic URLs. We can use this dynamic URLs to set STRM files. (today)
 - [cuitianze/Front-end-Developer-Interview-Questions-of-Chinese](https://github.com/cuitianze/Front-end-Developer-Interview-Questions-of-Chinese) - 高级前端开发工程师面试题（不定期更新） (today)
 - [chenzongshu/Kubernetes](https://github.com/chenzongshu/Kubernetes) (today)
 - [RobodLee/DayDayUP](https://github.com/RobodLee/DayDayUP) - 好好学习，天天向上！ (today)
 - [trick758/pms](https://github.com/trick758/pms) - 基于SpringBoot的物业管理系统 (today)
-- [jeffreyning/mybatisplus-plus](https://github.com/jeffreyning/mybatisplus-plus) - mybatisplus-plus对mybatisplus的一些功能补充：根据多个字段联合主键增删改查;优化分页插件实现在不分页时进行排序操作;自动填充优化功能 & 自动扫描Entity类构建ResultMap功能;ognl设置默认包名 (today)
 
 ## 🔨 Latest Pull Requests I published
 
