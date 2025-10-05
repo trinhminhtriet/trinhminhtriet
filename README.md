@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Murad098](https://github.com/Murad098)
 - [A2020GK](https://github.com/A2020GK)
 - [lrepo52](https://github.com/lrepo52)
 - [fernandoncidade](https://github.com/fernandoncidade)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [ishandutta2007](https://github.com/ishandutta2007)
 - [null0NULL123](https://github.com/null0NULL123)
 - [Shahriar-Sahaf](https://github.com/Shahriar-Sahaf)
-- [shashankgowda1144](https://github.com/shashankgowda1144)
 
 ## ⭐ Recent stars
 
-- [CarkusL/CenterPoint](https://github.com/CarkusL/CenterPoint) - Export CenterPoint PonintPillars ONNX Model For TensorRT (today)
-- [frankyghost/projekktor](https://github.com/frankyghost/projekktor) - The Free Web Video Player (today)
-- [lixmal/keepass4web](https://github.com/lixmal/keepass4web) - [deprecated] KeePass databases served on the web (today)
-- [chrispederick/web-developer](https://github.com/chrispederick/web-developer) - A browser extension that adds various web developer tools to a browser. (today)
-- [barrykn/big-sur-micropatcher](https://github.com/barrykn/big-sur-micropatcher) - A primitive USB patcher for installing macOS Big Sur on unsupported Macs (today)
+- [Jigen-Ohtsusuki/ViMusic](https://github.com/Jigen-Ohtsusuki/ViMusic) - An Android application for streaming music from YouTube Music. (today)
+- [Arturo254/OpenTune](https://github.com/Arturo254/OpenTune) - Un cliente de YouTube Music con Material Design 3, para Android (today)
+- [Malopieds/InnerTune](https://github.com/Malopieds/InnerTune) - A fork of InnerTune, a Material 3 YouTube Music client for Android (today)
+- [DJDoubleD/QobuzDownloaderX-MOD](https://github.com/DJDoubleD/QobuzDownloaderX-MOD) - Downloads streams directly from Qobuz. Experimental refactoring of QobuzDownloaderX by AiiR (today)
+- [DJDoubleD/refreezer](https://github.com/DJDoubleD/refreezer) - An alternative Deezer music streaming & downloading client, based on Freezer. (today)
 
 ## 🔨 Latest Pull Requests I published
 
