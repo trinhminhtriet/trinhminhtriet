@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [machka-pasla/remnawave-tg-shop](https://github.com/machka-pasla/remnawave-tg-shop) - Remnawave TG Shop (today)
-- [lifegpc/fuckchaoxing](https://github.com/lifegpc/fuckchaoxing) - 超星学习通/智慧树去死 (today)
-- [lifegpc/bili](https://github.com/lifegpc/bili) - A tool to download barrage/video from bilibili/acfun. Support English, Japanese and Chinese(China).一个Python编写的从Bilibili/Acfun下载弹幕/视频的工具。支持英语、日语和中文（中国）。（WEBGUI正在路上） (today)
-- [Ninzore/Wecab](https://github.com/Ninzore/Wecab) - 最好的订阅制QQbot (today)
-- [Montaro2017/bili_novel_packer](https://github.com/Montaro2017/bili_novel_packer) - 轻小说打包器，采集哔哩轻小说网站(bilinovel.com linovelib.com)内容，打包成EPUB格式，支持封面、插图、目录，支持分卷合并。 (today)
+- [w3schools-test/w3schools-test.github.io](https://github.com/w3schools-test/w3schools-test.github.io) - w3schools.com repository used in demonstrating GitHub and GitHub pages (today)
+- [kumopult/blender_BoneAnimCopy](https://github.com/kumopult/blender_BoneAnimCopy) - 用于在blender中桥接骨骼动画的插件 (today)
+- [AlexanderGrom/go-patterns](https://github.com/AlexanderGrom/go-patterns) - Design patterns in Golang (today)
+- [theartofdevel/golang-clean-architecture](https://github.com/theartofdevel/golang-clean-architecture) - Пример упрощенного применения Чистой Архитектуры Роберта Мартина (today)
+- [theartofdevel/notes_system](https://github.com/theartofdevel/notes_system) - Система заметок с использованием Golang, Python и микросервисной архитектуры. (today)
 
 ## 🔨 Latest Pull Requests I published
 
