@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [MrBoomDeveloper/Awery](https://github.com/MrBoomDeveloper/Awery) - A mobile app for watching Anime, Movies and TV series based on Dantotsu, which is based on Saikou. (1 day ago)
-- [gregalletti/CTF_tools](https://github.com/gregalletti/CTF_tools) - List of tools and commands that may be helpful in CTFs (1 day ago)
-- [DEMON1A/GmailBruterV2](https://github.com/DEMON1A/GmailBruterV2) - Simple tool written in python3 to perform limited brute-force attacks on gmail accounts. (1 day ago)
-- [agarzola/jQueryAutocompletePlugin](https://github.com/agarzola/jQueryAutocompletePlugin) - Jörn Zaefferer’s (now deprecated) jQuery plugin, with tweaks. (1 day ago)
-- [RodenLuo/py4e-cn](https://github.com/RodenLuo/py4e-cn) - www.py4e.com 和 Python 3.0 书的源码 (1 day ago)
+- [xiaoyvyv/bangumi](https://github.com/xiaoyvyv/bangumi) - Bangumi for Android - A full-featured unofficial android native application for the bangumi.tv (today)
+- [Natoune/SpotifyMobileLyricsAPI](https://github.com/Natoune/SpotifyMobileLyricsAPI) - This API overrides the Spotify API endpoint used in the Spotify mobile app to fetch lyrics for the currently playing song. (today)
+- [prajwalch/yazap](https://github.com/prajwalch/yazap) - 🔧 The ultimate Zig library for seamless command line argument parsing.  (today)
+- [prajwalch/TorrentSearch](https://github.com/prajwalch/TorrentSearch) - A Material 3 designed Android app for searching and downloading torrents from multiple providers. (today)
+- [krvstek/rvx-apks](https://github.com/krvstek/rvx-apks) - 📦 ReVanced's pre-made APKs (today)
 
 ## 🔨 Latest Pull Requests I published
 
