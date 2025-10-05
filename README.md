@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [petoolse/petools](https://github.com/petoolse/petools) - PE Tools - Portable executable (PE) manipulation toolkit (today)
-- [AikoMidori/steam-dark-mode](https://github.com/AikoMidori/steam-dark-mode) - A true Dark Mode for Steam. (today)
-- [AikoMidori/steam-library](https://github.com/AikoMidori/steam-library) - A Complete Make-Over For Steam Library. (today)
-- [qq8e/qq](https://github.com/qq8e/qq) - 8亿QQ绑定数据泄露查询源码，附送数据。不定期更新下载地址 关注越多送的越多 (today)
-- [whoiszxl/tt-zhipin](https://github.com/whoiszxl/tt-zhipin) - 头头直聘，仿Boss直聘实现。SpringCloud Alibaba 构建后端，React Native 构建移动端，Vue3.0 + Arco Design 构建管理后台，Hadoop + Flink 实现大数据体系。实现招聘、内容管理、IM即时通讯等业务。 (today)
+- [Esk0r/LeagueSharp](https://github.com/Esk0r/LeagueSharp) (today)
+- [6vr/Bug-Bounty-Tips](https://github.com/6vr/Bug-Bounty-Tips) -  A collection of notes, checklists, writeups on bug bounty hunting and web application security.  (today)
+- [rockz5555/NFG-Multi-Crack](https://github.com/rockz5555/NFG-Multi-Crack) (today)
+- [adultmm/AdultMediaManager](https://github.com/adultmm/AdultMediaManager) - Adult Media Manager is the ultimate media manager for your adult movies and videos. Organize your content for Kodi, Plex, and other media centers. (today)
+- [LivingWithHippos/unchained-android](https://github.com/LivingWithHippos/unchained-android) - App to interact with real-debrid API (today)
 
 ## 🔨 Latest Pull Requests I published
 
