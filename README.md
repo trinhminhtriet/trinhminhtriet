@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [A2020GK](https://github.com/A2020GK)
 - [lrepo52](https://github.com/lrepo52)
 - [fernandoncidade](https://github.com/fernandoncidade)
 - [JuanOrbegoso](https://github.com/JuanOrbegoso)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [null0NULL123](https://github.com/null0NULL123)
 - [Shahriar-Sahaf](https://github.com/Shahriar-Sahaf)
 - [shashankgowda1144](https://github.com/shashankgowda1144)
-- [ChinmayKaitade](https://github.com/ChinmayKaitade)
 
 ## ⭐ Recent stars
 
-- [mjuhasz/BDSup2Sub](https://github.com/mjuhasz/BDSup2Sub) - Blu-Ray/DVD subtitle editor (today)
-- [ivarbrandt/skin.fentastic](https://github.com/ivarbrandt/skin.fentastic) (today)
-- [henry-richard7/TeleRAT](https://github.com/henry-richard7/TeleRAT) - TeleRAT is a python based Remote Administration Tool that uses the Telegram Bot API (today)
-- [henry-richard7/Browser-password-stealer](https://github.com/henry-richard7/Browser-password-stealer) - This python program gets all the saved passwords, credit cards and bookmarks from chromium based browsers supports chromium 80 and above! (today)
-- [vital987/chrome-novnc](https://github.com/vital987/chrome-novnc) - Chromium via noVNC (Browser in Browser) (today)
+- [xaf/qolsysgw](https://github.com/xaf/qolsysgw) - Qolsys IQ Panel 2+ gateway to an Home Assistant Alarm Control Panel (today)
+- [xaf/TraktForVLC](https://github.com/xaf/TraktForVLC) - Automatically trakt.tv what you're watching on VLC (today)
+- [vingojw/vue1_demo](https://github.com/vingojw/vue1_demo) - Vue, vue-router, Webpack 和 vue-loader (today)
+- [itsnine/yolov5-onnxruntime](https://github.com/itsnine/yolov5-onnxruntime) - YOLOv5 ONNX Runtime C++ inference code. (today)
+- [xan105/Achievement-Watcher](https://github.com/xan105/Achievement-Watcher) - A sexy achievement file parser with real-time notification, automatic screenshot and playtime tracking. View every achievements earned on your PC whether it's coming from Steam, a Steam emulator, and more. (today)
 
 ## 🔨 Latest Pull Requests I published
 
