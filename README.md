@@ -33,10 +33,10 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👷 Check out what I'm currently working on
 
-- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (today)
+- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (1 day ago)
 - [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) - 🚀 All-in-one CLI toolkit for developers: scaffold, manage, automate, and boost productivity across languages! (1 week ago)
 - [lamhaison/aws-cli-utils](https://github.com/lamhaison/aws-cli-utils) - This is the project to collect helpful aws cli commandline with complex options to support your working (2 weeks ago)
-- [trinhminhtriet/dwipe](https://github.com/trinhminhtriet/dwipe) - 🧹 Fast, cross-platform disk cleanup tool with interactive UI for easy directory size visualization. (4 weeks ago)
+- [trinhminhtriet/dwipe](https://github.com/trinhminhtriet/dwipe) - 🧹 Fast, cross-platform disk cleanup tool with interactive UI for easy directory size visualization. (1 month ago)
 - [nctl-io/nctl-roadmap](https://github.com/nctl-io/nctl-roadmap) (1 month ago)
 - [nctl-io/.github](https://github.com/nctl-io/.github) - 🌐 Network. Connect. Transform. Lead. (1 month ago)
 - [nctl-io/nctl-homepage](https://github.com/nctl-io/nctl-homepage) - 🚀 Modern homepage for NCTL: fast, responsive, TypeScript-powered, open source, and easy to customize. (1 month ago)
@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [lrepo52](https://github.com/lrepo52)
 - [fernandoncidade](https://github.com/fernandoncidade)
 - [JuanOrbegoso](https://github.com/JuanOrbegoso)
 - [polycarpdev](https://github.com/polycarpdev)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [null0NULL123](https://github.com/null0NULL123)
 - [Shahriar-Sahaf](https://github.com/Shahriar-Sahaf)
 - [shashankgowda1144](https://github.com/shashankgowda1144)
-- [ChinmayKaitade](https://github.com/ChinmayKaitade)
 
 ## ⭐ Recent stars
 
-- [MrBoomDeveloper/Awery](https://github.com/MrBoomDeveloper/Awery) - A mobile app for watching Anime, Movies and TV series based on Dantotsu, which is based on Saikou. (today)
-- [gregalletti/CTF_tools](https://github.com/gregalletti/CTF_tools) - List of tools and commands that may be helpful in CTFs (today)
-- [DEMON1A/GmailBruterV2](https://github.com/DEMON1A/GmailBruterV2) - Simple tool written in python3 to perform limited brute-force attacks on gmail accounts. (today)
-- [agarzola/jQueryAutocompletePlugin](https://github.com/agarzola/jQueryAutocompletePlugin) - Jörn Zaefferer’s (now deprecated) jQuery plugin, with tweaks. (today)
-- [RodenLuo/py4e-cn](https://github.com/RodenLuo/py4e-cn) - www.py4e.com 和 Python 3.0 书的源码 (today)
+- [MrBoomDeveloper/Awery](https://github.com/MrBoomDeveloper/Awery) - A mobile app for watching Anime, Movies and TV series based on Dantotsu, which is based on Saikou. (1 day ago)
+- [gregalletti/CTF_tools](https://github.com/gregalletti/CTF_tools) - List of tools and commands that may be helpful in CTFs (1 day ago)
+- [DEMON1A/GmailBruterV2](https://github.com/DEMON1A/GmailBruterV2) - Simple tool written in python3 to perform limited brute-force attacks on gmail accounts. (1 day ago)
+- [agarzola/jQueryAutocompletePlugin](https://github.com/agarzola/jQueryAutocompletePlugin) - Jörn Zaefferer’s (now deprecated) jQuery plugin, with tweaks. (1 day ago)
+- [RodenLuo/py4e-cn](https://github.com/RodenLuo/py4e-cn) - www.py4e.com 和 Python 3.0 书的源码 (1 day ago)
 
 ## 🔨 Latest Pull Requests I published
 
