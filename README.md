@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [nicolasjafelle/RefreshMenuItem](https://github.com/nicolasjafelle/RefreshMenuItem) - Menu item to show an indeterminate progress in the Android ActionBar. (today)
-- [nicolasjafelle/ExpandableView](https://github.com/nicolasjafelle/ExpandableView) - ExpandableView is a View showing only a content and when clicked on it, it displays more content in a fashion way (today)
-- [nicolasjafelle/SherlockNavigationDrawer](https://github.com/nicolasjafelle/SherlockNavigationDrawer) - SherlockNavigationDrawer is the implementation of the latest Google UX component, Navigation Drawer. It should work exactly as Google Drive plus!! It works with ActionBarSherlock and devices with pre HC. (today)
-- [nicolasjafelle/PagingGridView](https://github.com/nicolasjafelle/PagingGridView) - A Paging GridView with the same behavior as PagingListView. (today)
-- [nicolasjafelle/PagingListView](https://github.com/nicolasjafelle/PagingListView) - PagingListView is a ListView with the ability to add more items on it when reaches the end of the list. (today)
+- [mathewthe2/Game2Text](https://github.com/mathewthe2/Game2Text) - Complete toolbox for gamifying language learning (today)
+- [DarknessCyberTeam/BAJINGANv6](https://github.com/DarknessCyberTeam/BAJINGANv6) - Tools Auto installer from Darkness Cyber Team We Security We Not Friends We Are Family (today)
+- [nikgapps/config](https://github.com/nikgapps/config) (today)
+- [rkkr/simple-keyboard](https://github.com/rkkr/simple-keyboard) (today)
+- [C1710/blobmoji](https://github.com/C1710/blobmoji) - Noto Emoji with extended Blob support (today)
 
 ## 🔨 Latest Pull Requests I published
 
