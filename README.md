@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [Nischay-Pro/wifi-heat-mapper](https://github.com/Nischay-Pro/wifi-heat-mapper) - whm also known as wifi-heat-mapper is a Python library for benchmarking Wi-Fi networks and gather useful metrics that can be converted into meaningful easy-to-understand heatmaps. (today)
+- [Captain-P-Goldfish/SCIM-SDK](https://github.com/Captain-P-Goldfish/SCIM-SDK) - a scim implementation as described in RFC7643 and RFC7644 (today)
+- [Captain-P-Goldfish/scim-for-keycloak](https://github.com/Captain-P-Goldfish/scim-for-keycloak) - a third party module that extends keycloak by SCIM functionality (today)
 - [stoerr/GrokConstructor](https://github.com/stoerr/GrokConstructor) - Semi-automatic incremental construction and debugging of regular expressions for grok to parse logfiles for logstash http://logstash.net/ . Deployed at  http://grokconstructor.appspot.com/ .  (today)
 - [markwalkom/kibana-dashboards](https://github.com/markwalkom/kibana-dashboards) - A collection of Kibana 3.X dashboards from the community (today)
-- [lrannn/SimpleRecorder](https://github.com/lrannn/SimpleRecorder) - A simple recorder  for android. (today)
-- [edobashira/speech-language-processing](https://github.com/edobashira/speech-language-processing) - A curated list of speech and natural language processing resources (today)
-- [vinceau/project-clippi](https://github.com/vinceau/project-clippi) - An automation framework for Super Smash Bros. Melee. Detect an event → execute an action. (today)
 
 ## 🔨 Latest Pull Requests I published
 
