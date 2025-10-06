@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [7Sageer/sublink-worker](https://github.com/7Sageer/sublink-worker) - 无需服务器，一键部署，快速使用自建节点分享URL进行订阅转换，提供灵活的自定义选项，支持SingBox/Clash/V2Ray/Xray (today)
-- [exrock/xmind_zen_cracker](https://github.com/exrock/xmind_zen_cracker) - Xmind Zen 破解器 | 去水印、去掉保存时的弹窗、去掉右上角的激活按钮 (today)
-- [xmexg/xyks](https://github.com/xmexg/xyks) - 小猿口算逆向笔记 (已实现纯协议答题模板) (today)
-- [zhontai/Admin.UI](https://github.com/zhontai/Admin.UI) - Admin前端，前后端分离的权限管理系统，集成统一认证授权、多租户、缓存、Ip限流、全Api鉴权。支持国内外主流数据库自由切换和动态高级查询，基于Vue和Element构建的WebUI (today)
-- [zhontai/Admin.Core](https://github.com/zhontai/Admin.Core) - 中台Admin基于 .Net9 和 Vue3 + Element Plus、uniapp + uviewui 开发的前后端分离的权限管理系统。支持多租户、数据权限、动态Api、任务调度、OSS文件上传、滑块拼图验证、国内外主流数据库自由切换和动态高级查询。集成统一认证授权、事件总线、国际化、数据验证、分布式缓存、分布式事务、Ip限流、全Api鉴权、集成测试、性能分析、健康检查、接口文档等。 (today)
+- [royNiladri/js-big-decimal](https://github.com/royNiladri/js-big-decimal) - Work with large numbers on the client side with high precision. (today)
+- [xiyuesaves/lite-tools](https://github.com/xiyuesaves/lite-tools) - LiteLoaderQQNT 插件 - 轻量工具箱 —— 轻量 · 优雅 · 高效 (today)
+- [Sucareto/Mai2Touch](https://github.com/Sucareto/Mai2Touch) - 使用 Arduino 制作的 mai2 触摸和按键灯。 (today)
+- [Sucareto/Android_HID_Keyboard](https://github.com/Sucareto/Android_HID_Keyboard) - 用 Android 设备实现的即插即用 HID 键盘 & 鼠标。 (today)
+- [Sucareto/Arduino-Aime-Reader](https://github.com/Sucareto/Arduino-Aime-Reader) - 使用 Arduino 制作的 Aime 兼容读卡器。 (today)
 
 ## 🔨 Latest Pull Requests I published
 
