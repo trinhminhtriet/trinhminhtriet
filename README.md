@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [danielalves/BlurImageProcessor](https://github.com/danielalves/BlurImageProcessor) - BlurImageProcessor offers a very easy and practical way to generate blurred images in real time. (today)
 - [royNiladri/js-big-decimal](https://github.com/royNiladri/js-big-decimal) - Work with large numbers on the client side with high precision. (today)
 - [xiyuesaves/lite-tools](https://github.com/xiyuesaves/lite-tools) - LiteLoaderQQNT 插件 - 轻量工具箱 —— 轻量 · 优雅 · 高效 (today)
 - [Sucareto/Mai2Touch](https://github.com/Sucareto/Mai2Touch) - 使用 Arduino 制作的 mai2 触摸和按键灯。 (today)
 - [Sucareto/Android_HID_Keyboard](https://github.com/Sucareto/Android_HID_Keyboard) - 用 Android 设备实现的即插即用 HID 键盘 & 鼠标。 (today)
-- [Sucareto/Arduino-Aime-Reader](https://github.com/Sucareto/Arduino-Aime-Reader) - 使用 Arduino 制作的 Aime 兼容读卡器。 (today)
 
 ## 🔨 Latest Pull Requests I published
 
