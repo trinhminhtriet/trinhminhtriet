@@ -33,7 +33,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👷 Check out what I'm currently working on
 
-- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (today)
+- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (1 day ago)
 - [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) - 🚀 All-in-one CLI toolkit for developers: scaffold, manage, automate, and boost productivity across languages! (1 week ago)
 - [lamhaison/aws-cli-utils](https://github.com/lamhaison/aws-cli-utils) - This is the project to collect helpful aws cli commandline with complex options to support your working (2 weeks ago)
 - [trinhminhtriet/dwipe](https://github.com/trinhminhtriet/dwipe) - 🧹 Fast, cross-platform disk cleanup tool with interactive UI for easy directory size visualization. (1 month ago)
@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [christianLuis07](https://github.com/christianLuis07)
 - [EbenezerBaafi](https://github.com/EbenezerBaafi)
 - [nic0q](https://github.com/nic0q)
 - [Murad098](https://github.com/Murad098)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [JuanOrbegoso](https://github.com/JuanOrbegoso)
 - [polycarpdev](https://github.com/polycarpdev)
 - [DIMFLIX](https://github.com/DIMFLIX)
-- [ishandutta2007](https://github.com/ishandutta2007)
 
 ## ⭐ Recent stars
 
-- [ilyasozkurt/automobile-models-and-specs](https://github.com/ilyasozkurt/automobile-models-and-specs) - A database that includes automobile manufacturers, models, and engine options with specs. Last data update: 23/10/2024 (today)
-- [OrigamiDream/gato](https://github.com/OrigamiDream/gato) - Unofficial Gato: A Generalist Agent (today)
-- [bguzmanrio/maskjs](https://github.com/bguzmanrio/maskjs) - Mask.js is a simple functionality that you can use to force user met a pattern into inputs (today)
-- [guto-alves/loterias-api](https://github.com/guto-alves/loterias-api) - API de Resultados das Loterias CAIXA (today)
-- [ipatix/agbplay](https://github.com/ipatix/agbplay) - Music player for the most common GBA sound format (today)
+- [nicolasjafelle/RefreshMenuItem](https://github.com/nicolasjafelle/RefreshMenuItem) - Menu item to show an indeterminate progress in the Android ActionBar. (today)
+- [nicolasjafelle/ExpandableView](https://github.com/nicolasjafelle/ExpandableView) - ExpandableView is a View showing only a content and when clicked on it, it displays more content in a fashion way (today)
+- [nicolasjafelle/SherlockNavigationDrawer](https://github.com/nicolasjafelle/SherlockNavigationDrawer) - SherlockNavigationDrawer is the implementation of the latest Google UX component, Navigation Drawer. It should work exactly as Google Drive plus!! It works with ActionBarSherlock and devices with pre HC. (today)
+- [nicolasjafelle/PagingGridView](https://github.com/nicolasjafelle/PagingGridView) - A Paging GridView with the same behavior as PagingListView. (today)
+- [nicolasjafelle/PagingListView](https://github.com/nicolasjafelle/PagingListView) - PagingListView is a ListView with the ability to add more items on it when reaches the end of the list. (today)
 
 ## 🔨 Latest Pull Requests I published
 
