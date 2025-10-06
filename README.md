@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [fl2on](https://github.com/fl2on)
 - [DevKaliper](https://github.com/DevKaliper)
 - [christianLuis07](https://github.com/christianLuis07)
 - [EbenezerBaafi](https://github.com/EbenezerBaafi)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [lrepo52](https://github.com/lrepo52)
 - [fernandoncidade](https://github.com/fernandoncidade)
 - [JuanOrbegoso](https://github.com/JuanOrbegoso)
-- [polycarpdev](https://github.com/polycarpdev)
 
 ## ⭐ Recent stars
 
