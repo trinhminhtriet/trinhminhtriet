@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [danielalves/BlurImageProcessor](https://github.com/danielalves/BlurImageProcessor) - BlurImageProcessor offers a very easy and practical way to generate blurred images in real time. (today)
-- [royNiladri/js-big-decimal](https://github.com/royNiladri/js-big-decimal) - Work with large numbers on the client side with high precision. (today)
-- [xiyuesaves/lite-tools](https://github.com/xiyuesaves/lite-tools) - LiteLoaderQQNT 插件 - 轻量工具箱 —— 轻量 · 优雅 · 高效 (today)
-- [Sucareto/Mai2Touch](https://github.com/Sucareto/Mai2Touch) - 使用 Arduino 制作的 mai2 触摸和按键灯。 (today)
-- [Sucareto/Android_HID_Keyboard](https://github.com/Sucareto/Android_HID_Keyboard) - 用 Android 设备实现的即插即用 HID 键盘 & 鼠标。 (today)
+- [stoerr/GrokConstructor](https://github.com/stoerr/GrokConstructor) - Semi-automatic incremental construction and debugging of regular expressions for grok to parse logfiles for logstash http://logstash.net/ . Deployed at  http://grokconstructor.appspot.com/ .  (today)
+- [markwalkom/kibana-dashboards](https://github.com/markwalkom/kibana-dashboards) - A collection of Kibana 3.X dashboards from the community (today)
+- [lrannn/SimpleRecorder](https://github.com/lrannn/SimpleRecorder) - A simple recorder  for android. (today)
+- [edobashira/speech-language-processing](https://github.com/edobashira/speech-language-processing) - A curated list of speech and natural language processing resources (today)
+- [vinceau/project-clippi](https://github.com/vinceau/project-clippi) - An automation framework for Super Smash Bros. Melee. Detect an event → execute an action. (today)
 
 ## 🔨 Latest Pull Requests I published
 
