@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [afeimod/winlator-mod](https://github.com/afeimod/winlator-mod) - Android application for running Windows applications with Wine and Box86/Box64 (today)
-- [lchzh3473/sim-phi](https://github.com/lchzh3473/sim-phi) - Simulation of Phigros display with JavaScript Canvas API (today)
-- [jianjianai/ms-copilot-play](https://github.com/jianjianai/ms-copilot-play) - Cloudflare Worker 的 Microsoft Copilot 加速服务。Microsoft Copilot 是基于 OpenAI GPT-4 的强大 AI 并且能够使用 Bing 搜索来解答问题。简单部署即可在国内高速访问原滋原味的 Microsoft Copilot 的几乎全部功能，聊天，笔记本，插件，图像生成，分享等等.. (today)
-- [jianjianai/FList](https://github.com/jianjianai/FList) - 将 GitHub Releases,Hugging Face,文件url等，渲染成类似网盘的文件列表显示在网页上，方便用户下载开源软件。 支持视频、音频、图片、PDF 等文件的在线预览。 (today)
-- [jianjianai/NewBingGoGo-Web](https://github.com/jianjianai/NewBingGoGo-Web) - 一个基于微软OpenAI ChatGPT GPT4的New Bing接口的Web服务。 提供了好看的对话页面。 实现了微软New Bing的大多数功能，还添加了一些自己的特色功能。 开源免费。 (today)
+- [7Sageer/sublink-worker](https://github.com/7Sageer/sublink-worker) - 无需服务器，一键部署，快速使用自建节点分享URL进行订阅转换，提供灵活的自定义选项，支持SingBox/Clash/V2Ray/Xray (today)
+- [exrock/xmind_zen_cracker](https://github.com/exrock/xmind_zen_cracker) - Xmind Zen 破解器 | 去水印、去掉保存时的弹窗、去掉右上角的激活按钮 (today)
+- [xmexg/xyks](https://github.com/xmexg/xyks) - 小猿口算逆向笔记 (已实现纯协议答题模板) (today)
+- [zhontai/Admin.UI](https://github.com/zhontai/Admin.UI) - Admin前端，前后端分离的权限管理系统，集成统一认证授权、多租户、缓存、Ip限流、全Api鉴权。支持国内外主流数据库自由切换和动态高级查询，基于Vue和Element构建的WebUI (today)
+- [zhontai/Admin.Core](https://github.com/zhontai/Admin.Core) - 中台Admin基于 .Net9 和 Vue3 + Element Plus、uniapp + uviewui 开发的前后端分离的权限管理系统。支持多租户、数据权限、动态Api、任务调度、OSS文件上传、滑块拼图验证、国内外主流数据库自由切换和动态高级查询。集成统一认证授权、事件总线、国际化、数据验证、分布式缓存、分布式事务、Ip限流、全Api鉴权、集成测试、性能分析、健康检查、接口文档等。 (today)
 
 ## 🔨 Latest Pull Requests I published
 
