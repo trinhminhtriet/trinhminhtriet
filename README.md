@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [mvo5/synaptic](https://github.com/mvo5/synaptic) - The synaptic package manager (today)
-- [mvo5/unattended-upgrades](https://github.com/mvo5/unattended-upgrades) - Automatic installation of security upgrades on apt based systems (today)
-- [jeroen/resttesttest](https://github.com/jeroen/resttesttest) - A native in-browser tool for testing REST/CORS services. Builds on jQuery and Bootstrap. (today)
-- [jeroen/V8](https://github.com/jeroen/V8) - Embedded JavaScript Engine for R (today)
-- [jeroen/curl](https://github.com/jeroen/curl) - A Modern and Flexible Web Client for R (today)
+- [DavisVaughan/extrachecks](https://github.com/DavisVaughan/extrachecks) (today)
+- [joshjohanning/github-misc-scripts](https://github.com/joshjohanning/github-misc-scripts) - GitHub script samples for automation (today)
+- [haugene/vpn-configs-contrib](https://github.com/haugene/vpn-configs-contrib) - A collection of configs for various VPN providers (today)
+- [haugene/docker-transmission-openvpn](https://github.com/haugene/docker-transmission-openvpn) - Docker container running Transmission torrent client with WebUI over an OpenVPN tunnel (today)
+- [martinpitt/fatrace](https://github.com/martinpitt/fatrace) - report system wide file access events (today)
 
 ## 🔨 Latest Pull Requests I published
 
