@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [sleepyfox/coffeescript-koans](https://github.com/sleepyfox/coffeescript-koans) - Koans: learn CoffeeScript by doing it (today)
+- [LivKing/Inclusive-Sans](https://github.com/LivKing/Inclusive-Sans) (today)
+- [kmdupr33/RxLoader](https://github.com/kmdupr33/RxLoader) - DEPRECATED data loading solution for android to load data with no memory leaks, no boiler-plate, and no method count bloat (today)
 - [pablofierro/react-drag-select](https://github.com/pablofierro/react-drag-select) - Drag select React component (today)
 - [alexgaribay/octoflat](https://github.com/alexgaribay/octoflat) - An Octopress theme based off Twitter Bootstrap v2 and Designmodo's Flat-UI (today)
-- [JMoerman/Go-For-It](https://github.com/JMoerman/Go-For-It) - A stylish to-do list with built-in productivity timer. (today)
-- [davbre/mira](https://github.com/davbre/mira) - Create simple APIs from CSV files (today)
-- [leafsr/gcc-poison](https://github.com/leafsr/gcc-poison) - gcc-poison (today)
 
 ## 🔨 Latest Pull Requests I published
 
