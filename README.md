@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [BEPb](https://github.com/BEPb)
 - [hosseinhezami](https://github.com/hosseinhezami)
 - [ritesh-chauhan0x1](https://github.com/ritesh-chauhan0x1)
 - [GuiCabral99](https://github.com/GuiCabral99)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [DevKaliper](https://github.com/DevKaliper)
 - [christianLuis07](https://github.com/christianLuis07)
 - [EbenezerBaafi](https://github.com/EbenezerBaafi)
-- [nic0q](https://github.com/nic0q)
 
 ## ⭐ Recent stars
 
+- [davydovanton/stop_active_support_anywhere](https://github.com/davydovanton/stop_active_support_anywhere) - Stop use Active Support in not rails related projects (today)
+- [davydovanton/kan](https://github.com/davydovanton/kan) - Simple, functional authorization library and role management for ruby (today)
 - [gdb/rubysh](https://github.com/gdb/rubysh) - Rubysh: Ruby subprocesses made easy (today)
 - [gdb/stripe-prg](https://github.com/gdb/stripe-prg) - Stripe paper reading group materials (today)
 - [gdb/kaggle](https://github.com/gdb/kaggle) - A collection of Kaggle solutions. Not very polished. (today)
-- [sue445/rubicure](https://github.com/sue445/rubicure) - All about Japanese battle heroine "Pretty Cure (Precure)" (today)
-- [sue445/chrome-tanuki-notifier](https://github.com/sue445/chrome-tanuki-notifier) - Notify Gitlab Project events (Commit, Issue, MergeRequest and Milestone) (today)
 
 ## 🔨 Latest Pull Requests I published
 
