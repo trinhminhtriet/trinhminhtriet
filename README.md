@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [timmahrt/praatIO](https://github.com/timmahrt/praatIO) - A python library for working with praat, textgrids, time aligned audio transcripts, and audio files. It is primarily used for extracting features from and making manipulations on audio files given hierarchical time-aligned transcriptions (utterance > word > syllable > phone, etc). (today)
-- [vectorwing/FarmersDelight](https://github.com/vectorwing/FarmersDelight) - A cozy expansion to farming and cooking in Minecraft. (today)
-- [GrakovNe/lissen-android](https://github.com/GrakovNe/lissen-android) - Minimalistic Android client app for Audiobookshelf (today)
-- [razshare/frizzante](https://github.com/razshare/frizzante) - An opinionated web server framework written in Go that uses Svelte to render web pages. (today)
-- [razshare/sveltekit-sse](https://github.com/razshare/sveltekit-sse) - Server Sent Events with SvelteKit (today)
+- [martinjc/UK-GeoJSON](https://github.com/martinjc/UK-GeoJSON) - GeoJSON versions of UK Boundary Data (today)
+- [tsurumeso/waifu2x-chainer](https://github.com/tsurumeso/waifu2x-chainer) - Chainer implementation of waifu2x (today)
+- [tsurumeso/vocal-remover](https://github.com/tsurumeso/vocal-remover) - Vocal Remover using Deep Neural Networks (today)
+- [doug65536/dgos](https://github.com/doug65536/dgos) - Operating System (today)
+- [james1236/backseat.nvim](https://github.com/james1236/backseat.nvim) - A neovim plugin that uses GPT to highlight and explain code readability issues (today)
 
 ## 🔨 Latest Pull Requests I published
 
