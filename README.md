@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [martinjc/UK-GeoJSON](https://github.com/martinjc/UK-GeoJSON) - GeoJSON versions of UK Boundary Data (today)
-- [tsurumeso/waifu2x-chainer](https://github.com/tsurumeso/waifu2x-chainer) - Chainer implementation of waifu2x (today)
-- [tsurumeso/vocal-remover](https://github.com/tsurumeso/vocal-remover) - Vocal Remover using Deep Neural Networks (today)
-- [doug65536/dgos](https://github.com/doug65536/dgos) - Operating System (today)
-- [james1236/backseat.nvim](https://github.com/james1236/backseat.nvim) - A neovim plugin that uses GPT to highlight and explain code readability issues (today)
+- [tsifrer/python-twitch-client](https://github.com/tsifrer/python-twitch-client) - Python wrapper for Twitch API (today)
+- [dparlevliet/node.bittrex.api](https://github.com/dparlevliet/node.bittrex.api) - Node Bittrex API is an asynchronous node.js library for the Bittrex API, the data can be received either via GET request or Stream. (today)
+- [zmecust/learning-manual](https://github.com/zmecust/learning-manual) - 个人学习手册（AI、Web、Quant） (today)
+- [yoshiko-pg/o3-search-mcp](https://github.com/yoshiko-pg/o3-search-mcp) - MCP server for OpenAI o3 web search (today)
+- [yoshiko-pg/difit](https://github.com/yoshiko-pg/difit) - A lightweight command-line tool that spins up a local web server to display Git commit diffs in a GitHub-like Files changed view (today)
 
 ## 🔨 Latest Pull Requests I published
 
