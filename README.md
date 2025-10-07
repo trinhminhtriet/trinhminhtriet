@@ -33,7 +33,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👷 Check out what I'm currently working on
 
-- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (today)
+- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (1 day ago)
 - [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) - 🚀 All-in-one CLI toolkit for developers: scaffold, manage, automate, and boost productivity across languages! (1 week ago)
 - [lamhaison/aws-cli-utils](https://github.com/lamhaison/aws-cli-utils) - This is the project to collect helpful aws cli commandline with complex options to support your working (2 weeks ago)
 - [trinhminhtriet/dwipe](https://github.com/trinhminhtriet/dwipe) - 🧹 Fast, cross-platform disk cleanup tool with interactive UI for easy directory size visualization. (1 month ago)
@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [Nischay-Pro/wifi-heat-mapper](https://github.com/Nischay-Pro/wifi-heat-mapper) - whm also known as wifi-heat-mapper is a Python library for benchmarking Wi-Fi networks and gather useful metrics that can be converted into meaningful easy-to-understand heatmaps. (today)
-- [Captain-P-Goldfish/SCIM-SDK](https://github.com/Captain-P-Goldfish/SCIM-SDK) - a scim implementation as described in RFC7643 and RFC7644 (today)
-- [Captain-P-Goldfish/scim-for-keycloak](https://github.com/Captain-P-Goldfish/scim-for-keycloak) - a third party module that extends keycloak by SCIM functionality (today)
-- [stoerr/GrokConstructor](https://github.com/stoerr/GrokConstructor) - Semi-automatic incremental construction and debugging of regular expressions for grok to parse logfiles for logstash http://logstash.net/ . Deployed at  http://grokconstructor.appspot.com/ .  (today)
-- [markwalkom/kibana-dashboards](https://github.com/markwalkom/kibana-dashboards) - A collection of Kibana 3.X dashboards from the community (today)
+- [Projects-Developer/50-Final-Year-Projects-with-Source-Code](https://github.com/Projects-Developer/50-Final-Year-Projects-with-Source-Code) - Final year projects are a crucial part of a student's academic journey, particularly in the fields of engineering, computer science, and other technical disciplines.50 Final year Projects Includes Source Code, PPT, Synopsis, Report, Documents, Base Research Paper & Video tutorials (today)
+- [pythonagham/track_location](https://github.com/pythonagham/track_location) (today)
+- [jorge-menjivar/unsaged](https://github.com/jorge-menjivar/unsaged) - Open source chat kit engineered for seamless interaction with AI models. (today)
+- [Trevelopment/MZD-AIO](https://github.com/Trevelopment/MZD-AIO) - Desktop app for AIO  (1 day ago)
+- [wilsonyin123/geekbangpython](https://github.com/wilsonyin123/geekbangpython) (1 day ago)
 
 ## 🔨 Latest Pull Requests I published
 
