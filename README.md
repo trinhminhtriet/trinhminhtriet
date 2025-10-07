@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [sandy081/vscode-todotasks](https://github.com/sandy081/vscode-todotasks) - A VS Code extension for todo tasks (today)
-- [sebastianruder/sluice-networks](https://github.com/sebastianruder/sluice-networks) - Code for Sluice networks: Learning what to share between loosely related tasks (today)
-- [sebastianruder/learn-to-select-data](https://github.com/sebastianruder/learn-to-select-data) - Code for Learning to select data for transfer learning with Bayesian Optimization (today)
-- [sebastianruder/NLP-progress](https://github.com/sebastianruder/NLP-progress) - Repository to track the progress in Natural Language Processing (NLP), including the datasets and the current state-of-the-art for the most common NLP tasks. (today)
-- [changjonathanc/flex-nano-vllm](https://github.com/changjonathanc/flex-nano-vllm) - FlexAttention based, minimal vllm-style inference engine for fast Gemma 2 inference. (today)
+- [gdb/rubysh](https://github.com/gdb/rubysh) - Rubysh: Ruby subprocesses made easy (today)
+- [gdb/stripe-prg](https://github.com/gdb/stripe-prg) - Stripe paper reading group materials (today)
+- [gdb/kaggle](https://github.com/gdb/kaggle) - A collection of Kaggle solutions. Not very polished. (today)
+- [sue445/rubicure](https://github.com/sue445/rubicure) - All about Japanese battle heroine "Pretty Cure (Precure)" (today)
+- [sue445/chrome-tanuki-notifier](https://github.com/sue445/chrome-tanuki-notifier) - Notify Gitlab Project events (Commit, Issue, MergeRequest and Milestone) (today)
 
 ## 🔨 Latest Pull Requests I published
 
