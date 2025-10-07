@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [sleepyfox/coffeescript-koans](https://github.com/sleepyfox/coffeescript-koans) - Koans: learn CoffeeScript by doing it (today)
-- [LivKing/Inclusive-Sans](https://github.com/LivKing/Inclusive-Sans) (today)
-- [kmdupr33/RxLoader](https://github.com/kmdupr33/RxLoader) - DEPRECATED data loading solution for android to load data with no memory leaks, no boiler-plate, and no method count bloat (today)
-- [pablofierro/react-drag-select](https://github.com/pablofierro/react-drag-select) - Drag select React component (today)
-- [alexgaribay/octoflat](https://github.com/alexgaribay/octoflat) - An Octopress theme based off Twitter Bootstrap v2 and Designmodo's Flat-UI (today)
+- [davejacobs/letters](https://github.com/davejacobs/letters) - A tiny debugging library for Ruby (today)
+- [twrecked/hass-virtual](https://github.com/twrecked/hass-virtual) - Virtual Components for Home Assistant (today)
+- [twrecked/hass-aarlo](https://github.com/twrecked/hass-aarlo) - Asynchronous Arlo Component for Home Assistant (today)
+- [MrKinau/FishingBot](https://github.com/MrKinau/FishingBot) - 1.8 - 1.21.9 Fishing bot for Minecraft (today)
+- [JulianOliver/dropkick.sh](https://github.com/JulianOliver/dropkick.sh) - Detect and disconnect hidden WiFi cameras in that AirBnB you're staying in (today)
 
 ## 🔨 Latest Pull Requests I published
 
