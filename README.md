@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [ritesh-chauhan0x1](https://github.com/ritesh-chauhan0x1)
 - [GuiCabral99](https://github.com/GuiCabral99)
 - [Pwindy2611](https://github.com/Pwindy2611)
 - [Ritvikv2](https://github.com/Ritvikv2)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [EbenezerBaafi](https://github.com/EbenezerBaafi)
 - [nic0q](https://github.com/nic0q)
 - [Murad098](https://github.com/Murad098)
-- [A2020GK](https://github.com/A2020GK)
 
 ## ⭐ Recent stars
 
-- [Projects-Developer/50-Final-Year-Projects-with-Source-Code](https://github.com/Projects-Developer/50-Final-Year-Projects-with-Source-Code) - Final year projects are a crucial part of a student's academic journey, particularly in the fields of engineering, computer science, and other technical disciplines.50 Final year Projects Includes Source Code, PPT, Synopsis, Report, Documents, Base Research Paper & Video tutorials (today)
-- [pythonagham/track_location](https://github.com/pythonagham/track_location) (today)
-- [jorge-menjivar/unsaged](https://github.com/jorge-menjivar/unsaged) - Open source chat kit engineered for seamless interaction with AI models. (today)
-- [Trevelopment/MZD-AIO](https://github.com/Trevelopment/MZD-AIO) - Desktop app for AIO  (1 day ago)
-- [wilsonyin123/geekbangpython](https://github.com/wilsonyin123/geekbangpython) (1 day ago)
+- [flyandi/react-native-maps-navigation](https://github.com/flyandi/react-native-maps-navigation) - Enables custom navigation in react-native-maps (today)
+- [flyandi/mazda-custom-application-sdk](https://github.com/flyandi/mazda-custom-application-sdk) - A micro framework that allows you to write and deploy custom applications to the Mazda Infotainment System (today)
+- [emomilol1213/Unreal-Diffusion](https://github.com/emomilol1213/Unreal-Diffusion) - Stable Diffusion for Unreal Engine (today)
+- [hitzzc/go-leetcode](https://github.com/hitzzc/go-leetcode) - Golang solution for leetcode (today)
+- [samsonwang/LaunchyQt](https://github.com/samsonwang/LaunchyQt) - :rocket: Launchy project reactivated. Get the familiar feeling now! (today)
 
 ## 🔨 Latest Pull Requests I published
 
