@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [flyandi/react-native-maps-navigation](https://github.com/flyandi/react-native-maps-navigation) - Enables custom navigation in react-native-maps (today)
-- [flyandi/mazda-custom-application-sdk](https://github.com/flyandi/mazda-custom-application-sdk) - A micro framework that allows you to write and deploy custom applications to the Mazda Infotainment System (today)
-- [emomilol1213/Unreal-Diffusion](https://github.com/emomilol1213/Unreal-Diffusion) - Stable Diffusion for Unreal Engine (today)
-- [hitzzc/go-leetcode](https://github.com/hitzzc/go-leetcode) - Golang solution for leetcode (today)
-- [samsonwang/LaunchyQt](https://github.com/samsonwang/LaunchyQt) - :rocket: Launchy project reactivated. Get the familiar feeling now! (today)
+- [sandy081/vscode-todotasks](https://github.com/sandy081/vscode-todotasks) - A VS Code extension for todo tasks (today)
+- [sebastianruder/sluice-networks](https://github.com/sebastianruder/sluice-networks) - Code for Sluice networks: Learning what to share between loosely related tasks (today)
+- [sebastianruder/learn-to-select-data](https://github.com/sebastianruder/learn-to-select-data) - Code for Learning to select data for transfer learning with Bayesian Optimization (today)
+- [sebastianruder/NLP-progress](https://github.com/sebastianruder/NLP-progress) - Repository to track the progress in Natural Language Processing (NLP), including the datasets and the current state-of-the-art for the most common NLP tasks. (today)
+- [changjonathanc/flex-nano-vllm](https://github.com/changjonathanc/flex-nano-vllm) - FlexAttention based, minimal vllm-style inference engine for fast Gemma 2 inference. (today)
 
 ## 🔨 Latest Pull Requests I published
 
