@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [hosseinhezami](https://github.com/hosseinhezami)
 - [ritesh-chauhan0x1](https://github.com/ritesh-chauhan0x1)
 - [GuiCabral99](https://github.com/GuiCabral99)
 - [Pwindy2611](https://github.com/Pwindy2611)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [christianLuis07](https://github.com/christianLuis07)
 - [EbenezerBaafi](https://github.com/EbenezerBaafi)
 - [nic0q](https://github.com/nic0q)
-- [Murad098](https://github.com/Murad098)
 
 ## ⭐ Recent stars
 
