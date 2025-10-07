@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [davydovanton/stop_active_support_anywhere](https://github.com/davydovanton/stop_active_support_anywhere) - Stop use Active Support in not rails related projects (today)
-- [davydovanton/kan](https://github.com/davydovanton/kan) - Simple, functional authorization library and role management for ruby (today)
-- [gdb/rubysh](https://github.com/gdb/rubysh) - Rubysh: Ruby subprocesses made easy (today)
-- [gdb/stripe-prg](https://github.com/gdb/stripe-prg) - Stripe paper reading group materials (today)
-- [gdb/kaggle](https://github.com/gdb/kaggle) - A collection of Kaggle solutions. Not very polished. (today)
+- [mvo5/synaptic](https://github.com/mvo5/synaptic) - The synaptic package manager (today)
+- [mvo5/unattended-upgrades](https://github.com/mvo5/unattended-upgrades) - Automatic installation of security upgrades on apt based systems (today)
+- [jeroen/resttesttest](https://github.com/jeroen/resttesttest) - A native in-browser tool for testing REST/CORS services. Builds on jQuery and Bootstrap. (today)
+- [jeroen/V8](https://github.com/jeroen/V8) - Embedded JavaScript Engine for R (today)
+- [jeroen/curl](https://github.com/jeroen/curl) - A Modern and Flexible Web Client for R (today)
 
 ## 🔨 Latest Pull Requests I published
 
