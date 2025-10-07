@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [zmb3/gogetdoc](https://github.com/zmb3/gogetdoc) - Gets documentation for items in Go source code. (today)
+- [zmb3/spotify](https://github.com/zmb3/spotify) - A Go wrapper for the Spotify Web API (today)
 - [DavisVaughan/extrachecks](https://github.com/DavisVaughan/extrachecks) (today)
 - [joshjohanning/github-misc-scripts](https://github.com/joshjohanning/github-misc-scripts) - GitHub script samples for automation (today)
 - [haugene/vpn-configs-contrib](https://github.com/haugene/vpn-configs-contrib) - A collection of configs for various VPN providers (today)
-- [haugene/docker-transmission-openvpn](https://github.com/haugene/docker-transmission-openvpn) - Docker container running Transmission torrent client with WebUI over an OpenVPN tunnel (today)
-- [martinpitt/fatrace](https://github.com/martinpitt/fatrace) - report system wide file access events (today)
 
 ## 🔨 Latest Pull Requests I published
 
