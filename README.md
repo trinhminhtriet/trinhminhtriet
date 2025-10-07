@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [davejacobs/letters](https://github.com/davejacobs/letters) - A tiny debugging library for Ruby (today)
-- [twrecked/hass-virtual](https://github.com/twrecked/hass-virtual) - Virtual Components for Home Assistant (today)
-- [twrecked/hass-aarlo](https://github.com/twrecked/hass-aarlo) - Asynchronous Arlo Component for Home Assistant (today)
-- [MrKinau/FishingBot](https://github.com/MrKinau/FishingBot) - 1.8 - 1.21.9 Fishing bot for Minecraft (today)
-- [JulianOliver/dropkick.sh](https://github.com/JulianOliver/dropkick.sh) - Detect and disconnect hidden WiFi cameras in that AirBnB you're staying in (today)
+- [timmahrt/praatIO](https://github.com/timmahrt/praatIO) - A python library for working with praat, textgrids, time aligned audio transcripts, and audio files. It is primarily used for extracting features from and making manipulations on audio files given hierarchical time-aligned transcriptions (utterance > word > syllable > phone, etc). (today)
+- [vectorwing/FarmersDelight](https://github.com/vectorwing/FarmersDelight) - A cozy expansion to farming and cooking in Minecraft. (today)
+- [GrakovNe/lissen-android](https://github.com/GrakovNe/lissen-android) - Minimalistic Android client app for Audiobookshelf (today)
+- [razshare/frizzante](https://github.com/razshare/frizzante) - An opinionated web server framework written in Go that uses Svelte to render web pages. (today)
+- [razshare/sveltekit-sse](https://github.com/razshare/sveltekit-sse) - Server Sent Events with SvelteKit (today)
 
 ## 🔨 Latest Pull Requests I published
 
