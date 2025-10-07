@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [tsifrer/python-twitch-client](https://github.com/tsifrer/python-twitch-client) - Python wrapper for Twitch API (today)
-- [dparlevliet/node.bittrex.api](https://github.com/dparlevliet/node.bittrex.api) - Node Bittrex API is an asynchronous node.js library for the Bittrex API, the data can be received either via GET request or Stream. (today)
-- [zmecust/learning-manual](https://github.com/zmecust/learning-manual) - 个人学习手册（AI、Web、Quant） (today)
-- [yoshiko-pg/o3-search-mcp](https://github.com/yoshiko-pg/o3-search-mcp) - MCP server for OpenAI o3 web search (today)
-- [yoshiko-pg/difit](https://github.com/yoshiko-pg/difit) - A lightweight command-line tool that spins up a local web server to display Git commit diffs in a GitHub-like Files changed view (today)
+- [harumas/UGizmo](https://github.com/harumas/UGizmo) - Highly efficient gizmo drawer for Unity (today)
+- [glandium/git-cinnabar](https://github.com/glandium/git-cinnabar) - git remote helper to interact with mercurial repositories (today)
+- [ytanaka-/menthas](https://github.com/ytanaka-/menthas) - Menthas: Curated News Reader For Japanese Programmers (today)
+- [oshizo/JapaneseEmbeddingEval](https://github.com/oshizo/JapaneseEmbeddingEval) (today)
+- [Gaulomatic/AirPodsSanity](https://github.com/Gaulomatic/AirPodsSanity) - Fixes the Sound Quality of AirPods when connected to a Mac. (today)
 
 ## 🔨 Latest Pull Requests I published
 
