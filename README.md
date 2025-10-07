@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [zmb3/gogetdoc](https://github.com/zmb3/gogetdoc) - Gets documentation for items in Go source code. (today)
-- [zmb3/spotify](https://github.com/zmb3/spotify) - A Go wrapper for the Spotify Web API (today)
-- [DavisVaughan/extrachecks](https://github.com/DavisVaughan/extrachecks) (today)
-- [joshjohanning/github-misc-scripts](https://github.com/joshjohanning/github-misc-scripts) - GitHub script samples for automation (today)
-- [haugene/vpn-configs-contrib](https://github.com/haugene/vpn-configs-contrib) - A collection of configs for various VPN providers (today)
+- [leafsr/gcc-poison](https://github.com/leafsr/gcc-poison) - gcc-poison (today)
+- [elvanderb/TCP-32764](https://github.com/elvanderb/TCP-32764) - some codes and notes about the backdoor listening on TCP-32764 in linksys WAG200G. (today)
+- [edipox/wunderlistux](https://github.com/edipox/wunderlistux) - An electron wrapper for wunderlist made with :heart: for Linux (specially for elementary OS) (today)
+- [philadams-zz/habitica](https://github.com/philadams-zz/habitica) - Command-line interface to HabitRPG (today)
+- [jbaines-r7/through_the_wire](https://github.com/jbaines-r7/through_the_wire) - CVE-2022-26134 Proof of Concept (today)
 
 ## 🔨 Latest Pull Requests I published
 
