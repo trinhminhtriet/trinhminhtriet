@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [johnklipi](https://github.com/johnklipi)
 - [BEPb](https://github.com/BEPb)
 - [hosseinhezami](https://github.com/hosseinhezami)
 - [GuiCabral99](https://github.com/GuiCabral99)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [DevKaliper](https://github.com/DevKaliper)
 - [christianLuis07](https://github.com/christianLuis07)
 - [EbenezerBaafi](https://github.com/EbenezerBaafi)
-- [nic0q](https://github.com/nic0q)
 
 ## ⭐ Recent stars
 
-- [mrluc/mex](https://github.com/mrluc/mex) - Readable, side-by-side macro-expansion display for Elixir's interactive shell. (today)
-- [mrluc/peerage](https://github.com/mrluc/peerage) - Easy Elixir clusters, pluggable discovery. DNS-based (Kubernetes, Weave), UDP multicast, others. (today)
-- [bkendzior/cowfiles](https://github.com/bkendzior/cowfiles) - ASCII cowfiles for cowsay (today)
-- [francoisgermain/SpeechDenoisingWithDeepFeatureLosses](https://github.com/francoisgermain/SpeechDenoisingWithDeepFeatureLosses) - Speech Denoising with Deep Feature Losses (today)
-- [syuchan1005/Mili-song-source-codes](https://github.com/syuchan1005/Mili-song-source-codes) (today)
+- [alf/ob-restclient.el](https://github.com/alf/ob-restclient.el) - An org-mode extension to restclient.el (today)
+- [simianhacker/code-by-voice](https://github.com/simianhacker/code-by-voice) - All the support file for my code by voice setup using Dragon Naturally Speaking and DragonFly (today)
+- [nauu/clickhousebook](https://github.com/nauu/clickhousebook) - ClickHouse原理解析与应用实践 (today)
+- [liukelin/canal_mysql_nosql_sync](https://github.com/liukelin/canal_mysql_nosql_sync) - 基于canal 的 mysql 与 redis/memcached/mongodb 的 nosql 数据实时同步方案 案例 demo canal client (today)
+- [jeffcrouse/ofxJSON](https://github.com/jeffcrouse/ofxJSON) - A wrapper for jsoncpp for openFrameworks (today)
 
 ## 🔨 Latest Pull Requests I published
 
