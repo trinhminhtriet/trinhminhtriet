@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [Nebukam/PCGExtendedToolkit](https://github.com/Nebukam/PCGExtendedToolkit) - PCGEx is a free (libre) Unreal 5 plugin that expands PCG capabilities. It offers a variety of high-performance nodes; with an edge for building relational graphs (Freeform, Delaunay, Voronoi, MST etc), advanced pathfinding; and much more. (today)
-- [Nebukam/com.nebukam.orca](https://github.com/Nebukam/com.nebukam.orca) - ORCA / RVO2 Implementation for Unity — Multithreaded using the job system. (today)
-- [raizam/gamedev_libraries](https://github.com/raizam/gamedev_libraries) - A collection of open source c/c++ libraries for gamedev (today)
-- [Sixze/ALS-Refactored](https://github.com/Sixze/ALS-Refactored) - Completely reworked and improved C++ version of Advanced Locomotion System V4. (today)
-- [proepkes/UnityLockstep](https://github.com/proepkes/UnityLockstep) - Deterministic Lockstep with clientside prediction and rollback (today)
+- [ot/ds2i](https://github.com/ot/ds2i) - A library of inverted index data structures (today)
+- [ot/succinct](https://github.com/ot/succinct) - A collection of succinct data structures (today)
+- [anekos/Ank-Pixiv-Tool](https://github.com/anekos/Ank-Pixiv-Tool) -                An extension which supports one-click downloads of illustrations from Pixiv. It's able to choose automatically appropriate file names. It also supports full screen view of large illustrations on medium-sized screens. (today)
+- [richardgv/skippy-xd](https://github.com/richardgv/skippy-xd) - A full-screen Exposé-style standalone task switcher for X11. (today)
+- [jdcook/fresh_cooked_tweens](https://github.com/jdcook/fresh_cooked_tweens) - Tweens for Unreal Engine, with C++ API and Blueprint support (today)
 
 ## 🔨 Latest Pull Requests I published
 
