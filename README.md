@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [alf/ob-restclient.el](https://github.com/alf/ob-restclient.el) - An org-mode extension to restclient.el (today)
-- [simianhacker/code-by-voice](https://github.com/simianhacker/code-by-voice) - All the support file for my code by voice setup using Dragon Naturally Speaking and DragonFly (today)
-- [nauu/clickhousebook](https://github.com/nauu/clickhousebook) - ClickHouse原理解析与应用实践 (today)
-- [liukelin/canal_mysql_nosql_sync](https://github.com/liukelin/canal_mysql_nosql_sync) - 基于canal 的 mysql 与 redis/memcached/mongodb 的 nosql 数据实时同步方案 案例 demo canal client (today)
-- [jeffcrouse/ofxJSON](https://github.com/jeffcrouse/ofxJSON) - A wrapper for jsoncpp for openFrameworks (today)
+- [devvmh/redux-crud-store](https://github.com/devvmh/redux-crud-store) - Store of server-side models for Redux single page applications (today)
+- [BlackwinMin/alfred-gallery](https://github.com/BlackwinMin/alfred-gallery) - Original macOS Alfred actions by Minja. (today)
+- [BlackwinMin/automator-gallery](https://github.com/BlackwinMin/automator-gallery) - Original macOS Automator actions by Minja. (today)
+- [BlackwinMin/keyboard-maestro-gallery](https://github.com/BlackwinMin/keyboard-maestro-gallery) - Original macOS Keyboard Maestro actions by Minja. (today)
+- [BlackwinMin/shortcuts-actions-gallery](https://github.com/BlackwinMin/shortcuts-actions-gallery) - Original Shortcut Actions craft by Minja. (today)
 
 ## 🔨 Latest Pull Requests I published
 
