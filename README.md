@@ -33,7 +33,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👷 Check out what I'm currently working on
 
-- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (2 days ago)
+- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (today)
 - [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) - 🚀 All-in-one CLI toolkit for developers: scaffold, manage, automate, and boost productivity across languages! (2 weeks ago)
 - [lamhaison/aws-cli-utils](https://github.com/lamhaison/aws-cli-utils) - This is the project to collect helpful aws cli commandline with complex options to support your working (3 weeks ago)
 - [trinhminhtriet/dwipe](https://github.com/trinhminhtriet/dwipe) - 🧹 Fast, cross-platform disk cleanup tool with interactive UI for easy directory size visualization. (1 month ago)
@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [vmthang](https://github.com/vmthang)
 - [BEPb](https://github.com/BEPb)
 - [hosseinhezami](https://github.com/hosseinhezami)
 - [GuiCabral99](https://github.com/GuiCabral99)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [DevKaliper](https://github.com/DevKaliper)
 - [christianLuis07](https://github.com/christianLuis07)
 - [EbenezerBaafi](https://github.com/EbenezerBaafi)
-- [nic0q](https://github.com/nic0q)
 
 ## ⭐ Recent stars
 
-- [jkk/eidogo](https://github.com/jkk/eidogo) - Web-based Go app and embeddable SGF viewer (today)
-- [jkk/formative](https://github.com/jkk/formative) - Web forms for Clojure and ClojureScript  - rendering, parsing, and validating (today)
-- [jkk/shinkgs](https://github.com/jkk/shinkgs) - A JavaScript client for the KGS Go Server (today)
-- [MattWilcox/Adaptive-Images](https://github.com/MattWilcox/Adaptive-Images) - Automatically adapts your existing HTML images for mobile devices. No mark-up changes needed. (today)
-- [fwextensions/quick-score](https://github.com/fwextensions/quick-score) - A JavaScript string-scoring and fuzzy-matching library based on the Quicksilver algorithm, designed for smart auto-complete. (today)
+- [ohduran/cookiecutter-react-django](https://github.com/ohduran/cookiecutter-react-django) - From hello world to Heroku deployment, using separated Front and Back Ends (today)
+- [s4w3d0ff/python-poloniex](https://github.com/s4w3d0ff/python-poloniex) - Poloniex API wrapper for Python 2.7 & 3 (today)
+- [ericsomdahl/python-bittrex](https://github.com/ericsomdahl/python-bittrex) - Python bindings for bittrex (today)
+- [arnog/vue-mathlive](https://github.com/arnog/vue-mathlive) - Example of using the Vue wrapper for MathLive math editor (today)
+- [arnog/mathlive](https://github.com/arnog/mathlive) - A web component for easy math input (today)
 
 ## 🔨 Latest Pull Requests I published
 
