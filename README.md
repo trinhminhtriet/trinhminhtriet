@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [mrluc/mex](https://github.com/mrluc/mex) - Readable, side-by-side macro-expansion display for Elixir's interactive shell. (today)
+- [mrluc/peerage](https://github.com/mrluc/peerage) - Easy Elixir clusters, pluggable discovery. DNS-based (Kubernetes, Weave), UDP multicast, others. (today)
+- [bkendzior/cowfiles](https://github.com/bkendzior/cowfiles) - ASCII cowfiles for cowsay (today)
 - [francoisgermain/SpeechDenoisingWithDeepFeatureLosses](https://github.com/francoisgermain/SpeechDenoisingWithDeepFeatureLosses) - Speech Denoising with Deep Feature Losses (today)
 - [syuchan1005/Mili-song-source-codes](https://github.com/syuchan1005/Mili-song-source-codes) (today)
-- [shocker-0x15/VLR](https://github.com/shocker-0x15/VLR) - GPU Monte Carlo Ray Tracing Renderer using NVIDIA OptiX 7 (today)
-- [shocker-0x15/GfxExp](https://github.com/shocker-0x15/GfxExp) - Sandbox for graphics paper implementation (today)
-- [kurokobo/awx-on-k3s](https://github.com/kurokobo/awx-on-k3s) - An example implementation of AWX on single node K3s using AWX Operator, with easy-to-use simplified configuration with ownership of data and passwords. (today)
 
 ## 🔨 Latest Pull Requests I published
 
