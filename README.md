@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [JohnMwendwa](https://github.com/JohnMwendwa)
 - [ishandutta2007](https://github.com/ishandutta2007)
 - [KabeloM13](https://github.com/KabeloM13)
 - [shantunparmar](https://github.com/shantunparmar)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [vmthang](https://github.com/vmthang)
 - [BEPb](https://github.com/BEPb)
 - [hosseinhezami](https://github.com/hosseinhezami)
-- [GuiCabral99](https://github.com/GuiCabral99)
 
 ## ⭐ Recent stars
 
+- [Yyyyshen/HackTechLearning](https://github.com/Yyyyshen/HackTechLearning) - 有需求做攻防对抗，买本书学习下常见技术，例子敲一敲 (today)
+- [phonkee/goexpose](https://github.com/phonkee/goexpose) - Expose shellscripts, postgres queries, redis commands and other as rest server endpoints (today)
+- [clarkehe/Android](https://github.com/clarkehe/Android) - Demo code and document (today)
 - [inetic/libclub](https://github.com/inetic/libclub) - Lightweight Peer-to-Peer networking engine for real time applications (today)
 - [thezbyg/gpick](https://github.com/thezbyg/gpick) - Advanced color picker written in C++ using GTK+ toolkit (today)
-- [deepgrace/monster](https://github.com/deepgrace/monster) - The Art of Template MetaProgramming (TMP) in Modern C++♦️ (today)
-- [donovanhide/eventsource](https://github.com/donovanhide/eventsource) - Server Side Events client and server for Go (today)
-- [tschoonj/xraylib](https://github.com/tschoonj/xraylib) - A library for X-ray matter interaction cross sections for X-ray fluorescence applications (today)
 
 ## 🔨 Latest Pull Requests I published
 
