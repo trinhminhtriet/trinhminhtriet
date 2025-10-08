@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [kaoskorobase/oscpp](https://github.com/kaoskorobase/oscpp) - Lightweight C++ header-only library for processing OpenSoundControl (OSC) packets (today)
-- [mikelbring/tinyissue](https://github.com/mikelbring/tinyissue) - Simple Issue Tracking for Teams (today)
-- [ohduran/cookiecutter-react-django](https://github.com/ohduran/cookiecutter-react-django) - From hello world to Heroku deployment, using separated Front and Back Ends (today)
-- [s4w3d0ff/python-poloniex](https://github.com/s4w3d0ff/python-poloniex) - Poloniex API wrapper for Python 2.7 & 3 (today)
-- [ericsomdahl/python-bittrex](https://github.com/ericsomdahl/python-bittrex) - Python bindings for bittrex (today)
+- [tomsmalley/custom-topre-guide](https://github.com/tomsmalley/custom-topre-guide) - Guidelines for designing a custom Topre keyboard (today)
+- [GEIGEIGEIST/KLOTZ](https://github.com/GEIGEIGEIST/KLOTZ) - KLOTZ is 34 keys column-staggered split keyboard. It uses an encoder and three status LEDs on each side. (today)
+- [GEIGEIGEIST/KLOR](https://github.com/GEIGEIGEIST/KLOR) - KLOR is 36-42 keys column-staggered split keyboard. It supports a per key RGB matrix, encoders, OLED displays, haptic feedback, audio, a Pixart Paw3204 trackball and four different layouts, through brake off parts. (today)
+- [GEIGEIGEIST/TOTEM](https://github.com/GEIGEIGEIST/TOTEM) - TOTEM is a 38 keys column-staggered split keyboard. It meant to be used with a SEEED XIAO BLE or RP2040 (today)
+- [benkay86/nom-tutorial](https://github.com/benkay86/nom-tutorial) - Tutorial for parsing with nom 5. (today)
 
 ## 🔨 Latest Pull Requests I published
 
