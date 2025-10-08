@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [ianli/raphael-sketchpad](https://github.com/ianli/raphael-sketchpad) - A simple drawing editor that you can easily include with your forms (today)
-- [arikwex/infernal-sigil](https://github.com/arikwex/infernal-sigil) (today)
-- [A9T9/Free-OCR-Software](https://github.com/A9T9/Free-OCR-Software) - Free open-source OCR application for the Windows Store - A modern GUI front-end for the Microsoft OCR library. The application also includes support for reading and OCR'ing PDF files. (today)
-- [A9T9/Free-Ocr-Windows-Desktop](https://github.com/A9T9/Free-Ocr-Windows-Desktop) - Free open-source OCR application for the Windows Desktop - A modern GUI front-end for the Tesseract OCR engine. The application also includes support for reading and OCR'ing PDF files. (today)
-- [A9T9/Copyfish](https://github.com/A9T9/Copyfish) - Copy, paste and translate text from images, videos and PDFs with this free Chrome extension (today)
+- [jkk/eidogo](https://github.com/jkk/eidogo) - Web-based Go app and embeddable SGF viewer (today)
+- [jkk/formative](https://github.com/jkk/formative) - Web forms for Clojure and ClojureScript  - rendering, parsing, and validating (today)
+- [jkk/shinkgs](https://github.com/jkk/shinkgs) - A JavaScript client for the KGS Go Server (today)
+- [MattWilcox/Adaptive-Images](https://github.com/MattWilcox/Adaptive-Images) - Automatically adapts your existing HTML images for mobile devices. No mark-up changes needed. (today)
+- [fwextensions/quick-score](https://github.com/fwextensions/quick-score) - A JavaScript string-scoring and fuzzy-matching library based on the Quicksilver algorithm, designed for smart auto-complete. (today)
 
 ## 🔨 Latest Pull Requests I published
 
