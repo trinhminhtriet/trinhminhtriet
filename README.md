@@ -46,6 +46,9 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [ishandutta2007](https://github.com/ishandutta2007)
+- [KabeloM13](https://github.com/KabeloM13)
+- [shantunparmar](https://github.com/shantunparmar)
 - [SmogWMS](https://github.com/SmogWMS)
 - [Redoan-Khandoker01](https://github.com/Redoan-Khandoker01)
 - [webcoderarchitect](https://github.com/webcoderarchitect)
@@ -53,17 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [BEPb](https://github.com/BEPb)
 - [hosseinhezami](https://github.com/hosseinhezami)
 - [GuiCabral99](https://github.com/GuiCabral99)
-- [Pwindy2611](https://github.com/Pwindy2611)
-- [Ritvikv2](https://github.com/Ritvikv2)
-- [fl2on](https://github.com/fl2on)
 
 ## ⭐ Recent stars
 
-- [typicaljoe/taffydb](https://github.com/typicaljoe/taffydb) - TaffyDB - an open source JavaScript Database for your browser (today)
-- [SeungheonOh/pot](https://github.com/SeungheonOh/pot) - These are pixels, but on a terminal (today)
-- [tomsmalley/custom-topre-guide](https://github.com/tomsmalley/custom-topre-guide) - Guidelines for designing a custom Topre keyboard (today)
-- [GEIGEIGEIST/KLOTZ](https://github.com/GEIGEIGEIST/KLOTZ) - KLOTZ is 34 keys column-staggered split keyboard. It uses an encoder and three status LEDs on each side. (today)
-- [GEIGEIGEIST/KLOR](https://github.com/GEIGEIGEIST/KLOR) - KLOR is 36-42 keys column-staggered split keyboard. It supports a per key RGB matrix, encoders, OLED displays, haptic feedback, audio, a Pixart Paw3204 trackball and four different layouts, through brake off parts. (today)
+- [inetic/libclub](https://github.com/inetic/libclub) - Lightweight Peer-to-Peer networking engine for real time applications (today)
+- [thezbyg/gpick](https://github.com/thezbyg/gpick) - Advanced color picker written in C++ using GTK+ toolkit (today)
+- [deepgrace/monster](https://github.com/deepgrace/monster) - The Art of Template MetaProgramming (TMP) in Modern C++♦️ (today)
+- [donovanhide/eventsource](https://github.com/donovanhide/eventsource) - Server Side Events client and server for Go (today)
+- [tschoonj/xraylib](https://github.com/tschoonj/xraylib) - A library for X-ray matter interaction cross sections for X-ray fluorescence applications (today)
 
 ## 🔨 Latest Pull Requests I published
 
