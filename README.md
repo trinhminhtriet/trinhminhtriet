@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
+- [rodion-gudz/Android-Tool](https://github.com/rodion-gudz/Android-Tool) - Program, created to make popular adb and fastboot commands easier to use   (today)
 - [ot/ds2i](https://github.com/ot/ds2i) - A library of inverted index data structures (today)
 - [ot/succinct](https://github.com/ot/succinct) - A collection of succinct data structures (today)
 - [anekos/Ank-Pixiv-Tool](https://github.com/anekos/Ank-Pixiv-Tool) -                An extension which supports one-click downloads of illustrations from Pixiv. It's able to choose automatically appropriate file names. It also supports full screen view of large illustrations on medium-sized screens. (today)
 - [richardgv/skippy-xd](https://github.com/richardgv/skippy-xd) - A full-screen Exposé-style standalone task switcher for X11. (today)
-- [jdcook/fresh_cooked_tweens](https://github.com/jdcook/fresh_cooked_tweens) - Tweens for Unreal Engine, with C++ API and Blueprint support (today)
 
 ## 🔨 Latest Pull Requests I published
 
