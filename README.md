@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [Yyyyshen/HackTechLearning](https://github.com/Yyyyshen/HackTechLearning) - 有需求做攻防对抗，买本书学习下常见技术，例子敲一敲 (today)
-- [phonkee/goexpose](https://github.com/phonkee/goexpose) - Expose shellscripts, postgres queries, redis commands and other as rest server endpoints (today)
-- [clarkehe/Android](https://github.com/clarkehe/Android) - Demo code and document (today)
-- [inetic/libclub](https://github.com/inetic/libclub) - Lightweight Peer-to-Peer networking engine for real time applications (today)
-- [thezbyg/gpick](https://github.com/thezbyg/gpick) - Advanced color picker written in C++ using GTK+ toolkit (today)
+- [Nebukam/PCGExtendedToolkit](https://github.com/Nebukam/PCGExtendedToolkit) - PCGEx is a free (libre) Unreal 5 plugin that expands PCG capabilities. It offers a variety of high-performance nodes; with an edge for building relational graphs (Freeform, Delaunay, Voronoi, MST etc), advanced pathfinding; and much more. (today)
+- [Nebukam/com.nebukam.orca](https://github.com/Nebukam/com.nebukam.orca) - ORCA / RVO2 Implementation for Unity — Multithreaded using the job system. (today)
+- [raizam/gamedev_libraries](https://github.com/raizam/gamedev_libraries) - A collection of open source c/c++ libraries for gamedev (today)
+- [Sixze/ALS-Refactored](https://github.com/Sixze/ALS-Refactored) - Completely reworked and improved C++ version of Advanced Locomotion System V4. (today)
+- [proepkes/UnityLockstep](https://github.com/proepkes/UnityLockstep) - Deterministic Lockstep with clientside prediction and rollback (today)
 
 ## 🔨 Latest Pull Requests I published
 
