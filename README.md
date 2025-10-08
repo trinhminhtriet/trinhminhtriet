@@ -46,7 +46,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
-- [johnklipi](https://github.com/johnklipi)
 - [BEPb](https://github.com/BEPb)
 - [hosseinhezami](https://github.com/hosseinhezami)
 - [GuiCabral99](https://github.com/GuiCabral99)
@@ -56,14 +55,15 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [DevKaliper](https://github.com/DevKaliper)
 - [christianLuis07](https://github.com/christianLuis07)
 - [EbenezerBaafi](https://github.com/EbenezerBaafi)
+- [nic0q](https://github.com/nic0q)
 
 ## ⭐ Recent stars
 
+- [ianli/raphael-sketchpad](https://github.com/ianli/raphael-sketchpad) - A simple drawing editor that you can easily include with your forms (today)
 - [arikwex/infernal-sigil](https://github.com/arikwex/infernal-sigil) (today)
 - [A9T9/Free-OCR-Software](https://github.com/A9T9/Free-OCR-Software) - Free open-source OCR application for the Windows Store - A modern GUI front-end for the Microsoft OCR library. The application also includes support for reading and OCR'ing PDF files. (today)
 - [A9T9/Free-Ocr-Windows-Desktop](https://github.com/A9T9/Free-Ocr-Windows-Desktop) - Free open-source OCR application for the Windows Desktop - A modern GUI front-end for the Tesseract OCR engine. The application also includes support for reading and OCR'ing PDF files. (today)
 - [A9T9/Copyfish](https://github.com/A9T9/Copyfish) - Copy, paste and translate text from images, videos and PDFs with this free Chrome extension (today)
-- [A9T9/RPA](https://github.com/A9T9/RPA) - Ui.Vision Open-Source RPA Software  with Computer Vision, OCR, Anthropic Computer Use/LLM. Selenium IDE  import/export. (today)
 
 ## 🔨 Latest Pull Requests I published
 
