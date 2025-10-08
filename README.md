@@ -59,11 +59,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [devvmh/redux-crud-store](https://github.com/devvmh/redux-crud-store) - Store of server-side models for Redux single page applications (today)
-- [BlackwinMin/alfred-gallery](https://github.com/BlackwinMin/alfred-gallery) - Original macOS Alfred actions by Minja. (today)
-- [BlackwinMin/automator-gallery](https://github.com/BlackwinMin/automator-gallery) - Original macOS Automator actions by Minja. (today)
-- [BlackwinMin/keyboard-maestro-gallery](https://github.com/BlackwinMin/keyboard-maestro-gallery) - Original macOS Keyboard Maestro actions by Minja. (today)
-- [BlackwinMin/shortcuts-actions-gallery](https://github.com/BlackwinMin/shortcuts-actions-gallery) - Original Shortcut Actions craft by Minja. (today)
+- [arikwex/infernal-sigil](https://github.com/arikwex/infernal-sigil) (today)
+- [A9T9/Free-OCR-Software](https://github.com/A9T9/Free-OCR-Software) - Free open-source OCR application for the Windows Store - A modern GUI front-end for the Microsoft OCR library. The application also includes support for reading and OCR'ing PDF files. (today)
+- [A9T9/Free-Ocr-Windows-Desktop](https://github.com/A9T9/Free-Ocr-Windows-Desktop) - Free open-source OCR application for the Windows Desktop - A modern GUI front-end for the Tesseract OCR engine. The application also includes support for reading and OCR'ing PDF files. (today)
+- [A9T9/Copyfish](https://github.com/A9T9/Copyfish) - Copy, paste and translate text from images, videos and PDFs with this free Chrome extension (today)
+- [A9T9/RPA](https://github.com/A9T9/RPA) - Ui.Vision Open-Source RPA Software  with Computer Vision, OCR, Anthropic Computer Use/LLM. Selenium IDE  import/export. (today)
 
 ## 🔨 Latest Pull Requests I published
 
