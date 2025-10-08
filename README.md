@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Redoan-Khandoker01](https://github.com/Redoan-Khandoker01)
+- [webcoderarchitect](https://github.com/webcoderarchitect)
 - [vmthang](https://github.com/vmthang)
 - [BEPb](https://github.com/BEPb)
 - [hosseinhezami](https://github.com/hosseinhezami)
@@ -54,16 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Ritvikv2](https://github.com/Ritvikv2)
 - [fl2on](https://github.com/fl2on)
 - [DevKaliper](https://github.com/DevKaliper)
-- [christianLuis07](https://github.com/christianLuis07)
-- [EbenezerBaafi](https://github.com/EbenezerBaafi)
 
 ## ⭐ Recent stars
 
+- [kaoskorobase/oscpp](https://github.com/kaoskorobase/oscpp) - Lightweight C++ header-only library for processing OpenSoundControl (OSC) packets (today)
+- [mikelbring/tinyissue](https://github.com/mikelbring/tinyissue) - Simple Issue Tracking for Teams (today)
 - [ohduran/cookiecutter-react-django](https://github.com/ohduran/cookiecutter-react-django) - From hello world to Heroku deployment, using separated Front and Back Ends (today)
 - [s4w3d0ff/python-poloniex](https://github.com/s4w3d0ff/python-poloniex) - Poloniex API wrapper for Python 2.7 & 3 (today)
 - [ericsomdahl/python-bittrex](https://github.com/ericsomdahl/python-bittrex) - Python bindings for bittrex (today)
-- [arnog/vue-mathlive](https://github.com/arnog/vue-mathlive) - Example of using the Vue wrapper for MathLive math editor (today)
-- [arnog/mathlive](https://github.com/arnog/mathlive) - A web component for easy math input (today)
 
 ## 🔨 Latest Pull Requests I published
 
