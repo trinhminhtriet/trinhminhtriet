@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [shirshadip](https://github.com/shirshadip)
+- [Mehmet19888](https://github.com/Mehmet19888)
 - [GaroK01](https://github.com/GaroK01)
 - [milad-hub](https://github.com/milad-hub)
 - [MiguelBrav](https://github.com/MiguelBrav)
@@ -54,8 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [MichaelKevv](https://github.com/MichaelKevv)
 - [dhodgson615](https://github.com/dhodgson615)
 - [s15226006340](https://github.com/s15226006340)
-- [emran-binhasan](https://github.com/emran-binhasan)
-- [demiaroace](https://github.com/demiaroace)
 
 ## ⭐ Recent stars
 
