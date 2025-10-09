@@ -46,16 +46,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
-- [ThiruvarankanM](https://github.com/ThiruvarankanM)
-- [ajfm88](https://github.com/ajfm88)
-- [strawberrymilktea0604](https://github.com/strawberrymilktea0604)
-- [jjrh92](https://github.com/jjrh92)
-- [Sh4hYan](https://github.com/Sh4hYan)
-- [Nurio34](https://github.com/Nurio34)
-- [hafiz-muhammad](https://github.com/hafiz-muhammad)
-- [akpdox](https://github.com/akpdox)
-- [TheKnightProtocol](https://github.com/TheKnightProtocol)
-- [haru2503](https://github.com/haru2503)
+- [mikeninerbravog](https://github.com/mikeninerbravog)
+- [Amaan-developpeur](https://github.com/Amaan-developpeur)
+- [Kobra-soft](https://github.com/Kobra-soft)
+- [peterruler](https://github.com/peterruler)
+- [cfrBernard](https://github.com/cfrBernard)
+- [Farid-Karimi](https://github.com/Farid-Karimi)
+- [mnpsnuwan](https://github.com/mnpsnuwan)
+- [JoaoPedroos](https://github.com/JoaoPedroos)
+- [ssabooni](https://github.com/ssabooni)
+- [Neon-099](https://github.com/Neon-099)
 
 ## ⭐ Recent stars
 
