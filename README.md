@@ -46,6 +46,9 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [rezonated](https://github.com/rezonated)
+- [BitRusso](https://github.com/BitRusso)
+- [mndoumghar](https://github.com/mndoumghar)
 - [seehiong](https://github.com/seehiong)
 - [JohnMwendwa](https://github.com/JohnMwendwa)
 - [ishandutta2007](https://github.com/ishandutta2007)
@@ -53,9 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [shantunparmar](https://github.com/shantunparmar)
 - [SmogWMS](https://github.com/SmogWMS)
 - [Redoan-Khandoker01](https://github.com/Redoan-Khandoker01)
-- [webcoderarchitect](https://github.com/webcoderarchitect)
-- [vmthang](https://github.com/vmthang)
-- [BEPb](https://github.com/BEPb)
 
 ## ⭐ Recent stars
 
