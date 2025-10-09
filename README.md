@@ -33,7 +33,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👷 Check out what I'm currently working on
 
-- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (today)
+- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (1 day ago)
 - [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) - 🚀 All-in-one CLI toolkit for developers: scaffold, manage, automate, and boost productivity across languages! (2 weeks ago)
 - [lamhaison/aws-cli-utils](https://github.com/lamhaison/aws-cli-utils) - This is the project to collect helpful aws cli commandline with complex options to support your working (3 weeks ago)
 - [trinhminhtriet/dwipe](https://github.com/trinhminhtriet/dwipe) - 🧹 Fast, cross-platform disk cleanup tool with interactive UI for easy directory size visualization. (1 month ago)
@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [seehiong](https://github.com/seehiong)
 - [JohnMwendwa](https://github.com/JohnMwendwa)
 - [ishandutta2007](https://github.com/ishandutta2007)
 - [KabeloM13](https://github.com/KabeloM13)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [webcoderarchitect](https://github.com/webcoderarchitect)
 - [vmthang](https://github.com/vmthang)
 - [BEPb](https://github.com/BEPb)
-- [hosseinhezami](https://github.com/hosseinhezami)
 
 ## ⭐ Recent stars
 
-- [rodion-gudz/Android-Tool](https://github.com/rodion-gudz/Android-Tool) - Program, created to make popular adb and fastboot commands easier to use   (today)
-- [ot/ds2i](https://github.com/ot/ds2i) - A library of inverted index data structures (today)
-- [ot/succinct](https://github.com/ot/succinct) - A collection of succinct data structures (today)
-- [anekos/Ank-Pixiv-Tool](https://github.com/anekos/Ank-Pixiv-Tool) -                An extension which supports one-click downloads of illustrations from Pixiv. It's able to choose automatically appropriate file names. It also supports full screen view of large illustrations on medium-sized screens. (today)
-- [richardgv/skippy-xd](https://github.com/richardgv/skippy-xd) - A full-screen Exposé-style standalone task switcher for X11. (today)
+- [keithn/vsvimguide](https://github.com/keithn/vsvimguide) - Guide to VsVim and Resharper (today)
+- [CodeBoy722/ViewPager2_Transformers](https://github.com/CodeBoy722/ViewPager2_Transformers) - ViewPager2 transformers and examples for your android projects (today)
+- [Charles-Schleich/WebRTC-in-Rust](https://github.com/Charles-Schleich/WebRTC-in-Rust) - A source code for a working WebRTC project, written in head to toe Rust. (1 day ago)
+- [rodion-gudz/Android-Tool](https://github.com/rodion-gudz/Android-Tool) - Program, created to make popular adb and fastboot commands easier to use   (1 day ago)
+- [ot/ds2i](https://github.com/ot/ds2i) - A library of inverted index data structures (1 day ago)
 
 ## 🔨 Latest Pull Requests I published
 
