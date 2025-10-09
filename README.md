@@ -46,16 +46,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [umogal](https://github.com/umogal)
+- [MeetingUnion](https://github.com/MeetingUnion)
+- [chiemerieokorie](https://github.com/chiemerieokorie)
+- [Aryan-0001](https://github.com/Aryan-0001)
+- [Nandakumar-S-1](https://github.com/Nandakumar-S-1)
 - [LucasleAeon](https://github.com/LucasleAeon)
 - [ronitmevada](https://github.com/ronitmevada)
 - [BEPb](https://github.com/BEPb)
 - [ehsansafari](https://github.com/ehsansafari)
 - [Muhammad-qureshi1](https://github.com/Muhammad-qureshi1)
-- [nadiaputrirah](https://github.com/nadiaputrirah)
-- [VonHumbolt](https://github.com/VonHumbolt)
-- [shirshadip](https://github.com/shirshadip)
-- [Mehmet19888](https://github.com/Mehmet19888)
-- [GaroK01](https://github.com/GaroK01)
 
 ## ⭐ Recent stars
 
