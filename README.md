@@ -46,24 +46,24 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [NazmusSayad](https://github.com/NazmusSayad)
+- [zenjahid](https://github.com/zenjahid)
+- [DoctorSolo](https://github.com/DoctorSolo)
+- [AhmadTigress](https://github.com/AhmadTigress)
+- [MuhammadalaminGidado](https://github.com/MuhammadalaminGidado)
+- [Preferencesoft](https://github.com/Preferencesoft)
 - [remmy300](https://github.com/remmy300)
 - [seanpm2001](https://github.com/seanpm2001)
 - [justice-tieku](https://github.com/justice-tieku)
 - [MatinT-SA](https://github.com/MatinT-SA)
-- [litG-zen](https://github.com/litG-zen)
-- [heracodes123](https://github.com/heracodes123)
-- [JesusArtz](https://github.com/JesusArtz)
-- [mikeninerbravog](https://github.com/mikeninerbravog)
-- [Amaan-developpeur](https://github.com/Amaan-developpeur)
-- [Kobra-soft](https://github.com/Kobra-soft)
 
 ## ⭐ Recent stars
 
+- [AliDbg/IPBAN](https://github.com/AliDbg/IPBAN) - ⚔️🧱🔥🛑IP BAN Block Allow GEOIP country traffic limit server input/output to IP countries with iptables+xt_geoip, auto db-ip update, firewall fail2ban gfw ufw cidr blacklist netfilter rules persistent restrict netaddr xtables linux debian ubuntu apache nginx web server anti hack ddos firewalld ipblocks ipdeny ip ranges MaxMind ipset  (today)
 - [patrickd-/solidity-fuzzing-boilerplate](https://github.com/patrickd-/solidity-fuzzing-boilerplate) - Template repository intended to ease fuzzing components of Solidity projects, especially libraries. (today)
 - [patrickd-/cheatsheet.sol](https://github.com/patrickd-/cheatsheet.sol) - Solidity – Compilable Cheatsheet (today)
 - [dominikbraun/timetrace](https://github.com/dominikbraun/timetrace) - A simple CLI for tracking your working time. (today)
 - [dominikbraun/graph](https://github.com/dominikbraun/graph) - A library for creating generic graph data structures and modifying, analyzing, and visualizing them. (today)
-- [xiaoxu193/PyTeaser](https://github.com/xiaoxu193/PyTeaser) - Summarizes news articles (today)
 
 ## 🔨 Latest Pull Requests I published
 
