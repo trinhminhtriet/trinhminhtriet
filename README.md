@@ -46,24 +46,24 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [nguyenminhtien1411](https://github.com/nguyenminhtien1411)
+- [KaliBlip](https://github.com/KaliBlip)
+- [konradxmalinowski](https://github.com/konradxmalinowski)
+- [DIMFLIX](https://github.com/DIMFLIX)
+- [Zer0-Bug](https://github.com/Zer0-Bug)
+- [nimakian](https://github.com/nimakian)
+- [Ademdayan](https://github.com/Ademdayan)
 - [fawfol](https://github.com/fawfol)
 - [brfnaltny](https://github.com/brfnaltny)
 - [AmirhosseinHonardoust](https://github.com/AmirhosseinHonardoust)
-- [jeffersongoncalves](https://github.com/jeffersongoncalves)
-- [AriSophDev](https://github.com/AriSophDev)
-- [DevUsuiSama](https://github.com/DevUsuiSama)
-- [Kos-M](https://github.com/Kos-M)
-- [alisharify7](https://github.com/alisharify7)
-- [MoniMcI](https://github.com/MoniMcI)
-- [erdenekhuu-bot](https://github.com/erdenekhuu-bot)
 
 ## ⭐ Recent stars
 
+- [patrickd-/solidity-fuzzing-boilerplate](https://github.com/patrickd-/solidity-fuzzing-boilerplate) - Template repository intended to ease fuzzing components of Solidity projects, especially libraries. (today)
+- [patrickd-/cheatsheet.sol](https://github.com/patrickd-/cheatsheet.sol) - Solidity – Compilable Cheatsheet (today)
 - [dominikbraun/timetrace](https://github.com/dominikbraun/timetrace) - A simple CLI for tracking your working time. (today)
 - [dominikbraun/graph](https://github.com/dominikbraun/graph) - A library for creating generic graph data structures and modifying, analyzing, and visualizing them. (today)
 - [xiaoxu193/PyTeaser](https://github.com/xiaoxu193/PyTeaser) - Summarizes news articles (today)
-- [mingrammer/awesome-finder](https://github.com/mingrammer/awesome-finder) - :sunglasses: Search the awesome curated list without browser (today)
-- [mingrammer/go-todo-rest-api-example](https://github.com/mingrammer/go-todo-rest-api-example) - :books: A RESTful API example for simple todo application with Go (today)
 
 ## 🔨 Latest Pull Requests I published
 
