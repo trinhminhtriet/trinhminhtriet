@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [LucasleAeon](https://github.com/LucasleAeon)
+- [ronitmevada](https://github.com/ronitmevada)
 - [BEPb](https://github.com/BEPb)
 - [ehsansafari](https://github.com/ehsansafari)
 - [Muhammad-qureshi1](https://github.com/Muhammad-qureshi1)
@@ -54,16 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [shirshadip](https://github.com/shirshadip)
 - [Mehmet19888](https://github.com/Mehmet19888)
 - [GaroK01](https://github.com/GaroK01)
-- [milad-hub](https://github.com/milad-hub)
-- [MiguelBrav](https://github.com/MiguelBrav)
 
 ## ⭐ Recent stars
 
-- [1995parham/github-do-not-ban-us](https://github.com/1995parham/github-do-not-ban-us) - GitHub do not ban us from open source world :iran: (today)
-- [sharat87/httpbun](https://github.com/sharat87/httpbun) - An HTTP server with APIs useful in testing HTTP clients. Inspired by httpbin, but isn't a clone. (today)
-- [sharat87/prestige](https://github.com/sharat87/prestige) - A text-based HTTP client in the browser. An interface-less Postman. (today)
-- [inconshreveable/go-tunnel](https://github.com/inconshreveable/go-tunnel) - [DEPRECATED] Tunnel to localhost as a library (today)
-- [inconshreveable/mousetrap](https://github.com/inconshreveable/mousetrap) - Detect starting from Windows explorer (today)
+- [mingrammer/awesome-finder](https://github.com/mingrammer/awesome-finder) - :sunglasses: Search the awesome curated list without browser (today)
+- [mingrammer/go-todo-rest-api-example](https://github.com/mingrammer/go-todo-rest-api-example) - :books: A RESTful API example for simple todo application with Go (today)
+- [mingrammer/commonregex](https://github.com/mingrammer/commonregex) - 🍫 A collection of common regular expressions for Go (today)
+- [mingrammer/git-tips](https://github.com/mingrammer/git-tips) - :books: Git 팁 모음집 (https://github.com/git-tips/tips 한국어 버전) (today)
+- [mingrammer/flog](https://github.com/mingrammer/flog) - :tophat: A fake log generator for common log formats (today)
 
 ## 🔨 Latest Pull Requests I published
 
