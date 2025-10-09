@@ -46,6 +46,9 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [emjjkk](https://github.com/emjjkk)
+- [zimindev](https://github.com/zimindev)
+- [all-an](https://github.com/all-an)
 - [umogal](https://github.com/umogal)
 - [MeetingUnion](https://github.com/MeetingUnion)
 - [chiemerieokorie](https://github.com/chiemerieokorie)
@@ -53,9 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Nandakumar-S-1](https://github.com/Nandakumar-S-1)
 - [LucasleAeon](https://github.com/LucasleAeon)
 - [ronitmevada](https://github.com/ronitmevada)
-- [BEPb](https://github.com/BEPb)
-- [ehsansafari](https://github.com/ehsansafari)
-- [Muhammad-qureshi1](https://github.com/Muhammad-qureshi1)
 
 ## ⭐ Recent stars
 
