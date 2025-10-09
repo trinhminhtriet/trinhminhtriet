@@ -46,24 +46,24 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [BEPb](https://github.com/BEPb)
+- [ehsansafari](https://github.com/ehsansafari)
+- [Muhammad-qureshi1](https://github.com/Muhammad-qureshi1)
+- [nadiaputrirah](https://github.com/nadiaputrirah)
+- [VonHumbolt](https://github.com/VonHumbolt)
 - [shirshadip](https://github.com/shirshadip)
 - [Mehmet19888](https://github.com/Mehmet19888)
 - [GaroK01](https://github.com/GaroK01)
 - [milad-hub](https://github.com/milad-hub)
 - [MiguelBrav](https://github.com/MiguelBrav)
-- [its-prithvi-raj](https://github.com/its-prithvi-raj)
-- [CY83R-3X71NC710N](https://github.com/CY83R-3X71NC710N)
-- [MichaelKevv](https://github.com/MichaelKevv)
-- [dhodgson615](https://github.com/dhodgson615)
-- [s15226006340](https://github.com/s15226006340)
 
 ## ⭐ Recent stars
 
-- [zakaziko99/agnosterzak-ohmyzsh-theme](https://github.com/zakaziko99/agnosterzak-ohmyzsh-theme) - An oh-my-zsh theme based on Powerline Vim & Agnoster theme (today)
-- [ppinard/matplotlib-scalebar](https://github.com/ppinard/matplotlib-scalebar) - Provides a new artist for matplotlib to display a scale bar, aka micron bar. (today)
-- [Ericwyn/electron-lark](https://github.com/Ericwyn/electron-lark) - 使用 electron 封装的网页版飞书 Feishu (原 Lark )客户端, linux 下可用, 提供 ubuntu deb 安装包 (today)
-- [Ericwyn/Auto.js](https://github.com/Ericwyn/Auto.js) - A UiAutomator on android, does not need root access(安卓平台上的JavaScript自动化工具) (today)
-- [mousavian/bootstrap-jalali-datepicker](https://github.com/mousavian/bootstrap-jalali-datepicker) - Twitter Bootstrap Jalali Datepicker (today)
+- [1995parham/github-do-not-ban-us](https://github.com/1995parham/github-do-not-ban-us) - GitHub do not ban us from open source world :iran: (today)
+- [sharat87/httpbun](https://github.com/sharat87/httpbun) - An HTTP server with APIs useful in testing HTTP clients. Inspired by httpbin, but isn't a clone. (today)
+- [sharat87/prestige](https://github.com/sharat87/prestige) - A text-based HTTP client in the browser. An interface-less Postman. (today)
+- [inconshreveable/go-tunnel](https://github.com/inconshreveable/go-tunnel) - [DEPRECATED] Tunnel to localhost as a library (today)
+- [inconshreveable/mousetrap](https://github.com/inconshreveable/mousetrap) - Detect starting from Windows explorer (today)
 
 ## 🔨 Latest Pull Requests I published
 
