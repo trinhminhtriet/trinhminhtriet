@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [MichaelKevv](https://github.com/MichaelKevv)
 - [dhodgson615](https://github.com/dhodgson615)
 - [s15226006340](https://github.com/s15226006340)
 - [emran-binhasan](https://github.com/emran-binhasan)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [mndoumghar](https://github.com/mndoumghar)
 - [seehiong](https://github.com/seehiong)
 - [JohnMwendwa](https://github.com/JohnMwendwa)
-- [ishandutta2007](https://github.com/ishandutta2007)
 
 ## ⭐ Recent stars
 
-- [Texnomic/SecureDNS](https://github.com/Texnomic/SecureDNS) - Secure, Modern, Fully-Featured, All-In-One Cross-Architecture & Cross-Platform DNS Server Using .NET 8.0 (today)
-- [infureal/artisan-gui](https://github.com/infureal/artisan-gui) - Simple but yet powerful library for running almost all artisan commands. (today)
-- [keithn/vsvimguide](https://github.com/keithn/vsvimguide) - Guide to VsVim and Resharper (today)
-- [CodeBoy722/ViewPager2_Transformers](https://github.com/CodeBoy722/ViewPager2_Transformers) - ViewPager2 transformers and examples for your android projects (today)
-- [Charles-Schleich/WebRTC-in-Rust](https://github.com/Charles-Schleich/WebRTC-in-Rust) - A source code for a working WebRTC project, written in head to toe Rust. (1 day ago)
+- [GlassBeaver/CoverSystem](https://github.com/GlassBeaver/CoverSystem) - Real-Time Dynamic Cover System for Unreal Engine 4 (today)
+- [ChristopherHX/mcpelauncher-manifest](https://github.com/ChristopherHX/mcpelauncher-manifest) - EOL use ng, https://github.com/minecraft-linux/mcpelauncher-manifest/tree/ng, This works with 0.12 - 1.16.10.x (excl. beta 1.16.0.67/68), This won't work with the current 1.16.20-200 Versions (today)
+- [ChristopherHX/github-act-runner](https://github.com/ChristopherHX/github-act-runner) - act as self-hosted runner (today)
+- [odygrd/quill](https://github.com/odygrd/quill) - Asynchronous Low Latency C++ Logging Library (today)
+- [bootmortis/iran-hosted-domains](https://github.com/bootmortis/iran-hosted-domains) - "Iran Hosted Domains" is a comprehensive list of Iranian domains and services that are hosted within the country. (today)
 
 ## 🔨 Latest Pull Requests I published
 
