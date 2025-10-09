@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [MoniMcI](https://github.com/MoniMcI)
+- [erdenekhuu-bot](https://github.com/erdenekhuu-bot)
 - [emjjkk](https://github.com/emjjkk)
 - [zimindev](https://github.com/zimindev)
 - [all-an](https://github.com/all-an)
@@ -54,16 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [chiemerieokorie](https://github.com/chiemerieokorie)
 - [Aryan-0001](https://github.com/Aryan-0001)
 - [Nandakumar-S-1](https://github.com/Nandakumar-S-1)
-- [LucasleAeon](https://github.com/LucasleAeon)
-- [ronitmevada](https://github.com/ronitmevada)
 
 ## ⭐ Recent stars
 
+- [dominikbraun/timetrace](https://github.com/dominikbraun/timetrace) - A simple CLI for tracking your working time. (today)
+- [dominikbraun/graph](https://github.com/dominikbraun/graph) - A library for creating generic graph data structures and modifying, analyzing, and visualizing them. (today)
+- [xiaoxu193/PyTeaser](https://github.com/xiaoxu193/PyTeaser) - Summarizes news articles (today)
 - [mingrammer/awesome-finder](https://github.com/mingrammer/awesome-finder) - :sunglasses: Search the awesome curated list without browser (today)
 - [mingrammer/go-todo-rest-api-example](https://github.com/mingrammer/go-todo-rest-api-example) - :books: A RESTful API example for simple todo application with Go (today)
-- [mingrammer/commonregex](https://github.com/mingrammer/commonregex) - 🍫 A collection of common regular expressions for Go (today)
-- [mingrammer/git-tips](https://github.com/mingrammer/git-tips) - :books: Git 팁 모음집 (https://github.com/git-tips/tips 한국어 버전) (today)
-- [mingrammer/flog](https://github.com/mingrammer/flog) - :tophat: A fake log generator for common log formats (today)
 
 ## 🔨 Latest Pull Requests I published
 
