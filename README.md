@@ -46,24 +46,24 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [GaroK01](https://github.com/GaroK01)
+- [milad-hub](https://github.com/milad-hub)
+- [MiguelBrav](https://github.com/MiguelBrav)
+- [its-prithvi-raj](https://github.com/its-prithvi-raj)
+- [CY83R-3X71NC710N](https://github.com/CY83R-3X71NC710N)
 - [MichaelKevv](https://github.com/MichaelKevv)
 - [dhodgson615](https://github.com/dhodgson615)
 - [s15226006340](https://github.com/s15226006340)
 - [emran-binhasan](https://github.com/emran-binhasan)
 - [demiaroace](https://github.com/demiaroace)
-- [ledgerwave](https://github.com/ledgerwave)
-- [BitRusso](https://github.com/BitRusso)
-- [mndoumghar](https://github.com/mndoumghar)
-- [seehiong](https://github.com/seehiong)
-- [JohnMwendwa](https://github.com/JohnMwendwa)
 
 ## ⭐ Recent stars
 
-- [GlassBeaver/CoverSystem](https://github.com/GlassBeaver/CoverSystem) - Real-Time Dynamic Cover System for Unreal Engine 4 (today)
-- [ChristopherHX/mcpelauncher-manifest](https://github.com/ChristopherHX/mcpelauncher-manifest) - EOL use ng, https://github.com/minecraft-linux/mcpelauncher-manifest/tree/ng, This works with 0.12 - 1.16.10.x (excl. beta 1.16.0.67/68), This won't work with the current 1.16.20-200 Versions (today)
-- [ChristopherHX/github-act-runner](https://github.com/ChristopherHX/github-act-runner) - act as self-hosted runner (today)
-- [odygrd/quill](https://github.com/odygrd/quill) - Asynchronous Low Latency C++ Logging Library (today)
-- [bootmortis/iran-hosted-domains](https://github.com/bootmortis/iran-hosted-domains) - "Iran Hosted Domains" is a comprehensive list of Iranian domains and services that are hosted within the country. (today)
+- [zakaziko99/agnosterzak-ohmyzsh-theme](https://github.com/zakaziko99/agnosterzak-ohmyzsh-theme) - An oh-my-zsh theme based on Powerline Vim & Agnoster theme (today)
+- [ppinard/matplotlib-scalebar](https://github.com/ppinard/matplotlib-scalebar) - Provides a new artist for matplotlib to display a scale bar, aka micron bar. (today)
+- [Ericwyn/electron-lark](https://github.com/Ericwyn/electron-lark) - 使用 electron 封装的网页版飞书 Feishu (原 Lark )客户端, linux 下可用, 提供 ubuntu deb 安装包 (today)
+- [Ericwyn/Auto.js](https://github.com/Ericwyn/Auto.js) - A UiAutomator on android, does not need root access(安卓平台上的JavaScript自动化工具) (today)
+- [mousavian/bootstrap-jalali-datepicker](https://github.com/mousavian/bootstrap-jalali-datepicker) - Twitter Bootstrap Jalali Datepicker (today)
 
 ## 🔨 Latest Pull Requests I published
 
