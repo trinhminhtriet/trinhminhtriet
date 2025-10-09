@@ -46,24 +46,24 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
-- [rezonated](https://github.com/rezonated)
+- [dhodgson615](https://github.com/dhodgson615)
+- [s15226006340](https://github.com/s15226006340)
+- [emran-binhasan](https://github.com/emran-binhasan)
+- [demiaroace](https://github.com/demiaroace)
+- [ledgerwave](https://github.com/ledgerwave)
 - [BitRusso](https://github.com/BitRusso)
 - [mndoumghar](https://github.com/mndoumghar)
 - [seehiong](https://github.com/seehiong)
 - [JohnMwendwa](https://github.com/JohnMwendwa)
 - [ishandutta2007](https://github.com/ishandutta2007)
-- [KabeloM13](https://github.com/KabeloM13)
-- [shantunparmar](https://github.com/shantunparmar)
-- [SmogWMS](https://github.com/SmogWMS)
-- [Redoan-Khandoker01](https://github.com/Redoan-Khandoker01)
 
 ## ⭐ Recent stars
 
+- [Texnomic/SecureDNS](https://github.com/Texnomic/SecureDNS) - Secure, Modern, Fully-Featured, All-In-One Cross-Architecture & Cross-Platform DNS Server Using .NET 8.0 (today)
+- [infureal/artisan-gui](https://github.com/infureal/artisan-gui) - Simple but yet powerful library for running almost all artisan commands. (today)
 - [keithn/vsvimguide](https://github.com/keithn/vsvimguide) - Guide to VsVim and Resharper (today)
 - [CodeBoy722/ViewPager2_Transformers](https://github.com/CodeBoy722/ViewPager2_Transformers) - ViewPager2 transformers and examples for your android projects (today)
 - [Charles-Schleich/WebRTC-in-Rust](https://github.com/Charles-Schleich/WebRTC-in-Rust) - A source code for a working WebRTC project, written in head to toe Rust. (1 day ago)
-- [rodion-gudz/Android-Tool](https://github.com/rodion-gudz/Android-Tool) - Program, created to make popular adb and fastboot commands easier to use   (1 day ago)
-- [ot/ds2i](https://github.com/ot/ds2i) - A library of inverted index data structures (1 day ago)
 
 ## 🔨 Latest Pull Requests I published
 
