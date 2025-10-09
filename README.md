@@ -46,16 +46,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [remmy300](https://github.com/remmy300)
+- [seanpm2001](https://github.com/seanpm2001)
+- [justice-tieku](https://github.com/justice-tieku)
+- [MatinT-SA](https://github.com/MatinT-SA)
+- [litG-zen](https://github.com/litG-zen)
+- [heracodes123](https://github.com/heracodes123)
+- [JesusArtz](https://github.com/JesusArtz)
 - [mikeninerbravog](https://github.com/mikeninerbravog)
 - [Amaan-developpeur](https://github.com/Amaan-developpeur)
 - [Kobra-soft](https://github.com/Kobra-soft)
-- [peterruler](https://github.com/peterruler)
-- [cfrBernard](https://github.com/cfrBernard)
-- [Farid-Karimi](https://github.com/Farid-Karimi)
-- [mnpsnuwan](https://github.com/mnpsnuwan)
-- [JoaoPedroos](https://github.com/JoaoPedroos)
-- [ssabooni](https://github.com/ssabooni)
-- [Neon-099](https://github.com/Neon-099)
 
 ## ⭐ Recent stars
 
