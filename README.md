@@ -46,16 +46,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
-- [tinteddreams](https://github.com/tinteddreams)
-- [Ashotkaa](https://github.com/Ashotkaa)
-- [khalid21456](https://github.com/khalid21456)
-- [NazmusSayad](https://github.com/NazmusSayad)
-- [zenjahid](https://github.com/zenjahid)
-- [DoctorSolo](https://github.com/DoctorSolo)
-- [AhmadTigress](https://github.com/AhmadTigress)
-- [MuhammadalaminGidado](https://github.com/MuhammadalaminGidado)
-- [Preferencesoft](https://github.com/Preferencesoft)
-- [remmy300](https://github.com/remmy300)
+- [mi8bi](https://github.com/mi8bi)
+- [LongLiveBarakat](https://github.com/LongLiveBarakat)
+- [civelekemirhan](https://github.com/civelekemirhan)
+- [ana-rangel-mattos](https://github.com/ana-rangel-mattos)
+- [chrismitsdev](https://github.com/chrismitsdev)
+- [NamesMT](https://github.com/NamesMT)
+- [ProphetRu](https://github.com/ProphetRu)
+- [samueltuoyo15](https://github.com/samueltuoyo15)
+- [buzz8year](https://github.com/buzz8year)
+- [chronos-auto](https://github.com/chronos-auto)
 
 ## ⭐ Recent stars
 
