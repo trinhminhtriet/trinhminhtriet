@@ -46,24 +46,24 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
-- [hpdony5-create](https://github.com/hpdony5-create)
-- [esrafil418](https://github.com/esrafil418)
-- [netor0x86](https://github.com/netor0x86)
-- [maberg965-ui](https://github.com/maberg965-ui)
-- [stevsharp](https://github.com/stevsharp)
-- [zacktam12](https://github.com/zacktam12)
-- [ArtificialXDev](https://github.com/ArtificialXDev)
-- [LiliaKhazieva](https://github.com/LiliaKhazieva)
-- [FabianIMV](https://github.com/FabianIMV)
-- [infinotiver](https://github.com/infinotiver)
+- [xeyraneminli-lang](https://github.com/xeyraneminli-lang)
+- [brilliantstory2](https://github.com/brilliantstory2)
+- [DhananjaiArya](https://github.com/DhananjaiArya)
+- [ahmed-h1ndy](https://github.com/ahmed-h1ndy)
+- [sjapanjots](https://github.com/sjapanjots)
+- [mehedihasanrabbivip](https://github.com/mehedihasanrabbivip)
+- [a-partovii](https://github.com/a-partovii)
+- [god-s-only](https://github.com/god-s-only)
+- [artisanmuhammadali](https://github.com/artisanmuhammadali)
+- [agha-naveed](https://github.com/agha-naveed)
 
 ## ⭐ Recent stars
 
-- [bernaferrari/SDKMonitor](https://github.com/bernaferrari/SDKMonitor) - App to display and monitor the targetSDK from installed apps. (today)
-- [bernaferrari/color-studio](https://github.com/bernaferrari/color-studio) - It is too hard to build coherent and accessible themes with the right colors. This should help. (today)
-- [bernaferrari/EmojiSlider](https://github.com/bernaferrari/EmojiSlider) - 🤯 A slider widget rich in emoji and highly customisable. (today)
-- [bernaferrari/ChangeDetection](https://github.com/bernaferrari/ChangeDetection) - Change Detection - Automatically track websites changes on Android in background. (today)
-- [bernaferrari/GradleKotlinConverter](https://github.com/bernaferrari/GradleKotlinConverter) - Convert from Groovy to Kotlin DSL for Gradle, focused on Android. (today)
+- [trentm/node-dashdash](https://github.com/trentm/node-dashdash) - A light, featureful and explicit option parsing library for node.js. (today)
+- [trentm/django-markdown-deux](https://github.com/trentm/django-markdown-deux) - A django app that provides Markdown-related template tags using the python-markdown2 library. (today)
+- [trentm/json](https://github.com/trentm/json) - A "json" command for massaging JSON on your Unix command line. (today)
+- [trentm/python-markdown2](https://github.com/trentm/python-markdown2) - markdown2: A fast and complete implementation of Markdown in Python (today)
+- [trentm/node-bunyan](https://github.com/trentm/node-bunyan) - a simple and fast JSON logging module for node.js services (today)
 
 ## 🔨 Latest Pull Requests I published
 
