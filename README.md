@@ -46,24 +46,24 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
-- [MuzammilMulla04](https://github.com/MuzammilMulla04)
-- [mauricegift](https://github.com/mauricegift)
-- [zindade](https://github.com/zindade)
-- [Abobkeryw](https://github.com/Abobkeryw)
-- [Kurama-90](https://github.com/Kurama-90)
-- [mutithegreat](https://github.com/mutithegreat)
-- [Agsterr](https://github.com/Agsterr)
-- [FleachPeach](https://github.com/FleachPeach)
-- [et761796-wq](https://github.com/et761796-wq)
-- [Jaolmos](https://github.com/Jaolmos)
+- [zehraseren](https://github.com/zehraseren)
+- [KrhystFerrari](https://github.com/KrhystFerrari)
+- [dstudnicki](https://github.com/dstudnicki)
+- [kitarabudju4-prog](https://github.com/kitarabudju4-prog)
+- [chrdek](https://github.com/chrdek)
+- [luigicfilho](https://github.com/luigicfilho)
+- [GuilhermeSerafim](https://github.com/GuilhermeSerafim)
+- [synCodx](https://github.com/synCodx)
+- [mrDav90](https://github.com/mrDav90)
+- [Pfrommer1982](https://github.com/Pfrommer1982)
 
 ## ⭐ Recent stars
 
-- [1-Sisyphe/youCanCodeAGif](https://github.com/1-Sisyphe/youCanCodeAGif) - Can you make an High Quality Gif from A to Z only by coding? Yes. Do you want to, though? (today)
-- [michalochman/react-pixi-fiber](https://github.com/michalochman/react-pixi-fiber) - Write PixiJS applications using React declarative style. (today)
-- [Izzimach/react-pixi](https://github.com/Izzimach/react-pixi) - Create/control a Pixi.js canvas using React (today)
-- [Izzimach/react-three-legacy](https://github.com/Izzimach/react-three-legacy) - React bindings to create and control a 3D scene using three.js (today)
-- [tjackiw/obscenity](https://github.com/tjackiw/obscenity) - Obscenity is a profanity filter gem for Ruby/Rubinius, Rails (through ActiveModel), and Rack middleware. (today)
+- [tehpsalmist/ng-tailwindcss](https://github.com/tehpsalmist/ng-tailwindcss) - A CLI tool for integrating Tailwind CSS into Angular-CLI projects (today)
+- [tsivinsky/hi-mom](https://github.com/tsivinsky/hi-mom) - Say hi to your mom BLAZINGLY FAST (today)
+- [jrean/laravel-user-verification](https://github.com/jrean/laravel-user-verification) - PHP package built for Laravel to easily handle a user email verification and validate the email (today)
+- [andywang0607/AutoAnnotationTool](https://github.com/andywang0607/AutoAnnotationTool) - A label tool aim to reduce semantic segmentation label time, rectangle and polygon annotation is supported (today)
+- [xissburg/CAAnimationBlocks](https://github.com/xissburg/CAAnimationBlocks) - Category which allows the usage of start and completion blocks in CAAnimation instances, instead of a delegate (today)
 
 ## 🔨 Latest Pull Requests I published
 
