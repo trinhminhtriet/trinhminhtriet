@@ -46,24 +46,24 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
-- [conrado-garcia-studies](https://github.com/conrado-garcia-studies)
-- [FelipeAlmeida010](https://github.com/FelipeAlmeida010)
-- [LazarShockX](https://github.com/LazarShockX)
-- [NJul](https://github.com/NJul)
-- [ben854719](https://github.com/ben854719)
-- [straywriter](https://github.com/straywriter)
-- [phamtungtuyhoafu](https://github.com/phamtungtuyhoafu)
-- [HeannaReis](https://github.com/HeannaReis)
-- [Kraptukrait](https://github.com/Kraptukrait)
-- [calebephrem](https://github.com/calebephrem)
+- [grajrb](https://github.com/grajrb)
+- [Abdellahsyani](https://github.com/Abdellahsyani)
+- [mikebuzzer](https://github.com/mikebuzzer)
+- [NovaNoodle7](https://github.com/NovaNoodle7)
+- [kiranShamsHere](https://github.com/kiranShamsHere)
+- [gabriersdev](https://github.com/gabriersdev)
+- [ALX-13](https://github.com/ALX-13)
+- [JOYBOYNlKA](https://github.com/JOYBOYNlKA)
+- [neelam682](https://github.com/neelam682)
+- [cuiyixin555](https://github.com/cuiyixin555)
 
 ## ⭐ Recent stars
 
+- [teepluss/laravel-theme](https://github.com/teepluss/laravel-theme) - Theme and asset managing for laravel (today)
 - [orbeon/orbeon-forms](https://github.com/orbeon/orbeon-forms) - Orbeon Forms is an open source web forms solution. It includes an XForms engine, the Form Builder web-based form editor, and the Form Runner runtime. (today)
 - [wkf/hawk](https://github.com/wkf/hawk) - Clojure file and directory watcher using the JDK 7 java.nio.file.WatchService and Barbary WatchService (today)
 - [tehpsalmist/ng-tailwindcss](https://github.com/tehpsalmist/ng-tailwindcss) - A CLI tool for integrating Tailwind CSS into Angular-CLI projects (today)
 - [tsivinsky/hi-mom](https://github.com/tsivinsky/hi-mom) - Say hi to your mom BLAZINGLY FAST (today)
-- [jrean/laravel-user-verification](https://github.com/jrean/laravel-user-verification) - PHP package built for Laravel to easily handle a user email verification and validate the email (today)
 
 ## 🔨 Latest Pull Requests I published
 
