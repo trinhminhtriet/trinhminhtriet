@@ -46,24 +46,24 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
-- [AntonKochurka](https://github.com/AntonKochurka)
-- [ahshiri834](https://github.com/ahshiri834)
-- [Ryuta-prog](https://github.com/Ryuta-prog)
-- [SVENTRIPIKAL](https://github.com/SVENTRIPIKAL)
-- [Gabrieliam42](https://github.com/Gabrieliam42)
-- [LocalScientist](https://github.com/LocalScientist)
-- [MiladJoodi](https://github.com/MiladJoodi)
-- [MaDrCloudDev](https://github.com/MaDrCloudDev)
-- [xeyraneminli-lang](https://github.com/xeyraneminli-lang)
-- [brilliantstory2](https://github.com/brilliantstory2)
+- [MuzammilMulla04](https://github.com/MuzammilMulla04)
+- [mauricegift](https://github.com/mauricegift)
+- [zindade](https://github.com/zindade)
+- [Abobkeryw](https://github.com/Abobkeryw)
+- [Kurama-90](https://github.com/Kurama-90)
+- [mutithegreat](https://github.com/mutithegreat)
+- [Agsterr](https://github.com/Agsterr)
+- [FleachPeach](https://github.com/FleachPeach)
+- [et761796-wq](https://github.com/et761796-wq)
+- [Jaolmos](https://github.com/Jaolmos)
 
 ## ⭐ Recent stars
 
-- [anthraxx/intellij-awesome-console](https://github.com/anthraxx/intellij-awesome-console) - IntelliJ IDEA plugin: awesome console finally makes links in your console at least 200% more awesome! (today)
-- [anthraxx/linux-hardened](https://github.com/anthraxx/linux-hardened) - Minimal supplement to upstream Kernel Self Protection Project changes. Features already provided by SELinux + Yama and archs other than multiarch arm64 / x86_64 aren't in scope. Only tags have stable history. Shared IRC channel with KSPP: irc.libera.chat #linux-hardening (today)
-- [JayBizzle/Laravel-Crawler-Detect](https://github.com/JayBizzle/Laravel-Crawler-Detect) - A Laravel wrapper for CrawlerDetect - the web crawler detection library (today)
-- [JayBizzle/Crawler-Detect](https://github.com/JayBizzle/Crawler-Detect) - 🕷 CrawlerDetect is a PHP class for detecting bots/crawlers/spiders via the user agent (today)
-- [adamwathan/tailwind-take-home-project](https://github.com/adamwathan/tailwind-take-home-project) (today)
+- [1-Sisyphe/youCanCodeAGif](https://github.com/1-Sisyphe/youCanCodeAGif) - Can you make an High Quality Gif from A to Z only by coding? Yes. Do you want to, though? (today)
+- [michalochman/react-pixi-fiber](https://github.com/michalochman/react-pixi-fiber) - Write PixiJS applications using React declarative style. (today)
+- [Izzimach/react-pixi](https://github.com/Izzimach/react-pixi) - Create/control a Pixi.js canvas using React (today)
+- [Izzimach/react-three-legacy](https://github.com/Izzimach/react-three-legacy) - React bindings to create and control a 3D scene using three.js (today)
+- [tjackiw/obscenity](https://github.com/tjackiw/obscenity) - Obscenity is a profanity filter gem for Ruby/Rubinius, Rails (through ActiveModel), and Rack middleware. (today)
 
 ## 🔨 Latest Pull Requests I published
 
