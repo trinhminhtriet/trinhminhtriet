@@ -46,24 +46,24 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
-- [CodeByPinar](https://github.com/CodeByPinar)
-- [shahramsamar](https://github.com/shahramsamar)
-- [janbu12](https://github.com/janbu12)
-- [LuisPiquinRey](https://github.com/LuisPiquinRey)
-- [mig1023](https://github.com/mig1023)
-- [koesan](https://github.com/koesan)
-- [turtle94720-stack](https://github.com/turtle94720-stack)
-- [AlekseyBykov](https://github.com/AlekseyBykov)
-- [roytastic](https://github.com/roytastic)
-- [badwolfunit](https://github.com/badwolfunit)
+- [hpdony5-create](https://github.com/hpdony5-create)
+- [esrafil418](https://github.com/esrafil418)
+- [netor0x86](https://github.com/netor0x86)
+- [maberg965-ui](https://github.com/maberg965-ui)
+- [stevsharp](https://github.com/stevsharp)
+- [zacktam12](https://github.com/zacktam12)
+- [ArtificialXDev](https://github.com/ArtificialXDev)
+- [LiliaKhazieva](https://github.com/LiliaKhazieva)
+- [FabianIMV](https://github.com/FabianIMV)
+- [infinotiver](https://github.com/infinotiver)
 
 ## ⭐ Recent stars
 
-- [timolins/hyperlayout](https://github.com/timolins/hyperlayout) - 📐 Layout presets for Hyper.app (today)
-- [timolins/timo-sh](https://github.com/timolins/timo-sh) - My personal website (today)
-- [timolins/react-hot-toast](https://github.com/timolins/react-hot-toast) - Smoking Hot React Notifications 🔥  (today)
-- [RobinMalfait/lazy-collections](https://github.com/RobinMalfait/lazy-collections) - Collection of fast and lazy operations (today)
-- [dbuezas/arduino-web-oscilloscope](https://github.com/dbuezas/arduino-web-oscilloscope) (today)
+- [bernaferrari/SDKMonitor](https://github.com/bernaferrari/SDKMonitor) - App to display and monitor the targetSDK from installed apps. (today)
+- [bernaferrari/color-studio](https://github.com/bernaferrari/color-studio) - It is too hard to build coherent and accessible themes with the right colors. This should help. (today)
+- [bernaferrari/EmojiSlider](https://github.com/bernaferrari/EmojiSlider) - 🤯 A slider widget rich in emoji and highly customisable. (today)
+- [bernaferrari/ChangeDetection](https://github.com/bernaferrari/ChangeDetection) - Change Detection - Automatically track websites changes on Android in background. (today)
+- [bernaferrari/GradleKotlinConverter](https://github.com/bernaferrari/GradleKotlinConverter) - Convert from Groovy to Kotlin DSL for Gradle, focused on Android. (today)
 
 ## 🔨 Latest Pull Requests I published
 
