@@ -46,24 +46,24 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [AntonKochurka](https://github.com/AntonKochurka)
+- [ahshiri834](https://github.com/ahshiri834)
+- [Ryuta-prog](https://github.com/Ryuta-prog)
+- [SVENTRIPIKAL](https://github.com/SVENTRIPIKAL)
+- [Gabrieliam42](https://github.com/Gabrieliam42)
+- [LocalScientist](https://github.com/LocalScientist)
+- [MiladJoodi](https://github.com/MiladJoodi)
+- [MaDrCloudDev](https://github.com/MaDrCloudDev)
 - [xeyraneminli-lang](https://github.com/xeyraneminli-lang)
 - [brilliantstory2](https://github.com/brilliantstory2)
-- [DhananjaiArya](https://github.com/DhananjaiArya)
-- [ahmed-h1ndy](https://github.com/ahmed-h1ndy)
-- [sjapanjots](https://github.com/sjapanjots)
-- [mehedihasanrabbivip](https://github.com/mehedihasanrabbivip)
-- [a-partovii](https://github.com/a-partovii)
-- [god-s-only](https://github.com/god-s-only)
-- [artisanmuhammadali](https://github.com/artisanmuhammadali)
-- [agha-naveed](https://github.com/agha-naveed)
 
 ## ⭐ Recent stars
 
-- [trentm/node-dashdash](https://github.com/trentm/node-dashdash) - A light, featureful and explicit option parsing library for node.js. (today)
-- [trentm/django-markdown-deux](https://github.com/trentm/django-markdown-deux) - A django app that provides Markdown-related template tags using the python-markdown2 library. (today)
-- [trentm/json](https://github.com/trentm/json) - A "json" command for massaging JSON on your Unix command line. (today)
-- [trentm/python-markdown2](https://github.com/trentm/python-markdown2) - markdown2: A fast and complete implementation of Markdown in Python (today)
-- [trentm/node-bunyan](https://github.com/trentm/node-bunyan) - a simple and fast JSON logging module for node.js services (today)
+- [anthraxx/intellij-awesome-console](https://github.com/anthraxx/intellij-awesome-console) - IntelliJ IDEA plugin: awesome console finally makes links in your console at least 200% more awesome! (today)
+- [anthraxx/linux-hardened](https://github.com/anthraxx/linux-hardened) - Minimal supplement to upstream Kernel Self Protection Project changes. Features already provided by SELinux + Yama and archs other than multiarch arm64 / x86_64 aren't in scope. Only tags have stable history. Shared IRC channel with KSPP: irc.libera.chat #linux-hardening (today)
+- [JayBizzle/Laravel-Crawler-Detect](https://github.com/JayBizzle/Laravel-Crawler-Detect) - A Laravel wrapper for CrawlerDetect - the web crawler detection library (today)
+- [JayBizzle/Crawler-Detect](https://github.com/JayBizzle/Crawler-Detect) - 🕷 CrawlerDetect is a PHP class for detecting bots/crawlers/spiders via the user agent (today)
+- [adamwathan/tailwind-take-home-project](https://github.com/adamwathan/tailwind-take-home-project) (today)
 
 ## 🔨 Latest Pull Requests I published
 
