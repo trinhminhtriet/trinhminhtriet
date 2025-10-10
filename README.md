@@ -33,7 +33,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👷 Check out what I'm currently working on
 
-- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (1 day ago)
+- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (2 days ago)
 - [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) - 🚀 All-in-one CLI toolkit for developers: scaffold, manage, automate, and boost productivity across languages! (2 weeks ago)
 - [lamhaison/aws-cli-utils](https://github.com/lamhaison/aws-cli-utils) - This is the project to collect helpful aws cli commandline with complex options to support your working (3 weeks ago)
 - [trinhminhtriet/dwipe](https://github.com/trinhminhtriet/dwipe) - 🧹 Fast, cross-platform disk cleanup tool with interactive UI for easy directory size visualization. (1 month ago)
@@ -46,24 +46,24 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
-- [aminelebrini](https://github.com/aminelebrini)
-- [smdygn](https://github.com/smdygn)
-- [denizaltn](https://github.com/denizaltn)
-- [an758592](https://github.com/an758592)
-- [jayinmt](https://github.com/jayinmt)
-- [fairIove](https://github.com/fairIove)
-- [sigma7863](https://github.com/sigma7863)
-- [daniel149afonso](https://github.com/daniel149afonso)
-- [Dereje1](https://github.com/Dereje1)
-- [mi8bi](https://github.com/mi8bi)
+- [ronniross](https://github.com/ronniross)
+- [anb2473](https://github.com/anb2473)
+- [NealST](https://github.com/NealST)
+- [genesist45](https://github.com/genesist45)
+- [MioJoester](https://github.com/MioJoester)
+- [bugbounted](https://github.com/bugbounted)
+- [AshishBamba05](https://github.com/AshishBamba05)
+- [Resonaa](https://github.com/Resonaa)
+- [kingsleyesisi](https://github.com/kingsleyesisi)
+- [MaxwelL0v0](https://github.com/MaxwelL0v0)
 
 ## ⭐ Recent stars
 
-- [AliDbg/IPBAN](https://github.com/AliDbg/IPBAN) - ⚔️🧱🔥🛑IP BAN Block Allow GEOIP country traffic limit server input/output to IP countries with iptables+xt_geoip, auto db-ip update, firewall fail2ban gfw ufw cidr blacklist netfilter rules persistent restrict netaddr xtables linux debian ubuntu apache nginx web server anti hack ddos firewalld ipblocks ipdeny ip ranges MaxMind ipset  (today)
-- [patrickd-/solidity-fuzzing-boilerplate](https://github.com/patrickd-/solidity-fuzzing-boilerplate) - Template repository intended to ease fuzzing components of Solidity projects, especially libraries. (today)
-- [patrickd-/cheatsheet.sol](https://github.com/patrickd-/cheatsheet.sol) - Solidity – Compilable Cheatsheet (today)
-- [dominikbraun/timetrace](https://github.com/dominikbraun/timetrace) - A simple CLI for tracking your working time. (today)
-- [dominikbraun/graph](https://github.com/dominikbraun/graph) - A library for creating generic graph data structures and modifying, analyzing, and visualizing them. (today)
+- [MatrixJoy/DoubanMovie](https://github.com/MatrixJoy/DoubanMovie) - 豆瓣电影公开接口Android实现 (1 day ago)
+- [AliDbg/IPBAN](https://github.com/AliDbg/IPBAN) - ⚔️🧱🔥🛑IP BAN Block Allow GEOIP country traffic limit server input/output to IP countries with iptables+xt_geoip, auto db-ip update, firewall fail2ban gfw ufw cidr blacklist netfilter rules persistent restrict netaddr xtables linux debian ubuntu apache nginx web server anti hack ddos firewalld ipblocks ipdeny ip ranges MaxMind ipset  (1 day ago)
+- [patrickd-/solidity-fuzzing-boilerplate](https://github.com/patrickd-/solidity-fuzzing-boilerplate) - Template repository intended to ease fuzzing components of Solidity projects, especially libraries. (1 day ago)
+- [patrickd-/cheatsheet.sol](https://github.com/patrickd-/cheatsheet.sol) - Solidity – Compilable Cheatsheet (1 day ago)
+- [dominikbraun/timetrace](https://github.com/dominikbraun/timetrace) - A simple CLI for tracking your working time. (1 day ago)
 
 ## 🔨 Latest Pull Requests I published
 
