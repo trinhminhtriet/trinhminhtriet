@@ -46,24 +46,24 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
-- [grajrb](https://github.com/grajrb)
-- [Abdellahsyani](https://github.com/Abdellahsyani)
-- [mikebuzzer](https://github.com/mikebuzzer)
-- [NovaNoodle7](https://github.com/NovaNoodle7)
-- [kiranShamsHere](https://github.com/kiranShamsHere)
-- [gabriersdev](https://github.com/gabriersdev)
-- [ALX-13](https://github.com/ALX-13)
-- [JOYBOYNlKA](https://github.com/JOYBOYNlKA)
-- [neelam682](https://github.com/neelam682)
-- [cuiyixin555](https://github.com/cuiyixin555)
+- [hrosicka](https://github.com/hrosicka)
+- [Martin322s](https://github.com/Martin322s)
+- [logicscienc](https://github.com/logicscienc)
+- [hasanraza38](https://github.com/hasanraza38)
+- [emellybmuniz](https://github.com/emellybmuniz)
+- [arturremizov](https://github.com/arturremizov)
+- [ishandutta2007](https://github.com/ishandutta2007)
+- [HALCALl](https://github.com/HALCALl)
+- [KleberVales](https://github.com/KleberVales)
+- [DmitryAlexandrov91](https://github.com/DmitryAlexandrov91)
 
 ## ⭐ Recent stars
 
+- [jacqueskang/EventSourcing](https://github.com/jacqueskang/EventSourcing) - .NET Core event sourcing framework (today)
+- [jacqueskang/IpcServiceFramework](https://github.com/jacqueskang/IpcServiceFramework) - .NET Core Inter-process communication framework (today)
+- [dasiths/NEventLite](https://github.com/dasiths/NEventLite) - NEventLite - An extensible lightweight library for .NET that manages the Aggregate lifecycle in an Event Sourced system. Supports Event and Snapshot storage providers like EventStore/Redis or SQL Server. Built with dependency injection in mind and seamlessly integrates with AspNetCore. (today)
 - [teepluss/laravel-theme](https://github.com/teepluss/laravel-theme) - Theme and asset managing for laravel (today)
 - [orbeon/orbeon-forms](https://github.com/orbeon/orbeon-forms) - Orbeon Forms is an open source web forms solution. It includes an XForms engine, the Form Builder web-based form editor, and the Form Runner runtime. (today)
-- [wkf/hawk](https://github.com/wkf/hawk) - Clojure file and directory watcher using the JDK 7 java.nio.file.WatchService and Barbary WatchService (today)
-- [tehpsalmist/ng-tailwindcss](https://github.com/tehpsalmist/ng-tailwindcss) - A CLI tool for integrating Tailwind CSS into Angular-CLI projects (today)
-- [tsivinsky/hi-mom](https://github.com/tsivinsky/hi-mom) - Say hi to your mom BLAZINGLY FAST (today)
 
 ## 🔨 Latest Pull Requests I published
 
