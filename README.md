@@ -46,24 +46,24 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
-- [Salman-id85](https://github.com/Salman-id85)
-- [kuanmol](https://github.com/kuanmol)
-- [genagurbanguliyev](https://github.com/genagurbanguliyev)
-- [anajulialeite](https://github.com/anajulialeite)
-- [karimshaban01](https://github.com/karimshaban01)
-- [ayezabashir](https://github.com/ayezabashir)
-- [S0Nn3Rx](https://github.com/S0Nn3Rx)
-- [ayush-tomer](https://github.com/ayush-tomer)
-- [priyanka1144](https://github.com/priyanka1144)
-- [Cyberoctane29](https://github.com/Cyberoctane29)
+- [KhaledSaeed18](https://github.com/KhaledSaeed18)
+- [DeepasriMPrasad](https://github.com/DeepasriMPrasad)
+- [marcos1394](https://github.com/marcos1394)
+- [murapadev](https://github.com/murapadev)
+- [67D48D5](https://github.com/67D48D5)
+- [Jide-Muritala](https://github.com/Jide-Muritala)
+- [Hilary505](https://github.com/Hilary505)
+- [bilgekosee](https://github.com/bilgekosee)
+- [AbhishekGandre](https://github.com/AbhishekGandre)
+- [nawahtkui](https://github.com/nawahtkui)
 
 ## ⭐ Recent stars
 
-- [JC-Hu/JHCellConfig](https://github.com/JC-Hu/JHCellConfig) - 适用于UITableView的“蝇量级”框架。 将业务复杂度集中，减少代码量，提高可阅读性。  本类的思想，是将tableView中cell的相关逻辑集中起来， 放到数组中管理，而不是将业务逻辑分散在各个代理方法中。 特别是使用基类BaseTableViewController进行转接后， 具体业务vc不需要实现tableView cell相关的代理方法 (today)
-- [raffael/SISinusWaveView](https://github.com/raffael/SISinusWaveView) - A Siri like voice input visualizer using EZAudio. (today)
-- [raffael/RMBlurredView](https://github.com/raffael/RMBlurredView) - This subclass of NSView can be used to get an iOS 7 like blurred background to mimic a frosted glass effect. (today)
-- [dbsGen/SlimeRefresh](https://github.com/dbsGen/SlimeRefresh) - SlimeRefresh looks like UIRefreshControl in iOS6, SlimeRefresh can also run on iOS4.0 and later , and SlimeRefresh can action on UIScrollView. (today)
-- [andrewgiang/SpritzerTextView](https://github.com/andrewgiang/SpritzerTextView) - SpritzerTextView (today)
+- [android10/frodo2](https://github.com/android10/frodo2) - Android Library for Logging RxJava2 Components (today)
+- [android10/Android-ReactiveProgramming](https://github.com/android10/Android-ReactiveProgramming) - This is a sample app that is part of a serie of blog posts I will be writting about experiences with Reactive Programming on Android (today)
+- [android10/java-code-styles](https://github.com/android10/java-code-styles) - IntelliJ IDEA code style settings for Square's Java and Android projects. (today)
+- [android10/Android-AOPExample](https://github.com/android10/Android-AOPExample) - This is a simple example of Aspect Oriented Programming in Android (today)
+- [android10/arrow](https://github.com/android10/arrow) - Arrow is Lightweight library toolbox for Java and Android Development. (today)
 
 ## 🔨 Latest Pull Requests I published
 
