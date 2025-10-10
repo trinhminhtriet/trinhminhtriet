@@ -46,24 +46,24 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
-- [officel](https://github.com/officel)
-- [kauavelasco](https://github.com/kauavelasco)
-- [Indrawan-maker](https://github.com/Indrawan-maker)
-- [UnSubble](https://github.com/UnSubble)
-- [joshuaimmanuel-netizen](https://github.com/joshuaimmanuel-netizen)
-- [Anish177](https://github.com/Anish177)
-- [avieira-42](https://github.com/avieira-42)
-- [mohammademon393](https://github.com/mohammademon393)
-- [rodrigo-falcao](https://github.com/rodrigo-falcao)
-- [amir-azimi-dev](https://github.com/amir-azimi-dev)
+- [Klowby](https://github.com/Klowby)
+- [Maham-Javed](https://github.com/Maham-Javed)
+- [dinhthanhclubu](https://github.com/dinhthanhclubu)
+- [jbj338033](https://github.com/jbj338033)
+- [Arktis2022](https://github.com/Arktis2022)
+- [SabriAmir](https://github.com/SabriAmir)
+- [VinLvy](https://github.com/VinLvy)
+- [abolfazl-shadrouh](https://github.com/abolfazl-shadrouh)
+- [yoonucho](https://github.com/yoonucho)
+- [bjtu-lucas-nlp](https://github.com/bjtu-lucas-nlp)
 
 ## ⭐ Recent stars
 
+- [orbeon/orbeon-forms](https://github.com/orbeon/orbeon-forms) - Orbeon Forms is an open source web forms solution. It includes an XForms engine, the Form Builder web-based form editor, and the Form Runner runtime. (today)
+- [wkf/hawk](https://github.com/wkf/hawk) - Clojure file and directory watcher using the JDK 7 java.nio.file.WatchService and Barbary WatchService (today)
 - [tehpsalmist/ng-tailwindcss](https://github.com/tehpsalmist/ng-tailwindcss) - A CLI tool for integrating Tailwind CSS into Angular-CLI projects (today)
 - [tsivinsky/hi-mom](https://github.com/tsivinsky/hi-mom) - Say hi to your mom BLAZINGLY FAST (today)
 - [jrean/laravel-user-verification](https://github.com/jrean/laravel-user-verification) - PHP package built for Laravel to easily handle a user email verification and validate the email (today)
-- [andywang0607/AutoAnnotationTool](https://github.com/andywang0607/AutoAnnotationTool) - A label tool aim to reduce semantic segmentation label time, rectangle and polygon annotation is supported (today)
-- [xissburg/CAAnimationBlocks](https://github.com/xissburg/CAAnimationBlocks) - Category which allows the usage of start and completion blocks in CAAnimation instances, instead of a delegate (today)
 
 ## 🔨 Latest Pull Requests I published
 
