@@ -46,16 +46,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
-- [ronniross](https://github.com/ronniross)
-- [anb2473](https://github.com/anb2473)
-- [NealST](https://github.com/NealST)
-- [genesist45](https://github.com/genesist45)
-- [MioJoester](https://github.com/MioJoester)
-- [bugbounted](https://github.com/bugbounted)
-- [AshishBamba05](https://github.com/AshishBamba05)
-- [Resonaa](https://github.com/Resonaa)
-- [kingsleyesisi](https://github.com/kingsleyesisi)
-- [MaxwelL0v0](https://github.com/MaxwelL0v0)
+- [r0xd4n3t](https://github.com/r0xd4n3t)
+- [Ghosty-Trickster](https://github.com/Ghosty-Trickster)
+- [thabanat](https://github.com/thabanat)
+- [urwahkhalid00](https://github.com/urwahkhalid00)
+- [condongilbert](https://github.com/condongilbert)
+- [Ddemon26](https://github.com/Ddemon26)
+- [guevaraStian](https://github.com/guevaraStian)
+- [iamapuneet](https://github.com/iamapuneet)
+- [Abhishek-2502](https://github.com/Abhishek-2502)
+- [muyuliyan](https://github.com/muyuliyan)
 
 ## ⭐ Recent stars
 
