@@ -46,16 +46,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
-- [zehraseren](https://github.com/zehraseren)
-- [KrhystFerrari](https://github.com/KrhystFerrari)
-- [dstudnicki](https://github.com/dstudnicki)
-- [kitarabudju4-prog](https://github.com/kitarabudju4-prog)
-- [chrdek](https://github.com/chrdek)
-- [luigicfilho](https://github.com/luigicfilho)
-- [GuilhermeSerafim](https://github.com/GuilhermeSerafim)
-- [synCodx](https://github.com/synCodx)
-- [mrDav90](https://github.com/mrDav90)
-- [Pfrommer1982](https://github.com/Pfrommer1982)
+- [officel](https://github.com/officel)
+- [kauavelasco](https://github.com/kauavelasco)
+- [Indrawan-maker](https://github.com/Indrawan-maker)
+- [UnSubble](https://github.com/UnSubble)
+- [joshuaimmanuel-netizen](https://github.com/joshuaimmanuel-netizen)
+- [Anish177](https://github.com/Anish177)
+- [avieira-42](https://github.com/avieira-42)
+- [mohammademon393](https://github.com/mohammademon393)
+- [rodrigo-falcao](https://github.com/rodrigo-falcao)
+- [amir-azimi-dev](https://github.com/amir-azimi-dev)
 
 ## ⭐ Recent stars
 
