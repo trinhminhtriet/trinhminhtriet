@@ -46,24 +46,24 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
-- [tp1845](https://github.com/tp1845)
-- [Abdo-Mohammed-10](https://github.com/Abdo-Mohammed-10)
-- [archanaberry](https://github.com/archanaberry)
-- [thatguuyG](https://github.com/thatguuyG)
-- [CleanAmirHosseinDev](https://github.com/CleanAmirHosseinDev)
-- [bernardoHeckler](https://github.com/bernardoHeckler)
-- [pouriavj](https://github.com/pouriavj)
-- [arunktym](https://github.com/arunktym)
-- [Tosin5S](https://github.com/Tosin5S)
-- [Munawer2022](https://github.com/Munawer2022)
+- [DanielSouza2005](https://github.com/DanielSouza2005)
+- [brandbold-Ch](https://github.com/brandbold-Ch)
+- [90barricade93](https://github.com/90barricade93)
+- [ahamad236](https://github.com/ahamad236)
+- [Msallem-Yamina](https://github.com/Msallem-Yamina)
+- [Youssef3082004](https://github.com/Youssef3082004)
+- [fportalesor](https://github.com/fportalesor)
+- [PortoVinicius](https://github.com/PortoVinicius)
+- [Prdsilva80](https://github.com/Prdsilva80)
+- [CharlesCreativeContent](https://github.com/CharlesCreativeContent)
 
 ## ⭐ Recent stars
 
+- [eggtoopain/Neovim-Configuration-Tutorial](https://github.com/eggtoopain/Neovim-Configuration-Tutorial) (today)
 - [victorbalssa/abacus](https://github.com/victorbalssa/abacus) - Abacus: Firefly III mobile application. (today)
 - [mehradsadeghi/laravel-filter-querystring](https://github.com/mehradsadeghi/laravel-filter-querystring) - Filter your queries based on url query string parameters like a breeze. (today)
 - [mehradsadeghi/laravel-crud-generator](https://github.com/mehradsadeghi/laravel-crud-generator) - Generate a CRUD scaffold with validation rules like a breeze. (today)
 - [laylavish/uBlockOrigin-HUGE-AI-Blocklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist) - A huge blocklist of manually curated sites that contain AI generated imagery for uBlock Origin & uBlacklist. (today)
-- [openspeedtest/Docker-Image](https://github.com/openspeedtest/Docker-Image) - OpenSpeedTest Docker Image (today)
 
 ## 🔨 Latest Pull Requests I published
 
