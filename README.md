@@ -46,16 +46,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Pero4l](https://github.com/Pero4l)
+- [Hetfield7](https://github.com/Hetfield7)
+- [pfuhrmann](https://github.com/pfuhrmann)
+- [HedonisticOpportunist](https://github.com/HedonisticOpportunist)
+- [culturalmeltingpott](https://github.com/culturalmeltingpott)
+- [ekouekam](https://github.com/ekouekam)
+- [Sir-Programmer](https://github.com/Sir-Programmer)
+- [bokensha12](https://github.com/bokensha12)
+- [AliRizaSevgili](https://github.com/AliRizaSevgili)
 - [DanielSouza2005](https://github.com/DanielSouza2005)
-- [brandbold-Ch](https://github.com/brandbold-Ch)
-- [90barricade93](https://github.com/90barricade93)
-- [ahamad236](https://github.com/ahamad236)
-- [Msallem-Yamina](https://github.com/Msallem-Yamina)
-- [Youssef3082004](https://github.com/Youssef3082004)
-- [fportalesor](https://github.com/fportalesor)
-- [PortoVinicius](https://github.com/PortoVinicius)
-- [Prdsilva80](https://github.com/Prdsilva80)
-- [CharlesCreativeContent](https://github.com/CharlesCreativeContent)
 
 ## ⭐ Recent stars
 
