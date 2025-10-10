@@ -46,24 +46,24 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
-- [r0xd4n3t](https://github.com/r0xd4n3t)
-- [Ghosty-Trickster](https://github.com/Ghosty-Trickster)
-- [thabanat](https://github.com/thabanat)
-- [urwahkhalid00](https://github.com/urwahkhalid00)
-- [condongilbert](https://github.com/condongilbert)
-- [Ddemon26](https://github.com/Ddemon26)
-- [guevaraStian](https://github.com/guevaraStian)
-- [iamapuneet](https://github.com/iamapuneet)
-- [Abhishek-2502](https://github.com/Abhishek-2502)
-- [muyuliyan](https://github.com/muyuliyan)
+- [tranthethang](https://github.com/tranthethang)
+- [ANGIE-YONAGA](https://github.com/ANGIE-YONAGA)
+- [pinhe91](https://github.com/pinhe91)
+- [ahnshy](https://github.com/ahnshy)
+- [xrl3y](https://github.com/xrl3y)
+- [PeterHallonmark](https://github.com/PeterHallonmark)
+- [exezick](https://github.com/exezick)
+- [KunalMeher19](https://github.com/KunalMeher19)
+- [aki-ph-chem](https://github.com/aki-ph-chem)
+- [rmottanet](https://github.com/rmottanet)
 
 ## ⭐ Recent stars
 
-- [MatrixJoy/DoubanMovie](https://github.com/MatrixJoy/DoubanMovie) - 豆瓣电影公开接口Android实现 (1 day ago)
-- [AliDbg/IPBAN](https://github.com/AliDbg/IPBAN) - ⚔️🧱🔥🛑IP BAN Block Allow GEOIP country traffic limit server input/output to IP countries with iptables+xt_geoip, auto db-ip update, firewall fail2ban gfw ufw cidr blacklist netfilter rules persistent restrict netaddr xtables linux debian ubuntu apache nginx web server anti hack ddos firewalld ipblocks ipdeny ip ranges MaxMind ipset  (1 day ago)
-- [patrickd-/solidity-fuzzing-boilerplate](https://github.com/patrickd-/solidity-fuzzing-boilerplate) - Template repository intended to ease fuzzing components of Solidity projects, especially libraries. (1 day ago)
-- [patrickd-/cheatsheet.sol](https://github.com/patrickd-/cheatsheet.sol) - Solidity – Compilable Cheatsheet (1 day ago)
-- [dominikbraun/timetrace](https://github.com/dominikbraun/timetrace) - A simple CLI for tracking your working time. (1 day ago)
+- [venantius/vim-cljfmt](https://github.com/venantius/vim-cljfmt) - A Vim plugin for cljfmt, the Clojure formatting tool. (today)
+- [venantius/glojure](https://github.com/venantius/glojure) - The Glojure programming language (today)
+- [venantius/yagni](https://github.com/venantius/yagni) - A Leiningen plugin for finding dead code (today)
+- [venantius/accountant](https://github.com/venantius/accountant) - ClojureScript navigation for single-page applications, made simple. (today)
+- [venantius/pyro](https://github.com/venantius/pyro) - Light up your Clojure stacktraces (today)
 
 ## 🔨 Latest Pull Requests I published
 
