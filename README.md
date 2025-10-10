@@ -46,24 +46,24 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
-- [KhaledSaeed18](https://github.com/KhaledSaeed18)
-- [DeepasriMPrasad](https://github.com/DeepasriMPrasad)
-- [marcos1394](https://github.com/marcos1394)
-- [murapadev](https://github.com/murapadev)
-- [67D48D5](https://github.com/67D48D5)
-- [Jide-Muritala](https://github.com/Jide-Muritala)
-- [Hilary505](https://github.com/Hilary505)
-- [bilgekosee](https://github.com/bilgekosee)
-- [AbhishekGandre](https://github.com/AbhishekGandre)
-- [nawahtkui](https://github.com/nawahtkui)
+- [CodeByPinar](https://github.com/CodeByPinar)
+- [shahramsamar](https://github.com/shahramsamar)
+- [janbu12](https://github.com/janbu12)
+- [LuisPiquinRey](https://github.com/LuisPiquinRey)
+- [mig1023](https://github.com/mig1023)
+- [koesan](https://github.com/koesan)
+- [turtle94720-stack](https://github.com/turtle94720-stack)
+- [AlekseyBykov](https://github.com/AlekseyBykov)
+- [roytastic](https://github.com/roytastic)
+- [badwolfunit](https://github.com/badwolfunit)
 
 ## ⭐ Recent stars
 
-- [android10/frodo2](https://github.com/android10/frodo2) - Android Library for Logging RxJava2 Components (today)
-- [android10/Android-ReactiveProgramming](https://github.com/android10/Android-ReactiveProgramming) - This is a sample app that is part of a serie of blog posts I will be writting about experiences with Reactive Programming on Android (today)
-- [android10/java-code-styles](https://github.com/android10/java-code-styles) - IntelliJ IDEA code style settings for Square's Java and Android projects. (today)
-- [android10/Android-AOPExample](https://github.com/android10/Android-AOPExample) - This is a simple example of Aspect Oriented Programming in Android (today)
-- [android10/arrow](https://github.com/android10/arrow) - Arrow is Lightweight library toolbox for Java and Android Development. (today)
+- [timolins/hyperlayout](https://github.com/timolins/hyperlayout) - 📐 Layout presets for Hyper.app (today)
+- [timolins/timo-sh](https://github.com/timolins/timo-sh) - My personal website (today)
+- [timolins/react-hot-toast](https://github.com/timolins/react-hot-toast) - Smoking Hot React Notifications 🔥  (today)
+- [RobinMalfait/lazy-collections](https://github.com/RobinMalfait/lazy-collections) - Collection of fast and lazy operations (today)
+- [dbuezas/arduino-web-oscilloscope](https://github.com/dbuezas/arduino-web-oscilloscope) (today)
 
 ## 🔨 Latest Pull Requests I published
 
