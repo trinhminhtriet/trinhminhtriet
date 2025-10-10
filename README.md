@@ -46,16 +46,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
-- [AnthonyBradford](https://github.com/AnthonyBradford)
-- [kaushik2901](https://github.com/kaushik2901)
-- [kururikiri](https://github.com/kururikiri)
-- [asamix77](https://github.com/asamix77)
-- [clintonbess](https://github.com/clintonbess)
-- [Qamrul-Hassan](https://github.com/Qamrul-Hassan)
-- [CaiquePirs](https://github.com/CaiquePirs)
-- [VictorHElizondo0319](https://github.com/VictorHElizondo0319)
-- [eggr7](https://github.com/eggr7)
-- [DoanhTran03](https://github.com/DoanhTran03)
+- [Kaoutherbo](https://github.com/Kaoutherbo)
+- [Alessandro624](https://github.com/Alessandro624)
+- [asanpardazzagros-debug](https://github.com/asanpardazzagros-debug)
+- [MarcosPPazzinatto](https://github.com/MarcosPPazzinatto)
+- [BiologyTools](https://github.com/BiologyTools)
+- [akpdox](https://github.com/akpdox)
+- [omidfarhangnia](https://github.com/omidfarhangnia)
+- [Lomien007](https://github.com/Lomien007)
+- [sedegah](https://github.com/sedegah)
+- [dbunt1tled](https://github.com/dbunt1tled)
 
 ## ⭐ Recent stars
 
