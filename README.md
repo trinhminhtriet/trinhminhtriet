@@ -46,24 +46,24 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
-- [RAJAA-KANAWI](https://github.com/RAJAA-KANAWI)
-- [aryashah2k](https://github.com/aryashah2k)
-- [Jackpkn](https://github.com/Jackpkn)
-- [Malicieuse](https://github.com/Malicieuse)
-- [debem1972](https://github.com/debem1972)
-- [ahmedhesham47](https://github.com/ahmedhesham47)
-- [Vyzer9](https://github.com/Vyzer9)
-- [Armin231maker](https://github.com/Armin231maker)
-- [hrosicka](https://github.com/hrosicka)
-- [Martin322s](https://github.com/Martin322s)
+- [AnthonyBradford](https://github.com/AnthonyBradford)
+- [kaushik2901](https://github.com/kaushik2901)
+- [kururikiri](https://github.com/kururikiri)
+- [asamix77](https://github.com/asamix77)
+- [clintonbess](https://github.com/clintonbess)
+- [Qamrul-Hassan](https://github.com/Qamrul-Hassan)
+- [CaiquePirs](https://github.com/CaiquePirs)
+- [VictorHElizondo0319](https://github.com/VictorHElizondo0319)
+- [eggr7](https://github.com/eggr7)
+- [DoanhTran03](https://github.com/DoanhTran03)
 
 ## ⭐ Recent stars
 
-- [jacqueskang/EventSourcing](https://github.com/jacqueskang/EventSourcing) - .NET Core event sourcing framework (today)
-- [jacqueskang/IpcServiceFramework](https://github.com/jacqueskang/IpcServiceFramework) - .NET Core Inter-process communication framework (today)
-- [dasiths/NEventLite](https://github.com/dasiths/NEventLite) - NEventLite - An extensible lightweight library for .NET that manages the Aggregate lifecycle in an Event Sourced system. Supports Event and Snapshot storage providers like EventStore/Redis or SQL Server. Built with dependency injection in mind and seamlessly integrates with AspNetCore. (today)
-- [teepluss/laravel-theme](https://github.com/teepluss/laravel-theme) - Theme and asset managing for laravel (today)
-- [orbeon/orbeon-forms](https://github.com/orbeon/orbeon-forms) - Orbeon Forms is an open source web forms solution. It includes an XForms engine, the Form Builder web-based form editor, and the Form Runner runtime. (today)
+- [victorbalssa/abacus](https://github.com/victorbalssa/abacus) - Abacus: Firefly III mobile application. (today)
+- [mehradsadeghi/laravel-filter-querystring](https://github.com/mehradsadeghi/laravel-filter-querystring) - Filter your queries based on url query string parameters like a breeze. (today)
+- [mehradsadeghi/laravel-crud-generator](https://github.com/mehradsadeghi/laravel-crud-generator) - Generate a CRUD scaffold with validation rules like a breeze. (today)
+- [laylavish/uBlockOrigin-HUGE-AI-Blocklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist) - A huge blocklist of manually curated sites that contain AI generated imagery for uBlock Origin & uBlacklist. (today)
+- [openspeedtest/Docker-Image](https://github.com/openspeedtest/Docker-Image) - OpenSpeedTest Docker Image (today)
 
 ## 🔨 Latest Pull Requests I published
 
