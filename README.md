@@ -33,7 +33,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👷 Check out what I'm currently working on
 
-- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (2 days ago)
+- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (today)
 - [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) - 🚀 All-in-one CLI toolkit for developers: scaffold, manage, automate, and boost productivity across languages! (2 weeks ago)
 - [lamhaison/aws-cli-utils](https://github.com/lamhaison/aws-cli-utils) - This is the project to collect helpful aws cli commandline with complex options to support your working (3 weeks ago)
 - [trinhminhtriet/dwipe](https://github.com/trinhminhtriet/dwipe) - 🧹 Fast, cross-platform disk cleanup tool with interactive UI for easy directory size visualization. (1 month ago)
@@ -46,24 +46,24 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
-- [tranthethang](https://github.com/tranthethang)
-- [ANGIE-YONAGA](https://github.com/ANGIE-YONAGA)
-- [pinhe91](https://github.com/pinhe91)
-- [ahnshy](https://github.com/ahnshy)
-- [xrl3y](https://github.com/xrl3y)
-- [PeterHallonmark](https://github.com/PeterHallonmark)
-- [exezick](https://github.com/exezick)
-- [KunalMeher19](https://github.com/KunalMeher19)
-- [aki-ph-chem](https://github.com/aki-ph-chem)
-- [rmottanet](https://github.com/rmottanet)
+- [Salman-id85](https://github.com/Salman-id85)
+- [kuanmol](https://github.com/kuanmol)
+- [genagurbanguliyev](https://github.com/genagurbanguliyev)
+- [anajulialeite](https://github.com/anajulialeite)
+- [karimshaban01](https://github.com/karimshaban01)
+- [ayezabashir](https://github.com/ayezabashir)
+- [S0Nn3Rx](https://github.com/S0Nn3Rx)
+- [ayush-tomer](https://github.com/ayush-tomer)
+- [priyanka1144](https://github.com/priyanka1144)
+- [Cyberoctane29](https://github.com/Cyberoctane29)
 
 ## ⭐ Recent stars
 
-- [venantius/vim-cljfmt](https://github.com/venantius/vim-cljfmt) - A Vim plugin for cljfmt, the Clojure formatting tool. (today)
-- [venantius/glojure](https://github.com/venantius/glojure) - The Glojure programming language (today)
-- [venantius/yagni](https://github.com/venantius/yagni) - A Leiningen plugin for finding dead code (today)
-- [venantius/accountant](https://github.com/venantius/accountant) - ClojureScript navigation for single-page applications, made simple. (today)
-- [venantius/pyro](https://github.com/venantius/pyro) - Light up your Clojure stacktraces (today)
+- [JC-Hu/JHCellConfig](https://github.com/JC-Hu/JHCellConfig) - 适用于UITableView的“蝇量级”框架。 将业务复杂度集中，减少代码量，提高可阅读性。  本类的思想，是将tableView中cell的相关逻辑集中起来， 放到数组中管理，而不是将业务逻辑分散在各个代理方法中。 特别是使用基类BaseTableViewController进行转接后， 具体业务vc不需要实现tableView cell相关的代理方法 (today)
+- [raffael/SISinusWaveView](https://github.com/raffael/SISinusWaveView) - A Siri like voice input visualizer using EZAudio. (today)
+- [raffael/RMBlurredView](https://github.com/raffael/RMBlurredView) - This subclass of NSView can be used to get an iOS 7 like blurred background to mimic a frosted glass effect. (today)
+- [dbsGen/SlimeRefresh](https://github.com/dbsGen/SlimeRefresh) - SlimeRefresh looks like UIRefreshControl in iOS6, SlimeRefresh can also run on iOS4.0 and later , and SlimeRefresh can action on UIScrollView. (today)
+- [andrewgiang/SpritzerTextView](https://github.com/andrewgiang/SpritzerTextView) - SpritzerTextView (today)
 
 ## 🔨 Latest Pull Requests I published
 
