@@ -46,24 +46,24 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
-- [Kaayo](https://github.com/Kaayo)
-- [HDAI654](https://github.com/HDAI654)
-- [jefferywmoore](https://github.com/jefferywmoore)
-- [Taner940706](https://github.com/Taner940706)
-- [NgamiBaruch](https://github.com/NgamiBaruch)
-- [realendie](https://github.com/realendie)
-- [Genom-hash](https://github.com/Genom-hash)
-- [tadzo-morel](https://github.com/tadzo-morel)
-- [Kkhalidbinmostafahridoy](https://github.com/Kkhalidbinmostafahridoy)
-- [mukk38](https://github.com/mukk38)
+- [imorphii](https://github.com/imorphii)
+- [IasmineSilva](https://github.com/IasmineSilva)
+- [Tanmoym047](https://github.com/Tanmoym047)
+- [LatoyaNatashaC](https://github.com/LatoyaNatashaC)
+- [piItoversfinest](https://github.com/piItoversfinest)
+- [myalt2335](https://github.com/myalt2335)
+- [RafalW3bCraft](https://github.com/RafalW3bCraft)
+- [SasaNirmal](https://github.com/SasaNirmal)
+- [MissConstruction](https://github.com/MissConstruction)
+- [ArveonTech](https://github.com/ArveonTech)
 
 ## ⭐ Recent stars
 
+- [enzeberg/tonzhon-music](https://github.com/enzeberg/tonzhon-music) - 铜钟 Tonzhon ( https://tonzhon.whamon.com ): 只有音乐, 无广告和社交; 干净纯粹, 资源丰富, 体验独特！(请注意：铜钟已不再使用 tonzhon.com，现在的 tonzhon.com 不是正版的铜钟) (today)
+- [jcarolus/android-chess](https://github.com/jcarolus/android-chess) - Chess game for Android. (today)
 - [fairy-root/steam-depot-online](https://github.com/fairy-root/steam-depot-online) - Steam Depot Online (SDO) allows you to download and manage Steam manifests. It fetches manifest and key.vdf data from GitHub repositories. Generates Lua scripts for decryption keys, and saves them in a zip archive. (today)
 - [fairy-root/Flux-Prompt-Generator](https://github.com/fairy-root/Flux-Prompt-Generator) - Flux Prompt Generator provides a flexible and customizable prompt generator for generating detailed and creative prompts for image generation models. (today)
 - [fly8888/cursor_machine_id](https://github.com/fly8888/cursor_machine_id) - 一键修改cursor 设备ID，解除设备锁定状态，为什么会有这个工具。。。因为我的设备被锁了。。。。 (today)
-- [bestK/kiro2cc](https://github.com/bestK/kiro2cc) - kiro to claude code (today)
-- [bestK/tv](https://github.com/bestK/tv) (today)
 
 ## 🔨 Latest Pull Requests I published
 
