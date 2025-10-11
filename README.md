@@ -46,24 +46,24 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [ahmadadibzad](https://github.com/ahmadadibzad)
+- [Francesco601](https://github.com/Francesco601)
+- [yavru421](https://github.com/yavru421)
+- [nugiexpres](https://github.com/nugiexpres)
+- [Tounyann](https://github.com/Tounyann)
+- [poisonedcake](https://github.com/poisonedcake)
+- [scarzze](https://github.com/scarzze)
 - [vsix8625](https://github.com/vsix8625)
 - [brencerego](https://github.com/brencerego)
 - [blaszorrilla](https://github.com/blaszorrilla)
-- [dragonhub0710](https://github.com/dragonhub0710)
-- [RyannKim327](https://github.com/RyannKim327)
-- [Magic-Abracadabra](https://github.com/Magic-Abracadabra)
-- [hmdsafelink-afk](https://github.com/hmdsafelink-afk)
-- [DivitMittal](https://github.com/DivitMittal)
-- [Gubintongxue](https://github.com/Gubintongxue)
-- [FardinRastakhiz](https://github.com/FardinRastakhiz)
 
 ## ⭐ Recent stars
 
+- [Adibvafa/CodonTransformer](https://github.com/Adibvafa/CodonTransformer) - CodonTransformer (1M+ Downloads); The tool for codon optimization, optimizing DNA for protein expression (today)
+- [Ahmet-Dedeler/ai-llm-comparison](https://github.com/Ahmet-Dedeler/ai-llm-comparison) - A website where you can compare every AI Model ✨ (today)
 - [ryandamour/ssrfuzz](https://github.com/ryandamour/ssrfuzz) - SSRFuzz is a tool to find Server Side Request Forgery vulnerabilities, with CRLF chaining capabilities (today)
 - [Acekorneya/Ark-Survival-Ascended-Server](https://github.com/Acekorneya/Ark-Survival-Ascended-Server) -  Ark Survival Ascended Server Manager for running multiple server on Linux with API support (today)
 - [superbasicstudio/claude-conductor](https://github.com/superbasicstudio/claude-conductor) - Claude Conductor - a simple Claude Code framework (today)
-- [metasidd/ColorTokensKit-Swift](https://github.com/metasidd/ColorTokensKit-Swift) - A powerful color tokens system for Apple platforms (today)
-- [metasidd/Prototype-Siri-Screen-Animation](https://github.com/metasidd/Prototype-Siri-Screen-Animation) (today)
 
 ## 🔨 Latest Pull Requests I published
 
