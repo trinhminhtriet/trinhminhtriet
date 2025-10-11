@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Leratobig](https://github.com/Leratobig)
 - [NE7K](https://github.com/NE7K)
 - [OTOMER0ID](https://github.com/OTOMER0ID)
 - [viktorcruz](https://github.com/viktorcruz)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [BenjaminBlack3303](https://github.com/BenjaminBlack3303)
 - [wa8w1r3](https://github.com/wa8w1r3)
 - [cyberatlas-baseeth](https://github.com/cyberatlas-baseeth)
-- [Sunr4yss](https://github.com/Sunr4yss)
 
 ## ⭐ Recent stars
 
