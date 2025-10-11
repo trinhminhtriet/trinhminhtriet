@@ -46,24 +46,24 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
-- [adelpro](https://github.com/adelpro)
-- [KushalMeghani1644](https://github.com/KushalMeghani1644)
-- [luvshe](https://github.com/luvshe)
-- [BandelaShivaKumar](https://github.com/BandelaShivaKumar)
-- [Alias2806](https://github.com/Alias2806)
-- [Equiia](https://github.com/Equiia)
-- [Shreya-Sikder](https://github.com/Shreya-Sikder)
-- [woolywool](https://github.com/woolywool)
-- [YeKyaw-Thu](https://github.com/YeKyaw-Thu)
-- [jeanctech](https://github.com/jeanctech)
+- [cma1uba](https://github.com/cma1uba)
+- [91ahmed](https://github.com/91ahmed)
+- [Hafiz-hammad](https://github.com/Hafiz-hammad)
+- [ArdeshirV](https://github.com/ArdeshirV)
+- [Patil-Nitish](https://github.com/Patil-Nitish)
+- [ft-mammoo](https://github.com/ft-mammoo)
+- [muttahar123](https://github.com/muttahar123)
+- [shamimdev2000](https://github.com/shamimdev2000)
+- [alpha-sigmaskibiditoilet](https://github.com/alpha-sigmaskibiditoilet)
+- [RisingDev1](https://github.com/RisingDev1)
 
 ## ⭐ Recent stars
 
-- [shekyan/slowhttptest](https://github.com/shekyan/slowhttptest) - Application Layer DoS attack simulator (today)
-- [xiaody/react-touch-carousel](https://github.com/xiaody/react-touch-carousel) - Ultra-customizable carousel framework for React.JS (today)
-- [xiaody/react-lines-ellipsis](https://github.com/xiaody/react-lines-ellipsis) - Simple multiline ellipsis component for React.JS (today)
-- [ewebdev/backbone.notifier](https://github.com/ewebdev/backbone.notifier) - Notifications framework for Backbone.js (today)
-- [Adibvafa/CodonTransformer](https://github.com/Adibvafa/CodonTransformer) - CodonTransformer (1M+ Downloads); The tool for codon optimization, optimizing DNA for protein expression (today)
+- [aaarghhh/awesome_osint_blockchain_analysis](https://github.com/aaarghhh/awesome_osint_blockchain_analysis) - A list of useful Crypto resources for OSINT investigations (today)
+- [eschultze/URLextractor](https://github.com/eschultze/URLextractor) - Information gathering & website reconnaissance | https://phishstats.info/ (today)
+- [t4d/PhishingKit-Yara-Rules](https://github.com/t4d/PhishingKit-Yara-Rules) - Repository of Yara rules dedicated to Phishing Kits Zip files (today)
+- [t4d/PhishingKitHunter](https://github.com/t4d/PhishingKitHunter) - Find phishing kits which use your brand/organization's files and image.  (today)
+- [t4d/StalkPhish](https://github.com/t4d/StalkPhish) - StalkPhish - The Phishing kits stalker, harvesting phishing kits for investigations. (today)
 
 ## 🔨 Latest Pull Requests I published
 
