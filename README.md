@@ -46,24 +46,24 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
-- [spokeisheree](https://github.com/spokeisheree)
-- [bradthaniyel](https://github.com/bradthaniyel)
-- [KhushiRajurkar](https://github.com/KhushiRajurkar)
-- [morris2023225](https://github.com/morris2023225)
-- [petermartens98](https://github.com/petermartens98)
-- [actual-ragebait](https://github.com/actual-ragebait)
-- [NYANYAN-CAT](https://github.com/NYANYAN-CAT)
-- [KamoSmbatyan0729](https://github.com/KamoSmbatyan0729)
-- [TonyVHT](https://github.com/TonyVHT)
-- [AnoopCA](https://github.com/AnoopCA)
+- [brencerego](https://github.com/brencerego)
+- [blaszorrilla](https://github.com/blaszorrilla)
+- [dragonhub0710](https://github.com/dragonhub0710)
+- [RyannKim327](https://github.com/RyannKim327)
+- [Magic-Abracadabra](https://github.com/Magic-Abracadabra)
+- [hmdsafelink-afk](https://github.com/hmdsafelink-afk)
+- [DivitMittal](https://github.com/DivitMittal)
+- [Gubintongxue](https://github.com/Gubintongxue)
+- [FardinRastakhiz](https://github.com/FardinRastakhiz)
+- [liftctrl](https://github.com/liftctrl)
 
 ## ⭐ Recent stars
 
+- [superbasicstudio/claude-conductor](https://github.com/superbasicstudio/claude-conductor) - Claude Conductor - a simple Claude Code framework (today)
 - [metasidd/ColorTokensKit-Swift](https://github.com/metasidd/ColorTokensKit-Swift) - A powerful color tokens system for Apple platforms (today)
 - [metasidd/Prototype-Siri-Screen-Animation](https://github.com/metasidd/Prototype-Siri-Screen-Animation) (today)
 - [metasidd/Orb](https://github.com/metasidd/Orb) - A mesmerizing orb, fully designed in SwiftUI. (today)
 - [winddpan/CodableWrapper](https://github.com/winddpan/CodableWrapper) - @CodingKey("encoder", "decoder") var cool: Bool = true (today)
-- [mebtte/excalidraw](https://github.com/mebtte/excalidraw) - 支持自定义字体的 Excalidraw (today)
 
 ## 🔨 Latest Pull Requests I published
 
