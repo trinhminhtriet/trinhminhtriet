@@ -46,24 +46,24 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [0xm4ud](https://github.com/0xm4ud)
+- [buraxta](https://github.com/buraxta)
+- [shahriar0999](https://github.com/shahriar0999)
+- [ckk914](https://github.com/ckk914)
+- [petersawm](https://github.com/petersawm)
+- [ionutms](https://github.com/ionutms)
 - [daviddozie](https://github.com/daviddozie)
 - [PapiHack](https://github.com/PapiHack)
 - [asmaydn28](https://github.com/asmaydn28)
 - [toastkidjp](https://github.com/toastkidjp)
-- [vavilovnv](https://github.com/vavilovnv)
-- [AB-20005](https://github.com/AB-20005)
-- [Bitxo92](https://github.com/Bitxo92)
-- [sirestar1](https://github.com/sirestar1)
-- [abdarrhmanessetaoui](https://github.com/abdarrhmanessetaoui)
-- [smartlizardpy](https://github.com/smartlizardpy)
 
 ## ⭐ Recent stars
 
+- [michaelrommel/nvim-silicon](https://github.com/michaelrommel/nvim-silicon) - neovim plugin to create code images using the external silicon tool. (today)
+- [bskari/pi-rc](https://github.com/bskari/pi-rc) - Turn your Raspberry Pi into a radio controller for RC toys. (today)
 - [fredoverflow/skorbut](https://github.com/fredoverflow/skorbut) - Let us C what's going on in memory! (today)
 - [fredoverflow/karel](https://github.com/fredoverflow/karel) - Karel The Robot (today)
 - [chao325/Evil.js](https://github.com/chao325/Evil.js) - 专注技术的库 (today)
-- [chao325/QmaoTai](https://github.com/chao325/QmaoTai) - 抢茅台2023最新，京东抢茅台，淘宝抢茅台 QmaoTai (today)
-- [chao325/MaoTai_GUIT](https://github.com/chao325/MaoTai_GUIT) - JD京东抢购、京东抢茅台Windows端、开箱即用无需配置环境。开发在即（开源协议采用Apache License）抢茅台外挂，茅台脚本，淘宝，天猫，商品抢购 (today)
 
 ## 🔨 Latest Pull Requests I published
 
