@@ -46,24 +46,24 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Clor1via](https://github.com/Clor1via)
+- [Jaycode01](https://github.com/Jaycode01)
+- [Langageneo](https://github.com/Langageneo)
+- [almamun-git](https://github.com/almamun-git)
+- [luuuisc](https://github.com/luuuisc)
+- [Twizter01](https://github.com/Twizter01)
 - [Leratobig](https://github.com/Leratobig)
 - [NE7K](https://github.com/NE7K)
 - [OTOMER0ID](https://github.com/OTOMER0ID)
 - [viktorcruz](https://github.com/viktorcruz)
-- [berrakyildirim](https://github.com/berrakyildirim)
-- [matiasinsaurralde](https://github.com/matiasinsaurralde)
-- [Enesozkan20](https://github.com/Enesozkan20)
-- [BenjaminBlack3303](https://github.com/BenjaminBlack3303)
-- [wa8w1r3](https://github.com/wa8w1r3)
-- [cyberatlas-baseeth](https://github.com/cyberatlas-baseeth)
 
 ## ⭐ Recent stars
 
-- [priornix/antizer](https://github.com/priornix/antizer) - ClojureScript library for Ant Design React UI components (today)
-- [matfish2/vue-pagination-2](https://github.com/matfish2/vue-pagination-2) - Vue.js 2 pagination component (today)
-- [matfish2/vue-tables](https://github.com/matfish2/vue-tables) - Vue.js grid components (today)
-- [matfish2/vue-tables-2](https://github.com/matfish2/vue-tables-2) - Vue.js 2 grid components (today)
-- [christopherread/Obvs](https://github.com/christopherread/Obvs) - An observable microservice bus library for .NET, that wraps the underlying message transports in simple Rx based interfaces. (today)
+- [jackluo2012/datacenter](https://github.com/jackluo2012/datacenter) - 数据中台系统，基于go-zero框架 (today)
+- [kates/html2markdown](https://github.com/kates/html2markdown) - Converts HTML to Markdown (today)
+- [upgradeQ/Streaming-Software-Scripting-Reference](https://github.com/upgradeQ/Streaming-Software-Scripting-Reference) - Reference for OBS Studio Python API (today)
+- [tamhoang1412/backend-swe-interview-questions](https://github.com/tamhoang1412/backend-swe-interview-questions) - Technical interview questions for backend engineer. (today)
+- [thanhlmm/refi-app](https://github.com/thanhlmm/refi-app) - A tool to make interacting with Firestore less painful (today)
 
 ## 🔨 Latest Pull Requests I published
 
