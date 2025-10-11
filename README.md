@@ -33,7 +33,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👷 Check out what I'm currently working on
 
-- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (1 day ago)
+- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (today)
 - [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) - 🚀 All-in-one CLI toolkit for developers: scaffold, manage, automate, and boost productivity across languages! (2 weeks ago)
 - [lamhaison/aws-cli-utils](https://github.com/lamhaison/aws-cli-utils) - This is the project to collect helpful aws cli commandline with complex options to support your working (3 weeks ago)
 - [trinhminhtriet/dwipe](https://github.com/trinhminhtriet/dwipe) - 🧹 Fast, cross-platform disk cleanup tool with interactive UI for easy directory size visualization. (1 month ago)
@@ -46,16 +46,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [HopelessCompass](https://github.com/HopelessCompass)
+- [deemah-dev](https://github.com/deemah-dev)
+- [hassansaker](https://github.com/hassansaker)
+- [Dhie-boop](https://github.com/Dhie-boop)
+- [farrelwibawa](https://github.com/farrelwibawa)
 - [Andyameta](https://github.com/Andyameta)
 - [ANKITKUMARBARIK](https://github.com/ANKITKUMARBARIK)
 - [riskAnalystAjay](https://github.com/riskAnalystAjay)
 - [HimanshiKhattri](https://github.com/HimanshiKhattri)
 - [rahmantamim11](https://github.com/rahmantamim11)
-- [HwanLee-0321](https://github.com/HwanLee-0321)
-- [n-cognto](https://github.com/n-cognto)
-- [OnurFlix](https://github.com/OnurFlix)
-- [cma1uba](https://github.com/cma1uba)
-- [91ahmed](https://github.com/91ahmed)
 
 ## ⭐ Recent stars
 
