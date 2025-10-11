@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [vsix8625](https://github.com/vsix8625)
 - [brencerego](https://github.com/brencerego)
 - [blaszorrilla](https://github.com/blaszorrilla)
 - [dragonhub0710](https://github.com/dragonhub0710)
@@ -55,15 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [DivitMittal](https://github.com/DivitMittal)
 - [Gubintongxue](https://github.com/Gubintongxue)
 - [FardinRastakhiz](https://github.com/FardinRastakhiz)
-- [liftctrl](https://github.com/liftctrl)
 
 ## ⭐ Recent stars
 
+- [ryandamour/ssrfuzz](https://github.com/ryandamour/ssrfuzz) - SSRFuzz is a tool to find Server Side Request Forgery vulnerabilities, with CRLF chaining capabilities (today)
+- [Acekorneya/Ark-Survival-Ascended-Server](https://github.com/Acekorneya/Ark-Survival-Ascended-Server) -  Ark Survival Ascended Server Manager for running multiple server on Linux with API support (today)
 - [superbasicstudio/claude-conductor](https://github.com/superbasicstudio/claude-conductor) - Claude Conductor - a simple Claude Code framework (today)
 - [metasidd/ColorTokensKit-Swift](https://github.com/metasidd/ColorTokensKit-Swift) - A powerful color tokens system for Apple platforms (today)
 - [metasidd/Prototype-Siri-Screen-Animation](https://github.com/metasidd/Prototype-Siri-Screen-Animation) (today)
-- [metasidd/Orb](https://github.com/metasidd/Orb) - A mesmerizing orb, fully designed in SwiftUI. (today)
-- [winddpan/CodableWrapper](https://github.com/winddpan/CodableWrapper) - @CodingKey("encoder", "decoder") var cool: Bool = true (today)
 
 ## 🔨 Latest Pull Requests I published
 
