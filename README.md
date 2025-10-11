@@ -46,24 +46,24 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Andyameta](https://github.com/Andyameta)
+- [ANKITKUMARBARIK](https://github.com/ANKITKUMARBARIK)
+- [riskAnalystAjay](https://github.com/riskAnalystAjay)
+- [HimanshiKhattri](https://github.com/HimanshiKhattri)
+- [rahmantamim11](https://github.com/rahmantamim11)
+- [HwanLee-0321](https://github.com/HwanLee-0321)
+- [n-cognto](https://github.com/n-cognto)
+- [OnurFlix](https://github.com/OnurFlix)
 - [cma1uba](https://github.com/cma1uba)
 - [91ahmed](https://github.com/91ahmed)
-- [Hafiz-hammad](https://github.com/Hafiz-hammad)
-- [ArdeshirV](https://github.com/ArdeshirV)
-- [Patil-Nitish](https://github.com/Patil-Nitish)
-- [ft-mammoo](https://github.com/ft-mammoo)
-- [muttahar123](https://github.com/muttahar123)
-- [shamimdev2000](https://github.com/shamimdev2000)
-- [alpha-sigmaskibiditoilet](https://github.com/alpha-sigmaskibiditoilet)
-- [RisingDev1](https://github.com/RisingDev1)
 
 ## ⭐ Recent stars
 
-- [aaarghhh/awesome_osint_blockchain_analysis](https://github.com/aaarghhh/awesome_osint_blockchain_analysis) - A list of useful Crypto resources for OSINT investigations (today)
-- [eschultze/URLextractor](https://github.com/eschultze/URLextractor) - Information gathering & website reconnaissance | https://phishstats.info/ (today)
-- [t4d/PhishingKit-Yara-Rules](https://github.com/t4d/PhishingKit-Yara-Rules) - Repository of Yara rules dedicated to Phishing Kits Zip files (today)
-- [t4d/PhishingKitHunter](https://github.com/t4d/PhishingKitHunter) - Find phishing kits which use your brand/organization's files and image.  (today)
-- [t4d/StalkPhish](https://github.com/t4d/StalkPhish) - StalkPhish - The Phishing kits stalker, harvesting phishing kits for investigations. (today)
+- [mrkamel/search_flip](https://github.com/mrkamel/search_flip) - Full-Featured ElasticSearch Ruby Client with a Chainable DSL (today)
+- [mrkamel/search_cop](https://github.com/mrkamel/search_cop) - Search engine like fulltext query support for ActiveRecord (today)
+- [danielplohmann/smda](https://github.com/danielplohmann/smda) - SMDA is a minimalist recursive disassembler library that is optimized for accurate Control Flow Graph (CFG) recovery from memory dumps. (today)
+- [danielplohmann/apiscout](https://github.com/danielplohmann/apiscout) - This project aims at simplifying Windows API import recovery on arbitrary memory dumps (today)
+- [StrangerealIntel/Orion](https://github.com/StrangerealIntel/Orion) - A YARA rules repository continuously updated for monitoring the old and new threats from articles, incidents responses ... (today)
 
 ## 🔨 Latest Pull Requests I published
 
