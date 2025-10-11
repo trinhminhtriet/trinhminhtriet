@@ -46,24 +46,24 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [NE7K](https://github.com/NE7K)
+- [OTOMER0ID](https://github.com/OTOMER0ID)
+- [viktorcruz](https://github.com/viktorcruz)
+- [berrakyildirim](https://github.com/berrakyildirim)
+- [matiasinsaurralde](https://github.com/matiasinsaurralde)
 - [Enesozkan20](https://github.com/Enesozkan20)
 - [BenjaminBlack3303](https://github.com/BenjaminBlack3303)
 - [wa8w1r3](https://github.com/wa8w1r3)
 - [cyberatlas-baseeth](https://github.com/cyberatlas-baseeth)
 - [Sunr4yss](https://github.com/Sunr4yss)
-- [digitalcolours](https://github.com/digitalcolours)
-- [Zoomish](https://github.com/Zoomish)
-- [imorphii](https://github.com/imorphii)
-- [IasmineSilva](https://github.com/IasmineSilva)
-- [Tanmoym047](https://github.com/Tanmoym047)
 
 ## ⭐ Recent stars
 
+- [priornix/antizer](https://github.com/priornix/antizer) - ClojureScript library for Ant Design React UI components (today)
 - [matfish2/vue-pagination-2](https://github.com/matfish2/vue-pagination-2) - Vue.js 2 pagination component (today)
 - [matfish2/vue-tables](https://github.com/matfish2/vue-tables) - Vue.js grid components (today)
 - [matfish2/vue-tables-2](https://github.com/matfish2/vue-tables-2) - Vue.js 2 grid components (today)
 - [christopherread/Obvs](https://github.com/christopherread/Obvs) - An observable microservice bus library for .NET, that wraps the underlying message transports in simple Rx based interfaces. (today)
-- [Cuevana/storm](https://github.com/Cuevana/storm) - Cuevana Storm App (today)
 
 ## 🔨 Latest Pull Requests I published
 
