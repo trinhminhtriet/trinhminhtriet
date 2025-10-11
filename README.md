@@ -46,24 +46,24 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
-- [Clor1via](https://github.com/Clor1via)
-- [Jaycode01](https://github.com/Jaycode01)
-- [Langageneo](https://github.com/Langageneo)
-- [almamun-git](https://github.com/almamun-git)
-- [luuuisc](https://github.com/luuuisc)
-- [Twizter01](https://github.com/Twizter01)
-- [Leratobig](https://github.com/Leratobig)
-- [NE7K](https://github.com/NE7K)
-- [OTOMER0ID](https://github.com/OTOMER0ID)
-- [viktorcruz](https://github.com/viktorcruz)
+- [rukaiya300](https://github.com/rukaiya300)
+- [X30G](https://github.com/X30G)
+- [bert093](https://github.com/bert093)
+- [gusavila](https://github.com/gusavila)
+- [Methuseli](https://github.com/Methuseli)
+- [metalalchemist](https://github.com/metalalchemist)
+- [wilwil186](https://github.com/wilwil186)
+- [Katleho-Nyoni](https://github.com/Katleho-Nyoni)
+- [Gerst20051](https://github.com/Gerst20051)
+- [sametcn99](https://github.com/sametcn99)
 
 ## ⭐ Recent stars
 
-- [jackluo2012/datacenter](https://github.com/jackluo2012/datacenter) - 数据中台系统，基于go-zero框架 (today)
-- [kates/html2markdown](https://github.com/kates/html2markdown) - Converts HTML to Markdown (today)
-- [upgradeQ/Streaming-Software-Scripting-Reference](https://github.com/upgradeQ/Streaming-Software-Scripting-Reference) - Reference for OBS Studio Python API (today)
-- [tamhoang1412/backend-swe-interview-questions](https://github.com/tamhoang1412/backend-swe-interview-questions) - Technical interview questions for backend engineer. (today)
-- [thanhlmm/refi-app](https://github.com/thanhlmm/refi-app) - A tool to make interacting with Firestore less painful (today)
+- [adi90x/rancher-active-proxy](https://github.com/adi90x/rancher-active-proxy) - All in one active reverse proxy for Rancher ! For Kubernetes : https://github.com/adi90x/kube-active-proxy   (today)
+- [hshindo/Merlin.jl](https://github.com/hshindo/Merlin.jl) - Deep Learning for Julia (today)
+- [s-yata/darts-clone](https://github.com/s-yata/darts-clone) - A clone of Darts (Double-ARray Trie System) (today)
+- [s-yata/marisa-trie](https://github.com/s-yata/marisa-trie) - MARISA: Matching Algorithm with Recursively Implemented StorAge (today)
+- [seikichi/tiff.js](https://github.com/seikichi/tiff.js) - tiff.js is a port of LibTIFF by compiling the LibTIFF C code with Emscripten. (today)
 
 ## 🔨 Latest Pull Requests I published
 
