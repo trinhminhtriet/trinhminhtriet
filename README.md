@@ -46,24 +46,24 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
-- [FelRFDev](https://github.com/FelRFDev)
-- [vokrob](https://github.com/vokrob)
-- [lmaiphi](https://github.com/lmaiphi)
-- [Lacertilia1](https://github.com/Lacertilia1)
-- [TonnyBlank](https://github.com/TonnyBlank)
-- [404FoundMeX](https://github.com/404FoundMeX)
-- [Boudenzin](https://github.com/Boudenzin)
-- [biohack5079](https://github.com/biohack5079)
-- [BBariOxit](https://github.com/BBariOxit)
-- [0xm4ud](https://github.com/0xm4ud)
+- [Kaayo](https://github.com/Kaayo)
+- [HDAI654](https://github.com/HDAI654)
+- [jefferywmoore](https://github.com/jefferywmoore)
+- [Taner940706](https://github.com/Taner940706)
+- [NgamiBaruch](https://github.com/NgamiBaruch)
+- [realendie](https://github.com/realendie)
+- [Genom-hash](https://github.com/Genom-hash)
+- [tadzo-morel](https://github.com/tadzo-morel)
+- [Kkhalidbinmostafahridoy](https://github.com/Kkhalidbinmostafahridoy)
+- [mukk38](https://github.com/mukk38)
 
 ## ⭐ Recent stars
 
-- [gitpel/letsencrypt-routeros](https://github.com/gitpel/letsencrypt-routeros) - Let's Encrypt certificates for RouterOS / Mikrotik (today)
-- [ginpei/html5-youtube.js](https://github.com/ginpei/html5-youtube.js) - YouTube Player API wrapper like HTML5 video API. (today)
-- [michaelrommel/nvim-silicon](https://github.com/michaelrommel/nvim-silicon) - neovim plugin to create code images using the external silicon tool. (today)
-- [bskari/pi-rc](https://github.com/bskari/pi-rc) - Turn your Raspberry Pi into a radio controller for RC toys. (today)
-- [fredoverflow/skorbut](https://github.com/fredoverflow/skorbut) - Let us C what's going on in memory! (today)
+- [fairy-root/steam-depot-online](https://github.com/fairy-root/steam-depot-online) - Steam Depot Online (SDO) allows you to download and manage Steam manifests. It fetches manifest and key.vdf data from GitHub repositories. Generates Lua scripts for decryption keys, and saves them in a zip archive. (today)
+- [fairy-root/Flux-Prompt-Generator](https://github.com/fairy-root/Flux-Prompt-Generator) - Flux Prompt Generator provides a flexible and customizable prompt generator for generating detailed and creative prompts for image generation models. (today)
+- [fly8888/cursor_machine_id](https://github.com/fly8888/cursor_machine_id) - 一键修改cursor 设备ID，解除设备锁定状态，为什么会有这个工具。。。因为我的设备被锁了。。。。 (today)
+- [bestK/kiro2cc](https://github.com/bestK/kiro2cc) - kiro to claude code (today)
+- [bestK/tv](https://github.com/bestK/tv) (today)
 
 ## 🔨 Latest Pull Requests I published
 
