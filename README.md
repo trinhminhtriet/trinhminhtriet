@@ -46,24 +46,24 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [TonnyBlank](https://github.com/TonnyBlank)
+- [404FoundMeX](https://github.com/404FoundMeX)
+- [Boudenzin](https://github.com/Boudenzin)
+- [biohack5079](https://github.com/biohack5079)
+- [BBariOxit](https://github.com/BBariOxit)
 - [0xm4ud](https://github.com/0xm4ud)
 - [buraxta](https://github.com/buraxta)
 - [shahriar0999](https://github.com/shahriar0999)
 - [ckk914](https://github.com/ckk914)
 - [petersawm](https://github.com/petersawm)
-- [ionutms](https://github.com/ionutms)
-- [daviddozie](https://github.com/daviddozie)
-- [PapiHack](https://github.com/PapiHack)
-- [asmaydn28](https://github.com/asmaydn28)
-- [toastkidjp](https://github.com/toastkidjp)
 
 ## ⭐ Recent stars
 
+- [ginpei/html5-youtube.js](https://github.com/ginpei/html5-youtube.js) - YouTube Player API wrapper like HTML5 video API. (today)
 - [michaelrommel/nvim-silicon](https://github.com/michaelrommel/nvim-silicon) - neovim plugin to create code images using the external silicon tool. (today)
 - [bskari/pi-rc](https://github.com/bskari/pi-rc) - Turn your Raspberry Pi into a radio controller for RC toys. (today)
 - [fredoverflow/skorbut](https://github.com/fredoverflow/skorbut) - Let us C what's going on in memory! (today)
 - [fredoverflow/karel](https://github.com/fredoverflow/karel) - Karel The Robot (today)
-- [chao325/Evil.js](https://github.com/chao325/Evil.js) - 专注技术的库 (today)
 
 ## 🔨 Latest Pull Requests I published
 
