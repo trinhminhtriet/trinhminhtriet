@@ -46,24 +46,24 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [AKDev32](https://github.com/AKDev32)
+- [ZeusyBoy98](https://github.com/ZeusyBoy98)
+- [haajilari](https://github.com/haajilari)
+- [FaresAhmed23](https://github.com/FaresAhmed23)
+- [ozkanparlar](https://github.com/ozkanparlar)
+- [abolfazlmahdikhanii](https://github.com/abolfazlmahdikhanii)
+- [COUNTRY-HUMANS](https://github.com/COUNTRY-HUMANS)
 - [HopelessCompass](https://github.com/HopelessCompass)
 - [deemah-dev](https://github.com/deemah-dev)
 - [hassansaker](https://github.com/hassansaker)
-- [Dhie-boop](https://github.com/Dhie-boop)
-- [farrelwibawa](https://github.com/farrelwibawa)
-- [Andyameta](https://github.com/Andyameta)
-- [ANKITKUMARBARIK](https://github.com/ANKITKUMARBARIK)
-- [riskAnalystAjay](https://github.com/riskAnalystAjay)
-- [HimanshiKhattri](https://github.com/HimanshiKhattri)
-- [rahmantamim11](https://github.com/rahmantamim11)
 
 ## ⭐ Recent stars
 
+- [mhmdmhd6/Mac-OS-Desktop](https://github.com/mhmdmhd6/Mac-OS-Desktop) - created mac OS desktop with HTML, CSS, JS 😀 (today)
+- [unfor19/terraform-multienv](https://github.com/unfor19/terraform-multienv) - A template for maintaining a multiple environments infrastructure with Terraform. This template includes a CI/CD process, that applies the infrastructure in an AWS account. (today)
+- [unfor19/bargs](https://github.com/unfor19/bargs) - A framework for creating a Bash CLI application. (today)
+- [unfor19/kubernetes-localdev](https://github.com/unfor19/kubernetes-localdev) - Create a local Kubernetes development environment on macOS or Windows and WSL2, including HTTPS/TLS and OAuth2/OIDC authentication. (today)
 - [mrkamel/search_flip](https://github.com/mrkamel/search_flip) - Full-Featured ElasticSearch Ruby Client with a Chainable DSL (today)
-- [mrkamel/search_cop](https://github.com/mrkamel/search_cop) - Search engine like fulltext query support for ActiveRecord (today)
-- [danielplohmann/smda](https://github.com/danielplohmann/smda) - SMDA is a minimalist recursive disassembler library that is optimized for accurate Control Flow Graph (CFG) recovery from memory dumps. (today)
-- [danielplohmann/apiscout](https://github.com/danielplohmann/apiscout) - This project aims at simplifying Windows API import recovery on arbitrary memory dumps (today)
-- [StrangerealIntel/Orion](https://github.com/StrangerealIntel/Orion) - A YARA rules repository continuously updated for monitoring the old and new threats from articles, incidents responses ... (today)
 
 ## 🔨 Latest Pull Requests I published
 
