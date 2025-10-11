@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [AutoBotSolutions](https://github.com/AutoBotSolutions)
+- [Thenightflower](https://github.com/Thenightflower)
 - [AKDev32](https://github.com/AKDev32)
 - [ZeusyBoy98](https://github.com/ZeusyBoy98)
 - [haajilari](https://github.com/haajilari)
@@ -54,16 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [abolfazlmahdikhanii](https://github.com/abolfazlmahdikhanii)
 - [COUNTRY-HUMANS](https://github.com/COUNTRY-HUMANS)
 - [HopelessCompass](https://github.com/HopelessCompass)
-- [deemah-dev](https://github.com/deemah-dev)
-- [hassansaker](https://github.com/hassansaker)
 
 ## ⭐ Recent stars
 
+- [joshgeller/react-redux-jwt-auth-example](https://github.com/joshgeller/react-redux-jwt-auth-example) - Sample project showing possible authentication flow using React, Redux, React-Router, and JWT (today)
+- [laurendorman/komputer-maschine](https://github.com/laurendorman/komputer-maschine) - A script that gets your machine ready for development. (today)
 - [mhmdmhd6/Mac-OS-Desktop](https://github.com/mhmdmhd6/Mac-OS-Desktop) - created mac OS desktop with HTML, CSS, JS 😀 (today)
 - [unfor19/terraform-multienv](https://github.com/unfor19/terraform-multienv) - A template for maintaining a multiple environments infrastructure with Terraform. This template includes a CI/CD process, that applies the infrastructure in an AWS account. (today)
 - [unfor19/bargs](https://github.com/unfor19/bargs) - A framework for creating a Bash CLI application. (today)
-- [unfor19/kubernetes-localdev](https://github.com/unfor19/kubernetes-localdev) - Create a local Kubernetes development environment on macOS or Windows and WSL2, including HTTPS/TLS and OAuth2/OIDC authentication. (today)
-- [mrkamel/search_flip](https://github.com/mrkamel/search_flip) - Full-Featured ElasticSearch Ruby Client with a Chainable DSL (today)
 
 ## 🔨 Latest Pull Requests I published
 
