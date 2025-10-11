@@ -46,24 +46,24 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [AB-20005](https://github.com/AB-20005)
+- [Bitxo92](https://github.com/Bitxo92)
+- [sirestar1](https://github.com/sirestar1)
+- [abdarrhmanessetaoui](https://github.com/abdarrhmanessetaoui)
+- [smartlizardpy](https://github.com/smartlizardpy)
+- [light-hat](https://github.com/light-hat)
+- [al102030](https://github.com/al102030)
 - [AutoBotSolutions](https://github.com/AutoBotSolutions)
 - [Thenightflower](https://github.com/Thenightflower)
 - [AKDev32](https://github.com/AKDev32)
-- [ZeusyBoy98](https://github.com/ZeusyBoy98)
-- [haajilari](https://github.com/haajilari)
-- [FaresAhmed23](https://github.com/FaresAhmed23)
-- [ozkanparlar](https://github.com/ozkanparlar)
-- [abolfazlmahdikhanii](https://github.com/abolfazlmahdikhanii)
-- [COUNTRY-HUMANS](https://github.com/COUNTRY-HUMANS)
-- [HopelessCompass](https://github.com/HopelessCompass)
 
 ## ⭐ Recent stars
 
-- [joshgeller/react-redux-jwt-auth-example](https://github.com/joshgeller/react-redux-jwt-auth-example) - Sample project showing possible authentication flow using React, Redux, React-Router, and JWT (today)
-- [laurendorman/komputer-maschine](https://github.com/laurendorman/komputer-maschine) - A script that gets your machine ready for development. (today)
-- [mhmdmhd6/Mac-OS-Desktop](https://github.com/mhmdmhd6/Mac-OS-Desktop) - created mac OS desktop with HTML, CSS, JS 😀 (today)
-- [unfor19/terraform-multienv](https://github.com/unfor19/terraform-multienv) - A template for maintaining a multiple environments infrastructure with Terraform. This template includes a CI/CD process, that applies the infrastructure in an AWS account. (today)
-- [unfor19/bargs](https://github.com/unfor19/bargs) - A framework for creating a Bash CLI application. (today)
+- [Dakini/AnimeColorDeOldify](https://github.com/Dakini/AnimeColorDeOldify) - Colorise Anime/Manga Sketches with DeOldify (today)
+- [satishpatnayak/AndroGoat](https://github.com/satishpatnayak/AndroGoat) - AndroGoat (today)
+- [huaying/instagram-crawler](https://github.com/huaying/instagram-crawler) - Get Instagram posts/profile/hashtag data without using Instagram API (today)
+- [hatlord/snmpwn](https://github.com/hatlord/snmpwn) - An SNMPv3 User Enumerator and Attack tool (today)
+- [clu3bot/owt](https://github.com/clu3bot/owt) - Update Version 3.1 added free SMS messaging. (today)
 
 ## 🔨 Latest Pull Requests I published
 
