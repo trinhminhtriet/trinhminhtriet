@@ -33,7 +33,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👷 Check out what I'm currently working on
 
-- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (today)
+- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (1 day ago)
 - [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) - 🚀 All-in-one CLI toolkit for developers: scaffold, manage, automate, and boost productivity across languages! (2 weeks ago)
 - [lamhaison/aws-cli-utils](https://github.com/lamhaison/aws-cli-utils) - This is the project to collect helpful aws cli commandline with complex options to support your working (3 weeks ago)
 - [trinhminhtriet/dwipe](https://github.com/trinhminhtriet/dwipe) - 🧹 Fast, cross-platform disk cleanup tool with interactive UI for easy directory size visualization. (1 month ago)
@@ -46,24 +46,24 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
-- [Pero4l](https://github.com/Pero4l)
-- [Hetfield7](https://github.com/Hetfield7)
-- [pfuhrmann](https://github.com/pfuhrmann)
-- [HedonisticOpportunist](https://github.com/HedonisticOpportunist)
-- [culturalmeltingpott](https://github.com/culturalmeltingpott)
-- [ekouekam](https://github.com/ekouekam)
-- [Sir-Programmer](https://github.com/Sir-Programmer)
-- [bokensha12](https://github.com/bokensha12)
-- [AliRizaSevgili](https://github.com/AliRizaSevgili)
-- [DanielSouza2005](https://github.com/DanielSouza2005)
+- [spokeisheree](https://github.com/spokeisheree)
+- [bradthaniyel](https://github.com/bradthaniyel)
+- [KhushiRajurkar](https://github.com/KhushiRajurkar)
+- [morris2023225](https://github.com/morris2023225)
+- [petermartens98](https://github.com/petermartens98)
+- [actual-ragebait](https://github.com/actual-ragebait)
+- [NYANYAN-CAT](https://github.com/NYANYAN-CAT)
+- [KamoSmbatyan0729](https://github.com/KamoSmbatyan0729)
+- [TonyVHT](https://github.com/TonyVHT)
+- [AnoopCA](https://github.com/AnoopCA)
 
 ## ⭐ Recent stars
 
-- [eggtoopain/Neovim-Configuration-Tutorial](https://github.com/eggtoopain/Neovim-Configuration-Tutorial) (today)
-- [victorbalssa/abacus](https://github.com/victorbalssa/abacus) - Abacus: Firefly III mobile application. (today)
-- [mehradsadeghi/laravel-filter-querystring](https://github.com/mehradsadeghi/laravel-filter-querystring) - Filter your queries based on url query string parameters like a breeze. (today)
-- [mehradsadeghi/laravel-crud-generator](https://github.com/mehradsadeghi/laravel-crud-generator) - Generate a CRUD scaffold with validation rules like a breeze. (today)
-- [laylavish/uBlockOrigin-HUGE-AI-Blocklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist) - A huge blocklist of manually curated sites that contain AI generated imagery for uBlock Origin & uBlacklist. (today)
+- [metasidd/ColorTokensKit-Swift](https://github.com/metasidd/ColorTokensKit-Swift) - A powerful color tokens system for Apple platforms (today)
+- [metasidd/Prototype-Siri-Screen-Animation](https://github.com/metasidd/Prototype-Siri-Screen-Animation) (today)
+- [metasidd/Orb](https://github.com/metasidd/Orb) - A mesmerizing orb, fully designed in SwiftUI. (today)
+- [winddpan/CodableWrapper](https://github.com/winddpan/CodableWrapper) - @CodingKey("encoder", "decoder") var cool: Bool = true (today)
+- [mebtte/excalidraw](https://github.com/mebtte/excalidraw) - 支持自定义字体的 Excalidraw (today)
 
 ## 🔨 Latest Pull Requests I published
 
