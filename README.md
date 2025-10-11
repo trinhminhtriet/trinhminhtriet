@@ -46,16 +46,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Shreya-Sikder](https://github.com/Shreya-Sikder)
+- [woolywool](https://github.com/woolywool)
+- [YeKyaw-Thu](https://github.com/YeKyaw-Thu)
+- [jeanctech](https://github.com/jeanctech)
+- [nurulmashitah20-web](https://github.com/nurulmashitah20-web)
+- [tanveerhari](https://github.com/tanveerhari)
+- [elvirafimansyah](https://github.com/elvirafimansyah)
+- [cholocmc](https://github.com/cholocmc)
+- [herbertDev12](https://github.com/herbertDev12)
 - [ahmadadibzad](https://github.com/ahmadadibzad)
-- [Francesco601](https://github.com/Francesco601)
-- [yavru421](https://github.com/yavru421)
-- [nugiexpres](https://github.com/nugiexpres)
-- [Tounyann](https://github.com/Tounyann)
-- [poisonedcake](https://github.com/poisonedcake)
-- [scarzze](https://github.com/scarzze)
-- [vsix8625](https://github.com/vsix8625)
-- [brencerego](https://github.com/brencerego)
-- [blaszorrilla](https://github.com/blaszorrilla)
 
 ## ⭐ Recent stars
 
