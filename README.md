@@ -46,24 +46,24 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [adelpro](https://github.com/adelpro)
+- [KushalMeghani1644](https://github.com/KushalMeghani1644)
+- [luvshe](https://github.com/luvshe)
+- [BandelaShivaKumar](https://github.com/BandelaShivaKumar)
+- [Alias2806](https://github.com/Alias2806)
+- [Equiia](https://github.com/Equiia)
 - [Shreya-Sikder](https://github.com/Shreya-Sikder)
 - [woolywool](https://github.com/woolywool)
 - [YeKyaw-Thu](https://github.com/YeKyaw-Thu)
 - [jeanctech](https://github.com/jeanctech)
-- [nurulmashitah20-web](https://github.com/nurulmashitah20-web)
-- [tanveerhari](https://github.com/tanveerhari)
-- [elvirafimansyah](https://github.com/elvirafimansyah)
-- [cholocmc](https://github.com/cholocmc)
-- [herbertDev12](https://github.com/herbertDev12)
-- [ahmadadibzad](https://github.com/ahmadadibzad)
 
 ## ⭐ Recent stars
 
+- [shekyan/slowhttptest](https://github.com/shekyan/slowhttptest) - Application Layer DoS attack simulator (today)
+- [xiaody/react-touch-carousel](https://github.com/xiaody/react-touch-carousel) - Ultra-customizable carousel framework for React.JS (today)
+- [xiaody/react-lines-ellipsis](https://github.com/xiaody/react-lines-ellipsis) - Simple multiline ellipsis component for React.JS (today)
+- [ewebdev/backbone.notifier](https://github.com/ewebdev/backbone.notifier) - Notifications framework for Backbone.js (today)
 - [Adibvafa/CodonTransformer](https://github.com/Adibvafa/CodonTransformer) - CodonTransformer (1M+ Downloads); The tool for codon optimization, optimizing DNA for protein expression (today)
-- [Ahmet-Dedeler/ai-llm-comparison](https://github.com/Ahmet-Dedeler/ai-llm-comparison) - A website where you can compare every AI Model ✨ (today)
-- [ryandamour/ssrfuzz](https://github.com/ryandamour/ssrfuzz) - SSRFuzz is a tool to find Server Side Request Forgery vulnerabilities, with CRLF chaining capabilities (today)
-- [Acekorneya/Ark-Survival-Ascended-Server](https://github.com/Acekorneya/Ark-Survival-Ascended-Server) -  Ark Survival Ascended Server Manager for running multiple server on Linux with API support (today)
-- [superbasicstudio/claude-conductor](https://github.com/superbasicstudio/claude-conductor) - Claude Conductor - a simple Claude Code framework (today)
 
 ## 🔨 Latest Pull Requests I published
 
