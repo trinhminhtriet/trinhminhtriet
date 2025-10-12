@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [viiku](https://github.com/viiku)
+- [CarlosMendez1997Col](https://github.com/CarlosMendez1997Col)
 - [JFCiscoHuerta](https://github.com/JFCiscoHuerta)
 - [sayeedmunees](https://github.com/sayeedmunees)
 - [pinaki-sen](https://github.com/pinaki-sen)
@@ -54,16 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [jomboi8](https://github.com/jomboi8)
 - [casinolover](https://github.com/casinolover)
 - [nuraisi](https://github.com/nuraisi)
-- [HiddenKeyDev](https://github.com/HiddenKeyDev)
-- [HasibCoderLab](https://github.com/HasibCoderLab)
 
 ## ⭐ Recent stars
 
+- [foxundermoon/vs-shell-format](https://github.com/foxundermoon/vs-shell-format) - the shellscript、Dockerfile、properties ...... format extension (today)
+- [PierXuY/ChatGPT-Assistant](https://github.com/PierXuY/ChatGPT-Assistant) - 基于Streamlit搭建的ChatGPT对话助手 (today)
+- [acelaya/doctrine-enum-type](https://github.com/acelaya/doctrine-enum-type) - A custom Doctrine type that maps column values to enum objects using myclabs/php-enum (today)
 - [msloth/lgtv.js](https://github.com/msloth/lgtv.js) - Control LG WebOS TV using node.js (today)
 - [shmuelhizmi/web-desktop-environment](https://github.com/shmuelhizmi/web-desktop-environment) - a web-based cross-platform desktop environment (today)
-- [ThierryBerger/bevy_awesome_prod](https://github.com/ThierryBerger/bevy_awesome_prod) - My curated list of projects using bevy in production, preferably with a company or a business model in mind. (today)
-- [martty/vuk](https://github.com/martty/vuk) - vuk - A rendergraph-based abstraction for Vulkan (today)
-- [cormac-obrien/richter](https://github.com/cormac-obrien/richter) - A modern Quake engine. (today)
 
 ## 🔨 Latest Pull Requests I published
 
