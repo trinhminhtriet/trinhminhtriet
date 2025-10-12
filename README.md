@@ -46,24 +46,24 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [falbas](https://github.com/falbas)
+- [Craig444444444](https://github.com/Craig444444444)
+- [non-exist](https://github.com/non-exist)
+- [MI1309](https://github.com/MI1309)
 - [viiku](https://github.com/viiku)
 - [CarlosMendez1997Col](https://github.com/CarlosMendez1997Col)
 - [JFCiscoHuerta](https://github.com/JFCiscoHuerta)
 - [sayeedmunees](https://github.com/sayeedmunees)
 - [pinaki-sen](https://github.com/pinaki-sen)
 - [gianbdev](https://github.com/gianbdev)
-- [blahpr](https://github.com/blahpr)
-- [jomboi8](https://github.com/jomboi8)
-- [casinolover](https://github.com/casinolover)
-- [nuraisi](https://github.com/nuraisi)
 
 ## ⭐ Recent stars
 
-- [foxundermoon/vs-shell-format](https://github.com/foxundermoon/vs-shell-format) - the shellscript、Dockerfile、properties ...... format extension (today)
-- [PierXuY/ChatGPT-Assistant](https://github.com/PierXuY/ChatGPT-Assistant) - 基于Streamlit搭建的ChatGPT对话助手 (today)
-- [acelaya/doctrine-enum-type](https://github.com/acelaya/doctrine-enum-type) - A custom Doctrine type that maps column values to enum objects using myclabs/php-enum (today)
-- [msloth/lgtv.js](https://github.com/msloth/lgtv.js) - Control LG WebOS TV using node.js (today)
-- [shmuelhizmi/web-desktop-environment](https://github.com/shmuelhizmi/web-desktop-environment) - a web-based cross-platform desktop environment (today)
+- [se3000/ruby-eth](https://github.com/se3000/ruby-eth) - Gem for creating and signing Ethereum transactions. (today)
+- [gpsnmeajp/VirtualMotionTracker](https://github.com/gpsnmeajp/VirtualMotionTracker) - Virtual Motion Tracker - バーチャルモーショントラッカー OpenVR OSC Tracker Driver for DIY users (today)
+- [gpsnmeajp/EasyVirtualMotionCaptureForUnity](https://github.com/gpsnmeajp/EasyVirtualMotionCaptureForUnity) - VMCProtocol Receiver asset for Unity. Easy to use! / バーチャルモーションキャプチャーなどVMCProtocolを受信してUnityに反映するスクリプトです。 (today)
+- [gmelodie/badblue](https://github.com/gmelodie/badblue) - Annoying bluetooth DoS "jammer" (today)
+- [gmelodie/awesome-wordlists](https://github.com/gmelodie/awesome-wordlists) - A curated list of wordlists for bruteforcing and fuzzing (today)
 
 ## 🔨 Latest Pull Requests I published
 
