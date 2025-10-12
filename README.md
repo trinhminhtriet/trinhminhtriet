@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [JFCiscoHuerta](https://github.com/JFCiscoHuerta)
+- [sayeedmunees](https://github.com/sayeedmunees)
 - [pinaki-sen](https://github.com/pinaki-sen)
 - [gianbdev](https://github.com/gianbdev)
 - [blahpr](https://github.com/blahpr)
@@ -54,8 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [nuraisi](https://github.com/nuraisi)
 - [HiddenKeyDev](https://github.com/HiddenKeyDev)
 - [HasibCoderLab](https://github.com/HasibCoderLab)
-- [sashakolpakov](https://github.com/sashakolpakov)
-- [EL-HOUSS-BRAHIM](https://github.com/EL-HOUSS-BRAHIM)
 
 ## ⭐ Recent stars
 
