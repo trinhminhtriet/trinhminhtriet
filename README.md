@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [ElGuruJk-Col](https://github.com/ElGuruJk-Col)
+- [FedericoDM](https://github.com/FedericoDM)
 - [soilwork79](https://github.com/soilwork79)
 - [AsimSafarli](https://github.com/AsimSafarli)
 - [cryptodefi80](https://github.com/cryptodefi80)
@@ -54,8 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [ciceroakiles](https://github.com/ciceroakiles)
 - [alex-semenyuk](https://github.com/alex-semenyuk)
 - [eneskangal](https://github.com/eneskangal)
-- [danadrianmirea](https://github.com/danadrianmirea)
-- [Klus3kk](https://github.com/Klus3kk)
 
 ## ⭐ Recent stars
 
