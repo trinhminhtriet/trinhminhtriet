@@ -46,23 +46,23 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
-- [MANU-de](https://github.com/MANU-de)
-- [emmanuelAron](https://github.com/emmanuelAron)
-- [Doxdxo](https://github.com/Doxdxo)
-- [shubhanshu2006](https://github.com/shubhanshu2006)
-- [gustavochimanski](https://github.com/gustavochimanski)
-- [rescenic](https://github.com/rescenic)
-- [javyxu](https://github.com/javyxu)
-- [iamapuneet](https://github.com/iamapuneet)
-- [0x1381](https://github.com/0x1381)
-- [Wealthometer](https://github.com/Wealthometer)
+- [H3D1](https://github.com/H3D1)
+- [Isac999](https://github.com/Isac999)
+- [programacionparaaprender](https://github.com/programacionparaaprender)
+- [diankartika](https://github.com/diankartika)
+- [superstar1122](https://github.com/superstar1122)
+- [mrsaqibale](https://github.com/mrsaqibale)
+- [Wiran-Larbi](https://github.com/Wiran-Larbi)
+- [ishandutta2007](https://github.com/ishandutta2007)
+- [apexdevweb](https://github.com/apexdevweb)
+- [steinertruthy](https://github.com/steinertruthy)
 
 ## ⭐ Recent stars
 
+- [liuzc/LeaveIt](https://github.com/liuzc/LeaveIt) - A simple, minimal, clean blog theme for hugo. (today)
+- [rabbal/DNTFrameworkCore](https://github.com/rabbal/DNTFrameworkCore) - Lightweight and Extensible Infrastructure for Building Web Applications - Web Application Framework (today)
+- [wuwenjie1992/StarryDivineSky](https://github.com/wuwenjie1992/StarryDivineSky) - 精选了10K+项目，包括机器学习、深度学习、NLP、GNN、推荐系统、生物医药、机器视觉、前后端开发等内容。Selected more than 10k+ projects, including machine learning, deep learning, NLP, GNN, recommendation system, biomedicine, machine vision, etc. Let more excellent projects be discovered by people. Continue to update! Welcome to star!  (today)
 - [patrickbr/gtfstidy](https://github.com/patrickbr/gtfstidy) - A tool for checking, sanitizing and minimizing GTFS feeds. (today)
 - [liuq/QuadProgpp](https://github.com/liuq/QuadProgpp) - A C++ library for Quadratic Programming which implements the Goldfarb-Idnani active-set dual method. (today)
-- [ilyankou/passport-index-dataset](https://github.com/ilyankou/passport-index-dataset) - Passport Index 2025: visa requirements for 199 countries, in .csv (today)
-- [greenape/mknotebooks](https://github.com/greenape/mknotebooks) - A plugin for mkdocs to help you include Jupyter notebooks in your projects (today)
-- [brandmaier/ggx](https://github.com/brandmaier/ggx) - ggx (today)
 
 ## 🔨 Latest Pull Requests I published
