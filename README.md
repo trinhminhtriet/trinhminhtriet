@@ -46,6 +46,9 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Chaitanya-087](https://github.com/Chaitanya-087)
+- [AjeyOS](https://github.com/AjeyOS)
+- [eunolamon](https://github.com/eunolamon)
 - [falbas](https://github.com/falbas)
 - [Craig444444444](https://github.com/Craig444444444)
 - [non-exist](https://github.com/non-exist)
@@ -53,17 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [viiku](https://github.com/viiku)
 - [CarlosMendez1997Col](https://github.com/CarlosMendez1997Col)
 - [JFCiscoHuerta](https://github.com/JFCiscoHuerta)
-- [sayeedmunees](https://github.com/sayeedmunees)
-- [pinaki-sen](https://github.com/pinaki-sen)
-- [gianbdev](https://github.com/gianbdev)
 
 ## ⭐ Recent stars
 
+- [sakusaku3939/DeepLAndroid](https://github.com/sakusaku3939/DeepLAndroid) - Unofficial Android App for DeepL Translator (today)
+- [caduandrade/multi_split_view](https://github.com/caduandrade/multi_split_view) - Provides horizontal or vertical multiple split view for Flutter. (today)
+- [mj-hd/dashboy](https://github.com/mj-hd/dashboy) - Gameboy Emulator implemented by pure Dart (today)
 - [se3000/ruby-eth](https://github.com/se3000/ruby-eth) - Gem for creating and signing Ethereum transactions. (today)
 - [gpsnmeajp/VirtualMotionTracker](https://github.com/gpsnmeajp/VirtualMotionTracker) - Virtual Motion Tracker - バーチャルモーショントラッカー OpenVR OSC Tracker Driver for DIY users (today)
-- [gpsnmeajp/EasyVirtualMotionCaptureForUnity](https://github.com/gpsnmeajp/EasyVirtualMotionCaptureForUnity) - VMCProtocol Receiver asset for Unity. Easy to use! / バーチャルモーションキャプチャーなどVMCProtocolを受信してUnityに反映するスクリプトです。 (today)
-- [gmelodie/badblue](https://github.com/gmelodie/badblue) - Annoying bluetooth DoS "jammer" (today)
-- [gmelodie/awesome-wordlists](https://github.com/gmelodie/awesome-wordlists) - A curated list of wordlists for bruteforcing and fuzzing (today)
 
 ## 🔨 Latest Pull Requests I published
 
