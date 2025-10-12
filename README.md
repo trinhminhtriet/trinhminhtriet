@@ -46,24 +46,24 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [MohseenMolla](https://github.com/MohseenMolla)
+- [Miladssss](https://github.com/Miladssss)
+- [b-kolani](https://github.com/b-kolani)
+- [ducminh1804](https://github.com/ducminh1804)
+- [adokhugi](https://github.com/adokhugi)
+- [rdh59320](https://github.com/rdh59320)
+- [solaranamnesis](https://github.com/solaranamnesis)
 - [Chaitanya-087](https://github.com/Chaitanya-087)
 - [AjeyOS](https://github.com/AjeyOS)
 - [eunolamon](https://github.com/eunolamon)
-- [falbas](https://github.com/falbas)
-- [Craig444444444](https://github.com/Craig444444444)
-- [non-exist](https://github.com/non-exist)
-- [MI1309](https://github.com/MI1309)
-- [viiku](https://github.com/viiku)
-- [CarlosMendez1997Col](https://github.com/CarlosMendez1997Col)
-- [JFCiscoHuerta](https://github.com/JFCiscoHuerta)
 
 ## ⭐ Recent stars
 
-- [sakusaku3939/DeepLAndroid](https://github.com/sakusaku3939/DeepLAndroid) - Unofficial Android App for DeepL Translator (today)
-- [caduandrade/multi_split_view](https://github.com/caduandrade/multi_split_view) - Provides horizontal or vertical multiple split view for Flutter. (today)
-- [mj-hd/dashboy](https://github.com/mj-hd/dashboy) - Gameboy Emulator implemented by pure Dart (today)
-- [se3000/ruby-eth](https://github.com/se3000/ruby-eth) - Gem for creating and signing Ethereum transactions. (today)
-- [gpsnmeajp/VirtualMotionTracker](https://github.com/gpsnmeajp/VirtualMotionTracker) - Virtual Motion Tracker - バーチャルモーショントラッカー OpenVR OSC Tracker Driver for DIY users (today)
+- [argenos/hotkeysplus-obsidian](https://github.com/argenos/hotkeysplus-obsidian) - Adds hotkeys to toggle todos, ordered/unordered lists and blockquotes in Obsidian (today)
+- [argenos/nldates-obsidian](https://github.com/argenos/nldates-obsidian) - Work with dates in natural language in Obsidian (today)
+- [argenos/zotero-mdnotes](https://github.com/argenos/zotero-mdnotes) - A Zotero plugin to export item metadata and notes as markdown files (today)
+- [yonghah/esri2sf](https://github.com/yonghah/esri2sf) - Scrape features from ArcGIS  Server REST API and create simple features dataframe (today)
+- [varoudis/depthmapX](https://github.com/varoudis/depthmapX) - depthmapX is a multi-platform Spatial Network Analysis Software (today)
 
 ## 🔨 Latest Pull Requests I published
 
