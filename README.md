@@ -46,24 +46,24 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [pinaki-sen](https://github.com/pinaki-sen)
+- [gianbdev](https://github.com/gianbdev)
+- [blahpr](https://github.com/blahpr)
+- [jomboi8](https://github.com/jomboi8)
 - [casinolover](https://github.com/casinolover)
 - [nuraisi](https://github.com/nuraisi)
 - [HiddenKeyDev](https://github.com/HiddenKeyDev)
 - [HasibCoderLab](https://github.com/HasibCoderLab)
 - [sashakolpakov](https://github.com/sashakolpakov)
 - [EL-HOUSS-BRAHIM](https://github.com/EL-HOUSS-BRAHIM)
-- [akannimhi](https://github.com/akannimhi)
-- [refirst11](https://github.com/refirst11)
-- [Nigel-Moes](https://github.com/Nigel-Moes)
-- [KillerZeus666](https://github.com/KillerZeus666)
 
 ## ⭐ Recent stars
 
-- [adneal/Apollo-CM](https://github.com/adneal/Apollo-CM) - Android yacht player (today)
-- [begla/Intrinsic](https://github.com/begla/Intrinsic) - Intrinsic is a Vulkan based cross-platform game and rendering engine. The project is currently in an early stage of development. (today)
-- [doanduyhai/Achilles](https://github.com/doanduyhai/Achilles) - An advanced Java Object Mapper/Query DSL generator for Cassandra (today)
-- [TCB13/LoFloccus](https://github.com/TCB13/LoFloccus) - Sync Floccus' browser bookmarks to a local folder / any cloud. (today)
-- [yuzhva/react-leaflet-markercluster](https://github.com/yuzhva/react-leaflet-markercluster) - React wrapper of the official Leaflet.markercluster for react-leaflet (today)
+- [msloth/lgtv.js](https://github.com/msloth/lgtv.js) - Control LG WebOS TV using node.js (today)
+- [shmuelhizmi/web-desktop-environment](https://github.com/shmuelhizmi/web-desktop-environment) - a web-based cross-platform desktop environment (today)
+- [ThierryBerger/bevy_awesome_prod](https://github.com/ThierryBerger/bevy_awesome_prod) - My curated list of projects using bevy in production, preferably with a company or a business model in mind. (today)
+- [martty/vuk](https://github.com/martty/vuk) - vuk - A rendergraph-based abstraction for Vulkan (today)
+- [cormac-obrien/richter](https://github.com/cormac-obrien/richter) - A modern Quake engine. (today)
 
 ## 🔨 Latest Pull Requests I published
 
