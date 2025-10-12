@@ -46,16 +46,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [tyronejosee](https://github.com/tyronejosee)
+- [cainhooow](https://github.com/cainhooow)
+- [KiLLbILLeveryDm](https://github.com/KiLLbILLeveryDm)
+- [IbrahimTanyalcin](https://github.com/IbrahimTanyalcin)
 - [ElGuruJk-Col](https://github.com/ElGuruJk-Col)
 - [FedericoDM](https://github.com/FedericoDM)
 - [soilwork79](https://github.com/soilwork79)
 - [AsimSafarli](https://github.com/AsimSafarli)
 - [cryptodefi80](https://github.com/cryptodefi80)
 - [MahdiOsali](https://github.com/MahdiOsali)
-- [Sabbir386](https://github.com/Sabbir386)
-- [ciceroakiles](https://github.com/ciceroakiles)
-- [alex-semenyuk](https://github.com/alex-semenyuk)
-- [eneskangal](https://github.com/eneskangal)
 
 ## ⭐ Recent stars
 
