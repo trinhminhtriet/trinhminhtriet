@@ -46,23 +46,23 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [eneskangal](https://github.com/eneskangal)
+- [danadrianmirea](https://github.com/danadrianmirea)
+- [Klus3kk](https://github.com/Klus3kk)
+- [Devika2605](https://github.com/Devika2605)
+- [Cauchupho2005](https://github.com/Cauchupho2005)
+- [Theodora-11](https://github.com/Theodora-11)
+- [Dzadafa](https://github.com/Dzadafa)
+- [davehorner](https://github.com/davehorner)
 - [Emsss777](https://github.com/Emsss777)
 - [jusot99](https://github.com/jusot99)
-- [Valikkot](https://github.com/Valikkot)
-- [longvudai](https://github.com/longvudai)
-- [angillaf](https://github.com/angillaf)
-- [PepeSilvia88](https://github.com/PepeSilvia88)
-- [KibutuJr](https://github.com/KibutuJr)
-- [nicksakwa](https://github.com/nicksakwa)
-- [criszst](https://github.com/criszst)
-- [joshuaworth](https://github.com/joshuaworth)
 
 ## ⭐ Recent stars
 
-- [operand/agency](https://github.com/operand/agency) - A fast and minimal framework for building agentic systems (today)
-- [JeremyTsaii/leetcode-stats-api](https://github.com/JeremyTsaii/leetcode-stats-api) - API to retrieve LeetCode profile statistics (today)
-- [lukaszcz/coqhammer](https://github.com/lukaszcz/coqhammer) - CoqHammer: An Automated Reasoning Hammer Tool for Rocq - Proof Automation for Dependent Type Theory (today)
-- [spacedentist/spr](https://github.com/spacedentist/spr) - Submit pull requests for individual, amendable, rebaseable commits to GitHub (today)
-- [rachartier/tiny-glimmer.nvim](https://github.com/rachartier/tiny-glimmer.nvim) - A tiny Neovim plugin that adds subtle animations to various operations. (today)
+- [Platinguin/Godot-Cloud-Worlds](https://github.com/Platinguin/Godot-Cloud-Worlds) (today)
+- [Platinguin/Godot-Water-Shader-Prototype](https://github.com/Platinguin/Godot-Water-Shader-Prototype) - Water Shader Prototype for Godot (today)
+- [nekotogd/Godot_BoTW_Toon_Shader](https://github.com/nekotogd/Godot_BoTW_Toon_Shader) - A TRUE BoTW style shadeer for Godot. BoTW's warbly shadows, multiple lights. Its the whole package! (today)
+- [catprisbrey/Godot4-OpenAnimationLibraries](https://github.com/catprisbrey/Godot4-OpenAnimationLibraries) - Ready-to-use Animation libraries to retarget to bones in Godot4 (today)
+- [catprisbrey/Cats-Godot4-Modular-Souls-like-Template](https://github.com/catprisbrey/Cats-Godot4-Modular-Souls-like-Template) - Cat's loosely coupled souls-like game template/asset pack for the Godot Engine. (today)
 
 ## 🔨 Latest Pull Requests I published
