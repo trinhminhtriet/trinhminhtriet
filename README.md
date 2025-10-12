@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Beauty-Smile](https://github.com/Beauty-Smile)
+- [dastoikov](https://github.com/dastoikov)
 - [MohseenMolla](https://github.com/MohseenMolla)
 - [Miladssss](https://github.com/Miladssss)
 - [b-kolani](https://github.com/b-kolani)
@@ -54,16 +56,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [rdh59320](https://github.com/rdh59320)
 - [solaranamnesis](https://github.com/solaranamnesis)
 - [Chaitanya-087](https://github.com/Chaitanya-087)
-- [AjeyOS](https://github.com/AjeyOS)
-- [eunolamon](https://github.com/eunolamon)
 
 ## ⭐ Recent stars
 
-- [argenos/hotkeysplus-obsidian](https://github.com/argenos/hotkeysplus-obsidian) - Adds hotkeys to toggle todos, ordered/unordered lists and blockquotes in Obsidian (today)
-- [argenos/nldates-obsidian](https://github.com/argenos/nldates-obsidian) - Work with dates in natural language in Obsidian (today)
-- [argenos/zotero-mdnotes](https://github.com/argenos/zotero-mdnotes) - A Zotero plugin to export item metadata and notes as markdown files (today)
-- [yonghah/esri2sf](https://github.com/yonghah/esri2sf) - Scrape features from ArcGIS  Server REST API and create simple features dataframe (today)
-- [varoudis/depthmapX](https://github.com/varoudis/depthmapX) - depthmapX is a multi-platform Spatial Network Analysis Software (today)
+- [patrickbr/gtfstidy](https://github.com/patrickbr/gtfstidy) - A tool for checking, sanitizing and minimizing GTFS feeds. (today)
+- [liuq/QuadProgpp](https://github.com/liuq/QuadProgpp) - A C++ library for Quadratic Programming which implements the Goldfarb-Idnani active-set dual method. (today)
+- [ilyankou/passport-index-dataset](https://github.com/ilyankou/passport-index-dataset) - Passport Index 2025: visa requirements for 199 countries, in .csv (today)
+- [greenape/mknotebooks](https://github.com/greenape/mknotebooks) - A plugin for mkdocs to help you include Jupyter notebooks in your projects (today)
+- [brandmaier/ggx](https://github.com/brandmaier/ggx) - ggx (today)
 
 ## 🔨 Latest Pull Requests I published
 
