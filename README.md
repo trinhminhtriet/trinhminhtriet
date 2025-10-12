@@ -46,23 +46,23 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Emsss777](https://github.com/Emsss777)
+- [jusot99](https://github.com/jusot99)
+- [Valikkot](https://github.com/Valikkot)
+- [longvudai](https://github.com/longvudai)
+- [angillaf](https://github.com/angillaf)
+- [PepeSilvia88](https://github.com/PepeSilvia88)
+- [KibutuJr](https://github.com/KibutuJr)
+- [nicksakwa](https://github.com/nicksakwa)
+- [criszst](https://github.com/criszst)
 - [joshuaworth](https://github.com/joshuaworth)
-- [iakadion](https://github.com/iakadion)
-- [Koshlensky](https://github.com/Koshlensky)
-- [eddy1759](https://github.com/eddy1759)
-- [deromafilossali](https://github.com/deromafilossali)
-- [mdtahsinamin](https://github.com/mdtahsinamin)
-- [Cabero07](https://github.com/Cabero07)
-- [yassineab53](https://github.com/yassineab53)
-- [FaizanAhmed-RDVC1567](https://github.com/FaizanAhmed-RDVC1567)
-- [H3D1](https://github.com/H3D1)
 
 ## ⭐ Recent stars
 
+- [operand/agency](https://github.com/operand/agency) - A fast and minimal framework for building agentic systems (today)
+- [JeremyTsaii/leetcode-stats-api](https://github.com/JeremyTsaii/leetcode-stats-api) - API to retrieve LeetCode profile statistics (today)
+- [lukaszcz/coqhammer](https://github.com/lukaszcz/coqhammer) - CoqHammer: An Automated Reasoning Hammer Tool for Rocq - Proof Automation for Dependent Type Theory (today)
 - [spacedentist/spr](https://github.com/spacedentist/spr) - Submit pull requests for individual, amendable, rebaseable commits to GitHub (today)
 - [rachartier/tiny-glimmer.nvim](https://github.com/rachartier/tiny-glimmer.nvim) - A tiny Neovim plugin that adds subtle animations to various operations. (today)
-- [rachartier/tiny-code-action.nvim](https://github.com/rachartier/tiny-code-action.nvim) - A Neovim plugin that provides a simple way to run and visualize code actions with Telescope. (today)
-- [rachartier/tiny-inline-diagnostic.nvim](https://github.com/rachartier/tiny-inline-diagnostic.nvim) - A Neovim plugin that display prettier diagnostic messages. Display diagnostic messages where the cursor is, with icons and colors. (today)
-- [zikes/chrisify](https://github.com/zikes/chrisify) - Adds some much needed Chris to an image. (today)
 
 ## 🔨 Latest Pull Requests I published
