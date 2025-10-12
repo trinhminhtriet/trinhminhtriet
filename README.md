@@ -33,7 +33,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👷 Check out what I'm currently working on
 
-- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (today)
+- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (1 day ago)
 - [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) - 🚀 All-in-one CLI toolkit for developers: scaffold, manage, automate, and boost productivity across languages! (2 weeks ago)
 - [lamhaison/aws-cli-utils](https://github.com/lamhaison/aws-cli-utils) - This is the project to collect helpful aws cli commandline with complex options to support your working (3 weeks ago)
 - [trinhminhtriet/dwipe](https://github.com/trinhminhtriet/dwipe) - 🧹 Fast, cross-platform disk cleanup tool with interactive UI for easy directory size visualization. (1 month ago)
@@ -46,24 +46,24 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
-- [rukaiya300](https://github.com/rukaiya300)
-- [X30G](https://github.com/X30G)
-- [bert093](https://github.com/bert093)
-- [gusavila](https://github.com/gusavila)
-- [Methuseli](https://github.com/Methuseli)
-- [metalalchemist](https://github.com/metalalchemist)
-- [wilwil186](https://github.com/wilwil186)
-- [Katleho-Nyoni](https://github.com/Katleho-Nyoni)
-- [Gerst20051](https://github.com/Gerst20051)
-- [sametcn99](https://github.com/sametcn99)
+- [casinolover](https://github.com/casinolover)
+- [nuraisi](https://github.com/nuraisi)
+- [HiddenKeyDev](https://github.com/HiddenKeyDev)
+- [HasibCoderLab](https://github.com/HasibCoderLab)
+- [sashakolpakov](https://github.com/sashakolpakov)
+- [EL-HOUSS-BRAHIM](https://github.com/EL-HOUSS-BRAHIM)
+- [akannimhi](https://github.com/akannimhi)
+- [refirst11](https://github.com/refirst11)
+- [Nigel-Moes](https://github.com/Nigel-Moes)
+- [KillerZeus666](https://github.com/KillerZeus666)
 
 ## ⭐ Recent stars
 
-- [adi90x/rancher-active-proxy](https://github.com/adi90x/rancher-active-proxy) - All in one active reverse proxy for Rancher ! For Kubernetes : https://github.com/adi90x/kube-active-proxy   (today)
-- [hshindo/Merlin.jl](https://github.com/hshindo/Merlin.jl) - Deep Learning for Julia (today)
-- [s-yata/darts-clone](https://github.com/s-yata/darts-clone) - A clone of Darts (Double-ARray Trie System) (today)
-- [s-yata/marisa-trie](https://github.com/s-yata/marisa-trie) - MARISA: Matching Algorithm with Recursively Implemented StorAge (today)
-- [seikichi/tiff.js](https://github.com/seikichi/tiff.js) - tiff.js is a port of LibTIFF by compiling the LibTIFF C code with Emscripten. (today)
+- [adneal/Apollo-CM](https://github.com/adneal/Apollo-CM) - Android yacht player (today)
+- [begla/Intrinsic](https://github.com/begla/Intrinsic) - Intrinsic is a Vulkan based cross-platform game and rendering engine. The project is currently in an early stage of development. (today)
+- [doanduyhai/Achilles](https://github.com/doanduyhai/Achilles) - An advanced Java Object Mapper/Query DSL generator for Cassandra (today)
+- [TCB13/LoFloccus](https://github.com/TCB13/LoFloccus) - Sync Floccus' browser bookmarks to a local folder / any cloud. (today)
+- [yuzhva/react-leaflet-markercluster](https://github.com/yuzhva/react-leaflet-markercluster) - React wrapper of the official Leaflet.markercluster for react-leaflet (today)
 
 ## 🔨 Latest Pull Requests I published
 
