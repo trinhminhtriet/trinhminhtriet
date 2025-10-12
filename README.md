@@ -46,6 +46,9 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [soilwork79](https://github.com/soilwork79)
+- [AsimSafarli](https://github.com/AsimSafarli)
+- [cryptodefi80](https://github.com/cryptodefi80)
 - [MahdiOsali](https://github.com/MahdiOsali)
 - [Sabbir386](https://github.com/Sabbir386)
 - [ciceroakiles](https://github.com/ciceroakiles)
@@ -53,9 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [eneskangal](https://github.com/eneskangal)
 - [danadrianmirea](https://github.com/danadrianmirea)
 - [Klus3kk](https://github.com/Klus3kk)
-- [Devika2605](https://github.com/Devika2605)
-- [Cauchupho2005](https://github.com/Cauchupho2005)
-- [Theodora-11](https://github.com/Theodora-11)
 
 ## ⭐ Recent stars
 
