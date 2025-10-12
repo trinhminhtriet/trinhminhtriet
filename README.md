@@ -46,23 +46,23 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [CharlesCreativeContent](https://github.com/CharlesCreativeContent)
+- [DrVictoriaAdamsMD](https://github.com/DrVictoriaAdamsMD)
+- [Stephanvs](https://github.com/Stephanvs)
+- [ocvcoin](https://github.com/ocvcoin)
+- [Karima-mnr](https://github.com/Karima-mnr)
 - [tyronejosee](https://github.com/tyronejosee)
 - [cainhooow](https://github.com/cainhooow)
 - [KiLLbILLeveryDm](https://github.com/KiLLbILLeveryDm)
-- [IbrahimTanyalcin](https://github.com/IbrahimTanyalcin)
 - [ElGuruJk-Col](https://github.com/ElGuruJk-Col)
 - [FedericoDM](https://github.com/FedericoDM)
-- [soilwork79](https://github.com/soilwork79)
-- [AsimSafarli](https://github.com/AsimSafarli)
-- [cryptodefi80](https://github.com/cryptodefi80)
-- [MahdiOsali](https://github.com/MahdiOsali)
 
 ## ⭐ Recent stars
 
+- [draperjames/qtpandas](https://github.com/draperjames/qtpandas) - Qt Meets Pandas (today)
 - [bilalsammour/DobList](https://github.com/bilalsammour/DobList) - DobLis is an Open Source Android library that provides to ListView adding ProgressBar (or any view) to the footer of ListView to be shown in loading more, and callback that is called when reaching last item in ListView. (today)
 - [Platinguin/Godot-Cloud-Worlds](https://github.com/Platinguin/Godot-Cloud-Worlds) (today)
 - [Platinguin/Godot-Water-Shader-Prototype](https://github.com/Platinguin/Godot-Water-Shader-Prototype) - Water Shader Prototype for Godot (today)
 - [nekotogd/Godot_BoTW_Toon_Shader](https://github.com/nekotogd/Godot_BoTW_Toon_Shader) - A TRUE BoTW style shadeer for Godot. BoTW's warbly shadows, multiple lights. Its the whole package! (today)
-- [catprisbrey/Godot4-OpenAnimationLibraries](https://github.com/catprisbrey/Godot4-OpenAnimationLibraries) - Ready-to-use Animation libraries to retarget to bones in Godot4 (today)
 
 ## 🔨 Latest Pull Requests I published
