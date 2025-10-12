@@ -46,23 +46,23 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [joshuaworth](https://github.com/joshuaworth)
+- [iakadion](https://github.com/iakadion)
+- [Koshlensky](https://github.com/Koshlensky)
+- [eddy1759](https://github.com/eddy1759)
+- [deromafilossali](https://github.com/deromafilossali)
+- [mdtahsinamin](https://github.com/mdtahsinamin)
+- [Cabero07](https://github.com/Cabero07)
+- [yassineab53](https://github.com/yassineab53)
+- [FaizanAhmed-RDVC1567](https://github.com/FaizanAhmed-RDVC1567)
 - [H3D1](https://github.com/H3D1)
-- [Isac999](https://github.com/Isac999)
-- [programacionparaaprender](https://github.com/programacionparaaprender)
-- [diankartika](https://github.com/diankartika)
-- [superstar1122](https://github.com/superstar1122)
-- [mrsaqibale](https://github.com/mrsaqibale)
-- [Wiran-Larbi](https://github.com/Wiran-Larbi)
-- [ishandutta2007](https://github.com/ishandutta2007)
-- [apexdevweb](https://github.com/apexdevweb)
-- [steinertruthy](https://github.com/steinertruthy)
 
 ## ⭐ Recent stars
 
-- [liuzc/LeaveIt](https://github.com/liuzc/LeaveIt) - A simple, minimal, clean blog theme for hugo. (today)
-- [rabbal/DNTFrameworkCore](https://github.com/rabbal/DNTFrameworkCore) - Lightweight and Extensible Infrastructure for Building Web Applications - Web Application Framework (today)
-- [wuwenjie1992/StarryDivineSky](https://github.com/wuwenjie1992/StarryDivineSky) - 精选了10K+项目，包括机器学习、深度学习、NLP、GNN、推荐系统、生物医药、机器视觉、前后端开发等内容。Selected more than 10k+ projects, including machine learning, deep learning, NLP, GNN, recommendation system, biomedicine, machine vision, etc. Let more excellent projects be discovered by people. Continue to update! Welcome to star!  (today)
-- [patrickbr/gtfstidy](https://github.com/patrickbr/gtfstidy) - A tool for checking, sanitizing and minimizing GTFS feeds. (today)
-- [liuq/QuadProgpp](https://github.com/liuq/QuadProgpp) - A C++ library for Quadratic Programming which implements the Goldfarb-Idnani active-set dual method. (today)
+- [spacedentist/spr](https://github.com/spacedentist/spr) - Submit pull requests for individual, amendable, rebaseable commits to GitHub (today)
+- [rachartier/tiny-glimmer.nvim](https://github.com/rachartier/tiny-glimmer.nvim) - A tiny Neovim plugin that adds subtle animations to various operations. (today)
+- [rachartier/tiny-code-action.nvim](https://github.com/rachartier/tiny-code-action.nvim) - A Neovim plugin that provides a simple way to run and visualize code actions with Telescope. (today)
+- [rachartier/tiny-inline-diagnostic.nvim](https://github.com/rachartier/tiny-inline-diagnostic.nvim) - A Neovim plugin that display prettier diagnostic messages. Display diagnostic messages where the cursor is, with icons and colors. (today)
+- [zikes/chrisify](https://github.com/zikes/chrisify) - Adds some much needed Chris to an image. (today)
 
 ## 🔨 Latest Pull Requests I published
