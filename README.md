@@ -46,16 +46,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [MANU-de](https://github.com/MANU-de)
+- [emmanuelAron](https://github.com/emmanuelAron)
+- [Doxdxo](https://github.com/Doxdxo)
+- [shubhanshu2006](https://github.com/shubhanshu2006)
+- [gustavochimanski](https://github.com/gustavochimanski)
+- [rescenic](https://github.com/rescenic)
+- [javyxu](https://github.com/javyxu)
+- [iamapuneet](https://github.com/iamapuneet)
 - [0x1381](https://github.com/0x1381)
 - [Wealthometer](https://github.com/Wealthometer)
-- [Fa3meeh](https://github.com/Fa3meeh)
-- [NajatBouz](https://github.com/NajatBouz)
-- [Danipinion](https://github.com/Danipinion)
-- [1389123](https://github.com/1389123)
-- [prarthanaMS](https://github.com/prarthanaMS)
-- [kauebr](https://github.com/kauebr)
-- [qafaraz](https://github.com/qafaraz)
-- [PranavPraveen767](https://github.com/PranavPraveen767)
 
 ## ⭐ Recent stars
 
