@@ -46,23 +46,23 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [VyetGokyra](https://github.com/VyetGokyra)
+- [gabrielgonpa](https://github.com/gabrielgonpa)
+- [bytegen-dev](https://github.com/bytegen-dev)
+- [Daelyte](https://github.com/Daelyte)
+- [adikulkarni006](https://github.com/adikulkarni006)
+- [DiegoMBS](https://github.com/DiegoMBS)
+- [sjYoondeltar](https://github.com/sjYoondeltar)
 - [SuperAdam47](https://github.com/SuperAdam47)
 - [Angry007-Julian](https://github.com/Angry007-Julian)
 - [HamiParsa](https://github.com/HamiParsa)
-- [Umar-444](https://github.com/Umar-444)
-- [benjamin-lumos](https://github.com/benjamin-lumos)
-- [Dashrathod07](https://github.com/Dashrathod07)
-- [kh-mahmoud](https://github.com/kh-mahmoud)
-- [klckerim](https://github.com/klckerim)
-- [OstapchukAB](https://github.com/OstapchukAB)
-- [Klimovich77](https://github.com/Klimovich77)
 
 ## ⭐ Recent stars
 
+- [ranjib/etcd-ruby](https://github.com/ranjib/etcd-ruby) - Bare minimal ruby client for etcd (today)
 - [navneet-nmk/pytorch-rl](https://github.com/navneet-nmk/pytorch-rl) - This repository contains model-free  deep reinforcement learning algorithms implemented in Pytorch (today)
 - [maggie0106/Graph-CNN-in-3D-Point-Cloud-Classification](https://github.com/maggie0106/Graph-CNN-in-3D-Point-Cloud-Classification) - Code for A GRAPH-CNN FOR 3D POINT CLOUD CLASSIFICATION (ICASSP 2018) (today)
 - [locustio/locust](https://github.com/locustio/locust) - Write scalable load tests in plain Python 🚗💨 (today)
 - [OliverBalfour/obsidian-pandoc](https://github.com/OliverBalfour/obsidian-pandoc) - Pandoc document export plugin for Obsidian (https://obsidian.md) (today)
-- [borysn/spring-boot-angular2](https://github.com/borysn/spring-boot-angular2) - spring boot backend, angular2 frontend with webpack, typescript, sass, bootstrap4, karma, jasmine (today)
 
 ## 🔨 Latest Pull Requests I published
