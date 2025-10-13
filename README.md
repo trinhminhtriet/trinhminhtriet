@@ -46,23 +46,23 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [TyMill](https://github.com/TyMill)
+- [vaprea](https://github.com/vaprea)
+- [Pineapple-1](https://github.com/Pineapple-1)
+- [ismahdi](https://github.com/ismahdi)
+- [Kimmuie](https://github.com/Kimmuie)
+- [ardacey](https://github.com/ardacey)
+- [amadeoarlen76](https://github.com/amadeoarlen76)
 - [fratrung](https://github.com/fratrung)
 - [abhiraj100](https://github.com/abhiraj100)
 - [TaiChi112](https://github.com/TaiChi112)
-- [OV111](https://github.com/OV111)
-- [Yovkov2](https://github.com/Yovkov2)
-- [kellymourat](https://github.com/kellymourat)
-- [buriihenry](https://github.com/buriihenry)
-- [kakaijiro](https://github.com/kakaijiro)
-- [LemonPower21](https://github.com/LemonPower21)
-- [shirte](https://github.com/shirte)
 
 ## ⭐ Recent stars
 
+- [OliverBalfour/obsidian-pandoc](https://github.com/OliverBalfour/obsidian-pandoc) - Pandoc document export plugin for Obsidian (https://obsidian.md) (today)
+- [borysn/spring-boot-angular2](https://github.com/borysn/spring-boot-angular2) - spring boot backend, angular2 frontend with webpack, typescript, sass, bootstrap4, karma, jasmine (today)
 - [Zeecka/AperiSolve](https://github.com/Zeecka/AperiSolve) - Steganalysis web platform (today)
 - [draperjames/qtpandas](https://github.com/draperjames/qtpandas) - Qt Meets Pandas (1 day ago)
 - [bilalsammour/DobList](https://github.com/bilalsammour/DobList) - DobLis is an Open Source Android library that provides to ListView adding ProgressBar (or any view) to the footer of ListView to be shown in loading more, and callback that is called when reaching last item in ListView. (1 day ago)
-- [Platinguin/Godot-Cloud-Worlds](https://github.com/Platinguin/Godot-Cloud-Worlds) (1 day ago)
-- [Platinguin/Godot-Water-Shader-Prototype](https://github.com/Platinguin/Godot-Water-Shader-Prototype) - Water Shader Prototype for Godot (1 day ago)
 
 ## 🔨 Latest Pull Requests I published
