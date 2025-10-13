@@ -42,20 +42,20 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [nctl-io/nctl-roadmap](https://github.com/nctl-io/nctl-roadmap) (1 month ago)
 - [nctl-io/.github](https://github.com/nctl-io/.github) - 🌐 Network. Connect. Transform. Lead. (1 month ago)
 - [trinhminhtriet/sizr](https://github.com/trinhminhtriet/sizr) - 📈 A fast, Rust-based tool to analyze file system usage with colorful output, file aggregation, exclusions, and directory comparisons. (1 month ago)
-- [rust-rs/tabler](https://github.com/rust-rs/tabler) - 📊 Tabler: A lightweight TUI tool to view, query, and navigate CSV, TSV, and Parquet data files. (1 month ago)
+- [trinhminhtriet/blast](https://github.com/trinhminhtriet/blast) - 🚀 Blast: A powerful, lightweight HTTP load generator for stress testing and benchmarking web applications with ease. (1 month ago)
 
 ## 👯 Check out my recent followers
 
+- [MinKhantNaung](https://github.com/MinKhantNaung)
+- [RikaProjects](https://github.com/RikaProjects)
+- [mgraphic](https://github.com/mgraphic)
+- [ntk148v](https://github.com/ntk148v)
+- [MS-092](https://github.com/MS-092)
 - [mashelesc](https://github.com/mashelesc)
 - [pink0328-hash](https://github.com/pink0328-hash)
 - [rashidul738](https://github.com/rashidul738)
 - [Priyankaku1234](https://github.com/Priyankaku1234)
 - [gerivanc](https://github.com/gerivanc)
-- [Hamza5](https://github.com/Hamza5)
-- [dandararan](https://github.com/dandararan)
-- [SonamTamang90](https://github.com/SonamTamang90)
-- [CharlesCreativeContent](https://github.com/CharlesCreativeContent)
-- [DrVictoriaAdamsMD](https://github.com/DrVictoriaAdamsMD)
 
 ## ⭐ Recent stars
 
