@@ -46,16 +46,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [hosseinghDev](https://github.com/hosseinghDev)
+- [sonuthakur93106-png](https://github.com/sonuthakur93106-png)
+- [jepbura](https://github.com/jepbura)
+- [singhnisha8035-cmyk](https://github.com/singhnisha8035-cmyk)
+- [Randy-creator](https://github.com/Randy-creator)
+- [ARUNAGIRINATHAN-K](https://github.com/ARUNAGIRINATHAN-K)
+- [KristiyanHristov04](https://github.com/KristiyanHristov04)
+- [MartinYordanov374](https://github.com/MartinYordanov374)
+- [hemansadeghi](https://github.com/hemansadeghi)
 - [AI-Generative-IoT](https://github.com/AI-Generative-IoT)
-- [dexoryn](https://github.com/dexoryn)
-- [TyMill](https://github.com/TyMill)
-- [vaprea](https://github.com/vaprea)
-- [Pineapple-1](https://github.com/Pineapple-1)
-- [ismahdi](https://github.com/ismahdi)
-- [Kimmuie](https://github.com/Kimmuie)
-- [ardacey](https://github.com/ardacey)
-- [amadeoarlen76](https://github.com/amadeoarlen76)
-- [fratrung](https://github.com/fratrung)
 
 ## ⭐ Recent stars
 
