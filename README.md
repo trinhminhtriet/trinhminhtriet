@@ -33,9 +33,9 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👷 Check out what I'm currently working on
 
-- [nctl-io/nctl-branding](https://github.com/nctl-io/nctl-branding) - NCTL Branding 🖼️: Centralized assets and guidelines for consistent visual identity across NCTL projects and platforms. (today)
-- [nctl-io/nctl-homepage](https://github.com/nctl-io/nctl-homepage) - 🚀 Modern homepage for NCTL: fast, responsive, TypeScript-powered, open source, and easy to customize. (today)
-- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (1 day ago)
+- [nctl-io/nctl-branding](https://github.com/nctl-io/nctl-branding) - NCTL Branding 🖼️: Centralized assets and guidelines for consistent visual identity across NCTL projects and platforms. (1 day ago)
+- [nctl-io/nctl-homepage](https://github.com/nctl-io/nctl-homepage) - 🚀 Modern homepage for NCTL: fast, responsive, TypeScript-powered, open source, and easy to customize. (1 day ago)
+- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (2 days ago)
 - [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) - 🚀 All-in-one CLI toolkit for developers: scaffold, manage, automate, and boost productivity across languages! (2 weeks ago)
 - [lamhaison/aws-cli-utils](https://github.com/lamhaison/aws-cli-utils) - This is the project to collect helpful aws cli commandline with complex options to support your working (3 weeks ago)
 - [trinhminhtriet/dwipe](https://github.com/trinhminhtriet/dwipe) - 🧹 Fast, cross-platform disk cleanup tool with interactive UI for easy directory size visualization. (1 month ago)
@@ -46,23 +46,23 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [mashelesc](https://github.com/mashelesc)
+- [pink0328-hash](https://github.com/pink0328-hash)
+- [rashidul738](https://github.com/rashidul738)
+- [Priyankaku1234](https://github.com/Priyankaku1234)
+- [gerivanc](https://github.com/gerivanc)
+- [Hamza5](https://github.com/Hamza5)
+- [dandararan](https://github.com/dandararan)
+- [SonamTamang90](https://github.com/SonamTamang90)
 - [CharlesCreativeContent](https://github.com/CharlesCreativeContent)
 - [DrVictoriaAdamsMD](https://github.com/DrVictoriaAdamsMD)
-- [Stephanvs](https://github.com/Stephanvs)
-- [ocvcoin](https://github.com/ocvcoin)
-- [Karima-mnr](https://github.com/Karima-mnr)
-- [tyronejosee](https://github.com/tyronejosee)
-- [cainhooow](https://github.com/cainhooow)
-- [KiLLbILLeveryDm](https://github.com/KiLLbILLeveryDm)
-- [ElGuruJk-Col](https://github.com/ElGuruJk-Col)
-- [FedericoDM](https://github.com/FedericoDM)
 
 ## ⭐ Recent stars
 
-- [draperjames/qtpandas](https://github.com/draperjames/qtpandas) - Qt Meets Pandas (today)
-- [bilalsammour/DobList](https://github.com/bilalsammour/DobList) - DobLis is an Open Source Android library that provides to ListView adding ProgressBar (or any view) to the footer of ListView to be shown in loading more, and callback that is called when reaching last item in ListView. (today)
-- [Platinguin/Godot-Cloud-Worlds](https://github.com/Platinguin/Godot-Cloud-Worlds) (today)
-- [Platinguin/Godot-Water-Shader-Prototype](https://github.com/Platinguin/Godot-Water-Shader-Prototype) - Water Shader Prototype for Godot (today)
-- [nekotogd/Godot_BoTW_Toon_Shader](https://github.com/nekotogd/Godot_BoTW_Toon_Shader) - A TRUE BoTW style shadeer for Godot. BoTW's warbly shadows, multiple lights. Its the whole package! (today)
+- [Zeecka/AperiSolve](https://github.com/Zeecka/AperiSolve) - Steganalysis web platform (today)
+- [draperjames/qtpandas](https://github.com/draperjames/qtpandas) - Qt Meets Pandas (1 day ago)
+- [bilalsammour/DobList](https://github.com/bilalsammour/DobList) - DobLis is an Open Source Android library that provides to ListView adding ProgressBar (or any view) to the footer of ListView to be shown in loading more, and callback that is called when reaching last item in ListView. (1 day ago)
+- [Platinguin/Godot-Cloud-Worlds](https://github.com/Platinguin/Godot-Cloud-Worlds) (1 day ago)
+- [Platinguin/Godot-Water-Shader-Prototype](https://github.com/Platinguin/Godot-Water-Shader-Prototype) - Water Shader Prototype for Godot (1 day ago)
 
 ## 🔨 Latest Pull Requests I published
