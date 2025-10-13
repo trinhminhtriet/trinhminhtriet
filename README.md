@@ -46,6 +46,9 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [R1maro](https://github.com/R1maro)
+- [fernandoncidade](https://github.com/fernandoncidade)
+- [Gagan-KM](https://github.com/Gagan-KM)
 - [aiwithmahtab](https://github.com/aiwithmahtab)
 - [issavejdani](https://github.com/issavejdani)
 - [RosenCodes20](https://github.com/RosenCodes20)
@@ -53,9 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [gregoryfnafirl](https://github.com/gregoryfnafirl)
 - [AyoubBellaoui](https://github.com/AyoubBellaoui)
 - [sotos22i](https://github.com/sotos22i)
-- [markovic-aleksandar](https://github.com/markovic-aleksandar)
-- [CrimsonSunrise](https://github.com/CrimsonSunrise)
-- [kongali1720](https://github.com/kongali1720)
 
 ## ⭐ Recent stars
 
