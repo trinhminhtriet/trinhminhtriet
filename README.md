@@ -46,16 +46,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [s15226006340](https://github.com/s15226006340)
+- [MithilaKhan](https://github.com/MithilaKhan)
+- [pr1smaticsoul](https://github.com/pr1smaticsoul)
+- [zRafaX](https://github.com/zRafaX)
+- [ana-claudino](https://github.com/ana-claudino)
 - [MinKhantNaung](https://github.com/MinKhantNaung)
 - [RikaProjects](https://github.com/RikaProjects)
 - [mgraphic](https://github.com/mgraphic)
 - [ntk148v](https://github.com/ntk148v)
 - [MS-092](https://github.com/MS-092)
-- [mashelesc](https://github.com/mashelesc)
-- [pink0328-hash](https://github.com/pink0328-hash)
-- [rashidul738](https://github.com/rashidul738)
-- [Priyankaku1234](https://github.com/Priyankaku1234)
-- [gerivanc](https://github.com/gerivanc)
 
 ## ⭐ Recent stars
 
