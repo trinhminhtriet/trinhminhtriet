@@ -46,23 +46,23 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [klckerim](https://github.com/klckerim)
+- [OstapchukAB](https://github.com/OstapchukAB)
+- [Klimovich77](https://github.com/Klimovich77)
+- [Timdev0x](https://github.com/Timdev0x)
+- [Stoyan94](https://github.com/Stoyan94)
+- [g1ftmkyelu](https://github.com/g1ftmkyelu)
+- [CS2487](https://github.com/CS2487)
 - [hosseinghDev](https://github.com/hosseinghDev)
 - [sonuthakur93106-png](https://github.com/sonuthakur93106-png)
 - [jepbura](https://github.com/jepbura)
-- [singhnisha8035-cmyk](https://github.com/singhnisha8035-cmyk)
-- [Randy-creator](https://github.com/Randy-creator)
-- [ARUNAGIRINATHAN-K](https://github.com/ARUNAGIRINATHAN-K)
-- [KristiyanHristov04](https://github.com/KristiyanHristov04)
-- [MartinYordanov374](https://github.com/MartinYordanov374)
-- [hemansadeghi](https://github.com/hemansadeghi)
-- [AI-Generative-IoT](https://github.com/AI-Generative-IoT)
 
 ## ⭐ Recent stars
 
+- [locustio/locust](https://github.com/locustio/locust) - Write scalable load tests in plain Python 🚗💨 (today)
 - [OliverBalfour/obsidian-pandoc](https://github.com/OliverBalfour/obsidian-pandoc) - Pandoc document export plugin for Obsidian (https://obsidian.md) (today)
 - [borysn/spring-boot-angular2](https://github.com/borysn/spring-boot-angular2) - spring boot backend, angular2 frontend with webpack, typescript, sass, bootstrap4, karma, jasmine (today)
 - [Zeecka/AperiSolve](https://github.com/Zeecka/AperiSolve) - Steganalysis web platform (today)
 - [draperjames/qtpandas](https://github.com/draperjames/qtpandas) - Qt Meets Pandas (1 day ago)
-- [bilalsammour/DobList](https://github.com/bilalsammour/DobList) - DobLis is an Open Source Android library that provides to ListView adding ProgressBar (or any view) to the footer of ListView to be shown in loading more, and callback that is called when reaching last item in ListView. (1 day ago)
 
 ## 🔨 Latest Pull Requests I published
