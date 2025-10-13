@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [AI-Generative-IoT](https://github.com/AI-Generative-IoT)
+- [dexoryn](https://github.com/dexoryn)
 - [TyMill](https://github.com/TyMill)
 - [vaprea](https://github.com/vaprea)
 - [Pineapple-1](https://github.com/Pineapple-1)
@@ -54,8 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [ardacey](https://github.com/ardacey)
 - [amadeoarlen76](https://github.com/amadeoarlen76)
 - [fratrung](https://github.com/fratrung)
-- [abhiraj100](https://github.com/abhiraj100)
-- [TaiChi112](https://github.com/TaiChi112)
 
 ## ⭐ Recent stars
 
