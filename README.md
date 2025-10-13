@@ -46,16 +46,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [aiwithmahtab](https://github.com/aiwithmahtab)
+- [issavejdani](https://github.com/issavejdani)
+- [RosenCodes20](https://github.com/RosenCodes20)
+- [Phoenix-Domain](https://github.com/Phoenix-Domain)
+- [gregoryfnafirl](https://github.com/gregoryfnafirl)
+- [AyoubBellaoui](https://github.com/AyoubBellaoui)
 - [sotos22i](https://github.com/sotos22i)
 - [markovic-aleksandar](https://github.com/markovic-aleksandar)
 - [CrimsonSunrise](https://github.com/CrimsonSunrise)
 - [kongali1720](https://github.com/kongali1720)
-- [ChRisT1an-V](https://github.com/ChRisT1an-V)
-- [junguler](https://github.com/junguler)
-- [littlejohnnymarston](https://github.com/littlejohnnymarston)
-- [chipsxp](https://github.com/chipsxp)
-- [HelluvaBossAndHazbinHotel](https://github.com/HelluvaBossAndHazbinHotel)
-- [isabelsaa](https://github.com/isabelsaa)
 
 ## ⭐ Recent stars
 
