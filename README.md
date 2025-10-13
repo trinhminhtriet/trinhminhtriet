@@ -46,6 +46,9 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [alipejman](https://github.com/alipejman)
+- [faridkia](https://github.com/faridkia)
+- [frizchar](https://github.com/frizchar)
 - [austinsonger](https://github.com/austinsonger)
 - [Aaron-bukasa](https://github.com/Aaron-bukasa)
 - [ignatius-mbugua](https://github.com/ignatius-mbugua)
@@ -53,9 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [JONIS7](https://github.com/JONIS7)
 - [Relectrik](https://github.com/Relectrik)
 - [goranivankovic](https://github.com/goranivankovic)
-- [topsecretagent007](https://github.com/topsecretagent007)
-- [ismail-en-niou](https://github.com/ismail-en-niou)
-- [JojoBaPb](https://github.com/JojoBaPb)
 
 ## ⭐ Recent stars
 
