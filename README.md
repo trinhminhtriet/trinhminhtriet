@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [0xWhoSam](https://github.com/0xWhoSam)
 - [alipejman](https://github.com/alipejman)
 - [faridkia](https://github.com/faridkia)
 - [frizchar](https://github.com/frizchar)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [anshumaan69](https://github.com/anshumaan69)
 - [JONIS7](https://github.com/JONIS7)
 - [Relectrik](https://github.com/Relectrik)
-- [goranivankovic](https://github.com/goranivankovic)
 
 ## ⭐ Recent stars
 
