@@ -46,16 +46,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [junguler](https://github.com/junguler)
+- [littlejohnnymarston](https://github.com/littlejohnnymarston)
+- [chipsxp](https://github.com/chipsxp)
+- [HelluvaBossAndHazbinHotel](https://github.com/HelluvaBossAndHazbinHotel)
+- [isabelsaa](https://github.com/isabelsaa)
+- [henrysachs](https://github.com/henrysachs)
+- [yusagulgor](https://github.com/yusagulgor)
 - [Jonyge](https://github.com/Jonyge)
 - [neuropunk87](https://github.com/neuropunk87)
 - [shervin-ghajar](https://github.com/shervin-ghajar)
-- [gaurav060404](https://github.com/gaurav060404)
-- [hakanceran64](https://github.com/hakanceran64)
-- [OsamaAlmamri](https://github.com/OsamaAlmamri)
-- [VyetGokyra](https://github.com/VyetGokyra)
-- [gabrielgonpa](https://github.com/gabrielgonpa)
-- [bytegen-dev](https://github.com/bytegen-dev)
-- [Daelyte](https://github.com/Daelyte)
 
 ## ⭐ Recent stars
 
