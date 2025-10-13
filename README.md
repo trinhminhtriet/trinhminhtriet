@@ -46,16 +46,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [austinsonger](https://github.com/austinsonger)
+- [Aaron-bukasa](https://github.com/Aaron-bukasa)
+- [ignatius-mbugua](https://github.com/ignatius-mbugua)
+- [anshumaan69](https://github.com/anshumaan69)
+- [JONIS7](https://github.com/JONIS7)
+- [Relectrik](https://github.com/Relectrik)
+- [goranivankovic](https://github.com/goranivankovic)
+- [topsecretagent007](https://github.com/topsecretagent007)
 - [ismail-en-niou](https://github.com/ismail-en-niou)
 - [JojoBaPb](https://github.com/JojoBaPb)
-- [sunilparajuli](https://github.com/sunilparajuli)
-- [KevinCrosby](https://github.com/KevinCrosby)
-- [R1maro](https://github.com/R1maro)
-- [fernandoncidade](https://github.com/fernandoncidade)
-- [Gagan-KM](https://github.com/Gagan-KM)
-- [aiwithmahtab](https://github.com/aiwithmahtab)
-- [issavejdani](https://github.com/issavejdani)
-- [RosenCodes20](https://github.com/RosenCodes20)
 
 ## ⭐ Recent stars
 
