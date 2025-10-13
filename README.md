@@ -33,9 +33,9 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👷 Check out what I'm currently working on
 
+- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (today)
 - [nctl-io/nctl-branding](https://github.com/nctl-io/nctl-branding) - NCTL Branding 🖼️: Centralized assets and guidelines for consistent visual identity across NCTL projects and platforms. (1 day ago)
 - [nctl-io/nctl-homepage](https://github.com/nctl-io/nctl-homepage) - 🚀 Modern homepage for NCTL: fast, responsive, TypeScript-powered, open source, and easy to customize. (1 day ago)
-- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (2 days ago)
 - [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) - 🚀 All-in-one CLI toolkit for developers: scaffold, manage, automate, and boost productivity across languages! (2 weeks ago)
 - [lamhaison/aws-cli-utils](https://github.com/lamhaison/aws-cli-utils) - This is the project to collect helpful aws cli commandline with complex options to support your working (3 weeks ago)
 - [trinhminhtriet/dwipe](https://github.com/trinhminhtriet/dwipe) - 🧹 Fast, cross-platform disk cleanup tool with interactive UI for easy directory size visualization. (1 month ago)
@@ -46,23 +46,23 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Jonyge](https://github.com/Jonyge)
+- [neuropunk87](https://github.com/neuropunk87)
+- [shervin-ghajar](https://github.com/shervin-ghajar)
+- [gaurav060404](https://github.com/gaurav060404)
+- [hakanceran64](https://github.com/hakanceran64)
+- [OsamaAlmamri](https://github.com/OsamaAlmamri)
 - [VyetGokyra](https://github.com/VyetGokyra)
 - [gabrielgonpa](https://github.com/gabrielgonpa)
 - [bytegen-dev](https://github.com/bytegen-dev)
 - [Daelyte](https://github.com/Daelyte)
-- [adikulkarni006](https://github.com/adikulkarni006)
-- [DiegoMBS](https://github.com/DiegoMBS)
-- [sjYoondeltar](https://github.com/sjYoondeltar)
-- [SuperAdam47](https://github.com/SuperAdam47)
-- [Angry007-Julian](https://github.com/Angry007-Julian)
-- [HamiParsa](https://github.com/HamiParsa)
 
 ## ⭐ Recent stars
 
-- [ranjib/etcd-ruby](https://github.com/ranjib/etcd-ruby) - Bare minimal ruby client for etcd (today)
-- [navneet-nmk/pytorch-rl](https://github.com/navneet-nmk/pytorch-rl) - This repository contains model-free  deep reinforcement learning algorithms implemented in Pytorch (today)
-- [maggie0106/Graph-CNN-in-3D-Point-Cloud-Classification](https://github.com/maggie0106/Graph-CNN-in-3D-Point-Cloud-Classification) - Code for A GRAPH-CNN FOR 3D POINT CLOUD CLASSIFICATION (ICASSP 2018) (today)
-- [locustio/locust](https://github.com/locustio/locust) - Write scalable load tests in plain Python 🚗💨 (today)
-- [OliverBalfour/obsidian-pandoc](https://github.com/OliverBalfour/obsidian-pandoc) - Pandoc document export plugin for Obsidian (https://obsidian.md) (today)
+- [elliotchance/tf](https://github.com/elliotchance/tf) - ✔️ tf is a microframework for parameterized testing of functions and HTTP in Go. (today)
+- [elliotchance/phpserialize](https://github.com/elliotchance/phpserialize) - 📑 PHP serialize() and unserialize() for Go (today)
+- [elliotchance/redismock](https://github.com/elliotchance/redismock) - 🕋 Mocking Redis in unit tests in Go. (today)
+- [elliotchance/dingo](https://github.com/elliotchance/dingo) - 🐺 Easy, fast and type-safe dependency injection for Go. (today)
+- [elliotchance/sshtunnel](https://github.com/elliotchance/sshtunnel) - 🚇 Ultra simple SSH tunnelling for Go programs. (today)
 
 ## 🔨 Latest Pull Requests I published
