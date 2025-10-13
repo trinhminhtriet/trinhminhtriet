@@ -46,16 +46,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [ismail-en-niou](https://github.com/ismail-en-niou)
+- [JojoBaPb](https://github.com/JojoBaPb)
+- [sunilparajuli](https://github.com/sunilparajuli)
+- [KevinCrosby](https://github.com/KevinCrosby)
 - [R1maro](https://github.com/R1maro)
 - [fernandoncidade](https://github.com/fernandoncidade)
 - [Gagan-KM](https://github.com/Gagan-KM)
 - [aiwithmahtab](https://github.com/aiwithmahtab)
 - [issavejdani](https://github.com/issavejdani)
 - [RosenCodes20](https://github.com/RosenCodes20)
-- [Phoenix-Domain](https://github.com/Phoenix-Domain)
-- [gregoryfnafirl](https://github.com/gregoryfnafirl)
-- [AyoubBellaoui](https://github.com/AyoubBellaoui)
-- [sotos22i](https://github.com/sotos22i)
 
 ## ⭐ Recent stars
 
