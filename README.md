@@ -46,16 +46,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [feritaribulan](https://github.com/feritaribulan)
+- [szuryuu](https://github.com/szuryuu)
+- [alfadeltagarcia-sketch](https://github.com/alfadeltagarcia-sketch)
+- [alexandrerodrigopinheiro](https://github.com/alexandrerodrigopinheiro)
+- [tarxemo](https://github.com/tarxemo)
+- [hatixntsoa](https://github.com/hatixntsoa)
+- [Sirking25](https://github.com/Sirking25)
 - [s15226006340](https://github.com/s15226006340)
 - [MithilaKhan](https://github.com/MithilaKhan)
 - [pr1smaticsoul](https://github.com/pr1smaticsoul)
-- [zRafaX](https://github.com/zRafaX)
-- [ana-claudino](https://github.com/ana-claudino)
-- [MinKhantNaung](https://github.com/MinKhantNaung)
-- [RikaProjects](https://github.com/RikaProjects)
-- [mgraphic](https://github.com/mgraphic)
-- [ntk148v](https://github.com/ntk148v)
-- [MS-092](https://github.com/MS-092)
 
 ## ⭐ Recent stars
 
