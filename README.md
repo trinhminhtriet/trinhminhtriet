@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [majidadigozal](https://github.com/majidadigozal)
 - [nahomWM](https://github.com/nahomWM)
 - [lucasaltm](https://github.com/lucasaltm)
 - [1v4n4](https://github.com/1v4n4)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Aatib-cpu](https://github.com/Aatib-cpu)
 - [Mufacoderz](https://github.com/Mufacoderz)
 - [FaithMutua-code](https://github.com/FaithMutua-code)
-- [zacktam12](https://github.com/zacktam12)
 
 ## ⭐ Recent stars
 
