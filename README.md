@@ -46,16 +46,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [tarxemo](https://github.com/tarxemo)
+- [SabriAmir](https://github.com/SabriAmir)
+- [Alvalens](https://github.com/Alvalens)
+- [thehamzadotdev](https://github.com/thehamzadotdev)
+- [Kcrypto126](https://github.com/Kcrypto126)
+- [jafarbekyusupov](https://github.com/jafarbekyusupov)
+- [sukhdeep143](https://github.com/sukhdeep143)
 - [fivetop](https://github.com/fivetop)
 - [AmSh4](https://github.com/AmSh4)
 - [gitfullstacker](https://github.com/gitfullstacker)
-- [tmdqja75](https://github.com/tmdqja75)
-- [Yemeniking1](https://github.com/Yemeniking1)
-- [Muhammad-Ramazanovich](https://github.com/Muhammad-Ramazanovich)
-- [NasirMars](https://github.com/NasirMars)
-- [0xWhoSam](https://github.com/0xWhoSam)
-- [alipejman](https://github.com/alipejman)
-- [faridkia](https://github.com/faridkia)
 
 ## ⭐ Recent stars
 
