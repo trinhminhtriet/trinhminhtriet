@@ -46,6 +46,9 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [shrjld](https://github.com/shrjld)
+- [aejmcclelland](https://github.com/aejmcclelland)
+- [branGitfox](https://github.com/branGitfox)
 - [ortegavan](https://github.com/ortegavan)
 - [globalbusinessadvisors](https://github.com/globalbusinessadvisors)
 - [walbarellos](https://github.com/walbarellos)
@@ -53,16 +56,13 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Lampard7crypt](https://github.com/Lampard7crypt)
 - [joshl26](https://github.com/joshl26)
 - [own-boldsbrain](https://github.com/own-boldsbrain)
-- [baselelsrogy](https://github.com/baselelsrogy)
-- [tmm88](https://github.com/tmm88)
-- [nhasoenhasan](https://github.com/nhasoenhasan)
 
 ## ⭐ Recent stars
 
+- [ZeBobo5/Vlc.DotNet](https://github.com/ZeBobo5/Vlc.DotNet) - .NET control that hosts the audio/video capabilities of the VLC libraries (today)
 - [ChoicesWang/RecyclerView_Divider](https://github.com/ChoicesWang/RecyclerView_Divider) - This should help you to add divider ItemDecoration for RecyclerView -- Android (today)
 - [pritambaral/hostapd-rtl871xdrv](https://github.com/pritambaral/hostapd-rtl871xdrv) - Hostapd driver for RTL8188{C|CU|CUS} wifi chips. (today)
 - [porthole-ascend-cinnamon/mhddos_proxy_releases](https://github.com/porthole-ascend-cinnamon/mhddos_proxy_releases) - MHDDOS_PROXY - IT Army of Ukraine (today)
 - [klakegg/docker-hugo](https://github.com/klakegg/docker-hugo) - Truly minimal Docker images for Hugo open-source static site generator. (today)
-- [cmvnd/fonts](https://github.com/cmvnd/fonts) - tiny bitmap fonts (today)
 
 ## 🔨 Latest Pull Requests I published
