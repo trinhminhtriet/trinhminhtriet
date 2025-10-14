@@ -46,23 +46,23 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [DevanshuTiwaskar](https://github.com/DevanshuTiwaskar)
+- [DaryllCulas](https://github.com/DaryllCulas)
+- [ShahariarRahman](https://github.com/ShahariarRahman)
+- [ErrorCodeJ](https://github.com/ErrorCodeJ)
+- [nathaliatg](https://github.com/nathaliatg)
+- [BeastEren](https://github.com/BeastEren)
 - [raufzer](https://github.com/raufzer)
 - [koesan](https://github.com/koesan)
 - [Glifaus](https://github.com/Glifaus)
 - [syed-ghufran-hassan](https://github.com/syed-ghufran-hassan)
-- [GitHub7667](https://github.com/GitHub7667)
-- [codewithdhruba01](https://github.com/codewithdhruba01)
-- [Hzkun001](https://github.com/Hzkun001)
-- [MachariaP](https://github.com/MachariaP)
-- [sharp46311](https://github.com/sharp46311)
-- [emreavcilar](https://github.com/emreavcilar)
 
 ## ⭐ Recent stars
 
-- [TrangPham/django-admin-confirm](https://github.com/TrangPham/django-admin-confirm) - AdminConfirmMixin is a mixin for ModelAdmin that adds confirmations to changes, additions and actions. (today)
-- [ddo/oauth-1.0a](https://github.com/ddo/oauth-1.0a) - OAuth 1.0a Request Authorization for Node and Browser (today)
-- [ddo/fast](https://github.com/ddo/fast) - Minimal zero-dependency utility for testing your internet download speed from terminal (today)
-- [slinso/goTemplateBenchmark](https://github.com/slinso/goTemplateBenchmark) - comparing the performance of different template engines (today)
-- [DanielBok/copulae](https://github.com/DanielBok/copulae) - Multivariate data modelling with Copulas in Python (today)
+- [snapjay/ngCart](https://github.com/snapjay/ngCart) - Really simple shopping cart for AngularJS (today)
+- [walesmd/notepad-plus-plus-solarized](https://github.com/walesmd/notepad-plus-plus-solarized) - A port of Ethan Schoonover's Solarize color scheme to Notepad++ template (today)
+- [sebarmeli/JS-Redirection-Mobile-Site](https://github.com/sebarmeli/JS-Redirection-Mobile-Site) - JS to handle the redirection to the mobile version of your site (today)
+- [sebarmeli/JAIL](https://github.com/sebarmeli/JAIL) - JqueryAsynchImageLoader Plugin for jQuery (today)
+- [BycorSanchez/resources](https://github.com/BycorSanchez/resources) - 📑Useful resources for developers (today)
 
 ## 🔨 Latest Pull Requests I published
