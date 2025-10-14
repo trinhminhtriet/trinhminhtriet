@@ -46,23 +46,23 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [raufzer](https://github.com/raufzer)
 - [koesan](https://github.com/koesan)
+- [Glifaus](https://github.com/Glifaus)
+- [syed-ghufran-hassan](https://github.com/syed-ghufran-hassan)
+- [GitHub7667](https://github.com/GitHub7667)
+- [codewithdhruba01](https://github.com/codewithdhruba01)
+- [Hzkun001](https://github.com/Hzkun001)
 - [MachariaP](https://github.com/MachariaP)
 - [sharp46311](https://github.com/sharp46311)
 - [emreavcilar](https://github.com/emreavcilar)
-- [faraz2079](https://github.com/faraz2079)
-- [ShanHongNan](https://github.com/ShanHongNan)
-- [jerichoad](https://github.com/jerichoad)
-- [octpenthusiast](https://github.com/octpenthusiast)
-- [veen-one](https://github.com/veen-one)
-- [KRISHNAABHINAVV](https://github.com/KRISHNAABHINAVV)
 
 ## ⭐ Recent stars
 
+- [TrangPham/django-admin-confirm](https://github.com/TrangPham/django-admin-confirm) - AdminConfirmMixin is a mixin for ModelAdmin that adds confirmations to changes, additions and actions. (today)
+- [ddo/oauth-1.0a](https://github.com/ddo/oauth-1.0a) - OAuth 1.0a Request Authorization for Node and Browser (today)
+- [ddo/fast](https://github.com/ddo/fast) - Minimal zero-dependency utility for testing your internet download speed from terminal (today)
+- [slinso/goTemplateBenchmark](https://github.com/slinso/goTemplateBenchmark) - comparing the performance of different template engines (today)
 - [DanielBok/copulae](https://github.com/DanielBok/copulae) - Multivariate data modelling with Copulas in Python (today)
-- [edmundhung/remix-guide](https://github.com/edmundhung/remix-guide) - A platform for sharing everything about Remix (today)
-- [edmundhung/remix-cloudflare-template](https://github.com/edmundhung/remix-cloudflare-template) - 📜 [DO NOT USE / WORK IN PROGRESS] All-in-one remix starter template for Cloudflare Workers (today)
-- [edmundhung/maildog](https://github.com/edmundhung/maildog) - 🐶 Hosting your own email forwarding service on AWS and managing it with Github Actions (today)
-- [edmundhung/conform](https://github.com/edmundhung/conform) - Progressively enhance HTML forms with React. Build resilient, type-safe forms with no hassle using web standards. (today)
 
 ## 🔨 Latest Pull Requests I published
