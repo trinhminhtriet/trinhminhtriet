@@ -46,23 +46,23 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [koesan](https://github.com/koesan)
+- [MachariaP](https://github.com/MachariaP)
+- [sharp46311](https://github.com/sharp46311)
+- [emreavcilar](https://github.com/emreavcilar)
+- [faraz2079](https://github.com/faraz2079)
+- [ShanHongNan](https://github.com/ShanHongNan)
+- [jerichoad](https://github.com/jerichoad)
 - [octpenthusiast](https://github.com/octpenthusiast)
 - [veen-one](https://github.com/veen-one)
 - [KRISHNAABHINAVV](https://github.com/KRISHNAABHINAVV)
-- [devestful-yaoi](https://github.com/devestful-yaoi)
-- [siddikur-dev](https://github.com/siddikur-dev)
-- [elifbarlik](https://github.com/elifbarlik)
-- [erickcomp](https://github.com/erickcomp)
-- [TsitouhRanjafy](https://github.com/TsitouhRanjafy)
-- [Willie169](https://github.com/Willie169)
-- [maymadnness](https://github.com/maymadnness)
 
 ## ⭐ Recent stars
 
+- [DanielBok/copulae](https://github.com/DanielBok/copulae) - Multivariate data modelling with Copulas in Python (today)
 - [edmundhung/remix-guide](https://github.com/edmundhung/remix-guide) - A platform for sharing everything about Remix (today)
 - [edmundhung/remix-cloudflare-template](https://github.com/edmundhung/remix-cloudflare-template) - 📜 [DO NOT USE / WORK IN PROGRESS] All-in-one remix starter template for Cloudflare Workers (today)
 - [edmundhung/maildog](https://github.com/edmundhung/maildog) - 🐶 Hosting your own email forwarding service on AWS and managing it with Github Actions (today)
 - [edmundhung/conform](https://github.com/edmundhung/conform) - Progressively enhance HTML forms with React. Build resilient, type-safe forms with no hassle using web standards. (today)
-- [nicoalbanese/kirimase](https://github.com/nicoalbanese/kirimase) - Build full-stack Next.js apps, incredibly fast (today)
 
 ## 🔨 Latest Pull Requests I published
