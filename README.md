@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [KavaughnSmith](https://github.com/KavaughnSmith)
+- [Aatib-cpu](https://github.com/Aatib-cpu)
 - [Mufacoderz](https://github.com/Mufacoderz)
 - [FaithMutua-code](https://github.com/FaithMutua-code)
 - [zacktam12](https://github.com/zacktam12)
@@ -54,8 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [SabriAmir](https://github.com/SabriAmir)
 - [Alvalens](https://github.com/Alvalens)
 - [thehamzadotdev](https://github.com/thehamzadotdev)
-- [Kcrypto126](https://github.com/Kcrypto126)
-- [jafarbekyusupov](https://github.com/jafarbekyusupov)
 
 ## ⭐ Recent stars
 
