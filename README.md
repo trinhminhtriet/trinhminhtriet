@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [globalbusinessadvisors](https://github.com/globalbusinessadvisors)
+- [walbarellos](https://github.com/walbarellos)
 - [abadathossain](https://github.com/abadathossain)
 - [Lampard7crypt](https://github.com/Lampard7crypt)
 - [joshl26](https://github.com/joshl26)
@@ -54,8 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [tmm88](https://github.com/tmm88)
 - [nhasoenhasan](https://github.com/nhasoenhasan)
 - [Otavio2704](https://github.com/Otavio2704)
-- [DevanshuTiwaskar](https://github.com/DevanshuTiwaskar)
-- [DaryllCulas](https://github.com/DaryllCulas)
 
 ## ⭐ Recent stars
 
