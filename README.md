@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [ortegavan](https://github.com/ortegavan)
 - [globalbusinessadvisors](https://github.com/globalbusinessadvisors)
 - [walbarellos](https://github.com/walbarellos)
 - [abadathossain](https://github.com/abadathossain)
@@ -55,14 +56,13 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [baselelsrogy](https://github.com/baselelsrogy)
 - [tmm88](https://github.com/tmm88)
 - [nhasoenhasan](https://github.com/nhasoenhasan)
-- [Otavio2704](https://github.com/Otavio2704)
 
 ## ⭐ Recent stars
 
+- [ChoicesWang/RecyclerView_Divider](https://github.com/ChoicesWang/RecyclerView_Divider) - This should help you to add divider ItemDecoration for RecyclerView -- Android (today)
+- [pritambaral/hostapd-rtl871xdrv](https://github.com/pritambaral/hostapd-rtl871xdrv) - Hostapd driver for RTL8188{C|CU|CUS} wifi chips. (today)
+- [porthole-ascend-cinnamon/mhddos_proxy_releases](https://github.com/porthole-ascend-cinnamon/mhddos_proxy_releases) - MHDDOS_PROXY - IT Army of Ukraine (today)
 - [klakegg/docker-hugo](https://github.com/klakegg/docker-hugo) - Truly minimal Docker images for Hugo open-source static site generator. (today)
 - [cmvnd/fonts](https://github.com/cmvnd/fonts) - tiny bitmap fonts (today)
-- [Jellyfishboy/trado](https://github.com/Jellyfishboy/trado) - Trado is a lightweight, easy to use ecommerce platform; designed to allow developers to quickly deploy a premium ecommerce store for their business (today)
-- [MartinsMessias/deepsite-locally](https://github.com/MartinsMessias/deepsite-locally) - DeepSite — AI website builder with local hosting support. Run DeepSite on your own server or offline. (today)
-- [snapjay/ngCart](https://github.com/snapjay/ngCart) - Really simple shopping cart for AngularJS (today)
 
 ## 🔨 Latest Pull Requests I published
