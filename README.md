@@ -33,7 +33,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👷 Check out what I'm currently working on
 
-- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (1 day ago)
+- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (today)
 - [nctl-io/nctl-branding](https://github.com/nctl-io/nctl-branding) - NCTL Branding 🖼️: Centralized assets and guidelines for consistent visual identity across NCTL projects and platforms. (2 days ago)
 - [nctl-io/nctl-homepage](https://github.com/nctl-io/nctl-homepage) - 🚀 Modern homepage for NCTL: fast, responsive, TypeScript-powered, open source, and easy to customize. (2 days ago)
 - [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) - 🚀 All-in-one CLI toolkit for developers: scaffold, manage, automate, and boost productivity across languages! (2 weeks ago)
@@ -46,6 +46,9 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [BVILDERBLOX](https://github.com/BVILDERBLOX)
+- [keremimo](https://github.com/keremimo)
+- [BhavyaLuthra18](https://github.com/BhavyaLuthra18)
 - [majidadigozal](https://github.com/majidadigozal)
 - [nahomWM](https://github.com/nahomWM)
 - [lucasaltm](https://github.com/lucasaltm)
@@ -53,16 +56,13 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [nahidhk](https://github.com/nahidhk)
 - [ivetdimitrova](https://github.com/ivetdimitrova)
 - [KavaughnSmith](https://github.com/KavaughnSmith)
-- [Aatib-cpu](https://github.com/Aatib-cpu)
-- [Mufacoderz](https://github.com/Mufacoderz)
-- [FaithMutua-code](https://github.com/FaithMutua-code)
 
 ## ⭐ Recent stars
 
-- [elliotchance/tf](https://github.com/elliotchance/tf) - ✔️ tf is a microframework for parameterized testing of functions and HTTP in Go. (1 day ago)
-- [elliotchance/phpserialize](https://github.com/elliotchance/phpserialize) - 📑 PHP serialize() and unserialize() for Go (1 day ago)
-- [elliotchance/redismock](https://github.com/elliotchance/redismock) - 🕋 Mocking Redis in unit tests in Go. (1 day ago)
-- [elliotchance/dingo](https://github.com/elliotchance/dingo) - 🐺 Easy, fast and type-safe dependency injection for Go. (1 day ago)
-- [elliotchance/sshtunnel](https://github.com/elliotchance/sshtunnel) - 🚇 Ultra simple SSH tunnelling for Go programs. (1 day ago)
+- [sminez/ad](https://github.com/sminez/ad) - an adaptable text editor (today)
+- [sminez/penrose](https://github.com/sminez/penrose) - A library for writing an X11 tiling window manager (today)
+- [transmissions11/foundry-template](https://github.com/transmissions11/foundry-template) - Streamlined template for getting started with Foundry and Solmate. (today)
+- [transmissions11/VRGDAs](https://github.com/transmissions11/VRGDAs) - Variable Rate Gradual Dutch Auctions. (today)
+- [transmissions11/headers](https://github.com/transmissions11/headers) - Generate perfect code headers every time. (today)
 
 ## 🔨 Latest Pull Requests I published
