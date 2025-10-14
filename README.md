@@ -46,23 +46,23 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [octpenthusiast](https://github.com/octpenthusiast)
+- [veen-one](https://github.com/veen-one)
+- [KRISHNAABHINAVV](https://github.com/KRISHNAABHINAVV)
+- [devestful-yaoi](https://github.com/devestful-yaoi)
+- [siddikur-dev](https://github.com/siddikur-dev)
 - [elifbarlik](https://github.com/elifbarlik)
 - [erickcomp](https://github.com/erickcomp)
 - [TsitouhRanjafy](https://github.com/TsitouhRanjafy)
 - [Willie169](https://github.com/Willie169)
 - [maymadnness](https://github.com/maymadnness)
-- [anhemlam648](https://github.com/anhemlam648)
-- [jinkmaan](https://github.com/jinkmaan)
-- [decapitation-bonus](https://github.com/decapitation-bonus)
-- [Notlynoel](https://github.com/Notlynoel)
-- [kevin-06-huang](https://github.com/kevin-06-huang)
 
 ## ⭐ Recent stars
 
+- [edmundhung/remix-guide](https://github.com/edmundhung/remix-guide) - A platform for sharing everything about Remix (today)
+- [edmundhung/remix-cloudflare-template](https://github.com/edmundhung/remix-cloudflare-template) - 📜 [DO NOT USE / WORK IN PROGRESS] All-in-one remix starter template for Cloudflare Workers (today)
+- [edmundhung/maildog](https://github.com/edmundhung/maildog) - 🐶 Hosting your own email forwarding service on AWS and managing it with Github Actions (today)
+- [edmundhung/conform](https://github.com/edmundhung/conform) - Progressively enhance HTML forms with React. Build resilient, type-safe forms with no hassle using web standards. (today)
 - [nicoalbanese/kirimase](https://github.com/nicoalbanese/kirimase) - Build full-stack Next.js apps, incredibly fast (today)
-- [jakearchibald/linear-easing-generator](https://github.com/jakearchibald/linear-easing-generator) (today)
-- [jakearchibald/sass-ie](https://github.com/jakearchibald/sass-ie) - Writing mobile-first styles without leaving IE<9 behind (today)
-- [jakearchibald/appcache-demo](https://github.com/jakearchibald/appcache-demo) (today)
-- [jakearchibald/jakearchibald.com](https://github.com/jakearchibald/jakearchibald.com) (today)
 
 ## 🔨 Latest Pull Requests I published
