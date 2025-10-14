@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [nhasoenhasan](https://github.com/nhasoenhasan)
+- [Otavio2704](https://github.com/Otavio2704)
 - [DevanshuTiwaskar](https://github.com/DevanshuTiwaskar)
 - [DaryllCulas](https://github.com/DaryllCulas)
 - [ShahariarRahman](https://github.com/ShahariarRahman)
@@ -54,15 +56,13 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [BeastEren](https://github.com/BeastEren)
 - [raufzer](https://github.com/raufzer)
 - [koesan](https://github.com/koesan)
-- [Glifaus](https://github.com/Glifaus)
-- [syed-ghufran-hassan](https://github.com/syed-ghufran-hassan)
 
 ## ⭐ Recent stars
 
+- [Jellyfishboy/trado](https://github.com/Jellyfishboy/trado) - Trado is a lightweight, easy to use ecommerce platform; designed to allow developers to quickly deploy a premium ecommerce store for their business (today)
+- [MartinsMessias/deepsite-locally](https://github.com/MartinsMessias/deepsite-locally) - DeepSite — AI website builder with local hosting support. Run DeepSite on your own server or offline. (today)
 - [snapjay/ngCart](https://github.com/snapjay/ngCart) - Really simple shopping cart for AngularJS (today)
 - [walesmd/notepad-plus-plus-solarized](https://github.com/walesmd/notepad-plus-plus-solarized) - A port of Ethan Schoonover's Solarize color scheme to Notepad++ template (today)
 - [sebarmeli/JS-Redirection-Mobile-Site](https://github.com/sebarmeli/JS-Redirection-Mobile-Site) - JS to handle the redirection to the mobile version of your site (today)
-- [sebarmeli/JAIL](https://github.com/sebarmeli/JAIL) - JqueryAsynchImageLoader Plugin for jQuery (today)
-- [BycorSanchez/resources](https://github.com/BycorSanchez/resources) - 📑Useful resources for developers (today)
 
 ## 🔨 Latest Pull Requests I published
