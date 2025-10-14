@@ -33,9 +33,9 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👷 Check out what I'm currently working on
 
-- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (today)
-- [nctl-io/nctl-branding](https://github.com/nctl-io/nctl-branding) - NCTL Branding 🖼️: Centralized assets and guidelines for consistent visual identity across NCTL projects and platforms. (1 day ago)
-- [nctl-io/nctl-homepage](https://github.com/nctl-io/nctl-homepage) - 🚀 Modern homepage for NCTL: fast, responsive, TypeScript-powered, open source, and easy to customize. (1 day ago)
+- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (1 day ago)
+- [nctl-io/nctl-branding](https://github.com/nctl-io/nctl-branding) - NCTL Branding 🖼️: Centralized assets and guidelines for consistent visual identity across NCTL projects and platforms. (2 days ago)
+- [nctl-io/nctl-homepage](https://github.com/nctl-io/nctl-homepage) - 🚀 Modern homepage for NCTL: fast, responsive, TypeScript-powered, open source, and easy to customize. (2 days ago)
 - [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) - 🚀 All-in-one CLI toolkit for developers: scaffold, manage, automate, and boost productivity across languages! (2 weeks ago)
 - [lamhaison/aws-cli-utils](https://github.com/lamhaison/aws-cli-utils) - This is the project to collect helpful aws cli commandline with complex options to support your working (3 weeks ago)
 - [trinhminhtriet/dwipe](https://github.com/trinhminhtriet/dwipe) - 🧹 Fast, cross-platform disk cleanup tool with interactive UI for easy directory size visualization. (1 month ago)
@@ -46,6 +46,9 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Yemeniking1](https://github.com/Yemeniking1)
+- [Muhammad-Ramazanovich](https://github.com/Muhammad-Ramazanovich)
+- [NasirMars](https://github.com/NasirMars)
 - [0xWhoSam](https://github.com/0xWhoSam)
 - [alipejman](https://github.com/alipejman)
 - [faridkia](https://github.com/faridkia)
@@ -53,16 +56,13 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [austinsonger](https://github.com/austinsonger)
 - [Aaron-bukasa](https://github.com/Aaron-bukasa)
 - [ignatius-mbugua](https://github.com/ignatius-mbugua)
-- [anshumaan69](https://github.com/anshumaan69)
-- [JONIS7](https://github.com/JONIS7)
-- [Relectrik](https://github.com/Relectrik)
 
 ## ⭐ Recent stars
 
-- [elliotchance/tf](https://github.com/elliotchance/tf) - ✔️ tf is a microframework for parameterized testing of functions and HTTP in Go. (today)
-- [elliotchance/phpserialize](https://github.com/elliotchance/phpserialize) - 📑 PHP serialize() and unserialize() for Go (today)
-- [elliotchance/redismock](https://github.com/elliotchance/redismock) - 🕋 Mocking Redis in unit tests in Go. (today)
-- [elliotchance/dingo](https://github.com/elliotchance/dingo) - 🐺 Easy, fast and type-safe dependency injection for Go. (today)
-- [elliotchance/sshtunnel](https://github.com/elliotchance/sshtunnel) - 🚇 Ultra simple SSH tunnelling for Go programs. (today)
+- [elliotchance/tf](https://github.com/elliotchance/tf) - ✔️ tf is a microframework for parameterized testing of functions and HTTP in Go. (1 day ago)
+- [elliotchance/phpserialize](https://github.com/elliotchance/phpserialize) - 📑 PHP serialize() and unserialize() for Go (1 day ago)
+- [elliotchance/redismock](https://github.com/elliotchance/redismock) - 🕋 Mocking Redis in unit tests in Go. (1 day ago)
+- [elliotchance/dingo](https://github.com/elliotchance/dingo) - 🐺 Easy, fast and type-safe dependency injection for Go. (1 day ago)
+- [elliotchance/sshtunnel](https://github.com/elliotchance/sshtunnel) - 🚇 Ultra simple SSH tunnelling for Go programs. (1 day ago)
 
 ## 🔨 Latest Pull Requests I published
