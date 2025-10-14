@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [tmdqja75](https://github.com/tmdqja75)
 - [Yemeniking1](https://github.com/Yemeniking1)
 - [Muhammad-Ramazanovich](https://github.com/Muhammad-Ramazanovich)
 - [NasirMars](https://github.com/NasirMars)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [frizchar](https://github.com/frizchar)
 - [austinsonger](https://github.com/austinsonger)
 - [Aaron-bukasa](https://github.com/Aaron-bukasa)
-- [ignatius-mbugua](https://github.com/ignatius-mbugua)
 
 ## ⭐ Recent stars
 
