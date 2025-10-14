@@ -46,23 +46,23 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
-- [BVILDERBLOX](https://github.com/BVILDERBLOX)
-- [keremimo](https://github.com/keremimo)
-- [BhavyaLuthra18](https://github.com/BhavyaLuthra18)
-- [majidadigozal](https://github.com/majidadigozal)
-- [nahomWM](https://github.com/nahomWM)
-- [lucasaltm](https://github.com/lucasaltm)
-- [1v4n4](https://github.com/1v4n4)
-- [nahidhk](https://github.com/nahidhk)
-- [ivetdimitrova](https://github.com/ivetdimitrova)
-- [KavaughnSmith](https://github.com/KavaughnSmith)
+- [elifbarlik](https://github.com/elifbarlik)
+- [erickcomp](https://github.com/erickcomp)
+- [TsitouhRanjafy](https://github.com/TsitouhRanjafy)
+- [Willie169](https://github.com/Willie169)
+- [maymadnness](https://github.com/maymadnness)
+- [anhemlam648](https://github.com/anhemlam648)
+- [jinkmaan](https://github.com/jinkmaan)
+- [decapitation-bonus](https://github.com/decapitation-bonus)
+- [Notlynoel](https://github.com/Notlynoel)
+- [kevin-06-huang](https://github.com/kevin-06-huang)
 
 ## ⭐ Recent stars
 
-- [sminez/ad](https://github.com/sminez/ad) - an adaptable text editor (today)
-- [sminez/penrose](https://github.com/sminez/penrose) - A library for writing an X11 tiling window manager (today)
-- [transmissions11/foundry-template](https://github.com/transmissions11/foundry-template) - Streamlined template for getting started with Foundry and Solmate. (today)
-- [transmissions11/VRGDAs](https://github.com/transmissions11/VRGDAs) - Variable Rate Gradual Dutch Auctions. (today)
-- [transmissions11/headers](https://github.com/transmissions11/headers) - Generate perfect code headers every time. (today)
+- [nicoalbanese/kirimase](https://github.com/nicoalbanese/kirimase) - Build full-stack Next.js apps, incredibly fast (today)
+- [jakearchibald/linear-easing-generator](https://github.com/jakearchibald/linear-easing-generator) (today)
+- [jakearchibald/sass-ie](https://github.com/jakearchibald/sass-ie) - Writing mobile-first styles without leaving IE<9 behind (today)
+- [jakearchibald/appcache-demo](https://github.com/jakearchibald/appcache-demo) (today)
+- [jakearchibald/jakearchibald.com](https://github.com/jakearchibald/jakearchibald.com) (today)
 
 ## 🔨 Latest Pull Requests I published
