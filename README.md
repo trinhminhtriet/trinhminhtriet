@@ -59,10 +59,10 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [bldeng/GuidedDenoising](https://github.com/bldeng/GuidedDenoising) - Guided Mesh Normal Filtering (today)
-- [ZeBobo5/Vlc.DotNet](https://github.com/ZeBobo5/Vlc.DotNet) - .NET control that hosts the audio/video capabilities of the VLC libraries (today)
-- [ChoicesWang/RecyclerView_Divider](https://github.com/ChoicesWang/RecyclerView_Divider) - This should help you to add divider ItemDecoration for RecyclerView -- Android (today)
-- [pritambaral/hostapd-rtl871xdrv](https://github.com/pritambaral/hostapd-rtl871xdrv) - Hostapd driver for RTL8188{C|CU|CUS} wifi chips. (today)
-- [porthole-ascend-cinnamon/mhddos_proxy_releases](https://github.com/porthole-ascend-cinnamon/mhddos_proxy_releases) - MHDDOS_PROXY - IT Army of Ukraine (today)
+- [rskuipers/php-assumptions](https://github.com/rskuipers/php-assumptions) - Tool to detect assumptions (today)
+- [tdlm/mac-os-self-destruct](https://github.com/tdlm/mac-os-self-destruct) - Deletes files/folders in macOS based on a time specified in tags. (today)
+- [Glamdring/computoser](https://github.com/Glamdring/computoser) - Algorithm for music composition (today)
+- [Glamdring/EasyCamera](https://github.com/Glamdring/EasyCamera) - Wrapper around the android Camera class that simplifies its usage (today)
+- [bojanz/currency](https://github.com/bojanz/currency) - Currency handling for Go. (today)
 
 ## 🔨 Latest Pull Requests I published
