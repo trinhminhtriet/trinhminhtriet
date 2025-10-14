@@ -46,23 +46,23 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [abadathossain](https://github.com/abadathossain)
+- [Lampard7crypt](https://github.com/Lampard7crypt)
+- [joshl26](https://github.com/joshl26)
+- [own-boldsbrain](https://github.com/own-boldsbrain)
+- [baselelsrogy](https://github.com/baselelsrogy)
+- [tmm88](https://github.com/tmm88)
 - [nhasoenhasan](https://github.com/nhasoenhasan)
 - [Otavio2704](https://github.com/Otavio2704)
 - [DevanshuTiwaskar](https://github.com/DevanshuTiwaskar)
 - [DaryllCulas](https://github.com/DaryllCulas)
-- [ShahariarRahman](https://github.com/ShahariarRahman)
-- [ErrorCodeJ](https://github.com/ErrorCodeJ)
-- [nathaliatg](https://github.com/nathaliatg)
-- [BeastEren](https://github.com/BeastEren)
-- [raufzer](https://github.com/raufzer)
-- [koesan](https://github.com/koesan)
 
 ## ⭐ Recent stars
 
+- [klakegg/docker-hugo](https://github.com/klakegg/docker-hugo) - Truly minimal Docker images for Hugo open-source static site generator. (today)
+- [cmvnd/fonts](https://github.com/cmvnd/fonts) - tiny bitmap fonts (today)
 - [Jellyfishboy/trado](https://github.com/Jellyfishboy/trado) - Trado is a lightweight, easy to use ecommerce platform; designed to allow developers to quickly deploy a premium ecommerce store for their business (today)
 - [MartinsMessias/deepsite-locally](https://github.com/MartinsMessias/deepsite-locally) - DeepSite — AI website builder with local hosting support. Run DeepSite on your own server or offline. (today)
 - [snapjay/ngCart](https://github.com/snapjay/ngCart) - Really simple shopping cart for AngularJS (today)
-- [walesmd/notepad-plus-plus-solarized](https://github.com/walesmd/notepad-plus-plus-solarized) - A port of Ethan Schoonover's Solarize color scheme to Notepad++ template (today)
-- [sebarmeli/JS-Redirection-Mobile-Site](https://github.com/sebarmeli/JS-Redirection-Mobile-Site) - JS to handle the redirection to the mobile version of your site (today)
 
 ## 🔨 Latest Pull Requests I published
