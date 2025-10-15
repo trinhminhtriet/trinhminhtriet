@@ -46,23 +46,23 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Siphelele-Maphumulo](https://github.com/Siphelele-Maphumulo)
+- [TechyDavid](https://github.com/TechyDavid)
+- [ahmadrasouli-dev](https://github.com/ahmadrasouli-dev)
+- [iiwoii](https://github.com/iiwoii)
+- [Divol99](https://github.com/Divol99)
+- [mrothauer](https://github.com/mrothauer)
 - [amr-yasser226](https://github.com/amr-yasser226)
 - [medicinepckt](https://github.com/medicinepckt)
 - [Gubintongxue](https://github.com/Gubintongxue)
 - [Szabolcs888](https://github.com/Szabolcs888)
-- [PlusUltraCode](https://github.com/PlusUltraCode)
-- [tstamborski](https://github.com/tstamborski)
-- [nghuy2008](https://github.com/nghuy2008)
-- [atomSS-1](https://github.com/atomSS-1)
-- [dosepehr](https://github.com/dosepehr)
-- [GXCoder78](https://github.com/GXCoder78)
 
 ## ⭐ Recent stars
 
+- [pesa1234/MT6000_cust_build](https://github.com/pesa1234/MT6000_cust_build) - Repo for GL.iNet MT6000 custom build (today)
+- [Demonmasterlqx/MoonBit-Code-JAM-2024](https://github.com/Demonmasterlqx/MoonBit-Code-JAM-2024) (today)
 - [d3cod3/ofxVisualProgramming](https://github.com/d3cod3/ofxVisualProgramming) - A visual programming patching environment for OF (today)
 - [d3cod3/Mosaic](https://github.com/d3cod3/Mosaic) - Mosaic, an openFrameworks based Visual Patching Creative-Coding Platform (today)
 - [adrg/frontmatter](https://github.com/adrg/frontmatter) - Go library for detecting and decoding various content front matter formats (today)
-- [adrg/go-wkhtmltopdf](https://github.com/adrg/go-wkhtmltopdf) - Handcrafted Go bindings for wkhtmltopdf and high-level HTML to PDF conversion interface (today)
-- [adrg/strutil](https://github.com/adrg/strutil) - Go metrics for calculating string similarity and other string utility functions (today)
 
 ## 🔨 Latest Pull Requests I published
