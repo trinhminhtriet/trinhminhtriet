@@ -46,23 +46,23 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Gildaciolopes](https://github.com/Gildaciolopes)
+- [byron-villegas](https://github.com/byron-villegas)
+- [DslCreator](https://github.com/DslCreator)
+- [mathishp33](https://github.com/mathishp33)
+- [shenleeosialai](https://github.com/shenleeosialai)
+- [KayoWeiber](https://github.com/KayoWeiber)
+- [Safey11](https://github.com/Safey11)
 - [nguyenvanro](https://github.com/nguyenvanro)
 - [StefRuseva88](https://github.com/StefRuseva88)
 - [marciomrd](https://github.com/marciomrd)
-- [rohitghatal1](https://github.com/rohitghatal1)
-- [scanurag](https://github.com/scanurag)
-- [bryneTane](https://github.com/bryneTane)
-- [mathematiCode](https://github.com/mathematiCode)
-- [enivaldoqueiroz](https://github.com/enivaldoqueiroz)
-- [huseyinerikci](https://github.com/huseyinerikci)
-- [vondermanzen](https://github.com/vondermanzen)
 
 ## ⭐ Recent stars
 
+- [primetang/pylsd](https://github.com/primetang/pylsd) - python bindings for LSD - Line Segment Detector. (today)
+- [primetang/LSD-OpenCV-MATLAB](https://github.com/primetang/LSD-OpenCV-MATLAB) - Line Segment Detector for OpenCV, MATLAB, and Python. (today)
 - [lateautumn233/Linuxdeploy-Pro](https://github.com/lateautumn233/Linuxdeploy-Pro) - Install and run GNU/Linux on Android (today)
 - [Kristories/awesome-guidelines](https://github.com/Kristories/awesome-guidelines) - A curated list of high quality coding style conventions and standards. (today)
 - [dse/dse-typewriter-font](https://github.com/dse/dse-typewriter-font) - A monospace coding font inspired by pre-war typewriters. (today)
-- [dse/old-timey-mono-font](https://github.com/dse/old-timey-mono-font) (today)
-- [dse/routed-gothic](https://github.com/dse/routed-gothic) - A clean vintage drafting, avionics, routed signage, and keyboard legend font. (today)
 
 ## 🔨 Latest Pull Requests I published
