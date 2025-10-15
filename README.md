@@ -46,23 +46,23 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [youssef88ab](https://github.com/youssef88ab)
+- [syedahirafatima](https://github.com/syedahirafatima)
+- [hyper-ayoub](https://github.com/hyper-ayoub)
+- [JoaoMendss](https://github.com/JoaoMendss)
+- [withLinda](https://github.com/withLinda)
+- [PetrovKunev](https://github.com/PetrovKunev)
+- [B-Ariel](https://github.com/B-Ariel)
+- [altananay](https://github.com/altananay)
 - [milad-hub](https://github.com/milad-hub)
 - [0bvim](https://github.com/0bvim)
-- [seanwallawalla](https://github.com/seanwallawalla)
-- [zoxilsi](https://github.com/zoxilsi)
-- [wedadosama](https://github.com/wedadosama)
-- [aoaydin](https://github.com/aoaydin)
-- [fedebayer](https://github.com/fedebayer)
-- [yowatanabe](https://github.com/yowatanabe)
-- [Burkifa23](https://github.com/Burkifa23)
-- [ConradPB](https://github.com/ConradPB)
 
 ## ⭐ Recent stars
 
-- [andreynovikov/trekarta](https://github.com/andreynovikov/trekarta) - Simple, responsive map for your trek. You decide how to journey today, not the application! (today)
-- [babysource/VRDroid](https://github.com/babysource/VRDroid) - VR Player for android (today)
-- [huangwm1984/AndroidBase](https://github.com/huangwm1984/AndroidBase) - 采用谷歌官方MVP架构以及RxJava对项目进行封装重构 (today)
-- [qqchenjian318/VideoEditor-For-Android](https://github.com/qqchenjian318/VideoEditor-For-Android) - 一个Android的视频编辑器，包括了视频录制、剪切、增加bgm、美白、加滤镜、加水印等多种功能 (today)
-- [eprendre/tingshu](https://github.com/eprendre/tingshu) - 一款可在线播放多个免费听书站点的安卓app (today)
+- [ouchuangxin/leave-sample](https://github.com/ouchuangxin/leave-sample) - 本代码来源于极客时间《DDD实战》专栏。 (today)
+- [xgastaldi/shake-shake](https://github.com/xgastaldi/shake-shake) - 2.86% and 15.85% on CIFAR-10 and CIFAR-100 (today)
+- [maitek/image_stacking](https://github.com/maitek/image_stacking) - Automatic Image Stacking in OpenCV (today)
+- [konstantint/SKompiler](https://github.com/konstantint/SKompiler) - A tool for compiling trained SKLearn models into other representations (such as SQL, Sympy or Excel formulas) (today)
+- [konstantint/PassportEye](https://github.com/konstantint/PassportEye) - Extraction of machine-readable zone information from passports, visas and id-cards via OCR (today)
 
 ## 🔨 Latest Pull Requests I published
