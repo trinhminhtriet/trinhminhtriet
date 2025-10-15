@@ -46,23 +46,23 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
-- [isilkiziltas](https://github.com/isilkiziltas)
-- [gloomystore](https://github.com/gloomystore)
-- [d3finit](https://github.com/d3finit)
-- [PhantomHerald](https://github.com/PhantomHerald)
-- [jeanpmodev](https://github.com/jeanpmodev)
-- [zit0cod3z](https://github.com/zit0cod3z)
-- [shayan041ir](https://github.com/shayan041ir)
-- [erleen0307](https://github.com/erleen0307)
-- [Taimisson](https://github.com/Taimisson)
-- [IseduardoRezende](https://github.com/IseduardoRezende)
+- [nguyenvanro](https://github.com/nguyenvanro)
+- [StefRuseva88](https://github.com/StefRuseva88)
+- [marciomrd](https://github.com/marciomrd)
+- [rohitghatal1](https://github.com/rohitghatal1)
+- [scanurag](https://github.com/scanurag)
+- [bryneTane](https://github.com/bryneTane)
+- [mathematiCode](https://github.com/mathematiCode)
+- [enivaldoqueiroz](https://github.com/enivaldoqueiroz)
+- [huseyinerikci](https://github.com/huseyinerikci)
+- [vondermanzen](https://github.com/vondermanzen)
 
 ## ⭐ Recent stars
 
+- [lateautumn233/Linuxdeploy-Pro](https://github.com/lateautumn233/Linuxdeploy-Pro) - Install and run GNU/Linux on Android (today)
 - [Kristories/awesome-guidelines](https://github.com/Kristories/awesome-guidelines) - A curated list of high quality coding style conventions and standards. (today)
 - [dse/dse-typewriter-font](https://github.com/dse/dse-typewriter-font) - A monospace coding font inspired by pre-war typewriters. (today)
 - [dse/old-timey-mono-font](https://github.com/dse/old-timey-mono-font) (today)
 - [dse/routed-gothic](https://github.com/dse/routed-gothic) - A clean vintage drafting, avionics, routed signage, and keyboard legend font. (today)
-- [hikikomori82/osifont](https://github.com/hikikomori82/osifont) - Free TrueType font for CAD projects (today)
 
 ## 🔨 Latest Pull Requests I published
