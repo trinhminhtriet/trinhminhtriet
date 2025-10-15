@@ -46,23 +46,23 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [amr-yasser226](https://github.com/amr-yasser226)
+- [medicinepckt](https://github.com/medicinepckt)
+- [Gubintongxue](https://github.com/Gubintongxue)
+- [Szabolcs888](https://github.com/Szabolcs888)
+- [PlusUltraCode](https://github.com/PlusUltraCode)
+- [tstamborski](https://github.com/tstamborski)
+- [nghuy2008](https://github.com/nghuy2008)
 - [atomSS-1](https://github.com/atomSS-1)
 - [dosepehr](https://github.com/dosepehr)
 - [GXCoder78](https://github.com/GXCoder78)
-- [your-ai-solution](https://github.com/your-ai-solution)
-- [luckstraw](https://github.com/luckstraw)
-- [rayanux](https://github.com/rayanux)
-- [njavet](https://github.com/njavet)
-- [OUROBOTICS-OU](https://github.com/OUROBOTICS-OU)
-- [pranav-8660](https://github.com/pranav-8660)
-- [svenfahrni](https://github.com/svenfahrni)
 
 ## ⭐ Recent stars
 
+- [d3cod3/ofxVisualProgramming](https://github.com/d3cod3/ofxVisualProgramming) - A visual programming patching environment for OF (today)
+- [d3cod3/Mosaic](https://github.com/d3cod3/Mosaic) - Mosaic, an openFrameworks based Visual Patching Creative-Coding Platform (today)
 - [adrg/frontmatter](https://github.com/adrg/frontmatter) - Go library for detecting and decoding various content front matter formats (today)
 - [adrg/go-wkhtmltopdf](https://github.com/adrg/go-wkhtmltopdf) - Handcrafted Go bindings for wkhtmltopdf and high-level HTML to PDF conversion interface (today)
 - [adrg/strutil](https://github.com/adrg/strutil) - Go metrics for calculating string similarity and other string utility functions (today)
-- [adrg/libvlc-go](https://github.com/adrg/libvlc-go) - Handcrafted Go bindings for libVLC and high-level media player interface (today)
-- [adrg/xdg](https://github.com/adrg/xdg) - Go implementation of the XDG Base Directory Specification and XDG user directories (today)
 
 ## 🔨 Latest Pull Requests I published
