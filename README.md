@@ -46,16 +46,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [zit0cod3z](https://github.com/zit0cod3z)
+- [shayan041ir](https://github.com/shayan041ir)
+- [erleen0307](https://github.com/erleen0307)
+- [Taimisson](https://github.com/Taimisson)
+- [IseduardoRezende](https://github.com/IseduardoRezende)
+- [wing-0902](https://github.com/wing-0902)
+- [parisa-adli](https://github.com/parisa-adli)
+- [jianglin-code](https://github.com/jianglin-code)
 - [CheeloHamududu](https://github.com/CheeloHamududu)
 - [draco-tlw](https://github.com/draco-tlw)
-- [vldmatos](https://github.com/vldmatos)
-- [tuepon](https://github.com/tuepon)
-- [maral272](https://github.com/maral272)
-- [AzzikraPraqastaKusuma123](https://github.com/AzzikraPraqastaKusuma123)
-- [KCblama19](https://github.com/KCblama19)
-- [choiis](https://github.com/choiis)
-- [rdvnkdyf](https://github.com/rdvnkdyf)
-- [ubeyidah](https://github.com/ubeyidah)
 
 ## ⭐ Recent stars
 
