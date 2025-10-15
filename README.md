@@ -46,23 +46,23 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
-- [grellified](https://github.com/grellified)
-- [han109k](https://github.com/han109k)
-- [Lucas-HMSC](https://github.com/Lucas-HMSC)
-- [Djalves424](https://github.com/Djalves424)
-- [oldiberezkoo](https://github.com/oldiberezkoo)
-- [luanaxcardoso](https://github.com/luanaxcardoso)
-- [kobbyprincee](https://github.com/kobbyprincee)
-- [cepseu6](https://github.com/cepseu6)
-- [samuelldmj](https://github.com/samuelldmj)
-- [Jeffersonlima578](https://github.com/Jeffersonlima578)
+- [CheeloHamududu](https://github.com/CheeloHamududu)
+- [draco-tlw](https://github.com/draco-tlw)
+- [vldmatos](https://github.com/vldmatos)
+- [tuepon](https://github.com/tuepon)
+- [maral272](https://github.com/maral272)
+- [AzzikraPraqastaKusuma123](https://github.com/AzzikraPraqastaKusuma123)
+- [KCblama19](https://github.com/KCblama19)
+- [choiis](https://github.com/choiis)
+- [rdvnkdyf](https://github.com/rdvnkdyf)
+- [ubeyidah](https://github.com/ubeyidah)
 
 ## ⭐ Recent stars
 
+- [Kristories/awesome-guidelines](https://github.com/Kristories/awesome-guidelines) - A curated list of high quality coding style conventions and standards. (today)
 - [dse/dse-typewriter-font](https://github.com/dse/dse-typewriter-font) - A monospace coding font inspired by pre-war typewriters. (today)
 - [dse/old-timey-mono-font](https://github.com/dse/old-timey-mono-font) (today)
 - [dse/routed-gothic](https://github.com/dse/routed-gothic) - A clean vintage drafting, avionics, routed signage, and keyboard legend font. (today)
 - [hikikomori82/osifont](https://github.com/hikikomori82/osifont) - Free TrueType font for CAD projects (today)
-- [pesa1234/MT6000_cust_build](https://github.com/pesa1234/MT6000_cust_build) - Repo for GL.iNet MT6000 custom build (today)
 
 ## 🔨 Latest Pull Requests I published
