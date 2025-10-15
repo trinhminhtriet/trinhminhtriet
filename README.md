@@ -46,23 +46,23 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
-- [EimyTheArtistic](https://github.com/EimyTheArtistic)
-- [Shun-ki00](https://github.com/Shun-ki00)
-- [Aparnamol-KS](https://github.com/Aparnamol-KS)
-- [dileepapeiris](https://github.com/dileepapeiris)
-- [Alireza-Foroughi-uk](https://github.com/Alireza-Foroughi-uk)
-- [psatomas](https://github.com/psatomas)
-- [Nkosinathi-dev1](https://github.com/Nkosinathi-dev1)
-- [devrewoh](https://github.com/devrewoh)
-- [shrjld](https://github.com/shrjld)
-- [aejmcclelland](https://github.com/aejmcclelland)
+- [aIlyson](https://github.com/aIlyson)
+- [Zzl0y](https://github.com/Zzl0y)
+- [melisasvr](https://github.com/melisasvr)
+- [linces](https://github.com/linces)
+- [kainonly](https://github.com/kainonly)
+- [wakhungu-dev](https://github.com/wakhungu-dev)
+- [moein-shafi](https://github.com/moein-shafi)
+- [jerardh](https://github.com/jerardh)
+- [pilukarts](https://github.com/pilukarts)
+- [julianova220](https://github.com/julianova220)
 
 ## ⭐ Recent stars
 
-- [Arnklit/ShellFurGodot](https://github.com/Arnklit/ShellFurGodot) - Add-on that adds a fur node to the Godot engine, using a shell based approach to imitate fur strands. (today)
-- [Arnklit/Waterways](https://github.com/Arnklit/Waterways) - A tool to generate river meshes with flow and foam maps based on bezier curves. (today)
-- [nathanfranke/gdextension](https://github.com/nathanfranke/gdextension) - GDExtension template that automatically builds into a self-contained addon for the Godot Asset Library. Updated to Godot 4.3. (today)
-- [monxa/GodotIK](https://github.com/monxa/GodotIK) - 3D Inverse Kinematics (IK) for Godot 4.3+! Supports scriptable constraints and multiple chains. (today)
-- [citizenll/godot-flexbox](https://github.com/citizenll/godot-flexbox) - Flexible and efficient UI layout using Flexbox via Yoga for Godot. ⚡ (today)
+- [pvnieo/Low-light-Image-Enhancement](https://github.com/pvnieo/Low-light-Image-Enhancement) - Python implementation of two low-light image enhancement techniques via illumination map estimation (today)
+- [jcornaz/benimator](https://github.com/jcornaz/benimator) - A sprite animation library for rust game development (today)
+- [jcornaz/heron](https://github.com/jcornaz/heron) - [DISCONTINUED] An ergonomic physics API for bevy games (today)
+- [MisterDA/love-release](https://github.com/MisterDA/love-release) - :love_letter: Lua script that makes LÖVE game release easier (today)
+- [CCChenhao997/DualGCN-ABSA](https://github.com/CCChenhao997/DualGCN-ABSA) - Dual Graph Convolutional Networks for Aspect-based Sentiment Analysis (today)
 
 ## 🔨 Latest Pull Requests I published
