@@ -46,6 +46,9 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [ronaldo-28](https://github.com/ronaldo-28)
+- [taylnAydin](https://github.com/taylnAydin)
+- [JosiTubaroski](https://github.com/JosiTubaroski)
 - [Siphelele-Maphumulo](https://github.com/Siphelele-Maphumulo)
 - [TechyDavid](https://github.com/TechyDavid)
 - [ahmadrasouli-dev](https://github.com/ahmadrasouli-dev)
@@ -53,9 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Divol99](https://github.com/Divol99)
 - [mrothauer](https://github.com/mrothauer)
 - [amr-yasser226](https://github.com/amr-yasser226)
-- [medicinepckt](https://github.com/medicinepckt)
-- [Gubintongxue](https://github.com/Gubintongxue)
-- [Szabolcs888](https://github.com/Szabolcs888)
 
 ## ⭐ Recent stars
 
