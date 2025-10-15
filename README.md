@@ -46,23 +46,23 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
-- [TranHuuDat2004](https://github.com/TranHuuDat2004)
-- [ENCAIL](https://github.com/ENCAIL)
-- [muangau107](https://github.com/muangau107)
-- [ScrabyQ](https://github.com/ScrabyQ)
-- [Sweep76](https://github.com/Sweep76)
-- [huseyineneserturk](https://github.com/huseyineneserturk)
-- [DiogoRibeiro7](https://github.com/DiogoRibeiro7)
-- [ns-develops](https://github.com/ns-develops)
-- [kadir001](https://github.com/kadir001)
-- [ichandrasharma](https://github.com/ichandrasharma)
+- [njavet](https://github.com/njavet)
+- [OUROBOTICS-OU](https://github.com/OUROBOTICS-OU)
+- [pranav-8660](https://github.com/pranav-8660)
+- [svenfahrni](https://github.com/svenfahrni)
+- [superdevp](https://github.com/superdevp)
+- [kadirlua](https://github.com/kadirlua)
+- [tumoxep](https://github.com/tumoxep)
+- [iamvikshan](https://github.com/iamvikshan)
+- [tatsumoto-ren](https://github.com/tatsumoto-ren)
+- [elecbug](https://github.com/elecbug)
 
 ## ⭐ Recent stars
 
-- [nikivdev/find-work](https://github.com/nikivdev/find-work) - Curated list of websites and resources to find work programming (today)
-- [nikivdev/alfred-learn-anything](https://github.com/nikivdev/alfred-learn-anything) - Alfred workflow to search Learn Anything (today)
-- [nikivdev/alfred-awesome-lists](https://github.com/nikivdev/alfred-awesome-lists) - Alfred workflow to search awesome lists (today)
-- [nikivdev/alfred-web-searches](https://github.com/nikivdev/alfred-web-searches) - Alfred workflow to search through any website (easily extendable list)  (today)
-- [nikivdev/alfred-past](https://github.com/nikivdev/alfred-past) - Alfred workflows I use (today)
+- [Navimark/PagedScrollView](https://github.com/Navimark/PagedScrollView) - auto silde scrollview,manual timer control,module-designed (today)
+- [onezens/AutoLocalization](https://github.com/onezens/AutoLocalization) - iOS Auto Localization for xib and storyboard (today)
+- [onezens/YCDownloadSession](https://github.com/onezens/YCDownloadSession) - iOS background download video or file lib (today)
+- [wzqcongcong/macSubstrate](https://github.com/wzqcongcong/macSubstrate) - Substrate for macOS (today)
+- [sunweiliang/NeteaseMusicCrack](https://github.com/sunweiliang/NeteaseMusicCrack) - iOS网易云音乐 免VIP下载、去广告、去更新 无需越狱... (today)
 
 ## 🔨 Latest Pull Requests I published
