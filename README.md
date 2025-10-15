@@ -46,23 +46,23 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [atomSS-1](https://github.com/atomSS-1)
+- [dosepehr](https://github.com/dosepehr)
+- [GXCoder78](https://github.com/GXCoder78)
+- [your-ai-solution](https://github.com/your-ai-solution)
+- [luckstraw](https://github.com/luckstraw)
+- [rayanux](https://github.com/rayanux)
 - [njavet](https://github.com/njavet)
 - [OUROBOTICS-OU](https://github.com/OUROBOTICS-OU)
 - [pranav-8660](https://github.com/pranav-8660)
 - [svenfahrni](https://github.com/svenfahrni)
-- [superdevp](https://github.com/superdevp)
-- [kadirlua](https://github.com/kadirlua)
-- [tumoxep](https://github.com/tumoxep)
-- [iamvikshan](https://github.com/iamvikshan)
-- [tatsumoto-ren](https://github.com/tatsumoto-ren)
-- [elecbug](https://github.com/elecbug)
 
 ## ⭐ Recent stars
 
-- [Navimark/PagedScrollView](https://github.com/Navimark/PagedScrollView) - auto silde scrollview,manual timer control,module-designed (today)
-- [onezens/AutoLocalization](https://github.com/onezens/AutoLocalization) - iOS Auto Localization for xib and storyboard (today)
-- [onezens/YCDownloadSession](https://github.com/onezens/YCDownloadSession) - iOS background download video or file lib (today)
-- [wzqcongcong/macSubstrate](https://github.com/wzqcongcong/macSubstrate) - Substrate for macOS (today)
-- [sunweiliang/NeteaseMusicCrack](https://github.com/sunweiliang/NeteaseMusicCrack) - iOS网易云音乐 免VIP下载、去广告、去更新 无需越狱... (today)
+- [adrg/frontmatter](https://github.com/adrg/frontmatter) - Go library for detecting and decoding various content front matter formats (today)
+- [adrg/go-wkhtmltopdf](https://github.com/adrg/go-wkhtmltopdf) - Handcrafted Go bindings for wkhtmltopdf and high-level HTML to PDF conversion interface (today)
+- [adrg/strutil](https://github.com/adrg/strutil) - Go metrics for calculating string similarity and other string utility functions (today)
+- [adrg/libvlc-go](https://github.com/adrg/libvlc-go) - Handcrafted Go bindings for libVLC and high-level media player interface (today)
+- [adrg/xdg](https://github.com/adrg/xdg) - Go implementation of the XDG Base Directory Specification and XDG user directories (today)
 
 ## 🔨 Latest Pull Requests I published
