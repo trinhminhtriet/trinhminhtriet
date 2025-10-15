@@ -46,23 +46,23 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [JeAuto00](https://github.com/JeAuto00)
+- [izzalDev](https://github.com/izzalDev)
+- [abhijithwarrier](https://github.com/abhijithwarrier)
+- [chrisleekr](https://github.com/chrisleekr)
+- [TrentBest](https://github.com/TrentBest)
+- [1234-ad](https://github.com/1234-ad)
+- [fannysaez](https://github.com/fannysaez)
+- [rashidmakki](https://github.com/rashidmakki)
 - [aIlyson](https://github.com/aIlyson)
 - [Zzl0y](https://github.com/Zzl0y)
-- [melisasvr](https://github.com/melisasvr)
-- [linces](https://github.com/linces)
-- [kainonly](https://github.com/kainonly)
-- [wakhungu-dev](https://github.com/wakhungu-dev)
-- [moein-shafi](https://github.com/moein-shafi)
-- [jerardh](https://github.com/jerardh)
-- [pilukarts](https://github.com/pilukarts)
-- [julianova220](https://github.com/julianova220)
 
 ## ⭐ Recent stars
 
+- [korotovsky/slack-mcp-server](https://github.com/korotovsky/slack-mcp-server) - The most powerful MCP Slack Server with no permission requirements, Apps support, multiple transports Stdio and SSE, DMs, Group DMs and smart history fetch logic. (today)
 - [pvnieo/Low-light-Image-Enhancement](https://github.com/pvnieo/Low-light-Image-Enhancement) - Python implementation of two low-light image enhancement techniques via illumination map estimation (today)
 - [jcornaz/benimator](https://github.com/jcornaz/benimator) - A sprite animation library for rust game development (today)
 - [jcornaz/heron](https://github.com/jcornaz/heron) - [DISCONTINUED] An ergonomic physics API for bevy games (today)
 - [MisterDA/love-release](https://github.com/MisterDA/love-release) - :love_letter: Lua script that makes LÖVE game release easier (today)
-- [CCChenhao997/DualGCN-ABSA](https://github.com/CCChenhao997/DualGCN-ABSA) - Dual Graph Convolutional Networks for Aspect-based Sentiment Analysis (today)
 
 ## 🔨 Latest Pull Requests I published
