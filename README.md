@@ -46,23 +46,23 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [milad-hub](https://github.com/milad-hub)
+- [0bvim](https://github.com/0bvim)
+- [seanwallawalla](https://github.com/seanwallawalla)
+- [zoxilsi](https://github.com/zoxilsi)
 - [wedadosama](https://github.com/wedadosama)
 - [aoaydin](https://github.com/aoaydin)
 - [fedebayer](https://github.com/fedebayer)
 - [yowatanabe](https://github.com/yowatanabe)
 - [Burkifa23](https://github.com/Burkifa23)
 - [ConradPB](https://github.com/ConradPB)
-- [IsaacKalambo22](https://github.com/IsaacKalambo22)
-- [omersefacarikci](https://github.com/omersefacarikci)
-- [MaisoonMohamed290](https://github.com/MaisoonMohamed290)
-- [smri29](https://github.com/smri29)
 
 ## ⭐ Recent stars
 
-- [Windsander/AnimatedRandomLayout](https://github.com/Windsander/AnimatedRandomLayout) - A flexible RandomLayout with controlable Animation (today)
-- [Windsander/Android-UltimateGPUImage](https://github.com/Windsander/Android-UltimateGPUImage) - provide video record method with filter and other cool staff. Yes, It's a full functional video recorder (today)
-- [Windsander/ADI-Stable-Diffusion](https://github.com/Windsander/ADI-Stable-Diffusion) - Accelerate your Stable Diffusion inference with the library's universal C/C++ framework design, powered by ONNXRuntime & across platforms. (today)
-- [htcr/sam_road](https://github.com/htcr/sam_road) - Segment Anything Model for large-scale, vectorized road network extraction from aerial imagery. CVPRW 2024 (today)
-- [mescroll/mescroll](https://github.com/mescroll/mescroll) - 精致的下拉刷新和上拉加载 js框架.支持vue,完美运行于移动端和主流PC浏览器 (JS framework for pull-refresh and pull-up-loading) (today)
+- [andreynovikov/trekarta](https://github.com/andreynovikov/trekarta) - Simple, responsive map for your trek. You decide how to journey today, not the application! (today)
+- [babysource/VRDroid](https://github.com/babysource/VRDroid) - VR Player for android (today)
+- [huangwm1984/AndroidBase](https://github.com/huangwm1984/AndroidBase) - 采用谷歌官方MVP架构以及RxJava对项目进行封装重构 (today)
+- [qqchenjian318/VideoEditor-For-Android](https://github.com/qqchenjian318/VideoEditor-For-Android) - 一个Android的视频编辑器，包括了视频录制、剪切、增加bgm、美白、加滤镜、加水印等多种功能 (today)
+- [eprendre/tingshu](https://github.com/eprendre/tingshu) - 一款可在线播放多个免费听书站点的安卓app (today)
 
 ## 🔨 Latest Pull Requests I published
