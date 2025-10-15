@@ -33,11 +33,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👷 Check out what I'm currently working on
 
-- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (today)
-- [nctl-io/nctl-branding](https://github.com/nctl-io/nctl-branding) - NCTL Branding 🖼️: Centralized assets and guidelines for consistent visual identity across NCTL projects and platforms. (2 days ago)
-- [nctl-io/nctl-homepage](https://github.com/nctl-io/nctl-homepage) - 🚀 Modern homepage for NCTL: fast, responsive, TypeScript-powered, open source, and easy to customize. (2 days ago)
-- [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) - 🚀 All-in-one CLI toolkit for developers: scaffold, manage, automate, and boost productivity across languages! (2 weeks ago)
-- [lamhaison/aws-cli-utils](https://github.com/lamhaison/aws-cli-utils) - This is the project to collect helpful aws cli commandline with complex options to support your working (3 weeks ago)
+- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (1 day ago)
+- [nctl-io/nctl-branding](https://github.com/nctl-io/nctl-branding) - NCTL Branding 🖼️: Centralized assets and guidelines for consistent visual identity across NCTL projects and platforms. (3 days ago)
+- [nctl-io/nctl-homepage](https://github.com/nctl-io/nctl-homepage) - 🚀 Modern homepage for NCTL: fast, responsive, TypeScript-powered, open source, and easy to customize. (3 days ago)
+- [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) - 🚀 All-in-one CLI toolkit for developers: scaffold, manage, automate, and boost productivity across languages! (3 weeks ago)
+- [lamhaison/aws-cli-utils](https://github.com/lamhaison/aws-cli-utils) - This is the project to collect helpful aws cli commandline with complex options to support your working (4 weeks ago)
 - [trinhminhtriet/dwipe](https://github.com/trinhminhtriet/dwipe) - 🧹 Fast, cross-platform disk cleanup tool with interactive UI for easy directory size visualization. (1 month ago)
 - [nctl-io/nctl-roadmap](https://github.com/nctl-io/nctl-roadmap) (1 month ago)
 - [nctl-io/.github](https://github.com/nctl-io/.github) - 🌐 Network. Connect. Transform. Lead. (1 month ago)
@@ -46,23 +46,23 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Shun-ki00](https://github.com/Shun-ki00)
+- [Aparnamol-KS](https://github.com/Aparnamol-KS)
+- [dileepapeiris](https://github.com/dileepapeiris)
+- [Alireza-Foroughi-uk](https://github.com/Alireza-Foroughi-uk)
+- [psatomas](https://github.com/psatomas)
 - [Nkosinathi-dev1](https://github.com/Nkosinathi-dev1)
 - [devrewoh](https://github.com/devrewoh)
 - [shrjld](https://github.com/shrjld)
 - [aejmcclelland](https://github.com/aejmcclelland)
 - [branGitfox](https://github.com/branGitfox)
-- [ortegavan](https://github.com/ortegavan)
-- [globalbusinessadvisors](https://github.com/globalbusinessadvisors)
-- [walbarellos](https://github.com/walbarellos)
-- [abadathossain](https://github.com/abadathossain)
-- [Lampard7crypt](https://github.com/Lampard7crypt)
 
 ## ⭐ Recent stars
 
-- [rskuipers/php-assumptions](https://github.com/rskuipers/php-assumptions) - Tool to detect assumptions (today)
-- [tdlm/mac-os-self-destruct](https://github.com/tdlm/mac-os-self-destruct) - Deletes files/folders in macOS based on a time specified in tags. (today)
-- [Glamdring/computoser](https://github.com/Glamdring/computoser) - Algorithm for music composition (today)
-- [Glamdring/EasyCamera](https://github.com/Glamdring/EasyCamera) - Wrapper around the android Camera class that simplifies its usage (today)
-- [bojanz/currency](https://github.com/bojanz/currency) - Currency handling for Go. (today)
+- [fastio/1store](https://github.com/fastio/1store) - NoSQL data store using the SEASTAR framework, compatible with Redis (today)
+- [JerryZhou/aoi](https://github.com/JerryZhou/aoi) - area of interest(AOI), Navigation-Mesh (today)
+- [sfalexrog/Imgui_Android](https://github.com/sfalexrog/Imgui_Android) - A demo of dear imgui running on Android (today)
+- [eNkru/freelook](https://github.com/eNkru/freelook) - Freelook, an Electron-based client for Microsoft Outlook. (today)
+- [eNkru/electron-xiami](https://github.com/eNkru/electron-xiami) - 虾米音乐 & 虾米电台 - Linux & Mac | Xiami Player & Xiami Radio desktop for Linux & Mac supported by Electron (today)
 
 ## 🔨 Latest Pull Requests I published
