@@ -46,23 +46,23 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Burkifa23](https://github.com/Burkifa23)
+- [ConradPB](https://github.com/ConradPB)
+- [IsaacKalambo22](https://github.com/IsaacKalambo22)
+- [omersefacarikci](https://github.com/omersefacarikci)
+- [MaisoonMohamed290](https://github.com/MaisoonMohamed290)
+- [smri29](https://github.com/smri29)
+- [AdrianoR85](https://github.com/AdrianoR85)
+- [mig21010](https://github.com/mig21010)
 - [RajAgamSinghKalra](https://github.com/RajAgamSinghKalra)
 - [ugioni](https://github.com/ugioni)
-- [httpsMrFeri](https://github.com/httpsMrFeri)
-- [tkdevops-commit](https://github.com/tkdevops-commit)
-- [mdcartel](https://github.com/mdcartel)
-- [prabinpanta0](https://github.com/prabinpanta0)
-- [VaibhavUgratara](https://github.com/VaibhavUgratara)
-- [SimedruF](https://github.com/SimedruF)
-- [EmenegildoMarques0](https://github.com/EmenegildoMarques0)
-- [SmashedFrenzy16](https://github.com/SmashedFrenzy16)
 
 ## ⭐ Recent stars
 
-- [andreasvc/vim-256noir](https://github.com/andreasvc/vim-256noir) - A dark 256-color colorscheme for vim (today)
-- [lybeat/PlumbTextView](https://github.com/lybeat/PlumbTextView) - PlumbTextView is a vertical textview. (today)
-- [primetang/pylsd](https://github.com/primetang/pylsd) - python bindings for LSD - Line Segment Detector. (today)
-- [primetang/LSD-OpenCV-MATLAB](https://github.com/primetang/LSD-OpenCV-MATLAB) - Line Segment Detector for OpenCV, MATLAB, and Python. (today)
-- [lateautumn233/Linuxdeploy-Pro](https://github.com/lateautumn233/Linuxdeploy-Pro) - Install and run GNU/Linux on Android (today)
+- [water8394/BigData-Interview](https://github.com/water8394/BigData-Interview) - :dart: :star2:[大数据面试题]分享自己在网络上收集的大数据相关的面试题以及自己的答案总结.目前包含Hadoop/Hive/Spark/Flink/Hbase/Kafka/Zookeeper框架的面试题知识总结 (today)
+- [water8394/flink-recommandSystem-demo](https://github.com/water8394/flink-recommandSystem-demo) - :helicopter::rocket:基于Flink实现的商品实时推荐系统。flink统计商品热度，放入redis缓存，分析日志信息，将画像标签和实时记录放入Hbase。在用户发起推荐请求后，根据用户画像重排序热度榜，并结合协同过滤和标签两个推荐模块为新生成的榜单的每一个产品添加关联产品，最后返回新的用户列表。 (today)
+- [ykloveyxk/vue-login](https://github.com/ykloveyxk/vue-login) - This is a login program based on vuejs and axios，for beginners (today)
+- [LetTTGACO/elog](https://github.com/LetTTGACO/elog) - Markdown 批量导出工具、开放式跨平台博客解决方案，随意组合写作平台(语雀/Notion/FlowUs/飞书/我来Wolai)和博客平台(Hexo/Vitepress/Halo/Confluence/WordPress等) (today)
+- [evshiron/nwjs-builder-phoenix](https://github.com/evshiron/nwjs-builder-phoenix) (today)
 
 ## 🔨 Latest Pull Requests I published
