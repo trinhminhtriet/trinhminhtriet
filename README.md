@@ -46,23 +46,23 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
-- [ronaldo-28](https://github.com/ronaldo-28)
-- [taylnAydin](https://github.com/taylnAydin)
-- [JosiTubaroski](https://github.com/JosiTubaroski)
-- [Siphelele-Maphumulo](https://github.com/Siphelele-Maphumulo)
-- [TechyDavid](https://github.com/TechyDavid)
-- [ahmadrasouli-dev](https://github.com/ahmadrasouli-dev)
-- [iiwoii](https://github.com/iiwoii)
-- [Divol99](https://github.com/Divol99)
-- [mrothauer](https://github.com/mrothauer)
-- [amr-yasser226](https://github.com/amr-yasser226)
+- [grellified](https://github.com/grellified)
+- [han109k](https://github.com/han109k)
+- [Lucas-HMSC](https://github.com/Lucas-HMSC)
+- [Djalves424](https://github.com/Djalves424)
+- [oldiberezkoo](https://github.com/oldiberezkoo)
+- [luanaxcardoso](https://github.com/luanaxcardoso)
+- [kobbyprincee](https://github.com/kobbyprincee)
+- [cepseu6](https://github.com/cepseu6)
+- [samuelldmj](https://github.com/samuelldmj)
+- [Jeffersonlima578](https://github.com/Jeffersonlima578)
 
 ## ⭐ Recent stars
 
+- [dse/dse-typewriter-font](https://github.com/dse/dse-typewriter-font) - A monospace coding font inspired by pre-war typewriters. (today)
+- [dse/old-timey-mono-font](https://github.com/dse/old-timey-mono-font) (today)
+- [dse/routed-gothic](https://github.com/dse/routed-gothic) - A clean vintage drafting, avionics, routed signage, and keyboard legend font. (today)
+- [hikikomori82/osifont](https://github.com/hikikomori82/osifont) - Free TrueType font for CAD projects (today)
 - [pesa1234/MT6000_cust_build](https://github.com/pesa1234/MT6000_cust_build) - Repo for GL.iNet MT6000 custom build (today)
-- [Demonmasterlqx/MoonBit-Code-JAM-2024](https://github.com/Demonmasterlqx/MoonBit-Code-JAM-2024) (today)
-- [d3cod3/ofxVisualProgramming](https://github.com/d3cod3/ofxVisualProgramming) - A visual programming patching environment for OF (today)
-- [d3cod3/Mosaic](https://github.com/d3cod3/Mosaic) - Mosaic, an openFrameworks based Visual Patching Creative-Coding Platform (today)
-- [adrg/frontmatter](https://github.com/adrg/frontmatter) - Go library for detecting and decoding various content front matter formats (today)
 
 ## 🔨 Latest Pull Requests I published
