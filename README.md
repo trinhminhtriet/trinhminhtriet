@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [EimyTheArtistic](https://github.com/EimyTheArtistic)
 - [Shun-ki00](https://github.com/Shun-ki00)
 - [Aparnamol-KS](https://github.com/Aparnamol-KS)
 - [dileepapeiris](https://github.com/dileepapeiris)
@@ -55,14 +56,13 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [devrewoh](https://github.com/devrewoh)
 - [shrjld](https://github.com/shrjld)
 - [aejmcclelland](https://github.com/aejmcclelland)
-- [branGitfox](https://github.com/branGitfox)
 
 ## ⭐ Recent stars
 
-- [fastio/1store](https://github.com/fastio/1store) - NoSQL data store using the SEASTAR framework, compatible with Redis (today)
-- [JerryZhou/aoi](https://github.com/JerryZhou/aoi) - area of interest(AOI), Navigation-Mesh (today)
-- [sfalexrog/Imgui_Android](https://github.com/sfalexrog/Imgui_Android) - A demo of dear imgui running on Android (today)
-- [eNkru/freelook](https://github.com/eNkru/freelook) - Freelook, an Electron-based client for Microsoft Outlook. (today)
-- [eNkru/electron-xiami](https://github.com/eNkru/electron-xiami) - 虾米音乐 & 虾米电台 - Linux & Mac | Xiami Player & Xiami Radio desktop for Linux & Mac supported by Electron (today)
+- [Arnklit/ShellFurGodot](https://github.com/Arnklit/ShellFurGodot) - Add-on that adds a fur node to the Godot engine, using a shell based approach to imitate fur strands. (today)
+- [Arnklit/Waterways](https://github.com/Arnklit/Waterways) - A tool to generate river meshes with flow and foam maps based on bezier curves. (today)
+- [nathanfranke/gdextension](https://github.com/nathanfranke/gdextension) - GDExtension template that automatically builds into a self-contained addon for the Godot Asset Library. Updated to Godot 4.3. (today)
+- [monxa/GodotIK](https://github.com/monxa/GodotIK) - 3D Inverse Kinematics (IK) for Godot 4.3+! Supports scriptable constraints and multiple chains. (today)
+- [citizenll/godot-flexbox](https://github.com/citizenll/godot-flexbox) - Flexible and efficient UI layout using Flexbox via Yoga for Godot. ⚡ (today)
 
 ## 🔨 Latest Pull Requests I published
