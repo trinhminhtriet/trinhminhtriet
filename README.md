@@ -46,23 +46,23 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [RajAgamSinghKalra](https://github.com/RajAgamSinghKalra)
+- [ugioni](https://github.com/ugioni)
+- [httpsMrFeri](https://github.com/httpsMrFeri)
+- [tkdevops-commit](https://github.com/tkdevops-commit)
+- [mdcartel](https://github.com/mdcartel)
+- [prabinpanta0](https://github.com/prabinpanta0)
 - [VaibhavUgratara](https://github.com/VaibhavUgratara)
 - [SimedruF](https://github.com/SimedruF)
 - [EmenegildoMarques0](https://github.com/EmenegildoMarques0)
 - [SmashedFrenzy16](https://github.com/SmashedFrenzy16)
-- [nogesiyasanga](https://github.com/nogesiyasanga)
-- [KwesitheDev](https://github.com/KwesitheDev)
-- [mfcaicedo](https://github.com/mfcaicedo)
-- [InflixOP](https://github.com/InflixOP)
-- [NewHeavenDAO](https://github.com/NewHeavenDAO)
-- [Gildaciolopes](https://github.com/Gildaciolopes)
 
 ## ⭐ Recent stars
 
+- [andreasvc/vim-256noir](https://github.com/andreasvc/vim-256noir) - A dark 256-color colorscheme for vim (today)
 - [lybeat/PlumbTextView](https://github.com/lybeat/PlumbTextView) - PlumbTextView is a vertical textview. (today)
 - [primetang/pylsd](https://github.com/primetang/pylsd) - python bindings for LSD - Line Segment Detector. (today)
 - [primetang/LSD-OpenCV-MATLAB](https://github.com/primetang/LSD-OpenCV-MATLAB) - Line Segment Detector for OpenCV, MATLAB, and Python. (today)
 - [lateautumn233/Linuxdeploy-Pro](https://github.com/lateautumn233/Linuxdeploy-Pro) - Install and run GNU/Linux on Android (today)
-- [Kristories/awesome-guidelines](https://github.com/Kristories/awesome-guidelines) - A curated list of high quality coding style conventions and standards. (today)
 
 ## 🔨 Latest Pull Requests I published
