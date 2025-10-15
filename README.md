@@ -46,23 +46,23 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [wedadosama](https://github.com/wedadosama)
+- [aoaydin](https://github.com/aoaydin)
+- [fedebayer](https://github.com/fedebayer)
+- [yowatanabe](https://github.com/yowatanabe)
 - [Burkifa23](https://github.com/Burkifa23)
 - [ConradPB](https://github.com/ConradPB)
 - [IsaacKalambo22](https://github.com/IsaacKalambo22)
 - [omersefacarikci](https://github.com/omersefacarikci)
 - [MaisoonMohamed290](https://github.com/MaisoonMohamed290)
 - [smri29](https://github.com/smri29)
-- [AdrianoR85](https://github.com/AdrianoR85)
-- [mig21010](https://github.com/mig21010)
-- [RajAgamSinghKalra](https://github.com/RajAgamSinghKalra)
-- [ugioni](https://github.com/ugioni)
 
 ## ⭐ Recent stars
 
-- [water8394/BigData-Interview](https://github.com/water8394/BigData-Interview) - :dart: :star2:[大数据面试题]分享自己在网络上收集的大数据相关的面试题以及自己的答案总结.目前包含Hadoop/Hive/Spark/Flink/Hbase/Kafka/Zookeeper框架的面试题知识总结 (today)
-- [water8394/flink-recommandSystem-demo](https://github.com/water8394/flink-recommandSystem-demo) - :helicopter::rocket:基于Flink实现的商品实时推荐系统。flink统计商品热度，放入redis缓存，分析日志信息，将画像标签和实时记录放入Hbase。在用户发起推荐请求后，根据用户画像重排序热度榜，并结合协同过滤和标签两个推荐模块为新生成的榜单的每一个产品添加关联产品，最后返回新的用户列表。 (today)
-- [ykloveyxk/vue-login](https://github.com/ykloveyxk/vue-login) - This is a login program based on vuejs and axios，for beginners (today)
-- [LetTTGACO/elog](https://github.com/LetTTGACO/elog) - Markdown 批量导出工具、开放式跨平台博客解决方案，随意组合写作平台(语雀/Notion/FlowUs/飞书/我来Wolai)和博客平台(Hexo/Vitepress/Halo/Confluence/WordPress等) (today)
-- [evshiron/nwjs-builder-phoenix](https://github.com/evshiron/nwjs-builder-phoenix) (today)
+- [Windsander/AnimatedRandomLayout](https://github.com/Windsander/AnimatedRandomLayout) - A flexible RandomLayout with controlable Animation (today)
+- [Windsander/Android-UltimateGPUImage](https://github.com/Windsander/Android-UltimateGPUImage) - provide video record method with filter and other cool staff. Yes, It's a full functional video recorder (today)
+- [Windsander/ADI-Stable-Diffusion](https://github.com/Windsander/ADI-Stable-Diffusion) - Accelerate your Stable Diffusion inference with the library's universal C/C++ framework design, powered by ONNXRuntime & across platforms. (today)
+- [htcr/sam_road](https://github.com/htcr/sam_road) - Segment Anything Model for large-scale, vectorized road network extraction from aerial imagery. CVPRW 2024 (today)
+- [mescroll/mescroll](https://github.com/mescroll/mescroll) - 精致的下拉刷新和上拉加载 js框架.支持vue,完美运行于移动端和主流PC浏览器 (JS framework for pull-refresh and pull-up-loading) (today)
 
 ## 🔨 Latest Pull Requests I published
