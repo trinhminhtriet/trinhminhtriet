@@ -46,16 +46,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Ariamoradi1](https://github.com/Ariamoradi1)
+- [MatheusOtenio](https://github.com/MatheusOtenio)
+- [sumanzzz](https://github.com/sumanzzz)
+- [envico801](https://github.com/envico801)
+- [Lionous](https://github.com/Lionous)
 - [taxi-tabby](https://github.com/taxi-tabby)
 - [Saran0605](https://github.com/Saran0605)
 - [ashykng](https://github.com/ashykng)
 - [Pedrao01](https://github.com/Pedrao01)
 - [AndreyPradoAP](https://github.com/AndreyPradoAP)
-- [Raxone](https://github.com/Raxone)
-- [MilenaGeorgieva95](https://github.com/MilenaGeorgieva95)
-- [Snehasikder](https://github.com/Snehasikder)
-- [haslan82](https://github.com/haslan82)
-- [Benedicta-107](https://github.com/Benedicta-107)
 
 ## ⭐ Recent stars
 
