@@ -46,23 +46,23 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [sam021624](https://github.com/sam021624)
+- [csh0101](https://github.com/csh0101)
+- [webcreate123](https://github.com/webcreate123)
+- [Gruffyy](https://github.com/Gruffyy)
+- [wahyusa](https://github.com/wahyusa)
 - [Dev-Hooman](https://github.com/Dev-Hooman)
 - [i-omer6637](https://github.com/i-omer6637)
 - [Javi3y](https://github.com/Javi3y)
 - [MahinMuhammad](https://github.com/MahinMuhammad)
 - [conorheffron](https://github.com/conorheffron)
-- [ankitpatil7](https://github.com/ankitpatil7)
-- [Wally0402](https://github.com/Wally0402)
-- [Rehan22345](https://github.com/Rehan22345)
-- [eros1006](https://github.com/eros1006)
-- [anglitj](https://github.com/anglitj)
 
 ## ⭐ Recent stars
 
-- [cyfonly/dubbo-read](https://github.com/cyfonly/dubbo-read) - Dubbo原理和源码解读 (today)
-- [cyfonly/netty-http](https://github.com/cyfonly/netty-http) - Netty HTTP 协议栈的简单实践 (today)
-- [cyfonly/FLogger](https://github.com/cyfonly/FLogger) - 基于双缓冲队列、多刷盘机制的超轻量级 java 日志 (today)
-- [pmotschmann/Evolve](https://github.com/pmotschmann/Evolve) - An incremental game about evolving a civilization (today)
-- [bestaone/HiAuth](https://github.com/bestaone/HiAuth) - HiAuth是一个开源的基于Oauth2协议的认证、授权系统。 (today)
+- [007gzs/dingtalk-sdk](https://github.com/007gzs/dingtalk-sdk) - 钉钉 dingding Python SDK。 DingTalk SDK for Python http://dingtalk-sdk.readthedocs.io/zh_CN/latest/ (today)
+- [007gzs/meeting](https://github.com/007gzs/meeting) - 开源会议室预约小程序+Django服务端后台 (today)
+- [eisenxp/macos-golink-wrapper](https://github.com/eisenxp/macos-golink-wrapper) - solution to "syscall.Mprotect panic: permission denied" on macOS Catalina 10.15.x (today)
+- [johntostring/spring-boot-shiro](https://github.com/johntostring/spring-boot-shiro) - Apache Shiro integration with Spring Boot. (today)
+- [JosePineiro/WebP-wrapper](https://github.com/JosePineiro/WebP-wrapper) - Wrapper for libwebp in C#. The most complete wapper in pure managed C#. Exposes Simple Decoding API, Simple Encoding API, Advanced Encoding API (with stadistis of compresion), Get version library and WebPGetFeatures (info of any WebP file). In the future I´ll update for expose Advanced Decoding API. The wapper are in safe managed code in one class. No need external dll except libwebp.dll (included). The wapper work in 32 and 64 bit system. (today)
 
 ## 🔨 Latest Pull Requests I published
