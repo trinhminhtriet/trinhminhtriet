@@ -46,23 +46,23 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [weznn](https://github.com/weznn)
+- [victorcalixto](https://github.com/victorcalixto)
+- [sneaker-dev](https://github.com/sneaker-dev)
+- [Hoomanzoh79](https://github.com/Hoomanzoh79)
+- [pretty-jini](https://github.com/pretty-jini)
+- [Kevin-rm](https://github.com/Kevin-rm)
+- [bahattinyunus](https://github.com/bahattinyunus)
+- [s-v7](https://github.com/s-v7)
 - [ishandutta2007](https://github.com/ishandutta2007)
 - [haitomnsg](https://github.com/haitomnsg)
-- [Scanf-s](https://github.com/Scanf-s)
-- [Manasseh-Ankrah](https://github.com/Manasseh-Ankrah)
-- [sam021624](https://github.com/sam021624)
-- [csh0101](https://github.com/csh0101)
-- [webcreate123](https://github.com/webcreate123)
-- [Gruffyy](https://github.com/Gruffyy)
-- [wahyusa](https://github.com/wahyusa)
-- [Dev-Hooman](https://github.com/Dev-Hooman)
 
 ## ⭐ Recent stars
 
-- [TanJiaJunBeyond/AndroidGenericFramework](https://github.com/TanJiaJunBeyond/AndroidGenericFramework) - Android通用框架 (today)
-- [dreling8/Nop.Framework](https://github.com/dreling8/Nop.Framework) - c# asp.net mvc  base development framework from nopCommerce。 (today)
-- [bin392328206/six-finger](https://github.com/bin392328206/six-finger) - 📓从Java基础、JavaWeb基础到常用的框架再到面试题、微服务、分布式、大数据都有完整的教程，几乎涵盖了Java必备的知识点 (today)
-- [zqqian/baidulixiandown](https://github.com/zqqian/baidulixiandown) - HIGHER SPEED TO DOWNLOAD BAIDU NET DISK (today)
-- [limes-cloud/go-platform](https://github.com/limes-cloud/go-platform) - go-platform 简单、高效的 企业级微服务快速开发脚手架，包含管理端、服务端、应用端。对k8s友好，兼容分布式场景。 (today)
+- [Siwash/websocketWithNetty](https://github.com/Siwash/websocketWithNetty) - 基于netty搭建websocket服务器 (today)
+- [dothetrick/binlogportal](https://github.com/dothetrick/binlogportal) - mysql binlog同步工具 (today)
+- [zhp8341/flink-streaming-platform-web](https://github.com/zhp8341/flink-streaming-platform-web) - 基于flink的实时流计算web平台 (today)
+- [Hyhyhyhyhyhyh/Django-Data-quality-system](https://github.com/Hyhyhyhyhyhyh/Django-Data-quality-system) - 数据治理、数据质量检核/监控平台（Django+jQuery+MySQL） (today)
+- [ClickHouse-China/ClickhouseMeetup](https://github.com/ClickHouse-China/ClickhouseMeetup) - Material of Clickhouse Meetup in China (today)
 
 ## 🔨 Latest Pull Requests I published
