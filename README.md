@@ -46,16 +46,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
-- [mostsfa538](https://github.com/mostsfa538)
-- [woojubb](https://github.com/woojubb)
-- [AylinkaBozova](https://github.com/AylinkaBozova)
-- [Priyasha-Yadav](https://github.com/Priyasha-Yadav)
-- [waseemofficial](https://github.com/waseemofficial)
-- [Tanseychuong](https://github.com/Tanseychuong)
-- [EvgeniGanchev](https://github.com/EvgeniGanchev)
-- [weznn](https://github.com/weznn)
-- [victorcalixto](https://github.com/victorcalixto)
-- [sneaker-dev](https://github.com/sneaker-dev)
+- [taxi-tabby](https://github.com/taxi-tabby)
+- [Saran0605](https://github.com/Saran0605)
+- [ashykng](https://github.com/ashykng)
+- [Pedrao01](https://github.com/Pedrao01)
+- [AndreyPradoAP](https://github.com/AndreyPradoAP)
+- [Raxone](https://github.com/Raxone)
+- [MilenaGeorgieva95](https://github.com/MilenaGeorgieva95)
+- [Snehasikder](https://github.com/Snehasikder)
+- [haslan82](https://github.com/haslan82)
+- [Benedicta-107](https://github.com/Benedicta-107)
 
 ## ⭐ Recent stars
 
