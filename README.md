@@ -46,16 +46,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [sauruvibes](https://github.com/sauruvibes)
+- [kaotickj](https://github.com/kaotickj)
+- [masoudh7676](https://github.com/masoudh7676)
+- [sparkyPythoneer](https://github.com/sparkyPythoneer)
+- [CristianVellio](https://github.com/CristianVellio)
 - [Ariamoradi1](https://github.com/Ariamoradi1)
 - [MatheusOtenio](https://github.com/MatheusOtenio)
 - [sumanzzz](https://github.com/sumanzzz)
 - [envico801](https://github.com/envico801)
 - [Lionous](https://github.com/Lionous)
-- [taxi-tabby](https://github.com/taxi-tabby)
-- [Saran0605](https://github.com/Saran0605)
-- [ashykng](https://github.com/ashykng)
-- [Pedrao01](https://github.com/Pedrao01)
-- [AndreyPradoAP](https://github.com/AndreyPradoAP)
 
 ## ⭐ Recent stars
 
