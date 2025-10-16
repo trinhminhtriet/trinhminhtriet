@@ -46,16 +46,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [arix-7x](https://github.com/arix-7x)
+- [shinysparkz](https://github.com/shinysparkz)
+- [JulioFranciscoBernardino](https://github.com/JulioFranciscoBernardino)
+- [Gildaciolopes](https://github.com/Gildaciolopes)
+- [relayouter](https://github.com/relayouter)
 - [jvcByte](https://github.com/jvcByte)
 - [tatsuyafujisaki](https://github.com/tatsuyafujisaki)
 - [gabrieltsants](https://github.com/gabrieltsants)
 - [krllblkv](https://github.com/krllblkv)
 - [ChefIronBelly](https://github.com/ChefIronBelly)
-- [amdadislam01](https://github.com/amdadislam01)
-- [eleffa](https://github.com/eleffa)
-- [ikartiksh](https://github.com/ikartiksh)
-- [Ferds205](https://github.com/Ferds205)
-- [DevGruGold](https://github.com/DevGruGold)
 
 ## ⭐ Recent stars
 
