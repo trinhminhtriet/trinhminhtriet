@@ -46,6 +46,9 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [amdadislam01](https://github.com/amdadislam01)
+- [eleffa](https://github.com/eleffa)
+- [ikartiksh](https://github.com/ikartiksh)
 - [Ferds205](https://github.com/Ferds205)
 - [DevGruGold](https://github.com/DevGruGold)
 - [erencoskun11](https://github.com/erencoskun11)
@@ -53,9 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [quark00](https://github.com/quark00)
 - [basit3000](https://github.com/basit3000)
 - [mahmoudnader150](https://github.com/mahmoudnader150)
-- [prodev1119](https://github.com/prodev1119)
-- [p-delfani](https://github.com/p-delfani)
-- [DenDev712](https://github.com/DenDev712)
 
 ## ⭐ Recent stars
 
