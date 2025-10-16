@@ -46,6 +46,9 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Hiromichi123](https://github.com/Hiromichi123)
+- [SasmithaHiram](https://github.com/SasmithaHiram)
+- [Shantanu-0101](https://github.com/Shantanu-0101)
 - [jhonatanseminario](https://github.com/jhonatanseminario)
 - [fifah9](https://github.com/fifah9)
 - [wiehl-valentina](https://github.com/wiehl-valentina)
@@ -53,9 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [DUQIA](https://github.com/DUQIA)
 - [shashankgowda1144](https://github.com/shashankgowda1144)
 - [vinnybellack](https://github.com/vinnybellack)
-- [vicenteraphael](https://github.com/vicenteraphael)
-- [Axel-DaMage](https://github.com/Axel-DaMage)
-- [19MDavid](https://github.com/19MDavid)
 
 ## ⭐ Recent stars
 
