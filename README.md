@@ -46,23 +46,23 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [mostsfa538](https://github.com/mostsfa538)
+- [woojubb](https://github.com/woojubb)
+- [AylinkaBozova](https://github.com/AylinkaBozova)
+- [Priyasha-Yadav](https://github.com/Priyasha-Yadav)
+- [waseemofficial](https://github.com/waseemofficial)
+- [Tanseychuong](https://github.com/Tanseychuong)
+- [EvgeniGanchev](https://github.com/EvgeniGanchev)
 - [weznn](https://github.com/weznn)
 - [victorcalixto](https://github.com/victorcalixto)
 - [sneaker-dev](https://github.com/sneaker-dev)
-- [Hoomanzoh79](https://github.com/Hoomanzoh79)
-- [pretty-jini](https://github.com/pretty-jini)
-- [Kevin-rm](https://github.com/Kevin-rm)
-- [bahattinyunus](https://github.com/bahattinyunus)
-- [s-v7](https://github.com/s-v7)
-- [ishandutta2007](https://github.com/ishandutta2007)
-- [haitomnsg](https://github.com/haitomnsg)
 
 ## ⭐ Recent stars
 
-- [Siwash/websocketWithNetty](https://github.com/Siwash/websocketWithNetty) - 基于netty搭建websocket服务器 (today)
-- [dothetrick/binlogportal](https://github.com/dothetrick/binlogportal) - mysql binlog同步工具 (today)
-- [zhp8341/flink-streaming-platform-web](https://github.com/zhp8341/flink-streaming-platform-web) - 基于flink的实时流计算web平台 (today)
-- [Hyhyhyhyhyhyh/Django-Data-quality-system](https://github.com/Hyhyhyhyhyhyh/Django-Data-quality-system) - 数据治理、数据质量检核/监控平台（Django+jQuery+MySQL） (today)
-- [ClickHouse-China/ClickhouseMeetup](https://github.com/ClickHouse-China/ClickhouseMeetup) - Material of Clickhouse Meetup in China (today)
+- [thousmile/spring-admin-vue](https://github.com/thousmile/spring-admin-vue) - Spring boot security jwt vue.js admin rights management template integration (today)
+- [sorenduan/awesome-java-books](https://github.com/sorenduan/awesome-java-books) - Java开发者技术书籍大全 - Java入门书籍，Java基础及进阶书籍，框架与中间件，架构设计，设计模式，数学与算法，JVM周边语言，项目管理&领导力&流程，职业素养与个人成长，格局与视野，面试参考书等。 (today)
+- [ichenkaihua/ssm-easy-template](https://github.com/ichenkaihua/ssm-easy-template) - spring+springmvc+mybatis+shiro+gradle简单集成框架 (today)
+- [davidkingzyb/pccold](https://github.com/davidkingzyb/pccold) -  douyu斗鱼 自动化工具 主播上线通知 & 直播视频自动录制 & 弹幕抓取  (today)
+- [shenzhuan/zscat-me](https://github.com/shenzhuan/zscat-me) - 基于springboot  cloud构建的一个商城项目，包括前端，后端和h5应用，小程序，作为zscat应用实践的模板项目。基于SpringBoot2.x、SpringCloud和SpringCloudAlibaba并采用前后端分离的企业级微服务敏捷开发系统架构。并引入组件化的思想实现高内聚低耦合，[ 微信 + 支付宝 + 百度 + 头条 ] 小程序 + APP + 公众号 + PC + H5 项目代码简洁注释丰富上手容易，适合学习和企业中使用。真正实现了基于RBAC、jwt和oauth2的无状态统一权限认证的解决方案，面向互联网设计同时适合B端和C端用户，支持CI/CD多环境部署，积分商城，分销商城并提供应用管理方便第三方系统接入；同时还集合各种微服务治理功能和监控功能。模块包括:企业级的认证系统、开发平台、应用监控、慢sql监控、统一日志、单点登录、Redis分布式高速缓存、配置中心、分布式任务调度、接口文档、代码生成等等 (today)
 
 ## 🔨 Latest Pull Requests I published
