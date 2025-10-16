@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [ChefIronBelly](https://github.com/ChefIronBelly)
 - [amdadislam01](https://github.com/amdadislam01)
 - [eleffa](https://github.com/eleffa)
 - [ikartiksh](https://github.com/ikartiksh)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [OlimilO1402](https://github.com/OlimilO1402)
 - [quark00](https://github.com/quark00)
 - [basit3000](https://github.com/basit3000)
-- [mahmoudnader150](https://github.com/mahmoudnader150)
 
 ## ⭐ Recent stars
 
