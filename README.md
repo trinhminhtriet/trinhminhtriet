@@ -46,16 +46,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [diamankayero](https://github.com/diamankayero)
+- [hammadshakeelai](https://github.com/hammadshakeelai)
+- [Darshan3690](https://github.com/Darshan3690)
+- [ksn38](https://github.com/ksn38)
+- [siavash-trm](https://github.com/siavash-trm)
 - [alvandwp](https://github.com/alvandwp)
 - [SimonGPrs](https://github.com/SimonGPrs)
 - [DarshaniKirtiwar](https://github.com/DarshaniKirtiwar)
 - [kieuna2005](https://github.com/kieuna2005)
 - [Riadh-Bouarroudj](https://github.com/Riadh-Bouarroudj)
-- [danesposi](https://github.com/danesposi)
-- [Wei-1](https://github.com/Wei-1)
-- [FabSignal](https://github.com/FabSignal)
-- [MxShun](https://github.com/MxShun)
-- [sauruvibes](https://github.com/sauruvibes)
 
 ## ⭐ Recent stars
 
