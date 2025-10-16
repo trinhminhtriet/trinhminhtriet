@@ -46,23 +46,23 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [jhonatanseminario](https://github.com/jhonatanseminario)
+- [fifah9](https://github.com/fifah9)
+- [wiehl-valentina](https://github.com/wiehl-valentina)
+- [nejmenn](https://github.com/nejmenn)
+- [DUQIA](https://github.com/DUQIA)
+- [shashankgowda1144](https://github.com/shashankgowda1144)
+- [vinnybellack](https://github.com/vinnybellack)
+- [vicenteraphael](https://github.com/vicenteraphael)
 - [Axel-DaMage](https://github.com/Axel-DaMage)
 - [19MDavid](https://github.com/19MDavid)
-- [thy8000](https://github.com/thy8000)
-- [juntaekHong](https://github.com/juntaekHong)
-- [Maycondo](https://github.com/Maycondo)
-- [gdut-yy](https://github.com/gdut-yy)
-- [carsimoes](https://github.com/carsimoes)
-- [nanoca-codes](https://github.com/nanoca-codes)
-- [Younessboumlik](https://github.com/Younessboumlik)
-- [xiang1912](https://github.com/xiang1912)
 
 ## ⭐ Recent stars
 
+- [cyfonly/dubbo-read](https://github.com/cyfonly/dubbo-read) - Dubbo原理和源码解读 (today)
+- [cyfonly/netty-http](https://github.com/cyfonly/netty-http) - Netty HTTP 协议栈的简单实践 (today)
+- [cyfonly/FLogger](https://github.com/cyfonly/FLogger) - 基于双缓冲队列、多刷盘机制的超轻量级 java 日志 (today)
+- [pmotschmann/Evolve](https://github.com/pmotschmann/Evolve) - An incremental game about evolving a civilization (today)
 - [bestaone/HiAuth](https://github.com/bestaone/HiAuth) - HiAuth是一个开源的基于Oauth2协议的认证、授权系统。 (today)
-- [goldsudo/PicEncryptApp](https://github.com/goldsudo/PicEncryptApp) - 一个图像加解密android app，其中的图像加解密原理是基于《基于排序变换的混沌图像置乱算法》优化后实现。 (today)
-- [zhonglinlin1305/spring-boot-sample](https://github.com/zhonglinlin1305/spring-boot-sample) - Spring-boot 集成druid数据库连接池，Spring-boot实现druid的动态数据源，Spring-boot实现定时任务schedule，spring-boot集成mybatis (today)
-- [zhonglinlin1305/Spring](https://github.com/zhonglinlin1305/Spring) - spring mvc，spring，分别与jdbctemplate，hibernate，mybatis全注解整合，其中包括包含有spring动态代理，数据库的事务处理。以及动态数据源的切换！ (today)
-- [iKeepLearn/db-back-tool](https://github.com/iKeepLearn/db-back-tool) - postgresql、mysql数据库备份并上传到腾讯云或者阿里云或兼容S3协议的其他云存储，同时可列出、删除云上存储的备份文件。 (today)
 
 ## 🔨 Latest Pull Requests I published
