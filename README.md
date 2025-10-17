@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [NewHeavenDAO](https://github.com/NewHeavenDAO)
 - [PabloLopez23](https://github.com/PabloLopez23)
 - [juliaribeiro](https://github.com/juliaribeiro)
 - [priti24bd](https://github.com/priti24bd)
@@ -55,14 +56,13 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [powerstrong](https://github.com/powerstrong)
 - [maruki00](https://github.com/maruki00)
 - [howls-moving-castle](https://github.com/howls-moving-castle)
-- [rafaelporfiriobarros](https://github.com/rafaelporfiriobarros)
 
 ## ⭐ Recent stars
 
-- [compilelife/feiq](https://github.com/compilelife/feiq) - 基于qt实现的mac版飞秋，遵循飞秋协议(飞鸽扩展协议)，支持多项飞秋特有功能 (today)
-- [compilelife/loginsight](https://github.com/compilelife/loginsight) - loginsight致力于打造一款日志分析的利器 (today)
-- [HCDarren/DRouter](https://github.com/HCDarren/DRouter) - Android 平台多模块多组件开发的路由库 (today)
-- [slapperwan/gh4a](https://github.com/slapperwan/gh4a) - Github client for Android (today)
-- [qy527145/openai_token](https://github.com/qy527145/openai_token) - 用于获取Openai / ChatGPT 相关的token (today)
+- [ChyengJason/ShoppingCart](https://github.com/ChyengJason/ShoppingCart) - 仿饿了么购物车 (today)
+- [LiewJunTung/pin_code_text_field](https://github.com/LiewJunTung/pin_code_text_field) - A highly customisable Flutter widget for entering pin code. Suitable for use cases such as login and OTP. (today)
+- [dxjia/ffmpeg-commands-executor-library](https://github.com/dxjia/ffmpeg-commands-executor-library) - execute ffmpeg commands through a jni shared library. (today)
+- [dxjia/ffmpeg-compile-shared-library-for-android](https://github.com/dxjia/ffmpeg-compile-shared-library-for-android) - 移植ffmpeg到android，编译可用于jni调用的so库. (today)
+- [seymoe/mp-jishengji](https://github.com/seymoe/mp-jishengji) - 一款日常生活记录类的小程序，通过wepyjs构建,包含计划、账本、圈子、榜单和个人中心等模块。 (today)
 
 ## 🔨 Latest Pull Requests I published
