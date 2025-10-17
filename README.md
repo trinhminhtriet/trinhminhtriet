@@ -46,6 +46,9 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [AmilaIndika789](https://github.com/AmilaIndika789)
+- [frankomondo](https://github.com/frankomondo)
+- [sanikkenway](https://github.com/sanikkenway)
 - [banadawit](https://github.com/banadawit)
 - [AliBahaari](https://github.com/AliBahaari)
 - [mdrohan551](https://github.com/mdrohan551)
@@ -53,16 +56,13 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [six519](https://github.com/six519)
 - [L1yp](https://github.com/L1yp)
 - [semiheimer](https://github.com/semiheimer)
-- [RacerZ-fighting](https://github.com/RacerZ-fighting)
-- [omarhashem80](https://github.com/omarhashem80)
-- [xtoshi999](https://github.com/xtoshi999)
 
 ## ⭐ Recent stars
 
-- [rrrrrrri/fgt-gadgets](https://github.com/rrrrrrri/fgt-gadgets) - Fortigate related tools (today)
-- [13exp/SpringBoot-Scan-GUI](https://github.com/13exp/SpringBoot-Scan-GUI) (today)
-- [wh1t3zer/SpringBootVul-GUI](https://github.com/wh1t3zer/SpringBootVul-GUI) - 一个半自动化springboot打点工具，内置目前springboot所有漏洞 (today)
-- [d419h/IconJector](https://github.com/d419h/IconJector) - Unorthodox and stealthy way to inject a DLL into the explorer using icons (today)
-- [chame1eon/jnitrace-engine](https://github.com/chame1eon/jnitrace-engine) - Engine used by jnitrace to intercept JNI API calls. (today)
+- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree (today)
+- [chrisjd20/Blue-Team-Cheat-Sheets](https://github.com/chrisjd20/Blue-Team-Cheat-Sheets) - Blue Team Cheat Sheats (today)
+- [iamHuFei/HVVault](https://github.com/iamHuFei/HVVault) - 梳理【护网高利用率POC】并集成Nuclei模板仓库，针对解决网上同一资产漏洞一键检测工具参次不齐问题。 (today)
+- [R0A1NG/Botgate_bypass](https://github.com/R0A1NG/Botgate_bypass) - 绕过瑞数waf的动态验证机制，实现请求包重放，理论支持不同网站环境使用，如网页、小程序、APP等。 (today)
+- [sadshade/veeam-creds](https://github.com/sadshade/veeam-creds) - Collection of scripts to retrieve stored passwords from Veeam Backup  (today)
 
 ## 🔨 Latest Pull Requests I published
