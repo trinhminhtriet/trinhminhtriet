@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [PabloLopez23](https://github.com/PabloLopez23)
 - [juliaribeiro](https://github.com/juliaribeiro)
 - [priti24bd](https://github.com/priti24bd)
 - [haruoSugano](https://github.com/haruoSugano)
@@ -55,14 +56,13 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [maruki00](https://github.com/maruki00)
 - [howls-moving-castle](https://github.com/howls-moving-castle)
 - [rafaelporfiriobarros](https://github.com/rafaelporfiriobarros)
-- [arix-7x](https://github.com/arix-7x)
 
 ## ⭐ Recent stars
 
-- [thousmile/spring-admin-vue](https://github.com/thousmile/spring-admin-vue) - Spring boot security jwt vue.js admin rights management template integration (1 day ago)
-- [sorenduan/awesome-java-books](https://github.com/sorenduan/awesome-java-books) - Java开发者技术书籍大全 - Java入门书籍，Java基础及进阶书籍，框架与中间件，架构设计，设计模式，数学与算法，JVM周边语言，项目管理&领导力&流程，职业素养与个人成长，格局与视野，面试参考书等。 (1 day ago)
-- [ichenkaihua/ssm-easy-template](https://github.com/ichenkaihua/ssm-easy-template) - spring+springmvc+mybatis+shiro+gradle简单集成框架 (1 day ago)
-- [davidkingzyb/pccold](https://github.com/davidkingzyb/pccold) -  douyu斗鱼 自动化工具 主播上线通知 & 直播视频自动录制 & 弹幕抓取  (1 day ago)
-- [shenzhuan/zscat-me](https://github.com/shenzhuan/zscat-me) - 基于springboot  cloud构建的一个商城项目，包括前端，后端和h5应用，小程序，作为zscat应用实践的模板项目。基于SpringBoot2.x、SpringCloud和SpringCloudAlibaba并采用前后端分离的企业级微服务敏捷开发系统架构。并引入组件化的思想实现高内聚低耦合，[ 微信 + 支付宝 + 百度 + 头条 ] 小程序 + APP + 公众号 + PC + H5 项目代码简洁注释丰富上手容易，适合学习和企业中使用。真正实现了基于RBAC、jwt和oauth2的无状态统一权限认证的解决方案，面向互联网设计同时适合B端和C端用户，支持CI/CD多环境部署，积分商城，分销商城并提供应用管理方便第三方系统接入；同时还集合各种微服务治理功能和监控功能。模块包括:企业级的认证系统、开发平台、应用监控、慢sql监控、统一日志、单点登录、Redis分布式高速缓存、配置中心、分布式任务调度、接口文档、代码生成等等 (1 day ago)
+- [compilelife/feiq](https://github.com/compilelife/feiq) - 基于qt实现的mac版飞秋，遵循飞秋协议(飞鸽扩展协议)，支持多项飞秋特有功能 (today)
+- [compilelife/loginsight](https://github.com/compilelife/loginsight) - loginsight致力于打造一款日志分析的利器 (today)
+- [HCDarren/DRouter](https://github.com/HCDarren/DRouter) - Android 平台多模块多组件开发的路由库 (today)
+- [slapperwan/gh4a](https://github.com/slapperwan/gh4a) - Github client for Android (today)
+- [qy527145/openai_token](https://github.com/qy527145/openai_token) - 用于获取Openai / ChatGPT 相关的token (today)
 
 ## 🔨 Latest Pull Requests I published
