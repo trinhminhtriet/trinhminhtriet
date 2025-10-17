@@ -46,23 +46,23 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [hhznmrnayeri](https://github.com/hhznmrnayeri)
+- [valeriot30](https://github.com/valeriot30)
+- [satyam539813](https://github.com/satyam539813)
+- [Andreia797](https://github.com/Andreia797)
+- [matiasdev30](https://github.com/matiasdev30)
+- [maksudalambro](https://github.com/maksudalambro)
 - [maaferna](https://github.com/maaferna)
 - [Meggison](https://github.com/Meggison)
-- [codemuhammadnoumanali](https://github.com/codemuhammadnoumanali)
 - [xautiik](https://github.com/xautiik)
 - [malak-sisar](https://github.com/malak-sisar)
-- [Guntiszi16](https://github.com/Guntiszi16)
-- [lacolle87](https://github.com/lacolle87)
-- [buddy1276](https://github.com/buddy1276)
-- [xitarps](https://github.com/xitarps)
-- [loftwah](https://github.com/loftwah)
 
 ## ⭐ Recent stars
 
+- [parvardegr/sharing](https://github.com/parvardegr/sharing) - Sharing is a command-line tool to share directories and files from the CLI to iOS and Android devices without the need of an extra client app (today)
+- [cood-filter-rubika/filter-rubika](https://github.com/cood-filter-rubika/filter-rubika) - اسکریپتی برای ساخت کد فیلترینگ پیام رسان ها (today)
+- [n0x08/ShodanTools](https://github.com/n0x08/ShodanTools) - Collection of scripts & fingerprinting tricks for Shodan.io (today)
 - [praskoson/distribution-tools](https://github.com/praskoson/distribution-tools) - Tools for running airdrop and token distribution campaigns on the Solana blockchain. (today)
 - [shramos/practical-ml-for-cybersecurity](https://github.com/shramos/practical-ml-for-cybersecurity) - More than twenty practical cases with real datasets of application of Machine Learning to the field of Cybersecurity (today)
-- [shramos/polymorph](https://github.com/shramos/polymorph) - Polymorph is a real-time network packet manipulation framework with support for almost all existing protocols (today)
-- [shramos/Awesome-Cybersecurity-Datasets](https://github.com/shramos/Awesome-Cybersecurity-Datasets) - A curated list of amazingly awesome Cybersecurity datasets (today)
-- [Quitten/doser.go](https://github.com/Quitten/doser.go) - DoS tool for HTTP requests (inspired by hulk but has more functionalities) (today)
 
 ## 🔨 Latest Pull Requests I published
