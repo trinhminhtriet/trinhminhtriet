@@ -46,6 +46,9 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [codemuhammadnoumanali](https://github.com/codemuhammadnoumanali)
+- [xautiik](https://github.com/xautiik)
+- [malak-sisar](https://github.com/malak-sisar)
 - [Guntiszi16](https://github.com/Guntiszi16)
 - [lacolle87](https://github.com/lacolle87)
 - [buddy1276](https://github.com/buddy1276)
@@ -53,16 +56,13 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [loftwah](https://github.com/loftwah)
 - [mohammadnabia](https://github.com/mohammadnabia)
 - [phihung](https://github.com/phihung)
-- [aleriado](https://github.com/aleriado)
-- [0xRustElite1111](https://github.com/0xRustElite1111)
-- [buskingsue](https://github.com/buskingsue)
 
 ## ⭐ Recent stars
 
-- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree (today)
-- [chrisjd20/Blue-Team-Cheat-Sheets](https://github.com/chrisjd20/Blue-Team-Cheat-Sheets) - Blue Team Cheat Sheats (today)
-- [iamHuFei/HVVault](https://github.com/iamHuFei/HVVault) - 梳理【护网高利用率POC】并集成Nuclei模板仓库，针对解决网上同一资产漏洞一键检测工具参次不齐问题。 (today)
-- [R0A1NG/Botgate_bypass](https://github.com/R0A1NG/Botgate_bypass) - 绕过瑞数waf的动态验证机制，实现请求包重放，理论支持不同网站环境使用，如网页、小程序、APP等。 (today)
-- [sadshade/veeam-creds](https://github.com/sadshade/veeam-creds) - Collection of scripts to retrieve stored passwords from Veeam Backup  (today)
+- [win3zz/CVE-2023-25157](https://github.com/win3zz/CVE-2023-25157) - CVE-2023-25157 - GeoServer SQL Injection - PoC (today)
+- [Meowmycks/koneko](https://github.com/Meowmycks/koneko) - Robust Cobalt Strike shellcode loader with multiple advanced evasion features (today)
+- [Meowmycks/LetMeowIn](https://github.com/Meowmycks/LetMeowIn) - A sophisticated, covert Windows-based credential dumper using C++ and MASM x64. (today)
+- [snnxyss/new_in_swor](https://github.com/snnxyss/new_in_swor) - bypassAll静态引擎，如绕过QVM，绕过VT所有静态引擎 (today)
+- [snnxyss/In-Swor](https://github.com/snnxyss/In-Swor) - 永久免杀加载器移步另一个项目https://github.com/snnxyss/new_in_swor 一个简单内网渗透工具免杀 目前免杀fscan,mimikatz,frp,elevationstation,bypassuac, 一键killAV 。请使用In-Swor(x64版本)360报毒qvm20请更换exe图标资源。 (today)
 
 ## 🔨 Latest Pull Requests I published
