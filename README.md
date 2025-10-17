@@ -46,16 +46,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [CodingGeoff](https://github.com/CodingGeoff)
+- [GutsAndOne](https://github.com/GutsAndOne)
+- [adeisaac7](https://github.com/adeisaac7)
+- [IbrahHaroon](https://github.com/IbrahHaroon)
 - [BracoZS](https://github.com/BracoZS)
 - [Coyolx](https://github.com/Coyolx)
 - [NikitaBoyarkin](https://github.com/NikitaBoyarkin)
 - [H4ckB4s3](https://github.com/H4ckB4s3)
 - [BBariOxit](https://github.com/BBariOxit)
 - [NischalKeshav](https://github.com/NischalKeshav)
-- [vcvvvc](https://github.com/vcvvvc)
-- [boris-yakimov](https://github.com/boris-yakimov)
-- [mntc3434](https://github.com/mntc3434)
-- [khuyentran1401](https://github.com/khuyentran1401)
 
 ## ⭐ Recent stars
 
