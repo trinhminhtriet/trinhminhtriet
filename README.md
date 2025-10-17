@@ -46,23 +46,23 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
-- [NewHeavenDAO](https://github.com/NewHeavenDAO)
-- [PabloLopez23](https://github.com/PabloLopez23)
-- [juliaribeiro](https://github.com/juliaribeiro)
-- [priti24bd](https://github.com/priti24bd)
-- [haruoSugano](https://github.com/haruoSugano)
-- [xunki](https://github.com/xunki)
-- [moisesvinicius404](https://github.com/moisesvinicius404)
-- [powerstrong](https://github.com/powerstrong)
-- [maruki00](https://github.com/maruki00)
-- [howls-moving-castle](https://github.com/howls-moving-castle)
+- [L1yp](https://github.com/L1yp)
+- [semiheimer](https://github.com/semiheimer)
+- [RacerZ-fighting](https://github.com/RacerZ-fighting)
+- [omarhashem80](https://github.com/omarhashem80)
+- [xtoshi999](https://github.com/xtoshi999)
+- [Rohit19060](https://github.com/Rohit19060)
+- [EthanThePhoenix38](https://github.com/EthanThePhoenix38)
+- [wscfan](https://github.com/wscfan)
+- [williamnosdukeweh14usa](https://github.com/williamnosdukeweh14usa)
+- [RyanRustill](https://github.com/RyanRustill)
 
 ## ⭐ Recent stars
 
-- [ChyengJason/ShoppingCart](https://github.com/ChyengJason/ShoppingCart) - 仿饿了么购物车 (today)
-- [LiewJunTung/pin_code_text_field](https://github.com/LiewJunTung/pin_code_text_field) - A highly customisable Flutter widget for entering pin code. Suitable for use cases such as login and OTP. (today)
-- [dxjia/ffmpeg-commands-executor-library](https://github.com/dxjia/ffmpeg-commands-executor-library) - execute ffmpeg commands through a jni shared library. (today)
-- [dxjia/ffmpeg-compile-shared-library-for-android](https://github.com/dxjia/ffmpeg-compile-shared-library-for-android) - 移植ffmpeg到android，编译可用于jni调用的so库. (today)
-- [seymoe/mp-jishengji](https://github.com/seymoe/mp-jishengji) - 一款日常生活记录类的小程序，通过wepyjs构建,包含计划、账本、圈子、榜单和个人中心等模块。 (today)
+- [1564307973/Proxifier-CN](https://github.com/1564307973/Proxifier-CN) - A localized Chinese version of Proxifier, designed to help users in China more easily access Proxifier’s powerful features and enhance their user experience. (today)
+- [MayoBlueSky/My-Actions](https://github.com/MayoBlueSky/My-Actions) - 爱奇艺会员,腾讯视频,哔哩哔哩,百度,各类签到 (today)
+- [chaserw/Student-Information-Management-System](https://github.com/chaserw/Student-Information-Management-System) - 学生信息管理系统  JAVA  Mysql  数据库课程设计  简单界面 (today)
+- [Naturehi666/searchall](https://github.com/Naturehi666/searchall) - 强大的敏感信息搜索工具 (today)
+- [Memoryo3o/BypassUAC](https://github.com/Memoryo3o/BypassUAC) - By write list bypassuac (today)
 
 ## 🔨 Latest Pull Requests I published
