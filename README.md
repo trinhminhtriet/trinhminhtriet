@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [maaferna](https://github.com/maaferna)
+- [Meggison](https://github.com/Meggison)
 - [codemuhammadnoumanali](https://github.com/codemuhammadnoumanali)
 - [xautiik](https://github.com/xautiik)
 - [malak-sisar](https://github.com/malak-sisar)
@@ -54,15 +56,13 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [buddy1276](https://github.com/buddy1276)
 - [xitarps](https://github.com/xitarps)
 - [loftwah](https://github.com/loftwah)
-- [mohammadnabia](https://github.com/mohammadnabia)
-- [phihung](https://github.com/phihung)
 
 ## ⭐ Recent stars
 
-- [win3zz/CVE-2023-25157](https://github.com/win3zz/CVE-2023-25157) - CVE-2023-25157 - GeoServer SQL Injection - PoC (today)
-- [Meowmycks/koneko](https://github.com/Meowmycks/koneko) - Robust Cobalt Strike shellcode loader with multiple advanced evasion features (today)
-- [Meowmycks/LetMeowIn](https://github.com/Meowmycks/LetMeowIn) - A sophisticated, covert Windows-based credential dumper using C++ and MASM x64. (today)
-- [snnxyss/new_in_swor](https://github.com/snnxyss/new_in_swor) - bypassAll静态引擎，如绕过QVM，绕过VT所有静态引擎 (today)
-- [snnxyss/In-Swor](https://github.com/snnxyss/In-Swor) - 永久免杀加载器移步另一个项目https://github.com/snnxyss/new_in_swor 一个简单内网渗透工具免杀 目前免杀fscan,mimikatz,frp,elevationstation,bypassuac, 一键killAV 。请使用In-Swor(x64版本)360报毒qvm20请更换exe图标资源。 (today)
+- [praskoson/distribution-tools](https://github.com/praskoson/distribution-tools) - Tools for running airdrop and token distribution campaigns on the Solana blockchain. (today)
+- [shramos/practical-ml-for-cybersecurity](https://github.com/shramos/practical-ml-for-cybersecurity) - More than twenty practical cases with real datasets of application of Machine Learning to the field of Cybersecurity (today)
+- [shramos/polymorph](https://github.com/shramos/polymorph) - Polymorph is a real-time network packet manipulation framework with support for almost all existing protocols (today)
+- [shramos/Awesome-Cybersecurity-Datasets](https://github.com/shramos/Awesome-Cybersecurity-Datasets) - A curated list of amazingly awesome Cybersecurity datasets (today)
+- [Quitten/doser.go](https://github.com/Quitten/doser.go) - DoS tool for HTTP requests (inspired by hulk but has more functionalities) (today)
 
 ## 🔨 Latest Pull Requests I published
