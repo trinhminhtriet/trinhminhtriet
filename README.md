@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Omarelsa1125](https://github.com/Omarelsa1125)
+- [jocelymarques](https://github.com/jocelymarques)
 - [UocDev](https://github.com/UocDev)
 - [vanessa-cl](https://github.com/vanessa-cl)
 - [MarcioGil](https://github.com/MarcioGil)
@@ -54,8 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [sweNNN-svg](https://github.com/sweNNN-svg)
 - [prathyyyyy](https://github.com/prathyyyyy)
 - [hoseinabedi](https://github.com/hoseinabedi)
-- [CelaDaniel](https://github.com/CelaDaniel)
-- [coder-murphy](https://github.com/coder-murphy)
 
 ## ⭐ Recent stars
 
