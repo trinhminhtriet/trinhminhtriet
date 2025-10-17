@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [ZERO-DAWN-X](https://github.com/ZERO-DAWN-X)
+- [ishandutta2007](https://github.com/ishandutta2007)
 - [Jidomason1488](https://github.com/Jidomason1488)
 - [snlimadev](https://github.com/snlimadev)
 - [rfatolahzade](https://github.com/rfatolahzade)
@@ -54,8 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [PouyaniArmin](https://github.com/PouyaniArmin)
 - [MehmetBozkir](https://github.com/MehmetBozkir)
 - [Yash14909](https://github.com/Yash14909)
-- [HamadUllah16](https://github.com/HamadUllah16)
-- [Defgimp](https://github.com/Defgimp)
 
 ## ⭐ Recent stars
 
