@@ -46,23 +46,23 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [banadawit](https://github.com/banadawit)
+- [AliBahaari](https://github.com/AliBahaari)
+- [mdrohan551](https://github.com/mdrohan551)
+- [Nikithaannam](https://github.com/Nikithaannam)
+- [six519](https://github.com/six519)
 - [L1yp](https://github.com/L1yp)
 - [semiheimer](https://github.com/semiheimer)
 - [RacerZ-fighting](https://github.com/RacerZ-fighting)
 - [omarhashem80](https://github.com/omarhashem80)
 - [xtoshi999](https://github.com/xtoshi999)
-- [Rohit19060](https://github.com/Rohit19060)
-- [EthanThePhoenix38](https://github.com/EthanThePhoenix38)
-- [wscfan](https://github.com/wscfan)
-- [williamnosdukeweh14usa](https://github.com/williamnosdukeweh14usa)
-- [RyanRustill](https://github.com/RyanRustill)
 
 ## ⭐ Recent stars
 
-- [1564307973/Proxifier-CN](https://github.com/1564307973/Proxifier-CN) - A localized Chinese version of Proxifier, designed to help users in China more easily access Proxifier’s powerful features and enhance their user experience. (today)
-- [MayoBlueSky/My-Actions](https://github.com/MayoBlueSky/My-Actions) - 爱奇艺会员,腾讯视频,哔哩哔哩,百度,各类签到 (today)
-- [chaserw/Student-Information-Management-System](https://github.com/chaserw/Student-Information-Management-System) - 学生信息管理系统  JAVA  Mysql  数据库课程设计  简单界面 (today)
-- [Naturehi666/searchall](https://github.com/Naturehi666/searchall) - 强大的敏感信息搜索工具 (today)
-- [Memoryo3o/BypassUAC](https://github.com/Memoryo3o/BypassUAC) - By write list bypassuac (today)
+- [rrrrrrri/fgt-gadgets](https://github.com/rrrrrrri/fgt-gadgets) - Fortigate related tools (today)
+- [13exp/SpringBoot-Scan-GUI](https://github.com/13exp/SpringBoot-Scan-GUI) (today)
+- [wh1t3zer/SpringBootVul-GUI](https://github.com/wh1t3zer/SpringBootVul-GUI) - 一个半自动化springboot打点工具，内置目前springboot所有漏洞 (today)
+- [d419h/IconJector](https://github.com/d419h/IconJector) - Unorthodox and stealthy way to inject a DLL into the explorer using icons (today)
+- [chame1eon/jnitrace-engine](https://github.com/chame1eon/jnitrace-engine) - Engine used by jnitrace to intercept JNI API calls. (today)
 
 ## 🔨 Latest Pull Requests I published
