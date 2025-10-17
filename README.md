@@ -46,6 +46,9 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [juliaribeiro](https://github.com/juliaribeiro)
+- [priti24bd](https://github.com/priti24bd)
+- [haruoSugano](https://github.com/haruoSugano)
 - [xunki](https://github.com/xunki)
 - [moisesvinicius404](https://github.com/moisesvinicius404)
 - [powerstrong](https://github.com/powerstrong)
@@ -53,9 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [howls-moving-castle](https://github.com/howls-moving-castle)
 - [rafaelporfiriobarros](https://github.com/rafaelporfiriobarros)
 - [arix-7x](https://github.com/arix-7x)
-- [shinysparkz](https://github.com/shinysparkz)
-- [JulioFranciscoBernardino](https://github.com/JulioFranciscoBernardino)
-- [Gildaciolopes](https://github.com/Gildaciolopes)
 
 ## ⭐ Recent stars
 
