@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [PaulJkr](https://github.com/PaulJkr)
 - [ivin-titus](https://github.com/ivin-titus)
 - [Rayato159](https://github.com/Rayato159)
 - [cephurs](https://github.com/cephurs)
@@ -55,14 +56,13 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [abubakkarsiddik1](https://github.com/abubakkarsiddik1)
 - [angrytidy](https://github.com/angrytidy)
 - [XiaomingX](https://github.com/XiaomingX)
-- [samkiel488](https://github.com/samkiel488)
 
 ## ⭐ Recent stars
 
+- [Murzchnvok/rofi-collection](https://github.com/Murzchnvok/rofi-collection) - Beautiful collection of Rofi themes (today)
+- [Murzchnvok/polybar-collection](https://github.com/Murzchnvok/polybar-collection) - Beautiful collection of Polybar themes (today)
+- [ceceradio/twitter-block-chain](https://github.com/ceceradio/twitter-block-chain) - Chrome extension to block all users on a followers/following page. (today)
 - [RedShyGuy/Vapecord-ACNL-Plugin](https://github.com/RedShyGuy/Vapecord-ACNL-Plugin) - Animal Crossing NL Vapecord Public Plugin WIP (today)
 - [aenu1/aps3e](https://github.com/aenu1/aps3e) - An experimental Android PS3 emulator, ported and optimized based on RPCS3.  (today)
-- [Ishan09811/pine](https://github.com/Ishan09811/pine) (today)
-- [TellowKrinkle/pcsx2](https://github.com/TellowKrinkle/pcsx2) - PCSX2 - The Playstation 2 Emulator (today)
-- [JHDev2006/Super-Mario-World-Remastered-Public](https://github.com/JHDev2006/Super-Mario-World-Remastered-Public) - A Remake / Remaster of the original Super Mario World, in Godot. Adds new features / improvements! (today)
 
 ## 🔨 Latest Pull Requests I published
