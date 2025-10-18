@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [fengye1003](https://github.com/fengye1003)
+- [iSalah-YT](https://github.com/iSalah-YT)
 - [fasiaa](https://github.com/fasiaa)
 - [brambhattabhishek](https://github.com/brambhattabhishek)
 - [coderup2u](https://github.com/coderup2u)
@@ -54,8 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Drogasanddestruicion](https://github.com/Drogasanddestruicion)
 - [LuciLua](https://github.com/LuciLua)
 - [tmberg](https://github.com/tmberg)
-- [adi599](https://github.com/adi599)
-- [S-Rabbit81](https://github.com/S-Rabbit81)
 
 ## ⭐ Recent stars
 
