@@ -46,6 +46,9 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [ivanov2024](https://github.com/ivanov2024)
+- [abubakkarsiddik1](https://github.com/abubakkarsiddik1)
+- [angrytidy](https://github.com/angrytidy)
 - [XiaomingX](https://github.com/XiaomingX)
 - [samkiel488](https://github.com/samkiel488)
 - [abhiya492](https://github.com/abhiya492)
@@ -53,16 +56,13 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [nermiin](https://github.com/nermiin)
 - [firaol-tag](https://github.com/firaol-tag)
 - [EmamSaimon592](https://github.com/EmamSaimon592)
-- [owayo-cloud](https://github.com/owayo-cloud)
-- [navid72m](https://github.com/navid72m)
-- [techcow2](https://github.com/techcow2)
 
 ## ⭐ Recent stars
 
+- [hashicorp/terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned. (today)
 - [espimarisa/hibiki](https://github.com/espimarisa/hibiki) - A Discord bot with polished community and developer tools. (today)
 - [Mstrodl/elcord](https://github.com/Mstrodl/elcord) - Discord Rich Presence / Gamebridge support for Emacs! (today)
 - [indefined/UserScripts](https://github.com/indefined/UserScripts) - 基于Chrome下的Tampermonkey写的一些个人用户脚本 (today)
 - [lkmvip/netflix-4K-DDplus](https://github.com/lkmvip/netflix-4K-DDplus) - MicrosoftEdge(Chromium core) extension to play Netflix in 4K（Restricted）and DDplus audio (today)
-- [kooritea/mpush](https://github.com/kooritea/mpush) - 基于Websocket的即时消息推送服务 (today)
 
 ## 🔨 Latest Pull Requests I published
