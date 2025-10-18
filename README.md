@@ -46,6 +46,9 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [ivin-titus](https://github.com/ivin-titus)
+- [Rayato159](https://github.com/Rayato159)
+- [cephurs](https://github.com/cephurs)
 - [BugHunter-SN](https://github.com/BugHunter-SN)
 - [ArielBetti](https://github.com/ArielBetti)
 - [ivanov2024](https://github.com/ivanov2024)
@@ -53,16 +56,13 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [angrytidy](https://github.com/angrytidy)
 - [XiaomingX](https://github.com/XiaomingX)
 - [samkiel488](https://github.com/samkiel488)
-- [abhiya492](https://github.com/abhiya492)
-- [edganji](https://github.com/edganji)
-- [nermiin](https://github.com/nermiin)
 
 ## ⭐ Recent stars
 
-- [Jellonator/Nandlang](https://github.com/Jellonator/Nandlang) - A programming language based on NAND completeness (today)
-- [hellfire3d/SBSPSS](https://github.com/hellfire3d/SBSPSS) - The source code repository for the PlayStation 1 game, SpongeBob SquarePants: SuperSponge (today)
-- [GanerCodes/videoEditBot](https://github.com/GanerCodes/videoEditBot) - Discord bot for video/photo editing (today)
-- [YoteZip/LinuxCrackingBible](https://github.com/YoteZip/LinuxCrackingBible) - A thorough guide to defeating DRM on Linux (today)
-- [SysRay/psOff_compatibility](https://github.com/SysRay/psOff_compatibility) - Playstation 4 Emulator (today)
+- [RedShyGuy/Vapecord-ACNL-Plugin](https://github.com/RedShyGuy/Vapecord-ACNL-Plugin) - Animal Crossing NL Vapecord Public Plugin WIP (today)
+- [aenu1/aps3e](https://github.com/aenu1/aps3e) - An experimental Android PS3 emulator, ported and optimized based on RPCS3.  (today)
+- [Ishan09811/pine](https://github.com/Ishan09811/pine) (today)
+- [TellowKrinkle/pcsx2](https://github.com/TellowKrinkle/pcsx2) - PCSX2 - The Playstation 2 Emulator (today)
+- [JHDev2006/Super-Mario-World-Remastered-Public](https://github.com/JHDev2006/Super-Mario-World-Remastered-Public) - A Remake / Remaster of the original Super Mario World, in Godot. Adds new features / improvements! (today)
 
 ## 🔨 Latest Pull Requests I published
