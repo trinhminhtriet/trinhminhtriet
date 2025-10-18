@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [BugHunter-SN](https://github.com/BugHunter-SN)
+- [ArielBetti](https://github.com/ArielBetti)
 - [ivanov2024](https://github.com/ivanov2024)
 - [abubakkarsiddik1](https://github.com/abubakkarsiddik1)
 - [angrytidy](https://github.com/angrytidy)
@@ -54,15 +56,13 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [abhiya492](https://github.com/abhiya492)
 - [edganji](https://github.com/edganji)
 - [nermiin](https://github.com/nermiin)
-- [firaol-tag](https://github.com/firaol-tag)
-- [EmamSaimon592](https://github.com/EmamSaimon592)
 
 ## ⭐ Recent stars
 
-- [hashicorp/terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned. (today)
-- [espimarisa/hibiki](https://github.com/espimarisa/hibiki) - A Discord bot with polished community and developer tools. (today)
-- [Mstrodl/elcord](https://github.com/Mstrodl/elcord) - Discord Rich Presence / Gamebridge support for Emacs! (today)
-- [indefined/UserScripts](https://github.com/indefined/UserScripts) - 基于Chrome下的Tampermonkey写的一些个人用户脚本 (today)
-- [lkmvip/netflix-4K-DDplus](https://github.com/lkmvip/netflix-4K-DDplus) - MicrosoftEdge(Chromium core) extension to play Netflix in 4K（Restricted）and DDplus audio (today)
+- [Jellonator/Nandlang](https://github.com/Jellonator/Nandlang) - A programming language based on NAND completeness (today)
+- [hellfire3d/SBSPSS](https://github.com/hellfire3d/SBSPSS) - The source code repository for the PlayStation 1 game, SpongeBob SquarePants: SuperSponge (today)
+- [GanerCodes/videoEditBot](https://github.com/GanerCodes/videoEditBot) - Discord bot for video/photo editing (today)
+- [YoteZip/LinuxCrackingBible](https://github.com/YoteZip/LinuxCrackingBible) - A thorough guide to defeating DRM on Linux (today)
+- [SysRay/psOff_compatibility](https://github.com/SysRay/psOff_compatibility) - Playstation 4 Emulator (today)
 
 ## 🔨 Latest Pull Requests I published
