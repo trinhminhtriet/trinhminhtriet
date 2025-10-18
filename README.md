@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [ShiningYangYXN](https://github.com/ShiningYangYXN)
 - [Drogasanddestruicion](https://github.com/Drogasanddestruicion)
 - [LuciLua](https://github.com/LuciLua)
 - [tmberg](https://github.com/tmberg)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [geisivanvitena](https://github.com/geisivanvitena)
 - [raymondproguy](https://github.com/raymondproguy)
 - [Omarelsa1125](https://github.com/Omarelsa1125)
-- [jocelymarques](https://github.com/jocelymarques)
 
 ## ⭐ Recent stars
 
