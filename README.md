@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [yasserderbale](https://github.com/yasserderbale)
 - [devlancer0328](https://github.com/devlancer0328)
 - [zahrabateninia](https://github.com/zahrabateninia)
 - [seehiong](https://github.com/seehiong)
@@ -55,14 +56,13 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Zaf-Mif](https://github.com/Zaf-Mif)
 - [naghinezhad](https://github.com/naghinezhad)
 - [deblandns](https://github.com/deblandns)
-- [xe4ni](https://github.com/xe4ni)
 
 ## ⭐ Recent stars
 
+- [riversun/JSFrame.js](https://github.com/riversun/JSFrame.js) - An independent lightweight multi-window library for javascript. (today)
 - [MrAntares/roBrowserLegacy](https://github.com/MrAntares/roBrowserLegacy) - This is a continuation of the original robrowser. All credits to the original creators and the new ones :) (today)
 - [zed-0xff/pedump](https://github.com/zed-0xff/pedump) - dump windows PE files using ruby (today)
 - [zed-0xff/zsteg](https://github.com/zed-0xff/zsteg) - detect stegano-hidden data in PNG & BMP (today)
 - [thoughtsunificator/instagram-dm-unsender](https://github.com/thoughtsunificator/instagram-dm-unsender) - Userscript that allows you to mass unsend all your DMs on Instagram (today)
-- [Exploited7/outlook-account-creator](https://github.com/Exploited7/outlook-account-creator) - Outlook account Creator / Generator, Requests Based.  (today)
 
 ## 🔨 Latest Pull Requests I published
