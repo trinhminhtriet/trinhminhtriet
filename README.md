@@ -46,6 +46,9 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [hakan4773](https://github.com/hakan4773)
+- [mnizicqa](https://github.com/mnizicqa)
+- [EmmanuelAdah](https://github.com/EmmanuelAdah)
 - [PaulJkr](https://github.com/PaulJkr)
 - [ivin-titus](https://github.com/ivin-titus)
 - [Rayato159](https://github.com/Rayato159)
@@ -53,16 +56,13 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [BugHunter-SN](https://github.com/BugHunter-SN)
 - [ArielBetti](https://github.com/ArielBetti)
 - [ivanov2024](https://github.com/ivanov2024)
-- [abubakkarsiddik1](https://github.com/abubakkarsiddik1)
-- [angrytidy](https://github.com/angrytidy)
-- [XiaomingX](https://github.com/XiaomingX)
 
 ## ⭐ Recent stars
 
+- [developerdizzle/react-virtual-list](https://github.com/developerdizzle/react-virtual-list) - Super simple virtualized list React component (today)
 - [Murzchnvok/rofi-collection](https://github.com/Murzchnvok/rofi-collection) - Beautiful collection of Rofi themes (today)
 - [Murzchnvok/polybar-collection](https://github.com/Murzchnvok/polybar-collection) - Beautiful collection of Polybar themes (today)
 - [ceceradio/twitter-block-chain](https://github.com/ceceradio/twitter-block-chain) - Chrome extension to block all users on a followers/following page. (today)
 - [RedShyGuy/Vapecord-ACNL-Plugin](https://github.com/RedShyGuy/Vapecord-ACNL-Plugin) - Animal Crossing NL Vapecord Public Plugin WIP (today)
-- [aenu1/aps3e](https://github.com/aenu1/aps3e) - An experimental Android PS3 emulator, ported and optimized based on RPCS3.  (today)
 
 ## 🔨 Latest Pull Requests I published
