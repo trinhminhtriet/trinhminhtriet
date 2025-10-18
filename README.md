@@ -33,7 +33,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👷 Check out what I'm currently working on
 
-- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (4 days ago)
+- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (today)
 - [nctl-io/nctl-branding](https://github.com/nctl-io/nctl-branding) - NCTL Branding 🖼️: Centralized assets and guidelines for consistent visual identity across NCTL projects and platforms. (6 days ago)
 - [nctl-io/nctl-homepage](https://github.com/nctl-io/nctl-homepage) - 🚀 Modern homepage for NCTL: fast, responsive, TypeScript-powered, open source, and easy to customize. (6 days ago)
 - [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) - 🚀 All-in-one CLI toolkit for developers: scaffold, manage, automate, and boost productivity across languages! (3 weeks ago)
@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [XiaomingX](https://github.com/XiaomingX)
+- [samkiel488](https://github.com/samkiel488)
 - [abhiya492](https://github.com/abhiya492)
 - [edganji](https://github.com/edganji)
 - [nermiin](https://github.com/nermiin)
@@ -54,15 +56,13 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [owayo-cloud](https://github.com/owayo-cloud)
 - [navid72m](https://github.com/navid72m)
 - [techcow2](https://github.com/techcow2)
-- [teesh3rt](https://github.com/teesh3rt)
-- [form-asap](https://github.com/form-asap)
 
 ## ⭐ Recent stars
 
+- [espimarisa/hibiki](https://github.com/espimarisa/hibiki) - A Discord bot with polished community and developer tools. (today)
+- [Mstrodl/elcord](https://github.com/Mstrodl/elcord) - Discord Rich Presence / Gamebridge support for Emacs! (today)
 - [indefined/UserScripts](https://github.com/indefined/UserScripts) - 基于Chrome下的Tampermonkey写的一些个人用户脚本 (today)
 - [lkmvip/netflix-4K-DDplus](https://github.com/lkmvip/netflix-4K-DDplus) - MicrosoftEdge(Chromium core) extension to play Netflix in 4K（Restricted）and DDplus audio (today)
 - [kooritea/mpush](https://github.com/kooritea/mpush) - 基于Websocket的即时消息推送服务 (today)
-- [kooritea/mipay-extract](https://github.com/kooritea/mipay-extract) - Extract Mi Pay from MIUI China Rom (today)
-- [kooritea/electronic-wechat](https://github.com/kooritea/electronic-wechat) - :speech_balloon: A better WeChat on macOS and Linux. Built with Electron by Zhongyi Tong. (today)
 
 ## 🔨 Latest Pull Requests I published
