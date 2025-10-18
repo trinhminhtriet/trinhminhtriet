@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [mostafa-kermaninia](https://github.com/mostafa-kermaninia)
+- [crypto318](https://github.com/crypto318)
 - [kaylannesatiro](https://github.com/kaylannesatiro)
 - [S-PScripts](https://github.com/S-PScripts)
 - [TheOtherCard](https://github.com/TheOtherCard)
@@ -54,8 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [juliocymartins](https://github.com/juliocymartins)
 - [ayse1515](https://github.com/ayse1515)
 - [selin8888](https://github.com/selin8888)
-- [sanu1515](https://github.com/sanu1515)
-- [ozguriskar](https://github.com/ozguriskar)
 
 ## ⭐ Recent stars
 
