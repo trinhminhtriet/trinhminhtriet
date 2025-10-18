@@ -46,23 +46,23 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [firaol-tag](https://github.com/firaol-tag)
+- [EmamSaimon592](https://github.com/EmamSaimon592)
+- [owayo-cloud](https://github.com/owayo-cloud)
+- [navid72m](https://github.com/navid72m)
+- [techcow2](https://github.com/techcow2)
+- [teesh3rt](https://github.com/teesh3rt)
+- [form-asap](https://github.com/form-asap)
 - [yasserderbale](https://github.com/yasserderbale)
 - [devlancer0328](https://github.com/devlancer0328)
 - [zahrabateninia](https://github.com/zahrabateninia)
-- [seehiong](https://github.com/seehiong)
-- [luisalbertoalberca](https://github.com/luisalbertoalberca)
-- [TrumanPhd](https://github.com/TrumanPhd)
-- [oguzhankurtkan](https://github.com/oguzhankurtkan)
-- [Zaf-Mif](https://github.com/Zaf-Mif)
-- [naghinezhad](https://github.com/naghinezhad)
-- [deblandns](https://github.com/deblandns)
 
 ## ⭐ Recent stars
 
+- [dineug/erd-editor](https://github.com/dineug/erd-editor) - Entity-Relationship Diagram Editor (today)
+- [rungwiroon/BlazorGoogleMaps](https://github.com/rungwiroon/BlazorGoogleMaps) - Blazor interop for GoogleMap library (today)
+- [Aceship/AN-EN-Tags](https://github.com/Aceship/AN-EN-Tags) - English + image fork (today)
+- [nxxxu/AutoPixieWps](https://github.com/nxxxu/AutoPixieWps) - Automated pixieWps python script (today)
 - [riversun/JSFrame.js](https://github.com/riversun/JSFrame.js) - An independent lightweight multi-window library for javascript. (today)
-- [MrAntares/roBrowserLegacy](https://github.com/MrAntares/roBrowserLegacy) - This is a continuation of the original robrowser. All credits to the original creators and the new ones :) (today)
-- [zed-0xff/pedump](https://github.com/zed-0xff/pedump) - dump windows PE files using ruby (today)
-- [zed-0xff/zsteg](https://github.com/zed-0xff/zsteg) - detect stegano-hidden data in PNG & BMP (today)
-- [thoughtsunificator/instagram-dm-unsender](https://github.com/thoughtsunificator/instagram-dm-unsender) - Userscript that allows you to mass unsend all your DMs on Instagram (today)
 
 ## 🔨 Latest Pull Requests I published
