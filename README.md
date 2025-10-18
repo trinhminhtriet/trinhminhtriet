@@ -46,16 +46,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [fasiaa](https://github.com/fasiaa)
+- [brambhattabhishek](https://github.com/brambhattabhishek)
+- [coderup2u](https://github.com/coderup2u)
+- [tvnisxq](https://github.com/tvnisxq)
 - [ShiningYangYXN](https://github.com/ShiningYangYXN)
 - [Drogasanddestruicion](https://github.com/Drogasanddestruicion)
 - [LuciLua](https://github.com/LuciLua)
 - [tmberg](https://github.com/tmberg)
 - [adi599](https://github.com/adi599)
 - [S-Rabbit81](https://github.com/S-Rabbit81)
-- [MuhammadIsamuTaqiyAli](https://github.com/MuhammadIsamuTaqiyAli)
-- [geisivanvitena](https://github.com/geisivanvitena)
-- [raymondproguy](https://github.com/raymondproguy)
-- [Omarelsa1125](https://github.com/Omarelsa1125)
 
 ## ⭐ Recent stars
 
