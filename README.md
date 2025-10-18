@@ -46,16 +46,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [ayse1515](https://github.com/ayse1515)
+- [selin8888](https://github.com/selin8888)
+- [sanu1515](https://github.com/sanu1515)
+- [ozguriskar](https://github.com/ozguriskar)
+- [altay0011](https://github.com/altay0011)
+- [ozgur151515](https://github.com/ozgur151515)
+- [mehmet7788](https://github.com/mehmet7788)
 - [ozgur88888](https://github.com/ozgur88888)
 - [altay7777](https://github.com/altay7777)
 - [ahmet151515](https://github.com/ahmet151515)
-- [ArnoldKebaso](https://github.com/ArnoldKebaso)
-- [hakan4773](https://github.com/hakan4773)
-- [mnizicqa](https://github.com/mnizicqa)
-- [EmmanuelAdah](https://github.com/EmmanuelAdah)
-- [PaulJkr](https://github.com/PaulJkr)
-- [ivin-titus](https://github.com/ivin-titus)
-- [Rayato159](https://github.com/Rayato159)
 
 ## ⭐ Recent stars
 
