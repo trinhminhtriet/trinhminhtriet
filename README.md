@@ -33,9 +33,9 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👷 Check out what I'm currently working on
 
-- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (3 days ago)
-- [nctl-io/nctl-branding](https://github.com/nctl-io/nctl-branding) - NCTL Branding 🖼️: Centralized assets and guidelines for consistent visual identity across NCTL projects and platforms. (5 days ago)
-- [nctl-io/nctl-homepage](https://github.com/nctl-io/nctl-homepage) - 🚀 Modern homepage for NCTL: fast, responsive, TypeScript-powered, open source, and easy to customize. (5 days ago)
+- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (4 days ago)
+- [nctl-io/nctl-branding](https://github.com/nctl-io/nctl-branding) - NCTL Branding 🖼️: Centralized assets and guidelines for consistent visual identity across NCTL projects and platforms. (6 days ago)
+- [nctl-io/nctl-homepage](https://github.com/nctl-io/nctl-homepage) - 🚀 Modern homepage for NCTL: fast, responsive, TypeScript-powered, open source, and easy to customize. (6 days ago)
 - [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) - 🚀 All-in-one CLI toolkit for developers: scaffold, manage, automate, and boost productivity across languages! (3 weeks ago)
 - [lamhaison/aws-cli-utils](https://github.com/lamhaison/aws-cli-utils) - This is the project to collect helpful aws cli commandline with complex options to support your working (1 month ago)
 - [trinhminhtriet/dwipe](https://github.com/trinhminhtriet/dwipe) - 🧹 Fast, cross-platform disk cleanup tool with interactive UI for easy directory size visualization. (1 month ago)
@@ -46,23 +46,23 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [tmberg](https://github.com/tmberg)
+- [adi599](https://github.com/adi599)
+- [S-Rabbit81](https://github.com/S-Rabbit81)
+- [MuhammadIsamuTaqiyAli](https://github.com/MuhammadIsamuTaqiyAli)
+- [geisivanvitena](https://github.com/geisivanvitena)
+- [raymondproguy](https://github.com/raymondproguy)
 - [Omarelsa1125](https://github.com/Omarelsa1125)
 - [jocelymarques](https://github.com/jocelymarques)
 - [UocDev](https://github.com/UocDev)
 - [vanessa-cl](https://github.com/vanessa-cl)
-- [MarcioGil](https://github.com/MarcioGil)
-- [MikeCHOKKI](https://github.com/MikeCHOKKI)
-- [terabucket](https://github.com/terabucket)
-- [sweNNN-svg](https://github.com/sweNNN-svg)
-- [prathyyyyy](https://github.com/prathyyyyy)
-- [hoseinabedi](https://github.com/hoseinabedi)
 
 ## ⭐ Recent stars
 
-- [parvardegr/sharing](https://github.com/parvardegr/sharing) - Sharing is a command-line tool to share directories and files from the CLI to iOS and Android devices without the need of an extra client app (today)
-- [cood-filter-rubika/filter-rubika](https://github.com/cood-filter-rubika/filter-rubika) - اسکریپتی برای ساخت کد فیلترینگ پیام رسان ها (today)
-- [n0x08/ShodanTools](https://github.com/n0x08/ShodanTools) - Collection of scripts & fingerprinting tricks for Shodan.io (today)
-- [praskoson/distribution-tools](https://github.com/praskoson/distribution-tools) - Tools for running airdrop and token distribution campaigns on the Solana blockchain. (today)
-- [shramos/practical-ml-for-cybersecurity](https://github.com/shramos/practical-ml-for-cybersecurity) - More than twenty practical cases with real datasets of application of Machine Learning to the field of Cybersecurity (today)
+- [parvardegr/sharing](https://github.com/parvardegr/sharing) - Sharing is a command-line tool to share directories and files from the CLI to iOS and Android devices without the need of an extra client app (1 day ago)
+- [cood-filter-rubika/filter-rubika](https://github.com/cood-filter-rubika/filter-rubika) - اسکریپتی برای ساخت کد فیلترینگ پیام رسان ها (1 day ago)
+- [n0x08/ShodanTools](https://github.com/n0x08/ShodanTools) - Collection of scripts & fingerprinting tricks for Shodan.io (1 day ago)
+- [praskoson/distribution-tools](https://github.com/praskoson/distribution-tools) - Tools for running airdrop and token distribution campaigns on the Solana blockchain. (1 day ago)
+- [shramos/practical-ml-for-cybersecurity](https://github.com/shramos/practical-ml-for-cybersecurity) - More than twenty practical cases with real datasets of application of Machine Learning to the field of Cybersecurity (1 day ago)
 
 ## 🔨 Latest Pull Requests I published
