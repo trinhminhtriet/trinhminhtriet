@@ -46,6 +46,9 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [abhiya492](https://github.com/abhiya492)
+- [edganji](https://github.com/edganji)
+- [nermiin](https://github.com/nermiin)
 - [firaol-tag](https://github.com/firaol-tag)
 - [EmamSaimon592](https://github.com/EmamSaimon592)
 - [owayo-cloud](https://github.com/owayo-cloud)
@@ -53,16 +56,13 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [techcow2](https://github.com/techcow2)
 - [teesh3rt](https://github.com/teesh3rt)
 - [form-asap](https://github.com/form-asap)
-- [yasserderbale](https://github.com/yasserderbale)
-- [devlancer0328](https://github.com/devlancer0328)
-- [zahrabateninia](https://github.com/zahrabateninia)
 
 ## ⭐ Recent stars
 
-- [dineug/erd-editor](https://github.com/dineug/erd-editor) - Entity-Relationship Diagram Editor (today)
-- [rungwiroon/BlazorGoogleMaps](https://github.com/rungwiroon/BlazorGoogleMaps) - Blazor interop for GoogleMap library (today)
-- [Aceship/AN-EN-Tags](https://github.com/Aceship/AN-EN-Tags) - English + image fork (today)
-- [nxxxu/AutoPixieWps](https://github.com/nxxxu/AutoPixieWps) - Automated pixieWps python script (today)
-- [riversun/JSFrame.js](https://github.com/riversun/JSFrame.js) - An independent lightweight multi-window library for javascript. (today)
+- [indefined/UserScripts](https://github.com/indefined/UserScripts) - 基于Chrome下的Tampermonkey写的一些个人用户脚本 (today)
+- [lkmvip/netflix-4K-DDplus](https://github.com/lkmvip/netflix-4K-DDplus) - MicrosoftEdge(Chromium core) extension to play Netflix in 4K（Restricted）and DDplus audio (today)
+- [kooritea/mpush](https://github.com/kooritea/mpush) - 基于Websocket的即时消息推送服务 (today)
+- [kooritea/mipay-extract](https://github.com/kooritea/mipay-extract) - Extract Mi Pay from MIUI China Rom (today)
+- [kooritea/electronic-wechat](https://github.com/kooritea/electronic-wechat) - :speech_balloon: A better WeChat on macOS and Linux. Built with Electron by Zhongyi Tong. (today)
 
 ## 🔨 Latest Pull Requests I published
