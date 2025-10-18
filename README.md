@@ -46,6 +46,9 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [oguzhankurtkan](https://github.com/oguzhankurtkan)
+- [Zaf-Mif](https://github.com/Zaf-Mif)
+- [naghinezhad](https://github.com/naghinezhad)
 - [deblandns](https://github.com/deblandns)
 - [xe4ni](https://github.com/xe4ni)
 - [fengye1003](https://github.com/fengye1003)
@@ -53,16 +56,13 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [fasiaa](https://github.com/fasiaa)
 - [brambhattabhishek](https://github.com/brambhattabhishek)
 - [coderup2u](https://github.com/coderup2u)
-- [tvnisxq](https://github.com/tvnisxq)
-- [ShiningYangYXN](https://github.com/ShiningYangYXN)
-- [Drogasanddestruicion](https://github.com/Drogasanddestruicion)
 
 ## ⭐ Recent stars
 
+- [thoughtsunificator/instagram-dm-unsender](https://github.com/thoughtsunificator/instagram-dm-unsender) - Userscript that allows you to mass unsend all your DMs on Instagram (today)
+- [Exploited7/outlook-account-creator](https://github.com/Exploited7/outlook-account-creator) - Outlook account Creator / Generator, Requests Based.  (today)
 - [Uo1428/ALL-IN-ONE-Discord-Bot-](https://github.com/Uo1428/ALL-IN-ONE-Discord-Bot-) - An advance discord bot with 500+ commands (today)
 - [parvardegr/sharing](https://github.com/parvardegr/sharing) - Sharing is a command-line tool to share directories and files from the CLI to iOS and Android devices without the need of an extra client app (1 day ago)
 - [cood-filter-rubika/filter-rubika](https://github.com/cood-filter-rubika/filter-rubika) - اسکریپتی برای ساخت کد فیلترینگ پیام رسان ها (1 day ago)
-- [n0x08/ShodanTools](https://github.com/n0x08/ShodanTools) - Collection of scripts & fingerprinting tricks for Shodan.io (1 day ago)
-- [praskoson/distribution-tools](https://github.com/praskoson/distribution-tools) - Tools for running airdrop and token distribution campaigns on the Solana blockchain. (1 day ago)
 
 ## 🔨 Latest Pull Requests I published
