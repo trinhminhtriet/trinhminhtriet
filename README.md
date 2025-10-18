@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [deblandns](https://github.com/deblandns)
+- [xe4ni](https://github.com/xe4ni)
 - [fengye1003](https://github.com/fengye1003)
 - [iSalah-YT](https://github.com/iSalah-YT)
 - [fasiaa](https://github.com/fasiaa)
@@ -54,15 +56,13 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [tvnisxq](https://github.com/tvnisxq)
 - [ShiningYangYXN](https://github.com/ShiningYangYXN)
 - [Drogasanddestruicion](https://github.com/Drogasanddestruicion)
-- [LuciLua](https://github.com/LuciLua)
-- [tmberg](https://github.com/tmberg)
 
 ## ⭐ Recent stars
 
+- [Uo1428/ALL-IN-ONE-Discord-Bot-](https://github.com/Uo1428/ALL-IN-ONE-Discord-Bot-) - An advance discord bot with 500+ commands (today)
 - [parvardegr/sharing](https://github.com/parvardegr/sharing) - Sharing is a command-line tool to share directories and files from the CLI to iOS and Android devices without the need of an extra client app (1 day ago)
 - [cood-filter-rubika/filter-rubika](https://github.com/cood-filter-rubika/filter-rubika) - اسکریپتی برای ساخت کد فیلترینگ پیام رسان ها (1 day ago)
 - [n0x08/ShodanTools](https://github.com/n0x08/ShodanTools) - Collection of scripts & fingerprinting tricks for Shodan.io (1 day ago)
 - [praskoson/distribution-tools](https://github.com/praskoson/distribution-tools) - Tools for running airdrop and token distribution campaigns on the Solana blockchain. (1 day ago)
-- [shramos/practical-ml-for-cybersecurity](https://github.com/shramos/practical-ml-for-cybersecurity) - More than twenty practical cases with real datasets of application of Machine Learning to the field of Cybersecurity (1 day ago)
 
 ## 🔨 Latest Pull Requests I published
