@@ -46,23 +46,23 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [pavan-png](https://github.com/pavan-png)
+- [HyunwooKiim](https://github.com/HyunwooKiim)
+- [danielcamposramos](https://github.com/danielcamposramos)
+- [souGnai](https://github.com/souGnai)
+- [Taanveer22](https://github.com/Taanveer22)
 - [Kittinun-Roonsungneon](https://github.com/Kittinun-Roonsungneon)
 - [WaelDev](https://github.com/WaelDev)
 - [MiselTwister](https://github.com/MiselTwister)
 - [yordiyes](https://github.com/yordiyes)
 - [nandarlinn](https://github.com/nandarlinn)
-- [ishandutta2007](https://github.com/ishandutta2007)
-- [Fork-s-ops](https://github.com/Fork-s-ops)
-- [moraroy](https://github.com/moraroy)
-- [utkarshsreyh12](https://github.com/utkarshsreyh12)
-- [alemandira](https://github.com/alemandira)
 
 ## ⭐ Recent stars
 
+- [haseydesign/flexi-auth](https://github.com/haseydesign/flexi-auth) - flexi-auth | A user authentication library for Codeigniter (today)
+- [kylewetton/image-compare-viewer](https://github.com/kylewetton/image-compare-viewer) - Compare before and after images, for grading and other retouching for instance. Vanilla JS, zero dependencies. (today)
 - [ramalcik/V14-Discord-Bot](https://github.com/ramalcik/V14-Discord-Bot) (today)
 - [ddkang/zkml](https://github.com/ddkang/zkml) (today)
 - [codingupmyfuture/bootcamplinuxpython](https://github.com/codingupmyfuture/bootcamplinuxpython) (today)
-- [DS-AI-GATE/dsai-gate](https://github.com/DS-AI-GATE/dsai-gate) - A Repository consisting resources primarily of the Gate DA and AI (today)
-- [whipowill/d2-plugy-qol](https://github.com/whipowill/d2-plugy-qol) - QOL Mod Pack for Diablo II. (today)
 
 ## 🔨 Latest Pull Requests I published
