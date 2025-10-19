@@ -33,7 +33,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👷 Check out what I'm currently working on
 
-- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (1 day ago)
+- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (today)
 - [nctl-io/nctl-branding](https://github.com/nctl-io/nctl-branding) - NCTL Branding 🖼️: Centralized assets and guidelines for consistent visual identity across NCTL projects and platforms. (1 week ago)
 - [nctl-io/nctl-homepage](https://github.com/nctl-io/nctl-homepage) - 🚀 Modern homepage for NCTL: fast, responsive, TypeScript-powered, open source, and easy to customize. (1 week ago)
 - [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) - 🚀 All-in-one CLI toolkit for developers: scaffold, manage, automate, and boost productivity across languages! (3 weeks ago)
@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [saalid](https://github.com/saalid)
+- [HeyIamMarasiniAmrit](https://github.com/HeyIamMarasiniAmrit)
 - [pavan-png](https://github.com/pavan-png)
 - [HyunwooKiim](https://github.com/HyunwooKiim)
 - [danielcamposramos](https://github.com/danielcamposramos)
@@ -54,8 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Kittinun-Roonsungneon](https://github.com/Kittinun-Roonsungneon)
 - [WaelDev](https://github.com/WaelDev)
 - [MiselTwister](https://github.com/MiselTwister)
-- [yordiyes](https://github.com/yordiyes)
-- [nandarlinn](https://github.com/nandarlinn)
 
 ## ⭐ Recent stars
 
