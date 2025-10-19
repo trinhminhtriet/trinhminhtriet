@@ -46,23 +46,23 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [kofinyame-py](https://github.com/kofinyame-py)
+- [amirmohsen1384](https://github.com/amirmohsen1384)
+- [wokedud](https://github.com/wokedud)
+- [vibestudent](https://github.com/vibestudent)
+- [elix-s](https://github.com/elix-s)
+- [DanielpRibeiro](https://github.com/DanielpRibeiro)
 - [Mahfoozalam1516](https://github.com/Mahfoozalam1516)
 - [x213212](https://github.com/x213212)
 - [DesiringStars](https://github.com/DesiringStars)
 - [anninhaspeck](https://github.com/anninhaspeck)
-- [vokrob](https://github.com/vokrob)
-- [AliSabet81](https://github.com/AliSabet81)
-- [beytekindavut](https://github.com/beytekindavut)
-- [KavyashreeSN](https://github.com/KavyashreeSN)
-- [wisdom2608](https://github.com/wisdom2608)
-- [arkikky](https://github.com/arkikky)
 
 ## ⭐ Recent stars
 
-- [developerdizzle/react-virtual-list](https://github.com/developerdizzle/react-virtual-list) - Super simple virtualized list React component (1 day ago)
-- [Murzchnvok/rofi-collection](https://github.com/Murzchnvok/rofi-collection) - Beautiful collection of Rofi themes (1 day ago)
-- [Murzchnvok/polybar-collection](https://github.com/Murzchnvok/polybar-collection) - Beautiful collection of Polybar themes (1 day ago)
-- [ceceradio/twitter-block-chain](https://github.com/ceceradio/twitter-block-chain) - Chrome extension to block all users on a followers/following page. (1 day ago)
-- [RedShyGuy/Vapecord-ACNL-Plugin](https://github.com/RedShyGuy/Vapecord-ACNL-Plugin) - Animal Crossing NL Vapecord Public Plugin WIP (1 day ago)
+- [whipowill/d2-plugy-qol](https://github.com/whipowill/d2-plugy-qol) - QOL Mod Pack for Diablo II. (today)
+- [GavinYellow/SharpSCADA](https://github.com/GavinYellow/SharpSCADA) - C# SCADA (today)
+- [DragonJoker/RenderGraph](https://github.com/DragonJoker/RenderGraph) - Render graph management library. (today)
+- [DragonJoker/ShaderWriter](https://github.com/DragonJoker/ShaderWriter) - Library used to write shaders from C++, and export them in either GLSL, HLSL or SPIR-V. (today)
+- [DragonJoker/Ashes](https://github.com/DragonJoker/Ashes) - Drop-in replacement for Vulkan shared library, for older hardware compatibility (today)
 
 ## 🔨 Latest Pull Requests I published
