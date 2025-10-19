@@ -46,23 +46,23 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Deirror](https://github.com/Deirror)
+- [zaramessy](https://github.com/zaramessy)
+- [ergin-tan](https://github.com/ergin-tan)
+- [Idir0u](https://github.com/Idir0u)
+- [Senadeera-NK](https://github.com/Senadeera-NK)
+- [zeneiltongpdev](https://github.com/zeneiltongpdev)
 - [JMustang](https://github.com/JMustang)
 - [amdadislam01](https://github.com/amdadislam01)
 - [FlRE-RING](https://github.com/FlRE-RING)
 - [OmarAzizi](https://github.com/OmarAzizi)
-- [PouyaSonej](https://github.com/PouyaSonej)
-- [BrunoRNS](https://github.com/BrunoRNS)
-- [NamesMT](https://github.com/NamesMT)
-- [praditus343](https://github.com/praditus343)
-- [waleed90351](https://github.com/waleed90351)
-- [saalid](https://github.com/saalid)
 
 ## ⭐ Recent stars
 
-- [carcabot/iCloud-Bypass](https://github.com/carcabot/iCloud-Bypass) (today)
-- [carcabot/tiktok-signature](https://github.com/carcabot/tiktok-signature) - Generate tiktok signature token using node (today)
-- [10p-freddo/fruitstrap](https://github.com/10p-freddo/fruitstrap) - Install and debug iPhone apps from the command line, without using Xcode (today)
-- [haseydesign/flexi-auth](https://github.com/haseydesign/flexi-auth) - flexi-auth | A user authentication library for Codeigniter (today)
-- [kylewetton/image-compare-viewer](https://github.com/kylewetton/image-compare-viewer) - Compare before and after images, for grading and other retouching for instance. Vanilla JS, zero dependencies. (today)
+- [gilsdav/ngx-translate-router](https://github.com/gilsdav/ngx-translate-router) - Translate routes using ngx-translate (today)
+- [fopina/django-bulk-update-or-create](https://github.com/fopina/django-bulk-update-or-create) - `bulk_update_or_create` for Django model managers (today)
+- [subhendukundu/worker-auth-providers](https://github.com/subhendukundu/worker-auth-providers) - worker-auth-providers is an open-source providers to make authentication easy with workers. Very lightweight script which doesn't need a lot of dependencies. Plug it with any framework or template of workers.  (today)
+- [gawindx/WinNUT-Client](https://github.com/gawindx/WinNUT-Client) - This is a NUT windows client for monitoring your ups hooked up to your favorite linux server. (today)
+- [Aviana/LunaUnitFrames](https://github.com/Aviana/LunaUnitFrames) - Unit Frames for WoW Classic (today)
 
 ## 🔨 Latest Pull Requests I published
