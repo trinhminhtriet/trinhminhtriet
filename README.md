@@ -46,6 +46,9 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [ivngnzl](https://github.com/ivngnzl)
+- [TonyVHT](https://github.com/TonyVHT)
+- [Laszlo-prog](https://github.com/Laszlo-prog)
 - [Deirror](https://github.com/Deirror)
 - [zaramessy](https://github.com/zaramessy)
 - [ergin-tan](https://github.com/ergin-tan)
@@ -53,16 +56,13 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Senadeera-NK](https://github.com/Senadeera-NK)
 - [zeneiltongpdev](https://github.com/zeneiltongpdev)
 - [JMustang](https://github.com/JMustang)
-- [amdadislam01](https://github.com/amdadislam01)
-- [FlRE-RING](https://github.com/FlRE-RING)
-- [OmarAzizi](https://github.com/OmarAzizi)
 
 ## ⭐ Recent stars
 
+- [pascalvgemert/resume](https://github.com/pascalvgemert/resume) - An oversized application for showing off some of my coding skills (today)
 - [gilsdav/ngx-translate-router](https://github.com/gilsdav/ngx-translate-router) - Translate routes using ngx-translate (today)
 - [fopina/django-bulk-update-or-create](https://github.com/fopina/django-bulk-update-or-create) - `bulk_update_or_create` for Django model managers (today)
 - [subhendukundu/worker-auth-providers](https://github.com/subhendukundu/worker-auth-providers) - worker-auth-providers is an open-source providers to make authentication easy with workers. Very lightweight script which doesn't need a lot of dependencies. Plug it with any framework or template of workers.  (today)
 - [gawindx/WinNUT-Client](https://github.com/gawindx/WinNUT-Client) - This is a NUT windows client for monitoring your ups hooked up to your favorite linux server. (today)
-- [Aviana/LunaUnitFrames](https://github.com/Aviana/LunaUnitFrames) - Unit Frames for WoW Classic (today)
 
 ## 🔨 Latest Pull Requests I published
