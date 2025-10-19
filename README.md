@@ -46,23 +46,23 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [yordiyes](https://github.com/yordiyes)
+- [nandarlinn](https://github.com/nandarlinn)
+- [ishandutta2007](https://github.com/ishandutta2007)
+- [Fork-s-ops](https://github.com/Fork-s-ops)
+- [moraroy](https://github.com/moraroy)
+- [utkarshsreyh12](https://github.com/utkarshsreyh12)
+- [alemandira](https://github.com/alemandira)
 - [maikofelix47](https://github.com/maikofelix47)
 - [Mohammed-Abodan-Jabri](https://github.com/Mohammed-Abodan-Jabri)
 - [md-ajim](https://github.com/md-ajim)
-- [Jay-1409](https://github.com/Jay-1409)
-- [devmaliktalha](https://github.com/devmaliktalha)
-- [kofinyame-py](https://github.com/kofinyame-py)
-- [amirmohsen1384](https://github.com/amirmohsen1384)
-- [wokedud](https://github.com/wokedud)
-- [vibestudent](https://github.com/vibestudent)
-- [elix-s](https://github.com/elix-s)
 
 ## ⭐ Recent stars
 
+- [ddkang/zkml](https://github.com/ddkang/zkml) (today)
+- [codingupmyfuture/bootcamplinuxpython](https://github.com/codingupmyfuture/bootcamplinuxpython) (today)
+- [DS-AI-GATE/dsai-gate](https://github.com/DS-AI-GATE/dsai-gate) - A Repository consisting resources primarily of the Gate DA and AI (today)
 - [whipowill/d2-plugy-qol](https://github.com/whipowill/d2-plugy-qol) - QOL Mod Pack for Diablo II. (today)
 - [GavinYellow/SharpSCADA](https://github.com/GavinYellow/SharpSCADA) - C# SCADA (today)
-- [DragonJoker/RenderGraph](https://github.com/DragonJoker/RenderGraph) - Render graph management library. (today)
-- [DragonJoker/ShaderWriter](https://github.com/DragonJoker/ShaderWriter) - Library used to write shaders from C++, and export them in either GLSL, HLSL or SPIR-V. (today)
-- [DragonJoker/Ashes](https://github.com/DragonJoker/Ashes) - Drop-in replacement for Vulkan shared library, for older hardware compatibility (today)
 
 ## 🔨 Latest Pull Requests I published
