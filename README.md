@@ -33,9 +33,9 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👷 Check out what I'm currently working on
 
-- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (today)
-- [nctl-io/nctl-branding](https://github.com/nctl-io/nctl-branding) - NCTL Branding 🖼️: Centralized assets and guidelines for consistent visual identity across NCTL projects and platforms. (6 days ago)
-- [nctl-io/nctl-homepage](https://github.com/nctl-io/nctl-homepage) - 🚀 Modern homepage for NCTL: fast, responsive, TypeScript-powered, open source, and easy to customize. (6 days ago)
+- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (1 day ago)
+- [nctl-io/nctl-branding](https://github.com/nctl-io/nctl-branding) - NCTL Branding 🖼️: Centralized assets and guidelines for consistent visual identity across NCTL projects and platforms. (1 week ago)
+- [nctl-io/nctl-homepage](https://github.com/nctl-io/nctl-homepage) - 🚀 Modern homepage for NCTL: fast, responsive, TypeScript-powered, open source, and easy to customize. (1 week ago)
 - [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) - 🚀 All-in-one CLI toolkit for developers: scaffold, manage, automate, and boost productivity across languages! (3 weeks ago)
 - [lamhaison/aws-cli-utils](https://github.com/lamhaison/aws-cli-utils) - This is the project to collect helpful aws cli commandline with complex options to support your working (1 month ago)
 - [trinhminhtriet/dwipe](https://github.com/trinhminhtriet/dwipe) - 🧹 Fast, cross-platform disk cleanup tool with interactive UI for easy directory size visualization. (1 month ago)
@@ -46,23 +46,23 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Theophilus131](https://github.com/Theophilus131)
+- [Md-Mohseen](https://github.com/Md-Mohseen)
+- [QuartzTS](https://github.com/QuartzTS)
+- [shahriar-rahman](https://github.com/shahriar-rahman)
+- [tonyfarha](https://github.com/tonyfarha)
+- [LordVersA](https://github.com/LordVersA)
 - [mostafa-kermaninia](https://github.com/mostafa-kermaninia)
 - [crypto318](https://github.com/crypto318)
 - [kaylannesatiro](https://github.com/kaylannesatiro)
 - [S-PScripts](https://github.com/S-PScripts)
-- [TheOtherCard](https://github.com/TheOtherCard)
-- [helooselassie](https://github.com/helooselassie)
-- [tristonarmstrong](https://github.com/tristonarmstrong)
-- [juliocymartins](https://github.com/juliocymartins)
-- [ayse1515](https://github.com/ayse1515)
-- [selin8888](https://github.com/selin8888)
 
 ## ⭐ Recent stars
 
-- [developerdizzle/react-virtual-list](https://github.com/developerdizzle/react-virtual-list) - Super simple virtualized list React component (today)
-- [Murzchnvok/rofi-collection](https://github.com/Murzchnvok/rofi-collection) - Beautiful collection of Rofi themes (today)
-- [Murzchnvok/polybar-collection](https://github.com/Murzchnvok/polybar-collection) - Beautiful collection of Polybar themes (today)
-- [ceceradio/twitter-block-chain](https://github.com/ceceradio/twitter-block-chain) - Chrome extension to block all users on a followers/following page. (today)
-- [RedShyGuy/Vapecord-ACNL-Plugin](https://github.com/RedShyGuy/Vapecord-ACNL-Plugin) - Animal Crossing NL Vapecord Public Plugin WIP (today)
+- [developerdizzle/react-virtual-list](https://github.com/developerdizzle/react-virtual-list) - Super simple virtualized list React component (1 day ago)
+- [Murzchnvok/rofi-collection](https://github.com/Murzchnvok/rofi-collection) - Beautiful collection of Rofi themes (1 day ago)
+- [Murzchnvok/polybar-collection](https://github.com/Murzchnvok/polybar-collection) - Beautiful collection of Polybar themes (1 day ago)
+- [ceceradio/twitter-block-chain](https://github.com/ceceradio/twitter-block-chain) - Chrome extension to block all users on a followers/following page. (1 day ago)
+- [RedShyGuy/Vapecord-ACNL-Plugin](https://github.com/RedShyGuy/Vapecord-ACNL-Plugin) - Animal Crossing NL Vapecord Public Plugin WIP (1 day ago)
 
 ## 🔨 Latest Pull Requests I published
