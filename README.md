@@ -46,16 +46,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [devanshkant](https://github.com/devanshkant)
+- [theblag](https://github.com/theblag)
+- [Jayden6849](https://github.com/Jayden6849)
+- [ret2ldz](https://github.com/ret2ldz)
 - [GOPIKRISHNAN-S-15](https://github.com/GOPIKRISHNAN-S-15)
 - [guidev1911](https://github.com/guidev1911)
 - [LunaStev](https://github.com/LunaStev)
 - [Theophilus131](https://github.com/Theophilus131)
 - [Md-Mohseen](https://github.com/Md-Mohseen)
 - [QuartzTS](https://github.com/QuartzTS)
-- [shahriar-rahman](https://github.com/shahriar-rahman)
-- [tonyfarha](https://github.com/tonyfarha)
-- [LordVersA](https://github.com/LordVersA)
-- [mostafa-kermaninia](https://github.com/mostafa-kermaninia)
 
 ## ⭐ Recent stars
 
