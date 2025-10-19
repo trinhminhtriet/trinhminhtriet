@@ -46,6 +46,9 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Kittinun-Roonsungneon](https://github.com/Kittinun-Roonsungneon)
+- [WaelDev](https://github.com/WaelDev)
+- [MiselTwister](https://github.com/MiselTwister)
 - [yordiyes](https://github.com/yordiyes)
 - [nandarlinn](https://github.com/nandarlinn)
 - [ishandutta2007](https://github.com/ishandutta2007)
@@ -53,16 +56,13 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [moraroy](https://github.com/moraroy)
 - [utkarshsreyh12](https://github.com/utkarshsreyh12)
 - [alemandira](https://github.com/alemandira)
-- [maikofelix47](https://github.com/maikofelix47)
-- [Mohammed-Abodan-Jabri](https://github.com/Mohammed-Abodan-Jabri)
-- [md-ajim](https://github.com/md-ajim)
 
 ## ⭐ Recent stars
 
+- [ramalcik/V14-Discord-Bot](https://github.com/ramalcik/V14-Discord-Bot) (today)
 - [ddkang/zkml](https://github.com/ddkang/zkml) (today)
 - [codingupmyfuture/bootcamplinuxpython](https://github.com/codingupmyfuture/bootcamplinuxpython) (today)
 - [DS-AI-GATE/dsai-gate](https://github.com/DS-AI-GATE/dsai-gate) - A Repository consisting resources primarily of the Gate DA and AI (today)
 - [whipowill/d2-plugy-qol](https://github.com/whipowill/d2-plugy-qol) - QOL Mod Pack for Diablo II. (today)
-- [GavinYellow/SharpSCADA](https://github.com/GavinYellow/SharpSCADA) - C# SCADA (today)
 
 ## 🔨 Latest Pull Requests I published
