@@ -46,23 +46,23 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [raviheima](https://github.com/raviheima)
+- [mehmetkvk12](https://github.com/mehmetkvk12)
+- [enzo931](https://github.com/enzo931)
+- [GoutteDooo](https://github.com/GoutteDooo)
+- [emmanuelthegeek](https://github.com/emmanuelthegeek)
 - [imtiaz-cnits](https://github.com/imtiaz-cnits)
 - [mdrijoanmaruf](https://github.com/mdrijoanmaruf)
 - [PaulGD03](https://github.com/PaulGD03)
 - [onurrkarasu](https://github.com/onurrkarasu)
 - [AB-20005](https://github.com/AB-20005)
-- [ivngnzl](https://github.com/ivngnzl)
-- [TonyVHT](https://github.com/TonyVHT)
-- [Laszlo-prog](https://github.com/Laszlo-prog)
-- [Deirror](https://github.com/Deirror)
-- [zaramessy](https://github.com/zaramessy)
 
 ## ⭐ Recent stars
 
+- [finixbit/elf-parser](https://github.com/finixbit/elf-parser) - Lightweight elf binary parser with no external dependencies - Sections, Symbols, Relocations, Segments  (today)
+- [hhurz/tableExport.jquery.plugin](https://github.com/hhurz/tableExport.jquery.plugin) - jQuery plugin to export a html table to JSON, XML, CSV, TSV, TXT, SQL, Word, Excel, PNG and PDF (today)
 - [Sascha-L/WPF-MediaKit](https://github.com/Sascha-L/WPF-MediaKit) (today)
 - [asheroto/Deploy-Office](https://github.com/asheroto/Deploy-Office) - Easily install the latest version of Microsoft Office 2019, 2021, 2024, Microsoft 365 using a 260 KB installer. (today)
 - [asheroto/winget-install](https://github.com/asheroto/winget-install) - Install WinGet using PowerShell! Prerequisites automatically installed. Works on Windows 10/11 and Server 2019/2022. (today)
-- [aferrero2707/gimp-appimage](https://github.com/aferrero2707/gimp-appimage) (today)
-- [aferrero2707/PhotoFlow](https://github.com/aferrero2707/PhotoFlow) - A fully non-destructive photo retouching program providing a complete layer-based workflow including RAW image development. (today)
 
 ## 🔨 Latest Pull Requests I published
