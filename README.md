@@ -42,27 +42,27 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [nctl-io/nctl-roadmap](https://github.com/nctl-io/nctl-roadmap) (1 month ago)
 - [nctl-io/.github](https://github.com/nctl-io/.github) - 🌐 Network. Connect. Transform. Lead. (1 month ago)
 - [trinhminhtriet/sizr](https://github.com/trinhminhtriet/sizr) - 📈 A fast, Rust-based tool to analyze file system usage with colorful output, file aggregation, exclusions, and directory comparisons. (1 month ago)
-- [trinhminhtriet/blast](https://github.com/trinhminhtriet/blast) - 🚀 Blast: A powerful, lightweight HTTP load generator for stress testing and benchmarking web applications with ease. (1 month ago)
+- [rust-rs/tabler](https://github.com/rust-rs/tabler) - 📊 Tabler: A lightweight TUI tool to view, query, and navigate CSV, TSV, and Parquet data files. (1 month ago)
 
 ## 👯 Check out my recent followers
 
+- [JMustang](https://github.com/JMustang)
+- [amdadislam01](https://github.com/amdadislam01)
+- [FlRE-RING](https://github.com/FlRE-RING)
+- [OmarAzizi](https://github.com/OmarAzizi)
 - [PouyaSonej](https://github.com/PouyaSonej)
 - [BrunoRNS](https://github.com/BrunoRNS)
 - [NamesMT](https://github.com/NamesMT)
 - [praditus343](https://github.com/praditus343)
 - [waleed90351](https://github.com/waleed90351)
 - [saalid](https://github.com/saalid)
-- [HeyIamMarasiniAmrit](https://github.com/HeyIamMarasiniAmrit)
-- [pavan-png](https://github.com/pavan-png)
-- [HyunwooKiim](https://github.com/HyunwooKiim)
-- [danielcamposramos](https://github.com/danielcamposramos)
 
 ## ⭐ Recent stars
 
+- [carcabot/iCloud-Bypass](https://github.com/carcabot/iCloud-Bypass) (today)
+- [carcabot/tiktok-signature](https://github.com/carcabot/tiktok-signature) - Generate tiktok signature token using node (today)
+- [10p-freddo/fruitstrap](https://github.com/10p-freddo/fruitstrap) - Install and debug iPhone apps from the command line, without using Xcode (today)
 - [haseydesign/flexi-auth](https://github.com/haseydesign/flexi-auth) - flexi-auth | A user authentication library for Codeigniter (today)
 - [kylewetton/image-compare-viewer](https://github.com/kylewetton/image-compare-viewer) - Compare before and after images, for grading and other retouching for instance. Vanilla JS, zero dependencies. (today)
-- [ramalcik/V14-Discord-Bot](https://github.com/ramalcik/V14-Discord-Bot) (today)
-- [ddkang/zkml](https://github.com/ddkang/zkml) (today)
-- [codingupmyfuture/bootcamplinuxpython](https://github.com/codingupmyfuture/bootcamplinuxpython) (today)
 
 ## 🔨 Latest Pull Requests I published
