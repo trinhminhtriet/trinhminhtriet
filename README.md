@@ -46,6 +46,9 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [x213212](https://github.com/x213212)
+- [DesiringStars](https://github.com/DesiringStars)
+- [anninhaspeck](https://github.com/anninhaspeck)
 - [vokrob](https://github.com/vokrob)
 - [AliSabet81](https://github.com/AliSabet81)
 - [beytekindavut](https://github.com/beytekindavut)
@@ -53,9 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [wisdom2608](https://github.com/wisdom2608)
 - [arkikky](https://github.com/arkikky)
 - [devanshkant](https://github.com/devanshkant)
-- [theblag](https://github.com/theblag)
-- [Jayden6849](https://github.com/Jayden6849)
-- [ret2ldz](https://github.com/ret2ldz)
 
 ## ⭐ Recent stars
 
