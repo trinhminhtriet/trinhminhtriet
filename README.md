@@ -46,6 +46,9 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [nusoloman](https://github.com/nusoloman)
+- [mateolafalce](https://github.com/mateolafalce)
+- [nguyenduyton2264](https://github.com/nguyenduyton2264)
 - [FrMahon](https://github.com/FrMahon)
 - [jirailykei](https://github.com/jirailykei)
 - [R-K-H](https://github.com/R-K-H)
@@ -53,9 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [raviheima](https://github.com/raviheima)
 - [mehmetkvk12](https://github.com/mehmetkvk12)
 - [enzo931](https://github.com/enzo931)
-- [GoutteDooo](https://github.com/GoutteDooo)
-- [emmanuelthegeek](https://github.com/emmanuelthegeek)
-- [imtiaz-cnits](https://github.com/imtiaz-cnits)
 
 ## ⭐ Recent stars
 
