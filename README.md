@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [vokrob](https://github.com/vokrob)
 - [AliSabet81](https://github.com/AliSabet81)
 - [beytekindavut](https://github.com/beytekindavut)
 - [KavyashreeSN](https://github.com/KavyashreeSN)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [theblag](https://github.com/theblag)
 - [Jayden6849](https://github.com/Jayden6849)
 - [ret2ldz](https://github.com/ret2ldz)
-- [GOPIKRISHNAN-S-15](https://github.com/GOPIKRISHNAN-S-15)
 
 ## ⭐ Recent stars
 
