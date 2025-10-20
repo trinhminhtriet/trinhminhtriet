@@ -46,16 +46,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [nathadriele](https://github.com/nathadriele)
+- [farhanafaiz03](https://github.com/farhanafaiz03)
+- [NurullaBackEnd](https://github.com/NurullaBackEnd)
+- [lerkush](https://github.com/lerkush)
 - [famably](https://github.com/famably)
 - [Igor0Pires](https://github.com/Igor0Pires)
 - [aljon-dev](https://github.com/aljon-dev)
 - [gerivanc](https://github.com/gerivanc)
 - [batsonnoah58](https://github.com/batsonnoah58)
 - [byteonabeach](https://github.com/byteonabeach)
-- [oesnuj](https://github.com/oesnuj)
-- [hexter31376](https://github.com/hexter31376)
-- [ikartiksh](https://github.com/ikartiksh)
-- [JosephOkumu](https://github.com/JosephOkumu)
 
 ## ⭐ Recent stars
 
