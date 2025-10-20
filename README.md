@@ -46,16 +46,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [codwithyc](https://github.com/codwithyc)
+- [alevllgs](https://github.com/alevllgs)
+- [drhodes](https://github.com/drhodes)
+- [lalan21j](https://github.com/lalan21j)
+- [Jinzeld](https://github.com/Jinzeld)
+- [cleanmind777](https://github.com/cleanmind777)
+- [justicetieku](https://github.com/justicetieku)
 - [bishoe01](https://github.com/bishoe01)
 - [Iu-yang1](https://github.com/Iu-yang1)
 - [bast-top-dev](https://github.com/bast-top-dev)
-- [jeanctech](https://github.com/jeanctech)
-- [joshuayeyo](https://github.com/joshuayeyo)
-- [szkotgh](https://github.com/szkotgh)
-- [nusoloman](https://github.com/nusoloman)
-- [mateolafalce](https://github.com/mateolafalce)
-- [FrMahon](https://github.com/FrMahon)
-- [parfaitmimy](https://github.com/parfaitmimy)
 
 ## ⭐ Recent stars
 
