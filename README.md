@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [AbdallhElzayat2020](https://github.com/AbdallhElzayat2020)
 - [BANARIBA](https://github.com/BANARIBA)
 - [codwithyc](https://github.com/codwithyc)
 - [alevllgs](https://github.com/alevllgs)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [cleanmind777](https://github.com/cleanmind777)
 - [justicetieku](https://github.com/justicetieku)
 - [bishoe01](https://github.com/bishoe01)
-- [Iu-yang1](https://github.com/Iu-yang1)
 
 ## ⭐ Recent stars
 
