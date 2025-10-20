@@ -46,16 +46,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [JosephOkumu](https://github.com/JosephOkumu)
+- [sunJ0120](https://github.com/sunJ0120)
+- [graham218](https://github.com/graham218)
+- [eligiuszRaczek](https://github.com/eligiuszRaczek)
+- [Klaraczekaj20](https://github.com/Klaraczekaj20)
 - [AureliuszNada](https://github.com/AureliuszNada)
 - [CezaryNiklewicz](https://github.com/CezaryNiklewicz)
 - [wojtek1wojtek](https://github.com/wojtek1wojtek)
 - [saadafp](https://github.com/saadafp)
 - [minchoCoin](https://github.com/minchoCoin)
-- [maksimkunaev](https://github.com/maksimkunaev)
-- [helloa1109](https://github.com/helloa1109)
-- [TornadoInsight](https://github.com/TornadoInsight)
-- [Mousta-Med](https://github.com/Mousta-Med)
-- [WoobeenJeong](https://github.com/WoobeenJeong)
 
 ## ⭐ Recent stars
 
