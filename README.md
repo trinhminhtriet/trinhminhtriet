@@ -46,23 +46,23 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [MustajabAhmed](https://github.com/MustajabAhmed)
+- [mirseo](https://github.com/mirseo)
+- [koojun99](https://github.com/koojun99)
+- [y4vgen1](https://github.com/y4vgen1)
+- [paaak](https://github.com/paaak)
 - [AbdallhElzayat2020](https://github.com/AbdallhElzayat2020)
 - [BANARIBA](https://github.com/BANARIBA)
 - [codwithyc](https://github.com/codwithyc)
 - [alevllgs](https://github.com/alevllgs)
 - [drhodes](https://github.com/drhodes)
-- [lalan21j](https://github.com/lalan21j)
-- [Jinzeld](https://github.com/Jinzeld)
-- [cleanmind777](https://github.com/cleanmind777)
-- [justicetieku](https://github.com/justicetieku)
-- [bishoe01](https://github.com/bishoe01)
 
 ## ⭐ Recent stars
 
+- [kyhsa93/nestjs-rest-cqrs-example](https://github.com/kyhsa93/nestjs-rest-cqrs-example) - Example for Nest.js, MySQL, Redis, REST api, CQRS, DDD (today)
 - [alialbaali/Noto](https://github.com/alialbaali/Noto) - Minimal Note-Taking App (today)
 - [axfree/DaumMovie.bundle](https://github.com/axfree/DaumMovie.bundle) - Plex Metadata Agent for movie.daum.net (today)
 - [finixbit/elf-parser](https://github.com/finixbit/elf-parser) - Lightweight elf binary parser with no external dependencies - Sections, Symbols, Relocations, Segments  (1 day ago)
 - [hhurz/tableExport.jquery.plugin](https://github.com/hhurz/tableExport.jquery.plugin) - jQuery plugin to export a html table to JSON, XML, CSV, TSV, TXT, SQL, Word, Excel, PNG and PDF (1 day ago)
-- [Sascha-L/WPF-MediaKit](https://github.com/Sascha-L/WPF-MediaKit) (1 day ago)
 
 ## 🔨 Latest Pull Requests I published
