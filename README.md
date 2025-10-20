@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [BANARIBA](https://github.com/BANARIBA)
 - [codwithyc](https://github.com/codwithyc)
 - [alevllgs](https://github.com/alevllgs)
 - [drhodes](https://github.com/drhodes)
@@ -55,14 +56,13 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [justicetieku](https://github.com/justicetieku)
 - [bishoe01](https://github.com/bishoe01)
 - [Iu-yang1](https://github.com/Iu-yang1)
-- [bast-top-dev](https://github.com/bast-top-dev)
 
 ## ⭐ Recent stars
 
+- [alialbaali/Noto](https://github.com/alialbaali/Noto) - Minimal Note-Taking App (today)
 - [axfree/DaumMovie.bundle](https://github.com/axfree/DaumMovie.bundle) - Plex Metadata Agent for movie.daum.net (today)
 - [finixbit/elf-parser](https://github.com/finixbit/elf-parser) - Lightweight elf binary parser with no external dependencies - Sections, Symbols, Relocations, Segments  (1 day ago)
 - [hhurz/tableExport.jquery.plugin](https://github.com/hhurz/tableExport.jquery.plugin) - jQuery plugin to export a html table to JSON, XML, CSV, TSV, TXT, SQL, Word, Excel, PNG and PDF (1 day ago)
 - [Sascha-L/WPF-MediaKit](https://github.com/Sascha-L/WPF-MediaKit) (1 day ago)
-- [asheroto/Deploy-Office](https://github.com/asheroto/Deploy-Office) - Easily install the latest version of Microsoft Office 2019, 2021, 2024, Microsoft 365 using a 260 KB installer. (1 day ago)
 
 ## 🔨 Latest Pull Requests I published
