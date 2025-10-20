@@ -33,7 +33,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👷 Check out what I'm currently working on
 
-- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (today)
+- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (1 day ago)
 - [nctl-io/nctl-branding](https://github.com/nctl-io/nctl-branding) - NCTL Branding 🖼️: Centralized assets and guidelines for consistent visual identity across NCTL projects and platforms. (1 week ago)
 - [nctl-io/nctl-homepage](https://github.com/nctl-io/nctl-homepage) - 🚀 Modern homepage for NCTL: fast, responsive, TypeScript-powered, open source, and easy to customize. (1 week ago)
 - [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) - 🚀 All-in-one CLI toolkit for developers: scaffold, manage, automate, and boost productivity across languages! (3 weeks ago)
@@ -46,9 +46,9 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [szkotgh](https://github.com/szkotgh)
 - [nusoloman](https://github.com/nusoloman)
 - [mateolafalce](https://github.com/mateolafalce)
-- [nguyenduyton2264](https://github.com/nguyenduyton2264)
 - [FrMahon](https://github.com/FrMahon)
 - [jirailykei](https://github.com/jirailykei)
 - [R-K-H](https://github.com/R-K-H)
@@ -59,10 +59,10 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [finixbit/elf-parser](https://github.com/finixbit/elf-parser) - Lightweight elf binary parser with no external dependencies - Sections, Symbols, Relocations, Segments  (today)
-- [hhurz/tableExport.jquery.plugin](https://github.com/hhurz/tableExport.jquery.plugin) - jQuery plugin to export a html table to JSON, XML, CSV, TSV, TXT, SQL, Word, Excel, PNG and PDF (today)
-- [Sascha-L/WPF-MediaKit](https://github.com/Sascha-L/WPF-MediaKit) (today)
-- [asheroto/Deploy-Office](https://github.com/asheroto/Deploy-Office) - Easily install the latest version of Microsoft Office 2019, 2021, 2024, Microsoft 365 using a 260 KB installer. (today)
-- [asheroto/winget-install](https://github.com/asheroto/winget-install) - Install WinGet using PowerShell! Prerequisites automatically installed. Works on Windows 10/11 and Server 2019/2022. (today)
+- [finixbit/elf-parser](https://github.com/finixbit/elf-parser) - Lightweight elf binary parser with no external dependencies - Sections, Symbols, Relocations, Segments  (1 day ago)
+- [hhurz/tableExport.jquery.plugin](https://github.com/hhurz/tableExport.jquery.plugin) - jQuery plugin to export a html table to JSON, XML, CSV, TSV, TXT, SQL, Word, Excel, PNG and PDF (1 day ago)
+- [Sascha-L/WPF-MediaKit](https://github.com/Sascha-L/WPF-MediaKit) (1 day ago)
+- [asheroto/Deploy-Office](https://github.com/asheroto/Deploy-Office) - Easily install the latest version of Microsoft Office 2019, 2021, 2024, Microsoft 365 using a 260 KB installer. (1 day ago)
+- [asheroto/winget-install](https://github.com/asheroto/winget-install) - Install WinGet using PowerShell! Prerequisites automatically installed. Works on Windows 10/11 and Server 2019/2022. (1 day ago)
 
 ## 🔨 Latest Pull Requests I published
