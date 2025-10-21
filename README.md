@@ -46,23 +46,23 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
-- [AuJUngZ](https://github.com/AuJUngZ)
-- [qtaghdi](https://github.com/qtaghdi)
-- [muhammad1966](https://github.com/muhammad1966)
-- [ericagaffud](https://github.com/ericagaffud)
-- [REDKAYLMAO](https://github.com/REDKAYLMAO)
-- [mete0rfish](https://github.com/mete0rfish)
-- [wonyangs](https://github.com/wonyangs)
-- [shahriar-rahman](https://github.com/shahriar-rahman)
-- [OLuizFernando](https://github.com/OLuizFernando)
-- [Hanae-Iken](https://github.com/Hanae-Iken)
+- [kehoecj](https://github.com/kehoecj)
+- [farshad-intgrt](https://github.com/farshad-intgrt)
+- [ikartiksh](https://github.com/ikartiksh)
+- [rdghostmann](https://github.com/rdghostmann)
+- [moodybIues](https://github.com/moodybIues)
+- [psibot](https://github.com/psibot)
+- [Goal651](https://github.com/Goal651)
+- [Hantan1080](https://github.com/Hantan1080)
+- [matinft7](https://github.com/matinft7)
+- [redmsqt](https://github.com/redmsqt)
 
 ## ⭐ Recent stars
 
-- [Jimskapt/rust-book-fr](https://github.com/Jimskapt/rust-book-fr) - :fr: French translation of the book "The Rust Programming Language" (today)
-- [Goz3rr/SatisfactorySaveEditor](https://github.com/Goz3rr/SatisfactorySaveEditor) (today)
-- [saucecode/threejs-demos](https://github.com/saucecode/threejs-demos) (1 day ago)
-- [Laupetin/OpenAssetTools](https://github.com/Laupetin/OpenAssetTools) - Open Source Modding Tools for old Call Of Duty games (1 day ago)
-- [swdee/go-rknnlite](https://github.com/swdee/go-rknnlite) - CGO bindings to RKNN-Toolkit2 to perform Inferencing in Go on Rockchip NPU (1 day ago)
+- [rohanarun/Open-Agent-Studio](https://github.com/rohanarun/Open-Agent-Studio) (today)
+- [arpit-omprakash/Byte-Sized-Code](https://github.com/arpit-omprakash/Byte-Sized-Code) - A collection of Jupyter notebooks for learning Python from the ground up. (today)
+- [arpit-omprakash/100ProjectsOfCode](https://github.com/arpit-omprakash/100ProjectsOfCode) - A list of practical knowledge-building projects. (today)
+- [pepecoinppc/pepecoin](https://github.com/pepecoinppc/pepecoin) - Pepecoin is the world's first fully decentralized and secure blockchain for Pepe. (today)
+- [cx20/gltf-test](https://github.com/cx20/gltf-test) - Testing the glTF Loader and WebGL Library (today)
 
 ## 🔨 Latest Pull Requests I published
