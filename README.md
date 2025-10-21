@@ -33,7 +33,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👷 Check out what I'm currently working on
 
-- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (1 day ago)
+- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (2 days ago)
 - [nctl-io/nctl-branding](https://github.com/nctl-io/nctl-branding) - NCTL Branding 🖼️: Centralized assets and guidelines for consistent visual identity across NCTL projects and platforms. (1 week ago)
 - [nctl-io/nctl-homepage](https://github.com/nctl-io/nctl-homepage) - 🚀 Modern homepage for NCTL: fast, responsive, TypeScript-powered, open source, and easy to customize. (1 week ago)
 - [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) - 🚀 All-in-one CLI toolkit for developers: scaffold, manage, automate, and boost productivity across languages! (3 weeks ago)
@@ -46,23 +46,23 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
-- [choyeongju](https://github.com/choyeongju)
-- [justn-hyeok](https://github.com/justn-hyeok)
-- [Motelek12](https://github.com/Motelek12)
-- [dangbichs88894](https://github.com/dangbichs88894)
-- [nathadriele](https://github.com/nathadriele)
-- [farhanafaiz03](https://github.com/farhanafaiz03)
-- [NurullaBackEnd](https://github.com/NurullaBackEnd)
-- [lerkush](https://github.com/lerkush)
-- [famably](https://github.com/famably)
-- [Igor0Pires](https://github.com/Igor0Pires)
+- [AuJUngZ](https://github.com/AuJUngZ)
+- [qtaghdi](https://github.com/qtaghdi)
+- [muhammad1966](https://github.com/muhammad1966)
+- [ericagaffud](https://github.com/ericagaffud)
+- [REDKAYLMAO](https://github.com/REDKAYLMAO)
+- [mete0rfish](https://github.com/mete0rfish)
+- [wonyangs](https://github.com/wonyangs)
+- [shahriar-rahman](https://github.com/shahriar-rahman)
+- [OLuizFernando](https://github.com/OLuizFernando)
+- [Hanae-Iken](https://github.com/Hanae-Iken)
 
 ## ⭐ Recent stars
 
-- [kyhsa93/nestjs-rest-cqrs-example](https://github.com/kyhsa93/nestjs-rest-cqrs-example) - Example for Nest.js, MySQL, Redis, REST api, CQRS, DDD (today)
-- [alialbaali/Noto](https://github.com/alialbaali/Noto) - Minimal Note-Taking App (today)
-- [axfree/DaumMovie.bundle](https://github.com/axfree/DaumMovie.bundle) - Plex Metadata Agent for movie.daum.net (today)
-- [finixbit/elf-parser](https://github.com/finixbit/elf-parser) - Lightweight elf binary parser with no external dependencies - Sections, Symbols, Relocations, Segments  (1 day ago)
-- [hhurz/tableExport.jquery.plugin](https://github.com/hhurz/tableExport.jquery.plugin) - jQuery plugin to export a html table to JSON, XML, CSV, TSV, TXT, SQL, Word, Excel, PNG and PDF (1 day ago)
+- [Jimskapt/rust-book-fr](https://github.com/Jimskapt/rust-book-fr) - :fr: French translation of the book "The Rust Programming Language" (today)
+- [Goz3rr/SatisfactorySaveEditor](https://github.com/Goz3rr/SatisfactorySaveEditor) (today)
+- [saucecode/threejs-demos](https://github.com/saucecode/threejs-demos) (1 day ago)
+- [Laupetin/OpenAssetTools](https://github.com/Laupetin/OpenAssetTools) - Open Source Modding Tools for old Call Of Duty games (1 day ago)
+- [swdee/go-rknnlite](https://github.com/swdee/go-rknnlite) - CGO bindings to RKNN-Toolkit2 to perform Inferencing in Go on Rockchip NPU (1 day ago)
 
 ## 🔨 Latest Pull Requests I published
