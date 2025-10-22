@@ -46,23 +46,23 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
-- [brandonT2002](https://github.com/brandonT2002)
-- [Bu-Du-Dak](https://github.com/Bu-Du-Dak)
-- [tosinchukwu](https://github.com/tosinchukwu)
-- [dnslfkrh](https://github.com/dnslfkrh)
-- [zerstorungswalze](https://github.com/zerstorungswalze)
-- [Minna-Cross](https://github.com/Minna-Cross)
-- [gruszkaa1](https://github.com/gruszkaa1)
-- [kayua](https://github.com/kayua)
-- [felipemacedo1](https://github.com/felipemacedo1)
-- [fatintroj](https://github.com/fatintroj)
+- [dancekitti](https://github.com/dancekitti)
+- [GuilhermeNobrega](https://github.com/GuilhermeNobrega)
+- [SeBin-Kwon](https://github.com/SeBin-Kwon)
+- [senafrakara](https://github.com/senafrakara)
+- [ByteSizedLaw](https://github.com/ByteSizedLaw)
+- [emmakol-dev](https://github.com/emmakol-dev)
+- [IsraelIyke](https://github.com/IsraelIyke)
+- [mkiziltay](https://github.com/mkiziltay)
+- [iamsonukj](https://github.com/iamsonukj)
+- [AhmadReza-G](https://github.com/AhmadReza-G)
 
 ## ⭐ Recent stars
 
-- [InceptionCode/Functional-Programming-Exercises](https://github.com/InceptionCode/Functional-Programming-Exercises) - My personal exercises from Kyle Simpson functional light book. (1 day ago)
-- [icowan/shorter](https://github.com/icowan/shorter) - 短链小工具 (1 day ago)
-- [AdityaMulgundkar/flutter_opencv](https://github.com/AdityaMulgundkar/flutter_opencv) - Flutter plug-in providing (a few) basic bindings to OpenCV-4.x. OpenCV methods implemented without the Core packages. WIP. (1 day ago)
-- [themadcreator/gifler](https://github.com/themadcreator/gifler) - Render GIF frames to canvas (1 day ago)
-- [themadcreator/seen](https://github.com/themadcreator/seen) - Render 3D scenes into SVG or HTML5 Canvas. (1 day ago)
+- [reedrosenbluth/oscen](https://github.com/reedrosenbluth/oscen) - Rust Audio Programming Library (today)
+- [troyth/node-raspicam](https://github.com/troyth/node-raspicam) - A Node.js-based controller module for the Raspberry Pi camera based on a command structure similar to Johnny-Five (today)
+- [wh00hw/pyFlipper](https://github.com/wh00hw/pyFlipper) - Flipper Zero Python CLI Wrapper (today)
+- [RushikeshKamewar/PrivacyDashboard](https://github.com/RushikeshKamewar/PrivacyDashboard) (today)
+- [accumulator/charge-lnd](https://github.com/accumulator/charge-lnd) - charge-lnd is a simple policy based fee manager for LND. With this tool you can set fees to autobalance, recover channel open costs, use on-chain fees as reference, use channel activity to determine fees or just use static fees. (today)
 
 ## 🔨 Latest Pull Requests I published
