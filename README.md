@@ -33,10 +33,10 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👷 Check out what I'm currently working on
 
-- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (2 days ago)
+- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (3 days ago)
 - [nctl-io/nctl-branding](https://github.com/nctl-io/nctl-branding) - NCTL Branding 🖼️: Centralized assets and guidelines for consistent visual identity across NCTL projects and platforms. (1 week ago)
 - [nctl-io/nctl-homepage](https://github.com/nctl-io/nctl-homepage) - 🚀 Modern homepage for NCTL: fast, responsive, TypeScript-powered, open source, and easy to customize. (1 week ago)
-- [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) - 🚀 All-in-one CLI toolkit for developers: scaffold, manage, automate, and boost productivity across languages! (3 weeks ago)
+- [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) - 🚀 All-in-one CLI toolkit for developers: scaffold, manage, automate, and boost productivity across languages! (4 weeks ago)
 - [lamhaison/aws-cli-utils](https://github.com/lamhaison/aws-cli-utils) - This is the project to collect helpful aws cli commandline with complex options to support your working (1 month ago)
 - [trinhminhtriet/dwipe](https://github.com/trinhminhtriet/dwipe) - 🧹 Fast, cross-platform disk cleanup tool with interactive UI for easy directory size visualization. (1 month ago)
 - [nctl-io/nctl-roadmap](https://github.com/nctl-io/nctl-roadmap) (1 month ago)
@@ -46,23 +46,23 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
-- [kehoecj](https://github.com/kehoecj)
-- [farshad-intgrt](https://github.com/farshad-intgrt)
-- [ikartiksh](https://github.com/ikartiksh)
-- [rdghostmann](https://github.com/rdghostmann)
-- [moodybIues](https://github.com/moodybIues)
-- [psibot](https://github.com/psibot)
-- [Goal651](https://github.com/Goal651)
-- [Hantan1080](https://github.com/Hantan1080)
-- [matinft7](https://github.com/matinft7)
-- [redmsqt](https://github.com/redmsqt)
+- [brandonT2002](https://github.com/brandonT2002)
+- [Bu-Du-Dak](https://github.com/Bu-Du-Dak)
+- [tosinchukwu](https://github.com/tosinchukwu)
+- [dnslfkrh](https://github.com/dnslfkrh)
+- [zerstorungswalze](https://github.com/zerstorungswalze)
+- [Minna-Cross](https://github.com/Minna-Cross)
+- [gruszkaa1](https://github.com/gruszkaa1)
+- [kayua](https://github.com/kayua)
+- [felipemacedo1](https://github.com/felipemacedo1)
+- [fatintroj](https://github.com/fatintroj)
 
 ## ⭐ Recent stars
 
-- [rohanarun/Open-Agent-Studio](https://github.com/rohanarun/Open-Agent-Studio) (today)
-- [arpit-omprakash/Byte-Sized-Code](https://github.com/arpit-omprakash/Byte-Sized-Code) - A collection of Jupyter notebooks for learning Python from the ground up. (today)
-- [arpit-omprakash/100ProjectsOfCode](https://github.com/arpit-omprakash/100ProjectsOfCode) - A list of practical knowledge-building projects. (today)
-- [pepecoinppc/pepecoin](https://github.com/pepecoinppc/pepecoin) - Pepecoin is the world's first fully decentralized and secure blockchain for Pepe. (today)
-- [cx20/gltf-test](https://github.com/cx20/gltf-test) - Testing the glTF Loader and WebGL Library (today)
+- [InceptionCode/Functional-Programming-Exercises](https://github.com/InceptionCode/Functional-Programming-Exercises) - My personal exercises from Kyle Simpson functional light book. (1 day ago)
+- [icowan/shorter](https://github.com/icowan/shorter) - 短链小工具 (1 day ago)
+- [AdityaMulgundkar/flutter_opencv](https://github.com/AdityaMulgundkar/flutter_opencv) - Flutter plug-in providing (a few) basic bindings to OpenCV-4.x. OpenCV methods implemented without the Core packages. WIP. (1 day ago)
+- [themadcreator/gifler](https://github.com/themadcreator/gifler) - Render GIF frames to canvas (1 day ago)
+- [themadcreator/seen](https://github.com/themadcreator/seen) - Render 3D scenes into SVG or HTML5 Canvas. (1 day ago)
 
 ## 🔨 Latest Pull Requests I published
