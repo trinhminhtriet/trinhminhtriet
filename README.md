@@ -33,7 +33,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👷 Check out what I'm currently working on
 
-- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (3 days ago)
+- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (4 days ago)
 - [nctl-io/nctl-branding](https://github.com/nctl-io/nctl-branding) - NCTL Branding 🖼️: Centralized assets and guidelines for consistent visual identity across NCTL projects and platforms. (1 week ago)
 - [nctl-io/nctl-homepage](https://github.com/nctl-io/nctl-homepage) - 🚀 Modern homepage for NCTL: fast, responsive, TypeScript-powered, open source, and easy to customize. (1 week ago)
 - [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) - 🚀 All-in-one CLI toolkit for developers: scaffold, manage, automate, and boost productivity across languages! (4 weeks ago)
@@ -42,27 +42,27 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [nctl-io/nctl-roadmap](https://github.com/nctl-io/nctl-roadmap) (1 month ago)
 - [nctl-io/.github](https://github.com/nctl-io/.github) - 🌐 Network. Connect. Transform. Lead. (1 month ago)
 - [trinhminhtriet/sizr](https://github.com/trinhminhtriet/sizr) - 📈 A fast, Rust-based tool to analyze file system usage with colorful output, file aggregation, exclusions, and directory comparisons. (1 month ago)
-- [rust-rs/tabler](https://github.com/rust-rs/tabler) - 📊 Tabler: A lightweight TUI tool to view, query, and navigate CSV, TSV, and Parquet data files. (1 month ago)
+- [rust-rs/tabler](https://github.com/rust-rs/tabler) - 📊 Tabler: A lightweight TUI tool to view, query, and navigate CSV, TSV, and Parquet data files. (2 months ago)
 
 ## 👯 Check out my recent followers
 
-- [dancekitti](https://github.com/dancekitti)
-- [GuilhermeNobrega](https://github.com/GuilhermeNobrega)
-- [SeBin-Kwon](https://github.com/SeBin-Kwon)
-- [senafrakara](https://github.com/senafrakara)
-- [ByteSizedLaw](https://github.com/ByteSizedLaw)
-- [emmakol-dev](https://github.com/emmakol-dev)
-- [IsraelIyke](https://github.com/IsraelIyke)
-- [mkiziltay](https://github.com/mkiziltay)
-- [iamsonukj](https://github.com/iamsonukj)
-- [AhmadReza-G](https://github.com/AhmadReza-G)
+- [hyooeunn](https://github.com/hyooeunn)
+- [mun-jeong-min](https://github.com/mun-jeong-min)
+- [canesche](https://github.com/canesche)
+- [Maher-Elmair](https://github.com/Maher-Elmair)
+- [saadaltafofficial](https://github.com/saadaltafofficial)
+- [Fong-fong](https://github.com/Fong-fong)
+- [err0x1a](https://github.com/err0x1a)
+- [Vendor62](https://github.com/Vendor62)
+- [steiningerd](https://github.com/steiningerd)
+- [g1f1](https://github.com/g1f1)
 
 ## ⭐ Recent stars
 
-- [reedrosenbluth/oscen](https://github.com/reedrosenbluth/oscen) - Rust Audio Programming Library (today)
-- [troyth/node-raspicam](https://github.com/troyth/node-raspicam) - A Node.js-based controller module for the Raspberry Pi camera based on a command structure similar to Johnny-Five (today)
-- [wh00hw/pyFlipper](https://github.com/wh00hw/pyFlipper) - Flipper Zero Python CLI Wrapper (today)
-- [RushikeshKamewar/PrivacyDashboard](https://github.com/RushikeshKamewar/PrivacyDashboard) (today)
-- [accumulator/charge-lnd](https://github.com/accumulator/charge-lnd) - charge-lnd is a simple policy based fee manager for LND. With this tool you can set fees to autobalance, recover channel open costs, use on-chain fees as reference, use channel activity to determine fees or just use static fees. (today)
+- [ranlo/osintsummit-2023-resources](https://github.com/ranlo/osintsummit-2023-resources) - A categorized list of resources presented during the 2023 Sans OSINTSummit (1 day ago)
+- [Mardaneus86/futwebapp-tampermonkey](https://github.com/Mardaneus86/futwebapp-tampermonkey) - TamperMonkey scripts to enhance the FUT 21 Web App - Discontinued (1 day ago)
+- [go-resty/resty](https://github.com/go-resty/resty) - Simple HTTP, REST, and SSE client library for Go (1 day ago)
+- [Archie3d/aeolus_plugin](https://github.com/Archie3d/aeolus_plugin) - Pipe organ synthesizer (VST plugin) (1 day ago)
+- [Archie3d/qpdf](https://github.com/Archie3d/qpdf) - PDF viewer widget for Qt (1 day ago)
 
 ## 🔨 Latest Pull Requests I published
