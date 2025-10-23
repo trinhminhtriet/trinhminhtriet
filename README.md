@@ -46,23 +46,23 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
-- [hyooeunn](https://github.com/hyooeunn)
-- [mun-jeong-min](https://github.com/mun-jeong-min)
-- [canesche](https://github.com/canesche)
-- [Maher-Elmair](https://github.com/Maher-Elmair)
-- [saadaltafofficial](https://github.com/saadaltafofficial)
-- [Fong-fong](https://github.com/Fong-fong)
-- [err0x1a](https://github.com/err0x1a)
-- [Vendor62](https://github.com/Vendor62)
-- [steiningerd](https://github.com/steiningerd)
-- [g1f1](https://github.com/g1f1)
+- [athavus](https://github.com/athavus)
+- [Shawn-Son](https://github.com/Shawn-Son)
+- [ashrafutuyubahe](https://github.com/ashrafutuyubahe)
+- [SeniyaGaje](https://github.com/SeniyaGaje)
+- [Dominion116](https://github.com/Dominion116)
+- [RaFeltrim](https://github.com/RaFeltrim)
+- [CODERUDRA-X](https://github.com/CODERUDRA-X)
+- [luigicfilho](https://github.com/luigicfilho)
+- [heitorpcrl](https://github.com/heitorpcrl)
+- [pazfelipe](https://github.com/pazfelipe)
 
 ## ⭐ Recent stars
 
+- [Yogndrr/MERN-School-Management-System](https://github.com/Yogndrr/MERN-School-Management-System) - MERN stack app. Streamline school management, class organization, and add students and faculty. Seamlessly track attendance, assess performance, and provide feedback. Access records, view marks, and communicate effortlessly. (today)
+- [Wurthma/CSharp-Iniciantes](https://github.com/Wurthma/CSharp-Iniciantes) - Lista de exercícios práticos em C Sharp (today)
 - [ranlo/osintsummit-2023-resources](https://github.com/ranlo/osintsummit-2023-resources) - A categorized list of resources presented during the 2023 Sans OSINTSummit (1 day ago)
 - [Mardaneus86/futwebapp-tampermonkey](https://github.com/Mardaneus86/futwebapp-tampermonkey) - TamperMonkey scripts to enhance the FUT 21 Web App - Discontinued (1 day ago)
 - [go-resty/resty](https://github.com/go-resty/resty) - Simple HTTP, REST, and SSE client library for Go (1 day ago)
-- [Archie3d/aeolus_plugin](https://github.com/Archie3d/aeolus_plugin) - Pipe organ synthesizer (VST plugin) (1 day ago)
-- [Archie3d/qpdf](https://github.com/Archie3d/qpdf) - PDF viewer widget for Qt (1 day ago)
 
 ## 🔨 Latest Pull Requests I published
