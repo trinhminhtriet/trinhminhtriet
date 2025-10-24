@@ -33,36 +33,36 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👷 Check out what I'm currently working on
 
-- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (4 days ago)
+- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (5 days ago)
 - [nctl-io/nctl-branding](https://github.com/nctl-io/nctl-branding) - NCTL Branding 🖼️: Centralized assets and guidelines for consistent visual identity across NCTL projects and platforms. (1 week ago)
 - [nctl-io/nctl-homepage](https://github.com/nctl-io/nctl-homepage) - 🚀 Modern homepage for NCTL: fast, responsive, TypeScript-powered, open source, and easy to customize. (1 week ago)
-- [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) - 🚀 All-in-one CLI toolkit for developers: scaffold, manage, automate, and boost productivity across languages! (4 weeks ago)
+- [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) - 🚀 All-in-one CLI toolkit for developers: scaffold, manage, automate, and boost productivity across languages! (1 month ago)
 - [lamhaison/aws-cli-utils](https://github.com/lamhaison/aws-cli-utils) - This is the project to collect helpful aws cli commandline with complex options to support your working (1 month ago)
 - [trinhminhtriet/dwipe](https://github.com/trinhminhtriet/dwipe) - 🧹 Fast, cross-platform disk cleanup tool with interactive UI for easy directory size visualization. (1 month ago)
 - [nctl-io/nctl-roadmap](https://github.com/nctl-io/nctl-roadmap) (1 month ago)
 - [nctl-io/.github](https://github.com/nctl-io/.github) - 🌐 Network. Connect. Transform. Lead. (1 month ago)
-- [trinhminhtriet/sizr](https://github.com/trinhminhtriet/sizr) - 📈 A fast, Rust-based tool to analyze file system usage with colorful output, file aggregation, exclusions, and directory comparisons. (1 month ago)
+- [trinhminhtriet/sizr](https://github.com/trinhminhtriet/sizr) - 📈 A fast, Rust-based tool to analyze file system usage with colorful output, file aggregation, exclusions, and directory comparisons. (2 months ago)
 - [rust-rs/tabler](https://github.com/rust-rs/tabler) - 📊 Tabler: A lightweight TUI tool to view, query, and navigate CSV, TSV, and Parquet data files. (2 months ago)
 
 ## 👯 Check out my recent followers
 
-- [athavus](https://github.com/athavus)
-- [Shawn-Son](https://github.com/Shawn-Son)
-- [ashrafutuyubahe](https://github.com/ashrafutuyubahe)
-- [SeniyaGaje](https://github.com/SeniyaGaje)
-- [Dominion116](https://github.com/Dominion116)
-- [RaFeltrim](https://github.com/RaFeltrim)
-- [CODERUDRA-X](https://github.com/CODERUDRA-X)
-- [luigicfilho](https://github.com/luigicfilho)
-- [heitorpcrl](https://github.com/heitorpcrl)
-- [pazfelipe](https://github.com/pazfelipe)
+- [Priyanka20067](https://github.com/Priyanka20067)
+- [Harang-Dev](https://github.com/Harang-Dev)
+- [Angelo-Eyama](https://github.com/Angelo-Eyama)
+- [amer-deiri](https://github.com/amer-deiri)
+- [MaxsuelOliveira](https://github.com/MaxsuelOliveira)
+- [Franciele-Santos-Silva](https://github.com/Franciele-Santos-Silva)
+- [helomt](https://github.com/helomt)
+- [abderrahmane-laourf](https://github.com/abderrahmane-laourf)
+- [Junior-Stranner](https://github.com/Junior-Stranner)
+- [loeclos](https://github.com/loeclos)
 
 ## ⭐ Recent stars
 
-- [Yogndrr/MERN-School-Management-System](https://github.com/Yogndrr/MERN-School-Management-System) - MERN stack app. Streamline school management, class organization, and add students and faculty. Seamlessly track attendance, assess performance, and provide feedback. Access records, view marks, and communicate effortlessly. (today)
-- [Wurthma/CSharp-Iniciantes](https://github.com/Wurthma/CSharp-Iniciantes) - Lista de exercícios práticos em C Sharp (today)
-- [ranlo/osintsummit-2023-resources](https://github.com/ranlo/osintsummit-2023-resources) - A categorized list of resources presented during the 2023 Sans OSINTSummit (1 day ago)
-- [Mardaneus86/futwebapp-tampermonkey](https://github.com/Mardaneus86/futwebapp-tampermonkey) - TamperMonkey scripts to enhance the FUT 21 Web App - Discontinued (1 day ago)
-- [go-resty/resty](https://github.com/go-resty/resty) - Simple HTTP, REST, and SSE client library for Go (1 day ago)
+- [trinhminhtriet/path-finding](https://github.com/trinhminhtriet/path-finding) - 🚀 Interactive pathfinding app using React, Deck.gl, and MapLibre for visualizing routes and geospatial data. (1 day ago)
+- [liuanlin-mx/MXTune](https://github.com/liuanlin-mx/MXTune) - pitch correction plugin for VST (1 day ago)
+- [Yogndrr/MERN-School-Management-System](https://github.com/Yogndrr/MERN-School-Management-System) - MERN stack app. Streamline school management, class organization, and add students and faculty. Seamlessly track attendance, assess performance, and provide feedback. Access records, view marks, and communicate effortlessly. (1 day ago)
+- [Wurthma/CSharp-Iniciantes](https://github.com/Wurthma/CSharp-Iniciantes) - Lista de exercícios práticos em C Sharp (1 day ago)
+- [ranlo/osintsummit-2023-resources](https://github.com/ranlo/osintsummit-2023-resources) - A categorized list of resources presented during the 2023 Sans OSINTSummit (2 days ago)
 
 ## 🔨 Latest Pull Requests I published
