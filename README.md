@@ -46,16 +46,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
-- [Priyanka20067](https://github.com/Priyanka20067)
-- [Harang-Dev](https://github.com/Harang-Dev)
-- [Angelo-Eyama](https://github.com/Angelo-Eyama)
-- [amer-deiri](https://github.com/amer-deiri)
-- [MaxsuelOliveira](https://github.com/MaxsuelOliveira)
-- [Franciele-Santos-Silva](https://github.com/Franciele-Santos-Silva)
-- [helomt](https://github.com/helomt)
-- [abderrahmane-laourf](https://github.com/abderrahmane-laourf)
-- [Junior-Stranner](https://github.com/Junior-Stranner)
-- [loeclos](https://github.com/loeclos)
+- [angelosstampoulisgithub](https://github.com/angelosstampoulisgithub)
+- [Hiras1388](https://github.com/Hiras1388)
+- [Dmytro1991ua](https://github.com/Dmytro1991ua)
+- [ahnshy](https://github.com/ahnshy)
+- [ozkanbtc](https://github.com/ozkanbtc)
+- [form-asap](https://github.com/form-asap)
+- [REIJISAKAMAKI](https://github.com/REIJISAKAMAKI)
+- [godiya-png](https://github.com/godiya-png)
+- [0Anish0](https://github.com/0Anish0)
+- [yujin5701](https://github.com/yujin5701)
 
 ## ⭐ Recent stars
 
