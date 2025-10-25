@@ -33,7 +33,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👷 Check out what I'm currently working on
 
-- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (5 days ago)
+- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (6 days ago)
 - [nctl-io/nctl-branding](https://github.com/nctl-io/nctl-branding) - NCTL Branding 🖼️: Centralized assets and guidelines for consistent visual identity across NCTL projects and platforms. (1 week ago)
 - [nctl-io/nctl-homepage](https://github.com/nctl-io/nctl-homepage) - 🚀 Modern homepage for NCTL: fast, responsive, TypeScript-powered, open source, and easy to customize. (1 week ago)
 - [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) - 🚀 All-in-one CLI toolkit for developers: scaffold, manage, automate, and boost productivity across languages! (1 month ago)
@@ -46,23 +46,23 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
-- [angelosstampoulisgithub](https://github.com/angelosstampoulisgithub)
-- [Hiras1388](https://github.com/Hiras1388)
-- [Dmytro1991ua](https://github.com/Dmytro1991ua)
-- [ahnshy](https://github.com/ahnshy)
-- [ozkanbtc](https://github.com/ozkanbtc)
-- [form-asap](https://github.com/form-asap)
-- [REIJISAKAMAKI](https://github.com/REIJISAKAMAKI)
-- [godiya-png](https://github.com/godiya-png)
-- [0Anish0](https://github.com/0Anish0)
-- [yujin5701](https://github.com/yujin5701)
+- [ishandutta2007](https://github.com/ishandutta2007)
+- [armanfm](https://github.com/armanfm)
+- [shahriar-rahman](https://github.com/shahriar-rahman)
+- [wesleyosantos91](https://github.com/wesleyosantos91)
+- [Winfredo](https://github.com/Winfredo)
+- [ramackersjp](https://github.com/ramackersjp)
+- [0xmainak](https://github.com/0xmainak)
+- [Gabrielsoac](https://github.com/Gabrielsoac)
+- [KryptoSmerf](https://github.com/KryptoSmerf)
+- [Iuanamagalhaes](https://github.com/Iuanamagalhaes)
 
 ## ⭐ Recent stars
 
-- [trinhminhtriet/path-finding](https://github.com/trinhminhtriet/path-finding) - 🚀 Interactive pathfinding app using React, Deck.gl, and MapLibre for visualizing routes and geospatial data. (1 day ago)
-- [liuanlin-mx/MXTune](https://github.com/liuanlin-mx/MXTune) - pitch correction plugin for VST (1 day ago)
-- [Yogndrr/MERN-School-Management-System](https://github.com/Yogndrr/MERN-School-Management-System) - MERN stack app. Streamline school management, class organization, and add students and faculty. Seamlessly track attendance, assess performance, and provide feedback. Access records, view marks, and communicate effortlessly. (1 day ago)
-- [Wurthma/CSharp-Iniciantes](https://github.com/Wurthma/CSharp-Iniciantes) - Lista de exercícios práticos em C Sharp (1 day ago)
-- [ranlo/osintsummit-2023-resources](https://github.com/ranlo/osintsummit-2023-resources) - A categorized list of resources presented during the 2023 Sans OSINTSummit (2 days ago)
+- [GregUtas/robust-services-core](https://github.com/GregUtas/robust-services-core) - Robust applications framework in C++.  Includes a static analysis tool and two applications. (1 day ago)
+- [paunin/PostDock](https://github.com/paunin/PostDock) - PostDock - Postgres & Docker - Postgres streaming replication cluster for any docker environment (1 day ago)
+- [nbonamy/witsy](https://github.com/nbonamy/witsy) - Witsy: desktop AI assistant / universal MCP client (1 day ago)
+- [trinhminhtriet/path-finding](https://github.com/trinhminhtriet/path-finding) - 🚀 Interactive pathfinding app using React, Deck.gl, and MapLibre for visualizing routes and geospatial data. (2 days ago)
+- [liuanlin-mx/MXTune](https://github.com/liuanlin-mx/MXTune) - pitch correction plugin for VST (2 days ago)
 
 ## 🔨 Latest Pull Requests I published
