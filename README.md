@@ -46,23 +46,23 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [EricSumartian](https://github.com/EricSumartian)
+- [VincentBanda010](https://github.com/VincentBanda010)
+- [Bilal9275](https://github.com/Bilal9275)
+- [anttiromppanen](https://github.com/anttiromppanen)
+- [cgaritac](https://github.com/cgaritac)
+- [novaesdg](https://github.com/novaesdg)
+- [devidisaitabau91-dotcom](https://github.com/devidisaitabau91-dotcom)
+- [Giannasaurus](https://github.com/Giannasaurus)
+- [leewr9](https://github.com/leewr9)
 - [ishandutta2007](https://github.com/ishandutta2007)
-- [armanfm](https://github.com/armanfm)
-- [shahriar-rahman](https://github.com/shahriar-rahman)
-- [wesleyosantos91](https://github.com/wesleyosantos91)
-- [Winfredo](https://github.com/Winfredo)
-- [ramackersjp](https://github.com/ramackersjp)
-- [0xmainak](https://github.com/0xmainak)
-- [Gabrielsoac](https://github.com/Gabrielsoac)
-- [KryptoSmerf](https://github.com/KryptoSmerf)
-- [Iuanamagalhaes](https://github.com/Iuanamagalhaes)
 
 ## ⭐ Recent stars
 
-- [GregUtas/robust-services-core](https://github.com/GregUtas/robust-services-core) - Robust applications framework in C++.  Includes a static analysis tool and two applications. (1 day ago)
-- [paunin/PostDock](https://github.com/paunin/PostDock) - PostDock - Postgres & Docker - Postgres streaming replication cluster for any docker environment (1 day ago)
-- [nbonamy/witsy](https://github.com/nbonamy/witsy) - Witsy: desktop AI assistant / universal MCP client (1 day ago)
-- [trinhminhtriet/path-finding](https://github.com/trinhminhtriet/path-finding) - 🚀 Interactive pathfinding app using React, Deck.gl, and MapLibre for visualizing routes and geospatial data. (2 days ago)
-- [liuanlin-mx/MXTune](https://github.com/liuanlin-mx/MXTune) - pitch correction plugin for VST (2 days ago)
+- [jaybaird/python-bloomfilter](https://github.com/jaybaird/python-bloomfilter) - Scalable Bloom Filter implemented in Python (today)
+- [isds-neu/EQDiscovery](https://github.com/isds-neu/EQDiscovery) - Physics-informed learning of governing equations from scarce data (today)
+- [isds-neu/PhyCRNet](https://github.com/isds-neu/PhyCRNet) - Physics-informed convolutional-recurrent neural networks for solving spatiotemporal PDEs (today)
+- [bdougherty/BigScreen](https://github.com/bdougherty/BigScreen) - A simple library for using the JavaScript Full Screen API. (today)
+- [mayognaise/aframe-mouse-cursor-component](https://github.com/mayognaise/aframe-mouse-cursor-component) - Mouse Cursor Component for A-Frame VR. (today)
 
 ## 🔨 Latest Pull Requests I published
