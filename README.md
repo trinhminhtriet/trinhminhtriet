@@ -33,36 +33,36 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👷 Check out what I'm currently working on
 
-- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (6 days ago)
-- [nctl-io/nctl-branding](https://github.com/nctl-io/nctl-branding) - NCTL Branding 🖼️: Centralized assets and guidelines for consistent visual identity across NCTL projects and platforms. (1 week ago)
-- [nctl-io/nctl-homepage](https://github.com/nctl-io/nctl-homepage) - 🚀 Modern homepage for NCTL: fast, responsive, TypeScript-powered, open source, and easy to customize. (1 week ago)
+- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (1 week ago)
+- [nctl-io/nctl-branding](https://github.com/nctl-io/nctl-branding) - NCTL Branding 🖼️: Centralized assets and guidelines for consistent visual identity across NCTL projects and platforms. (2 weeks ago)
+- [nctl-io/nctl-homepage](https://github.com/nctl-io/nctl-homepage) - 🚀 Modern homepage for NCTL: fast, responsive, TypeScript-powered, open source, and easy to customize. (2 weeks ago)
 - [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) - 🚀 All-in-one CLI toolkit for developers: scaffold, manage, automate, and boost productivity across languages! (1 month ago)
 - [lamhaison/aws-cli-utils](https://github.com/lamhaison/aws-cli-utils) - This is the project to collect helpful aws cli commandline with complex options to support your working (1 month ago)
 - [trinhminhtriet/dwipe](https://github.com/trinhminhtriet/dwipe) - 🧹 Fast, cross-platform disk cleanup tool with interactive UI for easy directory size visualization. (1 month ago)
 - [nctl-io/nctl-roadmap](https://github.com/nctl-io/nctl-roadmap) (1 month ago)
-- [nctl-io/.github](https://github.com/nctl-io/.github) - 🌐 Network. Connect. Transform. Lead. (1 month ago)
+- [nctl-io/.github](https://github.com/nctl-io/.github) - 🌐 Network. Connect. Transform. Lead. (2 months ago)
 - [trinhminhtriet/sizr](https://github.com/trinhminhtriet/sizr) - 📈 A fast, Rust-based tool to analyze file system usage with colorful output, file aggregation, exclusions, and directory comparisons. (2 months ago)
 - [rust-rs/tabler](https://github.com/rust-rs/tabler) - 📊 Tabler: A lightweight TUI tool to view, query, and navigate CSV, TSV, and Parquet data files. (2 months ago)
 
 ## 👯 Check out my recent followers
 
-- [EricSumartian](https://github.com/EricSumartian)
-- [VincentBanda010](https://github.com/VincentBanda010)
-- [Bilal9275](https://github.com/Bilal9275)
-- [anttiromppanen](https://github.com/anttiromppanen)
-- [cgaritac](https://github.com/cgaritac)
-- [novaesdg](https://github.com/novaesdg)
-- [devidisaitabau91-dotcom](https://github.com/devidisaitabau91-dotcom)
-- [Giannasaurus](https://github.com/Giannasaurus)
-- [leewr9](https://github.com/leewr9)
-- [ishandutta2007](https://github.com/ishandutta2007)
+- [AllanDutra](https://github.com/AllanDutra)
+- [jeansilvatech](https://github.com/jeansilvatech)
+- [tharun9772](https://github.com/tharun9772)
+- [NazmusSayad](https://github.com/NazmusSayad)
+- [foma4tune](https://github.com/foma4tune)
+- [4xiaxia](https://github.com/4xiaxia)
+- [MetaFlick](https://github.com/MetaFlick)
+- [eduardasbr](https://github.com/eduardasbr)
+- [HarrisonNjorogeEMTH](https://github.com/HarrisonNjorogeEMTH)
+- [djjaron](https://github.com/djjaron)
 
 ## ⭐ Recent stars
 
-- [jaybaird/python-bloomfilter](https://github.com/jaybaird/python-bloomfilter) - Scalable Bloom Filter implemented in Python (today)
-- [isds-neu/EQDiscovery](https://github.com/isds-neu/EQDiscovery) - Physics-informed learning of governing equations from scarce data (today)
-- [isds-neu/PhyCRNet](https://github.com/isds-neu/PhyCRNet) - Physics-informed convolutional-recurrent neural networks for solving spatiotemporal PDEs (today)
-- [bdougherty/BigScreen](https://github.com/bdougherty/BigScreen) - A simple library for using the JavaScript Full Screen API. (today)
-- [mayognaise/aframe-mouse-cursor-component](https://github.com/mayognaise/aframe-mouse-cursor-component) - Mouse Cursor Component for A-Frame VR. (today)
+- [ammargitham/WallFlow](https://github.com/ammargitham/WallFlow) - Wallpaper app for Android using Jetpack Compose (today)
+- [trbs/bucky](https://github.com/trbs/bucky) - UDP frontend to Graphite (today)
+- [windelicato/dotfiles](https://github.com/windelicato/dotfiles) - arch linux configuration files (1 day ago)
+- [cdaein/ssam](https://github.com/cdaein/ssam) - Ssam.js is a creative coding helper that provides animation loop, git snapshot, video export, time lapse and more. (1 day ago)
+- [lifution/FSTextView](https://github.com/lifution/FSTextView) - Custom TextView inherited from UITextView, with placeholder and maximum input characters limit. (1 day ago)
 
 ## 🔨 Latest Pull Requests I published
