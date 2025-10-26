@@ -33,7 +33,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👷 Check out what I'm currently working on
 
-- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (1 week ago)
+- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (today)
 - [nctl-io/nctl-branding](https://github.com/nctl-io/nctl-branding) - NCTL Branding 🖼️: Centralized assets and guidelines for consistent visual identity across NCTL projects and platforms. (2 weeks ago)
 - [nctl-io/nctl-homepage](https://github.com/nctl-io/nctl-homepage) - 🚀 Modern homepage for NCTL: fast, responsive, TypeScript-powered, open source, and easy to customize. (2 weeks ago)
 - [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) - 🚀 All-in-one CLI toolkit for developers: scaffold, manage, automate, and boost productivity across languages! (1 month ago)
@@ -46,23 +46,23 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
-- [AllanDutra](https://github.com/AllanDutra)
-- [jeansilvatech](https://github.com/jeansilvatech)
-- [tharun9772](https://github.com/tharun9772)
-- [NazmusSayad](https://github.com/NazmusSayad)
-- [foma4tune](https://github.com/foma4tune)
-- [4xiaxia](https://github.com/4xiaxia)
-- [MetaFlick](https://github.com/MetaFlick)
-- [eduardasbr](https://github.com/eduardasbr)
-- [HarrisonNjorogeEMTH](https://github.com/HarrisonNjorogeEMTH)
-- [djjaron](https://github.com/djjaron)
+- [gul251](https://github.com/gul251)
+- [Psyhackological](https://github.com/Psyhackological)
+- [MehdiKhoshnevisz](https://github.com/MehdiKhoshnevisz)
+- [BlaqLip](https://github.com/BlaqLip)
+- [Y3454R](https://github.com/Y3454R)
+- [z3roai](https://github.com/z3roai)
+- [mcw1217](https://github.com/mcw1217)
+- [milad-hub](https://github.com/milad-hub)
+- [MatheusHenriqueh](https://github.com/MatheusHenriqueh)
+- [alvesxdani](https://github.com/alvesxdani)
 
 ## ⭐ Recent stars
 
-- [ammargitham/WallFlow](https://github.com/ammargitham/WallFlow) - Wallpaper app for Android using Jetpack Compose (today)
-- [trbs/bucky](https://github.com/trbs/bucky) - UDP frontend to Graphite (today)
-- [windelicato/dotfiles](https://github.com/windelicato/dotfiles) - arch linux configuration files (1 day ago)
-- [cdaein/ssam](https://github.com/cdaein/ssam) - Ssam.js is a creative coding helper that provides animation loop, git snapshot, video export, time lapse and more. (1 day ago)
-- [lifution/FSTextView](https://github.com/lifution/FSTextView) - Custom TextView inherited from UITextView, with placeholder and maximum input characters limit. (1 day ago)
+- [VodBox/pyWinContext](https://github.com/VodBox/pyWinContext) - Manager for Custom Context Menus in Windows 7 and higher (today)
+- [nrootconauto/EXODUS](https://github.com/nrootconauto/EXODUS) - TempleOS in ring 3 (today)
+- [xLAva/JediAcademyLinux](https://github.com/xLAva/JediAcademyLinux) (today)
+- [xLAva/JediOutcastLinux](https://github.com/xLAva/JediOutcastLinux) (today)
+- [doomhack/GBADoom](https://github.com/doomhack/GBADoom) - A port of prBoom to the Nintendo GBA. (today)
 
 ## 🔨 Latest Pull Requests I published
