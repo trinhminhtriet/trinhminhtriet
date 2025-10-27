@@ -46,23 +46,23 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
-- [hwb0218](https://github.com/hwb0218)
-- [demaagro](https://github.com/demaagro)
-- [HamdySalah](https://github.com/HamdySalah)
-- [faalbuquerque](https://github.com/faalbuquerque)
-- [winterrdog](https://github.com/winterrdog)
-- [NzolaKiampava](https://github.com/NzolaKiampava)
-- [dmolik](https://github.com/dmolik)
-- [aleless](https://github.com/aleless)
-- [DevHawkNov](https://github.com/DevHawkNov)
-- [weitereigh](https://github.com/weitereigh)
+- [EmenegildoMarques0](https://github.com/EmenegildoMarques0)
+- [D-Bhatta](https://github.com/D-Bhatta)
+- [KabiriAbolfazl](https://github.com/KabiriAbolfazl)
+- [vahe-sargsyan2005](https://github.com/vahe-sargsyan2005)
+- [ddwang](https://github.com/ddwang)
+- [jefftrojan](https://github.com/jefftrojan)
+- [MutugiBrian](https://github.com/MutugiBrian)
+- [chidi-godwin](https://github.com/chidi-godwin)
+- [bagasdisini](https://github.com/bagasdisini)
+- [MinKhantNaung](https://github.com/MinKhantNaung)
 
 ## ⭐ Recent stars
 
+- [kilian-hu/hackerrank-solutions](https://github.com/kilian-hu/hackerrank-solutions) - A collection of solutions to competitive programming exercises on HackerRank. (today)
 - [Cmdv/React-RxJS](https://github.com/Cmdv/React-RxJS) - React + RxJs + React-Router + Webpack + babel and soon more (today)
 - [Cmdv/Essential-TDD-BDD-React-list](https://github.com/Cmdv/Essential-TDD-BDD-React-list) - List of all TDD / BDD React.js related tutorials / links / repos / slides (today)
 - [denyspoltorak/metapatterns](https://github.com/denyspoltorak/metapatterns) - Architectural Metapatterns book and wiki (1 day ago)
 - [GochoMugo/tgfancy](https://github.com/GochoMugo/tgfancy) - A Fancy, Higher-Level Wrapper for Telegram Bot API (1 day ago)
-- [angel-rs/css-color-filter-generator](https://github.com/angel-rs/css-color-filter-generator) - Generate custom css filter property to achieve any target color :art: (1 day ago)
 
 ## 🔨 Latest Pull Requests I published
