@@ -46,23 +46,23 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
-- [axelkrnwn](https://github.com/axelkrnwn)
-- [Rizki36](https://github.com/Rizki36)
-- [LoxAtlis](https://github.com/LoxAtlis)
-- [kingabduofficial](https://github.com/kingabduofficial)
-- [ishandutta2007](https://github.com/ishandutta2007)
-- [asdfgian](https://github.com/asdfgian)
-- [mig-2505](https://github.com/mig-2505)
-- [cibrx](https://github.com/cibrx)
-- [Khaled-Rahnama](https://github.com/Khaled-Rahnama)
-- [umitakbas82](https://github.com/umitakbas82)
+- [vilmapato](https://github.com/vilmapato)
+- [phamtoantn1](https://github.com/phamtoantn1)
+- [keowen375](https://github.com/keowen375)
+- [muheermaqbool](https://github.com/muheermaqbool)
+- [Kaizoku93](https://github.com/Kaizoku93)
+- [AhmetUtkuPelen](https://github.com/AhmetUtkuPelen)
+- [Abmstpha](https://github.com/Abmstpha)
+- [dehmivor](https://github.com/dehmivor)
+- [devinpapalangi](https://github.com/devinpapalangi)
+- [Ch1mpleo](https://github.com/Ch1mpleo)
 
 ## ⭐ Recent stars
 
-- [amsXYZ/three-fluid-sim](https://github.com/amsXYZ/three-fluid-sim) - 🌊✒️ 2D Fluid Simulation three.js implementation. (1 day ago)
-- [laksa19/mikhmonv3](https://github.com/laksa19/mikhmonv3) - MikroTik Hotspot Monitor V3 [MikroTik API PHP] (1 day ago)
-- [anasrar/ReNim](https://github.com/anasrar/ReNim) - Blender add-on node-based retarget animation (1 day ago)
-- [anasrar/Blender-UE4-Workspace](https://github.com/anasrar/Blender-UE4-Workspace) - Blender add-on for better workflow with unreal engine 4 (1 day ago)
-- [Yasher201/Bluetooth-DOS-Attack](https://github.com/Yasher201/Bluetooth-DOS-Attack) - Bluetooth DOS Attack Script for Educational Purposes. Used in School Project (1 day ago)
+- [woolen-sheep/md2report](https://github.com/woolen-sheep/md2report) - 一个用于将Markdown文件转换为可以直接提交给学校的docx实验报告/大作业报告/期末小论文的工具。 (today)
+- [wyx176/Socks5](https://github.com/wyx176/Socks5) - Socks5代理服务器搭建脚本/Socks5 shortcut creation script (today)
+- [wyx176/mockgps](https://github.com/wyx176/mockgps) - 虚拟定位、位置修改、支持最新安卓、支持ROOT (today)
+- [wyx176/nps-socks5](https://github.com/wyx176/nps-socks5) (today)
+- [Phenomite/AMP-Research](https://github.com/Phenomite/AMP-Research) - Research on UDP/TCP amplification vectors, payloads and mitigations against their use in DDoS Attacks (today)
 
 ## 🔨 Latest Pull Requests I published
