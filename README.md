@@ -33,7 +33,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👷 Check out what I'm currently working on
 
-- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (1 day ago)
+- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (2 days ago)
 - [nctl-io/nctl-homepage](https://github.com/nctl-io/nctl-homepage) - 🚀 Modern homepage for NCTL: fast, responsive, TypeScript-powered, open source, and easy to customize. (2 weeks ago)
 - [nctl-io/nctl-branding](https://github.com/nctl-io/nctl-branding) - NCTL Branding 🖼️: Centralized assets and guidelines for consistent visual identity across NCTL projects and platforms. (2 weeks ago)
 - [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) - 🚀 All-in-one CLI toolkit for developers: scaffold, manage, automate, and boost productivity across languages! (1 month ago)
@@ -46,23 +46,23 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
-- [EmenegildoMarques0](https://github.com/EmenegildoMarques0)
-- [D-Bhatta](https://github.com/D-Bhatta)
-- [KabiriAbolfazl](https://github.com/KabiriAbolfazl)
-- [vahe-sargsyan2005](https://github.com/vahe-sargsyan2005)
-- [ddwang](https://github.com/ddwang)
-- [jefftrojan](https://github.com/jefftrojan)
-- [MutugiBrian](https://github.com/MutugiBrian)
-- [chidi-godwin](https://github.com/chidi-godwin)
-- [bagasdisini](https://github.com/bagasdisini)
-- [MinKhantNaung](https://github.com/MinKhantNaung)
+- [axelkrnwn](https://github.com/axelkrnwn)
+- [Rizki36](https://github.com/Rizki36)
+- [LoxAtlis](https://github.com/LoxAtlis)
+- [kingabduofficial](https://github.com/kingabduofficial)
+- [ishandutta2007](https://github.com/ishandutta2007)
+- [asdfgian](https://github.com/asdfgian)
+- [mig-2505](https://github.com/mig-2505)
+- [cibrx](https://github.com/cibrx)
+- [Khaled-Rahnama](https://github.com/Khaled-Rahnama)
+- [umitakbas82](https://github.com/umitakbas82)
 
 ## ⭐ Recent stars
 
-- [kilian-hu/hackerrank-solutions](https://github.com/kilian-hu/hackerrank-solutions) - A collection of solutions to competitive programming exercises on HackerRank. (today)
-- [Cmdv/React-RxJS](https://github.com/Cmdv/React-RxJS) - React + RxJs + React-Router + Webpack + babel and soon more (today)
-- [Cmdv/Essential-TDD-BDD-React-list](https://github.com/Cmdv/Essential-TDD-BDD-React-list) - List of all TDD / BDD React.js related tutorials / links / repos / slides (today)
-- [denyspoltorak/metapatterns](https://github.com/denyspoltorak/metapatterns) - Architectural Metapatterns book and wiki (1 day ago)
-- [GochoMugo/tgfancy](https://github.com/GochoMugo/tgfancy) - A Fancy, Higher-Level Wrapper for Telegram Bot API (1 day ago)
+- [amsXYZ/three-fluid-sim](https://github.com/amsXYZ/three-fluid-sim) - 🌊✒️ 2D Fluid Simulation three.js implementation. (1 day ago)
+- [laksa19/mikhmonv3](https://github.com/laksa19/mikhmonv3) - MikroTik Hotspot Monitor V3 [MikroTik API PHP] (1 day ago)
+- [anasrar/ReNim](https://github.com/anasrar/ReNim) - Blender add-on node-based retarget animation (1 day ago)
+- [anasrar/Blender-UE4-Workspace](https://github.com/anasrar/Blender-UE4-Workspace) - Blender add-on for better workflow with unreal engine 4 (1 day ago)
+- [Yasher201/Bluetooth-DOS-Attack](https://github.com/Yasher201/Bluetooth-DOS-Attack) - Bluetooth DOS Attack Script for Educational Purposes. Used in School Project (1 day ago)
 
 ## 🔨 Latest Pull Requests I published
