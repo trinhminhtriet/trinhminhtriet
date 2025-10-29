@@ -46,23 +46,23 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [babubrjf](https://github.com/babubrjf)
+- [Agbajestephen](https://github.com/Agbajestephen)
+- [g3ngi](https://github.com/g3ngi)
+- [suchsleepyheadcookie](https://github.com/suchsleepyheadcookie)
+- [bimamib](https://github.com/bimamib)
+- [Bourne115](https://github.com/Bourne115)
+- [LiuCong2017](https://github.com/LiuCong2017)
+- [Lynnzy21](https://github.com/Lynnzy21)
+- [Tim-JEON](https://github.com/Tim-JEON)
 - [alfredomontes37826-ux](https://github.com/alfredomontes37826-ux)
-- [SUCC-UBUS](https://github.com/SUCC-UBUS)
-- [FauziSeptians](https://github.com/FauziSeptians)
-- [emrullahgit1](https://github.com/emrullahgit1)
-- [vahidefarzane](https://github.com/vahidefarzane)
-- [LuisFillipe1](https://github.com/LuisFillipe1)
-- [sanj2sanj](https://github.com/sanj2sanj)
-- [foxy1081](https://github.com/foxy1081)
-- [wecoded-dev](https://github.com/wecoded-dev)
-- [zhusonglai](https://github.com/zhusonglai)
 
 ## ⭐ Recent stars
 
-- [kmvan/x-prober](https://github.com/kmvan/x-prober) - 🐘 A probe program for PHP environment (一款精美的 PHP 探針, 又名X探針、劉海探針) (1 day ago)
-- [BWmelon/qrcode](https://github.com/BWmelon/qrcode) - qq微信支付宝三合一收款码在线生成、艺术创意二维码 (1 day ago)
-- [EzXxY/CF-IP](https://github.com/EzXxY/CF-IP) - 任意查询你想要的第三方CloudFlare反代IP及端口号 (1 day ago)
-- [ServenScorpion/VirtualApp](https://github.com/ServenScorpion/VirtualApp) - support  android 12 应用分身、模拟设备、模拟wifi、虚拟多开、钉钉打卡、企微打卡、插件开发、XP插件、模拟用户操作、java hook、c++ hook (1 day ago)
-- [csgo-adc/fk-gps](https://github.com/csgo-adc/fk-gps) - android虚拟定位应用，基于系统api，支持钉钉打卡 (1 day ago)
+- [TypeTale/TypeTale](https://github.com/TypeTale/TypeTale) - 字字动画 - 完全免费的AIGC视频生成软件，主要用于AI短剧，AI电影，小说推文 (today)
+- [solidSpoon/DashPlayer](https://github.com/solidSpoon/DashPlayer) - 为英语学习者量身打造的视频播放器，助你通过观看视频、沉浸真实语境，轻松提升英语水平。#美剧 #播放器 #听力 (today)
+- [ArvinLovegood/go-stock](https://github.com/ArvinLovegood/go-stock) - 🦄🦄🦄AI赋能股票分析：AI加持的股票分析/选股工具。股票行情获取，AI热点资讯分析，AI资金/财务分析，涨跌报警推送。支持A股，港股，美股。支持市场整体/个股情绪分析，AI辅助选股等。数据全部保留在本地。支持DeepSeek，OpenAI， Ollama，LMStudio，AnythingLLM，硅基流动，火山方舟，阿里云百炼等平台或模型。 (today)
+- [Brechtpd/base64](https://github.com/Brechtpd/base64) (today)
+- [vicwomg/pikaraoke](https://github.com/vicwomg/pikaraoke) - Youtube-based Karaoke machine for Raspberry Pi, OSX, Windows, and Linux (today)
 
 ## 🔨 Latest Pull Requests I published
