@@ -33,36 +33,36 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👷 Check out what I'm currently working on
 
-- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (2 days ago)
+- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (3 days ago)
 - [nctl-io/nctl-homepage](https://github.com/nctl-io/nctl-homepage) - 🚀 Modern homepage for NCTL: fast, responsive, TypeScript-powered, open source, and easy to customize. (2 weeks ago)
 - [nctl-io/nctl-branding](https://github.com/nctl-io/nctl-branding) - NCTL Branding 🖼️: Centralized assets and guidelines for consistent visual identity across NCTL projects and platforms. (2 weeks ago)
 - [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) - 🚀 All-in-one CLI toolkit for developers: scaffold, manage, automate, and boost productivity across languages! (1 month ago)
 - [lamhaison/aws-cli-utils](https://github.com/lamhaison/aws-cli-utils) - This is the project to collect helpful aws cli commandline with complex options to support your working (1 month ago)
 - [trinhminhtriet/dwipe](https://github.com/trinhminhtriet/dwipe) - 🧹 Fast, cross-platform disk cleanup tool with interactive UI for easy directory size visualization. (1 month ago)
-- [nctl-io/nctl-roadmap](https://github.com/nctl-io/nctl-roadmap) (1 month ago)
+- [nctl-io/nctl-roadmap](https://github.com/nctl-io/nctl-roadmap) (2 months ago)
 - [nctl-io/.github](https://github.com/nctl-io/.github) - 🌐 Network. Connect. Transform. Lead. (2 months ago)
 - [trinhminhtriet/sizr](https://github.com/trinhminhtriet/sizr) - 📈 A fast, Rust-based tool to analyze file system usage with colorful output, file aggregation, exclusions, and directory comparisons. (2 months ago)
 - [trinhminhtriet/blast](https://github.com/trinhminhtriet/blast) - 🚀 Blast: A powerful, lightweight HTTP load generator for stress testing and benchmarking web applications with ease. (2 months ago)
 
 ## 👯 Check out my recent followers
 
-- [vilmapato](https://github.com/vilmapato)
-- [phamtoantn1](https://github.com/phamtoantn1)
-- [keowen375](https://github.com/keowen375)
-- [muheermaqbool](https://github.com/muheermaqbool)
-- [Kaizoku93](https://github.com/Kaizoku93)
-- [AhmetUtkuPelen](https://github.com/AhmetUtkuPelen)
-- [Abmstpha](https://github.com/Abmstpha)
-- [dehmivor](https://github.com/dehmivor)
-- [devinpapalangi](https://github.com/devinpapalangi)
-- [Ch1mpleo](https://github.com/Ch1mpleo)
+- [alfredomontes37826-ux](https://github.com/alfredomontes37826-ux)
+- [SUCC-UBUS](https://github.com/SUCC-UBUS)
+- [FauziSeptians](https://github.com/FauziSeptians)
+- [emrullahgit1](https://github.com/emrullahgit1)
+- [vahidefarzane](https://github.com/vahidefarzane)
+- [LuisFillipe1](https://github.com/LuisFillipe1)
+- [sanj2sanj](https://github.com/sanj2sanj)
+- [foxy1081](https://github.com/foxy1081)
+- [wecoded-dev](https://github.com/wecoded-dev)
+- [zhusonglai](https://github.com/zhusonglai)
 
 ## ⭐ Recent stars
 
-- [woolen-sheep/md2report](https://github.com/woolen-sheep/md2report) - 一个用于将Markdown文件转换为可以直接提交给学校的docx实验报告/大作业报告/期末小论文的工具。 (today)
-- [wyx176/Socks5](https://github.com/wyx176/Socks5) - Socks5代理服务器搭建脚本/Socks5 shortcut creation script (today)
-- [wyx176/mockgps](https://github.com/wyx176/mockgps) - 虚拟定位、位置修改、支持最新安卓、支持ROOT (today)
-- [wyx176/nps-socks5](https://github.com/wyx176/nps-socks5) (today)
-- [Phenomite/AMP-Research](https://github.com/Phenomite/AMP-Research) - Research on UDP/TCP amplification vectors, payloads and mitigations against their use in DDoS Attacks (today)
+- [kmvan/x-prober](https://github.com/kmvan/x-prober) - 🐘 A probe program for PHP environment (一款精美的 PHP 探針, 又名X探針、劉海探針) (1 day ago)
+- [BWmelon/qrcode](https://github.com/BWmelon/qrcode) - qq微信支付宝三合一收款码在线生成、艺术创意二维码 (1 day ago)
+- [EzXxY/CF-IP](https://github.com/EzXxY/CF-IP) - 任意查询你想要的第三方CloudFlare反代IP及端口号 (1 day ago)
+- [ServenScorpion/VirtualApp](https://github.com/ServenScorpion/VirtualApp) - support  android 12 应用分身、模拟设备、模拟wifi、虚拟多开、钉钉打卡、企微打卡、插件开发、XP插件、模拟用户操作、java hook、c++ hook (1 day ago)
+- [csgo-adc/fk-gps](https://github.com/csgo-adc/fk-gps) - android虚拟定位应用，基于系统api，支持钉钉打卡 (1 day ago)
 
 ## 🔨 Latest Pull Requests I published
