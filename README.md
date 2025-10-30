@@ -33,7 +33,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👷 Check out what I'm currently working on
 
-- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (3 days ago)
+- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (4 days ago)
 - [nctl-io/nctl-homepage](https://github.com/nctl-io/nctl-homepage) - 🚀 Modern homepage for NCTL: fast, responsive, TypeScript-powered, open source, and easy to customize. (2 weeks ago)
 - [nctl-io/nctl-branding](https://github.com/nctl-io/nctl-branding) - NCTL Branding 🖼️: Centralized assets and guidelines for consistent visual identity across NCTL projects and platforms. (2 weeks ago)
 - [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) - 🚀 All-in-one CLI toolkit for developers: scaffold, manage, automate, and boost productivity across languages! (1 month ago)
@@ -46,23 +46,23 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
-- [babubrjf](https://github.com/babubrjf)
-- [Agbajestephen](https://github.com/Agbajestephen)
-- [g3ngi](https://github.com/g3ngi)
-- [suchsleepyheadcookie](https://github.com/suchsleepyheadcookie)
-- [bimamib](https://github.com/bimamib)
-- [Bourne115](https://github.com/Bourne115)
-- [LiuCong2017](https://github.com/LiuCong2017)
-- [Lynnzy21](https://github.com/Lynnzy21)
-- [Tim-JEON](https://github.com/Tim-JEON)
-- [alfredomontes37826-ux](https://github.com/alfredomontes37826-ux)
+- [k1-b00](https://github.com/k1-b00)
+- [osmarDesenvolvedorDeSoftware](https://github.com/osmarDesenvolvedorDeSoftware)
+- [RetroManiaMan](https://github.com/RetroManiaMan)
+- [0xnightfly](https://github.com/0xnightfly)
+- [MRezaSafari](https://github.com/MRezaSafari)
+- [JuanCunhaa](https://github.com/JuanCunhaa)
+- [sieteunoseis](https://github.com/sieteunoseis)
+- [bonus630](https://github.com/bonus630)
+- [RikuSato0](https://github.com/RikuSato0)
+- [Iagoakie](https://github.com/Iagoakie)
 
 ## ⭐ Recent stars
 
-- [TypeTale/TypeTale](https://github.com/TypeTale/TypeTale) - 字字动画 - 完全免费的AIGC视频生成软件，主要用于AI短剧，AI电影，小说推文 (today)
-- [solidSpoon/DashPlayer](https://github.com/solidSpoon/DashPlayer) - 为英语学习者量身打造的视频播放器，助你通过观看视频、沉浸真实语境，轻松提升英语水平。#美剧 #播放器 #听力 (today)
-- [ArvinLovegood/go-stock](https://github.com/ArvinLovegood/go-stock) - 🦄🦄🦄AI赋能股票分析：AI加持的股票分析/选股工具。股票行情获取，AI热点资讯分析，AI资金/财务分析，涨跌报警推送。支持A股，港股，美股。支持市场整体/个股情绪分析，AI辅助选股等。数据全部保留在本地。支持DeepSeek，OpenAI， Ollama，LMStudio，AnythingLLM，硅基流动，火山方舟，阿里云百炼等平台或模型。 (today)
-- [Brechtpd/base64](https://github.com/Brechtpd/base64) (today)
-- [vicwomg/pikaraoke](https://github.com/vicwomg/pikaraoke) - Youtube-based Karaoke machine for Raspberry Pi, OSX, Windows, and Linux (today)
+- [semihferik/il-ilce-semt-mahalle](https://github.com/semihferik/il-ilce-semt-mahalle) - Ptt güncel verilerinden İl, ilçe, semt ve mahalle veritabanı oluşturma scripti (1 day ago)
+- [wirtzdan/website](https://github.com/wirtzdan/website) - Personal website build with Chakra UI, NextJS and Airtable ✨ (1 day ago)
+- [YuriCosta/WhatsApp-GD-Extractor-Multithread](https://github.com/YuriCosta/WhatsApp-GD-Extractor-Multithread) - Allows WhatsApp users on Android to extract their backed up WhatsApp data from Google Drive. (1 day ago)
+- [TypeTale/TypeTale](https://github.com/TypeTale/TypeTale) - 字字动画 - 完全免费的AIGC视频生成软件，主要用于AI短剧，AI电影，小说推文 (1 day ago)
+- [solidSpoon/DashPlayer](https://github.com/solidSpoon/DashPlayer) - 为英语学习者量身打造的视频播放器，助你通过观看视频、沉浸真实语境，轻松提升英语水平。#美剧 #播放器 #听力 (1 day ago)
 
 ## 🔨 Latest Pull Requests I published
