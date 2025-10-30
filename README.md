@@ -46,23 +46,23 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
-- [k1-b00](https://github.com/k1-b00)
-- [osmarDesenvolvedorDeSoftware](https://github.com/osmarDesenvolvedorDeSoftware)
-- [RetroManiaMan](https://github.com/RetroManiaMan)
-- [0xnightfly](https://github.com/0xnightfly)
-- [MRezaSafari](https://github.com/MRezaSafari)
-- [JuanCunhaa](https://github.com/JuanCunhaa)
-- [sieteunoseis](https://github.com/sieteunoseis)
-- [bonus630](https://github.com/bonus630)
-- [RikuSato0](https://github.com/RikuSato0)
-- [Iagoakie](https://github.com/Iagoakie)
+- [eminemahjoub](https://github.com/eminemahjoub)
+- [fuwifur](https://github.com/fuwifur)
+- [bravekirty](https://github.com/bravekirty)
+- [deryakmrt](https://github.com/deryakmrt)
+- [MSHERIFF2](https://github.com/MSHERIFF2)
+- [azlandaru](https://github.com/azlandaru)
+- [tsyminal](https://github.com/tsyminal)
+- [0Darkn](https://github.com/0Darkn)
+- [orbulant](https://github.com/orbulant)
+- [Jayesh-Kr](https://github.com/Jayesh-Kr)
 
 ## ⭐ Recent stars
 
+- [h4kbas/nfc-reader](https://github.com/h4kbas/nfc-reader) - A modern, cross-platform .NET library for NFC (Near Field Communication) operations using PC/SC (Personal Computer/Smart Card) technology. (today)
 - [semihferik/il-ilce-semt-mahalle](https://github.com/semihferik/il-ilce-semt-mahalle) - Ptt güncel verilerinden İl, ilçe, semt ve mahalle veritabanı oluşturma scripti (1 day ago)
 - [wirtzdan/website](https://github.com/wirtzdan/website) - Personal website build with Chakra UI, NextJS and Airtable ✨ (1 day ago)
 - [YuriCosta/WhatsApp-GD-Extractor-Multithread](https://github.com/YuriCosta/WhatsApp-GD-Extractor-Multithread) - Allows WhatsApp users on Android to extract their backed up WhatsApp data from Google Drive. (1 day ago)
 - [TypeTale/TypeTale](https://github.com/TypeTale/TypeTale) - 字字动画 - 完全免费的AIGC视频生成软件，主要用于AI短剧，AI电影，小说推文 (1 day ago)
-- [solidSpoon/DashPlayer](https://github.com/solidSpoon/DashPlayer) - 为英语学习者量身打造的视频播放器，助你通过观看视频、沉浸真实语境，轻松提升英语水平。#美剧 #播放器 #听力 (1 day ago)
 
 ## 🔨 Latest Pull Requests I published
