@@ -46,16 +46,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [belovi4ka-hub](https://github.com/belovi4ka-hub)
+- [HED0NISME281X](https://github.com/HED0NISME281X)
+- [fapulito](https://github.com/fapulito)
+- [angryman312](https://github.com/angryman312)
+- [peterscheffer](https://github.com/peterscheffer)
+- [jahidnation](https://github.com/jahidnation)
+- [Nhatcuong1710](https://github.com/Nhatcuong1710)
+- [xiangwenqing](https://github.com/xiangwenqing)
 - [ishandutta2007](https://github.com/ishandutta2007)
 - [shahriar-rahman](https://github.com/shahriar-rahman)
-- [fergusfergusfergus](https://github.com/fergusfergusfergus)
-- [poyrazavsever](https://github.com/poyrazavsever)
-- [fazliberkordek](https://github.com/fazliberkordek)
-- [alhiky-es](https://github.com/alhiky-es)
-- [fahmazp](https://github.com/fahmazp)
-- [greynolds123](https://github.com/greynolds123)
-- [zaenalrfn](https://github.com/zaenalrfn)
-- [Mohammed-Hanees-M](https://github.com/Mohammed-Hanees-M)
 
 ## ⭐ Recent stars
 
