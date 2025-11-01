@@ -33,7 +33,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👷 Check out what I'm currently working on
 
-- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (5 days ago)
+- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (6 days ago)
 - [nctl-io/nctl-homepage](https://github.com/nctl-io/nctl-homepage) - 🚀 Modern homepage for NCTL: fast, responsive, TypeScript-powered, open source, and easy to customize. (2 weeks ago)
 - [nctl-io/nctl-branding](https://github.com/nctl-io/nctl-branding) - NCTL Branding 🖼️: Centralized assets and guidelines for consistent visual identity across NCTL projects and platforms. (2 weeks ago)
 - [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) - 🚀 All-in-one CLI toolkit for developers: scaffold, manage, automate, and boost productivity across languages! (1 month ago)
@@ -46,23 +46,23 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [maluyacode](https://github.com/maluyacode)
+- [jeanbrunogabriel](https://github.com/jeanbrunogabriel)
+- [chouket0102](https://github.com/chouket0102)
+- [Kemalstudio](https://github.com/Kemalstudio)
+- [MelihKrts](https://github.com/MelihKrts)
+- [michellegjkb5a-dev](https://github.com/michellegjkb5a-dev)
+- [sehmaluva](https://github.com/sehmaluva)
 - [belovi4ka-hub](https://github.com/belovi4ka-hub)
 - [HED0NISME281X](https://github.com/HED0NISME281X)
 - [fapulito](https://github.com/fapulito)
-- [angryman312](https://github.com/angryman312)
-- [peterscheffer](https://github.com/peterscheffer)
-- [jahidnation](https://github.com/jahidnation)
-- [Nhatcuong1710](https://github.com/Nhatcuong1710)
-- [xiangwenqing](https://github.com/xiangwenqing)
-- [ishandutta2007](https://github.com/ishandutta2007)
-- [shahriar-rahman](https://github.com/shahriar-rahman)
 
 ## ⭐ Recent stars
 
-- [h4kbas/nfc-reader](https://github.com/h4kbas/nfc-reader) - A modern, cross-platform .NET library for NFC (Near Field Communication) operations using PC/SC (Personal Computer/Smart Card) technology. (1 day ago)
-- [semihferik/il-ilce-semt-mahalle](https://github.com/semihferik/il-ilce-semt-mahalle) - Ptt güncel verilerinden İl, ilçe, semt ve mahalle veritabanı oluşturma scripti (2 days ago)
-- [wirtzdan/website](https://github.com/wirtzdan/website) - Personal website build with Chakra UI, NextJS and Airtable ✨ (2 days ago)
-- [YuriCosta/WhatsApp-GD-Extractor-Multithread](https://github.com/YuriCosta/WhatsApp-GD-Extractor-Multithread) - Allows WhatsApp users on Android to extract their backed up WhatsApp data from Google Drive. (2 days ago)
-- [TypeTale/TypeTale](https://github.com/TypeTale/TypeTale) - 字字动画 - 完全免费的AIGC视频生成软件，主要用于AI短剧，AI电影，小说推文 (2 days ago)
+- [TKJohn/flowable-userguide](https://github.com/TKJohn/flowable-userguide) - flowable-userguide translate to zh_CN (1 day ago)
+- [Root-vb/OTPFieldView](https://github.com/Root-vb/OTPFieldView) - One Time Password View for iOS. Built in Swift 5 (1 day ago)
+- [jedib0t/go-pretty](https://github.com/jedib0t/go-pretty) - Table-writer and more in golang! (1 day ago)
+- [Jarzka/stylefy](https://github.com/Jarzka/stylefy) - Clojure(Script) library for styling user interface components. (1 day ago)
+- [SBPrime/AsyncWorldEdit](https://github.com/SBPrime/AsyncWorldEdit) - Async WorldEdit - Edit millions of blocks without lag! (1 day ago)
 
 ## 🔨 Latest Pull Requests I published
