@@ -33,7 +33,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👷 Check out what I'm currently working on
 
-- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (6 days ago)
+- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (today)
 - [nctl-io/nctl-homepage](https://github.com/nctl-io/nctl-homepage) - 🚀 Modern homepage for NCTL: fast, responsive, TypeScript-powered, open source, and easy to customize. (2 weeks ago)
 - [nctl-io/nctl-branding](https://github.com/nctl-io/nctl-branding) - NCTL Branding 🖼️: Centralized assets and guidelines for consistent visual identity across NCTL projects and platforms. (2 weeks ago)
 - [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) - 🚀 All-in-one CLI toolkit for developers: scaffold, manage, automate, and boost productivity across languages! (1 month ago)
@@ -46,23 +46,23 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
-- [maluyacode](https://github.com/maluyacode)
-- [jeanbrunogabriel](https://github.com/jeanbrunogabriel)
-- [chouket0102](https://github.com/chouket0102)
-- [Kemalstudio](https://github.com/Kemalstudio)
-- [MelihKrts](https://github.com/MelihKrts)
-- [michellegjkb5a-dev](https://github.com/michellegjkb5a-dev)
-- [sehmaluva](https://github.com/sehmaluva)
-- [belovi4ka-hub](https://github.com/belovi4ka-hub)
-- [HED0NISME281X](https://github.com/HED0NISME281X)
-- [fapulito](https://github.com/fapulito)
+- [beep-meep](https://github.com/beep-meep)
+- [extremecoder-rgb](https://github.com/extremecoder-rgb)
+- [seehiong](https://github.com/seehiong)
+- [leoath12](https://github.com/leoath12)
+- [vasilirigels](https://github.com/vasilirigels)
+- [X-616](https://github.com/X-616)
+- [CertifiedAuthur](https://github.com/CertifiedAuthur)
+- [wachawo](https://github.com/wachawo)
+- [murapadev](https://github.com/murapadev)
+- [mjoshua97241](https://github.com/mjoshua97241)
 
 ## ⭐ Recent stars
 
-- [TKJohn/flowable-userguide](https://github.com/TKJohn/flowable-userguide) - flowable-userguide translate to zh_CN (1 day ago)
-- [Root-vb/OTPFieldView](https://github.com/Root-vb/OTPFieldView) - One Time Password View for iOS. Built in Swift 5 (1 day ago)
-- [jedib0t/go-pretty](https://github.com/jedib0t/go-pretty) - Table-writer and more in golang! (1 day ago)
-- [Jarzka/stylefy](https://github.com/Jarzka/stylefy) - Clojure(Script) library for styling user interface components. (1 day ago)
-- [SBPrime/AsyncWorldEdit](https://github.com/SBPrime/AsyncWorldEdit) - Async WorldEdit - Edit millions of blocks without lag! (1 day ago)
+- [FailedShack/USBHelperLauncher](https://github.com/FailedShack/USBHelperLauncher) - USBHelperLauncher restores and enhances Wii U USB Helper functionality by patching it at runtime and intercepting its network requests. (today)
+- [FailedShack/USBHelperInstaller](https://github.com/FailedShack/USBHelperInstaller) - An installer for USBHelperLauncher.  (today)
+- [mickelson/attract](https://github.com/mickelson/attract) - A graphical front-end for command line emulators that hides the underlying operating system and is intended to be controlled with a joystick or gamepad. (today)
+- [whoisraibolt/Feature-Detection-and-Matching](https://github.com/whoisraibolt/Feature-Detection-and-Matching) - Feature Detection and Matching with SIFT, SURF, KAZE, BRIEF, ORB, BRISK, AKAZE and FREAK through the Brute Force and FLANN algorithms using Python and OpenCV (today)
+- [muldjord/skyscraper](https://github.com/muldjord/skyscraper) - Powerful and versatile game scraper written in c++ (today)
 
 ## 🔨 Latest Pull Requests I published
