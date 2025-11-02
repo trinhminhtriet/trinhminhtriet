@@ -33,9 +33,9 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👷 Check out what I'm currently working on
 
-- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (today)
-- [nctl-io/nctl-homepage](https://github.com/nctl-io/nctl-homepage) - 🚀 Modern homepage for NCTL: fast, responsive, TypeScript-powered, open source, and easy to customize. (2 weeks ago)
-- [nctl-io/nctl-branding](https://github.com/nctl-io/nctl-branding) - NCTL Branding 🖼️: Centralized assets and guidelines for consistent visual identity across NCTL projects and platforms. (2 weeks ago)
+- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (1 day ago)
+- [nctl-io/nctl-homepage](https://github.com/nctl-io/nctl-homepage) - 🚀 Modern homepage for NCTL: fast, responsive, TypeScript-powered, open source, and easy to customize. (3 weeks ago)
+- [nctl-io/nctl-branding](https://github.com/nctl-io/nctl-branding) - NCTL Branding 🖼️: Centralized assets and guidelines for consistent visual identity across NCTL projects and platforms. (3 weeks ago)
 - [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) - 🚀 All-in-one CLI toolkit for developers: scaffold, manage, automate, and boost productivity across languages! (1 month ago)
 - [lamhaison/aws-cli-utils](https://github.com/lamhaison/aws-cli-utils) - This is the project to collect helpful aws cli commandline with complex options to support your working (1 month ago)
 - [trinhminhtriet/dwipe](https://github.com/trinhminhtriet/dwipe) - 🧹 Fast, cross-platform disk cleanup tool with interactive UI for easy directory size visualization. (1 month ago)
@@ -46,23 +46,23 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
-- [beep-meep](https://github.com/beep-meep)
-- [extremecoder-rgb](https://github.com/extremecoder-rgb)
-- [seehiong](https://github.com/seehiong)
-- [leoath12](https://github.com/leoath12)
-- [vasilirigels](https://github.com/vasilirigels)
-- [X-616](https://github.com/X-616)
-- [CertifiedAuthur](https://github.com/CertifiedAuthur)
-- [wachawo](https://github.com/wachawo)
-- [murapadev](https://github.com/murapadev)
-- [mjoshua97241](https://github.com/mjoshua97241)
+- [XiaomingX](https://github.com/XiaomingX)
+- [Ali-hey-0](https://github.com/Ali-hey-0)
+- [h-e-r639](https://github.com/h-e-r639)
+- [NazmusSayad](https://github.com/NazmusSayad)
+- [kigongo-vincent](https://github.com/kigongo-vincent)
+- [h3lix-it](https://github.com/h3lix-it)
+- [ValwareIRC](https://github.com/ValwareIRC)
+- [sairohith2605](https://github.com/sairohith2605)
+- [chongzixuan-ai](https://github.com/chongzixuan-ai)
+- [GrandmaEJ](https://github.com/GrandmaEJ)
 
 ## ⭐ Recent stars
 
-- [FailedShack/USBHelperLauncher](https://github.com/FailedShack/USBHelperLauncher) - USBHelperLauncher restores and enhances Wii U USB Helper functionality by patching it at runtime and intercepting its network requests. (today)
-- [FailedShack/USBHelperInstaller](https://github.com/FailedShack/USBHelperInstaller) - An installer for USBHelperLauncher.  (today)
-- [mickelson/attract](https://github.com/mickelson/attract) - A graphical front-end for command line emulators that hides the underlying operating system and is intended to be controlled with a joystick or gamepad. (today)
-- [whoisraibolt/Feature-Detection-and-Matching](https://github.com/whoisraibolt/Feature-Detection-and-Matching) - Feature Detection and Matching with SIFT, SURF, KAZE, BRIEF, ORB, BRISK, AKAZE and FREAK through the Brute Force and FLANN algorithms using Python and OpenCV (today)
-- [muldjord/skyscraper](https://github.com/muldjord/skyscraper) - Powerful and versatile game scraper written in c++ (today)
+- [ifcquery/ifcplusplus](https://github.com/ifcquery/ifcplusplus) - IfcPlusPlus is an open source C++ class model, as well as a reader and writer for IFC files in STEP format. Features: Easy and efficient memory management using smart pointers. Parallel reader for very fast parsing on multi-core CPU's. Additionally, there's a simple IFC viewer application, using Qt and OpenSceneGraph. It can be used as starting point for all kinds of applications around the open building model standard IFC. (today)
+- [MatrixSeven/JavaAOP](https://github.com/MatrixSeven/JavaAOP) - 一个基于原生JDK动态代理实现的AOP小例子 (1 day ago)
+- [MatrixSeven/ZhihuSpider](https://github.com/MatrixSeven/ZhihuSpider) - 知乎爬虫/可以爬出关注关系的爬虫 (1 day ago)
+- [MatrixSeven/file-transfer-go](https://github.com/MatrixSeven/file-transfer-go) - Go/React开发的端到端webrtc的文件传输/文字传输/桌面共享，安全，隐私，数据不经过服务器。 (1 day ago)
+- [AkiraTach/all-bitcoin-private-key](https://github.com/AkiraTach/all-bitcoin-private-key) - All bitcoin private key (1 day ago)
 
 ## 🔨 Latest Pull Requests I published
