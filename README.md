@@ -46,23 +46,23 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
-- [XiaomingX](https://github.com/XiaomingX)
+- [scott-linden](https://github.com/scott-linden)
+- [AtesEyup](https://github.com/AtesEyup)
+- [Mohamed-Fadel-10](https://github.com/Mohamed-Fadel-10)
+- [Seraphka](https://github.com/Seraphka)
+- [DinithKumudika](https://github.com/DinithKumudika)
+- [abhirambhatt](https://github.com/abhirambhatt)
+- [nicokosi](https://github.com/nicokosi)
+- [shahriar-rahman](https://github.com/shahriar-rahman)
+- [bigdata5911](https://github.com/bigdata5911)
 - [Ali-hey-0](https://github.com/Ali-hey-0)
-- [h-e-r639](https://github.com/h-e-r639)
-- [NazmusSayad](https://github.com/NazmusSayad)
-- [kigongo-vincent](https://github.com/kigongo-vincent)
-- [h3lix-it](https://github.com/h3lix-it)
-- [ValwareIRC](https://github.com/ValwareIRC)
-- [sairohith2605](https://github.com/sairohith2605)
-- [chongzixuan-ai](https://github.com/chongzixuan-ai)
-- [GrandmaEJ](https://github.com/GrandmaEJ)
 
 ## ⭐ Recent stars
 
+- [GoDannyLai/binlog_rollback](https://github.com/GoDannyLai/binlog_rollback) - mysql binlog rollback | flashback | redo | dml report | ddl info  mysql binlog 回滚/闪回， 前滚， DML分析报告， DDL信息 (today)
+- [penwyp/ClaudePreference](https://github.com/penwyp/ClaudePreference) - A comprehensive collection of development workflow commands for Claude Code (today)
+- [hsxyhao/gridea-theme-next](https://github.com/hsxyhao/gridea-theme-next) - Gridea NexT主题，搬hexo-next-theme (today)
 - [ifcquery/ifcplusplus](https://github.com/ifcquery/ifcplusplus) - IfcPlusPlus is an open source C++ class model, as well as a reader and writer for IFC files in STEP format. Features: Easy and efficient memory management using smart pointers. Parallel reader for very fast parsing on multi-core CPU's. Additionally, there's a simple IFC viewer application, using Qt and OpenSceneGraph. It can be used as starting point for all kinds of applications around the open building model standard IFC. (today)
 - [MatrixSeven/JavaAOP](https://github.com/MatrixSeven/JavaAOP) - 一个基于原生JDK动态代理实现的AOP小例子 (1 day ago)
-- [MatrixSeven/ZhihuSpider](https://github.com/MatrixSeven/ZhihuSpider) - 知乎爬虫/可以爬出关注关系的爬虫 (1 day ago)
-- [MatrixSeven/file-transfer-go](https://github.com/MatrixSeven/file-transfer-go) - Go/React开发的端到端webrtc的文件传输/文字传输/桌面共享，安全，隐私，数据不经过服务器。 (1 day ago)
-- [AkiraTach/all-bitcoin-private-key](https://github.com/AkiraTach/all-bitcoin-private-key) - All bitcoin private key (1 day ago)
 
 ## 🔨 Latest Pull Requests I published
