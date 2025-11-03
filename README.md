@@ -33,9 +33,9 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👷 Check out what I'm currently working on
 
-- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (1 day ago)
-- [nctl-io/nctl-homepage](https://github.com/nctl-io/nctl-homepage) - 🚀 Modern homepage for NCTL: fast, responsive, TypeScript-powered, open source, and easy to customize. (3 weeks ago)
+- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (today)
 - [nctl-io/nctl-branding](https://github.com/nctl-io/nctl-branding) - NCTL Branding 🖼️: Centralized assets and guidelines for consistent visual identity across NCTL projects and platforms. (3 weeks ago)
+- [nctl-io/nctl-homepage](https://github.com/nctl-io/nctl-homepage) - 🚀 Modern homepage for NCTL: fast, responsive, TypeScript-powered, open source, and easy to customize. (3 weeks ago)
 - [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) - 🚀 All-in-one CLI toolkit for developers: scaffold, manage, automate, and boost productivity across languages! (1 month ago)
 - [lamhaison/aws-cli-utils](https://github.com/lamhaison/aws-cli-utils) - This is the project to collect helpful aws cli commandline with complex options to support your working (1 month ago)
 - [trinhminhtriet/dwipe](https://github.com/trinhminhtriet/dwipe) - 🧹 Fast, cross-platform disk cleanup tool with interactive UI for easy directory size visualization. (1 month ago)
@@ -46,23 +46,23 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
-- [scott-linden](https://github.com/scott-linden)
-- [AtesEyup](https://github.com/AtesEyup)
-- [Mohamed-Fadel-10](https://github.com/Mohamed-Fadel-10)
-- [Seraphka](https://github.com/Seraphka)
-- [DinithKumudika](https://github.com/DinithKumudika)
-- [abhirambhatt](https://github.com/abhirambhatt)
-- [nicokosi](https://github.com/nicokosi)
-- [shahriar-rahman](https://github.com/shahriar-rahman)
-- [bigdata5911](https://github.com/bigdata5911)
-- [Ali-hey-0](https://github.com/Ali-hey-0)
+- [randyli](https://github.com/randyli)
+- [qerionx](https://github.com/qerionx)
+- [denildominic](https://github.com/denildominic)
+- [rstar327](https://github.com/rstar327)
+- [Leewonchan14](https://github.com/Leewonchan14)
+- [Luser408](https://github.com/Luser408)
+- [Shadow8021](https://github.com/Shadow8021)
+- [vuongmanhnghia](https://github.com/vuongmanhnghia)
+- [guilhermecosta137](https://github.com/guilhermecosta137)
+- [flanaganarmon997-coder](https://github.com/flanaganarmon997-coder)
 
 ## ⭐ Recent stars
 
-- [GoDannyLai/binlog_rollback](https://github.com/GoDannyLai/binlog_rollback) - mysql binlog rollback | flashback | redo | dml report | ddl info  mysql binlog 回滚/闪回， 前滚， DML分析报告， DDL信息 (today)
-- [penwyp/ClaudePreference](https://github.com/penwyp/ClaudePreference) - A comprehensive collection of development workflow commands for Claude Code (today)
-- [hsxyhao/gridea-theme-next](https://github.com/hsxyhao/gridea-theme-next) - Gridea NexT主题，搬hexo-next-theme (today)
-- [ifcquery/ifcplusplus](https://github.com/ifcquery/ifcplusplus) - IfcPlusPlus is an open source C++ class model, as well as a reader and writer for IFC files in STEP format. Features: Easy and efficient memory management using smart pointers. Parallel reader for very fast parsing on multi-core CPU's. Additionally, there's a simple IFC viewer application, using Qt and OpenSceneGraph. It can be used as starting point for all kinds of applications around the open building model standard IFC. (today)
-- [MatrixSeven/JavaAOP](https://github.com/MatrixSeven/JavaAOP) - 一个基于原生JDK动态代理实现的AOP小例子 (1 day ago)
+- [showdo/build_oneplus_sm8750](https://github.com/showdo/build_oneplus_sm8750) - Build the SukiSU Ultra kernel for OnePlus SM8750 (MT6991) (today)
+- [zzc0721/torch-performance-test-data](https://github.com/zzc0721/torch-performance-test-data) (today)
+- [chrislewisdev/prettyplan](https://github.com/chrislewisdev/prettyplan) - A formatting tool to help make large Terraform plans easier to review. (today)
+- [Mico27/SuperMarioBrosMini](https://github.com/Mico27/SuperMarioBrosMini) - Super Mario Bros Remake using GBS (today)
+- [leggomyfroggo/FBC](https://github.com/leggomyfroggo/FBC) - Frog Boy Color assembly information. (today)
 
 ## 🔨 Latest Pull Requests I published
