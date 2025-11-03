@@ -46,23 +46,23 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
-- [randyli](https://github.com/randyli)
-- [qerionx](https://github.com/qerionx)
-- [denildominic](https://github.com/denildominic)
-- [rstar327](https://github.com/rstar327)
-- [Leewonchan14](https://github.com/Leewonchan14)
-- [Luser408](https://github.com/Luser408)
-- [Shadow8021](https://github.com/Shadow8021)
-- [vuongmanhnghia](https://github.com/vuongmanhnghia)
-- [guilhermecosta137](https://github.com/guilhermecosta137)
-- [flanaganarmon997-coder](https://github.com/flanaganarmon997-coder)
+- [notblessy](https://github.com/notblessy)
+- [davidcreated](https://github.com/davidcreated)
+- [Preveen369](https://github.com/Preveen369)
+- [Irfanxpk](https://github.com/Irfanxpk)
+- [Kuredew](https://github.com/Kuredew)
+- [Krishak15](https://github.com/Krishak15)
+- [ZakariaTikialine](https://github.com/ZakariaTikialine)
+- [NightBringerZied](https://github.com/NightBringerZied)
+- [nomiveritas](https://github.com/nomiveritas)
+- [shahriar-rahman](https://github.com/shahriar-rahman)
 
 ## ⭐ Recent stars
 
-- [showdo/build_oneplus_sm8750](https://github.com/showdo/build_oneplus_sm8750) - Build the SukiSU Ultra kernel for OnePlus SM8750 (MT6991) (today)
-- [zzc0721/torch-performance-test-data](https://github.com/zzc0721/torch-performance-test-data) (today)
-- [chrislewisdev/prettyplan](https://github.com/chrislewisdev/prettyplan) - A formatting tool to help make large Terraform plans easier to review. (today)
-- [Mico27/SuperMarioBrosMini](https://github.com/Mico27/SuperMarioBrosMini) - Super Mario Bros Remake using GBS (today)
-- [leggomyfroggo/FBC](https://github.com/leggomyfroggo/FBC) - Frog Boy Color assembly information. (today)
+- [navassherif98/IBM_Data_Science_Professional_Certification](https://github.com/navassherif98/IBM_Data_Science_Professional_Certification) - This repository contains all the resources and solution to quizzes given and asked in IBM Data Science Professional Certification. (today)
+- [navassherif98/Recipe-Generation-from-Food-Image](https://github.com/navassherif98/Recipe-Generation-from-Food-Image) - An Application for Generating a cooking recipe consist of title, ingredients and instructions from an food image using Deep Learning. (today)
+- [RenCloud/scs-sdk-plugin](https://github.com/RenCloud/scs-sdk-plugin) - ETS2 (Euro Truck Simulator 2) & ATS (American Truck Simulator) SDK plug-in. Telemetry data is shared via SharedMemory/Memory Mapped Files. (today)
+- [FerreroJeremy/ln2sql](https://github.com/FerreroJeremy/ln2sql) - A tool to query a database in natural language (today)
+- [thomaspierson/libcss2less](https://github.com/thomaspierson/libcss2less) - Css to LessCss converter library (today)
 
 ## 🔨 Latest Pull Requests I published
