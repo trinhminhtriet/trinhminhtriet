@@ -33,12 +33,12 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👷 Check out what I'm currently working on
 
-- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (today)
+- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (1 day ago)
 - [nctl-io/nctl-branding](https://github.com/nctl-io/nctl-branding) - NCTL Branding 🖼️: Centralized assets and guidelines for consistent visual identity across NCTL projects and platforms. (3 weeks ago)
 - [nctl-io/nctl-homepage](https://github.com/nctl-io/nctl-homepage) - 🚀 Modern homepage for NCTL: fast, responsive, TypeScript-powered, open source, and easy to customize. (3 weeks ago)
 - [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) - 🚀 All-in-one CLI toolkit for developers: scaffold, manage, automate, and boost productivity across languages! (1 month ago)
 - [lamhaison/aws-cli-utils](https://github.com/lamhaison/aws-cli-utils) - This is the project to collect helpful aws cli commandline with complex options to support your working (1 month ago)
-- [trinhminhtriet/dwipe](https://github.com/trinhminhtriet/dwipe) - 🧹 Fast, cross-platform disk cleanup tool with interactive UI for easy directory size visualization. (1 month ago)
+- [trinhminhtriet/dwipe](https://github.com/trinhminhtriet/dwipe) - 🧹 Fast, cross-platform disk cleanup tool with interactive UI for easy directory size visualization. (2 months ago)
 - [nctl-io/nctl-roadmap](https://github.com/nctl-io/nctl-roadmap) (2 months ago)
 - [nctl-io/.github](https://github.com/nctl-io/.github) - 🌐 Network. Connect. Transform. Lead. (2 months ago)
 - [trinhminhtriet/sizr](https://github.com/trinhminhtriet/sizr) - 📈 A fast, Rust-based tool to analyze file system usage with colorful output, file aggregation, exclusions, and directory comparisons. (2 months ago)
@@ -46,23 +46,23 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
-- [notblessy](https://github.com/notblessy)
-- [davidcreated](https://github.com/davidcreated)
-- [Preveen369](https://github.com/Preveen369)
-- [Irfanxpk](https://github.com/Irfanxpk)
-- [Kuredew](https://github.com/Kuredew)
-- [Krishak15](https://github.com/Krishak15)
-- [ZakariaTikialine](https://github.com/ZakariaTikialine)
-- [NightBringerZied](https://github.com/NightBringerZied)
-- [nomiveritas](https://github.com/nomiveritas)
-- [shahriar-rahman](https://github.com/shahriar-rahman)
+- [devgauravjatt](https://github.com/devgauravjatt)
+- [espinozasenior](https://github.com/espinozasenior)
+- [Jocadbz](https://github.com/Jocadbz)
+- [PandaDev888](https://github.com/PandaDev888)
+- [Giovanna-FP07](https://github.com/Giovanna-FP07)
+- [estanixx](https://github.com/estanixx)
+- [Shyamdevkrishnanj](https://github.com/Shyamdevkrishnanj)
+- [ishandutta2007](https://github.com/ishandutta2007)
+- [cutupdev](https://github.com/cutupdev)
+- [lazycustard](https://github.com/lazycustard)
 
 ## ⭐ Recent stars
 
-- [navassherif98/IBM_Data_Science_Professional_Certification](https://github.com/navassherif98/IBM_Data_Science_Professional_Certification) - This repository contains all the resources and solution to quizzes given and asked in IBM Data Science Professional Certification. (today)
-- [navassherif98/Recipe-Generation-from-Food-Image](https://github.com/navassherif98/Recipe-Generation-from-Food-Image) - An Application for Generating a cooking recipe consist of title, ingredients and instructions from an food image using Deep Learning. (today)
-- [RenCloud/scs-sdk-plugin](https://github.com/RenCloud/scs-sdk-plugin) - ETS2 (Euro Truck Simulator 2) & ATS (American Truck Simulator) SDK plug-in. Telemetry data is shared via SharedMemory/Memory Mapped Files. (today)
-- [FerreroJeremy/ln2sql](https://github.com/FerreroJeremy/ln2sql) - A tool to query a database in natural language (today)
-- [thomaspierson/libcss2less](https://github.com/thomaspierson/libcss2less) - Css to LessCss converter library (today)
+- [navassherif98/IBM_Data_Science_Professional_Certification](https://github.com/navassherif98/IBM_Data_Science_Professional_Certification) - This repository contains all the resources and solution to quizzes given and asked in IBM Data Science Professional Certification. (1 day ago)
+- [navassherif98/Recipe-Generation-from-Food-Image](https://github.com/navassherif98/Recipe-Generation-from-Food-Image) - An Application for Generating a cooking recipe consist of title, ingredients and instructions from an food image using Deep Learning. (1 day ago)
+- [RenCloud/scs-sdk-plugin](https://github.com/RenCloud/scs-sdk-plugin) - ETS2 (Euro Truck Simulator 2) & ATS (American Truck Simulator) SDK plug-in. Telemetry data is shared via SharedMemory/Memory Mapped Files. (1 day ago)
+- [FerreroJeremy/ln2sql](https://github.com/FerreroJeremy/ln2sql) - A tool to query a database in natural language (1 day ago)
+- [thomaspierson/libcss2less](https://github.com/thomaspierson/libcss2less) - Css to LessCss converter library (1 day ago)
 
 ## 🔨 Latest Pull Requests I published
