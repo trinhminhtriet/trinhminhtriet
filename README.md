@@ -46,16 +46,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Galfurian](https://github.com/Galfurian)
+- [Mamalireza](https://github.com/Mamalireza)
+- [Kanishk-tiwari-045](https://github.com/Kanishk-tiwari-045)
+- [Naomer](https://github.com/Naomer)
+- [irkky](https://github.com/irkky)
+- [Anduamlk](https://github.com/Anduamlk)
+- [Eltaz100](https://github.com/Eltaz100)
+- [prarthanaMS](https://github.com/prarthanaMS)
+- [khartoum-cyber](https://github.com/khartoum-cyber)
 - [devgauravjatt](https://github.com/devgauravjatt)
-- [espinozasenior](https://github.com/espinozasenior)
-- [Jocadbz](https://github.com/Jocadbz)
-- [PandaDev888](https://github.com/PandaDev888)
-- [Giovanna-FP07](https://github.com/Giovanna-FP07)
-- [estanixx](https://github.com/estanixx)
-- [Shyamdevkrishnanj](https://github.com/Shyamdevkrishnanj)
-- [ishandutta2007](https://github.com/ishandutta2007)
-- [cutupdev](https://github.com/cutupdev)
-- [lazycustard](https://github.com/lazycustard)
 
 ## ⭐ Recent stars
 
