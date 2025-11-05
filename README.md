@@ -33,7 +33,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👷 Check out what I'm currently working on
 
-- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (1 day ago)
+- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (2 days ago)
 - [nctl-io/nctl-branding](https://github.com/nctl-io/nctl-branding) - NCTL Branding 🖼️: Centralized assets and guidelines for consistent visual identity across NCTL projects and platforms. (3 weeks ago)
 - [nctl-io/nctl-homepage](https://github.com/nctl-io/nctl-homepage) - 🚀 Modern homepage for NCTL: fast, responsive, TypeScript-powered, open source, and easy to customize. (3 weeks ago)
 - [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) - 🚀 All-in-one CLI toolkit for developers: scaffold, manage, automate, and boost productivity across languages! (1 month ago)
@@ -46,23 +46,23 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Johnymachettes](https://github.com/Johnymachettes)
+- [CodeYourCareer](https://github.com/CodeYourCareer)
+- [londonplayer](https://github.com/londonplayer)
+- [VeluRahul](https://github.com/VeluRahul)
+- [seehiong](https://github.com/seehiong)
+- [Mahir101](https://github.com/Mahir101)
+- [donnowhattodo](https://github.com/donnowhattodo)
 - [Galfurian](https://github.com/Galfurian)
 - [Mamalireza](https://github.com/Mamalireza)
 - [Kanishk-tiwari-045](https://github.com/Kanishk-tiwari-045)
-- [Naomer](https://github.com/Naomer)
-- [irkky](https://github.com/irkky)
-- [Anduamlk](https://github.com/Anduamlk)
-- [Eltaz100](https://github.com/Eltaz100)
-- [prarthanaMS](https://github.com/prarthanaMS)
-- [khartoum-cyber](https://github.com/khartoum-cyber)
-- [devgauravjatt](https://github.com/devgauravjatt)
 
 ## ⭐ Recent stars
 
-- [navassherif98/IBM_Data_Science_Professional_Certification](https://github.com/navassherif98/IBM_Data_Science_Professional_Certification) - This repository contains all the resources and solution to quizzes given and asked in IBM Data Science Professional Certification. (1 day ago)
-- [navassherif98/Recipe-Generation-from-Food-Image](https://github.com/navassherif98/Recipe-Generation-from-Food-Image) - An Application for Generating a cooking recipe consist of title, ingredients and instructions from an food image using Deep Learning. (1 day ago)
-- [RenCloud/scs-sdk-plugin](https://github.com/RenCloud/scs-sdk-plugin) - ETS2 (Euro Truck Simulator 2) & ATS (American Truck Simulator) SDK plug-in. Telemetry data is shared via SharedMemory/Memory Mapped Files. (1 day ago)
-- [FerreroJeremy/ln2sql](https://github.com/FerreroJeremy/ln2sql) - A tool to query a database in natural language (1 day ago)
-- [thomaspierson/libcss2less](https://github.com/thomaspierson/libcss2less) - Css to LessCss converter library (1 day ago)
+- [navassherif98/IBM_Data_Science_Professional_Certification](https://github.com/navassherif98/IBM_Data_Science_Professional_Certification) - This repository contains all the resources and solution to quizzes given and asked in IBM Data Science Professional Certification. (2 days ago)
+- [navassherif98/Recipe-Generation-from-Food-Image](https://github.com/navassherif98/Recipe-Generation-from-Food-Image) - An Application for Generating a cooking recipe consist of title, ingredients and instructions from an food image using Deep Learning. (2 days ago)
+- [RenCloud/scs-sdk-plugin](https://github.com/RenCloud/scs-sdk-plugin) - ETS2 (Euro Truck Simulator 2) & ATS (American Truck Simulator) SDK plug-in. Telemetry data is shared via SharedMemory/Memory Mapped Files. (2 days ago)
+- [FerreroJeremy/ln2sql](https://github.com/FerreroJeremy/ln2sql) - A tool to query a database in natural language (2 days ago)
+- [thomaspierson/libcss2less](https://github.com/thomaspierson/libcss2less) - Css to LessCss converter library (2 days ago)
 
 ## 🔨 Latest Pull Requests I published
