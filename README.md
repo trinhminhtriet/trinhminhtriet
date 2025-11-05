@@ -46,23 +46,23 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [iprattham](https://github.com/iprattham)
+- [TornadoInsight](https://github.com/TornadoInsight)
+- [LamichhaneBibek](https://github.com/LamichhaneBibek)
+- [ivasik-k7](https://github.com/ivasik-k7)
+- [ahmedbenkrarayc](https://github.com/ahmedbenkrarayc)
+- [Codinglone](https://github.com/Codinglone)
+- [NamesMT](https://github.com/NamesMT)
+- [AshGreyG](https://github.com/AshGreyG)
+- [Ryeohwan](https://github.com/Ryeohwan)
 - [Johnymachettes](https://github.com/Johnymachettes)
-- [CodeYourCareer](https://github.com/CodeYourCareer)
-- [londonplayer](https://github.com/londonplayer)
-- [VeluRahul](https://github.com/VeluRahul)
-- [seehiong](https://github.com/seehiong)
-- [Mahir101](https://github.com/Mahir101)
-- [donnowhattodo](https://github.com/donnowhattodo)
-- [Galfurian](https://github.com/Galfurian)
-- [Mamalireza](https://github.com/Mamalireza)
-- [Kanishk-tiwari-045](https://github.com/Kanishk-tiwari-045)
 
 ## ⭐ Recent stars
 
-- [navassherif98/IBM_Data_Science_Professional_Certification](https://github.com/navassherif98/IBM_Data_Science_Professional_Certification) - This repository contains all the resources and solution to quizzes given and asked in IBM Data Science Professional Certification. (2 days ago)
-- [navassherif98/Recipe-Generation-from-Food-Image](https://github.com/navassherif98/Recipe-Generation-from-Food-Image) - An Application for Generating a cooking recipe consist of title, ingredients and instructions from an food image using Deep Learning. (2 days ago)
-- [RenCloud/scs-sdk-plugin](https://github.com/RenCloud/scs-sdk-plugin) - ETS2 (Euro Truck Simulator 2) & ATS (American Truck Simulator) SDK plug-in. Telemetry data is shared via SharedMemory/Memory Mapped Files. (2 days ago)
-- [FerreroJeremy/ln2sql](https://github.com/FerreroJeremy/ln2sql) - A tool to query a database in natural language (2 days ago)
-- [thomaspierson/libcss2less](https://github.com/thomaspierson/libcss2less) - Css to LessCss converter library (2 days ago)
+- [shemanaev/jellyfin-plugin-media-cleaner](https://github.com/shemanaev/jellyfin-plugin-media-cleaner) - Automatically delete played media files after specified amount of time. (today)
+- [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser (today)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (today)
+- [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go (today)
+- [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout (today)
 
 ## 🔨 Latest Pull Requests I published
