@@ -33,7 +33,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👷 Check out what I'm currently working on
 
-- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (2 days ago)
+- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (today)
 - [nctl-io/nctl-branding](https://github.com/nctl-io/nctl-branding) - NCTL Branding 🖼️: Centralized assets and guidelines for consistent visual identity across NCTL projects and platforms. (3 weeks ago)
 - [nctl-io/nctl-homepage](https://github.com/nctl-io/nctl-homepage) - 🚀 Modern homepage for NCTL: fast, responsive, TypeScript-powered, open source, and easy to customize. (3 weeks ago)
 - [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) - 🚀 All-in-one CLI toolkit for developers: scaffold, manage, automate, and boost productivity across languages! (1 month ago)
@@ -46,23 +46,23 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
-- [iprattham](https://github.com/iprattham)
-- [TornadoInsight](https://github.com/TornadoInsight)
-- [LamichhaneBibek](https://github.com/LamichhaneBibek)
-- [ivasik-k7](https://github.com/ivasik-k7)
-- [ahmedbenkrarayc](https://github.com/ahmedbenkrarayc)
-- [Codinglone](https://github.com/Codinglone)
-- [NamesMT](https://github.com/NamesMT)
-- [AshGreyG](https://github.com/AshGreyG)
-- [Ryeohwan](https://github.com/Ryeohwan)
-- [Johnymachettes](https://github.com/Johnymachettes)
+- [floor-licker](https://github.com/floor-licker)
+- [HATAKE-KAKASHl](https://github.com/HATAKE-KAKASHl)
+- [tatsumoto-ren](https://github.com/tatsumoto-ren)
+- [Lc-Novikov](https://github.com/Lc-Novikov)
+- [Hamza5](https://github.com/Hamza5)
+- [AnderssonProgramming](https://github.com/AnderssonProgramming)
+- [justin-aj](https://github.com/justin-aj)
+- [0xb0b1](https://github.com/0xb0b1)
+- [SoapMacTavishCharlie](https://github.com/SoapMacTavishCharlie)
+- [Yonidevportifolio](https://github.com/Yonidevportifolio)
 
 ## ⭐ Recent stars
 
-- [shemanaev/jellyfin-plugin-media-cleaner](https://github.com/shemanaev/jellyfin-plugin-media-cleaner) - Automatically delete played media files after specified amount of time. (today)
-- [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser (today)
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (today)
-- [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go (today)
-- [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout (today)
+- [alikinvv/stepper](https://github.com/alikinvv/stepper) - Animated numeric stepper component which can be used to increment or decrement a value by clicking arrows. (today)
+- [trevoreyre/autocomplete](https://github.com/trevoreyre/autocomplete) - Accessible autocomplete component for vanilla JavaScript and Vue. (today)
+- [cakenggt/Library-Of-Pybel](https://github.com/cakenggt/Library-Of-Pybel) - Library of Babel clone in Python (today)
+- [AmadeusChan/Awesome-LLM-System-Papers](https://github.com/AmadeusChan/Awesome-LLM-System-Papers) (today)
+- [yzhu798/CodingInterviewsNotes](https://github.com/yzhu798/CodingInterviewsNotes) - 涵盖C++ Primer 5th、 effective C++ 、 STL api和demos C++ 基础知识与理论、 智能指针、C++11、 Git教程 Linux命令 Unix操作系统（进程、线程、内存管理、信号）计算机网络、 数据结构（排序、查找）、数据库、、C++对象模型、 设计模式、算法（《剑指offer》、leetcode、lintcode、hihocoder、《王道程序员求职宝典》）、面试题、嵌入式相关等 (today)
 
 ## 🔨 Latest Pull Requests I published
