@@ -46,23 +46,23 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
-- [floor-licker](https://github.com/floor-licker)
-- [HATAKE-KAKASHl](https://github.com/HATAKE-KAKASHl)
-- [tatsumoto-ren](https://github.com/tatsumoto-ren)
-- [Lc-Novikov](https://github.com/Lc-Novikov)
-- [Hamza5](https://github.com/Hamza5)
-- [AnderssonProgramming](https://github.com/AnderssonProgramming)
-- [justin-aj](https://github.com/justin-aj)
-- [0xb0b1](https://github.com/0xb0b1)
-- [SoapMacTavishCharlie](https://github.com/SoapMacTavishCharlie)
-- [Yonidevportifolio](https://github.com/Yonidevportifolio)
+- [JudeWine](https://github.com/JudeWine)
+- [WajahatAliMirPro](https://github.com/WajahatAliMirPro)
+- [cristianoronaldo22092011-dev](https://github.com/cristianoronaldo22092011-dev)
+- [R8maxx](https://github.com/R8maxx)
+- [joebertcerezo](https://github.com/joebertcerezo)
+- [AlizayAyesha](https://github.com/AlizayAyesha)
+- [shahriar-rahman](https://github.com/shahriar-rahman)
+- [Elvis-Aguilar](https://github.com/Elvis-Aguilar)
+- [gurr-i](https://github.com/gurr-i)
+- [BEPb](https://github.com/BEPb)
 
 ## ⭐ Recent stars
 
-- [alikinvv/stepper](https://github.com/alikinvv/stepper) - Animated numeric stepper component which can be used to increment or decrement a value by clicking arrows. (today)
-- [trevoreyre/autocomplete](https://github.com/trevoreyre/autocomplete) - Accessible autocomplete component for vanilla JavaScript and Vue. (today)
-- [cakenggt/Library-Of-Pybel](https://github.com/cakenggt/Library-Of-Pybel) - Library of Babel clone in Python (today)
-- [AmadeusChan/Awesome-LLM-System-Papers](https://github.com/AmadeusChan/Awesome-LLM-System-Papers) (today)
-- [yzhu798/CodingInterviewsNotes](https://github.com/yzhu798/CodingInterviewsNotes) - 涵盖C++ Primer 5th、 effective C++ 、 STL api和demos C++ 基础知识与理论、 智能指针、C++11、 Git教程 Linux命令 Unix操作系统（进程、线程、内存管理、信号）计算机网络、 数据结构（排序、查找）、数据库、、C++对象模型、 设计模式、算法（《剑指offer》、leetcode、lintcode、hihocoder、《王道程序员求职宝典》）、面试题、嵌入式相关等 (today)
+- [kodestan/tank-ops](https://github.com/kodestan/tank-ops) (today)
+- [leviarista/github-profile-header-generator](https://github.com/leviarista/github-profile-header-generator) - A header image generator for your Github profile Readme (today)
+- [AmauriC/tarteaucitron.js](https://github.com/AmauriC/tarteaucitron.js) - Get a compliant and accessible cookie banner (today)
+- [TheBoneJarmer/TiledCS](https://github.com/TheBoneJarmer/TiledCS) - TiledCS is a dotnet library for loading Tiled tilesets and maps (today)
+- [coldhead/kaleidos](https://github.com/coldhead/kaleidos) - CSS3 Kaleidoscope Effect (today)
 
 ## 🔨 Latest Pull Requests I published
