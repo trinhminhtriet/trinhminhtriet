@@ -46,23 +46,23 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
-- [DanielArturoAlejoAlvarez](https://github.com/DanielArturoAlejoAlvarez)
-- [AssahBismarkabah](https://github.com/AssahBismarkabah)
-- [MukeshMW11](https://github.com/MukeshMW11)
-- [ChronoCoders](https://github.com/ChronoCoders)
-- [hsnmnr](https://github.com/hsnmnr)
-- [DiosGonzalo](https://github.com/DiosGonzalo)
-- [JudeWine](https://github.com/JudeWine)
-- [WajahatAliMirPro](https://github.com/WajahatAliMirPro)
-- [cristianoronaldo22092011-dev](https://github.com/cristianoronaldo22092011-dev)
-- [R8maxx](https://github.com/R8maxx)
+- [spence709](https://github.com/spence709)
+- [AmarnathCKR](https://github.com/AmarnathCKR)
+- [abuhuraira-73](https://github.com/abuhuraira-73)
+- [Lecrapouille](https://github.com/Lecrapouille)
+- [jaskirat1616](https://github.com/jaskirat1616)
+- [Tusneld](https://github.com/Tusneld)
+- [mike-at-redspace](https://github.com/mike-at-redspace)
+- [THE-EGYPTIAN-GOD](https://github.com/THE-EGYPTIAN-GOD)
+- [ishandutta2007](https://github.com/ishandutta2007)
+- [TejaNaik15](https://github.com/TejaNaik15)
 
 ## ⭐ Recent stars
 
-- [jonas/tig](https://github.com/jonas/tig) - Text-mode interface for git (1 day ago)
-- [b/statsd_spec](https://github.com/b/statsd_spec) - A quixotic quest to coordinate StatsD implementations (1 day ago)
-- [b/kafka-websocket](https://github.com/b/kafka-websocket) - Websocket server interface for Kafka distributed message broker (1 day ago)
-- [izhangzhihao/intellij-rainbow-fart](https://github.com/izhangzhihao/intellij-rainbow-fart) - 🌈一个在你编程时持续夸你写的牛逼的扩展，可以根据代码关键字播放贴近代码意义的真人语音。Inspired by vscode-rainbow-fart (1 day ago)
-- [izhangzhihao/intellij-rainbow-brackets](https://github.com/izhangzhihao/intellij-rainbow-brackets) - 🌈Rainbow Brackets for IntelliJ based IDEs/Android Studio/HUAWEI DevEco Studio/Fleet (1 day ago)
+- [Tkko/Flutter_dismissible_page](https://github.com/Tkko/Flutter_dismissible_page) - Flutter page widget that is dismissed by swipe gestures, with Hero style animations, Inspired by Facebook and Instagram stories. (today)
+- [Tkko/Flutter_Pinput](https://github.com/Tkko/Flutter_Pinput) - Flutter package to create Pin code input text field with every pixel customization possibility 🎨 with beautiful animations, iOS autofill, Android autofill (today)
+- [toniblyx/my-arsenal-of-aws-security-tools](https://github.com/toniblyx/my-arsenal-of-aws-security-tools) - List of open source tools for AWS security: defensive, offensive, auditing, DFIR, etc. (today)
+- [azer/yolo](https://github.com/azer/yolo) - File watcher with web UI. (today)
+- [azer/memdiff](https://github.com/azer/memdiff) - BDD style memory leak hunting tool (today)
 
 ## 🔨 Latest Pull Requests I published
