@@ -33,7 +33,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👷 Check out what I'm currently working on
 
-- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (today)
+- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (1 day ago)
 - [nctl-io/nctl-branding](https://github.com/nctl-io/nctl-branding) - NCTL Branding 🖼️: Centralized assets and guidelines for consistent visual identity across NCTL projects and platforms. (3 weeks ago)
 - [nctl-io/nctl-homepage](https://github.com/nctl-io/nctl-homepage) - 🚀 Modern homepage for NCTL: fast, responsive, TypeScript-powered, open source, and easy to customize. (3 weeks ago)
 - [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) - 🚀 All-in-one CLI toolkit for developers: scaffold, manage, automate, and boost productivity across languages! (1 month ago)
@@ -46,23 +46,23 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [DanielArturoAlejoAlvarez](https://github.com/DanielArturoAlejoAlvarez)
+- [AssahBismarkabah](https://github.com/AssahBismarkabah)
+- [MukeshMW11](https://github.com/MukeshMW11)
+- [ChronoCoders](https://github.com/ChronoCoders)
+- [hsnmnr](https://github.com/hsnmnr)
+- [DiosGonzalo](https://github.com/DiosGonzalo)
 - [JudeWine](https://github.com/JudeWine)
 - [WajahatAliMirPro](https://github.com/WajahatAliMirPro)
 - [cristianoronaldo22092011-dev](https://github.com/cristianoronaldo22092011-dev)
 - [R8maxx](https://github.com/R8maxx)
-- [joebertcerezo](https://github.com/joebertcerezo)
-- [AlizayAyesha](https://github.com/AlizayAyesha)
-- [shahriar-rahman](https://github.com/shahriar-rahman)
-- [Elvis-Aguilar](https://github.com/Elvis-Aguilar)
-- [gurr-i](https://github.com/gurr-i)
-- [BEPb](https://github.com/BEPb)
 
 ## ⭐ Recent stars
 
-- [kodestan/tank-ops](https://github.com/kodestan/tank-ops) (today)
-- [leviarista/github-profile-header-generator](https://github.com/leviarista/github-profile-header-generator) - A header image generator for your Github profile Readme (today)
-- [AmauriC/tarteaucitron.js](https://github.com/AmauriC/tarteaucitron.js) - Get a compliant and accessible cookie banner (today)
-- [TheBoneJarmer/TiledCS](https://github.com/TheBoneJarmer/TiledCS) - TiledCS is a dotnet library for loading Tiled tilesets and maps (today)
-- [coldhead/kaleidos](https://github.com/coldhead/kaleidos) - CSS3 Kaleidoscope Effect (today)
+- [jonas/tig](https://github.com/jonas/tig) - Text-mode interface for git (1 day ago)
+- [b/statsd_spec](https://github.com/b/statsd_spec) - A quixotic quest to coordinate StatsD implementations (1 day ago)
+- [b/kafka-websocket](https://github.com/b/kafka-websocket) - Websocket server interface for Kafka distributed message broker (1 day ago)
+- [izhangzhihao/intellij-rainbow-fart](https://github.com/izhangzhihao/intellij-rainbow-fart) - 🌈一个在你编程时持续夸你写的牛逼的扩展，可以根据代码关键字播放贴近代码意义的真人语音。Inspired by vscode-rainbow-fart (1 day ago)
+- [izhangzhihao/intellij-rainbow-brackets](https://github.com/izhangzhihao/intellij-rainbow-brackets) - 🌈Rainbow Brackets for IntelliJ based IDEs/Android Studio/HUAWEI DevEco Studio/Fleet (1 day ago)
 
 ## 🔨 Latest Pull Requests I published
