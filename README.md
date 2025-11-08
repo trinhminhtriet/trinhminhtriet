@@ -33,7 +33,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👷 Check out what I'm currently working on
 
-- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (2 days ago)
+- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (today)
 - [nctl-io/nctl-branding](https://github.com/nctl-io/nctl-branding) - NCTL Branding 🖼️: Centralized assets and guidelines for consistent visual identity across NCTL projects and platforms. (3 weeks ago)
 - [nctl-io/nctl-homepage](https://github.com/nctl-io/nctl-homepage) - 🚀 Modern homepage for NCTL: fast, responsive, TypeScript-powered, open source, and easy to customize. (3 weeks ago)
 - [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) - 🚀 All-in-one CLI toolkit for developers: scaffold, manage, automate, and boost productivity across languages! (1 month ago)
@@ -46,23 +46,23 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
-- [bylickilabs](https://github.com/bylickilabs)
-- [Dev-LeeJ05](https://github.com/Dev-LeeJ05)
-- [gaqx](https://github.com/gaqx)
-- [MaxGud10](https://github.com/MaxGud10)
-- [a-beja](https://github.com/a-beja)
-- [quediencm69-hash](https://github.com/quediencm69-hash)
-- [Wolfieheart](https://github.com/Wolfieheart)
-- [spence709](https://github.com/spence709)
-- [AmarnathCKR](https://github.com/AmarnathCKR)
-- [abuhuraira-73](https://github.com/abuhuraira-73)
+- [ahmed-226](https://github.com/ahmed-226)
+- [hawrazmg](https://github.com/hawrazmg)
+- [IvanZhutyaev](https://github.com/IvanZhutyaev)
+- [Azyphyrus](https://github.com/Azyphyrus)
+- [theMungai](https://github.com/theMungai)
+- [rosarypale](https://github.com/rosarypale)
+- [adityashibu](https://github.com/adityashibu)
+- [Poketopa](https://github.com/Poketopa)
+- [narsibhati-dev](https://github.com/narsibhati-dev)
+- [unifolio0](https://github.com/unifolio0)
 
 ## ⭐ Recent stars
 
-- [hsnam95/class2022Spring](https://github.com/hsnam95/class2022Spring) (today)
-- [swkim01/waveshare-dtoverlays](https://github.com/swkim01/waveshare-dtoverlays) - WaveShare SpotPear 3.2" and 3.5/4.0" TFT LCD overlays for the Raspberry PI and PI 2  (today)
-- [prophesier/diff-svc](https://github.com/prophesier/diff-svc) - Singing Voice Conversion via diffusion model (1 day ago)
-- [danpacho/tailwindest](https://github.com/danpacho/tailwindest) - Create tailwind types & Build type-safe tailwind products. (1 day ago)
-- [swapnibble/EosCommander](https://github.com/swapnibble/EosCommander) - Android client for EOS.IO (1 day ago)
+- [Samciu/GroupbuyCoupon](https://github.com/Samciu/GroupbuyCoupon) - 涵盖外卖、话费、视频会员、加油卡、礼品卡等多种品类折扣权益，吃、喝、玩、乐、购五大消费场景覆盖的综合权益卡券小程序，用户折扣购、平台赚佣金，个人、企业流量变现平台。 (today)
+- [Rabtman/WsManager](https://github.com/Rabtman/WsManager) - OkHttp WebSocket Manager for Android (today)
+- [Rabtman/AcgClub](https://github.com/Rabtman/AcgClub) - 一款纯粹的ACG聚合类App (today)
+- [Messi-Q/Smart-Contract-Dataset](https://github.com/Messi-Q/Smart-Contract-Dataset) - Datasets for evaluating smart contract security analysis tools ( continuously updating... ) (today)
+- [Messi-Q/GraphDeeSmartContract](https://github.com/Messi-Q/GraphDeeSmartContract) - Smart contract vulnerability detection using graph neural network (DR-GCN).  (today)
 
 ## 🔨 Latest Pull Requests I published
