@@ -33,7 +33,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👷 Check out what I'm currently working on
 
-- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (1 day ago)
+- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (2 days ago)
 - [nctl-io/nctl-branding](https://github.com/nctl-io/nctl-branding) - NCTL Branding 🖼️: Centralized assets and guidelines for consistent visual identity across NCTL projects and platforms. (3 weeks ago)
 - [nctl-io/nctl-homepage](https://github.com/nctl-io/nctl-homepage) - 🚀 Modern homepage for NCTL: fast, responsive, TypeScript-powered, open source, and easy to customize. (3 weeks ago)
 - [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) - 🚀 All-in-one CLI toolkit for developers: scaffold, manage, automate, and boost productivity across languages! (1 month ago)
@@ -46,23 +46,23 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [bylickilabs](https://github.com/bylickilabs)
+- [Dev-LeeJ05](https://github.com/Dev-LeeJ05)
+- [gaqx](https://github.com/gaqx)
+- [MaxGud10](https://github.com/MaxGud10)
+- [a-beja](https://github.com/a-beja)
+- [quediencm69-hash](https://github.com/quediencm69-hash)
+- [Wolfieheart](https://github.com/Wolfieheart)
 - [spence709](https://github.com/spence709)
 - [AmarnathCKR](https://github.com/AmarnathCKR)
 - [abuhuraira-73](https://github.com/abuhuraira-73)
-- [Lecrapouille](https://github.com/Lecrapouille)
-- [jaskirat1616](https://github.com/jaskirat1616)
-- [Tusneld](https://github.com/Tusneld)
-- [mike-at-redspace](https://github.com/mike-at-redspace)
-- [THE-EGYPTIAN-GOD](https://github.com/THE-EGYPTIAN-GOD)
-- [ishandutta2007](https://github.com/ishandutta2007)
-- [TejaNaik15](https://github.com/TejaNaik15)
 
 ## ⭐ Recent stars
 
-- [Tkko/Flutter_dismissible_page](https://github.com/Tkko/Flutter_dismissible_page) - Flutter page widget that is dismissed by swipe gestures, with Hero style animations, Inspired by Facebook and Instagram stories. (today)
-- [Tkko/Flutter_Pinput](https://github.com/Tkko/Flutter_Pinput) - Flutter package to create Pin code input text field with every pixel customization possibility 🎨 with beautiful animations, iOS autofill, Android autofill (today)
-- [toniblyx/my-arsenal-of-aws-security-tools](https://github.com/toniblyx/my-arsenal-of-aws-security-tools) - List of open source tools for AWS security: defensive, offensive, auditing, DFIR, etc. (today)
-- [azer/yolo](https://github.com/azer/yolo) - File watcher with web UI. (today)
-- [azer/memdiff](https://github.com/azer/memdiff) - BDD style memory leak hunting tool (today)
+- [hsnam95/class2022Spring](https://github.com/hsnam95/class2022Spring) (today)
+- [swkim01/waveshare-dtoverlays](https://github.com/swkim01/waveshare-dtoverlays) - WaveShare SpotPear 3.2" and 3.5/4.0" TFT LCD overlays for the Raspberry PI and PI 2  (today)
+- [prophesier/diff-svc](https://github.com/prophesier/diff-svc) - Singing Voice Conversion via diffusion model (1 day ago)
+- [danpacho/tailwindest](https://github.com/danpacho/tailwindest) - Create tailwind types & Build type-safe tailwind products. (1 day ago)
+- [swapnibble/EosCommander](https://github.com/swapnibble/EosCommander) - Android client for EOS.IO (1 day ago)
 
 ## 🔨 Latest Pull Requests I published
