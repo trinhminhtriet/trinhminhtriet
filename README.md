@@ -33,9 +33,9 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👷 Check out what I'm currently working on
 
-- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (today)
-- [nctl-io/nctl-branding](https://github.com/nctl-io/nctl-branding) - NCTL Branding 🖼️: Centralized assets and guidelines for consistent visual identity across NCTL projects and platforms. (3 weeks ago)
-- [nctl-io/nctl-homepage](https://github.com/nctl-io/nctl-homepage) - 🚀 Modern homepage for NCTL: fast, responsive, TypeScript-powered, open source, and easy to customize. (3 weeks ago)
+- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (1 day ago)
+- [nctl-io/nctl-branding](https://github.com/nctl-io/nctl-branding) - NCTL Branding 🖼️: Centralized assets and guidelines for consistent visual identity across NCTL projects and platforms. (4 weeks ago)
+- [nctl-io/nctl-homepage](https://github.com/nctl-io/nctl-homepage) - 🚀 Modern homepage for NCTL: fast, responsive, TypeScript-powered, open source, and easy to customize. (4 weeks ago)
 - [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) - 🚀 All-in-one CLI toolkit for developers: scaffold, manage, automate, and boost productivity across languages! (1 month ago)
 - [lamhaison/aws-cli-utils](https://github.com/lamhaison/aws-cli-utils) - This is the project to collect helpful aws cli commandline with complex options to support your working (1 month ago)
 - [trinhminhtriet/dwipe](https://github.com/trinhminhtriet/dwipe) - 🧹 Fast, cross-platform disk cleanup tool with interactive UI for easy directory size visualization. (2 months ago)
@@ -46,23 +46,23 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
-- [ahmed-226](https://github.com/ahmed-226)
-- [hawrazmg](https://github.com/hawrazmg)
-- [IvanZhutyaev](https://github.com/IvanZhutyaev)
-- [Azyphyrus](https://github.com/Azyphyrus)
-- [theMungai](https://github.com/theMungai)
-- [rosarypale](https://github.com/rosarypale)
-- [adityashibu](https://github.com/adityashibu)
-- [Poketopa](https://github.com/Poketopa)
-- [narsibhati-dev](https://github.com/narsibhati-dev)
-- [unifolio0](https://github.com/unifolio0)
+- [RATIO-TECHNIQUE](https://github.com/RATIO-TECHNIQUE)
+- [kauavelasco](https://github.com/kauavelasco)
+- [javyxu](https://github.com/javyxu)
+- [tatsuyafujisaki](https://github.com/tatsuyafujisaki)
+- [Marwaloutfi](https://github.com/Marwaloutfi)
+- [webxos](https://github.com/webxos)
+- [xibsx](https://github.com/xibsx)
+- [dbunt1tled](https://github.com/dbunt1tled)
+- [maxbyz](https://github.com/maxbyz)
+- [Eikonsphere](https://github.com/Eikonsphere)
 
 ## ⭐ Recent stars
 
-- [Samciu/GroupbuyCoupon](https://github.com/Samciu/GroupbuyCoupon) - 涵盖外卖、话费、视频会员、加油卡、礼品卡等多种品类折扣权益，吃、喝、玩、乐、购五大消费场景覆盖的综合权益卡券小程序，用户折扣购、平台赚佣金，个人、企业流量变现平台。 (today)
-- [Rabtman/WsManager](https://github.com/Rabtman/WsManager) - OkHttp WebSocket Manager for Android (today)
-- [Rabtman/AcgClub](https://github.com/Rabtman/AcgClub) - 一款纯粹的ACG聚合类App (today)
-- [Messi-Q/Smart-Contract-Dataset](https://github.com/Messi-Q/Smart-Contract-Dataset) - Datasets for evaluating smart contract security analysis tools ( continuously updating... ) (today)
-- [Messi-Q/GraphDeeSmartContract](https://github.com/Messi-Q/GraphDeeSmartContract) - Smart contract vulnerability detection using graph neural network (DR-GCN).  (today)
+- [Ground-Zerro/HydraRoute](https://github.com/Ground-Zerro/HydraRoute) - Redirecting requests to specific domains via VPN for Keenetic routers (today)
+- [Ground-Zerro/DomainMapper](https://github.com/Ground-Zerro/DomainMapper) - A tool for scanning and resolving DNS names into IP addresses (today)
+- [koshev-msk/modemfeed](https://github.com/koshev-msk/modemfeed) (today)
+- [Mi-Al/WiFi-autopwner](https://github.com/Mi-Al/WiFi-autopwner) - WiFi-autopwner: script to automate searching and auditing Wi-Fi networks with weak security (today)
+- [LoredCast/filewizard](https://github.com/LoredCast/filewizard) - File Converter, OCR, Transcription & TTS WebUI (today)
 
 ## 🔨 Latest Pull Requests I published
