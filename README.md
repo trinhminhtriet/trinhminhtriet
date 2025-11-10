@@ -46,23 +46,23 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
-- [r-devops](https://github.com/r-devops)
-- [azurespheredev](https://github.com/azurespheredev)
-- [acavalcante164-collab](https://github.com/acavalcante164-collab)
-- [luizjxcoder](https://github.com/luizjxcoder)
-- [joaoAlves77](https://github.com/joaoAlves77)
-- [filipjt88](https://github.com/filipjt88)
-- [joakor89](https://github.com/joakor89)
-- [hxreborn](https://github.com/hxreborn)
-- [SeanTRM-dev](https://github.com/SeanTRM-dev)
-- [NazmusSayad](https://github.com/NazmusSayad)
+- [anaraydinli55](https://github.com/anaraydinli55)
+- [abdorah](https://github.com/abdorah)
+- [ivasik-k7](https://github.com/ivasik-k7)
+- [JetBrain2056](https://github.com/JetBrain2056)
+- [AyaRoug](https://github.com/AyaRoug)
+- [jonace-mpelule](https://github.com/jonace-mpelule)
+- [JoeyAwwad](https://github.com/JoeyAwwad)
+- [dinudsi](https://github.com/dinudsi)
+- [Petsamuel](https://github.com/Petsamuel)
+- [Zuhriddin2010](https://github.com/Zuhriddin2010)
 
 ## ⭐ Recent stars
 
-- [kbilsted/NotepadPlusPlusPluginPack.Net](https://github.com/kbilsted/NotepadPlusPlusPluginPack.Net) - .Net package to install into visual studio to make plugins for Notepad++ (today)
-- [qianlim/SCALE](https://github.com/qianlim/SCALE) - Official implementation of "SCALE: Modeling Clothed Humans with a Surface Codec of Articulated Local Elements", CVPR 2021 https://arxiv.org/abs/2104.07660 (today)
-- [qianlim/POP](https://github.com/qianlim/POP) - Official implementation of the ICCV 2021 paper: "The Power of Points for Modeling Humans in Clothing".  (today)
-- [qianlim/CAPE](https://github.com/qianlim/CAPE) - Official implementation of CVPR2020 paper "Learning to Dress 3D People in Generative Clothing" https://arxiv.org/abs/1907.13615 (today)
-- [QitaoZhao/DiffusionSfM](https://github.com/QitaoZhao/DiffusionSfM) - [CVPR 2025] "DiffusionSfM: Predicting Structure and Motion via Ray Origin and Endpoint Diffusion" official implementation. (today)
+- [DracoR22/handi-cat_wallet-tracker](https://github.com/DracoR22/handi-cat_wallet-tracker) - Solana wallet tracker Telegram Bot, follow any wallet and get detailed information about every transaction in Raydium, Jupiter, Pump.fun and PumpSwap 😺 (today)
+- [Kvan7/Exiled-Exchange-2](https://github.com/Kvan7/Exiled-Exchange-2) - Path of Exile 2 trading app for price checking (today)
+- [hackirby/skuld](https://github.com/hackirby/skuld) - Next-Gen Stealer written in Go. Stealing from Discord,  Chromium-Based & Firefox-Based Browsers, Crypto Wallets and more, from every user on every disk. (PoC. For educational purposes only) (today)
+- [winseros/pboman3](https://github.com/winseros/pboman3) - The GUI tool to work with ArmA PBO files. (today)
+- [aianlinb/VisualGGPK2](https://github.com/aianlinb/VisualGGPK2) - Library for Content.ggpk of PathOfExile (Rewrite of libggpk) (today)
 
 ## 🔨 Latest Pull Requests I published
