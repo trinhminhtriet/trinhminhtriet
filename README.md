@@ -33,9 +33,9 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👷 Check out what I'm currently working on
 
-- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (1 day ago)
-- [nctl-io/nctl-homepage](https://github.com/nctl-io/nctl-homepage) - 🚀 Modern homepage for NCTL: fast, responsive, TypeScript-powered, open source, and easy to customize. (4 weeks ago)
-- [nctl-io/nctl-branding](https://github.com/nctl-io/nctl-branding) - NCTL Branding 🖼️: Centralized assets and guidelines for consistent visual identity across NCTL projects and platforms. (4 weeks ago)
+- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (2 days ago)
+- [nctl-io/nctl-homepage](https://github.com/nctl-io/nctl-homepage) - 🚀 Modern homepage for NCTL: fast, responsive, TypeScript-powered, open source, and easy to customize. (1 month ago)
+- [nctl-io/nctl-branding](https://github.com/nctl-io/nctl-branding) - NCTL Branding 🖼️: Centralized assets and guidelines for consistent visual identity across NCTL projects and platforms. (1 month ago)
 - [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) - 🚀 All-in-one CLI toolkit for developers: scaffold, manage, automate, and boost productivity across languages! (1 month ago)
 - [lamhaison/aws-cli-utils](https://github.com/lamhaison/aws-cli-utils) - This is the project to collect helpful aws cli commandline with complex options to support your working (1 month ago)
 - [trinhminhtriet/dwipe](https://github.com/trinhminhtriet/dwipe) - 🧹 Fast, cross-platform disk cleanup tool with interactive UI for easy directory size visualization. (2 months ago)
@@ -46,23 +46,23 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
-- [anaraydinli55](https://github.com/anaraydinli55)
-- [abdorah](https://github.com/abdorah)
-- [ivasik-k7](https://github.com/ivasik-k7)
-- [JetBrain2056](https://github.com/JetBrain2056)
-- [AyaRoug](https://github.com/AyaRoug)
-- [jonace-mpelule](https://github.com/jonace-mpelule)
-- [JoeyAwwad](https://github.com/JoeyAwwad)
-- [dinudsi](https://github.com/dinudsi)
-- [Petsamuel](https://github.com/Petsamuel)
-- [Zuhriddin2010](https://github.com/Zuhriddin2010)
+- [kamarmack](https://github.com/kamarmack)
+- [nghialele](https://github.com/nghialele)
+- [parklabo](https://github.com/parklabo)
+- [Lactea-J](https://github.com/Lactea-J)
+- [JudeWine](https://github.com/JudeWine)
+- [yholik](https://github.com/yholik)
+- [osamahamad](https://github.com/osamahamad)
+- [NasirAkra](https://github.com/NasirAkra)
+- [uthy-inc](https://github.com/uthy-inc)
+- [devotuoma](https://github.com/devotuoma)
 
 ## ⭐ Recent stars
 
-- [DracoR22/handi-cat_wallet-tracker](https://github.com/DracoR22/handi-cat_wallet-tracker) - Solana wallet tracker Telegram Bot, follow any wallet and get detailed information about every transaction in Raydium, Jupiter, Pump.fun and PumpSwap 😺 (today)
-- [Kvan7/Exiled-Exchange-2](https://github.com/Kvan7/Exiled-Exchange-2) - Path of Exile 2 trading app for price checking (today)
-- [hackirby/skuld](https://github.com/hackirby/skuld) - Next-Gen Stealer written in Go. Stealing from Discord,  Chromium-Based & Firefox-Based Browsers, Crypto Wallets and more, from every user on every disk. (PoC. For educational purposes only) (today)
-- [winseros/pboman3](https://github.com/winseros/pboman3) - The GUI tool to work with ArmA PBO files. (today)
-- [aianlinb/VisualGGPK2](https://github.com/aianlinb/VisualGGPK2) - Library for Content.ggpk of PathOfExile (Rewrite of libggpk) (today)
+- [philip/MySQLConverterTool](https://github.com/philip/MySQLConverterTool) - A MySQL Converter Tool (today)
+- [nishimao/FeedbackKit](https://github.com/nishimao/FeedbackKit) - This is useful tool to send feedback in ios app development. (today)
+- [nishimao/MAOFlipViewController](https://github.com/nishimao/MAOFlipViewController) - This is the OSS that provide interacition transition like FlipBoard. (today)
+- [keesiemeijer/maze-generator](https://github.com/keesiemeijer/maze-generator) - Create mazes using the recursive backtracking algorithm. (today)
+- [phil-barrett/PicoCNC](https://github.com/phil-barrett/PicoCNC) - Raspberry Pi Pico based grblHAL Controller (today)
 
 ## 🔨 Latest Pull Requests I published
