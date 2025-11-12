@@ -46,23 +46,23 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
-- [dennislee928](https://github.com/dennislee928)
-- [ishandutta2007](https://github.com/ishandutta2007)
-- [Descatres](https://github.com/Descatres)
-- [NadaMesbah](https://github.com/NadaMesbah)
-- [EvilmaxSec](https://github.com/EvilmaxSec)
-- [TagGamer555](https://github.com/TagGamer555)
-- [garryshield](https://github.com/garryshield)
-- [Wilbebs](https://github.com/Wilbebs)
-- [amitmalakar91](https://github.com/amitmalakar91)
-- [sonishsivarajkumar](https://github.com/sonishsivarajkumar)
+- [ivasik-k7](https://github.com/ivasik-k7)
+- [rodrigomarcolin](https://github.com/rodrigomarcolin)
+- [a1deas](https://github.com/a1deas)
+- [Rahulkarna-cdr](https://github.com/Rahulkarna-cdr)
+- [Pl4zum8tic-n2gare](https://github.com/Pl4zum8tic-n2gare)
+- [NeRo707](https://github.com/NeRo707)
+- [fslmultiservice22](https://github.com/fslmultiservice22)
+- [indieka900](https://github.com/indieka900)
+- [vahidefarzane](https://github.com/vahidefarzane)
+- [JudeWine](https://github.com/JudeWine)
 
 ## ⭐ Recent stars
 
-- [hcjohn463/JableTVDownload](https://github.com/hcjohn463/JableTVDownload) - 下載 jable好幫手 (today)
-- [forrany/Awesome-Ollama-Server](https://github.com/forrany/Awesome-Ollama-Server) - 这是一个用于监控和检测 Ollama 服务可用性和性能的系统。它提供了一个现代化的 Web 界面，支持多语言（中文/英文），并具有实时检测和数据展示功能。 (today)
-- [forrany/Web-Project](https://github.com/forrany/Web-Project) - 前端练手小项目 (today)
-- [liminalpurr/jizhi](https://github.com/liminalpurr/jizhi) - A Chrome/Firefox extension with custom new tab page featuring Chinese poems and P5.js enabled noise waves in traditional Chinese colors (today)
-- [xjbeta/iina-danmaku](https://github.com/xjbeta/iina-danmaku) - The modern video player for macOS. (today)
+- [unity-research/IP-Adapter-Instruct](https://github.com/unity-research/IP-Adapter-Instruct) - IP Adapter Instruct (today)
+- [GregTJ/stable-fluids](https://github.com/GregTJ/stable-fluids) - A minimal Stable Fluids inspired fluid solver with Python and NumPy. (today)
+- [ipavlic/apex-fp](https://github.com/ipavlic/apex-fp) - Functional programming for Salesforce Apex (today)
+- [cesarParra/apexdocs](https://github.com/cesarParra/apexdocs) - Generate documentation for your Salesforce Apex Classes. (today)
+- [yunxiaoshi/Neural-IMage-Assessment](https://github.com/yunxiaoshi/Neural-IMage-Assessment) - A PyTorch Implementation of Neural IMage Assessment (today)
 
 ## 🔨 Latest Pull Requests I published
