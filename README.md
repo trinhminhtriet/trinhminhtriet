@@ -46,23 +46,23 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
-- [sawmon71293](https://github.com/sawmon71293)
-- [Deri-Nugroho](https://github.com/Deri-Nugroho)
-- [GodswillUdida](https://github.com/GodswillUdida)
-- [baby20162016](https://github.com/baby20162016)
-- [Ultan-Kearns](https://github.com/Ultan-Kearns)
-- [gil9red](https://github.com/gil9red)
-- [AldinDrobic](https://github.com/AldinDrobic)
-- [L-Andy](https://github.com/L-Andy)
-- [TECHNOCRAFT27](https://github.com/TECHNOCRAFT27)
-- [jack-dev-crypto](https://github.com/jack-dev-crypto)
+- [artiordex](https://github.com/artiordex)
+- [Carrington-dev](https://github.com/Carrington-dev)
+- [BenBktech](https://github.com/BenBktech)
+- [fitristachan](https://github.com/fitristachan)
+- [dotmh](https://github.com/dotmh)
+- [AhmedAbdulla22](https://github.com/AhmedAbdulla22)
+- [Abdelmohsenn](https://github.com/Abdelmohsenn)
+- [VolkanSah](https://github.com/VolkanSah)
+- [manuelarte](https://github.com/manuelarte)
+- [ripan-baidya](https://github.com/ripan-baidya)
 
 ## ⭐ Recent stars
 
-- [PJO2/tftpd64](https://github.com/PJO2/tftpd64) - The working repository of the famous TFTP server. (today)
-- [Core-2-Extreme/Video_player_for_3DS](https://github.com/Core-2-Extreme/Video_player_for_3DS) - Video player for 3ds (today)
-- [xl0/lovely-tensors](https://github.com/xl0/lovely-tensors) - Tensors, for human consumption (today)
-- [yclown/jdck-android](https://github.com/yclown/jdck-android) - 青龙 京东cookie助手安卓版，支持一键发送到青龙面板，账号密码快速填入 (today)
-- [yclown/ql_jd_cookie](https://github.com/yclown/ql_jd_cookie) - 青龙面板京东cookie获取桌面版，支持一键发送到青龙面板，账号密码快速填入 (today)
+- [Aiano/FOC](https://github.com/Aiano/FOC) - A BLDC motor driver using FOC algorithm. (today)
+- [RollingGecko/VescUartControl](https://github.com/RollingGecko/VescUartControl) - Arduino library to interface with the VESC bldc over UART. (today)
+- [pekkaroi/bldc-drive](https://github.com/pekkaroi/bldc-drive) - Cheap and simple brushless DC motor driver designed for CNC applications using STM32 microcontroller (today)
+- [xp4xbox/Python-Backdoor](https://github.com/xp4xbox/Python-Backdoor) - This project is a cross-platform backdoor/reverse shell and post-exploitation tool written in Python3 (today)
+- [PhoenixFire6934/Classic-Brawl](https://github.com/PhoenixFire6934/Classic-Brawl) - Python Brawl Stars server emulator for version 26.184 (today)
 
 ## 🔨 Latest Pull Requests I published
