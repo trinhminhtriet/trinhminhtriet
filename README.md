@@ -33,7 +33,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👷 Check out what I'm currently working on
 
-- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (1 day ago)
+- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (2 days ago)
 - [nctl-io/nctl-homepage](https://github.com/nctl-io/nctl-homepage) - 🚀 Modern homepage for NCTL: fast, responsive, TypeScript-powered, open source, and easy to customize. (1 month ago)
 - [nctl-io/nctl-branding](https://github.com/nctl-io/nctl-branding) - NCTL Branding 🖼️: Centralized assets and guidelines for consistent visual identity across NCTL projects and platforms. (1 month ago)
 - [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) - 🚀 All-in-one CLI toolkit for developers: scaffold, manage, automate, and boost productivity across languages! (1 month ago)
@@ -46,23 +46,23 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
-- [ivasik-k7](https://github.com/ivasik-k7)
-- [rodrigomarcolin](https://github.com/rodrigomarcolin)
-- [a1deas](https://github.com/a1deas)
-- [Rahulkarna-cdr](https://github.com/Rahulkarna-cdr)
-- [Pl4zum8tic-n2gare](https://github.com/Pl4zum8tic-n2gare)
-- [NeRo707](https://github.com/NeRo707)
-- [fslmultiservice22](https://github.com/fslmultiservice22)
-- [indieka900](https://github.com/indieka900)
-- [vahidefarzane](https://github.com/vahidefarzane)
-- [JudeWine](https://github.com/JudeWine)
+- [sawmon71293](https://github.com/sawmon71293)
+- [Deri-Nugroho](https://github.com/Deri-Nugroho)
+- [GodswillUdida](https://github.com/GodswillUdida)
+- [baby20162016](https://github.com/baby20162016)
+- [Ultan-Kearns](https://github.com/Ultan-Kearns)
+- [gil9red](https://github.com/gil9red)
+- [AldinDrobic](https://github.com/AldinDrobic)
+- [L-Andy](https://github.com/L-Andy)
+- [TECHNOCRAFT27](https://github.com/TECHNOCRAFT27)
+- [jack-dev-crypto](https://github.com/jack-dev-crypto)
 
 ## ⭐ Recent stars
 
-- [unity-research/IP-Adapter-Instruct](https://github.com/unity-research/IP-Adapter-Instruct) - IP Adapter Instruct (today)
-- [GregTJ/stable-fluids](https://github.com/GregTJ/stable-fluids) - A minimal Stable Fluids inspired fluid solver with Python and NumPy. (today)
-- [ipavlic/apex-fp](https://github.com/ipavlic/apex-fp) - Functional programming for Salesforce Apex (today)
-- [cesarParra/apexdocs](https://github.com/cesarParra/apexdocs) - Generate documentation for your Salesforce Apex Classes. (today)
-- [yunxiaoshi/Neural-IMage-Assessment](https://github.com/yunxiaoshi/Neural-IMage-Assessment) - A PyTorch Implementation of Neural IMage Assessment (today)
+- [PJO2/tftpd64](https://github.com/PJO2/tftpd64) - The working repository of the famous TFTP server. (today)
+- [Core-2-Extreme/Video_player_for_3DS](https://github.com/Core-2-Extreme/Video_player_for_3DS) - Video player for 3ds (today)
+- [xl0/lovely-tensors](https://github.com/xl0/lovely-tensors) - Tensors, for human consumption (today)
+- [yclown/jdck-android](https://github.com/yclown/jdck-android) - 青龙 京东cookie助手安卓版，支持一键发送到青龙面板，账号密码快速填入 (today)
+- [yclown/ql_jd_cookie](https://github.com/yclown/ql_jd_cookie) - 青龙面板京东cookie获取桌面版，支持一键发送到青龙面板，账号密码快速填入 (today)
 
 ## 🔨 Latest Pull Requests I published
