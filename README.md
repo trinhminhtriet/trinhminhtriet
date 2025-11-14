@@ -33,7 +33,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👷 Check out what I'm currently working on
 
-- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (2 days ago)
+- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (3 days ago)
 - [nctl-io/nctl-homepage](https://github.com/nctl-io/nctl-homepage) - 🚀 Modern homepage for NCTL: fast, responsive, TypeScript-powered, open source, and easy to customize. (1 month ago)
 - [nctl-io/nctl-branding](https://github.com/nctl-io/nctl-branding) - NCTL Branding 🖼️: Centralized assets and guidelines for consistent visual identity across NCTL projects and platforms. (1 month ago)
 - [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) - 🚀 All-in-one CLI toolkit for developers: scaffold, manage, automate, and boost productivity across languages! (1 month ago)
@@ -46,23 +46,23 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
-- [artiordex](https://github.com/artiordex)
-- [Carrington-dev](https://github.com/Carrington-dev)
-- [BenBktech](https://github.com/BenBktech)
-- [fitristachan](https://github.com/fitristachan)
-- [dotmh](https://github.com/dotmh)
-- [AhmedAbdulla22](https://github.com/AhmedAbdulla22)
-- [Abdelmohsenn](https://github.com/Abdelmohsenn)
-- [VolkanSah](https://github.com/VolkanSah)
-- [manuelarte](https://github.com/manuelarte)
-- [ripan-baidya](https://github.com/ripan-baidya)
+- [ImAleexDz](https://github.com/ImAleexDz)
+- [Mellywins](https://github.com/Mellywins)
+- [ernst-bablick](https://github.com/ernst-bablick)
+- [ishandutta2007](https://github.com/ishandutta2007)
+- [safet1098](https://github.com/safet1098)
+- [rodrigogalura](https://github.com/rodrigogalura)
+- [fer-oliveiraa](https://github.com/fer-oliveiraa)
+- [OnyedikachiJohnChita](https://github.com/OnyedikachiJohnChita)
+- [PavelCz](https://github.com/PavelCz)
+- [iblameyuvraj](https://github.com/iblameyuvraj)
 
 ## ⭐ Recent stars
 
-- [Aiano/FOC](https://github.com/Aiano/FOC) - A BLDC motor driver using FOC algorithm. (today)
-- [RollingGecko/VescUartControl](https://github.com/RollingGecko/VescUartControl) - Arduino library to interface with the VESC bldc over UART. (today)
-- [pekkaroi/bldc-drive](https://github.com/pekkaroi/bldc-drive) - Cheap and simple brushless DC motor driver designed for CNC applications using STM32 microcontroller (today)
-- [xp4xbox/Python-Backdoor](https://github.com/xp4xbox/Python-Backdoor) - This project is a cross-platform backdoor/reverse shell and post-exploitation tool written in Python3 (today)
-- [PhoenixFire6934/Classic-Brawl](https://github.com/PhoenixFire6934/Classic-Brawl) - Python Brawl Stars server emulator for version 26.184 (today)
+- [Aiano/FOC](https://github.com/Aiano/FOC) - A BLDC motor driver using FOC algorithm. (1 day ago)
+- [RollingGecko/VescUartControl](https://github.com/RollingGecko/VescUartControl) - Arduino library to interface with the VESC bldc over UART. (1 day ago)
+- [pekkaroi/bldc-drive](https://github.com/pekkaroi/bldc-drive) - Cheap and simple brushless DC motor driver designed for CNC applications using STM32 microcontroller (1 day ago)
+- [xp4xbox/Python-Backdoor](https://github.com/xp4xbox/Python-Backdoor) - This project is a cross-platform backdoor/reverse shell and post-exploitation tool written in Python3 (1 day ago)
+- [PhoenixFire6934/Classic-Brawl](https://github.com/PhoenixFire6934/Classic-Brawl) - Python Brawl Stars server emulator for version 26.184 (1 day ago)
 
 ## 🔨 Latest Pull Requests I published
