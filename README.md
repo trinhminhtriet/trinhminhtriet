@@ -46,16 +46,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [hugobid](https://github.com/hugobid)
+- [Virendra108](https://github.com/Virendra108)
+- [Mattral](https://github.com/Mattral)
+- [Xixxx-ish](https://github.com/Xixxx-ish)
+- [LucasSu520](https://github.com/LucasSu520)
+- [doublegate](https://github.com/doublegate)
+- [SayanthRock](https://github.com/SayanthRock)
 - [GrigoriiTarasov](https://github.com/GrigoriiTarasov)
 - [danrhodes](https://github.com/danrhodes)
 - [TheDistressedSOul](https://github.com/TheDistressedSOul)
-- [NazmusSayad](https://github.com/NazmusSayad)
-- [raptr45](https://github.com/raptr45)
-- [Notho-freedom](https://github.com/Notho-freedom)
-- [muhdasif1](https://github.com/muhdasif1)
-- [DHRUVILPATEL2303](https://github.com/DHRUVILPATEL2303)
-- [milagrosarganin](https://github.com/milagrosarganin)
-- [Meedooh13](https://github.com/Meedooh13)
 
 ## ⭐ Recent stars
 
