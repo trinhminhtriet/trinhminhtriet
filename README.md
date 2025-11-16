@@ -33,11 +33,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👷 Check out what I'm currently working on
 
-- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (4 days ago)
+- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (5 days ago)
 - [nctl-io/nctl-homepage](https://github.com/nctl-io/nctl-homepage) - 🚀 Modern homepage for NCTL: fast, responsive, TypeScript-powered, open source, and easy to customize. (1 month ago)
 - [nctl-io/nctl-branding](https://github.com/nctl-io/nctl-branding) - NCTL Branding 🖼️: Centralized assets and guidelines for consistent visual identity across NCTL projects and platforms. (1 month ago)
 - [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) - 🚀 All-in-one CLI toolkit for developers: scaffold, manage, automate, and boost productivity across languages! (1 month ago)
-- [lamhaison/aws-cli-utils](https://github.com/lamhaison/aws-cli-utils) - This is the project to collect helpful aws cli commandline with complex options to support your working (1 month ago)
+- [lamhaison/aws-cli-utils](https://github.com/lamhaison/aws-cli-utils) - This is the project to collect helpful aws cli commandline with complex options to support your working (2 months ago)
 - [trinhminhtriet/dwipe](https://github.com/trinhminhtriet/dwipe) - 🧹 Fast, cross-platform disk cleanup tool with interactive UI for easy directory size visualization. (2 months ago)
 - [nctl-io/nctl-roadmap](https://github.com/nctl-io/nctl-roadmap) (2 months ago)
 - [nctl-io/.github](https://github.com/nctl-io/.github) - 🌐 Network. Connect. Transform. Lead. (2 months ago)
@@ -46,23 +46,23 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
-- [aronson](https://github.com/aronson)
-- [deepraj16](https://github.com/deepraj16)
-- [Meeyan137](https://github.com/Meeyan137)
-- [udayb3](https://github.com/udayb3)
-- [dario208](https://github.com/dario208)
-- [sagar-vaghela](https://github.com/sagar-vaghela)
-- [luongdthong2889](https://github.com/luongdthong2889)
-- [s6xur1ty](https://github.com/s6xur1ty)
-- [passion512](https://github.com/passion512)
-- [francescamen](https://github.com/francescamen)
+- [GrigoriiTarasov](https://github.com/GrigoriiTarasov)
+- [danrhodes](https://github.com/danrhodes)
+- [TheDistressedSOul](https://github.com/TheDistressedSOul)
+- [NazmusSayad](https://github.com/NazmusSayad)
+- [raptr45](https://github.com/raptr45)
+- [Notho-freedom](https://github.com/Notho-freedom)
+- [muhdasif1](https://github.com/muhdasif1)
+- [DHRUVILPATEL2303](https://github.com/DHRUVILPATEL2303)
+- [milagrosarganin](https://github.com/milagrosarganin)
+- [Meedooh13](https://github.com/Meedooh13)
 
 ## ⭐ Recent stars
 
-- [Aiano/FOC](https://github.com/Aiano/FOC) - A BLDC motor driver using FOC algorithm. (2 days ago)
-- [RollingGecko/VescUartControl](https://github.com/RollingGecko/VescUartControl) - Arduino library to interface with the VESC bldc over UART. (2 days ago)
-- [pekkaroi/bldc-drive](https://github.com/pekkaroi/bldc-drive) - Cheap and simple brushless DC motor driver designed for CNC applications using STM32 microcontroller (2 days ago)
-- [xp4xbox/Python-Backdoor](https://github.com/xp4xbox/Python-Backdoor) - This project is a cross-platform backdoor/reverse shell and post-exploitation tool written in Python3 (2 days ago)
-- [PhoenixFire6934/Classic-Brawl](https://github.com/PhoenixFire6934/Classic-Brawl) - Python Brawl Stars server emulator for version 26.184 (2 days ago)
+- [Aiano/FOC](https://github.com/Aiano/FOC) - A BLDC motor driver using FOC algorithm. (3 days ago)
+- [RollingGecko/VescUartControl](https://github.com/RollingGecko/VescUartControl) - Arduino library to interface with the VESC bldc over UART. (3 days ago)
+- [pekkaroi/bldc-drive](https://github.com/pekkaroi/bldc-drive) - Cheap and simple brushless DC motor driver designed for CNC applications using STM32 microcontroller (3 days ago)
+- [xp4xbox/Python-Backdoor](https://github.com/xp4xbox/Python-Backdoor) - This project is a cross-platform backdoor/reverse shell and post-exploitation tool written in Python3 (3 days ago)
+- [PhoenixFire6934/Classic-Brawl](https://github.com/PhoenixFire6934/Classic-Brawl) - Python Brawl Stars server emulator for version 26.184 (3 days ago)
 
 ## 🔨 Latest Pull Requests I published
