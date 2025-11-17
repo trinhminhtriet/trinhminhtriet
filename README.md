@@ -46,16 +46,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
-- [Pream-webapps](https://github.com/Pream-webapps)
-- [boivikh](https://github.com/boivikh)
-- [liannmaka](https://github.com/liannmaka)
-- [ishandutta2007](https://github.com/ishandutta2007)
-- [hugobid](https://github.com/hugobid)
-- [Virendra108](https://github.com/Virendra108)
-- [Mattral](https://github.com/Mattral)
-- [Xixxx-ish](https://github.com/Xixxx-ish)
-- [LucasSu520](https://github.com/LucasSu520)
-- [doublegate](https://github.com/doublegate)
+- [CodyOnGit](https://github.com/CodyOnGit)
+- [RINEARN](https://github.com/RINEARN)
+- [tyzrex](https://github.com/tyzrex)
+- [lumbiniRandika](https://github.com/lumbiniRandika)
+- [Ares-Cymka](https://github.com/Ares-Cymka)
+- [saniyayousuf](https://github.com/saniyayousuf)
+- [Yeabtsega-Tesfaye](https://github.com/Yeabtsega-Tesfaye)
+- [b03073557](https://github.com/b03073557)
+- [bhza](https://github.com/bhza)
+- [yen-yens](https://github.com/yen-yens)
 
 ## ⭐ Recent stars
 
