@@ -46,16 +46,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [ashkan0201](https://github.com/ashkan0201)
+- [doetotime](https://github.com/doetotime)
+- [Shivam909058](https://github.com/Shivam909058)
+- [peiwithhao](https://github.com/peiwithhao)
+- [mehmet-kozan](https://github.com/mehmet-kozan)
 - [ishandutta2007](https://github.com/ishandutta2007)
 - [evilpuppyy](https://github.com/evilpuppyy)
 - [irenerodriguezrod](https://github.com/irenerodriguezrod)
 - [marstrx](https://github.com/marstrx)
 - [devflames](https://github.com/devflames)
-- [Topdev1234](https://github.com/Topdev1234)
-- [K1nkyio](https://github.com/K1nkyio)
-- [FragmentosTemporales](https://github.com/FragmentosTemporales)
-- [MarquesJr132](https://github.com/MarquesJr132)
-- [LZHMS](https://github.com/LZHMS)
 
 ## ⭐ Recent stars
 
