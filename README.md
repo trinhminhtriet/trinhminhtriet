@@ -46,16 +46,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [KB-Programmer](https://github.com/KB-Programmer)
+- [EskYzK](https://github.com/EskYzK)
+- [lovable821](https://github.com/lovable821)
+- [mehmet-kozan](https://github.com/mehmet-kozan)
+- [GozdeEBaran](https://github.com/GozdeEBaran)
 - [gxuoo](https://github.com/gxuoo)
 - [reallalalune](https://github.com/reallalalune)
-- [mehmet-kozan](https://github.com/mehmet-kozan)
 - [Kyleskiva](https://github.com/Kyleskiva)
 - [ishandutta2007](https://github.com/ishandutta2007)
 - [Jonas-SLara](https://github.com/Jonas-SLara)
-- [flex9999](https://github.com/flex9999)
-- [Ahmad986Ferdaws](https://github.com/Ahmad986Ferdaws)
-- [ashkan0201](https://github.com/ashkan0201)
-- [doetotime](https://github.com/doetotime)
 
 ## ⭐ Recent stars
 
