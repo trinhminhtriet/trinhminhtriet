@@ -42,20 +42,20 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [nctl-io/nctl-roadmap](https://github.com/nctl-io/nctl-roadmap) (2 months ago)
 - [nctl-io/.github](https://github.com/nctl-io/.github) - 🌐 Network. Connect. Transform. Lead. (2 months ago)
 - [trinhminhtriet/sizr](https://github.com/trinhminhtriet/sizr) - 📈 A fast, Rust-based tool to analyze file system usage with colorful output, file aggregation, exclusions, and directory comparisons. (2 months ago)
-- [trinhminhtriet/blast](https://github.com/trinhminhtriet/blast) - 🚀 Blast: A powerful, lightweight HTTP load generator for stress testing and benchmarking web applications with ease. (2 months ago)
+- [trinhminhtriet/blast](https://github.com/trinhminhtriet/blast) - 🚀 Blast: A powerful, lightweight HTTP load generator for stress testing and benchmarking web applications with ease. (3 months ago)
 
 ## 👯 Check out my recent followers
 
+- [Duaa-Hammad](https://github.com/Duaa-Hammad)
+- [KianEbtekari0](https://github.com/KianEbtekari0)
+- [malak-hady](https://github.com/malak-hady)
+- [Virendra1807](https://github.com/Virendra1807)
+- [darren277](https://github.com/darren277)
 - [rojesh-shikhrakar](https://github.com/rojesh-shikhrakar)
 - [Billytomno](https://github.com/Billytomno)
 - [ishandutta2007](https://github.com/ishandutta2007)
 - [EngRidhoNet](https://github.com/EngRidhoNet)
 - [Mohammadtyy](https://github.com/Mohammadtyy)
-- [haoli-zbdbc](https://github.com/haoli-zbdbc)
-- [ivasik-k7](https://github.com/ivasik-k7)
-- [mehmet-kozan](https://github.com/mehmet-kozan)
-- [sylee6529](https://github.com/sylee6529)
-- [erichm1](https://github.com/erichm1)
 
 ## ⭐ Recent stars
 
