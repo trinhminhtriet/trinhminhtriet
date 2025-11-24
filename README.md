@@ -42,20 +42,20 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [nctl-io/nctl-roadmap](https://github.com/nctl-io/nctl-roadmap) (2 months ago)
 - [nctl-io/.github](https://github.com/nctl-io/.github) - 🌐 Network. Connect. Transform. Lead. (2 months ago)
 - [trinhminhtriet/sizr](https://github.com/trinhminhtriet/sizr) - 📈 A fast, Rust-based tool to analyze file system usage with colorful output, file aggregation, exclusions, and directory comparisons. (3 months ago)
-- [trinhminhtriet/blast](https://github.com/trinhminhtriet/blast) - 🚀 Blast: A powerful, lightweight HTTP load generator for stress testing and benchmarking web applications with ease. (3 months ago)
+- [rust-rs/tabler](https://github.com/rust-rs/tabler) - 📊 Tabler: A lightweight TUI tool to view, query, and navigate CSV, TSV, and Parquet data files. (3 months ago)
 
 ## 👯 Check out my recent followers
 
+- [guevaraStian](https://github.com/guevaraStian)
+- [nicholas-raphael-farias](https://github.com/nicholas-raphael-farias)
+- [ishandutta2007](https://github.com/ishandutta2007)
+- [mordecai-forever](https://github.com/mordecai-forever)
+- [Lipo20251](https://github.com/Lipo20251)
+- [ttn222003](https://github.com/ttn222003)
+- [suryatiwari8462-web](https://github.com/suryatiwari8462-web)
+- [mustkem](https://github.com/mustkem)
 - [electroluxdev](https://github.com/electroluxdev)
 - [Viktotovich](https://github.com/Viktotovich)
-- [alvinzanuaputra](https://github.com/alvinzanuaputra)
-- [KnowledgeSeeker101-bit](https://github.com/KnowledgeSeeker101-bit)
-- [grosjeanbaptiste](https://github.com/grosjeanbaptiste)
-- [ishandutta2007](https://github.com/ishandutta2007)
-- [ChinmayKaitade](https://github.com/ChinmayKaitade)
-- [dohoudaniel](https://github.com/dohoudaniel)
-- [organicnz](https://github.com/organicnz)
-- [Stepanda1](https://github.com/Stepanda1)
 
 ## ⭐ Recent stars
 
