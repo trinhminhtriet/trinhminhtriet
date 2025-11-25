@@ -33,29 +33,29 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👷 Check out what I'm currently working on
 
-- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (1 week ago)
+- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (2 weeks ago)
 - [nctl-io/nctl-branding](https://github.com/nctl-io/nctl-branding) - NCTL Branding 🖼️: Centralized assets and guidelines for consistent visual identity across NCTL projects and platforms. (1 month ago)
 - [nctl-io/nctl-homepage](https://github.com/nctl-io/nctl-homepage) - 🚀 Modern homepage for NCTL: fast, responsive, TypeScript-powered, open source, and easy to customize. (1 month ago)
 - [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) - 🚀 All-in-one CLI toolkit for developers: scaffold, manage, automate, and boost productivity across languages! (2 months ago)
 - [lamhaison/aws-cli-utils](https://github.com/lamhaison/aws-cli-utils) - This is the project to collect helpful aws cli commandline with complex options to support your working (2 months ago)
 - [trinhminhtriet/dwipe](https://github.com/trinhminhtriet/dwipe) - 🧹 Fast, cross-platform disk cleanup tool with interactive UI for easy directory size visualization. (2 months ago)
 - [nctl-io/nctl-roadmap](https://github.com/nctl-io/nctl-roadmap) (2 months ago)
-- [nctl-io/.github](https://github.com/nctl-io/.github) - 🌐 Network. Connect. Transform. Lead. (2 months ago)
+- [nctl-io/.github](https://github.com/nctl-io/.github) - 🌐 Network. Connect. Transform. Lead. (3 months ago)
 - [trinhminhtriet/sizr](https://github.com/trinhminhtriet/sizr) - 📈 A fast, Rust-based tool to analyze file system usage with colorful output, file aggregation, exclusions, and directory comparisons. (3 months ago)
 - [rust-rs/tabler](https://github.com/rust-rs/tabler) - 📊 Tabler: A lightweight TUI tool to view, query, and navigate CSV, TSV, and Parquet data files. (3 months ago)
 
 ## 👯 Check out my recent followers
 
-- [zariny](https://github.com/zariny)
-- [bodyAce15](https://github.com/bodyAce15)
-- [marco0808364](https://github.com/marco0808364)
-- [nedlir](https://github.com/nedlir)
-- [guevaraStian](https://github.com/guevaraStian)
-- [nicholas-raphael-farias](https://github.com/nicholas-raphael-farias)
 - [ishandutta2007](https://github.com/ishandutta2007)
-- [mordecai-forever](https://github.com/mordecai-forever)
-- [Lipo20251](https://github.com/Lipo20251)
-- [ttn222003](https://github.com/ttn222003)
+- [mindgamess732](https://github.com/mindgamess732)
+- [naekang](https://github.com/naekang)
+- [f0Ily](https://github.com/f0Ily)
+- [monkamoon](https://github.com/monkamoon)
+- [Naomer](https://github.com/Naomer)
+- [CodeMaster7000](https://github.com/CodeMaster7000)
+- [shahriar-rahman](https://github.com/shahriar-rahman)
+- [loveruffle](https://github.com/loveruffle)
+- [zariny](https://github.com/zariny)
 
 ## ⭐ Recent stars
 
