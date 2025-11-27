@@ -46,16 +46,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [aaronschulz600](https://github.com/aaronschulz600)
+- [ivasik-k7](https://github.com/ivasik-k7)
+- [mudmykola](https://github.com/mudmykola)
+- [puppipuppypup](https://github.com/puppipuppypup)
+- [ishandutta2007](https://github.com/ishandutta2007)
 - [Isall-ux](https://github.com/Isall-ux)
 - [pranav-avn](https://github.com/pranav-avn)
 - [btcwoot](https://github.com/btcwoot)
 - [alanchrissantony](https://github.com/alanchrissantony)
 - [nandan2003](https://github.com/nandan2003)
-- [ddroid](https://github.com/ddroid)
-- [MuhammadBaibarsZainUlAbideen](https://github.com/MuhammadBaibarsZainUlAbideen)
-- [anthonyrussano](https://github.com/anthonyrussano)
-- [pereiramateus23](https://github.com/pereiramateus23)
-- [ishandutta2007](https://github.com/ishandutta2007)
 
 ## ⭐ Recent stars
 
