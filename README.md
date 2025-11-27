@@ -46,23 +46,23 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Isall-ux](https://github.com/Isall-ux)
+- [pranav-avn](https://github.com/pranav-avn)
+- [btcwoot](https://github.com/btcwoot)
 - [alanchrissantony](https://github.com/alanchrissantony)
-- [ivasik-k7](https://github.com/ivasik-k7)
 - [nandan2003](https://github.com/nandan2003)
 - [ddroid](https://github.com/ddroid)
 - [MuhammadBaibarsZainUlAbideen](https://github.com/MuhammadBaibarsZainUlAbideen)
 - [anthonyrussano](https://github.com/anthonyrussano)
 - [pereiramateus23](https://github.com/pereiramateus23)
 - [ishandutta2007](https://github.com/ishandutta2007)
-- [mooncitydev](https://github.com/mooncitydev)
-- [nitish-verma8](https://github.com/nitish-verma8)
 
 ## ⭐ Recent stars
 
-- [Aiano/FOC](https://github.com/Aiano/FOC) - A BLDC motor driver using FOC algorithm. (1 week ago)
-- [RollingGecko/VescUartControl](https://github.com/RollingGecko/VescUartControl) - Arduino library to interface with the VESC bldc over UART. (1 week ago)
-- [pekkaroi/bldc-drive](https://github.com/pekkaroi/bldc-drive) - Cheap and simple brushless DC motor driver designed for CNC applications using STM32 microcontroller (1 week ago)
-- [xp4xbox/Python-Backdoor](https://github.com/xp4xbox/Python-Backdoor) - This project is a cross-platform backdoor/reverse shell and post-exploitation tool written in Python3 (1 week ago)
-- [PhoenixFire6934/Classic-Brawl](https://github.com/PhoenixFire6934/Classic-Brawl) - Python Brawl Stars server emulator for version 26.184 (1 week ago)
+- [Aiano/FOC](https://github.com/Aiano/FOC) - A BLDC motor driver using FOC algorithm. (2 weeks ago)
+- [RollingGecko/VescUartControl](https://github.com/RollingGecko/VescUartControl) - Arduino library to interface with the VESC bldc over UART. (2 weeks ago)
+- [pekkaroi/bldc-drive](https://github.com/pekkaroi/bldc-drive) - Cheap and simple brushless DC motor driver designed for CNC applications using STM32 microcontroller (2 weeks ago)
+- [xp4xbox/Python-Backdoor](https://github.com/xp4xbox/Python-Backdoor) - This project is a cross-platform backdoor/reverse shell and post-exploitation tool written in Python3 (2 weeks ago)
+- [PhoenixFire6934/Classic-Brawl](https://github.com/PhoenixFire6934/Classic-Brawl) - Python Brawl Stars server emulator for version 26.184 (2 weeks ago)
 
 ## 🔨 Latest Pull Requests I published
