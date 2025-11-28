@@ -39,23 +39,23 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) - 🚀 All-in-one CLI toolkit for developers: scaffold, manage, automate, and boost productivity across languages! (2 months ago)
 - [lamhaison/aws-cli-utils](https://github.com/lamhaison/aws-cli-utils) - This is the project to collect helpful aws cli commandline with complex options to support your working (2 months ago)
 - [trinhminhtriet/dwipe](https://github.com/trinhminhtriet/dwipe) - 🧹 Fast, cross-platform disk cleanup tool with interactive UI for easy directory size visualization. (2 months ago)
-- [nctl-io/nctl-roadmap](https://github.com/nctl-io/nctl-roadmap) (2 months ago)
+- [nctl-io/nctl-roadmap](https://github.com/nctl-io/nctl-roadmap) (3 months ago)
 - [nctl-io/.github](https://github.com/nctl-io/.github) - 🌐 Network. Connect. Transform. Lead. (3 months ago)
 - [trinhminhtriet/sizr](https://github.com/trinhminhtriet/sizr) - 📈 A fast, Rust-based tool to analyze file system usage with colorful output, file aggregation, exclusions, and directory comparisons. (3 months ago)
 - [rust-rs/tabler](https://github.com/rust-rs/tabler) - 📊 Tabler: A lightweight TUI tool to view, query, and navigate CSV, TSV, and Parquet data files. (3 months ago)
 
 ## 👯 Check out my recent followers
 
-- [aaronschulz600](https://github.com/aaronschulz600)
-- [ivasik-k7](https://github.com/ivasik-k7)
-- [mudmykola](https://github.com/mudmykola)
-- [puppipuppypup](https://github.com/puppipuppypup)
+- [tekteku](https://github.com/tekteku)
+- [veloproofy](https://github.com/veloproofy)
+- [ggzy12345](https://github.com/ggzy12345)
 - [ishandutta2007](https://github.com/ishandutta2007)
-- [Isall-ux](https://github.com/Isall-ux)
-- [pranav-avn](https://github.com/pranav-avn)
-- [btcwoot](https://github.com/btcwoot)
-- [alanchrissantony](https://github.com/alanchrissantony)
-- [nandan2003](https://github.com/nandan2003)
+- [sangeeth-606](https://github.com/sangeeth-606)
+- [heitor57](https://github.com/heitor57)
+- [SoheilGtex](https://github.com/SoheilGtex)
+- [alegauss](https://github.com/alegauss)
+- [bodyAce15](https://github.com/bodyAce15)
+- [gwmichael](https://github.com/gwmichael)
 
 ## ⭐ Recent stars
 
