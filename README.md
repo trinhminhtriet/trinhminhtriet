@@ -46,6 +46,9 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [ishandutta2007](https://github.com/ishandutta2007)
+- [KingshukChatterjee007](https://github.com/KingshukChatterjee007)
+- [beytekindavut](https://github.com/beytekindavut)
 - [PudgySol](https://github.com/PudgySol)
 - [SevenChao](https://github.com/SevenChao)
 - [htheran](https://github.com/htheran)
@@ -53,9 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Sharukhhh](https://github.com/Sharukhhh)
 - [BudimanZahri](https://github.com/BudimanZahri)
 - [buddy1016](https://github.com/buddy1016)
-- [Akassias](https://github.com/Akassias)
-- [tekteku](https://github.com/tekteku)
-- [veloproofy](https://github.com/veloproofy)
 
 ## ⭐ Recent stars
 
