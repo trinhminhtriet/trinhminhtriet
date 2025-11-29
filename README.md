@@ -46,7 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
-- [ishandutta2007](https://github.com/ishandutta2007)
+- [yasmineelsherif27-rgb](https://github.com/yasmineelsherif27-rgb)
 - [KingshukChatterjee007](https://github.com/KingshukChatterjee007)
 - [beytekindavut](https://github.com/beytekindavut)
 - [PudgySol](https://github.com/PudgySol)
