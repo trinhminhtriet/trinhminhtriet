@@ -47,15 +47,15 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 ## 👯 Check out my recent followers
 
 - [ishandutta2007](https://github.com/ishandutta2007)
+- [ivasik-k7](https://github.com/ivasik-k7)
+- [Emmah-oo](https://github.com/Emmah-oo)
+- [Diksha20Kam](https://github.com/Diksha20Kam)
+- [Akashbayzid](https://github.com/Akashbayzid)
+- [Davidjos03](https://github.com/Davidjos03)
+- [elvinafirmansyah](https://github.com/elvinafirmansyah)
 - [DulranS](https://github.com/DulranS)
 - [subh839](https://github.com/subh839)
 - [milad-hub](https://github.com/milad-hub)
-- [Nadeem1295](https://github.com/Nadeem1295)
-- [Fgaoxing](https://github.com/Fgaoxing)
-- [C0REMEM0RY](https://github.com/C0REMEM0RY)
-- [anandtb09](https://github.com/anandtb09)
-- [a6h15hek](https://github.com/a6h15hek)
-- [yaoiadd1ct](https://github.com/yaoiadd1ct)
 
 ## ⭐ Recent stars
 
