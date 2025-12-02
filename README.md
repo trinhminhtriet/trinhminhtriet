@@ -46,6 +46,9 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [ishandutta2007](https://github.com/ishandutta2007)
+- [BenitoJD](https://github.com/BenitoJD)
+- [xm14](https://github.com/xm14)
 - [ExceptAnyone](https://github.com/ExceptAnyone)
 - [jyoeymama](https://github.com/jyoeymama)
 - [arewageek](https://github.com/arewageek)
@@ -53,9 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [dexorynLabs](https://github.com/dexorynLabs)
 - [lolMysteryMan1337](https://github.com/lolMysteryMan1337)
 - [2veestro](https://github.com/2veestro)
-- [Saeid-Ghaderi](https://github.com/Saeid-Ghaderi)
-- [UmaimaMehmood](https://github.com/UmaimaMehmood)
-- [WaRtr0](https://github.com/WaRtr0)
 
 ## ⭐ Recent stars
 
