@@ -33,7 +33,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👷 Check out what I'm currently working on
 
-- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (2 weeks ago)
+- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (3 weeks ago)
 - [nctl-io/nctl-homepage](https://github.com/nctl-io/nctl-homepage) - 🚀 Modern homepage for NCTL: fast, responsive, TypeScript-powered, open source, and easy to customize. (1 month ago)
 - [nctl-io/nctl-branding](https://github.com/nctl-io/nctl-branding) - NCTL Branding 🖼️: Centralized assets and guidelines for consistent visual identity across NCTL projects and platforms. (1 month ago)
 - [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) - 🚀 All-in-one CLI toolkit for developers: scaffold, manage, automate, and boost productivity across languages! (2 months ago)
@@ -46,16 +46,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
-- [ishandutta2007](https://github.com/ishandutta2007)
-- [ivasik-k7](https://github.com/ivasik-k7)
-- [Emmah-oo](https://github.com/Emmah-oo)
-- [Diksha20Kam](https://github.com/Diksha20Kam)
-- [Akashbayzid](https://github.com/Akashbayzid)
-- [Davidjos03](https://github.com/Davidjos03)
-- [elvinafirmansyah](https://github.com/elvinafirmansyah)
-- [DulranS](https://github.com/DulranS)
-- [subh839](https://github.com/subh839)
-- [milad-hub](https://github.com/milad-hub)
+- [ExceptAnyone](https://github.com/ExceptAnyone)
+- [jyoeymama](https://github.com/jyoeymama)
+- [arewageek](https://github.com/arewageek)
+- [ProsellaAnalyst](https://github.com/ProsellaAnalyst)
+- [dexorynLabs](https://github.com/dexorynLabs)
+- [lolMysteryMan1337](https://github.com/lolMysteryMan1337)
+- [2veestro](https://github.com/2veestro)
+- [Saeid-Ghaderi](https://github.com/Saeid-Ghaderi)
+- [UmaimaMehmood](https://github.com/UmaimaMehmood)
+- [WaRtr0](https://github.com/WaRtr0)
 
 ## ⭐ Recent stars
 
