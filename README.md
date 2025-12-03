@@ -46,16 +46,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [CelaFlori](https://github.com/CelaFlori)
+- [leonodasath-maker](https://github.com/leonodasath-maker)
+- [UItra-c](https://github.com/UItra-c)
+- [SARTHAK4U](https://github.com/SARTHAK4U)
+- [greenhub7](https://github.com/greenhub7)
+- [joebertcerezo](https://github.com/joebertcerezo)
+- [azeemshereef007](https://github.com/azeemshereef007)
+- [Yoepee](https://github.com/Yoepee)
+- [ishandutta2007](https://github.com/ishandutta2007)
 - [CODEMAX666](https://github.com/CODEMAX666)
-- [lucasschlei](https://github.com/lucasschlei)
-- [giladfuchs](https://github.com/giladfuchs)
-- [roemerfamily1337](https://github.com/roemerfamily1337)
-- [beytekindavut](https://github.com/beytekindavut)
-- [Dot-KT](https://github.com/Dot-KT)
-- [pongpong-zigzag](https://github.com/pongpong-zigzag)
-- [e7217](https://github.com/e7217)
-- [BenitoJD](https://github.com/BenitoJD)
-- [xm14](https://github.com/xm14)
 
 ## ⭐ Recent stars
 
