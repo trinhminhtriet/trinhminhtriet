@@ -46,16 +46,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Donatienneobry](https://github.com/Donatienneobry)
+- [karanikathungu-crypto](https://github.com/karanikathungu-crypto)
+- [maxpicelli](https://github.com/maxpicelli)
+- [billyted1999-sudo](https://github.com/billyted1999-sudo)
+- [Darius22947](https://github.com/Darius22947)
+- [ishandutta2007](https://github.com/ishandutta2007)
 - [0x0Zeus](https://github.com/0x0Zeus)
 - [maldon79](https://github.com/maldon79)
 - [Kadoshima](https://github.com/Kadoshima)
 - [hamidukarimi](https://github.com/hamidukarimi)
-- [Sudarson10](https://github.com/Sudarson10)
-- [Mayumixx](https://github.com/Mayumixx)
-- [itsbhavsagar](https://github.com/itsbhavsagar)
-- [negatifzero](https://github.com/negatifzero)
-- [mrwhite4939](https://github.com/mrwhite4939)
-- [Kamil-Bisbis](https://github.com/Kamil-Bisbis)
 
 ## ⭐ Recent stars
 
