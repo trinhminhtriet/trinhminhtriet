@@ -46,16 +46,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Mariano-Ryser](https://github.com/Mariano-Ryser)
+- [IdhamAzizMarlin](https://github.com/IdhamAzizMarlin)
+- [Dhruvekariya](https://github.com/Dhruvekariya)
+- [mamun196255](https://github.com/mamun196255)
+- [CALLED0UT](https://github.com/CALLED0UT)
+- [ishandutta2007](https://github.com/ishandutta2007)
+- [devddine](https://github.com/devddine)
+- [RaminadoSolver](https://github.com/RaminadoSolver)
 - [princeofheartt](https://github.com/princeofheartt)
 - [albertkumi09-dot](https://github.com/albertkumi09-dot)
-- [anaj-krishna](https://github.com/anaj-krishna)
-- [theekibet](https://github.com/theekibet)
-- [jonayed-hossen](https://github.com/jonayed-hossen)
-- [Kolawole-Ikeoluwa-Joshua](https://github.com/Kolawole-Ikeoluwa-Joshua)
-- [ishandutta2007](https://github.com/ishandutta2007)
-- [PetarK20](https://github.com/PetarK20)
-- [Sabir555S](https://github.com/Sabir555S)
-- [mehmet-kozan](https://github.com/mehmet-kozan)
 
 ## ⭐ Recent stars
 
