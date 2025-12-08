@@ -46,16 +46,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
-- [jmloiola](https://github.com/jmloiola)
-- [happysemicolon](https://github.com/happysemicolon)
-- [Mariano-Ryser](https://github.com/Mariano-Ryser)
-- [IdhamAzizMarlin](https://github.com/IdhamAzizMarlin)
-- [Dhruvekariya](https://github.com/Dhruvekariya)
-- [mamun196255](https://github.com/mamun196255)
-- [CALLED0UT](https://github.com/CALLED0UT)
+- [MohammadGhnim](https://github.com/MohammadGhnim)
+- [adityashirsatrao007](https://github.com/adityashirsatrao007)
+- [aquacommander](https://github.com/aquacommander)
 - [ishandutta2007](https://github.com/ishandutta2007)
-- [devddine](https://github.com/devddine)
-- [RaminadoSolver](https://github.com/RaminadoSolver)
+- [neymarjunior11jr22-hub](https://github.com/neymarjunior11jr22-hub)
+- [venus912](https://github.com/venus912)
+- [SkyDev16](https://github.com/SkyDev16)
+- [linuxtusX5](https://github.com/linuxtusX5)
+- [joebertcerezo](https://github.com/joebertcerezo)
+- [jmloiola](https://github.com/jmloiola)
 
 ## ⭐ Recent stars
 
