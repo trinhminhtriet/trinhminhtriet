@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [BASTlGHG](https://github.com/BASTlGHG)
+- [yawopokuasare](https://github.com/yawopokuasare)
 - [vickttor](https://github.com/vickttor)
 - [ishandutta2007](https://github.com/ishandutta2007)
 - [RealHope1](https://github.com/RealHope1)
@@ -54,8 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Adijay-kumar](https://github.com/Adijay-kumar)
 - [nathanssantos](https://github.com/nathanssantos)
 - [codeonthespectrum](https://github.com/codeonthespectrum)
-- [selenon](https://github.com/selenon)
-- [MohammadGhnim](https://github.com/MohammadGhnim)
 
 ## ⭐ Recent stars
 
