@@ -33,7 +33,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👷 Check out what I'm currently working on
 
-- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (3 weeks ago)
+- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (4 weeks ago)
 - [nctl-io/nctl-branding](https://github.com/nctl-io/nctl-branding) - NCTL Branding 🖼️: Centralized assets and guidelines for consistent visual identity across NCTL projects and platforms. (1 month ago)
 - [nctl-io/nctl-homepage](https://github.com/nctl-io/nctl-homepage) - 🚀 Modern homepage for NCTL: fast, responsive, TypeScript-powered, open source, and easy to customize. (1 month ago)
 - [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) - 🚀 All-in-one CLI toolkit for developers: scaffold, manage, automate, and boost productivity across languages! (2 months ago)
@@ -46,16 +46,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
-- [MohammadGhnim](https://github.com/MohammadGhnim)
-- [adityashirsatrao007](https://github.com/adityashirsatrao007)
-- [aquacommander](https://github.com/aquacommander)
+- [vickttor](https://github.com/vickttor)
 - [ishandutta2007](https://github.com/ishandutta2007)
-- [neymarjunior11jr22-hub](https://github.com/neymarjunior11jr22-hub)
-- [venus912](https://github.com/venus912)
-- [SkyDev16](https://github.com/SkyDev16)
-- [linuxtusX5](https://github.com/linuxtusX5)
-- [joebertcerezo](https://github.com/joebertcerezo)
-- [jmloiola](https://github.com/jmloiola)
+- [RealHope1](https://github.com/RealHope1)
+- [Intelligence08](https://github.com/Intelligence08)
+- [CelaFlori](https://github.com/CelaFlori)
+- [Adijay-kumar](https://github.com/Adijay-kumar)
+- [nathanssantos](https://github.com/nathanssantos)
+- [codeonthespectrum](https://github.com/codeonthespectrum)
+- [selenon](https://github.com/selenon)
+- [MohammadGhnim](https://github.com/MohammadGhnim)
 
 ## ⭐ Recent stars
 
