@@ -46,16 +46,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
-- [BASTlGHG](https://github.com/BASTlGHG)
-- [yawopokuasare](https://github.com/yawopokuasare)
-- [vickttor](https://github.com/vickttor)
-- [ishandutta2007](https://github.com/ishandutta2007)
-- [RealHope1](https://github.com/RealHope1)
-- [Intelligence08](https://github.com/Intelligence08)
-- [CelaFlori](https://github.com/CelaFlori)
-- [Adijay-kumar](https://github.com/Adijay-kumar)
-- [nathanssantos](https://github.com/nathanssantos)
-- [codeonthespectrum](https://github.com/codeonthespectrum)
+- [Tainted-Roses](https://github.com/Tainted-Roses)
+- [dev1lsheart](https://github.com/dev1lsheart)
+- [mikechiloane](https://github.com/mikechiloane)
+- [24stefan](https://github.com/24stefan)
+- [Raji-sys](https://github.com/Raji-sys)
+- [veinfm](https://github.com/veinfm)
+- [iousuz](https://github.com/iousuz)
+- [Charcharmorningstar](https://github.com/Charcharmorningstar)
+- [RAGHUTTAMA-DEV](https://github.com/RAGHUTTAMA-DEV)
+- [JoaoPauloDel](https://github.com/JoaoPauloDel)
 
 ## ⭐ Recent stars
 
