@@ -46,16 +46,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [vanillydeerz](https://github.com/vanillydeerz)
+- [HarmVeenstra](https://github.com/HarmVeenstra)
+- [ramyrafaat24](https://github.com/ramyrafaat24)
+- [Purity-Euphemia](https://github.com/Purity-Euphemia)
 - [Tainted-Roses](https://github.com/Tainted-Roses)
 - [dev1lsheart](https://github.com/dev1lsheart)
 - [mikechiloane](https://github.com/mikechiloane)
 - [24stefan](https://github.com/24stefan)
 - [Raji-sys](https://github.com/Raji-sys)
 - [veinfm](https://github.com/veinfm)
-- [iousuz](https://github.com/iousuz)
-- [Charcharmorningstar](https://github.com/Charcharmorningstar)
-- [RAGHUTTAMA-DEV](https://github.com/RAGHUTTAMA-DEV)
-- [JoaoPauloDel](https://github.com/JoaoPauloDel)
 
 ## ⭐ Recent stars
 
