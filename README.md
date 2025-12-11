@@ -46,7 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
-- [hector064886](https://github.com/hector064886)
+- [lorde-enigma](https://github.com/lorde-enigma)
+- [hectorr-st](https://github.com/hectorr-st)
 - [fables-alive-games](https://github.com/fables-alive-games)
 - [PrinceUI-UX](https://github.com/PrinceUI-UX)
 - [Inventoris](https://github.com/Inventoris)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [EflexSolution](https://github.com/EflexSolution)
 - [LustraI](https://github.com/LustraI)
 - [vanillydeerz](https://github.com/vanillydeerz)
-- [HarmVeenstra](https://github.com/HarmVeenstra)
 
 ## ⭐ Recent stars
 
