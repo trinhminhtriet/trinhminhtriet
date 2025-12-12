@@ -46,16 +46,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [G153LL3](https://github.com/G153LL3)
+- [vigneshnkumar](https://github.com/vigneshnkumar)
+- [albonidrizi](https://github.com/albonidrizi)
+- [mohamed-sayed-elmahdy](https://github.com/mohamed-sayed-elmahdy)
 - [lorde-enigma](https://github.com/lorde-enigma)
 - [hectorr-st](https://github.com/hectorr-st)
 - [fables-alive-games](https://github.com/fables-alive-games)
 - [PrinceUI-UX](https://github.com/PrinceUI-UX)
 - [Inventoris](https://github.com/Inventoris)
 - [aertsimon90](https://github.com/aertsimon90)
-- [aprilrr](https://github.com/aprilrr)
-- [EflexSolution](https://github.com/EflexSolution)
-- [LustraI](https://github.com/LustraI)
-- [vanillydeerz](https://github.com/vanillydeerz)
 
 ## ⭐ Recent stars
 
