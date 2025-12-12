@@ -46,16 +46,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [super-eatsky](https://github.com/super-eatsky)
+- [CelaFlori](https://github.com/CelaFlori)
+- [jossym17](https://github.com/jossym17)
+- [HoussemDhiaEddine19](https://github.com/HoussemDhiaEddine19)
+- [Burserk84](https://github.com/Burserk84)
+- [tarcoxy](https://github.com/tarcoxy)
+- [schullegerhard](https://github.com/schullegerhard)
+- [eatsky1006](https://github.com/eatsky1006)
 - [G153LL3](https://github.com/G153LL3)
 - [vigneshnkumar](https://github.com/vigneshnkumar)
-- [albonidrizi](https://github.com/albonidrizi)
-- [mohamed-sayed-elmahdy](https://github.com/mohamed-sayed-elmahdy)
-- [lorde-enigma](https://github.com/lorde-enigma)
-- [hectorr-st](https://github.com/hectorr-st)
-- [fables-alive-games](https://github.com/fables-alive-games)
-- [PrinceUI-UX](https://github.com/PrinceUI-UX)
-- [Inventoris](https://github.com/Inventoris)
-- [aertsimon90](https://github.com/aertsimon90)
 
 ## ⭐ Recent stars
 
