@@ -46,6 +46,9 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [SHINS0UKOKU](https://github.com/SHINS0UKOKU)
+- [Debu110988](https://github.com/Debu110988)
+- [Preyash-Thakkar](https://github.com/Preyash-Thakkar)
 - [watashiwaAme](https://github.com/watashiwaAme)
 - [mohamed00736](https://github.com/mohamed00736)
 - [dkdakota](https://github.com/dkdakota)
@@ -53,9 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [abhishekprajapatt](https://github.com/abhishekprajapatt)
 - [sevvallaydogann](https://github.com/sevvallaydogann)
 - [kingsley-amoke](https://github.com/kingsley-amoke)
-- [XiaomingX](https://github.com/XiaomingX)
-- [super-eatsky](https://github.com/super-eatsky)
-- [CelaFlori](https://github.com/CelaFlori)
 
 ## ⭐ Recent stars
 
