@@ -46,23 +46,23 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [watashiwaAme](https://github.com/watashiwaAme)
+- [mohamed00736](https://github.com/mohamed00736)
+- [dkdakota](https://github.com/dkdakota)
+- [dimitriwalters](https://github.com/dimitriwalters)
+- [abhishekprajapatt](https://github.com/abhishekprajapatt)
+- [sevvallaydogann](https://github.com/sevvallaydogann)
+- [kingsley-amoke](https://github.com/kingsley-amoke)
+- [XiaomingX](https://github.com/XiaomingX)
 - [super-eatsky](https://github.com/super-eatsky)
 - [CelaFlori](https://github.com/CelaFlori)
-- [jossym17](https://github.com/jossym17)
-- [HoussemDhiaEddine19](https://github.com/HoussemDhiaEddine19)
-- [Burserk84](https://github.com/Burserk84)
-- [tarcoxy](https://github.com/tarcoxy)
-- [schullegerhard](https://github.com/schullegerhard)
-- [eatsky1006](https://github.com/eatsky1006)
-- [G153LL3](https://github.com/G153LL3)
-- [vigneshnkumar](https://github.com/vigneshnkumar)
 
 ## ⭐ Recent stars
 
-- [Aiano/FOC](https://github.com/Aiano/FOC) - A BLDC motor driver using FOC algorithm. (4 weeks ago)
-- [RollingGecko/VescUartControl](https://github.com/RollingGecko/VescUartControl) - Arduino library to interface with the VESC bldc over UART. (4 weeks ago)
-- [pekkaroi/bldc-drive](https://github.com/pekkaroi/bldc-drive) - Cheap and simple brushless DC motor driver designed for CNC applications using STM32 microcontroller (4 weeks ago)
-- [xp4xbox/Python-Backdoor](https://github.com/xp4xbox/Python-Backdoor) - This project is a cross-platform backdoor/reverse shell and post-exploitation tool written in Python3 (4 weeks ago)
-- [PhoenixFire6934/Classic-Brawl](https://github.com/PhoenixFire6934/Classic-Brawl) - Python Brawl Stars server emulator for version 26.184 (4 weeks ago)
+- [Aiano/FOC](https://github.com/Aiano/FOC) - A BLDC motor driver using FOC algorithm. (1 month ago)
+- [RollingGecko/VescUartControl](https://github.com/RollingGecko/VescUartControl) - Arduino library to interface with the VESC bldc over UART. (1 month ago)
+- [pekkaroi/bldc-drive](https://github.com/pekkaroi/bldc-drive) - Cheap and simple brushless DC motor driver designed for CNC applications using STM32 microcontroller (1 month ago)
+- [xp4xbox/Python-Backdoor](https://github.com/xp4xbox/Python-Backdoor) - This project is a cross-platform backdoor/reverse shell and post-exploitation tool written in Python3 (1 month ago)
+- [PhoenixFire6934/Classic-Brawl](https://github.com/PhoenixFire6934/Classic-Brawl) - Python Brawl Stars server emulator for version 26.184 (1 month ago)
 
 ## 🔨 Latest Pull Requests I published
