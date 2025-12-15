@@ -34,28 +34,28 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 ## 👷 Check out what I'm currently working on
 
 - [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (1 month ago)
-- [nctl-io/nctl-branding](https://github.com/nctl-io/nctl-branding) - NCTL Branding 🖼️: Centralized assets and guidelines for consistent visual identity across NCTL projects and platforms. (2 months ago)
 - [nctl-io/nctl-homepage](https://github.com/nctl-io/nctl-homepage) - 🚀 Modern homepage for NCTL: fast, responsive, TypeScript-powered, open source, and easy to customize. (2 months ago)
+- [nctl-io/nctl-branding](https://github.com/nctl-io/nctl-branding) - NCTL Branding 🖼️: Centralized assets and guidelines for consistent visual identity across NCTL projects and platforms. (2 months ago)
 - [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) - 🚀 All-in-one CLI toolkit for developers: scaffold, manage, automate, and boost productivity across languages! (2 months ago)
 - [lamhaison/aws-cli-utils](https://github.com/lamhaison/aws-cli-utils) - This is the project to collect helpful aws cli commandline with complex options to support your working (2 months ago)
 - [trinhminhtriet/dwipe](https://github.com/trinhminhtriet/dwipe) - 🧹 Fast, cross-platform disk cleanup tool with interactive UI for easy directory size visualization. (3 months ago)
 - [nctl-io/nctl-roadmap](https://github.com/nctl-io/nctl-roadmap) (3 months ago)
 - [nctl-io/.github](https://github.com/nctl-io/.github) - 🌐 Network. Connect. Transform. Lead. (3 months ago)
 - [trinhminhtriet/sizr](https://github.com/trinhminhtriet/sizr) - 📈 A fast, Rust-based tool to analyze file system usage with colorful output, file aggregation, exclusions, and directory comparisons. (3 months ago)
-- [trinhminhtriet/blast](https://github.com/trinhminhtriet/blast) - 🚀 Blast: A powerful, lightweight HTTP load generator for stress testing and benchmarking web applications with ease. (3 months ago)
+- [rust-rs/tabler](https://github.com/rust-rs/tabler) - 📊 Tabler: A lightweight TUI tool to view, query, and navigate CSV, TSV, and Parquet data files. (3 months ago)
 
 ## 👯 Check out my recent followers
 
+- [jenterra](https://github.com/jenterra)
+- [evgrezanov](https://github.com/evgrezanov)
+- [astabrutie8](https://github.com/astabrutie8)
+- [zahidchoudhury](https://github.com/zahidchoudhury)
+- [muskitma](https://github.com/muskitma)
+- [maxueljunior](https://github.com/maxueljunior)
+- [tomast1337](https://github.com/tomast1337)
 - [Ajanaku1-2](https://github.com/Ajanaku1-2)
 - [erencoskun11](https://github.com/erencoskun11)
-- [joebertcerezo](https://github.com/joebertcerezo)
 - [Ajca200](https://github.com/Ajca200)
-- [observer0x0](https://github.com/observer0x0)
-- [Dondrose](https://github.com/Dondrose)
-- [Keerthisai22](https://github.com/Keerthisai22)
-- [kinshuk-code-1729](https://github.com/kinshuk-code-1729)
-- [uthumany](https://github.com/uthumany)
-- [SHINS0UKOKU](https://github.com/SHINS0UKOKU)
 
 ## ⭐ Recent stars
 
