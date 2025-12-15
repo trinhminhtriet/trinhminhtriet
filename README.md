@@ -46,16 +46,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [xcontcom](https://github.com/xcontcom)
+- [georgetoloraia](https://github.com/georgetoloraia)
+- [takakorjok-hashboyaboy](https://github.com/takakorjok-hashboyaboy)
+- [theamallalgi](https://github.com/theamallalgi)
 - [jenterra](https://github.com/jenterra)
 - [evgrezanov](https://github.com/evgrezanov)
 - [astabrutie8](https://github.com/astabrutie8)
 - [zahidchoudhury](https://github.com/zahidchoudhury)
 - [muskitma](https://github.com/muskitma)
 - [maxueljunior](https://github.com/maxueljunior)
-- [tomast1337](https://github.com/tomast1337)
-- [Ajanaku1-2](https://github.com/Ajanaku1-2)
-- [erencoskun11](https://github.com/erencoskun11)
-- [Ajca200](https://github.com/Ajca200)
 
 ## ⭐ Recent stars
 
