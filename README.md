@@ -46,16 +46,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Fellipemarcal](https://github.com/Fellipemarcal)
+- [cuteandscaredofdeath](https://github.com/cuteandscaredofdeath)
+- [K-dev01](https://github.com/K-dev01)
+- [d0ngle8k](https://github.com/d0ngle8k)
+- [AvanishKulkarni](https://github.com/AvanishKulkarni)
+- [javlm](https://github.com/javlm)
 - [techspire0924](https://github.com/techspire0924)
 - [aertsimon90](https://github.com/aertsimon90)
 - [alhamrizvi-cloud](https://github.com/alhamrizvi-cloud)
 - [xcontcom](https://github.com/xcontcom)
-- [georgetoloraia](https://github.com/georgetoloraia)
-- [takakorjok-hashboyaboy](https://github.com/takakorjok-hashboyaboy)
-- [theamallalgi](https://github.com/theamallalgi)
-- [jenterra](https://github.com/jenterra)
-- [evgrezanov](https://github.com/evgrezanov)
-- [astabrutie8](https://github.com/astabrutie8)
 
 ## ⭐ Recent stars
 
