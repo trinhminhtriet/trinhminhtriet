@@ -37,7 +37,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [nctl-io/nctl-homepage](https://github.com/nctl-io/nctl-homepage) - 🚀 Modern homepage for NCTL: fast, responsive, TypeScript-powered, open source, and easy to customize. (2 months ago)
 - [nctl-io/nctl-branding](https://github.com/nctl-io/nctl-branding) - NCTL Branding 🖼️: Centralized assets and guidelines for consistent visual identity across NCTL projects and platforms. (2 months ago)
 - [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) - 🚀 All-in-one CLI toolkit for developers: scaffold, manage, automate, and boost productivity across languages! (2 months ago)
-- [lamhaison/aws-cli-utils](https://github.com/lamhaison/aws-cli-utils) - This is the project to collect helpful aws cli commandline with complex options to support your working (2 months ago)
+- [lamhaison/aws-cli-utils](https://github.com/lamhaison/aws-cli-utils) - This is the project to collect helpful aws cli commandline with complex options to support your working (3 months ago)
 - [trinhminhtriet/dwipe](https://github.com/trinhminhtriet/dwipe) - 🧹 Fast, cross-platform disk cleanup tool with interactive UI for easy directory size visualization. (3 months ago)
 - [nctl-io/nctl-roadmap](https://github.com/nctl-io/nctl-roadmap) (3 months ago)
 - [nctl-io/.github](https://github.com/nctl-io/.github) - 🌐 Network. Connect. Transform. Lead. (3 months ago)
@@ -46,6 +46,9 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [techspire0924](https://github.com/techspire0924)
+- [aertsimon90](https://github.com/aertsimon90)
+- [alhamrizvi-cloud](https://github.com/alhamrizvi-cloud)
 - [xcontcom](https://github.com/xcontcom)
 - [georgetoloraia](https://github.com/georgetoloraia)
 - [takakorjok-hashboyaboy](https://github.com/takakorjok-hashboyaboy)
@@ -53,9 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [jenterra](https://github.com/jenterra)
 - [evgrezanov](https://github.com/evgrezanov)
 - [astabrutie8](https://github.com/astabrutie8)
-- [zahidchoudhury](https://github.com/zahidchoudhury)
-- [muskitma](https://github.com/muskitma)
-- [maxueljunior](https://github.com/maxueljunior)
 
 ## ⭐ Recent stars
 
