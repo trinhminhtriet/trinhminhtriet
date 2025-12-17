@@ -46,6 +46,9 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [fusiondev117-boop](https://github.com/fusiondev117-boop)
+- [gopal-prakash-codes](https://github.com/gopal-prakash-codes)
+- [nodeexcel](https://github.com/nodeexcel)
 - [arun-kumar-codes](https://github.com/arun-kumar-codes)
 - [rasel1871480795-hue](https://github.com/rasel1871480795-hue)
 - [jrea-matc](https://github.com/jrea-matc)
@@ -53,9 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [iskaldobro](https://github.com/iskaldobro)
 - [woraphonjindasri-cmd](https://github.com/woraphonjindasri-cmd)
 - [morgansmiths](https://github.com/morgansmiths)
-- [aayush-kumar-codes](https://github.com/aayush-kumar-codes)
-- [Fellipemarcal](https://github.com/Fellipemarcal)
-- [cuteandscaredofdeath](https://github.com/cuteandscaredofdeath)
 
 ## ⭐ Recent stars
 
