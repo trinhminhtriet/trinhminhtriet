@@ -46,16 +46,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [arun-kumar-codes](https://github.com/arun-kumar-codes)
+- [rasel1871480795-hue](https://github.com/rasel1871480795-hue)
+- [jrea-matc](https://github.com/jrea-matc)
+- [devcatalyst00](https://github.com/devcatalyst00)
+- [iskaldobro](https://github.com/iskaldobro)
+- [woraphonjindasri-cmd](https://github.com/woraphonjindasri-cmd)
+- [morgansmiths](https://github.com/morgansmiths)
+- [aayush-kumar-codes](https://github.com/aayush-kumar-codes)
 - [Fellipemarcal](https://github.com/Fellipemarcal)
 - [cuteandscaredofdeath](https://github.com/cuteandscaredofdeath)
-- [K-dev01](https://github.com/K-dev01)
-- [d0ngle8k](https://github.com/d0ngle8k)
-- [AvanishKulkarni](https://github.com/AvanishKulkarni)
-- [javlm](https://github.com/javlm)
-- [techspire0924](https://github.com/techspire0924)
-- [aertsimon90](https://github.com/aertsimon90)
-- [alhamrizvi-cloud](https://github.com/alhamrizvi-cloud)
-- [xcontcom](https://github.com/xcontcom)
 
 ## ⭐ Recent stars
 
