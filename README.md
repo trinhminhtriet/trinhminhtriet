@@ -46,16 +46,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [techspire0924](https://github.com/techspire0924)
+- [simon47e](https://github.com/simon47e)
+- [vcool-tech](https://github.com/vcool-tech)
+- [Rahul-Khera-Codes](https://github.com/Rahul-Khera-Codes)
+- [cuteandscaredofdeath](https://github.com/cuteandscaredofdeath)
 - [fusiondev117-boop](https://github.com/fusiondev117-boop)
 - [gopal-prakash-codes](https://github.com/gopal-prakash-codes)
 - [nodeexcel](https://github.com/nodeexcel)
 - [arun-kumar-codes](https://github.com/arun-kumar-codes)
 - [rasel1871480795-hue](https://github.com/rasel1871480795-hue)
-- [jrea-matc](https://github.com/jrea-matc)
-- [devcatalyst00](https://github.com/devcatalyst00)
-- [iskaldobro](https://github.com/iskaldobro)
-- [woraphonjindasri-cmd](https://github.com/woraphonjindasri-cmd)
-- [morgansmiths](https://github.com/morgansmiths)
 
 ## ⭐ Recent stars
 
