@@ -46,16 +46,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Trojan3877](https://github.com/Trojan3877)
+- [amirhakim9477](https://github.com/amirhakim9477)
+- [adithya-vedhamani](https://github.com/adithya-vedhamani)
+- [jayesh-thar](https://github.com/jayesh-thar)
+- [joebertcerezo](https://github.com/joebertcerezo)
+- [mwakidenis](https://github.com/mwakidenis)
+- [ndizeyedavid](https://github.com/ndizeyedavid)
+- [daisukenishino2](https://github.com/daisukenishino2)
 - [Lactea-J](https://github.com/Lactea-J)
 - [sedegah](https://github.com/sedegah)
-- [regis-mucyo](https://github.com/regis-mucyo)
-- [aarush0101](https://github.com/aarush0101)
-- [Kelpejol](https://github.com/Kelpejol)
-- [OHANA-WEB](https://github.com/OHANA-WEB)
-- [lalroshan590](https://github.com/lalroshan590)
-- [miraclerose001](https://github.com/miraclerose001)
-- [mourice-dev](https://github.com/mourice-dev)
-- [aertsimon90](https://github.com/aertsimon90)
 
 ## ⭐ Recent stars
 
