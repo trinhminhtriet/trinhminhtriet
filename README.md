@@ -46,23 +46,23 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
-- [techspire0924](https://github.com/techspire0924)
-- [simon47e](https://github.com/simon47e)
-- [vcool-tech](https://github.com/vcool-tech)
-- [Rahul-Khera-Codes](https://github.com/Rahul-Khera-Codes)
-- [cuteandscaredofdeath](https://github.com/cuteandscaredofdeath)
-- [fusiondev117-boop](https://github.com/fusiondev117-boop)
-- [gopal-prakash-codes](https://github.com/gopal-prakash-codes)
-- [nodeexcel](https://github.com/nodeexcel)
-- [arun-kumar-codes](https://github.com/arun-kumar-codes)
-- [rasel1871480795-hue](https://github.com/rasel1871480795-hue)
+- [Lactea-J](https://github.com/Lactea-J)
+- [sedegah](https://github.com/sedegah)
+- [regis-mucyo](https://github.com/regis-mucyo)
+- [aarush0101](https://github.com/aarush0101)
+- [Kelpejol](https://github.com/Kelpejol)
+- [OHANA-WEB](https://github.com/OHANA-WEB)
+- [lalroshan590](https://github.com/lalroshan590)
+- [miraclerose001](https://github.com/miraclerose001)
+- [mourice-dev](https://github.com/mourice-dev)
+- [aertsimon90](https://github.com/aertsimon90)
 
 ## ⭐ Recent stars
 
+- [luubinhan/dev-proxy](https://github.com/luubinhan/dev-proxy) (1 day ago)
 - [Aiano/FOC](https://github.com/Aiano/FOC) - A BLDC motor driver using FOC algorithm. (1 month ago)
 - [RollingGecko/VescUartControl](https://github.com/RollingGecko/VescUartControl) - Arduino library to interface with the VESC bldc over UART. (1 month ago)
 - [pekkaroi/bldc-drive](https://github.com/pekkaroi/bldc-drive) - Cheap and simple brushless DC motor driver designed for CNC applications using STM32 microcontroller (1 month ago)
 - [xp4xbox/Python-Backdoor](https://github.com/xp4xbox/Python-Backdoor) - This project is a cross-platform backdoor/reverse shell and post-exploitation tool written in Python3 (1 month ago)
-- [PhoenixFire6934/Classic-Brawl](https://github.com/PhoenixFire6934/Classic-Brawl) - Python Brawl Stars server emulator for version 26.184 (1 month ago)
 
 ## 🔨 Latest Pull Requests I published
