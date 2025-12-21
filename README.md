@@ -46,16 +46,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [ebi852](https://github.com/ebi852)
+- [remygabriel080-cloud](https://github.com/remygabriel080-cloud)
+- [edgeaiot](https://github.com/edgeaiot)
+- [criticalPathway](https://github.com/criticalPathway)
+- [pwnedroot](https://github.com/pwnedroot)
+- [SAINTLYXSILAS](https://github.com/SAINTLYXSILAS)
+- [rainanirmal](https://github.com/rainanirmal)
 - [Anthonybrito11](https://github.com/Anthonybrito11)
 - [ChatHivernal](https://github.com/ChatHivernal)
 - [schullegerhard](https://github.com/schullegerhard)
-- [laimonas2g](https://github.com/laimonas2g)
-- [VenkataramananSelvaraju](https://github.com/VenkataramananSelvaraju)
-- [mathisjs](https://github.com/mathisjs)
-- [tarcisiomau4d](https://github.com/tarcisiomau4d)
-- [filedonkey](https://github.com/filedonkey)
-- [Trojan3877](https://github.com/Trojan3877)
-- [amirhakim9477](https://github.com/amirhakim9477)
 
 ## ⭐ Recent stars
 
