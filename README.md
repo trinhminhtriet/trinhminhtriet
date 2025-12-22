@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Poojandelvadiya](https://github.com/Poojandelvadiya)
+- [Fresh-Teacher](https://github.com/Fresh-Teacher)
 - [laimonas2g](https://github.com/laimonas2g)
 - [masonliiu](https://github.com/masonliiu)
 - [stevenlandon](https://github.com/stevenlandon)
@@ -54,8 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [remygabriel080-cloud](https://github.com/remygabriel080-cloud)
 - [edgeaiot](https://github.com/edgeaiot)
 - [criticalPathway](https://github.com/criticalPathway)
-- [pwnedroot](https://github.com/pwnedroot)
-- [SAINTLYXSILAS](https://github.com/SAINTLYXSILAS)
 
 ## ⭐ Recent stars
 
