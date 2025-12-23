@@ -46,16 +46,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [HarenaGodz](https://github.com/HarenaGodz)
+- [seniordev67](https://github.com/seniordev67)
+- [khalifadalhat](https://github.com/khalifadalhat)
+- [earthskyorg](https://github.com/earthskyorg)
 - [ideaLighthouse4661](https://github.com/ideaLighthouse4661)
 - [ekaliclua](https://github.com/ekaliclua)
 - [mulbagalamaq](https://github.com/mulbagalamaq)
 - [truedev0127](https://github.com/truedev0127)
 - [I-KANT0](https://github.com/I-KANT0)
 - [Poojandelvadiya](https://github.com/Poojandelvadiya)
-- [Fresh-Teacher](https://github.com/Fresh-Teacher)
-- [laimonas2g](https://github.com/laimonas2g)
-- [masonliiu](https://github.com/masonliiu)
-- [stevenlandon](https://github.com/stevenlandon)
 
 ## ⭐ Recent stars
 
