@@ -46,20 +46,20 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [abdulrahim-ramadan](https://github.com/abdulrahim-ramadan)
+- [matrec123-dot](https://github.com/matrec123-dot)
+- [MohammadAli440](https://github.com/MohammadAli440)
 - [HarenaGodz](https://github.com/HarenaGodz)
 - [seniordev67](https://github.com/seniordev67)
 - [khalifadalhat](https://github.com/khalifadalhat)
 - [earthskyorg](https://github.com/earthskyorg)
 - [ideaLighthouse4661](https://github.com/ideaLighthouse4661)
-- [ekaliclua](https://github.com/ekaliclua)
 - [mulbagalamaq](https://github.com/mulbagalamaq)
 - [truedev0127](https://github.com/truedev0127)
-- [I-KANT0](https://github.com/I-KANT0)
-- [Poojandelvadiya](https://github.com/Poojandelvadiya)
 
 ## ⭐ Recent stars
 
-- [luubinhan/dev-proxy](https://github.com/luubinhan/dev-proxy) (5 days ago)
+- [luubinhan/dev-proxy](https://github.com/luubinhan/dev-proxy) (6 days ago)
 - [Aiano/FOC](https://github.com/Aiano/FOC) - A BLDC motor driver using FOC algorithm. (1 month ago)
 - [RollingGecko/VescUartControl](https://github.com/RollingGecko/VescUartControl) - Arduino library to interface with the VESC bldc over UART. (1 month ago)
 - [pekkaroi/bldc-drive](https://github.com/pekkaroi/bldc-drive) - Cheap and simple brushless DC motor driver designed for CNC applications using STM32 microcontroller (1 month ago)
