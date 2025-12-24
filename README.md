@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [ShemySUN-ane](https://github.com/ShemySUN-ane)
+- [divyam1464](https://github.com/divyam1464)
 - [abdulrahim-ramadan](https://github.com/abdulrahim-ramadan)
 - [matrec123-dot](https://github.com/matrec123-dot)
 - [MohammadAli440](https://github.com/MohammadAli440)
@@ -54,8 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [khalifadalhat](https://github.com/khalifadalhat)
 - [earthskyorg](https://github.com/earthskyorg)
 - [ideaLighthouse4661](https://github.com/ideaLighthouse4661)
-- [mulbagalamaq](https://github.com/mulbagalamaq)
-- [truedev0127](https://github.com/truedev0127)
 
 ## ⭐ Recent stars
 
