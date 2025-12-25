@@ -40,12 +40,15 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [lamhaison/aws-cli-utils](https://github.com/lamhaison/aws-cli-utils) - This is the project to collect helpful aws cli commandline with complex options to support your working (3 months ago)
 - [trinhminhtriet/dwipe](https://github.com/trinhminhtriet/dwipe) - 🧹 Fast, cross-platform disk cleanup tool with interactive UI for easy directory size visualization. (3 months ago)
 - [nctl-io/nctl-roadmap](https://github.com/nctl-io/nctl-roadmap) (3 months ago)
-- [nctl-io/.github](https://github.com/nctl-io/.github) - 🌐 Network. Connect. Transform. Lead. (3 months ago)
+- [nctl-io/.github](https://github.com/nctl-io/.github) - 🌐 Network. Connect. Transform. Lead. (4 months ago)
 - [trinhminhtriet/sizr](https://github.com/trinhminhtriet/sizr) - 📈 A fast, Rust-based tool to analyze file system usage with colorful output, file aggregation, exclusions, and directory comparisons. (4 months ago)
 - [rust-rs/tabler](https://github.com/rust-rs/tabler) - 📊 Tabler: A lightweight TUI tool to view, query, and navigate CSV, TSV, and Parquet data files. (4 months ago)
 
 ## 👯 Check out my recent followers
 
+- [bailas2310](https://github.com/bailas2310)
+- [muzafferse](https://github.com/muzafferse)
+- [rrishabk](https://github.com/rrishabk)
 - [ShemySUN-ane](https://github.com/ShemySUN-ane)
 - [divyam1464](https://github.com/divyam1464)
 - [abdulrahim-ramadan](https://github.com/abdulrahim-ramadan)
@@ -53,13 +56,10 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [MohammadAli440](https://github.com/MohammadAli440)
 - [HarenaGodz](https://github.com/HarenaGodz)
 - [seniordev67](https://github.com/seniordev67)
-- [khalifadalhat](https://github.com/khalifadalhat)
-- [earthskyorg](https://github.com/earthskyorg)
-- [ideaLighthouse4661](https://github.com/ideaLighthouse4661)
 
 ## ⭐ Recent stars
 
-- [luubinhan/dev-proxy](https://github.com/luubinhan/dev-proxy) (6 days ago)
+- [luubinhan/dev-proxy](https://github.com/luubinhan/dev-proxy) (1 week ago)
 - [Aiano/FOC](https://github.com/Aiano/FOC) - A BLDC motor driver using FOC algorithm. (1 month ago)
 - [RollingGecko/VescUartControl](https://github.com/RollingGecko/VescUartControl) - Arduino library to interface with the VESC bldc over UART. (1 month ago)
 - [pekkaroi/bldc-drive](https://github.com/pekkaroi/bldc-drive) - Cheap and simple brushless DC motor driver designed for CNC applications using STM32 microcontroller (1 month ago)
