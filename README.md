@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [joebertcerezo](https://github.com/joebertcerezo)
 - [bailas2310](https://github.com/bailas2310)
 - [muzafferse](https://github.com/muzafferse)
 - [rrishabk](https://github.com/rrishabk)
@@ -53,9 +54,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [divyam1464](https://github.com/divyam1464)
 - [abdulrahim-ramadan](https://github.com/abdulrahim-ramadan)
 - [matrec123-dot](https://github.com/matrec123-dot)
-- [MohammadAli440](https://github.com/MohammadAli440)
+- [mohammadali-eth](https://github.com/mohammadali-eth)
 - [HarenaGodz](https://github.com/HarenaGodz)
-- [seniordev67](https://github.com/seniordev67)
 
 ## ⭐ Recent stars
 
