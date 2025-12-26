@@ -46,16 +46,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [german-boop](https://github.com/german-boop)
+- [Vectorpackengine](https://github.com/Vectorpackengine)
+- [zbbsdsb](https://github.com/zbbsdsb)
+- [chongzixuan-ai](https://github.com/chongzixuan-ai)
 - [savandikodithuwakku](https://github.com/savandikodithuwakku)
 - [Mickael-Andjtv](https://github.com/Mickael-Andjtv)
 - [sheepsliver](https://github.com/sheepsliver)
 - [bailas2310](https://github.com/bailas2310)
 - [muzafferse](https://github.com/muzafferse)
 - [rrishabk](https://github.com/rrishabk)
-- [ShemySUN-ane](https://github.com/ShemySUN-ane)
-- [divyam1464](https://github.com/divyam1464)
-- [abdulrahim-ramadan](https://github.com/abdulrahim-ramadan)
-- [matrec123-dot](https://github.com/matrec123-dot)
 
 ## ⭐ Recent stars
 
