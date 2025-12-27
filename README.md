@@ -46,6 +46,9 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [aertsimon90](https://github.com/aertsimon90)
+- [CHEGEBB](https://github.com/CHEGEBB)
+- [joebertcerezo](https://github.com/joebertcerezo)
 - [mfadhil81](https://github.com/mfadhil81)
 - [dener-fonseca](https://github.com/dener-fonseca)
 - [german-boop](https://github.com/german-boop)
@@ -53,9 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [zbbsdsb](https://github.com/zbbsdsb)
 - [chongzixuan-ai](https://github.com/chongzixuan-ai)
 - [savandikodithuwakku](https://github.com/savandikodithuwakku)
-- [Mickael-Andjtv](https://github.com/Mickael-Andjtv)
-- [sheepsliver](https://github.com/sheepsliver)
-- [bailas2310](https://github.com/bailas2310)
 
 ## ⭐ Recent stars
 
