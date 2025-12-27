@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [mfadhil81](https://github.com/mfadhil81)
+- [dener-fonseca](https://github.com/dener-fonseca)
 - [german-boop](https://github.com/german-boop)
 - [Vectorpackengine](https://github.com/Vectorpackengine)
 - [zbbsdsb](https://github.com/zbbsdsb)
@@ -54,8 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Mickael-Andjtv](https://github.com/Mickael-Andjtv)
 - [sheepsliver](https://github.com/sheepsliver)
 - [bailas2310](https://github.com/bailas2310)
-- [muzafferse](https://github.com/muzafferse)
-- [rrishabk](https://github.com/rrishabk)
 
 ## ⭐ Recent stars
 
