@@ -46,16 +46,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [aoisora77](https://github.com/aoisora77)
+- [AbdulRehman393](https://github.com/AbdulRehman393)
+- [taahabz](https://github.com/taahabz)
+- [SIntel423](https://github.com/SIntel423)
+- [iSoumyaDey](https://github.com/iSoumyaDey)
 - [pongpong-zigzag](https://github.com/pongpong-zigzag)
 - [JosiasD3V](https://github.com/JosiasD3V)
 - [aertsimon90](https://github.com/aertsimon90)
 - [CHEGEBB](https://github.com/CHEGEBB)
 - [mfadhil81](https://github.com/mfadhil81)
-- [dener-fonseca](https://github.com/dener-fonseca)
-- [german-boop](https://github.com/german-boop)
-- [Vectorpackengine](https://github.com/Vectorpackengine)
-- [zbbsdsb](https://github.com/zbbsdsb)
-- [chongzixuan-ai](https://github.com/chongzixuan-ai)
 
 ## ⭐ Recent stars
 
