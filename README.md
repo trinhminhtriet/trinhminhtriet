@@ -39,23 +39,23 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) - 🚀 All-in-one CLI toolkit for developers: scaffold, manage, automate, and boost productivity across languages! (3 months ago)
 - [lamhaison/aws-cli-utils](https://github.com/lamhaison/aws-cli-utils) - This is the project to collect helpful aws cli commandline with complex options to support your working (3 months ago)
 - [trinhminhtriet/dwipe](https://github.com/trinhminhtriet/dwipe) - 🧹 Fast, cross-platform disk cleanup tool with interactive UI for easy directory size visualization. (3 months ago)
-- [nctl-io/nctl-roadmap](https://github.com/nctl-io/nctl-roadmap) (3 months ago)
+- [nctl-io/nctl-roadmap](https://github.com/nctl-io/nctl-roadmap) (4 months ago)
 - [nctl-io/.github](https://github.com/nctl-io/.github) - 🌐 Network. Connect. Transform. Lead. (4 months ago)
 - [trinhminhtriet/sizr](https://github.com/trinhminhtriet/sizr) - 📈 A fast, Rust-based tool to analyze file system usage with colorful output, file aggregation, exclusions, and directory comparisons. (4 months ago)
 - [rust-rs/tabler](https://github.com/rust-rs/tabler) - 📊 Tabler: A lightweight TUI tool to view, query, and navigate CSV, TSV, and Parquet data files. (4 months ago)
 
 ## 👯 Check out my recent followers
 
+- [pongpong-zigzag](https://github.com/pongpong-zigzag)
+- [JosiasD3V](https://github.com/JosiasD3V)
 - [aertsimon90](https://github.com/aertsimon90)
 - [CHEGEBB](https://github.com/CHEGEBB)
-- [joebertcerezo](https://github.com/joebertcerezo)
 - [mfadhil81](https://github.com/mfadhil81)
 - [dener-fonseca](https://github.com/dener-fonseca)
 - [german-boop](https://github.com/german-boop)
 - [Vectorpackengine](https://github.com/Vectorpackengine)
 - [zbbsdsb](https://github.com/zbbsdsb)
 - [chongzixuan-ai](https://github.com/chongzixuan-ai)
-- [savandikodithuwakku](https://github.com/savandikodithuwakku)
 
 ## ⭐ Recent stars
 
