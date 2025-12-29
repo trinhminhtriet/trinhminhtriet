@@ -46,16 +46,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [dogtoys](https://github.com/dogtoys)
+- [Rahul-Khera-Codes](https://github.com/Rahul-Khera-Codes)
+- [gopal-prakash-codes](https://github.com/gopal-prakash-codes)
+- [Aoisora71](https://github.com/Aoisora71)
+- [cliffordx](https://github.com/cliffordx)
+- [nodeexcel](https://github.com/nodeexcel)
 - [talorcan](https://github.com/talorcan)
 - [AlirezaRezaeipour](https://github.com/AlirezaRezaeipour)
 - [omrzgit](https://github.com/omrzgit)
 - [arun-kumar-codes](https://github.com/arun-kumar-codes)
-- [frangelbarrera](https://github.com/frangelbarrera)
-- [lukaearth](https://github.com/lukaearth)
-- [joshuadiaz1997](https://github.com/joshuadiaz1997)
-- [Kairatzh](https://github.com/Kairatzh)
-- [Dronzer2code](https://github.com/Dronzer2code)
-- [aoisora77](https://github.com/aoisora77)
 
 ## ⭐ Recent stars
 
