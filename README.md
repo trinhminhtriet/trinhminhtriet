@@ -42,20 +42,20 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [nctl-io/nctl-roadmap](https://github.com/nctl-io/nctl-roadmap) (4 months ago)
 - [nctl-io/.github](https://github.com/nctl-io/.github) - 🌐 Network. Connect. Transform. Lead. (4 months ago)
 - [trinhminhtriet/sizr](https://github.com/trinhminhtriet/sizr) - 📈 A fast, Rust-based tool to analyze file system usage with colorful output, file aggregation, exclusions, and directory comparisons. (4 months ago)
-- [rust-rs/tabler](https://github.com/rust-rs/tabler) - 📊 Tabler: A lightweight TUI tool to view, query, and navigate CSV, TSV, and Parquet data files. (4 months ago)
+- [trinhminhtriet/blast](https://github.com/trinhminhtriet/blast) - 🚀 Blast: A powerful, lightweight HTTP load generator for stress testing and benchmarking web applications with ease. (4 months ago)
 
 ## 👯 Check out my recent followers
 
+- [talorcan](https://github.com/talorcan)
+- [AlirezaRezaeipour](https://github.com/AlirezaRezaeipour)
+- [omrzgit](https://github.com/omrzgit)
+- [arun-kumar-codes](https://github.com/arun-kumar-codes)
+- [frangelbarrera](https://github.com/frangelbarrera)
+- [lukaearth](https://github.com/lukaearth)
+- [joshuadiaz1997](https://github.com/joshuadiaz1997)
+- [Kairatzh](https://github.com/Kairatzh)
+- [Dronzer2code](https://github.com/Dronzer2code)
 - [aoisora77](https://github.com/aoisora77)
-- [AbdulRehman393](https://github.com/AbdulRehman393)
-- [taahabz](https://github.com/taahabz)
-- [SIntel423](https://github.com/SIntel423)
-- [iSoumyaDey](https://github.com/iSoumyaDey)
-- [pongpong-zigzag](https://github.com/pongpong-zigzag)
-- [JosiasD3V](https://github.com/JosiasD3V)
-- [aertsimon90](https://github.com/aertsimon90)
-- [CHEGEBB](https://github.com/CHEGEBB)
-- [mfadhil81](https://github.com/mfadhil81)
 
 ## ⭐ Recent stars
 
