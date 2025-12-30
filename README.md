@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [sunlight-2020](https://github.com/sunlight-2020)
+- [Afzal74](https://github.com/Afzal74)
 - [earo12](https://github.com/earo12)
 - [wakecafe](https://github.com/wakecafe)
 - [dogtoys](https://github.com/dogtoys)
@@ -54,8 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Aoisora71](https://github.com/Aoisora71)
 - [cliffordx](https://github.com/cliffordx)
 - [nodeexcel](https://github.com/nodeexcel)
-- [talorcan](https://github.com/talorcan)
-- [omrzgit](https://github.com/omrzgit)
 
 ## ⭐ Recent stars
 
