@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [earo12](https://github.com/earo12)
+- [wakecafe](https://github.com/wakecafe)
 - [dogtoys](https://github.com/dogtoys)
 - [Rahul-Khera-Codes](https://github.com/Rahul-Khera-Codes)
 - [gopal-prakash-codes](https://github.com/gopal-prakash-codes)
@@ -53,9 +55,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [cliffordx](https://github.com/cliffordx)
 - [nodeexcel](https://github.com/nodeexcel)
 - [talorcan](https://github.com/talorcan)
-- [AlirezaRezaeipour](https://github.com/AlirezaRezaeipour)
 - [omrzgit](https://github.com/omrzgit)
-- [arun-kumar-codes](https://github.com/arun-kumar-codes)
 
 ## ⭐ Recent stars
 
