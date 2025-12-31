@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [bardiademon](https://github.com/bardiademon)
+- [snowbeardo](https://github.com/snowbeardo)
 - [Vicky-Rathod](https://github.com/Vicky-Rathod)
 - [arkannanda781-rgb](https://github.com/arkannanda781-rgb)
 - [tldrwtf](https://github.com/tldrwtf)
@@ -54,8 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Musawir456](https://github.com/Musawir456)
 - [sunlight-2020](https://github.com/sunlight-2020)
 - [Afzal74](https://github.com/Afzal74)
-- [earo12](https://github.com/earo12)
-- [wakecafe](https://github.com/wakecafe)
 
 ## ⭐ Recent stars
 
