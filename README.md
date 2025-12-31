@@ -46,16 +46,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Vicky-Rathod](https://github.com/Vicky-Rathod)
+- [arkannanda781-rgb](https://github.com/arkannanda781-rgb)
+- [tldrwtf](https://github.com/tldrwtf)
+- [Zevyron](https://github.com/Zevyron)
+- [Serajian](https://github.com/Serajian)
+- [Musawir456](https://github.com/Musawir456)
 - [sunlight-2020](https://github.com/sunlight-2020)
 - [Afzal74](https://github.com/Afzal74)
 - [earo12](https://github.com/earo12)
 - [wakecafe](https://github.com/wakecafe)
-- [dogtoys](https://github.com/dogtoys)
-- [Rahul-Khera-Codes](https://github.com/Rahul-Khera-Codes)
-- [gopal-prakash-codes](https://github.com/gopal-prakash-codes)
-- [Aoisora71](https://github.com/Aoisora71)
-- [cliffordx](https://github.com/cliffordx)
-- [nodeexcel](https://github.com/nodeexcel)
 
 ## ⭐ Recent stars
 
