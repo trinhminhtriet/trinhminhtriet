@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [maina401](https://github.com/maina401)
+- [noofuli](https://github.com/noofuli)
 - [M3LTING-F4NGS](https://github.com/M3LTING-F4NGS)
 - [bardiademon](https://github.com/bardiademon)
 - [snowbeardo](https://github.com/snowbeardo)
@@ -54,8 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Zevyron](https://github.com/Zevyron)
 - [Serajian](https://github.com/Serajian)
 - [Musawir456](https://github.com/Musawir456)
-- [sunlight-2020](https://github.com/sunlight-2020)
-- [Afzal74](https://github.com/Afzal74)
 
 ## ⭐ Recent stars
 
