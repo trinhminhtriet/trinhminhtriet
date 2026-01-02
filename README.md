@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [idrislaode](https://github.com/idrislaode)
 - [barrygvuts](https://github.com/barrygvuts)
 - [wylan-van-eck](https://github.com/wylan-van-eck)
 - [maina401](https://github.com/maina401)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Vicky-Rathod](https://github.com/Vicky-Rathod)
 - [arkannanda781-rgb](https://github.com/arkannanda781-rgb)
 - [Zevyron](https://github.com/Zevyron)
-- [Serajian](https://github.com/Serajian)
 
 ## ⭐ Recent stars
 
