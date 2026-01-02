@@ -46,16 +46,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [barrygvuts](https://github.com/barrygvuts)
+- [wylan-van-eck](https://github.com/wylan-van-eck)
 - [maina401](https://github.com/maina401)
 - [noofuli](https://github.com/noofuli)
-- [M3LTING-F4NGS](https://github.com/M3LTING-F4NGS)
 - [bardiademon](https://github.com/bardiademon)
 - [snowbeardo](https://github.com/snowbeardo)
 - [Vicky-Rathod](https://github.com/Vicky-Rathod)
 - [arkannanda781-rgb](https://github.com/arkannanda781-rgb)
 - [Zevyron](https://github.com/Zevyron)
 - [Serajian](https://github.com/Serajian)
-- [Musawir456](https://github.com/Musawir456)
 
 ## ⭐ Recent stars
 
