@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [chrisryanleggett](https://github.com/chrisryanleggett)
 - [aertsimon90](https://github.com/aertsimon90)
 - [standardgalactic](https://github.com/standardgalactic)
 - [Lactea-J](https://github.com/Lactea-J)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [TranHuuChien](https://github.com/TranHuuChien)
 - [Mithzzx](https://github.com/Mithzzx)
 - [idrislaode](https://github.com/idrislaode)
-- [barrygvuts](https://github.com/barrygvuts)
 
 ## ⭐ Recent stars
 
