@@ -46,16 +46,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Lactea-J](https://github.com/Lactea-J)
+- [sofstay](https://github.com/sofstay)
 - [chrisryanleggett](https://github.com/chrisryanleggett)
 - [aertsimon90](https://github.com/aertsimon90)
 - [standardgalactic](https://github.com/standardgalactic)
-- [Lactea-J](https://github.com/Lactea-J)
 - [hexarch](https://github.com/hexarch)
 - [Famzy077](https://github.com/Famzy077)
 - [Kumarabhi4096](https://github.com/Kumarabhi4096)
 - [TranHuuChien](https://github.com/TranHuuChien)
 - [Mithzzx](https://github.com/Mithzzx)
-- [idrislaode](https://github.com/idrislaode)
 
 ## ⭐ Recent stars
 
