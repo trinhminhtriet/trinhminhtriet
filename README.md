@@ -46,16 +46,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [abuhuraira-73](https://github.com/abuhuraira-73)
+- [chemlabubu](https://github.com/chemlabubu)
+- [Miracle0524](https://github.com/Miracle0524)
+- [sslapslapp](https://github.com/sslapslapp)
+- [Daniel10091](https://github.com/Daniel10091)
 - [soukainaelhafif](https://github.com/soukainaelhafif)
 - [ismailtsdln](https://github.com/ismailtsdln)
 - [Nwaneri-ifeanyi](https://github.com/Nwaneri-ifeanyi)
 - [sonisuryansh](https://github.com/sonisuryansh)
 - [notesjor](https://github.com/notesjor)
-- [AnjaliPatel301](https://github.com/AnjaliPatel301)
-- [OmarElmelegy](https://github.com/OmarElmelegy)
-- [Adyllsxn](https://github.com/Adyllsxn)
-- [ahmed-el-halawani](https://github.com/ahmed-el-halawani)
-- [mangleirl](https://github.com/mangleirl)
 
 ## ⭐ Recent stars
 
