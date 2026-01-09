@@ -46,16 +46,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [SPEClALWEEK](https://github.com/SPEClALWEEK)
+- [t0waxx](https://github.com/t0waxx)
+- [codebyhuman](https://github.com/codebyhuman)
+- [cfrBernard](https://github.com/cfrBernard)
+- [aertsimon90](https://github.com/aertsimon90)
 - [OliverMuller23](https://github.com/OliverMuller23)
 - [DaniahAbukabeer](https://github.com/DaniahAbukabeer)
 - [andrewtedja](https://github.com/andrewtedja)
 - [rasidi3112](https://github.com/rasidi3112)
 - [Charlesirl](https://github.com/Charlesirl)
-- [loveEng2030](https://github.com/loveEng2030)
-- [mikechiloane](https://github.com/mikechiloane)
-- [KTHY222](https://github.com/KTHY222)
-- [Adyllsxn](https://github.com/Adyllsxn)
-- [xnrvs](https://github.com/xnrvs)
 
 ## ⭐ Recent stars
 
