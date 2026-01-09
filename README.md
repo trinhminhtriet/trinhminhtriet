@@ -46,7 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
-- [beytekindavut](https://github.com/beytekindavut)
+- [OliverMuller23](https://github.com/OliverMuller23)
+- [DaniahAbukabeer](https://github.com/DaniahAbukabeer)
 - [andrewtedja](https://github.com/andrewtedja)
 - [rasidi3112](https://github.com/rasidi3112)
 - [Charlesirl](https://github.com/Charlesirl)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [KTHY222](https://github.com/KTHY222)
 - [Adyllsxn](https://github.com/Adyllsxn)
 - [xnrvs](https://github.com/xnrvs)
-- [namzsp1e](https://github.com/namzsp1e)
 
 ## ⭐ Recent stars
 
