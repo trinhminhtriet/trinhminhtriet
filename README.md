@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Munna-Scriptz](https://github.com/Munna-Scriptz)
+- [gale-crypto](https://github.com/gale-crypto)
 - [wancommit](https://github.com/wancommit)
 - [allyeagle](https://github.com/allyeagle)
 - [BrokenFlakes](https://github.com/BrokenFlakes)
@@ -54,8 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [t0waxx](https://github.com/t0waxx)
 - [codebyhuman](https://github.com/codebyhuman)
 - [cfrBernard](https://github.com/cfrBernard)
-- [aertsimon90](https://github.com/aertsimon90)
-- [OliverMuller23](https://github.com/OliverMuller23)
 
 ## ⭐ Recent stars
 
