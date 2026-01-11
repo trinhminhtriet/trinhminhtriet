@@ -46,16 +46,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [m1nutetech](https://github.com/m1nutetech)
+- [tahmidalvee6](https://github.com/tahmidalvee6)
+- [jacobgadek](https://github.com/jacobgadek)
+- [Marwannabil92](https://github.com/Marwannabil92)
 - [Munna-Scriptz](https://github.com/Munna-Scriptz)
 - [gale-crypto](https://github.com/gale-crypto)
 - [wancommit](https://github.com/wancommit)
 - [allyeagle](https://github.com/allyeagle)
-- [BrokenFlakes](https://github.com/BrokenFlakes)
+- [KaziiDoodles](https://github.com/KaziiDoodles)
 - [abuhuraira-73](https://github.com/abuhuraira-73)
-- [SPEClALWEEK](https://github.com/SPEClALWEEK)
-- [t0waxx](https://github.com/t0waxx)
-- [codebyhuman](https://github.com/codebyhuman)
-- [cfrBernard](https://github.com/cfrBernard)
 
 ## ⭐ Recent stars
 
