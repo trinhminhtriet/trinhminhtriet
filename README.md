@@ -46,16 +46,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [luukogod](https://github.com/luukogod)
+- [thomaaf69](https://github.com/thomaaf69)
+- [codegenius008](https://github.com/codegenius008)
+- [techno3455](https://github.com/techno3455)
 - [GreXLin85](https://github.com/GreXLin85)
 - [shihabuddin-dev](https://github.com/shihabuddin-dev)
 - [ilynivin](https://github.com/ilynivin)
 - [amitkumar-max](https://github.com/amitkumar-max)
 - [Lactea-J](https://github.com/Lactea-J)
 - [zetian-jia](https://github.com/zetian-jia)
-- [Neerajpathak07](https://github.com/Neerajpathak07)
-- [zynapsee](https://github.com/zynapsee)
-- [m1nutetech](https://github.com/m1nutetech)
-- [tahmidalvee6](https://github.com/tahmidalvee6)
 
 ## ⭐ Recent stars
 
