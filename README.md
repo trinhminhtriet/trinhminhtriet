@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [SwapnilRao619](https://github.com/SwapnilRao619)
+- [WOUNDED-PREY](https://github.com/WOUNDED-PREY)
 - [RavinAr1](https://github.com/RavinAr1)
 - [johnlarvin](https://github.com/johnlarvin)
 - [luukogod](https://github.com/luukogod)
@@ -54,8 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [techno3455](https://github.com/techno3455)
 - [GreXLin85](https://github.com/GreXLin85)
 - [shihabuddin-dev](https://github.com/shihabuddin-dev)
-- [ilynivin](https://github.com/ilynivin)
-- [amitkumar-max](https://github.com/amitkumar-max)
 
 ## ⭐ Recent stars
 
