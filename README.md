@@ -46,16 +46,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Lactea-J](https://github.com/Lactea-J)
+- [ngomaf](https://github.com/ngomaf)
+- [OOLin](https://github.com/OOLin)
+- [danx123](https://github.com/danx123)
 - [SwapnilRao619](https://github.com/SwapnilRao619)
 - [WOUNDED-PREY](https://github.com/WOUNDED-PREY)
 - [RavinAr1](https://github.com/RavinAr1)
 - [johnlarvin](https://github.com/johnlarvin)
 - [luukogod](https://github.com/luukogod)
 - [thomaaf69](https://github.com/thomaaf69)
-- [codegenius008](https://github.com/codegenius008)
-- [techno3455](https://github.com/techno3455)
-- [GreXLin85](https://github.com/GreXLin85)
-- [shihabuddin-dev](https://github.com/shihabuddin-dev)
 
 ## ⭐ Recent stars
 
