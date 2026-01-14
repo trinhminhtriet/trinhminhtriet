@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [hwg-p](https://github.com/hwg-p)
+- [StackWeaver9](https://github.com/StackWeaver9)
 - [Lactea-J](https://github.com/Lactea-J)
 - [ngomaf](https://github.com/ngomaf)
 - [OOLin](https://github.com/OOLin)
@@ -54,8 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [WOUNDED-PREY](https://github.com/WOUNDED-PREY)
 - [RavinAr1](https://github.com/RavinAr1)
 - [johnlarvin](https://github.com/johnlarvin)
-- [luukogod](https://github.com/luukogod)
-- [thomaaf69](https://github.com/thomaaf69)
 
 ## ⭐ Recent stars
 
