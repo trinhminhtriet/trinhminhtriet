@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [eatsky1006](https://github.com/eatsky1006)
+- [henriquef96](https://github.com/henriquef96)
 - [tetref](https://github.com/tetref)
 - [bemmas](https://github.com/bemmas)
 - [swbspaac](https://github.com/swbspaac)
@@ -54,8 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Lactea-J](https://github.com/Lactea-J)
 - [Snowstorm05](https://github.com/Snowstorm05)
 - [hwg-p](https://github.com/hwg-p)
-- [StackWeaver9](https://github.com/StackWeaver9)
-- [ngomaf](https://github.com/ngomaf)
 
 ## ⭐ Recent stars
 
