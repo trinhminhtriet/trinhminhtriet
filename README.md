@@ -46,6 +46,9 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [tetref](https://github.com/tetref)
+- [bemmas](https://github.com/bemmas)
+- [swbspaac](https://github.com/swbspaac)
 - [theb0imanuu](https://github.com/theb0imanuu)
 - [karzocode](https://github.com/karzocode)
 - [Lactea-J](https://github.com/Lactea-J)
@@ -53,9 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [hwg-p](https://github.com/hwg-p)
 - [StackWeaver9](https://github.com/StackWeaver9)
 - [ngomaf](https://github.com/ngomaf)
-- [OOLin](https://github.com/OOLin)
-- [danx123](https://github.com/danx123)
-- [SwapnilRao619](https://github.com/SwapnilRao619)
 
 ## ⭐ Recent stars
 
