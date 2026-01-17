@@ -46,16 +46,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [ajrav11](https://github.com/ajrav11)
+- [xryutaro](https://github.com/xryutaro)
+- [arun-kumar-codes](https://github.com/arun-kumar-codes)
+- [solis1001](https://github.com/solis1001)
 - [minhchi2521](https://github.com/minhchi2521)
 - [tot-git27](https://github.com/tot-git27)
 - [JonDevOps](https://github.com/JonDevOps)
 - [oriyomisolo9-afk](https://github.com/oriyomisolo9-afk)
 - [aayush-kumar-codes](https://github.com/aayush-kumar-codes)
 - [findsp](https://github.com/findsp)
-- [SilentIOC](https://github.com/SilentIOC)
-- [samuelfreeman](https://github.com/samuelfreeman)
-- [mohsine-seg123](https://github.com/mohsine-seg123)
-- [eatsky1006](https://github.com/eatsky1006)
 
 ## ⭐ Recent stars
 
