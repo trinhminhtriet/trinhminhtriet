@@ -46,20 +46,20 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [minhchi2521](https://github.com/minhchi2521)
+- [tot-git27](https://github.com/tot-git27)
+- [JonDevOps](https://github.com/JonDevOps)
+- [oriyomisolo9-afk](https://github.com/oriyomisolo9-afk)
+- [aayush-kumar-codes](https://github.com/aayush-kumar-codes)
+- [findsp](https://github.com/findsp)
+- [SilentIOC](https://github.com/SilentIOC)
+- [samuelfreeman](https://github.com/samuelfreeman)
+- [mohsine-seg123](https://github.com/mohsine-seg123)
 - [eatsky1006](https://github.com/eatsky1006)
-- [henriquef96](https://github.com/henriquef96)
-- [tetref](https://github.com/tetref)
-- [bemmas](https://github.com/bemmas)
-- [swbspaac](https://github.com/swbspaac)
-- [theb0imanuu](https://github.com/theb0imanuu)
-- [karzocode](https://github.com/karzocode)
-- [Lactea-J](https://github.com/Lactea-J)
-- [Snowstorm05](https://github.com/Snowstorm05)
-- [hwg-p](https://github.com/hwg-p)
 
 ## ⭐ Recent stars
 
-- [luubinhan/dev-proxy](https://github.com/luubinhan/dev-proxy) (4 weeks ago)
+- [luubinhan/dev-proxy](https://github.com/luubinhan/dev-proxy) (1 month ago)
 - [Aiano/FOC](https://github.com/Aiano/FOC) - A BLDC motor driver using FOC algorithm. (2 months ago)
 - [RollingGecko/VescUartControl](https://github.com/RollingGecko/VescUartControl) - Arduino library to interface with the VESC bldc over UART. (2 months ago)
 - [pekkaroi/bldc-drive](https://github.com/pekkaroi/bldc-drive) - Cheap and simple brushless DC motor driver designed for CNC applications using STM32 microcontroller (2 months ago)
