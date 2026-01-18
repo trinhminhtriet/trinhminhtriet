@@ -46,16 +46,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
-- [gopal-prakash-codes](https://github.com/gopal-prakash-codes)
+- [devX950415](https://github.com/devX950415)
+- [Light00Side](https://github.com/Light00Side)
 - [Mr-Eggy](https://github.com/Mr-Eggy)
 - [michaeIaftonn](https://github.com/michaeIaftonn)
-- [nodeexcel](https://github.com/nodeexcel)
 - [ajrav11](https://github.com/ajrav11)
 - [xryutaro](https://github.com/xryutaro)
-- [arun-kumar-codes](https://github.com/arun-kumar-codes)
 - [solis1001](https://github.com/solis1001)
 - [minhchi2521](https://github.com/minhchi2521)
 - [tot-git27](https://github.com/tot-git27)
+- [JonDevOps](https://github.com/JonDevOps)
 
 ## ⭐ Recent stars
 
