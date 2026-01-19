@@ -46,16 +46,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [draifodil](https://github.com/draifodil)
+- [Lilbodo12](https://github.com/Lilbodo12)
+- [flames-web](https://github.com/flames-web)
+- [kishan-kumar-codes](https://github.com/kishan-kumar-codes)
+- [Lactea-J](https://github.com/Lactea-J)
+- [Yvonne-Wanja-1](https://github.com/Yvonne-Wanja-1)
+- [juanfelipe-dev](https://github.com/juanfelipe-dev)
+- [HRTrangPham](https://github.com/HRTrangPham)
 - [yuvraj-singh-codes](https://github.com/yuvraj-singh-codes)
 - [garik100](https://github.com/garik100)
-- [lezer0208](https://github.com/lezer0208)
-- [vikasexcel](https://github.com/vikasexcel)
-- [devX950415](https://github.com/devX950415)
-- [Light00Side](https://github.com/Light00Side)
-- [Mr-Eggy](https://github.com/Mr-Eggy)
-- [michaeIaftonn](https://github.com/michaeIaftonn)
-- [ajrav11](https://github.com/ajrav11)
-- [xryutaro](https://github.com/xryutaro)
 
 ## ⭐ Recent stars
 
