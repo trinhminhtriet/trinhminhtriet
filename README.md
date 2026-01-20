@@ -46,16 +46,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [abhi78nath](https://github.com/abhi78nath)
+- [haeun1107](https://github.com/haeun1107)
 - [Ronaldo45rt](https://github.com/Ronaldo45rt)
 - [iagomourarabelo](https://github.com/iagomourarabelo)
 - [cryptowarlord69x](https://github.com/cryptowarlord69x)
 - [hasan4224](https://github.com/hasan4224)
 - [okriashvili](https://github.com/okriashvili)
-- [bekzodbek12](https://github.com/bekzodbek12)
 - [CoolyDucks](https://github.com/CoolyDucks)
 - [dusta](https://github.com/dusta)
 - [eagleeye410](https://github.com/eagleeye410)
-- [Shivagogaliya](https://github.com/Shivagogaliya)
 
 ## ⭐ Recent stars
 
