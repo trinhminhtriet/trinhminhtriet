@@ -46,16 +46,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [ZainJavaid](https://github.com/ZainJavaid)
+- [emilycodestar](https://github.com/emilycodestar)
+- [rxxbyy](https://github.com/rxxbyy)
+- [KuchikiRenji](https://github.com/KuchikiRenji)
 - [Lactea-J](https://github.com/Lactea-J)
 - [AnonimusShamshiAlex](https://github.com/AnonimusShamshiAlex)
 - [rolloerro](https://github.com/rolloerro)
 - [nahakrajesh](https://github.com/nahakrajesh)
 - [Safae26](https://github.com/Safae26)
 - [abhi78nath](https://github.com/abhi78nath)
-- [haeun1107](https://github.com/haeun1107)
-- [Ronaldo45rt](https://github.com/Ronaldo45rt)
-- [iagomourarabelo](https://github.com/iagomourarabelo)
-- [cryptowarlord69x](https://github.com/cryptowarlord69x)
 
 ## ⭐ Recent stars
 
