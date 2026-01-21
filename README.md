@@ -42,20 +42,20 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [nctl-io/nctl-roadmap](https://github.com/nctl-io/nctl-roadmap) (4 months ago)
 - [nctl-io/.github](https://github.com/nctl-io/.github) - 🌐 Network. Connect. Transform. Lead. (4 months ago)
 - [trinhminhtriet/sizr](https://github.com/trinhminhtriet/sizr) - 📈 A fast, Rust-based tool to analyze file system usage with colorful output, file aggregation, exclusions, and directory comparisons. (4 months ago)
-- [rust-rs/tabler](https://github.com/rust-rs/tabler) - 📊 Tabler: A lightweight TUI tool to view, query, and navigate CSV, TSV, and Parquet data files. (4 months ago)
+- [rust-rs/tabler](https://github.com/rust-rs/tabler) - 📊 Tabler: A lightweight TUI tool to view, query, and navigate CSV, TSV, and Parquet data files. (5 months ago)
 
 ## 👯 Check out my recent followers
 
+- [Lactea-J](https://github.com/Lactea-J)
+- [AnonimusShamshiAlex](https://github.com/AnonimusShamshiAlex)
+- [rolloerro](https://github.com/rolloerro)
+- [nahakrajesh](https://github.com/nahakrajesh)
+- [Safae26](https://github.com/Safae26)
 - [abhi78nath](https://github.com/abhi78nath)
 - [haeun1107](https://github.com/haeun1107)
 - [Ronaldo45rt](https://github.com/Ronaldo45rt)
 - [iagomourarabelo](https://github.com/iagomourarabelo)
 - [cryptowarlord69x](https://github.com/cryptowarlord69x)
-- [hasan4224](https://github.com/hasan4224)
-- [okriashvili](https://github.com/okriashvili)
-- [CoolyDucks](https://github.com/CoolyDucks)
-- [dusta](https://github.com/dusta)
-- [eagleeye410](https://github.com/eagleeye410)
 
 ## ⭐ Recent stars
 
