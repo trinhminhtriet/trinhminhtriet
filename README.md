@@ -46,16 +46,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Kanishk2004](https://github.com/Kanishk2004)
+- [dmccoystephenson](https://github.com/dmccoystephenson)
+- [Naoki-K615](https://github.com/Naoki-K615)
+- [GXCoder78](https://github.com/GXCoder78)
+- [Lactea-J](https://github.com/Lactea-J)
 - [shreyasantosh17](https://github.com/shreyasantosh17)
 - [Solomonkassa](https://github.com/Solomonkassa)
 - [47h4myt-boop](https://github.com/47h4myt-boop)
 - [vardan444](https://github.com/vardan444)
 - [eGBang](https://github.com/eGBang)
-- [bajpainaman](https://github.com/bajpainaman)
-- [peanutsx50](https://github.com/peanutsx50)
-- [zakhajjaji](https://github.com/zakhajjaji)
-- [YusukeM317](https://github.com/YusukeM317)
-- [ZainJavaid](https://github.com/ZainJavaid)
 
 ## ⭐ Recent stars
 
