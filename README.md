@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [pabrams](https://github.com/pabrams)
+- [nykoco](https://github.com/nykoco)
 - [shadowy-pycoder](https://github.com/shadowy-pycoder)
 - [jotap1101](https://github.com/jotap1101)
 - [AlbertArakelyan](https://github.com/AlbertArakelyan)
@@ -54,8 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [joshuafolkken](https://github.com/joshuafolkken)
 - [Alex000115](https://github.com/Alex000115)
 - [Kanishk2004](https://github.com/Kanishk2004)
-- [dmccoystephenson](https://github.com/dmccoystephenson)
-- [Naoki-K615](https://github.com/Naoki-K615)
 
 ## ⭐ Recent stars
 
