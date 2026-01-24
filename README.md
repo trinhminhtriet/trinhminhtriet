@@ -40,12 +40,13 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [lamhaison/aws-cli-utils](https://github.com/lamhaison/aws-cli-utils) - This is the project to collect helpful aws cli commandline with complex options to support your working (4 months ago)
 - [trinhminhtriet/dwipe](https://github.com/trinhminhtriet/dwipe) - 🧹 Fast, cross-platform disk cleanup tool with interactive UI for easy directory size visualization. (4 months ago)
 - [nctl-io/nctl-roadmap](https://github.com/nctl-io/nctl-roadmap) (4 months ago)
-- [nctl-io/.github](https://github.com/nctl-io/.github) - 🌐 Network. Connect. Transform. Lead. (4 months ago)
+- [nctl-io/.github](https://github.com/nctl-io/.github) - 🌐 Network. Connect. Transform. Lead. (5 months ago)
 - [trinhminhtriet/sizr](https://github.com/trinhminhtriet/sizr) - 📈 A fast, Rust-based tool to analyze file system usage with colorful output, file aggregation, exclusions, and directory comparisons. (5 months ago)
 - [rust-rs/tabler](https://github.com/rust-rs/tabler) - 📊 Tabler: A lightweight TUI tool to view, query, and navigate CSV, TSV, and Parquet data files. (5 months ago)
 
 ## 👯 Check out my recent followers
 
+- [shadowy-pycoder](https://github.com/shadowy-pycoder)
 - [jotap1101](https://github.com/jotap1101)
 - [AlbertArakelyan](https://github.com/AlbertArakelyan)
 - [arnavsharma990](https://github.com/arnavsharma990)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Kanishk2004](https://github.com/Kanishk2004)
 - [dmccoystephenson](https://github.com/dmccoystephenson)
 - [Naoki-K615](https://github.com/Naoki-K615)
-- [GXCoder78](https://github.com/GXCoder78)
 
 ## ⭐ Recent stars
 
