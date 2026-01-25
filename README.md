@@ -46,6 +46,9 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [dev2298](https://github.com/dev2298)
+- [Prathamkumar18](https://github.com/Prathamkumar18)
+- [AgzigitovOskar](https://github.com/AgzigitovOskar)
 - [pabrams](https://github.com/pabrams)
 - [nykoco](https://github.com/nykoco)
 - [shadowy-pycoder](https://github.com/shadowy-pycoder)
@@ -53,9 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [AlbertArakelyan](https://github.com/AlbertArakelyan)
 - [arnavsharma990](https://github.com/arnavsharma990)
 - [jithinjithu10](https://github.com/jithinjithu10)
-- [joshuafolkken](https://github.com/joshuafolkken)
-- [Alex000115](https://github.com/Alex000115)
-- [Kanishk2004](https://github.com/Kanishk2004)
 
 ## ⭐ Recent stars
 
