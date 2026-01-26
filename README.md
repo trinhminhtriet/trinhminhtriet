@@ -46,16 +46,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [GeorgePearse](https://github.com/GeorgePearse)
+- [K1ngw1ng](https://github.com/K1ngw1ng)
+- [Ankitsinghsisodya](https://github.com/Ankitsinghsisodya)
 - [jamesnet214](https://github.com/jamesnet214)
 - [karmokardhruv](https://github.com/karmokardhruv)
 - [nlxter](https://github.com/nlxter)
 - [Akashthespidy](https://github.com/Akashthespidy)
-- [sharafdin](https://github.com/sharafdin)
 - [dev2298](https://github.com/dev2298)
 - [Prathamkumar18](https://github.com/Prathamkumar18)
 - [AgzigitovOskar](https://github.com/AgzigitovOskar)
-- [pabrams](https://github.com/pabrams)
-- [nykoco](https://github.com/nykoco)
 
 ## ⭐ Recent stars
 
