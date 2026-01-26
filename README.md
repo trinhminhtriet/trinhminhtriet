@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [erogluyusuf](https://github.com/erogluyusuf)
+- [rajo69](https://github.com/rajo69)
 - [GeorgePearse](https://github.com/GeorgePearse)
 - [K1ngw1ng](https://github.com/K1ngw1ng)
 - [Ankitsinghsisodya](https://github.com/Ankitsinghsisodya)
@@ -54,8 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [nlxter](https://github.com/nlxter)
 - [Akashthespidy](https://github.com/Akashthespidy)
 - [dev2298](https://github.com/dev2298)
-- [Prathamkumar18](https://github.com/Prathamkumar18)
-- [AgzigitovOskar](https://github.com/AgzigitovOskar)
 
 ## ⭐ Recent stars
 
