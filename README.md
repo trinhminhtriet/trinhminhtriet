@@ -39,23 +39,23 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) - 🚀 All-in-one CLI toolkit for developers: scaffold, manage, automate, and boost productivity across languages! (4 months ago)
 - [lamhaison/aws-cli-utils](https://github.com/lamhaison/aws-cli-utils) - This is the project to collect helpful aws cli commandline with complex options to support your working (4 months ago)
 - [trinhminhtriet/dwipe](https://github.com/trinhminhtriet/dwipe) - 🧹 Fast, cross-platform disk cleanup tool with interactive UI for easy directory size visualization. (4 months ago)
-- [nctl-io/nctl-roadmap](https://github.com/nctl-io/nctl-roadmap) (4 months ago)
+- [nctl-io/nctl-roadmap](https://github.com/nctl-io/nctl-roadmap) (5 months ago)
 - [nctl-io/.github](https://github.com/nctl-io/.github) - 🌐 Network. Connect. Transform. Lead. (5 months ago)
 - [trinhminhtriet/sizr](https://github.com/trinhminhtriet/sizr) - 📈 A fast, Rust-based tool to analyze file system usage with colorful output, file aggregation, exclusions, and directory comparisons. (5 months ago)
 - [rust-rs/tabler](https://github.com/rust-rs/tabler) - 📊 Tabler: A lightweight TUI tool to view, query, and navigate CSV, TSV, and Parquet data files. (5 months ago)
 
 ## 👯 Check out my recent followers
 
+- [Lactea-J](https://github.com/Lactea-J)
+- [aniekanvictor04-alt](https://github.com/aniekanvictor04-alt)
+- [abraham-ny](https://github.com/abraham-ny)
+- [priyanahata](https://github.com/priyanahata)
 - [erogluyusuf](https://github.com/erogluyusuf)
 - [rajo69](https://github.com/rajo69)
 - [GeorgePearse](https://github.com/GeorgePearse)
 - [K1ngw1ng](https://github.com/K1ngw1ng)
 - [Ankitsinghsisodya](https://github.com/Ankitsinghsisodya)
 - [jamesnet214](https://github.com/jamesnet214)
-- [karmokardhruv](https://github.com/karmokardhruv)
-- [nlxter](https://github.com/nlxter)
-- [Akashthespidy](https://github.com/Akashthespidy)
-- [dev2298](https://github.com/dev2298)
 
 ## ⭐ Recent stars
 
