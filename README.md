@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [glowhub-1028](https://github.com/glowhub-1028)
 - [revbros](https://github.com/revbros)
 - [aaditkamat](https://github.com/aaditkamat)
 - [starsentry](https://github.com/starsentry)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [abraham-ny](https://github.com/abraham-ny)
 - [priyanahata](https://github.com/priyanahata)
 - [erogluyusuf](https://github.com/erogluyusuf)
-- [rajo69](https://github.com/rajo69)
 
 ## ⭐ Recent stars
 
