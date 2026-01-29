@@ -46,6 +46,9 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [beytekindavut](https://github.com/beytekindavut)
+- [adenhq](https://github.com/adenhq)
+- [theplagueman](https://github.com/theplagueman)
 - [AXA6](https://github.com/AXA6)
 - [jacobcgrennnnn-lgtm](https://github.com/jacobcgrennnnn-lgtm)
 - [glowhub-1028](https://github.com/glowhub-1028)
@@ -53,9 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [aaditkamat](https://github.com/aaditkamat)
 - [starsentry](https://github.com/starsentry)
 - [sara8086](https://github.com/sara8086)
-- [Lactea-J](https://github.com/Lactea-J)
-- [aniekanvictor04-alt](https://github.com/aniekanvictor04-alt)
-- [abraham-ny](https://github.com/abraham-ny)
 
 ## ⭐ Recent stars
 
