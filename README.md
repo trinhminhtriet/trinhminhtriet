@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [AXA6](https://github.com/AXA6)
+- [jacobcgrennnnn-lgtm](https://github.com/jacobcgrennnnn-lgtm)
 - [glowhub-1028](https://github.com/glowhub-1028)
 - [revbros](https://github.com/revbros)
 - [aaditkamat](https://github.com/aaditkamat)
@@ -54,8 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Lactea-J](https://github.com/Lactea-J)
 - [aniekanvictor04-alt](https://github.com/aniekanvictor04-alt)
 - [abraham-ny](https://github.com/abraham-ny)
-- [priyanahata](https://github.com/priyanahata)
-- [erogluyusuf](https://github.com/erogluyusuf)
 
 ## ⭐ Recent stars
 
