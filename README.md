@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [UsQuake](https://github.com/UsQuake)
+- [manman4](https://github.com/manman4)
 - [Lactea-J](https://github.com/Lactea-J)
 - [greatxrider](https://github.com/greatxrider)
 - [stonedseeker](https://github.com/stonedseeker)
@@ -54,8 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [beytekindavut](https://github.com/beytekindavut)
 - [adenhq](https://github.com/adenhq)
 - [theplagueman](https://github.com/theplagueman)
-- [AXA6](https://github.com/AXA6)
-- [jacobcgrennnnn-lgtm](https://github.com/jacobcgrennnnn-lgtm)
 
 ## ⭐ Recent stars
 
