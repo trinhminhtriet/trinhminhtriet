@@ -46,16 +46,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [NitrixXero](https://github.com/NitrixXero)
+- [devhiep8181](https://github.com/devhiep8181)
+- [sukumar0](https://github.com/sukumar0)
+- [Dedon25](https://github.com/Dedon25)
+- [prince-up](https://github.com/prince-up)
+- [TensorDev215](https://github.com/TensorDev215)
 - [juicetreacly](https://github.com/juicetreacly)
 - [AgdaScript](https://github.com/AgdaScript)
 - [UsQuake](https://github.com/UsQuake)
 - [manman4](https://github.com/manman4)
-- [Lactea-J](https://github.com/Lactea-J)
-- [greatxrider](https://github.com/greatxrider)
-- [stonedseeker](https://github.com/stonedseeker)
-- [V-Pradhan](https://github.com/V-Pradhan)
-- [osalamon](https://github.com/osalamon)
-- [beytekindavut](https://github.com/beytekindavut)
 
 ## ⭐ Recent stars
 
