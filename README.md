@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [juicetreacly](https://github.com/juicetreacly)
+- [AgdaScript](https://github.com/AgdaScript)
 - [UsQuake](https://github.com/UsQuake)
 - [manman4](https://github.com/manman4)
 - [Lactea-J](https://github.com/Lactea-J)
@@ -54,8 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [V-Pradhan](https://github.com/V-Pradhan)
 - [osalamon](https://github.com/osalamon)
 - [beytekindavut](https://github.com/beytekindavut)
-- [adenhq](https://github.com/adenhq)
-- [theplagueman](https://github.com/theplagueman)
 
 ## ⭐ Recent stars
 
