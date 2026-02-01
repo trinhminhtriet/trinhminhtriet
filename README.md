@@ -46,6 +46,9 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [aertsimon90](https://github.com/aertsimon90)
+- [AnonimusShamshiAlex](https://github.com/AnonimusShamshiAlex)
+- [Pavankumargr2004](https://github.com/Pavankumargr2004)
 - [ezgiyilmazz](https://github.com/ezgiyilmazz)
 - [berkguneey](https://github.com/berkguneey)
 - [shalaka-deshan0110](https://github.com/shalaka-deshan0110)
@@ -53,9 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [devhiep8181](https://github.com/devhiep8181)
 - [sukumar0](https://github.com/sukumar0)
 - [Dedon25](https://github.com/Dedon25)
-- [prince-up](https://github.com/prince-up)
-- [TensorDev215](https://github.com/TensorDev215)
-- [juicetreacly](https://github.com/juicetreacly)
 
 ## ⭐ Recent stars
 
