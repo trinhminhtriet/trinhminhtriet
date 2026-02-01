@@ -46,6 +46,9 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [ezgiyilmazz](https://github.com/ezgiyilmazz)
+- [berkguneey](https://github.com/berkguneey)
+- [shalaka-deshan0110](https://github.com/shalaka-deshan0110)
 - [NitrixXero](https://github.com/NitrixXero)
 - [devhiep8181](https://github.com/devhiep8181)
 - [sukumar0](https://github.com/sukumar0)
@@ -53,9 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [prince-up](https://github.com/prince-up)
 - [TensorDev215](https://github.com/TensorDev215)
 - [juicetreacly](https://github.com/juicetreacly)
-- [AgdaScript](https://github.com/AgdaScript)
-- [UsQuake](https://github.com/UsQuake)
-- [manman4](https://github.com/manman4)
 
 ## ⭐ Recent stars
 
