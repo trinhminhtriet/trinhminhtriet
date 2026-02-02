@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [nahakrajesh](https://github.com/nahakrajesh)
+- [sandy-wang](https://github.com/sandy-wang)
 - [galaxyb-dark](https://github.com/galaxyb-dark)
 - [osasruben224-star](https://github.com/osasruben224-star)
 - [aertsimon90](https://github.com/aertsimon90)
@@ -54,8 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [ezgiyilmazz](https://github.com/ezgiyilmazz)
 - [shalaka-deshan0110](https://github.com/shalaka-deshan0110)
 - [NitrixXero](https://github.com/NitrixXero)
-- [devhiep8181](https://github.com/devhiep8181)
-- [sukumar0](https://github.com/sukumar0)
 
 ## ⭐ Recent stars
 
