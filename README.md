@@ -38,7 +38,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [nctl-io/nctl-branding](https://github.com/nctl-io/nctl-branding) - NCTL Branding 🖼️: Centralized assets and guidelines for consistent visual identity across NCTL projects and platforms. (3 months ago)
 - [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) - 🚀 All-in-one CLI toolkit for developers: scaffold, manage, automate, and boost productivity across languages! (4 months ago)
 - [lamhaison/aws-cli-utils](https://github.com/lamhaison/aws-cli-utils) - This is the project to collect helpful aws cli commandline with complex options to support your working (4 months ago)
-- [trinhminhtriet/dwipe](https://github.com/trinhminhtriet/dwipe) - 🧹 Fast, cross-platform disk cleanup tool with interactive UI for easy directory size visualization. (4 months ago)
+- [trinhminhtriet/dwipe](https://github.com/trinhminhtriet/dwipe) - 🧹 Fast, cross-platform disk cleanup tool with interactive UI for easy directory size visualization. (5 months ago)
 - [nctl-io/nctl-roadmap](https://github.com/nctl-io/nctl-roadmap) (5 months ago)
 - [nctl-io/.github](https://github.com/nctl-io/.github) - 🌐 Network. Connect. Transform. Lead. (5 months ago)
 - [trinhminhtriet/sizr](https://github.com/trinhminhtriet/sizr) - 📈 A fast, Rust-based tool to analyze file system usage with colorful output, file aggregation, exclusions, and directory comparisons. (5 months ago)
@@ -46,16 +46,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [galaxyb-dark](https://github.com/galaxyb-dark)
+- [osasruben224-star](https://github.com/osasruben224-star)
 - [aertsimon90](https://github.com/aertsimon90)
 - [AnonimusShamshiAlex](https://github.com/AnonimusShamshiAlex)
 - [Pavankumargr2004](https://github.com/Pavankumargr2004)
 - [ezgiyilmazz](https://github.com/ezgiyilmazz)
-- [berkguneey](https://github.com/berkguneey)
 - [shalaka-deshan0110](https://github.com/shalaka-deshan0110)
 - [NitrixXero](https://github.com/NitrixXero)
 - [devhiep8181](https://github.com/devhiep8181)
 - [sukumar0](https://github.com/sukumar0)
-- [Dedon25](https://github.com/Dedon25)
 
 ## ⭐ Recent stars
 
