@@ -46,16 +46,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [gagaguguk](https://github.com/gagaguguk)
+- [njtsb1](https://github.com/njtsb1)
+- [CristianoFIlho](https://github.com/CristianoFIlho)
+- [nisargpatel28](https://github.com/nisargpatel28)
+- [ednillibanio](https://github.com/ednillibanio)
+- [zouhirattanouti4-alt](https://github.com/zouhirattanouti4-alt)
+- [ArshVermaGit](https://github.com/ArshVermaGit)
+- [BLOSSOMING-FLOWER](https://github.com/BLOSSOMING-FLOWER)
+- [a-valen3](https://github.com/a-valen3)
 - [nahakrajesh](https://github.com/nahakrajesh)
-- [sandy-wang](https://github.com/sandy-wang)
-- [galaxyb-dark](https://github.com/galaxyb-dark)
-- [osasruben224-star](https://github.com/osasruben224-star)
-- [aertsimon90](https://github.com/aertsimon90)
-- [AnonimusShamshiAlex](https://github.com/AnonimusShamshiAlex)
-- [Pavankumargr2004](https://github.com/Pavankumargr2004)
-- [ezgiyilmazz](https://github.com/ezgiyilmazz)
-- [shalaka-deshan0110](https://github.com/shalaka-deshan0110)
-- [NitrixXero](https://github.com/NitrixXero)
 
 ## ⭐ Recent stars
 
