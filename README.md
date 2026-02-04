@@ -46,6 +46,9 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [arcadegenesis](https://github.com/arcadegenesis)
+- [Houessou1](https://github.com/Houessou1)
+- [d2py](https://github.com/d2py)
 - [dracoloveforall-crypto](https://github.com/dracoloveforall-crypto)
 - [Abdumannonov-Samandar](https://github.com/Abdumannonov-Samandar)
 - [runningdev9998](https://github.com/runningdev9998)
@@ -53,9 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [kashewknutt](https://github.com/kashewknutt)
 - [meeAtif](https://github.com/meeAtif)
 - [IsaacKalambo22](https://github.com/IsaacKalambo22)
-- [gagaguguk](https://github.com/gagaguguk)
-- [njtsb1](https://github.com/njtsb1)
-- [CristianoFIlho](https://github.com/CristianoFIlho)
 
 ## ⭐ Recent stars
 
