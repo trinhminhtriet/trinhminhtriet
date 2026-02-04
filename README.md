@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [joaocarpim](https://github.com/joaocarpim)
+- [apranshyadav](https://github.com/apranshyadav)
 - [arcadegenesis](https://github.com/arcadegenesis)
 - [Houessou1](https://github.com/Houessou1)
 - [d2py](https://github.com/d2py)
@@ -54,8 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [runningdev9998](https://github.com/runningdev9998)
 - [karam-ai](https://github.com/karam-ai)
 - [kashewknutt](https://github.com/kashewknutt)
-- [meeAtif](https://github.com/meeAtif)
-- [IsaacKalambo22](https://github.com/IsaacKalambo22)
 
 ## ⭐ Recent stars
 
