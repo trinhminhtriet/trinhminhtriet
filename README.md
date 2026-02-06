@@ -46,16 +46,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [iosaccounts](https://github.com/iosaccounts)
+- [BhavyaGajjarapu](https://github.com/BhavyaGajjarapu)
+- [tenequm](https://github.com/tenequm)
+- [chahe-dridi](https://github.com/chahe-dridi)
 - [freebughao](https://github.com/freebughao)
 - [Seif-01](https://github.com/Seif-01)
 - [jusot99](https://github.com/jusot99)
 - [crymeer](https://github.com/crymeer)
 - [czerid](https://github.com/czerid)
 - [Blazt95](https://github.com/Blazt95)
-- [zeniofia](https://github.com/zeniofia)
-- [susiasa](https://github.com/susiasa)
-- [OTALDOINCOD3](https://github.com/OTALDOINCOD3)
-- [syaharip005](https://github.com/syaharip005)
 
 ## ⭐ Recent stars
 
