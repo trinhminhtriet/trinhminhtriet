@@ -46,16 +46,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Stavroulaast](https://github.com/Stavroulaast)
+- [Adr4563](https://github.com/Adr4563)
+- [kayfreeman](https://github.com/kayfreeman)
+- [Lactea-J](https://github.com/Lactea-J)
+- [sunjoe508](https://github.com/sunjoe508)
 - [fengyxz](https://github.com/fengyxz)
 - [logicxyz](https://github.com/logicxyz)
 - [TRUEJASONFANS](https://github.com/TRUEJASONFANS)
 - [melan-choly](https://github.com/melan-choly)
 - [MarcosAustin](https://github.com/MarcosAustin)
-- [Jdkendbhshn](https://github.com/Jdkendbhshn)
-- [iosaccounts](https://github.com/iosaccounts)
-- [BhavyaGajjarapu](https://github.com/BhavyaGajjarapu)
-- [tenequm](https://github.com/tenequm)
-- [chahe-dridi](https://github.com/chahe-dridi)
 
 ## ⭐ Recent stars
 
