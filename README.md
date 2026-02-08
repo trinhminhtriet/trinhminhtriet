@@ -46,6 +46,9 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [fengyxz](https://github.com/fengyxz)
+- [logicxyz](https://github.com/logicxyz)
+- [TRUEJASONFANS](https://github.com/TRUEJASONFANS)
 - [melan-choly](https://github.com/melan-choly)
 - [MarcosAustin](https://github.com/MarcosAustin)
 - [Jdkendbhshn](https://github.com/Jdkendbhshn)
@@ -53,9 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [BhavyaGajjarapu](https://github.com/BhavyaGajjarapu)
 - [tenequm](https://github.com/tenequm)
 - [chahe-dridi](https://github.com/chahe-dridi)
-- [freebughao](https://github.com/freebughao)
-- [Seif-01](https://github.com/Seif-01)
-- [jusot99](https://github.com/jusot99)
 
 ## ⭐ Recent stars
 
