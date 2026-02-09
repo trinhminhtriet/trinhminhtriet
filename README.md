@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [R-Tharanka](https://github.com/R-Tharanka)
+- [yousufali27](https://github.com/yousufali27)
 - [Azrorrrrr](https://github.com/Azrorrrrr)
 - [MENOT02](https://github.com/MENOT02)
 - [lycherys](https://github.com/lycherys)
@@ -54,8 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [szenled](https://github.com/szenled)
 - [wenteris](https://github.com/wenteris)
 - [AntonioFalcaoJr](https://github.com/AntonioFalcaoJr)
-- [cleinvert](https://github.com/cleinvert)
-- [Stavroulaast](https://github.com/Stavroulaast)
 
 ## ⭐ Recent stars
 
