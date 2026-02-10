@@ -46,16 +46,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [kunwitch](https://github.com/kunwitch)
+- [zefflyn](https://github.com/zefflyn)
+- [yumeriu](https://github.com/yumeriu)
+- [frenetis](https://github.com/frenetis)
+- [eveuies](https://github.com/eveuies)
+- [erenjugs](https://github.com/erenjugs)
+- [lesterink](https://github.com/lesterink)
+- [safaeean](https://github.com/safaeean)
+- [zachxien](https://github.com/zachxien)
 - [fahdsliman](https://github.com/fahdsliman)
-- [JJetmar](https://github.com/JJetmar)
-- [engrshuvodas](https://github.com/engrshuvodas)
-- [Illusivehacks](https://github.com/Illusivehacks)
-- [R-Tharanka](https://github.com/R-Tharanka)
-- [yousufali27](https://github.com/yousufali27)
-- [Azrorrrrr](https://github.com/Azrorrrrr)
-- [MENOT02](https://github.com/MENOT02)
-- [lycherys](https://github.com/lycherys)
-- [xedeline](https://github.com/xedeline)
 
 ## ⭐ Recent stars
 
