@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Sudo-Ali-Dev](https://github.com/Sudo-Ali-Dev)
 - [kunwitch](https://github.com/kunwitch)
 - [zefflyn](https://github.com/zefflyn)
 - [yumeriu](https://github.com/yumeriu)
@@ -55,14 +56,13 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [lesterink](https://github.com/lesterink)
 - [safaeean](https://github.com/safaeean)
 - [zachxien](https://github.com/zachxien)
-- [fahdsliman](https://github.com/fahdsliman)
 
 ## ⭐ Recent stars
 
 - [luubinhan/dev-proxy](https://github.com/luubinhan/dev-proxy) (1 month ago)
-- [Aiano/FOC](https://github.com/Aiano/FOC) - A BLDC motor driver using FOC algorithm. (2 months ago)
-- [RollingGecko/VescUartControl](https://github.com/RollingGecko/VescUartControl) - Arduino library to interface with the VESC bldc over UART. (2 months ago)
-- [pekkaroi/bldc-drive](https://github.com/pekkaroi/bldc-drive) - Cheap and simple brushless DC motor driver designed for CNC applications using STM32 microcontroller (2 months ago)
-- [xp4xbox/Python-Backdoor](https://github.com/xp4xbox/Python-Backdoor) - This project is a cross-platform backdoor/reverse shell and post-exploitation tool written in Python3 (2 months ago)
+- [Aiano/FOC](https://github.com/Aiano/FOC) - A BLDC motor driver using FOC algorithm. (3 months ago)
+- [RollingGecko/VescUartControl](https://github.com/RollingGecko/VescUartControl) - Arduino library to interface with the VESC bldc over UART. (3 months ago)
+- [pekkaroi/bldc-drive](https://github.com/pekkaroi/bldc-drive) - Cheap and simple brushless DC motor driver designed for CNC applications using STM32 microcontroller (3 months ago)
+- [xp4xbox/Python-Backdoor](https://github.com/xp4xbox/Python-Backdoor) - This project is a cross-platform backdoor/reverse shell and post-exploitation tool written in Python3 (3 months ago)
 
 ## 🔨 Latest Pull Requests I published
