@@ -46,16 +46,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [shako03](https://github.com/shako03)
+- [YoussefBechara](https://github.com/YoussefBechara)
+- [amankumarsingh00224-dev](https://github.com/amankumarsingh00224-dev)
+- [08101115514](https://github.com/08101115514)
 - [Sudo-Ali-Dev](https://github.com/Sudo-Ali-Dev)
 - [kunwitch](https://github.com/kunwitch)
 - [zefflyn](https://github.com/zefflyn)
 - [yumeriu](https://github.com/yumeriu)
 - [frenetis](https://github.com/frenetis)
 - [eveuies](https://github.com/eveuies)
-- [erenjugs](https://github.com/erenjugs)
-- [lesterink](https://github.com/lesterink)
-- [safaeean](https://github.com/safaeean)
-- [zachxien](https://github.com/zachxien)
 
 ## ⭐ Recent stars
 
