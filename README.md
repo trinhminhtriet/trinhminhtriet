@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [sisterai](https://github.com/sisterai)
 - [shako03](https://github.com/shako03)
 - [YoussefBechara](https://github.com/YoussefBechara)
 - [amankumarsingh00224-dev](https://github.com/amankumarsingh00224-dev)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [zefflyn](https://github.com/zefflyn)
 - [yumeriu](https://github.com/yumeriu)
 - [frenetis](https://github.com/frenetis)
-- [eveuies](https://github.com/eveuies)
 
 ## ⭐ Recent stars
 
