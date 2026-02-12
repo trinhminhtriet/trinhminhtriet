@@ -46,6 +46,9 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [marliesedelmann-maker](https://github.com/marliesedelmann-maker)
+- [XiaomingX](https://github.com/XiaomingX)
+- [goldhorsedev0101](https://github.com/goldhorsedev0101)
 - [sisterai](https://github.com/sisterai)
 - [shako03](https://github.com/shako03)
 - [YoussefBechara](https://github.com/YoussefBechara)
@@ -53,9 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [08101115514](https://github.com/08101115514)
 - [Sudo-Ali-Dev](https://github.com/Sudo-Ali-Dev)
 - [kunwitch](https://github.com/kunwitch)
-- [zefflyn](https://github.com/zefflyn)
-- [yumeriu](https://github.com/yumeriu)
-- [frenetis](https://github.com/frenetis)
 
 ## ⭐ Recent stars
 
