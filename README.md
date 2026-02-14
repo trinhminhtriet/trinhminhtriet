@@ -46,16 +46,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [WilliamMajanja](https://github.com/WilliamMajanja)
+- [alimovceo](https://github.com/alimovceo)
+- [debunkingtrio](https://github.com/debunkingtrio)
+- [CYGDEN](https://github.com/CYGDEN)
 - [ibrataha8](https://github.com/ibrataha8)
 - [pavrrotx2](https://github.com/pavrrotx2)
 - [OmarSaunders](https://github.com/OmarSaunders)
 - [elibobcoder](https://github.com/elibobcoder)
 - [fiacredev](https://github.com/fiacredev)
 - [DinithMadushan](https://github.com/DinithMadushan)
-- [marliesedelmann-maker](https://github.com/marliesedelmann-maker)
-- [XiaomingX](https://github.com/XiaomingX)
-- [goldhorsedev0101](https://github.com/goldhorsedev0101)
-- [sisterai](https://github.com/sisterai)
 
 ## ⭐ Recent stars
 
