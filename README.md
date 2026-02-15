@@ -46,16 +46,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Goof-EX-SOLDIER](https://github.com/Goof-EX-SOLDIER)
+- [mdrijoanmaruf](https://github.com/mdrijoanmaruf)
+- [jokercsi](https://github.com/jokercsi)
+- [chahe-dridi](https://github.com/chahe-dridi)
+- [emjjkk](https://github.com/emjjkk)
+- [lucassoliz](https://github.com/lucassoliz)
+- [coindelisi66](https://github.com/coindelisi66)
 - [WilliamMajanja](https://github.com/WilliamMajanja)
 - [alimovceo](https://github.com/alimovceo)
 - [debunkingtrio](https://github.com/debunkingtrio)
-- [CYGDEN](https://github.com/CYGDEN)
-- [ibrataha8](https://github.com/ibrataha8)
-- [pavrrotx2](https://github.com/pavrrotx2)
-- [OmarSaunders](https://github.com/OmarSaunders)
-- [elibobcoder](https://github.com/elibobcoder)
-- [fiacredev](https://github.com/fiacredev)
-- [DinithMadushan](https://github.com/DinithMadushan)
 
 ## ⭐ Recent stars
 
