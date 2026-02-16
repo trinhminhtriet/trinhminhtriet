@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [edwin-niwaha](https://github.com/edwin-niwaha)
 - [jorgeMontoya022](https://github.com/jorgeMontoya022)
 - [anujsb](https://github.com/anujsb)
 - [Goof-EX-SOLDIER](https://github.com/Goof-EX-SOLDIER)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [lucassoliz](https://github.com/lucassoliz)
 - [coindelisi66](https://github.com/coindelisi66)
 - [WilliamMajanja](https://github.com/WilliamMajanja)
-- [alimovceo](https://github.com/alimovceo)
 
 ## ⭐ Recent stars
 
