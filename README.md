@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [nisargpatel28](https://github.com/nisargpatel28)
+- [M1ngos](https://github.com/M1ngos)
 - [Ashkan-P88](https://github.com/Ashkan-P88)
 - [Camel332](https://github.com/Camel332)
 - [aka19-76](https://github.com/aka19-76)
@@ -54,8 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [jorgeMontoya022](https://github.com/jorgeMontoya022)
 - [anujsb](https://github.com/anujsb)
 - [Goof-EX-SOLDIER](https://github.com/Goof-EX-SOLDIER)
-- [jokercsi](https://github.com/jokercsi)
-- [chahe-dridi](https://github.com/chahe-dridi)
 
 ## ⭐ Recent stars
 
