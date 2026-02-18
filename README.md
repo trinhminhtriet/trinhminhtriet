@@ -46,16 +46,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [TME520](https://github.com/TME520)
+- [DaniilVdovin](https://github.com/DaniilVdovin)
+- [ScriptResource](https://github.com/ScriptResource)
+- [l0ve-hate](https://github.com/l0ve-hate)
+- [varshapanda](https://github.com/varshapanda)
 - [nisargpatel28](https://github.com/nisargpatel28)
 - [M1ngos](https://github.com/M1ngos)
 - [Ashkan-P88](https://github.com/Ashkan-P88)
 - [Camel332](https://github.com/Camel332)
 - [aka19-76](https://github.com/aka19-76)
-- [Analpet72](https://github.com/Analpet72)
-- [edwin-niwaha](https://github.com/edwin-niwaha)
-- [jorgeMontoya022](https://github.com/jorgeMontoya022)
-- [anujsb](https://github.com/anujsb)
-- [Goof-EX-SOLDIER](https://github.com/Goof-EX-SOLDIER)
 
 ## ⭐ Recent stars
 
