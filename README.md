@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [hangillee](https://github.com/hangillee)
 - [tomost8](https://github.com/tomost8)
 - [Lactea-J](https://github.com/Lactea-J)
 - [arn-c0de](https://github.com/arn-c0de)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [giorgioxo](https://github.com/giorgioxo)
 - [ye231101](https://github.com/ye231101)
 - [TME520](https://github.com/TME520)
-- [DaniilVdovin](https://github.com/DaniilVdovin)
 
 ## ⭐ Recent stars
 
