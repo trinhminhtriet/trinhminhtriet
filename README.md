@@ -46,16 +46,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [tomost8](https://github.com/tomost8)
+- [Lactea-J](https://github.com/Lactea-J)
+- [arn-c0de](https://github.com/arn-c0de)
+- [felipetjmg1-bit](https://github.com/felipetjmg1-bit)
+- [vicmaster](https://github.com/vicmaster)
+- [d3CryptoDreamer](https://github.com/d3CryptoDreamer)
 - [giorgioxo](https://github.com/giorgioxo)
 - [ye231101](https://github.com/ye231101)
 - [TME520](https://github.com/TME520)
 - [DaniilVdovin](https://github.com/DaniilVdovin)
-- [ScriptResource](https://github.com/ScriptResource)
-- [l0ve-hate](https://github.com/l0ve-hate)
-- [varshapanda](https://github.com/varshapanda)
-- [nisargpatel28](https://github.com/nisargpatel28)
-- [M1ngos](https://github.com/M1ngos)
-- [Ashkan-P88](https://github.com/Ashkan-P88)
 
 ## ⭐ Recent stars
 
