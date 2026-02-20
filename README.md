@@ -46,6 +46,9 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [ShivanshGarg007](https://github.com/ShivanshGarg007)
+- [PeetlaMahesh123](https://github.com/PeetlaMahesh123)
+- [jamesdev9452](https://github.com/jamesdev9452)
 - [feartr](https://github.com/feartr)
 - [hangillee](https://github.com/hangillee)
 - [tomost8](https://github.com/tomost8)
@@ -53,9 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [arn-c0de](https://github.com/arn-c0de)
 - [felipetjmg1-bit](https://github.com/felipetjmg1-bit)
 - [vicmaster](https://github.com/vicmaster)
-- [d3CryptoDreamer](https://github.com/d3CryptoDreamer)
-- [giorgioxo](https://github.com/giorgioxo)
-- [ye231101](https://github.com/ye231101)
 
 ## ⭐ Recent stars
 
