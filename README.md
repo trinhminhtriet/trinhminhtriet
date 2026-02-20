@@ -42,10 +42,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [nctl-io/nctl-roadmap](https://github.com/nctl-io/nctl-roadmap) (5 months ago)
 - [nctl-io/.github](https://github.com/nctl-io/.github) - 🌐 Network. Connect. Transform. Lead. (5 months ago)
 - [trinhminhtriet/sizr](https://github.com/trinhminhtriet/sizr) - 📈 A fast, Rust-based tool to analyze file system usage with colorful output, file aggregation, exclusions, and directory comparisons. (5 months ago)
-- [trinhminhtriet/spiko](https://github.com/trinhminhtriet/spiko) - 🚀 Spiko is a fast, Rust-based load testing tool with a beautiful TUI for real-time insights. (5 months ago)
+- [trinhminhtriet/spiko](https://github.com/trinhminhtriet/spiko) - 🚀 Spiko is a fast, Rust-based load testing tool with a beautiful TUI for real-time insights. (6 months ago)
 
 ## 👯 Check out my recent followers
 
+- [feartr](https://github.com/feartr)
 - [hangillee](https://github.com/hangillee)
 - [tomost8](https://github.com/tomost8)
 - [Lactea-J](https://github.com/Lactea-J)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [d3CryptoDreamer](https://github.com/d3CryptoDreamer)
 - [giorgioxo](https://github.com/giorgioxo)
 - [ye231101](https://github.com/ye231101)
-- [TME520](https://github.com/TME520)
 
 ## ⭐ Recent stars
 
