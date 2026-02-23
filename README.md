@@ -46,6 +46,9 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [aiMahdiX](https://github.com/aiMahdiX)
+- [ledinhtri97](https://github.com/ledinhtri97)
+- [locfaker](https://github.com/locfaker)
 - [dariubs](https://github.com/dariubs)
 - [KAKASHlHATAKE](https://github.com/KAKASHlHATAKE)
 - [Avijeet72](https://github.com/Avijeet72)
@@ -53,9 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [jaydev787748](https://github.com/jaydev787748)
 - [rcotofan](https://github.com/rcotofan)
 - [joshuanice](https://github.com/joshuanice)
-- [beytekindavut](https://github.com/beytekindavut)
-- [atul-upadhyay-7](https://github.com/atul-upadhyay-7)
-- [locfaker](https://github.com/locfaker)
 
 ## ⭐ Recent stars
 
