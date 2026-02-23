@@ -40,7 +40,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [lamhaison/aws-cli-utils](https://github.com/lamhaison/aws-cli-utils) - This is the project to collect helpful aws cli commandline with complex options to support your working (5 months ago)
 - [trinhminhtriet/dwipe](https://github.com/trinhminhtriet/dwipe) - 🧹 Fast, cross-platform disk cleanup tool with interactive UI for easy directory size visualization. (5 months ago)
 - [nctl-io/nctl-roadmap](https://github.com/nctl-io/nctl-roadmap) (5 months ago)
-- [nctl-io/.github](https://github.com/nctl-io/.github) - 🌐 Network. Connect. Transform. Lead. (5 months ago)
+- [nctl-io/.github](https://github.com/nctl-io/.github) - 🌐 Network. Connect. Transform. Lead. (6 months ago)
 - [trinhminhtriet/sizr](https://github.com/trinhminhtriet/sizr) - 📈 A fast, Rust-based tool to analyze file system usage with colorful output, file aggregation, exclusions, and directory comparisons. (6 months ago)
 - [trinhminhtriet/spiko](https://github.com/trinhminhtriet/spiko) - 🚀 Spiko is a fast, Rust-based load testing tool with a beautiful TUI for real-time insights. (6 months ago)
 
@@ -48,14 +48,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 - [dariubs](https://github.com/dariubs)
 - [KAKASHlHATAKE](https://github.com/KAKASHlHATAKE)
-- [ikramagix](https://github.com/ikramagix)
 - [Avijeet72](https://github.com/Avijeet72)
 - [varshapanda](https://github.com/varshapanda)
 - [jaydev787748](https://github.com/jaydev787748)
 - [rcotofan](https://github.com/rcotofan)
 - [joshuanice](https://github.com/joshuanice)
-- [Sumersingpatil2694](https://github.com/Sumersingpatil2694)
 - [beytekindavut](https://github.com/beytekindavut)
+- [atul-upadhyay-7](https://github.com/atul-upadhyay-7)
+- [locfaker](https://github.com/locfaker)
 
 ## ⭐ Recent stars
 
