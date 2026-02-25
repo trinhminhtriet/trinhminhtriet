@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [gedelabulliraju](https://github.com/gedelabulliraju)
+- [AMR2010M](https://github.com/AMR2010M)
 - [rasidi3112](https://github.com/rasidi3112)
 - [jamolbekjamolov50-jpg](https://github.com/jamolbekjamolov50-jpg)
 - [AlizayAyesha](https://github.com/AlizayAyesha)
@@ -54,8 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [locfaker](https://github.com/locfaker)
 - [dariubs](https://github.com/dariubs)
 - [KAKASHlHATAKE](https://github.com/KAKASHlHATAKE)
-- [Avijeet72](https://github.com/Avijeet72)
-- [varshapanda](https://github.com/varshapanda)
 
 ## ⭐ Recent stars
 
