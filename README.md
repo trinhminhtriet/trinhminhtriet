@@ -46,16 +46,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [emjjkk](https://github.com/emjjkk)
+- [liquorlickher](https://github.com/liquorlickher)
+- [lacedwithlove](https://github.com/lacedwithlove)
+- [PhanNam1501](https://github.com/PhanNam1501)
+- [ScorpioFento](https://github.com/ScorpioFento)
 - [ye231101](https://github.com/ye231101)
 - [nielcodeforce](https://github.com/nielcodeforce)
 - [Pavankumargr2004](https://github.com/Pavankumargr2004)
 - [nikhilpatidar01](https://github.com/nikhilpatidar01)
 - [bvrint](https://github.com/bvrint)
-- [brody-0125](https://github.com/brody-0125)
-- [dayanadandachy123](https://github.com/dayanadandachy123)
-- [Isaacko0](https://github.com/Isaacko0)
-- [gedelabulliraju](https://github.com/gedelabulliraju)
-- [AMR2010M](https://github.com/AMR2010M)
 
 ## ⭐ Recent stars
 
