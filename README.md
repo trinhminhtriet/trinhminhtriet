@@ -39,23 +39,23 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) - 🚀 All-in-one CLI toolkit for developers: scaffold, manage, automate, and boost productivity across languages! (5 months ago)
 - [lamhaison/aws-cli-utils](https://github.com/lamhaison/aws-cli-utils) - This is the project to collect helpful aws cli commandline with complex options to support your working (5 months ago)
 - [trinhminhtriet/dwipe](https://github.com/trinhminhtriet/dwipe) - 🧹 Fast, cross-platform disk cleanup tool with interactive UI for easy directory size visualization. (5 months ago)
-- [nctl-io/nctl-roadmap](https://github.com/nctl-io/nctl-roadmap) (5 months ago)
+- [nctl-io/nctl-roadmap](https://github.com/nctl-io/nctl-roadmap) (6 months ago)
 - [nctl-io/.github](https://github.com/nctl-io/.github) - 🌐 Network. Connect. Transform. Lead. (6 months ago)
 - [trinhminhtriet/sizr](https://github.com/trinhminhtriet/sizr) - 📈 A fast, Rust-based tool to analyze file system usage with colorful output, file aggregation, exclusions, and directory comparisons. (6 months ago)
 - [trinhminhtriet/spiko](https://github.com/trinhminhtriet/spiko) - 🚀 Spiko is a fast, Rust-based load testing tool with a beautiful TUI for real-time insights. (6 months ago)
 
 ## 👯 Check out my recent followers
 
+- [ye231101](https://github.com/ye231101)
+- [nielcodeforce](https://github.com/nielcodeforce)
 - [Pavankumargr2004](https://github.com/Pavankumargr2004)
 - [nikhilpatidar01](https://github.com/nikhilpatidar01)
 - [bvrint](https://github.com/bvrint)
 - [brody-0125](https://github.com/brody-0125)
 - [dayanadandachy123](https://github.com/dayanadandachy123)
 - [Isaacko0](https://github.com/Isaacko0)
-- [joebertcerezo](https://github.com/joebertcerezo)
 - [gedelabulliraju](https://github.com/gedelabulliraju)
 - [AMR2010M](https://github.com/AMR2010M)
-- [rasidi3112](https://github.com/rasidi3112)
 
 ## ⭐ Recent stars
 
