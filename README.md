@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [kylemank](https://github.com/kylemank)
 - [ShamshadBegum](https://github.com/ShamshadBegum)
 - [Ayoubhm07](https://github.com/Ayoubhm07)
 - [CaptainBlue793](https://github.com/CaptainBlue793)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [emjjkk](https://github.com/emjjkk)
 - [liquorlickher](https://github.com/liquorlickher)
 - [lacedwithlove](https://github.com/lacedwithlove)
-- [PhanNam1501](https://github.com/PhanNam1501)
 
 ## ⭐ Recent stars
 
