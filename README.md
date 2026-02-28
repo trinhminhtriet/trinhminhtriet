@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [mrcraigo](https://github.com/mrcraigo)
 - [F3cha](https://github.com/F3cha)
 - [jackoye](https://github.com/jackoye)
 - [weirdlone](https://github.com/weirdlone)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Gorotet](https://github.com/Gorotet)
 - [nerywine](https://github.com/nerywine)
 - [loreius](https://github.com/loreius)
-- [caryfles](https://github.com/caryfles)
 
 ## ⭐ Recent stars
 
