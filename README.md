@@ -46,16 +46,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Gecko51](https://github.com/Gecko51)
+- [Ben-Scr](https://github.com/Ben-Scr)
+- [suzuki-kenji0627](https://github.com/suzuki-kenji0627)
+- [chongzixuan-ai](https://github.com/chongzixuan-ai)
+- [chahe-dridi](https://github.com/chahe-dridi)
+- [matheusrodrivi](https://github.com/matheusrodrivi)
 - [DanielArturoAlejoAlvarez](https://github.com/DanielArturoAlejoAlvarez)
 - [joebertcerezo](https://github.com/joebertcerezo)
 - [nicholasmacaskill](https://github.com/nicholasmacaskill)
 - [cyberloop001](https://github.com/cyberloop001)
-- [mariotoorrees](https://github.com/mariotoorrees)
-- [umerfarooq8743](https://github.com/umerfarooq8743)
-- [nguyendinson](https://github.com/nguyendinson)
-- [krunixbase](https://github.com/krunixbase)
-- [rasidi3112](https://github.com/rasidi3112)
-- [jaydev787748](https://github.com/jaydev787748)
 
 ## ⭐ Recent stars
 
