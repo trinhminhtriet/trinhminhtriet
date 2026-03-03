@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [DanielArturoAlejoAlvarez](https://github.com/DanielArturoAlejoAlvarez)
+- [joebertcerezo](https://github.com/joebertcerezo)
 - [nicholasmacaskill](https://github.com/nicholasmacaskill)
 - [cyberloop001](https://github.com/cyberloop001)
 - [mariotoorrees](https://github.com/mariotoorrees)
@@ -54,8 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [krunixbase](https://github.com/krunixbase)
 - [rasidi3112](https://github.com/rasidi3112)
 - [jaydev787748](https://github.com/jaydev787748)
-- [tranduc1112s](https://github.com/tranduc1112s)
-- [yakinosy](https://github.com/yakinosy)
 
 ## ⭐ Recent stars
 
