@@ -38,7 +38,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [nctl-io/nctl-homepage](https://github.com/nctl-io/nctl-homepage) - 🚀 Modern homepage for NCTL: fast, responsive, TypeScript-powered, open source, and easy to customize. (4 months ago)
 - [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) - 🚀 All-in-one CLI toolkit for developers: scaffold, manage, automate, and boost productivity across languages! (5 months ago)
 - [lamhaison/aws-cli-utils](https://github.com/lamhaison/aws-cli-utils) - This is the project to collect helpful aws cli commandline with complex options to support your working (5 months ago)
-- [trinhminhtriet/dwipe](https://github.com/trinhminhtriet/dwipe) - 🧹 Fast, cross-platform disk cleanup tool with interactive UI for easy directory size visualization. (5 months ago)
+- [trinhminhtriet/dwipe](https://github.com/trinhminhtriet/dwipe) - 🧹 Fast, cross-platform disk cleanup tool with interactive UI for easy directory size visualization. (6 months ago)
 - [nctl-io/nctl-roadmap](https://github.com/nctl-io/nctl-roadmap) (6 months ago)
 - [nctl-io/.github](https://github.com/nctl-io/.github) - 🌐 Network. Connect. Transform. Lead. (6 months ago)
 - [trinhminhtriet/sizr](https://github.com/trinhminhtriet/sizr) - 📈 A fast, Rust-based tool to analyze file system usage with colorful output, file aggregation, exclusions, and directory comparisons. (6 months ago)
@@ -46,16 +46,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [knoxryder323](https://github.com/knoxryder323)
+- [chris-buckminster](https://github.com/chris-buckminster)
+- [kalytamykhailo18-cyber](https://github.com/kalytamykhailo18-cyber)
+- [kanachiyu](https://github.com/kanachiyu)
+- [juleiyuh](https://github.com/juleiyuh)
 - [Gecko51](https://github.com/Gecko51)
 - [Ben-Scr](https://github.com/Ben-Scr)
 - [suzuki-kenji0627](https://github.com/suzuki-kenji0627)
 - [chongzixuan-ai](https://github.com/chongzixuan-ai)
 - [chahe-dridi](https://github.com/chahe-dridi)
-- [matheusrodrivi](https://github.com/matheusrodrivi)
-- [DanielArturoAlejoAlvarez](https://github.com/DanielArturoAlejoAlvarez)
-- [joebertcerezo](https://github.com/joebertcerezo)
-- [nicholasmacaskill](https://github.com/nicholasmacaskill)
-- [cyberloop001](https://github.com/cyberloop001)
 
 ## ⭐ Recent stars
 
