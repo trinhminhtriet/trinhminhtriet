@@ -46,6 +46,9 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [xaviersins](https://github.com/xaviersins)
+- [lokitore](https://github.com/lokitore)
+- [nogizakapython](https://github.com/nogizakapython)
 - [xenawitch](https://github.com/xenawitch)
 - [yuvisevia](https://github.com/yuvisevia)
 - [patri-png](https://github.com/patri-png)
@@ -53,9 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [janemarks](https://github.com/janemarks)
 - [cecilcroc](https://github.com/cecilcroc)
 - [knoxryder323](https://github.com/knoxryder323)
-- [chris-buckminster](https://github.com/chris-buckminster)
-- [kalytamykhailo18-cyber](https://github.com/kalytamykhailo18-cyber)
-- [kanachiyu](https://github.com/kanachiyu)
 
 ## ⭐ Recent stars
 
