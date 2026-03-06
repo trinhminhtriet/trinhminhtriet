@@ -46,16 +46,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [hemolyticinjector](https://github.com/hemolyticinjector)
+- [serhatbula](https://github.com/serhatbula)
+- [Fredhusne](https://github.com/Fredhusne)
+- [lukestoik](https://github.com/lukestoik)
+- [zorktys](https://github.com/zorktys)
+- [Theocat321](https://github.com/Theocat321)
 - [xaviersins](https://github.com/xaviersins)
 - [lokitore](https://github.com/lokitore)
 - [nogizakapython](https://github.com/nogizakapython)
 - [xenawitch](https://github.com/xenawitch)
-- [yuvisevia](https://github.com/yuvisevia)
-- [patri-png](https://github.com/patri-png)
-- [maoif](https://github.com/maoif)
-- [janemarks](https://github.com/janemarks)
-- [cecilcroc](https://github.com/cecilcroc)
-- [knoxryder323](https://github.com/knoxryder323)
 
 ## ⭐ Recent stars
 
