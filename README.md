@@ -46,16 +46,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Zer0-Bug](https://github.com/Zer0-Bug)
+- [kalebzaki4](https://github.com/kalebzaki4)
+- [Shubh2-0](https://github.com/Shubh2-0)
+- [ColeAndrae](https://github.com/ColeAndrae)
 - [jeniflery](https://github.com/jeniflery)
 - [riseyuka](https://github.com/riseyuka)
 - [jeffyonk](https://github.com/jeffyonk)
 - [perman0519](https://github.com/perman0519)
 - [hemolyticinjector](https://github.com/hemolyticinjector)
 - [serhatbula](https://github.com/serhatbula)
-- [Fredhusne](https://github.com/Fredhusne)
-- [lukestoik](https://github.com/lukestoik)
-- [zorktys](https://github.com/zorktys)
-- [Theocat321](https://github.com/Theocat321)
 
 ## ⭐ Recent stars
 
