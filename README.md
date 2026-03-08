@@ -46,6 +46,9 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [ikramagix](https://github.com/ikramagix)
+- [nattayaponrittidach50-design](https://github.com/nattayaponrittidach50-design)
+- [inohashibiraz](https://github.com/inohashibiraz)
 - [GHANNAWAY-TECH](https://github.com/GHANNAWAY-TECH)
 - [Itr4pp](https://github.com/Itr4pp)
 - [Davidhany4883](https://github.com/Davidhany4883)
@@ -53,9 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Zer0-Bug](https://github.com/Zer0-Bug)
 - [kalebzaki4](https://github.com/kalebzaki4)
 - [Shubh2-0](https://github.com/Shubh2-0)
-- [ColeAndrae](https://github.com/ColeAndrae)
-- [jeniflery](https://github.com/jeniflery)
-- [riseyuka](https://github.com/riseyuka)
 
 ## ⭐ Recent stars
 
