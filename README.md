@@ -46,16 +46,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [AdamHanafi](https://github.com/AdamHanafi)
+- [AtaurRehman10](https://github.com/AtaurRehman10)
+- [montaisohamgul](https://github.com/montaisohamgul)
+- [kamjag84](https://github.com/kamjag84)
 - [ikramagix](https://github.com/ikramagix)
 - [inohashibiraz](https://github.com/inohashibiraz)
 - [GHANNAWAY-TECH](https://github.com/GHANNAWAY-TECH)
 - [Itr4pp](https://github.com/Itr4pp)
 - [Davidhany4883](https://github.com/Davidhany4883)
 - [396m6](https://github.com/396m6)
-- [Zer0-Bug](https://github.com/Zer0-Bug)
-- [kalebzaki4](https://github.com/kalebzaki4)
-- [Shubh2-0](https://github.com/Shubh2-0)
-- [ColeAndrae](https://github.com/ColeAndrae)
 
 ## ⭐ Recent stars
 
