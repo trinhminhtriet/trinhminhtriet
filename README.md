@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [MRT3NNA](https://github.com/MRT3NNA)
+- [joebertcerezo](https://github.com/joebertcerezo)
 - [BhuvanAde](https://github.com/BhuvanAde)
 - [Mak-P90](https://github.com/Mak-P90)
 - [anvesh1605](https://github.com/anvesh1605)
@@ -54,8 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [AdamHanafi](https://github.com/AdamHanafi)
 - [AtaurRehman10](https://github.com/AtaurRehman10)
 - [montaisohamgul](https://github.com/montaisohamgul)
-- [kamjag84](https://github.com/kamjag84)
-- [ikramagix](https://github.com/ikramagix)
 
 ## ⭐ Recent stars
 
