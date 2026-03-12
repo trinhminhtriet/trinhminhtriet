@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [ADAMSmugwe](https://github.com/ADAMSmugwe)
+- [Ironshah63](https://github.com/Ironshah63)
 - [fushiitaa](https://github.com/fushiitaa)
 - [hugs4pan](https://github.com/hugs4pan)
 - [MRT3NNA](https://github.com/MRT3NNA)
@@ -54,8 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [anvesh1605](https://github.com/anvesh1605)
 - [hrach347](https://github.com/hrach347)
 - [alotfey](https://github.com/alotfey)
-- [AdamHanafi](https://github.com/AdamHanafi)
-- [AtaurRehman10](https://github.com/AtaurRehman10)
 
 ## ⭐ Recent stars
 
