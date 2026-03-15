@@ -46,16 +46,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
-- [LunaJackal](https://github.com/LunaJackal)
-- [nrug13](https://github.com/nrug13)
-- [madhavgadge01](https://github.com/madhavgadge01)
-- [joebertcerezo](https://github.com/joebertcerezo)
-- [alejandro-lopez97](https://github.com/alejandro-lopez97)
-- [dulcedotz](https://github.com/dulcedotz)
-- [ubaliringim](https://github.com/ubaliringim)
-- [AdaGursoy](https://github.com/AdaGursoy)
-- [raja-qasim](https://github.com/raja-qasim)
-- [YOOGOMJA](https://github.com/YOOGOMJA)
+- [yobecroc](https://github.com/yobecroc)
+- [vineyuka](https://github.com/vineyuka)
+- [tenrukayaba](https://github.com/tenrukayaba)
+- [nueryn](https://github.com/nueryn)
+- [moereira](https://github.com/moereira)
+- [lunehorb](https://github.com/lunehorb)
+- [juanforde](https://github.com/juanforde)
+- [joehanchi](https://github.com/joehanchi)
+- [gyurioka](https://github.com/gyurioka)
+- [biyachio](https://github.com/biyachio)
 
 ## ⭐ Recent stars
 
