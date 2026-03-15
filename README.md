@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [LunaJackal](https://github.com/LunaJackal)
+- [nrug13](https://github.com/nrug13)
 - [madhavgadge01](https://github.com/madhavgadge01)
 - [joebertcerezo](https://github.com/joebertcerezo)
 - [alejandro-lopez97](https://github.com/alejandro-lopez97)
@@ -54,8 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [AdaGursoy](https://github.com/AdaGursoy)
 - [raja-qasim](https://github.com/raja-qasim)
 - [YOOGOMJA](https://github.com/YOOGOMJA)
-- [pks2906](https://github.com/pks2906)
-- [ADAMSmugwe](https://github.com/ADAMSmugwe)
 
 ## ⭐ Recent stars
 
