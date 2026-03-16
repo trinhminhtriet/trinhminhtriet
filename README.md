@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [joebertcerezo](https://github.com/joebertcerezo)
 - [mhhridoy7907](https://github.com/mhhridoy7907)
 - [yobecroc](https://github.com/yobecroc)
 - [vineyuka](https://github.com/vineyuka)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [lunehorb](https://github.com/lunehorb)
 - [juanforde](https://github.com/juanforde)
 - [joehanchi](https://github.com/joehanchi)
-- [gyurioka](https://github.com/gyurioka)
 
 ## ⭐ Recent stars
 
