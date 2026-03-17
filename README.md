@@ -46,16 +46,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
-- [joebertcerezo](https://github.com/joebertcerezo)
+- [loxadim](https://github.com/loxadim)
+- [bazykghelmadp7kx](https://github.com/bazykghelmadp7kx)
+- [DA1OOO](https://github.com/DA1OOO)
+- [kimgt0128](https://github.com/kimgt0128)
 - [mhhridoy7907](https://github.com/mhhridoy7907)
 - [yobecroc](https://github.com/yobecroc)
 - [vineyuka](https://github.com/vineyuka)
 - [tenrukayaba](https://github.com/tenrukayaba)
 - [nueryn](https://github.com/nueryn)
 - [moereira](https://github.com/moereira)
-- [lunehorb](https://github.com/lunehorb)
-- [juanforde](https://github.com/juanforde)
-- [joehanchi](https://github.com/joehanchi)
 
 ## ⭐ Recent stars
 
