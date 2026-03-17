@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [hexarch](https://github.com/hexarch)
+- [Mozelkrypton](https://github.com/Mozelkrypton)
 - [loxadim](https://github.com/loxadim)
 - [bazykghelmadp7kx](https://github.com/bazykghelmadp7kx)
 - [DA1OOO](https://github.com/DA1OOO)
@@ -54,8 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [yobecroc](https://github.com/yobecroc)
 - [vineyuka](https://github.com/vineyuka)
 - [tenrukayaba](https://github.com/tenrukayaba)
-- [nueryn](https://github.com/nueryn)
-- [moereira](https://github.com/moereira)
 
 ## ⭐ Recent stars
 
