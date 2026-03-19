@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [rasidi3112](https://github.com/rasidi3112)
 - [alaevate](https://github.com/alaevate)
 - [hexarch](https://github.com/hexarch)
 - [Mozelkrypton](https://github.com/Mozelkrypton)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [kimgt0128](https://github.com/kimgt0128)
 - [mhhridoy7907](https://github.com/mhhridoy7907)
 - [yobecroc](https://github.com/yobecroc)
-- [vineyuka](https://github.com/vineyuka)
 
 ## ⭐ Recent stars
 
