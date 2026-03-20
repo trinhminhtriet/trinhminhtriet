@@ -46,7 +46,9 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [faridun-dev](https://github.com/faridun-dev)
 - [anarchy-hime](https://github.com/anarchy-hime)
+- [sultonbektoxirboyev](https://github.com/sultonbektoxirboyev)
 - [rasidi3112](https://github.com/rasidi3112)
 - [alaevate](https://github.com/alaevate)
 - [hexarch](https://github.com/hexarch)
@@ -54,8 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [loxadim](https://github.com/loxadim)
 - [bazykghelmadp7kx](https://github.com/bazykghelmadp7kx)
 - [DA1OOO](https://github.com/DA1OOO)
-- [kimgt0128](https://github.com/kimgt0128)
-- [mhhridoy7907](https://github.com/mhhridoy7907)
 
 ## ⭐ Recent stars
 
