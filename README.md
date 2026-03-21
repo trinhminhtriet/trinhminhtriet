@@ -46,8 +46,9 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [joebertcerezo](https://github.com/joebertcerezo)
+- [Kemalstudio](https://github.com/Kemalstudio)
 - [MangoKiwiPlumGrape](https://github.com/MangoKiwiPlumGrape)
-- [s8n0gre](https://github.com/s8n0gre)
 - [faridun-dev](https://github.com/faridun-dev)
 - [anarchy-hime](https://github.com/anarchy-hime)
 - [sultonbektoxirboyev](https://github.com/sultonbektoxirboyev)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [alaevate](https://github.com/alaevate)
 - [hexarch](https://github.com/hexarch)
 - [Mozelkrypton](https://github.com/Mozelkrypton)
-- [loxadim](https://github.com/loxadim)
 
 ## ⭐ Recent stars
 
