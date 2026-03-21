@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Hamiraniansh](https://github.com/Hamiraniansh)
+- [akilama471](https://github.com/akilama471)
 - [joebertcerezo](https://github.com/joebertcerezo)
 - [Kemalstudio](https://github.com/Kemalstudio)
 - [MangoKiwiPlumGrape](https://github.com/MangoKiwiPlumGrape)
@@ -54,8 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [sultonbektoxirboyev](https://github.com/sultonbektoxirboyev)
 - [rasidi3112](https://github.com/rasidi3112)
 - [alaevate](https://github.com/alaevate)
-- [hexarch](https://github.com/hexarch)
-- [Mozelkrypton](https://github.com/Mozelkrypton)
 
 ## ⭐ Recent stars
 
