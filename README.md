@@ -42,10 +42,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [nctl-io/nctl-roadmap](https://github.com/nctl-io/nctl-roadmap) (6 months ago)
 - [nctl-io/.github](https://github.com/nctl-io/.github) - 🌐 Network. Connect. Transform. Lead. (6 months ago)
 - [trinhminhtriet/sizr](https://github.com/trinhminhtriet/sizr) - 📈 A fast, Rust-based tool to analyze file system usage with colorful output, file aggregation, exclusions, and directory comparisons. (6 months ago)
-- [trinhminhtriet/spiko](https://github.com/trinhminhtriet/spiko) - 🚀 Spiko is a fast, Rust-based load testing tool with a beautiful TUI for real-time insights. (6 months ago)
+- [trinhminhtriet/spiko](https://github.com/trinhminhtriet/spiko) - 🚀 Spiko is a fast, Rust-based load testing tool with a beautiful TUI for real-time insights. (7 months ago)
 
 ## 👯 Check out my recent followers
 
+- [depthcollector](https://github.com/depthcollector)
 - [Hamiraniansh](https://github.com/Hamiraniansh)
 - [akilama471](https://github.com/akilama471)
 - [joebertcerezo](https://github.com/joebertcerezo)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [anarchy-hime](https://github.com/anarchy-hime)
 - [sultonbektoxirboyev](https://github.com/sultonbektoxirboyev)
 - [rasidi3112](https://github.com/rasidi3112)
-- [alaevate](https://github.com/alaevate)
 
 ## ⭐ Recent stars
 
