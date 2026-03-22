@@ -46,16 +46,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Roinflames](https://github.com/Roinflames)
+- [yerdaulet-damir](https://github.com/yerdaulet-damir)
+- [abullaisi](https://github.com/abullaisi)
+- [s8n0gre](https://github.com/s8n0gre)
 - [depthcollector](https://github.com/depthcollector)
 - [Hamiraniansh](https://github.com/Hamiraniansh)
 - [akilama471](https://github.com/akilama471)
 - [joebertcerezo](https://github.com/joebertcerezo)
 - [Kemalstudio](https://github.com/Kemalstudio)
 - [MangoKiwiPlumGrape](https://github.com/MangoKiwiPlumGrape)
-- [faridun-dev](https://github.com/faridun-dev)
-- [anarchy-hime](https://github.com/anarchy-hime)
-- [sultonbektoxirboyev](https://github.com/sultonbektoxirboyev)
-- [rasidi3112](https://github.com/rasidi3112)
 
 ## ⭐ Recent stars
 
