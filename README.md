@@ -46,16 +46,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [JabberrWonger](https://github.com/JabberrWonger)
+- [HereIsMuhammad](https://github.com/HereIsMuhammad)
+- [BLOODYPARAD3](https://github.com/BLOODYPARAD3)
 - [AQUIN0BY2002](https://github.com/AQUIN0BY2002)
 - [ArticPredator](https://github.com/ArticPredator)
 - [Roinflames](https://github.com/Roinflames)
 - [yerdaulet-damir](https://github.com/yerdaulet-damir)
 - [abullaisi](https://github.com/abullaisi)
-- [s8n0gre](https://github.com/s8n0gre)
 - [depthcollector](https://github.com/depthcollector)
 - [Hamiraniansh](https://github.com/Hamiraniansh)
-- [akilama471](https://github.com/akilama471)
-- [joebertcerezo](https://github.com/joebertcerezo)
 
 ## ⭐ Recent stars
 
