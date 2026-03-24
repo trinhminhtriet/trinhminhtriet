@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [yuritrait](https://github.com/yuritrait)
 - [qafaraz](https://github.com/qafaraz)
 - [kihiko-jay](https://github.com/kihiko-jay)
 - [bezawitassaye](https://github.com/bezawitassaye)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [JabberrWonger](https://github.com/JabberrWonger)
 - [HereIsMuhammad](https://github.com/HereIsMuhammad)
 - [BLOODYPARAD3](https://github.com/BLOODYPARAD3)
-- [AQUIN0BY2002](https://github.com/AQUIN0BY2002)
 
 ## ⭐ Recent stars
 
