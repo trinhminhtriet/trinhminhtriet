@@ -46,6 +46,9 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [s8n0gre](https://github.com/s8n0gre)
+- [stellarlighthub](https://github.com/stellarlighthub)
+- [uigraslasu-png](https://github.com/uigraslasu-png)
 - [KlodCripta](https://github.com/KlodCripta)
 - [HxB9](https://github.com/HxB9)
 - [cyan0-3](https://github.com/cyan0-3)
@@ -53,9 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [yuritrait](https://github.com/yuritrait)
 - [qafaraz](https://github.com/qafaraz)
 - [kihiko-jay](https://github.com/kihiko-jay)
-- [bezawitassaye](https://github.com/bezawitassaye)
-- [RANNAIN](https://github.com/RANNAIN)
-- [cringeyduo](https://github.com/cringeyduo)
 
 ## ⭐ Recent stars
 
