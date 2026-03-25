@@ -40,22 +40,22 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [lamhaison/aws-cli-utils](https://github.com/lamhaison/aws-cli-utils) - This is the project to collect helpful aws cli commandline with complex options to support your working (6 months ago)
 - [trinhminhtriet/dwipe](https://github.com/trinhminhtriet/dwipe) - 🧹 Fast, cross-platform disk cleanup tool with interactive UI for easy directory size visualization. (6 months ago)
 - [nctl-io/nctl-roadmap](https://github.com/nctl-io/nctl-roadmap) (6 months ago)
-- [nctl-io/.github](https://github.com/nctl-io/.github) - 🌐 Network. Connect. Transform. Lead. (6 months ago)
+- [nctl-io/.github](https://github.com/nctl-io/.github) - 🌐 Network. Connect. Transform. Lead. (7 months ago)
 - [trinhminhtriet/sizr](https://github.com/trinhminhtriet/sizr) - 📈 A fast, Rust-based tool to analyze file system usage with colorful output, file aggregation, exclusions, and directory comparisons. (7 months ago)
 - [rust-rs/tabler](https://github.com/rust-rs/tabler) - 📊 Tabler: A lightweight TUI tool to view, query, and navigate CSV, TSV, and Parquet data files. (7 months ago)
 
 ## 👯 Check out my recent followers
 
+- [KlodCripta](https://github.com/KlodCripta)
+- [HxB9](https://github.com/HxB9)
+- [cyan0-3](https://github.com/cyan0-3)
+- [qtheperfect](https://github.com/qtheperfect)
 - [yuritrait](https://github.com/yuritrait)
 - [qafaraz](https://github.com/qafaraz)
 - [kihiko-jay](https://github.com/kihiko-jay)
 - [bezawitassaye](https://github.com/bezawitassaye)
 - [RANNAIN](https://github.com/RANNAIN)
 - [cringeyduo](https://github.com/cringeyduo)
-- [ImSpidev](https://github.com/ImSpidev)
-- [JabberrWonger](https://github.com/JabberrWonger)
-- [HereIsMuhammad](https://github.com/HereIsMuhammad)
-- [BLOODYPARAD3](https://github.com/BLOODYPARAD3)
 
 ## ⭐ Recent stars
 
