@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [isharim91-oss](https://github.com/isharim91-oss)
 - [4hyeon](https://github.com/4hyeon)
 - [joehubers](https://github.com/joehubers)
 - [venyholte](https://github.com/venyholte)
@@ -53,9 +54,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [senamorde](https://github.com/senamorde)
 - [viviwister](https://github.com/viviwister)
 - [nuychen](https://github.com/nuychen)
-- [garryang](https://github.com/garryang)
-- [adamwalts](https://github.com/adamwalts)
 - [davidtoyle](https://github.com/davidtoyle)
+- [dionvolta](https://github.com/dionvolta)
 
 ## ⭐ Recent stars
 
