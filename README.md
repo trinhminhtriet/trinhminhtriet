@@ -46,16 +46,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
-- [s8n0gre](https://github.com/s8n0gre)
-- [stellarlighthub](https://github.com/stellarlighthub)
-- [uigraslasu-png](https://github.com/uigraslasu-png)
-- [KlodCripta](https://github.com/KlodCripta)
-- [HxB9](https://github.com/HxB9)
-- [cyan0-3](https://github.com/cyan0-3)
-- [qtheperfect](https://github.com/qtheperfect)
-- [yuritrait](https://github.com/yuritrait)
-- [qafaraz](https://github.com/qafaraz)
-- [kihiko-jay](https://github.com/kihiko-jay)
+- [4hyeon](https://github.com/4hyeon)
+- [joehubers](https://github.com/joehubers)
+- [venyholte](https://github.com/venyholte)
+- [yumeaika](https://github.com/yumeaika)
+- [senamorde](https://github.com/senamorde)
+- [viviwister](https://github.com/viviwister)
+- [nuychen](https://github.com/nuychen)
+- [garryang](https://github.com/garryang)
+- [adamwalts](https://github.com/adamwalts)
+- [davidtoyle](https://github.com/davidtoyle)
 
 ## ⭐ Recent stars
 
