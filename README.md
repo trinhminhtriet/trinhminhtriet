@@ -46,16 +46,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [sakuraelsa](https://github.com/sakuraelsa)
+- [rasidi3112](https://github.com/rasidi3112)
+- [ChungusLord123](https://github.com/ChungusLord123)
+- [anisabintang](https://github.com/anisabintang)
 - [isharim91-oss](https://github.com/isharim91-oss)
 - [4hyeon](https://github.com/4hyeon)
 - [joehubers](https://github.com/joehubers)
 - [venyholte](https://github.com/venyholte)
 - [yumeaika](https://github.com/yumeaika)
 - [senamorde](https://github.com/senamorde)
-- [viviwister](https://github.com/viviwister)
-- [nuychen](https://github.com/nuychen)
-- [davidtoyle](https://github.com/davidtoyle)
-- [dionvolta](https://github.com/dionvolta)
 
 ## ⭐ Recent stars
 
