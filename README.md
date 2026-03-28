@@ -39,13 +39,14 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) - 🚀 All-in-one CLI toolkit for developers: scaffold, manage, automate, and boost productivity across languages! (6 months ago)
 - [lamhaison/aws-cli-utils](https://github.com/lamhaison/aws-cli-utils) - This is the project to collect helpful aws cli commandline with complex options to support your working (6 months ago)
 - [trinhminhtriet/dwipe](https://github.com/trinhminhtriet/dwipe) - 🧹 Fast, cross-platform disk cleanup tool with interactive UI for easy directory size visualization. (6 months ago)
-- [nctl-io/nctl-roadmap](https://github.com/nctl-io/nctl-roadmap) (6 months ago)
+- [nctl-io/nctl-roadmap](https://github.com/nctl-io/nctl-roadmap) (7 months ago)
 - [nctl-io/.github](https://github.com/nctl-io/.github) - 🌐 Network. Connect. Transform. Lead. (7 months ago)
 - [trinhminhtriet/sizr](https://github.com/trinhminhtriet/sizr) - 📈 A fast, Rust-based tool to analyze file system usage with colorful output, file aggregation, exclusions, and directory comparisons. (7 months ago)
 - [rust-rs/tabler](https://github.com/rust-rs/tabler) - 📊 Tabler: A lightweight TUI tool to view, query, and navigate CSV, TSV, and Parquet data files. (7 months ago)
 
 ## 👯 Check out my recent followers
 
+- [EngReteti](https://github.com/EngReteti)
 - [7007259Ankur](https://github.com/7007259Ankur)
 - [jabrahamtech](https://github.com/jabrahamtech)
 - [sakuraelsa](https://github.com/sakuraelsa)
@@ -53,9 +54,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [anisabintang](https://github.com/anisabintang)
 - [isharim91-oss](https://github.com/isharim91-oss)
 - [4hyeon](https://github.com/4hyeon)
-- [joehubers](https://github.com/joehubers)
-- [venyholte](https://github.com/venyholte)
-- [yumeaika](https://github.com/yumeaika)
+- [edward3425](https://github.com/edward3425)
+- [Krishnaqwerty](https://github.com/Krishnaqwerty)
 
 ## ⭐ Recent stars
 
