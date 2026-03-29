@@ -46,6 +46,9 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Thiyane24](https://github.com/Thiyane24)
+- [guevaraStian](https://github.com/guevaraStian)
+- [danielfounder](https://github.com/danielfounder)
 - [DanaAlhalabi-2000](https://github.com/DanaAlhalabi-2000)
 - [Shambhavichaudhary](https://github.com/Shambhavichaudhary)
 - [vfd9654](https://github.com/vfd9654)
@@ -53,9 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [EngReteti](https://github.com/EngReteti)
 - [7007259Ankur](https://github.com/7007259Ankur)
 - [jabrahamtech](https://github.com/jabrahamtech)
-- [sakuraelsa](https://github.com/sakuraelsa)
-- [ChungusLord123](https://github.com/ChungusLord123)
-- [anisabintang](https://github.com/anisabintang)
 
 ## ⭐ Recent stars
 
