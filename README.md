@@ -46,16 +46,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [masud-pervez](https://github.com/masud-pervez)
+- [rasidi3112](https://github.com/rasidi3112)
+- [Thesirix](https://github.com/Thesirix)
+- [parkie0517](https://github.com/parkie0517)
+- [ybadk](https://github.com/ybadk)
+- [KarlmerABC](https://github.com/KarlmerABC)
 - [kinexbtdev](https://github.com/kinexbtdev)
 - [dreamypro](https://github.com/dreamypro)
 - [DANDYXASTRO](https://github.com/DANDYXASTRO)
 - [adornetejr](https://github.com/adornetejr)
-- [datareccer](https://github.com/datareccer)
-- [zhensherlock](https://github.com/zhensherlock)
-- [Thiyane24](https://github.com/Thiyane24)
-- [guevaraStian](https://github.com/guevaraStian)
-- [danielfounder](https://github.com/danielfounder)
-- [DanaAlhalabi-2000](https://github.com/DanaAlhalabi-2000)
 
 ## ⭐ Recent stars
 
