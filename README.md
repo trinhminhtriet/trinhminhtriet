@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [anointedthedeveloper](https://github.com/anointedthedeveloper)
 - [1480p](https://github.com/1480p)
 - [charlesakinnurun](https://github.com/charlesakinnurun)
 - [Sarthak2077](https://github.com/Sarthak2077)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [ybadk](https://github.com/ybadk)
 - [KarlmerABC](https://github.com/KarlmerABC)
 - [kinexbtdev](https://github.com/kinexbtdev)
-- [dreamypro](https://github.com/dreamypro)
 
 ## ⭐ Recent stars
 
