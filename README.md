@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [ChrisFong604](https://github.com/ChrisFong604)
+- [hieuhoang26](https://github.com/hieuhoang26)
 - [anointedthedeveloper](https://github.com/anointedthedeveloper)
 - [1480p](https://github.com/1480p)
 - [charlesakinnurun](https://github.com/charlesakinnurun)
@@ -54,8 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Thesirix](https://github.com/Thesirix)
 - [parkie0517](https://github.com/parkie0517)
 - [ybadk](https://github.com/ybadk)
-- [KarlmerABC](https://github.com/KarlmerABC)
-- [kinexbtdev](https://github.com/kinexbtdev)
 
 ## ⭐ Recent stars
 
