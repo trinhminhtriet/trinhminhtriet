@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Silveira-Software](https://github.com/Silveira-Software)
+- [metatronslove](https://github.com/metatronslove)
 - [sulzbacher](https://github.com/sulzbacher)
 - [Cyb3rSh1n1g4m1](https://github.com/Cyb3rSh1n1g4m1)
 - [Gormleysolomon](https://github.com/Gormleysolomon)
@@ -54,8 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [ChrisFong604](https://github.com/ChrisFong604)
 - [hieuhoang26](https://github.com/hieuhoang26)
 - [anointedthedeveloper](https://github.com/anointedthedeveloper)
-- [1480p](https://github.com/1480p)
-- [charlesakinnurun](https://github.com/charlesakinnurun)
 
 ## ⭐ Recent stars
 
