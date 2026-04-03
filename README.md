@@ -38,7 +38,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [nctl-io/nctl-branding](https://github.com/nctl-io/nctl-branding) - NCTL Branding 🖼️: Centralized assets and guidelines for consistent visual identity across NCTL projects and platforms. (5 months ago)
 - [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) - 🚀 All-in-one CLI toolkit for developers: scaffold, manage, automate, and boost productivity across languages! (6 months ago)
 - [lamhaison/aws-cli-utils](https://github.com/lamhaison/aws-cli-utils) - This is the project to collect helpful aws cli commandline with complex options to support your working (6 months ago)
-- [trinhminhtriet/dwipe](https://github.com/trinhminhtriet/dwipe) - 🧹 Fast, cross-platform disk cleanup tool with interactive UI for easy directory size visualization. (6 months ago)
+- [trinhminhtriet/dwipe](https://github.com/trinhminhtriet/dwipe) - 🧹 Fast, cross-platform disk cleanup tool with interactive UI for easy directory size visualization. (7 months ago)
 - [nctl-io/nctl-roadmap](https://github.com/nctl-io/nctl-roadmap) (7 months ago)
 - [nctl-io/.github](https://github.com/nctl-io/.github) - 🌐 Network. Connect. Transform. Lead. (7 months ago)
 - [trinhminhtriet/sizr](https://github.com/trinhminhtriet/sizr) - 📈 A fast, Rust-based tool to analyze file system usage with colorful output, file aggregation, exclusions, and directory comparisons. (7 months ago)
@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [sulzbacher](https://github.com/sulzbacher)
 - [Cyb3rSh1n1g4m1](https://github.com/Cyb3rSh1n1g4m1)
 - [Gormleysolomon](https://github.com/Gormleysolomon)
 - [frankykevin](https://github.com/frankykevin)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [anointedthedeveloper](https://github.com/anointedthedeveloper)
 - [1480p](https://github.com/1480p)
 - [charlesakinnurun](https://github.com/charlesakinnurun)
-- [Sarthak2077](https://github.com/Sarthak2077)
 
 ## ⭐ Recent stars
 
