@@ -46,16 +46,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [mixmikey37](https://github.com/mixmikey37)
+- [tarxemo](https://github.com/tarxemo)
+- [Shafait98](https://github.com/Shafait98)
+- [986913](https://github.com/986913)
 - [Silveira-Software](https://github.com/Silveira-Software)
 - [metatronslove](https://github.com/metatronslove)
 - [sulzbacher](https://github.com/sulzbacher)
 - [Cyb3rSh1n1g4m1](https://github.com/Cyb3rSh1n1g4m1)
 - [Gormleysolomon](https://github.com/Gormleysolomon)
 - [frankykevin](https://github.com/frankykevin)
-- [tsyganovvv](https://github.com/tsyganovvv)
-- [ChrisFong604](https://github.com/ChrisFong604)
-- [hieuhoang26](https://github.com/hieuhoang26)
-- [anointedthedeveloper](https://github.com/anointedthedeveloper)
 
 ## ⭐ Recent stars
 
