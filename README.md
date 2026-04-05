@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [SebastianManriqueM](https://github.com/SebastianManriqueM)
 - [eggchann](https://github.com/eggchann)
 - [DARKANGEL689](https://github.com/DARKANGEL689)
 - [yukamanawa](https://github.com/yukamanawa)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Shafait98](https://github.com/Shafait98)
 - [986913](https://github.com/986913)
 - [Silveira-Software](https://github.com/Silveira-Software)
-- [metatronslove](https://github.com/metatronslove)
 
 ## ⭐ Recent stars
 
