@@ -42,10 +42,12 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [nctl-io/nctl-roadmap](https://github.com/nctl-io/nctl-roadmap) (7 months ago)
 - [nctl-io/.github](https://github.com/nctl-io/.github) - 🌐 Network. Connect. Transform. Lead. (7 months ago)
 - [trinhminhtriet/sizr](https://github.com/trinhminhtriet/sizr) - 📈 A fast, Rust-based tool to analyze file system usage with colorful output, file aggregation, exclusions, and directory comparisons. (7 months ago)
-- [trinhminhtriet/spiko](https://github.com/trinhminhtriet/spiko) - 🚀 Spiko is a fast, Rust-based load testing tool with a beautiful TUI for real-time insights. (7 months ago)
+- [rust-rs/tabler](https://github.com/rust-rs/tabler) - 📊 Tabler: A lightweight TUI tool to view, query, and navigate CSV, TSV, and Parquet data files. (7 months ago)
 
 ## 👯 Check out my recent followers
 
+- [craigmor1967-blip](https://github.com/craigmor1967-blip)
+- [whitekun91](https://github.com/whitekun91)
 - [raulch3](https://github.com/raulch3)
 - [GreenEyedJealousy](https://github.com/GreenEyedJealousy)
 - [jocimycin](https://github.com/jocimycin)
@@ -54,8 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [DARKANGEL689](https://github.com/DARKANGEL689)
 - [yukamanawa](https://github.com/yukamanawa)
 - [yutomiwana](https://github.com/yutomiwana)
-- [mixmikey37](https://github.com/mixmikey37)
-- [tarxemo](https://github.com/tarxemo)
 
 ## ⭐ Recent stars
 
