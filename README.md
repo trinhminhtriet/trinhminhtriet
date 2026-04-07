@@ -46,16 +46,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [whiskdrinker](https://github.com/whiskdrinker)
+- [husnabayraktarr](https://github.com/husnabayraktarr)
+- [rahuloraj](https://github.com/rahuloraj)
+- [camilocbarrera](https://github.com/camilocbarrera)
+- [DonDyxless](https://github.com/DonDyxless)
+- [ice268528](https://github.com/ice268528)
 - [manojtalluri50](https://github.com/manojtalluri50)
 - [zhijiewong](https://github.com/zhijiewong)
 - [percussive-battery](https://github.com/percussive-battery)
 - [craigmor1967-blip](https://github.com/craigmor1967-blip)
-- [whitekun91](https://github.com/whitekun91)
-- [raulch3](https://github.com/raulch3)
-- [GreenEyedJealousy](https://github.com/GreenEyedJealousy)
-- [jocimycin](https://github.com/jocimycin)
-- [SebastianManriqueM](https://github.com/SebastianManriqueM)
-- [eggchann](https://github.com/eggchann)
 
 ## ⭐ Recent stars
 
