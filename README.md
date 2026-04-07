@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [eomseann](https://github.com/eomseann)
 - [whiskdrinker](https://github.com/whiskdrinker)
 - [husnabayraktarr](https://github.com/husnabayraktarr)
 - [rahuloraj](https://github.com/rahuloraj)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [manojtalluri50](https://github.com/manojtalluri50)
 - [zhijiewong](https://github.com/zhijiewong)
 - [percussive-battery](https://github.com/percussive-battery)
-- [craigmor1967-blip](https://github.com/craigmor1967-blip)
 
 ## ⭐ Recent stars
 
