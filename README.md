@@ -46,6 +46,9 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [duskfallcrew](https://github.com/duskfallcrew)
+- [zoxilsi](https://github.com/zoxilsi)
+- [ngocquyen00](https://github.com/ngocquyen00)
 - [eomseann](https://github.com/eomseann)
 - [whiskdrinker](https://github.com/whiskdrinker)
 - [husnabayraktarr](https://github.com/husnabayraktarr)
@@ -53,9 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [camilocbarrera](https://github.com/camilocbarrera)
 - [DonDyxless](https://github.com/DonDyxless)
 - [ice268528](https://github.com/ice268528)
-- [manojtalluri50](https://github.com/manojtalluri50)
-- [zhijiewong](https://github.com/zhijiewong)
-- [percussive-battery](https://github.com/percussive-battery)
 
 ## ⭐ Recent stars
 
