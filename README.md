@@ -46,6 +46,9 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [0xhustlerr](https://github.com/0xhustlerr)
+- [HadiDawoud](https://github.com/HadiDawoud)
+- [nguyenorigin179-coder](https://github.com/nguyenorigin179-coder)
 - [duskfallcrew](https://github.com/duskfallcrew)
 - [zoxilsi](https://github.com/zoxilsi)
 - [ngocquyen00](https://github.com/ngocquyen00)
@@ -53,9 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [whiskdrinker](https://github.com/whiskdrinker)
 - [husnabayraktarr](https://github.com/husnabayraktarr)
 - [rahuloraj](https://github.com/rahuloraj)
-- [camilocbarrera](https://github.com/camilocbarrera)
-- [DonDyxless](https://github.com/DonDyxless)
-- [ice268528](https://github.com/ice268528)
 
 ## ⭐ Recent stars
 
