@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [soladdev](https://github.com/soladdev)
+- [N012025](https://github.com/N012025)
 - [dakotakenneth210-cmyk](https://github.com/dakotakenneth210-cmyk)
 - [0xhustlerr](https://github.com/0xhustlerr)
 - [HadiDawoud](https://github.com/HadiDawoud)
@@ -54,8 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [zoxilsi](https://github.com/zoxilsi)
 - [ngocquyen00](https://github.com/ngocquyen00)
 - [eomseann](https://github.com/eomseann)
-- [whiskdrinker](https://github.com/whiskdrinker)
-- [husnabayraktarr](https://github.com/husnabayraktarr)
 
 ## ⭐ Recent stars
 
