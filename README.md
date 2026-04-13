@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [qudsiyashaikh](https://github.com/qudsiyashaikh)
 - [tpgusgh](https://github.com/tpgusgh)
 - [alaevate](https://github.com/alaevate)
 - [Nati-Developer](https://github.com/Nati-Developer)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [soladdev](https://github.com/soladdev)
 - [N012025](https://github.com/N012025)
 - [dakotakenneth210-cmyk](https://github.com/dakotakenneth210-cmyk)
-- [0xhustlerr](https://github.com/0xhustlerr)
 
 ## ⭐ Recent stars
 
