@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [rahul03yadav03](https://github.com/rahul03yadav03)
+- [ndtao2020](https://github.com/ndtao2020)
 - [qudsiyashaikh](https://github.com/qudsiyashaikh)
 - [tpgusgh](https://github.com/tpgusgh)
 - [alaevate](https://github.com/alaevate)
@@ -54,8 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [LEULEX-404](https://github.com/LEULEX-404)
 - [heartpuzzle](https://github.com/heartpuzzle)
 - [soladdev](https://github.com/soladdev)
-- [N012025](https://github.com/N012025)
-- [dakotakenneth210-cmyk](https://github.com/dakotakenneth210-cmyk)
 
 ## ⭐ Recent stars
 
