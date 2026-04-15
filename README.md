@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [varshapanda](https://github.com/varshapanda)
+- [AbdulVakeel](https://github.com/AbdulVakeel)
 - [yakeIore](https://github.com/yakeIore)
 - [rahul03yadav03](https://github.com/rahul03yadav03)
 - [ndtao2020](https://github.com/ndtao2020)
@@ -54,8 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [alaevate](https://github.com/alaevate)
 - [Nati-Developer](https://github.com/Nati-Developer)
 - [GyroZeppeliii](https://github.com/GyroZeppeliii)
-- [LEULEX-404](https://github.com/LEULEX-404)
-- [heartpuzzle](https://github.com/heartpuzzle)
 
 ## ⭐ Recent stars
 
