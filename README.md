@@ -46,6 +46,9 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [nbateman448-droid](https://github.com/nbateman448-droid)
+- [bloodbxnny](https://github.com/bloodbxnny)
+- [galaxyguru629](https://github.com/galaxyguru629)
 - [varshapanda](https://github.com/varshapanda)
 - [AbdulVakeel](https://github.com/AbdulVakeel)
 - [yakeIore](https://github.com/yakeIore)
@@ -53,9 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [ndtao2020](https://github.com/ndtao2020)
 - [qudsiyashaikh](https://github.com/qudsiyashaikh)
 - [tpgusgh](https://github.com/tpgusgh)
-- [alaevate](https://github.com/alaevate)
-- [Nati-Developer](https://github.com/Nati-Developer)
-- [GyroZeppeliii](https://github.com/GyroZeppeliii)
 
 ## ⭐ Recent stars
 
