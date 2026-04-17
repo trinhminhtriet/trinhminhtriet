@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [laviniadev](https://github.com/laviniadev)
+- [somotto](https://github.com/somotto)
 - [MechanicHeads](https://github.com/MechanicHeads)
 - [OguntolaPelumi](https://github.com/OguntolaPelumi)
 - [Taanveer22](https://github.com/Taanveer22)
@@ -54,8 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [nbateman448-droid](https://github.com/nbateman448-droid)
 - [bloodbxnny](https://github.com/bloodbxnny)
 - [galaxyguru629](https://github.com/galaxyguru629)
-- [varshapanda](https://github.com/varshapanda)
-- [AbdulVakeel](https://github.com/AbdulVakeel)
 
 ## ⭐ Recent stars
 
