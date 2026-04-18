@@ -46,6 +46,9 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [ismet0950](https://github.com/ismet0950)
+- [Mehadii-Hassan](https://github.com/Mehadii-Hassan)
+- [Sumersingpatil2694](https://github.com/Sumersingpatil2694)
 - [M-Rohail](https://github.com/M-Rohail)
 - [yulicwan](https://github.com/yulicwan)
 - [benalbano](https://github.com/benalbano)
@@ -53,9 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [prankapple](https://github.com/prankapple)
 - [sahils0](https://github.com/sahils0)
 - [laviniadev](https://github.com/laviniadev)
-- [somotto](https://github.com/somotto)
-- [MechanicHeads](https://github.com/MechanicHeads)
-- [OguntolaPelumi](https://github.com/OguntolaPelumi)
 
 ## ⭐ Recent stars
 
