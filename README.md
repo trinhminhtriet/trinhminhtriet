@@ -46,16 +46,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [M-Rohail](https://github.com/M-Rohail)
+- [yulicwan](https://github.com/yulicwan)
+- [benalbano](https://github.com/benalbano)
+- [jackweirds](https://github.com/jackweirds)
+- [prankapple](https://github.com/prankapple)
+- [sahils0](https://github.com/sahils0)
 - [laviniadev](https://github.com/laviniadev)
 - [somotto](https://github.com/somotto)
 - [MechanicHeads](https://github.com/MechanicHeads)
 - [OguntolaPelumi](https://github.com/OguntolaPelumi)
-- [Taanveer22](https://github.com/Taanveer22)
-- [Bobotech79](https://github.com/Bobotech79)
-- [iamdulanga](https://github.com/iamdulanga)
-- [nbateman448-droid](https://github.com/nbateman448-droid)
-- [bloodbxnny](https://github.com/bloodbxnny)
-- [galaxyguru629](https://github.com/galaxyguru629)
 
 ## ⭐ Recent stars
 
