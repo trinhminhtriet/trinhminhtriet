@@ -53,9 +53,9 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [SafePassageStrategies](https://github.com/SafePassageStrategies)
 - [nicoriostaurasi](https://github.com/nicoriostaurasi)
 - [ismet0950](https://github.com/ismet0950)
-- [Mehadii-Hassan](https://github.com/Mehadii-Hassan)
 - [Sumersingpatil2694](https://github.com/Sumersingpatil2694)
 - [M-Rohail](https://github.com/M-Rohail)
+- [yulicwan](https://github.com/yulicwan)
 
 ## ⭐ Recent stars
 
