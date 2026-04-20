@@ -46,16 +46,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [madhusudan4321](https://github.com/madhusudan4321)
+- [Okasha-Rehman](https://github.com/Okasha-Rehman)
+- [keitagame](https://github.com/keitagame)
+- [siddharth277](https://github.com/siddharth277)
+- [stellawinter](https://github.com/stellawinter)
+- [theamallalgi](https://github.com/theamallalgi)
 - [miladsalimiiii](https://github.com/miladsalimiiii)
 - [Stan-Marsh-0](https://github.com/Stan-Marsh-0)
 - [Kashman89](https://github.com/Kashman89)
 - [giewan](https://github.com/giewan)
-- [AhmedDabish](https://github.com/AhmedDabish)
-- [SafePassageStrategies](https://github.com/SafePassageStrategies)
-- [nicoriostaurasi](https://github.com/nicoriostaurasi)
-- [ismet0950](https://github.com/ismet0950)
-- [Sumersingpatil2694](https://github.com/Sumersingpatil2694)
-- [M-Rohail](https://github.com/M-Rohail)
 
 ## ⭐ Recent stars
 
