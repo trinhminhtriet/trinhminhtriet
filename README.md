@@ -42,10 +42,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [nctl-io/nctl-roadmap](https://github.com/nctl-io/nctl-roadmap) (7 months ago)
 - [nctl-io/.github](https://github.com/nctl-io/.github) - 🌐 Network. Connect. Transform. Lead. (7 months ago)
 - [trinhminhtriet/sizr](https://github.com/trinhminhtriet/sizr) - 📈 A fast, Rust-based tool to analyze file system usage with colorful output, file aggregation, exclusions, and directory comparisons. (7 months ago)
-- [trinhminhtriet/blast](https://github.com/trinhminhtriet/blast) - 🚀 Blast: A powerful, lightweight HTTP load generator for stress testing and benchmarking web applications with ease. (7 months ago)
+- [trinhminhtriet/blast](https://github.com/trinhminhtriet/blast) - 🚀 Blast: A powerful, lightweight HTTP load generator for stress testing and benchmarking web applications with ease. (8 months ago)
 
 ## 👯 Check out my recent followers
 
+- [pakjason61-spec](https://github.com/pakjason61-spec)
 - [madhusudan4321](https://github.com/madhusudan4321)
 - [Okasha-Rehman](https://github.com/Okasha-Rehman)
 - [keitagame](https://github.com/keitagame)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [miladsalimiiii](https://github.com/miladsalimiiii)
 - [Stan-Marsh-0](https://github.com/Stan-Marsh-0)
 - [Kashman89](https://github.com/Kashman89)
-- [giewan](https://github.com/giewan)
 
 ## ⭐ Recent stars
 
