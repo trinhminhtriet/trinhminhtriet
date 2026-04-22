@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [theBappy](https://github.com/theBappy)
 - [game-ale](https://github.com/game-ale)
 - [alleyway-yaoi](https://github.com/alleyway-yaoi)
 - [pakjason61-spec](https://github.com/pakjason61-spec)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [siddharth277](https://github.com/siddharth277)
 - [stellawinter](https://github.com/stellawinter)
 - [theamallalgi](https://github.com/theamallalgi)
-- [miladsalimiiii](https://github.com/miladsalimiiii)
 
 ## ⭐ Recent stars
 
