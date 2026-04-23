@@ -46,16 +46,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [GreenCode668](https://github.com/GreenCode668)
+- [Explore78](https://github.com/Explore78)
+- [shub-script](https://github.com/shub-script)
+- [AlirezaRahmani2004](https://github.com/AlirezaRahmani2004)
 - [theBappy](https://github.com/theBappy)
 - [game-ale](https://github.com/game-ale)
 - [alleyway-yaoi](https://github.com/alleyway-yaoi)
 - [pakjason61-spec](https://github.com/pakjason61-spec)
 - [madhusudan4321](https://github.com/madhusudan4321)
 - [Okasha-Rehman](https://github.com/Okasha-Rehman)
-- [keitagame](https://github.com/keitagame)
-- [siddharth277](https://github.com/siddharth277)
-- [stellawinter](https://github.com/stellawinter)
-- [theamallalgi](https://github.com/theamallalgi)
 
 ## ⭐ Recent stars
 
