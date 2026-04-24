@@ -40,12 +40,15 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [lamhaison/aws-cli-utils](https://github.com/lamhaison/aws-cli-utils) - This is the project to collect helpful aws cli commandline with complex options to support your working (7 months ago)
 - [trinhminhtriet/dwipe](https://github.com/trinhminhtriet/dwipe) - 🧹 Fast, cross-platform disk cleanup tool with interactive UI for easy directory size visualization. (7 months ago)
 - [nctl-io/nctl-roadmap](https://github.com/nctl-io/nctl-roadmap) (7 months ago)
-- [nctl-io/.github](https://github.com/nctl-io/.github) - 🌐 Network. Connect. Transform. Lead. (7 months ago)
+- [nctl-io/.github](https://github.com/nctl-io/.github) - 🌐 Network. Connect. Transform. Lead. (8 months ago)
 - [trinhminhtriet/sizr](https://github.com/trinhminhtriet/sizr) - 📈 A fast, Rust-based tool to analyze file system usage with colorful output, file aggregation, exclusions, and directory comparisons. (8 months ago)
 - [trinhminhtriet/blast](https://github.com/trinhminhtriet/blast) - 🚀 Blast: A powerful, lightweight HTTP load generator for stress testing and benchmarking web applications with ease. (8 months ago)
 
 ## 👯 Check out my recent followers
 
+- [himasaif](https://github.com/himasaif)
+- [TheDarkIord](https://github.com/TheDarkIord)
+- [mariam5111](https://github.com/mariam5111)
 - [emmanuelmartindavid](https://github.com/emmanuelmartindavid)
 - [kirankumark-sec](https://github.com/kirankumark-sec)
 - [GreenCode668](https://github.com/GreenCode668)
@@ -53,9 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [shub-script](https://github.com/shub-script)
 - [AlirezaRahmani2004](https://github.com/AlirezaRahmani2004)
 - [theBappy](https://github.com/theBappy)
-- [game-ale](https://github.com/game-ale)
-- [alleyway-yaoi](https://github.com/alleyway-yaoi)
-- [pakjason61-spec](https://github.com/pakjason61-spec)
 
 ## ⭐ Recent stars
 
