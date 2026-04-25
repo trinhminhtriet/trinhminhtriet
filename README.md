@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [devkad09](https://github.com/devkad09)
+- [AlgorithmAlchemy](https://github.com/AlgorithmAlchemy)
 - [himasaif](https://github.com/himasaif)
 - [TheDarkIord](https://github.com/TheDarkIord)
 - [mariam5111](https://github.com/mariam5111)
@@ -54,8 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [GreenCode668](https://github.com/GreenCode668)
 - [Explore78](https://github.com/Explore78)
 - [shub-script](https://github.com/shub-script)
-- [AlirezaRahmani2004](https://github.com/AlirezaRahmani2004)
-- [theBappy](https://github.com/theBappy)
 
 ## ⭐ Recent stars
 
