@@ -46,16 +46,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [top-ace-friend](https://github.com/top-ace-friend)
+- [truckstoptiger05](https://github.com/truckstoptiger05)
+- [EimanTahir027](https://github.com/EimanTahir027)
+- [duzric](https://github.com/duzric)
 - [devkad09](https://github.com/devkad09)
 - [AlgorithmAlchemy](https://github.com/AlgorithmAlchemy)
 - [himasaif](https://github.com/himasaif)
 - [TheDarkIord](https://github.com/TheDarkIord)
 - [mariam5111](https://github.com/mariam5111)
 - [emmanuelmartindavid](https://github.com/emmanuelmartindavid)
-- [kirankumark-sec](https://github.com/kirankumark-sec)
-- [GreenCode668](https://github.com/GreenCode668)
-- [Explore78](https://github.com/Explore78)
-- [shub-script](https://github.com/shub-script)
 
 ## ⭐ Recent stars
 
