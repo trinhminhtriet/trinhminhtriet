@@ -46,6 +46,9 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [ItsJeffDev](https://github.com/ItsJeffDev)
+- [CHINAmilitary](https://github.com/CHINAmilitary)
+- [sahils0](https://github.com/sahils0)
 - [top-ace-friend](https://github.com/top-ace-friend)
 - [truckstoptiger05](https://github.com/truckstoptiger05)
 - [EimanTahir027](https://github.com/EimanTahir027)
@@ -53,9 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [devkad09](https://github.com/devkad09)
 - [AlgorithmAlchemy](https://github.com/AlgorithmAlchemy)
 - [himasaif](https://github.com/himasaif)
-- [TheDarkIord](https://github.com/TheDarkIord)
-- [mariam5111](https://github.com/mariam5111)
-- [emmanuelmartindavid](https://github.com/emmanuelmartindavid)
 
 ## ⭐ Recent stars
 
