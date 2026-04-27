@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [gsroot](https://github.com/gsroot)
 - [irostub](https://github.com/irostub)
 - [Sumersingpatil2694](https://github.com/Sumersingpatil2694)
 - [ItsJeffDev](https://github.com/ItsJeffDev)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [EimanTahir027](https://github.com/EimanTahir027)
 - [duzric](https://github.com/duzric)
 - [devkad09](https://github.com/devkad09)
-- [AlgorithmAlchemy](https://github.com/AlgorithmAlchemy)
 
 ## ⭐ Recent stars
 
