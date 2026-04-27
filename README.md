@@ -39,10 +39,10 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) - 🚀 All-in-one CLI toolkit for developers: scaffold, manage, automate, and boost productivity across languages! (7 months ago)
 - [lamhaison/aws-cli-utils](https://github.com/lamhaison/aws-cli-utils) - This is the project to collect helpful aws cli commandline with complex options to support your working (7 months ago)
 - [trinhminhtriet/dwipe](https://github.com/trinhminhtriet/dwipe) - 🧹 Fast, cross-platform disk cleanup tool with interactive UI for easy directory size visualization. (7 months ago)
-- [nctl-io/nctl-roadmap](https://github.com/nctl-io/nctl-roadmap) (7 months ago)
+- [nctl-io/nctl-roadmap](https://github.com/nctl-io/nctl-roadmap) (8 months ago)
 - [nctl-io/.github](https://github.com/nctl-io/.github) - 🌐 Network. Connect. Transform. Lead. (8 months ago)
 - [trinhminhtriet/sizr](https://github.com/trinhminhtriet/sizr) - 📈 A fast, Rust-based tool to analyze file system usage with colorful output, file aggregation, exclusions, and directory comparisons. (8 months ago)
-- [trinhminhtriet/blast](https://github.com/trinhminhtriet/blast) - 🚀 Blast: A powerful, lightweight HTTP load generator for stress testing and benchmarking web applications with ease. (8 months ago)
+- [rust-rs/tabler](https://github.com/rust-rs/tabler) - 📊 Tabler: A lightweight TUI tool to view, query, and navigate CSV, TSV, and Parquet data files. (8 months ago)
 
 ## 👯 Check out my recent followers
 
