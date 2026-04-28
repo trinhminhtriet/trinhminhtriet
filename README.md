@@ -46,16 +46,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [ferrettinicola](https://github.com/ferrettinicola)
+- [abinash019](https://github.com/abinash019)
+- [SireenWadi](https://github.com/SireenWadi)
+- [Nakshatra2405](https://github.com/Nakshatra2405)
 - [gsroot](https://github.com/gsroot)
 - [irostub](https://github.com/irostub)
 - [Sumersingpatil2694](https://github.com/Sumersingpatil2694)
 - [ItsJeffDev](https://github.com/ItsJeffDev)
 - [CHINAmilitary](https://github.com/CHINAmilitary)
 - [top-ace-friend](https://github.com/top-ace-friend)
-- [truckstoptiger05](https://github.com/truckstoptiger05)
-- [EimanTahir027](https://github.com/EimanTahir027)
-- [duzric](https://github.com/duzric)
-- [devkad09](https://github.com/devkad09)
 
 ## ⭐ Recent stars
 
