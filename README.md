@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [daryoushjamshidi8080](https://github.com/daryoushjamshidi8080)
 - [Mireutale](https://github.com/Mireutale)
 - [3xtroy](https://github.com/3xtroy)
 - [ferrettinicola](https://github.com/ferrettinicola)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [gsroot](https://github.com/gsroot)
 - [irostub](https://github.com/irostub)
 - [ItsJeffDev](https://github.com/ItsJeffDev)
-- [CHINAmilitary](https://github.com/CHINAmilitary)
 
 ## ⭐ Recent stars
 
