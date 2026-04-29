@@ -48,7 +48,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 - [Mireutale](https://github.com/Mireutale)
 - [3xtroy](https://github.com/3xtroy)
-- [incognito-dev07](https://github.com/incognito-dev07)
 - [ferrettinicola](https://github.com/ferrettinicola)
 - [abinash019](https://github.com/abinash019)
 - [SireenWadi](https://github.com/SireenWadi)
@@ -56,6 +55,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [gsroot](https://github.com/gsroot)
 - [irostub](https://github.com/irostub)
 - [ItsJeffDev](https://github.com/ItsJeffDev)
+- [CHINAmilitary](https://github.com/CHINAmilitary)
 
 ## ⭐ Recent stars
 
