@@ -46,6 +46,9 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [alaevate](https://github.com/alaevate)
+- [YagoGomez83](https://github.com/YagoGomez83)
+- [electroshocktherapy](https://github.com/electroshocktherapy)
 - [jovbcorreia](https://github.com/jovbcorreia)
 - [flaviopavim](https://github.com/flaviopavim)
 - [condaalpha](https://github.com/condaalpha)
@@ -53,9 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [alcadoni](https://github.com/alcadoni)
 - [daryoushjamshidi8080](https://github.com/daryoushjamshidi8080)
 - [Mireutale](https://github.com/Mireutale)
-- [3xtroy](https://github.com/3xtroy)
-- [ferrettinicola](https://github.com/ferrettinicola)
-- [abinash019](https://github.com/abinash019)
 
 ## ⭐ Recent stars
 
