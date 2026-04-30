@@ -46,16 +46,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [jovbcorreia](https://github.com/jovbcorreia)
+- [flaviopavim](https://github.com/flaviopavim)
+- [condaalpha](https://github.com/condaalpha)
+- [confidentmeerkat](https://github.com/confidentmeerkat)
+- [alcadoni](https://github.com/alcadoni)
 - [daryoushjamshidi8080](https://github.com/daryoushjamshidi8080)
 - [Mireutale](https://github.com/Mireutale)
 - [3xtroy](https://github.com/3xtroy)
 - [ferrettinicola](https://github.com/ferrettinicola)
 - [abinash019](https://github.com/abinash019)
-- [SireenWadi](https://github.com/SireenWadi)
-- [Nakshatra2405](https://github.com/Nakshatra2405)
-- [gsroot](https://github.com/gsroot)
-- [irostub](https://github.com/irostub)
-- [ItsJeffDev](https://github.com/ItsJeffDev)
 
 ## ⭐ Recent stars
 
