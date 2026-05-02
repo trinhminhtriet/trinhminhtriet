@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [mdresch](https://github.com/mdresch)
 - [amdadislam01](https://github.com/amdadislam01)
 - [DaFi-1](https://github.com/DaFi-1)
 - [Akashvarma26](https://github.com/Akashvarma26)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [jovbcorreia](https://github.com/jovbcorreia)
 - [flaviopavim](https://github.com/flaviopavim)
 - [condaalpha](https://github.com/condaalpha)
-- [confidentmeerkat](https://github.com/confidentmeerkat)
 
 ## ⭐ Recent stars
 
