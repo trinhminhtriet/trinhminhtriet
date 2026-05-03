@@ -38,7 +38,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [nctl-io/nctl-branding](https://github.com/nctl-io/nctl-branding) - NCTL Branding 🖼️: Centralized assets and guidelines for consistent visual identity across NCTL projects and platforms. (6 months ago)
 - [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) - 🚀 All-in-one CLI toolkit for developers: scaffold, manage, automate, and boost productivity across languages! (7 months ago)
 - [lamhaison/aws-cli-utils](https://github.com/lamhaison/aws-cli-utils) - This is the project to collect helpful aws cli commandline with complex options to support your working (7 months ago)
-- [trinhminhtriet/dwipe](https://github.com/trinhminhtriet/dwipe) - 🧹 Fast, cross-platform disk cleanup tool with interactive UI for easy directory size visualization. (7 months ago)
+- [trinhminhtriet/dwipe](https://github.com/trinhminhtriet/dwipe) - 🧹 Fast, cross-platform disk cleanup tool with interactive UI for easy directory size visualization. (8 months ago)
 - [nctl-io/nctl-roadmap](https://github.com/nctl-io/nctl-roadmap) (8 months ago)
 - [nctl-io/.github](https://github.com/nctl-io/.github) - 🌐 Network. Connect. Transform. Lead. (8 months ago)
 - [trinhminhtriet/sizr](https://github.com/trinhminhtriet/sizr) - 📈 A fast, Rust-based tool to analyze file system usage with colorful output, file aggregation, exclusions, and directory comparisons. (8 months ago)
@@ -46,16 +46,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [alelign](https://github.com/alelign)
+- [Equationeer](https://github.com/Equationeer)
+- [Anushrutghi](https://github.com/Anushrutghi)
+- [obsomeat](https://github.com/obsomeat)
 - [mdresch](https://github.com/mdresch)
 - [amdadislam01](https://github.com/amdadislam01)
 - [DaFi-1](https://github.com/DaFi-1)
 - [Akashvarma26](https://github.com/Akashvarma26)
 - [alaevate](https://github.com/alaevate)
 - [YagoGomez83](https://github.com/YagoGomez83)
-- [electroshocktherapy](https://github.com/electroshocktherapy)
-- [jovbcorreia](https://github.com/jovbcorreia)
-- [flaviopavim](https://github.com/flaviopavim)
-- [condaalpha](https://github.com/condaalpha)
 
 ## ⭐ Recent stars
 
