@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [mvxGREEN](https://github.com/mvxGREEN)
 - [alelign](https://github.com/alelign)
 - [Equationeer](https://github.com/Equationeer)
 - [Anushrutghi](https://github.com/Anushrutghi)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [DaFi-1](https://github.com/DaFi-1)
 - [Akashvarma26](https://github.com/Akashvarma26)
 - [alaevate](https://github.com/alaevate)
-- [YagoGomez83](https://github.com/YagoGomez83)
 
 ## ⭐ Recent stars
 
