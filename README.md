@@ -46,13 +46,13 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Alexjohn2023](https://github.com/Alexjohn2023)
 - [mvxGREEN](https://github.com/mvxGREEN)
 - [alelign](https://github.com/alelign)
 - [Equationeer](https://github.com/Equationeer)
 - [Anushrutghi](https://github.com/Anushrutghi)
 - [obsomeat](https://github.com/obsomeat)
 - [mdresch](https://github.com/mdresch)
-- [amdadislam01](https://github.com/amdadislam01)
 - [DaFi-1](https://github.com/DaFi-1)
 - [Akashvarma26](https://github.com/Akashvarma26)
 - [alaevate](https://github.com/alaevate)
