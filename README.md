@@ -46,16 +46,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [SACKS-lab](https://github.com/SACKS-lab)
+- [Supra-Deep-Dash](https://github.com/Supra-Deep-Dash)
+- [JuanROrellana](https://github.com/JuanROrellana)
+- [aoi1026](https://github.com/aoi1026)
 - [Alexjohn2023](https://github.com/Alexjohn2023)
 - [mvxGREEN](https://github.com/mvxGREEN)
 - [alelign](https://github.com/alelign)
-- [Equationeer](https://github.com/Equationeer)
-- [Anushrutghi](https://github.com/Anushrutghi)
 - [obsomeat](https://github.com/obsomeat)
 - [mdresch](https://github.com/mdresch)
 - [DaFi-1](https://github.com/DaFi-1)
-- [Akashvarma26](https://github.com/Akashvarma26)
-- [alaevate](https://github.com/alaevate)
 
 ## ⭐ Recent stars
 
