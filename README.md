@@ -46,6 +46,9 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [baltazargallegosj-arch](https://github.com/baltazargallegosj-arch)
+- [Jones-6199](https://github.com/Jones-6199)
+- [sugarburn](https://github.com/sugarburn)
 - [zaydodonovan](https://github.com/zaydodonovan)
 - [Mel-Turham](https://github.com/Mel-Turham)
 - [johnhuh619](https://github.com/johnhuh619)
@@ -53,9 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [SACKS-lab](https://github.com/SACKS-lab)
 - [Supra-Deep-Dash](https://github.com/Supra-Deep-Dash)
 - [JuanROrellana](https://github.com/JuanROrellana)
-- [aoi1026](https://github.com/aoi1026)
-- [Alexjohn2023](https://github.com/Alexjohn2023)
-- [mvxGREEN](https://github.com/mvxGREEN)
 
 ## ⭐ Recent stars
 
