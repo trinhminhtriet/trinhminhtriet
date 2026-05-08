@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [jeffersonchaves](https://github.com/jeffersonchaves)
 - [SAJLENDRAPANDEY](https://github.com/SAJLENDRAPANDEY)
 - [KerollosMagdy](https://github.com/KerollosMagdy)
 - [devbarans](https://github.com/devbarans)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [zaydodonovan](https://github.com/zaydodonovan)
 - [Mel-Turham](https://github.com/Mel-Turham)
 - [johnhuh619](https://github.com/johnhuh619)
-- [flowdeskadmin](https://github.com/flowdeskadmin)
 
 ## ⭐ Recent stars
 
