@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [SAJLENDRAPANDEY](https://github.com/SAJLENDRAPANDEY)
+- [KerollosMagdy](https://github.com/KerollosMagdy)
 - [devbarans](https://github.com/devbarans)
 - [baltazargallegosj-arch](https://github.com/baltazargallegosj-arch)
 - [Jones-6199](https://github.com/Jones-6199)
@@ -54,8 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Mel-Turham](https://github.com/Mel-Turham)
 - [johnhuh619](https://github.com/johnhuh619)
 - [flowdeskadmin](https://github.com/flowdeskadmin)
-- [SACKS-lab](https://github.com/SACKS-lab)
-- [Supra-Deep-Dash](https://github.com/Supra-Deep-Dash)
 
 ## ⭐ Recent stars
 
