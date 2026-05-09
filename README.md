@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [qianyu-08](https://github.com/qianyu-08)
 - [LuckasRondeau](https://github.com/LuckasRondeau)
 - [malikhan-dev](https://github.com/malikhan-dev)
 - [GiorgioAntonelli94](https://github.com/GiorgioAntonelli94)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [devbarans](https://github.com/devbarans)
 - [baltazargallegosj-arch](https://github.com/baltazargallegosj-arch)
 - [Jones-6199](https://github.com/Jones-6199)
-- [sugarburn](https://github.com/sugarburn)
 
 ## ⭐ Recent stars
 
