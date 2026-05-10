@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Meedooh13](https://github.com/Meedooh13)
+- [Manenpren](https://github.com/Manenpren)
 - [qianyuy5](https://github.com/qianyuy5)
 - [LuckasRondeau](https://github.com/LuckasRondeau)
 - [malikhan-dev](https://github.com/malikhan-dev)
@@ -54,8 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [SAJLENDRAPANDEY](https://github.com/SAJLENDRAPANDEY)
 - [KerollosMagdy](https://github.com/KerollosMagdy)
 - [devbarans](https://github.com/devbarans)
-- [baltazargallegosj-arch](https://github.com/baltazargallegosj-arch)
-- [Jones-6199](https://github.com/Jones-6199)
 
 ## ⭐ Recent stars
 
