@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [justinT-uH](https://github.com/justinT-uH)
+- [Gerouwu](https://github.com/Gerouwu)
 - [Eremey-fd](https://github.com/Eremey-fd)
 - [Rifatctg91](https://github.com/Rifatctg91)
 - [giovanniclima](https://github.com/giovanniclima)
@@ -54,8 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [UstadYasin](https://github.com/UstadYasin)
 - [MarcelRaschke](https://github.com/MarcelRaschke)
 - [boothilltofu](https://github.com/boothilltofu)
-- [mznausica3181-gif](https://github.com/mznausica3181-gif)
-- [rob0pup](https://github.com/rob0pup)
 
 ## ⭐ Recent stars
 
