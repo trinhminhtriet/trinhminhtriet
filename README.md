@@ -46,6 +46,9 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Eremey-fd](https://github.com/Eremey-fd)
+- [Rifatctg91](https://github.com/Rifatctg91)
+- [giovanniclima](https://github.com/giovanniclima)
 - [Kgeminic](https://github.com/Kgeminic)
 - [Shawoll](https://github.com/Shawoll)
 - [UstadYasin](https://github.com/UstadYasin)
@@ -53,16 +56,13 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [boothilltofu](https://github.com/boothilltofu)
 - [mznausica3181-gif](https://github.com/mznausica3181-gif)
 - [rob0pup](https://github.com/rob0pup)
-- [Arshad65](https://github.com/Arshad65)
-- [Meedooh13](https://github.com/Meedooh13)
-- [Manenpren](https://github.com/Manenpren)
 
 ## ⭐ Recent stars
 
 - [luubinhan/dev-proxy](https://github.com/luubinhan/dev-proxy) (4 months ago)
-- [Aiano/FOC](https://github.com/Aiano/FOC) - A BLDC motor driver using FOC algorithm. (5 months ago)
-- [RollingGecko/VescUartControl](https://github.com/RollingGecko/VescUartControl) - Arduino library to interface with the VESC bldc over UART. (5 months ago)
-- [pekkaroi/bldc-drive](https://github.com/pekkaroi/bldc-drive) - Cheap and simple brushless DC motor driver designed for CNC applications using STM32 microcontroller (5 months ago)
-- [xp4xbox/Python-Backdoor](https://github.com/xp4xbox/Python-Backdoor) - This project is a cross-platform backdoor/reverse shell and post-exploitation tool written in Python3 (5 months ago)
+- [Aiano/FOC](https://github.com/Aiano/FOC) - A BLDC motor driver using FOC algorithm. (6 months ago)
+- [RollingGecko/VescUartControl](https://github.com/RollingGecko/VescUartControl) - Arduino library to interface with the VESC bldc over UART. (6 months ago)
+- [pekkaroi/bldc-drive](https://github.com/pekkaroi/bldc-drive) - Cheap and simple brushless DC motor driver designed for CNC applications using STM32 microcontroller (6 months ago)
+- [xp4xbox/Python-Backdoor](https://github.com/xp4xbox/Python-Backdoor) - This project is a cross-platform backdoor/reverse shell and post-exploitation tool written in Python3 (6 months ago)
 
 ## 🔨 Latest Pull Requests I published
