@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [clickclickboom81](https://github.com/clickclickboom81)
 - [libkush](https://github.com/libkush)
 - [lynewinter](https://github.com/lynewinter)
 - [mariwatts](https://github.com/mariwatts)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [hanyvert](https://github.com/hanyvert)
 - [domcomit](https://github.com/domcomit)
 - [kylehyne](https://github.com/kylehyne)
-- [jaderytm](https://github.com/jaderytm)
 
 ## ⭐ Recent stars
 
