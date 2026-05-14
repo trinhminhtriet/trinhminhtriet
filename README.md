@@ -46,16 +46,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [umidjon3455](https://github.com/umidjon3455)
+- [hidariako](https://github.com/hidariako)
+- [ikerperez12](https://github.com/ikerperez12)
+- [bloodyteabiscuts](https://github.com/bloodyteabiscuts)
 - [hestiyak](https://github.com/hestiyak)
 - [yupyanyo](https://github.com/yupyanyo)
 - [yolenatch](https://github.com/yolenatch)
 - [jamesgeodi](https://github.com/jamesgeodi)
 - [olienath](https://github.com/olienath)
 - [viraweitse](https://github.com/viraweitse)
-- [adindazu](https://github.com/adindazu)
-- [zunelyat](https://github.com/zunelyat)
-- [zowilyhter](https://github.com/zowilyhter)
-- [jakerother](https://github.com/jakerother)
 
 ## ⭐ Recent stars
 
