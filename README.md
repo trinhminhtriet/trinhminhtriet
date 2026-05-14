@@ -46,16 +46,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
-- [clickclickboom81](https://github.com/clickclickboom81)
-- [libkush](https://github.com/libkush)
-- [lynewinter](https://github.com/lynewinter)
-- [mariwatts](https://github.com/mariwatts)
-- [vierystein](https://github.com/vierystein)
-- [hazexone](https://github.com/hazexone)
-- [canestein](https://github.com/canestein)
-- [hanyvert](https://github.com/hanyvert)
-- [domcomit](https://github.com/domcomit)
-- [kylehyne](https://github.com/kylehyne)
+- [hestiyak](https://github.com/hestiyak)
+- [yupyanyo](https://github.com/yupyanyo)
+- [yolenatch](https://github.com/yolenatch)
+- [jamesgeodi](https://github.com/jamesgeodi)
+- [olienath](https://github.com/olienath)
+- [viraweitse](https://github.com/viraweitse)
+- [adindazu](https://github.com/adindazu)
+- [zunelyat](https://github.com/zunelyat)
+- [zowilyhter](https://github.com/zowilyhter)
+- [jakerother](https://github.com/jakerother)
 
 ## ⭐ Recent stars
 
