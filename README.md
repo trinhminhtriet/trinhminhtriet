@@ -37,7 +37,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [nctl-io/nctl-homepage](https://github.com/nctl-io/nctl-homepage) - 🚀 Modern homepage for NCTL: fast, responsive, TypeScript-powered, open source, and easy to customize. (7 months ago)
 - [nctl-io/nctl-branding](https://github.com/nctl-io/nctl-branding) - NCTL Branding 🖼️: Centralized assets and guidelines for consistent visual identity across NCTL projects and platforms. (7 months ago)
 - [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) - 🚀 All-in-one CLI toolkit for developers: scaffold, manage, automate, and boost productivity across languages! (7 months ago)
-- [lamhaison/aws-cli-utils](https://github.com/lamhaison/aws-cli-utils) - This is the project to collect helpful aws cli commandline with complex options to support your working (7 months ago)
+- [lamhaison/aws-cli-utils](https://github.com/lamhaison/aws-cli-utils) - This is the project to collect helpful aws cli commandline with complex options to support your working (8 months ago)
 - [trinhminhtriet/dwipe](https://github.com/trinhminhtriet/dwipe) - 🧹 Fast, cross-platform disk cleanup tool with interactive UI for easy directory size visualization. (8 months ago)
 - [nctl-io/nctl-roadmap](https://github.com/nctl-io/nctl-roadmap) (8 months ago)
 - [nctl-io/.github](https://github.com/nctl-io/.github) - 🌐 Network. Connect. Transform. Lead. (8 months ago)
@@ -46,16 +46,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [jkdevcode](https://github.com/jkdevcode)
+- [re1Lucky365](https://github.com/re1Lucky365)
+- [intellegence0706](https://github.com/intellegence0706)
+- [dolliblaQ](https://github.com/dolliblaQ)
 - [umidjon3455](https://github.com/umidjon3455)
 - [hidariako](https://github.com/hidariako)
 - [ikerperez12](https://github.com/ikerperez12)
 - [bloodyteabiscuts](https://github.com/bloodyteabiscuts)
 - [hestiyak](https://github.com/hestiyak)
 - [yupyanyo](https://github.com/yupyanyo)
-- [yolenatch](https://github.com/yolenatch)
-- [jamesgeodi](https://github.com/jamesgeodi)
-- [olienath](https://github.com/olienath)
-- [viraweitse](https://github.com/viraweitse)
 
 ## ⭐ Recent stars
 
