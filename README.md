@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [kween-sande](https://github.com/kween-sande)
 - [jkdevcode](https://github.com/jkdevcode)
 - [re1Lucky365](https://github.com/re1Lucky365)
 - [intellegence0706](https://github.com/intellegence0706)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [ikerperez12](https://github.com/ikerperez12)
 - [bloodyteabiscuts](https://github.com/bloodyteabiscuts)
 - [hestiyak](https://github.com/hestiyak)
-- [yupyanyo](https://github.com/yupyanyo)
 
 ## ⭐ Recent stars
 
