@@ -46,16 +46,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [shreekanthashokg-lang](https://github.com/shreekanthashokg-lang)
+- [obgabu-byte](https://github.com/obgabu-byte)
 - [theBappy](https://github.com/theBappy)
 - [abdulrdeveloper](https://github.com/abdulrdeveloper)
-- [aza-ali](https://github.com/aza-ali)
 - [darasls](https://github.com/darasls)
 - [kween-sande](https://github.com/kween-sande)
 - [jkdevcode](https://github.com/jkdevcode)
 - [re1Lucky365](https://github.com/re1Lucky365)
 - [intellegence0706](https://github.com/intellegence0706)
 - [dolliblaQ](https://github.com/dolliblaQ)
-- [umidjon3455](https://github.com/umidjon3455)
 
 ## ⭐ Recent stars
 
