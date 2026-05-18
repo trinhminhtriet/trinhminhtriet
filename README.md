@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [condabeta](https://github.com/condabeta)
+- [lostakira118118](https://github.com/lostakira118118)
 - [shreekanthashokg-lang](https://github.com/shreekanthashokg-lang)
 - [obgabu-byte](https://github.com/obgabu-byte)
 - [theBappy](https://github.com/theBappy)
@@ -54,8 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [kween-sande](https://github.com/kween-sande)
 - [jkdevcode](https://github.com/jkdevcode)
 - [re1Lucky365](https://github.com/re1Lucky365)
-- [intellegence0706](https://github.com/intellegence0706)
-- [dolliblaQ](https://github.com/dolliblaQ)
 
 ## ⭐ Recent stars
 
