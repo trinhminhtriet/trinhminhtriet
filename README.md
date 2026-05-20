@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Q-sqku](https://github.com/Q-sqku)
 - [devnavodhimsara](https://github.com/devnavodhimsara)
 - [daniel3303](https://github.com/daniel3303)
 - [mweppler](https://github.com/mweppler)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [CasalMiriam](https://github.com/CasalMiriam)
 - [theamallalgi](https://github.com/theamallalgi)
 - [condabeta](https://github.com/condabeta)
-- [lostakira118118](https://github.com/lostakira118118)
 
 ## ⭐ Recent stars
 
