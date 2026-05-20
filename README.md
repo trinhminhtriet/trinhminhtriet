@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [PEOPLE-EATER](https://github.com/PEOPLE-EATER)
+- [G4RMADON](https://github.com/G4RMADON)
 - [Q-sqku](https://github.com/Q-sqku)
 - [devnavodhimsara](https://github.com/devnavodhimsara)
 - [daniel3303](https://github.com/daniel3303)
@@ -54,8 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [AquiraS](https://github.com/AquiraS)
 - [sandrakate20098](https://github.com/sandrakate20098)
 - [CasalMiriam](https://github.com/CasalMiriam)
-- [theamallalgi](https://github.com/theamallalgi)
-- [condabeta](https://github.com/condabeta)
 
 ## ⭐ Recent stars
 
