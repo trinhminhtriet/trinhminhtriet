@@ -42,15 +42,15 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [nctl-io/nctl-roadmap](https://github.com/nctl-io/nctl-roadmap) (8 months ago)
 - [nctl-io/.github](https://github.com/nctl-io/.github) - 🌐 Network. Connect. Transform. Lead. (8 months ago)
 - [trinhminhtriet/sizr](https://github.com/trinhminhtriet/sizr) - 📈 A fast, Rust-based tool to analyze file system usage with colorful output, file aggregation, exclusions, and directory comparisons. (8 months ago)
-- [trinhminhtriet/blast](https://github.com/trinhminhtriet/blast) - 🚀 Blast: A powerful, lightweight HTTP load generator for stress testing and benchmarking web applications with ease. (8 months ago)
+- [trinhminhtriet/blast](https://github.com/trinhminhtriet/blast) - 🚀 Blast: A powerful, lightweight HTTP load generator for stress testing and benchmarking web applications with ease. (9 months ago)
 
 ## 👯 Check out my recent followers
 
+- [AceCodeLabs](https://github.com/AceCodeLabs)
 - [PEOPLE-EATER](https://github.com/PEOPLE-EATER)
 - [G4RMADON](https://github.com/G4RMADON)
 - [Q-sqku](https://github.com/Q-sqku)
 - [devnavodhimsara](https://github.com/devnavodhimsara)
-- [daniel3303](https://github.com/daniel3303)
 - [mweppler](https://github.com/mweppler)
 - [aza-ali](https://github.com/aza-ali)
 - [AquiraS](https://github.com/AquiraS)
