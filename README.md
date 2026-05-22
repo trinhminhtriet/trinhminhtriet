@@ -46,6 +46,9 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [CarAuto34](https://github.com/CarAuto34)
+- [jeansoto516-a11y](https://github.com/jeansoto516-a11y)
+- [momokapoolz](https://github.com/momokapoolz)
 - [vignesh2027](https://github.com/vignesh2027)
 - [TariqTechie-dev](https://github.com/TariqTechie-dev)
 - [Gottaru](https://github.com/Gottaru)
@@ -53,9 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [PEOPLE-EATER](https://github.com/PEOPLE-EATER)
 - [G4RMADON](https://github.com/G4RMADON)
 - [Q-sqku](https://github.com/Q-sqku)
-- [devnavodhimsara](https://github.com/devnavodhimsara)
-- [mweppler](https://github.com/mweppler)
-- [AquiraS](https://github.com/AquiraS)
 
 ## ⭐ Recent stars
 
