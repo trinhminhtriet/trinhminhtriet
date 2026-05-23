@@ -46,16 +46,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [sindoc](https://github.com/sindoc)
+- [bl00dkitty](https://github.com/bl00dkitty)
+- [SayanthRock](https://github.com/SayanthRock)
+- [Luiz1nn](https://github.com/Luiz1nn)
 - [rehansw00](https://github.com/rehansw00)
 - [CarAuto34](https://github.com/CarAuto34)
 - [jeansoto516-a11y](https://github.com/jeansoto516-a11y)
 - [momokapoolz](https://github.com/momokapoolz)
 - [vignesh2027](https://github.com/vignesh2027)
 - [TariqTechie-dev](https://github.com/TariqTechie-dev)
-- [Gottaru](https://github.com/Gottaru)
-- [AceCodeLabs](https://github.com/AceCodeLabs)
-- [PEOPLE-EATER](https://github.com/PEOPLE-EATER)
-- [G4RMADON](https://github.com/G4RMADON)
 
 ## ⭐ Recent stars
 
