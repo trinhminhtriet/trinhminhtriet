@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [ryuunosuke-r](https://github.com/ryuunosuke-r)
 - [yud0uhu](https://github.com/yud0uhu)
 - [sindoc](https://github.com/sindoc)
 - [bl00dkitty](https://github.com/bl00dkitty)
@@ -55,7 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [CarAuto34](https://github.com/CarAuto34)
 - [jeansoto516-a11y](https://github.com/jeansoto516-a11y)
 - [momokapoolz](https://github.com/momokapoolz)
-- [vignesh2027](https://github.com/vignesh2027)
 
 ## ⭐ Recent stars
 
