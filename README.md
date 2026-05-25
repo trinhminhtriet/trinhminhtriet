@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [illusive7ai](https://github.com/illusive7ai)
+- [noahstoner](https://github.com/noahstoner)
 - [navia-caspar](https://github.com/navia-caspar)
 - [ryuunosuke-r](https://github.com/ryuunosuke-r)
 - [yud0uhu](https://github.com/yud0uhu)
@@ -54,8 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [SayanthRock](https://github.com/SayanthRock)
 - [Luiz1nn](https://github.com/Luiz1nn)
 - [rehansw00](https://github.com/rehansw00)
-- [CarAuto34](https://github.com/CarAuto34)
-- [jeansoto516-a11y](https://github.com/jeansoto516-a11y)
 
 ## ⭐ Recent stars
 
