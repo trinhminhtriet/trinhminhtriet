@@ -46,6 +46,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [pwnedroot](https://github.com/pwnedroot)
+- [avartan007](https://github.com/avartan007)
 - [kaizen12219](https://github.com/kaizen12219)
 - [PanshulVempalli](https://github.com/PanshulVempalli)
 - [illusive7ai](https://github.com/illusive7ai)
@@ -54,8 +56,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [ryuunosuke-r](https://github.com/ryuunosuke-r)
 - [yud0uhu](https://github.com/yud0uhu)
 - [sindoc](https://github.com/sindoc)
-- [bl00dkitty](https://github.com/bl00dkitty)
-- [SayanthRock](https://github.com/SayanthRock)
 
 ## ⭐ Recent stars
 
