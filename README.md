@@ -39,23 +39,23 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) - 🚀 All-in-one CLI toolkit for developers: scaffold, manage, automate, and boost productivity across languages! (8 months ago)
 - [lamhaison/aws-cli-utils](https://github.com/lamhaison/aws-cli-utils) - This is the project to collect helpful aws cli commandline with complex options to support your working (8 months ago)
 - [trinhminhtriet/dwipe](https://github.com/trinhminhtriet/dwipe) - 🧹 Fast, cross-platform disk cleanup tool with interactive UI for easy directory size visualization. (8 months ago)
-- [nctl-io/nctl-roadmap](https://github.com/nctl-io/nctl-roadmap) (8 months ago)
+- [nctl-io/nctl-roadmap](https://github.com/nctl-io/nctl-roadmap) (9 months ago)
 - [nctl-io/.github](https://github.com/nctl-io/.github) - 🌐 Network. Connect. Transform. Lead. (9 months ago)
 - [trinhminhtriet/sizr](https://github.com/trinhminhtriet/sizr) - 📈 A fast, Rust-based tool to analyze file system usage with colorful output, file aggregation, exclusions, and directory comparisons. (9 months ago)
 - [trinhminhtriet/blast](https://github.com/trinhminhtriet/blast) - 🚀 Blast: A powerful, lightweight HTTP load generator for stress testing and benchmarking web applications with ease. (9 months ago)
 
 ## 👯 Check out my recent followers
 
+- [daniel3303](https://github.com/daniel3303)
+- [bukasen](https://github.com/bukasen)
+- [takshd15](https://github.com/takshd15)
+- [aza-ali](https://github.com/aza-ali)
 - [pwnedroot](https://github.com/pwnedroot)
 - [avartan007](https://github.com/avartan007)
 - [kaizen12219](https://github.com/kaizen12219)
 - [PanshulVempalli](https://github.com/PanshulVempalli)
 - [illusive7ai](https://github.com/illusive7ai)
 - [noahstoner](https://github.com/noahstoner)
-- [navia-caspar](https://github.com/navia-caspar)
-- [ryuunosuke-r](https://github.com/ryuunosuke-r)
-- [yud0uhu](https://github.com/yud0uhu)
-- [sindoc](https://github.com/sindoc)
 
 ## ⭐ Recent stars
 
