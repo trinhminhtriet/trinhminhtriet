@@ -29,7 +29,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 ## Statistics
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=trinhminhtriet&theme=github_dark" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trinhminhtriet&theme=default&show_icons=true&hide_border=true&layout=compact" alt="Most used programming languages" />
 
 ## 👷 Check out what I'm currently working on
 {{range recentContributions 10}}
