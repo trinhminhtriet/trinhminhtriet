@@ -29,7 +29,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 ## Statistics
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=trinhminhtriet&theme=github_dark" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trinhminhtriet&theme=default&show_icons=true&hide_border=true&layout=compact" alt="Most used programming languages" />
 
 ## 👷 Check out what I'm currently working on
 
@@ -46,6 +45,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [salpiras](https://github.com/salpiras)
+- [mithrangowda07](https://github.com/mithrangowda07)
 - [daniel3303](https://github.com/daniel3303)
 - [bukasen](https://github.com/bukasen)
 - [takshd15](https://github.com/takshd15)
@@ -54,8 +55,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [avartan007](https://github.com/avartan007)
 - [kaizen12219](https://github.com/kaizen12219)
 - [PanshulVempalli](https://github.com/PanshulVempalli)
-- [illusive7ai](https://github.com/illusive7ai)
-- [noahstoner](https://github.com/noahstoner)
 
 ## ⭐ Recent stars
 
