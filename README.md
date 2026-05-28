@@ -45,6 +45,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [ifapriestess](https://github.com/ifapriestess)
 - [salpiras](https://github.com/salpiras)
 - [mithrangowda07](https://github.com/mithrangowda07)
 - [daniel3303](https://github.com/daniel3303)
@@ -54,7 +55,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [pwnedroot](https://github.com/pwnedroot)
 - [avartan007](https://github.com/avartan007)
 - [kaizen12219](https://github.com/kaizen12219)
-- [PanshulVempalli](https://github.com/PanshulVempalli)
 
 ## ⭐ Recent stars
 
