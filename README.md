@@ -45,6 +45,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [CatFortman](https://github.com/CatFortman)
+- [HuckleR2003](https://github.com/HuckleR2003)
 - [Jorciney](https://github.com/Jorciney)
 - [KaitoSawano](https://github.com/KaitoSawano)
 - [saarors](https://github.com/saarors)
@@ -53,8 +55,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [salpiras](https://github.com/salpiras)
 - [mithrangowda07](https://github.com/mithrangowda07)
 - [daniel3303](https://github.com/daniel3303)
-- [bukasen](https://github.com/bukasen)
-- [takshd15](https://github.com/takshd15)
 
 ## ⭐ Recent stars
 
