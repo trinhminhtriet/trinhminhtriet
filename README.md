@@ -45,7 +45,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
-- [sharafdin](https://github.com/sharafdin)
+- [s4vochka](https://github.com/s4vochka)
+- [vodkashotas](https://github.com/vodkashotas)
 - [mahimarawat0707](https://github.com/mahimarawat0707)
 - [CatFortman](https://github.com/CatFortman)
 - [HuckleR2003](https://github.com/HuckleR2003)
@@ -54,7 +55,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [saarors](https://github.com/saarors)
 - [SuppanutTone](https://github.com/SuppanutTone)
 - [ifapriestess](https://github.com/ifapriestess)
-- [salpiras](https://github.com/salpiras)
 
 ## ⭐ Recent stars
 
