@@ -45,6 +45,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [NourAlaa-BRUCE](https://github.com/NourAlaa-BRUCE)
+- [S-anfrancisco](https://github.com/S-anfrancisco)
 - [ThilakesB](https://github.com/ThilakesB)
 - [s4vochka](https://github.com/s4vochka)
 - [vodkashotas](https://github.com/vodkashotas)
@@ -53,8 +55,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [HuckleR2003](https://github.com/HuckleR2003)
 - [Jorciney](https://github.com/Jorciney)
 - [KaitoSawano](https://github.com/KaitoSawano)
-- [saarors](https://github.com/saarors)
-- [SuppanutTone](https://github.com/SuppanutTone)
 
 ## ⭐ Recent stars
 
