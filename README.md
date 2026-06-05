@@ -45,16 +45,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [rasidi3112](https://github.com/rasidi3112)
+- [marco0808364](https://github.com/marco0808364)
+- [54gunda](https://github.com/54gunda)
+- [daniel3303](https://github.com/daniel3303)
 - [Debasish-Mahapatra](https://github.com/Debasish-Mahapatra)
 - [danuhusodo](https://github.com/danuhusodo)
 - [whiterose456](https://github.com/whiterose456)
 - [zij-jahidul](https://github.com/zij-jahidul)
 - [laviniadev](https://github.com/laviniadev)
 - [deerbonez](https://github.com/deerbonez)
-- [eun-yung](https://github.com/eun-yung)
-- [Nai64](https://github.com/Nai64)
-- [VictorLeda1](https://github.com/VictorLeda1)
-- [velleitie](https://github.com/velleitie)
 
 ## ⭐ Recent stars
 
