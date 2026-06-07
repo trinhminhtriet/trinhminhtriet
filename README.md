@@ -50,11 +50,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [jeren-dev](https://github.com/jeren-dev)
 - [abressiddique](https://github.com/abressiddique)
 - [balaganimadhu666](https://github.com/balaganimadhu666)
-- [jaikaran109](https://github.com/jaikaran109)
 - [hassanupf24](https://github.com/hassanupf24)
 - [marco0808364](https://github.com/marco0808364)
 - [54gunda](https://github.com/54gunda)
 - [daniel3303](https://github.com/daniel3303)
+- [Debasish-Mahapatra](https://github.com/Debasish-Mahapatra)
 
 ## ⭐ Recent stars
 
