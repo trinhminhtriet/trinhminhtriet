@@ -45,6 +45,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [gowthamgeddam](https://github.com/gowthamgeddam)
+- [rasidi3112](https://github.com/rasidi3112)
 - [RealMafioso](https://github.com/RealMafioso)
 - [CaptainQuickWit](https://github.com/CaptainQuickWit)
 - [WoasSinab](https://github.com/WoasSinab)
@@ -53,8 +55,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [uhacks](https://github.com/uhacks)
 - [artkabis](https://github.com/artkabis)
 - [jeren-dev](https://github.com/jeren-dev)
-- [abressiddique](https://github.com/abressiddique)
-- [balaganimadhu666](https://github.com/balaganimadhu666)
 
 ## ⭐ Recent stars
 
