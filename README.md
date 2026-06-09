@@ -45,9 +45,9 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [dollar25k](https://github.com/dollar25k)
 - [shajibsikder](https://github.com/shajibsikder)
 - [hectrhcc](https://github.com/hectrhcc)
-- [laviniadev](https://github.com/laviniadev)
 - [akpdox](https://github.com/akpdox)
 - [gowthamgeddam](https://github.com/gowthamgeddam)
 - [RealMafioso](https://github.com/RealMafioso)
