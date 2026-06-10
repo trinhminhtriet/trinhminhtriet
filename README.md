@@ -45,6 +45,9 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [paakofiaidoo](https://github.com/paakofiaidoo)
+- [FINEMOTIONS](https://github.com/FINEMOTIONS)
+- [rainykana](https://github.com/rainykana)
 - [haruhihie](https://github.com/haruhihie)
 - [wubly](https://github.com/wubly)
 - [LeeMetaX](https://github.com/LeeMetaX)
@@ -52,9 +55,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [dollar25k](https://github.com/dollar25k)
 - [shajibsikder](https://github.com/shajibsikder)
 - [hectrhcc](https://github.com/hectrhcc)
-- [akpdox](https://github.com/akpdox)
-- [gowthamgeddam](https://github.com/gowthamgeddam)
-- [RealMafioso](https://github.com/RealMafioso)
 
 ## ⭐ Recent stars
 
