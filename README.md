@@ -52,9 +52,9 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [haruhihie](https://github.com/haruhihie)
 - [wubly](https://github.com/wubly)
 - [LeeMetaX](https://github.com/LeeMetaX)
-- [laviniadev](https://github.com/laviniadev)
 - [dollar25k](https://github.com/dollar25k)
 - [shajibsikder](https://github.com/shajibsikder)
+- [hectrhcc](https://github.com/hectrhcc)
 
 ## ⭐ Recent stars
 
