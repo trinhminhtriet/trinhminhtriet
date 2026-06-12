@@ -45,6 +45,9 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [CharlesDerek](https://github.com/CharlesDerek)
+- [patilaka](https://github.com/patilaka)
+- [f0reachARR](https://github.com/f0reachARR)
 - [manvesh1234](https://github.com/manvesh1234)
 - [TopSecretStar](https://github.com/TopSecretStar)
 - [Hackergut](https://github.com/Hackergut)
@@ -52,9 +55,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [paakofiaidoo](https://github.com/paakofiaidoo)
 - [FINEMOTIONS](https://github.com/FINEMOTIONS)
 - [rainykana](https://github.com/rainykana)
-- [haruhihie](https://github.com/haruhihie)
-- [wubly](https://github.com/wubly)
-- [LeeMetaX](https://github.com/LeeMetaX)
 
 ## ⭐ Recent stars
 
