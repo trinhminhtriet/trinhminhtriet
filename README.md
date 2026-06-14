@@ -40,21 +40,21 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [nctl-io/nctl-homepage](https://github.com/nctl-io/nctl-homepage) - 🚀 Modern homepage for NCTL: fast, responsive, TypeScript-powered, open source, and easy to customize. (8 months ago)
 - [nctl-io/nctl-branding](https://github.com/nctl-io/nctl-branding) - NCTL Branding 🖼️: Centralized assets and guidelines for consistent visual identity across NCTL projects and platforms. (8 months ago)
 - [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) - 🚀 All-in-one CLI toolkit for developers: scaffold, manage, automate, and boost productivity across languages! (8 months ago)
-- [lamhaison/aws-cli-utils](https://github.com/lamhaison/aws-cli-utils) - This is the project to collect helpful aws cli commandline with complex options to support your working (8 months ago)
+- [lamhaison/aws-cli-utils](https://github.com/lamhaison/aws-cli-utils) - This is the project to collect helpful aws cli commandline with complex options to support your working (9 months ago)
 - [trinhminhtriet/dwipe](https://github.com/trinhminhtriet/dwipe) - 🧹 Fast, cross-platform disk cleanup tool with interactive UI for easy directory size visualization. (9 months ago)
 
 ## 👯 Check out my recent followers
 
+- [kerryjanes](https://github.com/kerryjanes)
+- [devycyan](https://github.com/devycyan)
+- [blegdor](https://github.com/blegdor)
+- [annaveth](https://github.com/annaveth)
+- [hyuntayo](https://github.com/hyuntayo)
+- [canesterin](https://github.com/canesterin)
 - [lokiwyler](https://github.com/lokiwyler)
 - [jokeyhter](https://github.com/jokeyhter)
 - [frenwinter](https://github.com/frenwinter)
 - [furendyna](https://github.com/furendyna)
-- [ebernuccis](https://github.com/ebernuccis)
-- [CharlesDerek](https://github.com/CharlesDerek)
-- [patilaka](https://github.com/patilaka)
-- [f0reachARR](https://github.com/f0reachARR)
-- [manvesh1234](https://github.com/manvesh1234)
-- [TopSecretStar](https://github.com/TopSecretStar)
 
 ## ⭐ Recent stars
 
