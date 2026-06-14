@@ -45,6 +45,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [youngseo0526](https://github.com/youngseo0526)
 - [kerryjanes](https://github.com/kerryjanes)
 - [devycyan](https://github.com/devycyan)
 - [blegdor](https://github.com/blegdor)
@@ -54,7 +55,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [lokiwyler](https://github.com/lokiwyler)
 - [jokeyhter](https://github.com/jokeyhter)
 - [frenwinter](https://github.com/frenwinter)
-- [furendyna](https://github.com/furendyna)
 
 ## ⭐ Recent stars
 
