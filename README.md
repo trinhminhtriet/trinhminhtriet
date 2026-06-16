@@ -45,6 +45,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [hackermexico](https://github.com/hackermexico)
+- [vijayshikhare](https://github.com/vijayshikhare)
 - [alejaranda](https://github.com/alejaranda)
 - [ITSECT3R](https://github.com/ITSECT3R)
 - [GustavoCereza](https://github.com/GustavoCereza)
@@ -53,8 +55,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [devycyan](https://github.com/devycyan)
 - [blegdor](https://github.com/blegdor)
 - [annaveth](https://github.com/annaveth)
-- [hyuntayo](https://github.com/hyuntayo)
-- [canesterin](https://github.com/canesterin)
 
 ## ⭐ Recent stars
 
