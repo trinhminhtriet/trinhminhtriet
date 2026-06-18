@@ -35,7 +35,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [trinhminhtriet/awesome-job-boards](https://github.com/trinhminhtriet/awesome-job-boards) - 🚀 A curated list of awesome job boards for developers, designers, and tech enthusiasts. Find remote work, freelance gigs, or full-time positions. Contributions welcome!  (2 weeks ago)
 - [trinhminhtriet/gloc](https://github.com/trinhminhtriet/gloc) - 🚀 gloc – A blazing-fast LOC (Lines of Code) counter in Go, inspired by tokei. Simple & efficient! (2 weeks ago)
 - [trinhminhtriet/git-author](https://github.com/trinhminhtriet/git-author) - 🔍 git-author – Identify codebase authorship at a component level, beyond git blame, for better ownership insights. (2 weeks ago)
-- [trinhminhtriet/pingy](https://github.com/trinhminhtriet/pingy) - ⚡ Pingy: A fast, concurrent Rust-based ping tool with real-time updates & visual charts! 📊🚀 (2 weeks ago)
+- [trinhminhtriet/pingy](https://github.com/trinhminhtriet/pingy) - ⚡ Pingy: A fast, concurrent Rust-based ping tool with real-time updates & visual charts! 📊🚀 (3 weeks ago)
 - [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (7 months ago)
 - [nctl-io/nctl-branding](https://github.com/nctl-io/nctl-branding) - NCTL Branding 🖼️: Centralized assets and guidelines for consistent visual identity across NCTL projects and platforms. (8 months ago)
 - [nctl-io/nctl-homepage](https://github.com/nctl-io/nctl-homepage) - 🚀 Modern homepage for NCTL: fast, responsive, TypeScript-powered, open source, and easy to customize. (8 months ago)
@@ -45,6 +45,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [MarkoJovanovic261183](https://github.com/MarkoJovanovic261183)
+- [Michel66](https://github.com/Michel66)
 - [Lebenslaufievs](https://github.com/Lebenslaufievs)
 - [njtsb1](https://github.com/njtsb1)
 - [hackermexico](https://github.com/hackermexico)
@@ -53,8 +55,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [ITSECT3R](https://github.com/ITSECT3R)
 - [GustavoCereza](https://github.com/GustavoCereza)
 - [youngseo0526](https://github.com/youngseo0526)
-- [kerryjanes](https://github.com/kerryjanes)
-- [devycyan](https://github.com/devycyan)
 
 ## ⭐ Recent stars
 
