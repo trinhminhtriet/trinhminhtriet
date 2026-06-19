@@ -45,6 +45,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [white-night-eco-dev](https://github.com/white-night-eco-dev)
 - [Danish-Ahmed24](https://github.com/Danish-Ahmed24)
 - [mimaldoza-a11y](https://github.com/mimaldoza-a11y)
 - [praveen-bhosle](https://github.com/praveen-bhosle)
@@ -54,7 +55,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [njtsb1](https://github.com/njtsb1)
 - [hackermexico](https://github.com/hackermexico)
 - [vijayshikhare](https://github.com/vijayshikhare)
-- [alejaranda](https://github.com/alejaranda)
 
 ## ⭐ Recent stars
 
