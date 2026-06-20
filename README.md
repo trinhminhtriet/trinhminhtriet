@@ -45,6 +45,9 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [FTCHD](https://github.com/FTCHD)
+- [aza-ali](https://github.com/aza-ali)
+- [theDecentDrake](https://github.com/theDecentDrake)
 - [white-night-eco-dev](https://github.com/white-night-eco-dev)
 - [Danish-Ahmed24](https://github.com/Danish-Ahmed24)
 - [mimaldoza-a11y](https://github.com/mimaldoza-a11y)
@@ -52,9 +55,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [MarkoJovanovic261183](https://github.com/MarkoJovanovic261183)
 - [Michel66](https://github.com/Michel66)
 - [Lebenslaufievs](https://github.com/Lebenslaufievs)
-- [njtsb1](https://github.com/njtsb1)
-- [hackermexico](https://github.com/hackermexico)
-- [vijayshikhare](https://github.com/vijayshikhare)
 
 ## ⭐ Recent stars
 
