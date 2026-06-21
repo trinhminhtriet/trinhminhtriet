@@ -45,16 +45,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [varshapanda](https://github.com/varshapanda)
+- [AAbdullahRajput](https://github.com/AAbdullahRajput)
+- [furendyna](https://github.com/furendyna)
+- [frenwinter](https://github.com/frenwinter)
+- [lokiwyler](https://github.com/lokiwyler)
+- [jokeyhter](https://github.com/jokeyhter)
 - [white-night-eco-dev](https://github.com/white-night-eco-dev)
 - [SEVriyuu](https://github.com/SEVriyuu)
 - [jkdevcode](https://github.com/jkdevcode)
 - [harshparekh2](https://github.com/harshparekh2)
-- [estevaosimao](https://github.com/estevaosimao)
-- [TomasCardona07](https://github.com/TomasCardona07)
-- [FTCHD](https://github.com/FTCHD)
-- [aza-ali](https://github.com/aza-ali)
-- [theDecentDrake](https://github.com/theDecentDrake)
-- [Danish-Ahmed24](https://github.com/Danish-Ahmed24)
 
 ## ⭐ Recent stars
 
