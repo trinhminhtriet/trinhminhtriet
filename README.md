@@ -39,22 +39,22 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (7 months ago)
 - [nctl-io/nctl-branding](https://github.com/nctl-io/nctl-branding) - NCTL Branding 🖼️: Centralized assets and guidelines for consistent visual identity across NCTL projects and platforms. (8 months ago)
 - [nctl-io/nctl-homepage](https://github.com/nctl-io/nctl-homepage) - 🚀 Modern homepage for NCTL: fast, responsive, TypeScript-powered, open source, and easy to customize. (8 months ago)
-- [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) - 🚀 All-in-one CLI toolkit for developers: scaffold, manage, automate, and boost productivity across languages! (8 months ago)
+- [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) - 🚀 All-in-one CLI toolkit for developers: scaffold, manage, automate, and boost productivity across languages! (9 months ago)
 - [lamhaison/aws-cli-utils](https://github.com/lamhaison/aws-cli-utils) - This is the project to collect helpful aws cli commandline with complex options to support your working (9 months ago)
 - [trinhminhtriet/dwipe](https://github.com/trinhminhtriet/dwipe) - 🧹 Fast, cross-platform disk cleanup tool with interactive UI for easy directory size visualization. (9 months ago)
 
 ## 👯 Check out my recent followers
 
+- [white-night-eco-dev](https://github.com/white-night-eco-dev)
+- [SEVriyuu](https://github.com/SEVriyuu)
+- [jkdevcode](https://github.com/jkdevcode)
 - [harshparekh2](https://github.com/harshparekh2)
 - [estevaosimao](https://github.com/estevaosimao)
 - [TomasCardona07](https://github.com/TomasCardona07)
 - [FTCHD](https://github.com/FTCHD)
 - [aza-ali](https://github.com/aza-ali)
 - [theDecentDrake](https://github.com/theDecentDrake)
-- [white-night-eco-dev](https://github.com/white-night-eco-dev)
 - [Danish-Ahmed24](https://github.com/Danish-Ahmed24)
-- [mimaldoza-a11y](https://github.com/mimaldoza-a11y)
-- [praveen-bhosle](https://github.com/praveen-bhosle)
 
 ## ⭐ Recent stars
 
