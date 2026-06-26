@@ -45,6 +45,9 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [lomsadze123](https://github.com/lomsadze123)
+- [ohmygodduh](https://github.com/ohmygodduh)
+- [raviwijerathna1](https://github.com/raviwijerathna1)
 - [binarymind-dev](https://github.com/binarymind-dev)
 - [aijazali-sketch](https://github.com/aijazali-sketch)
 - [NadirAliOfficial](https://github.com/NadirAliOfficial)
@@ -52,9 +55,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [ccaptainred](https://github.com/ccaptainred)
 - [qtWillyG](https://github.com/qtWillyG)
 - [Zubeyr19](https://github.com/Zubeyr19)
-- [pwnedroot](https://github.com/pwnedroot)
-- [mirainiki](https://github.com/mirainiki)
-- [kynaderd](https://github.com/kynaderd)
 
 ## ⭐ Recent stars
 
