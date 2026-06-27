@@ -45,6 +45,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [giladfuchs](https://github.com/giladfuchs)
 - [kyal102](https://github.com/kyal102)
 - [lomsadze123](https://github.com/lomsadze123)
 - [ohmygodduh](https://github.com/ohmygodduh)
@@ -54,7 +55,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [NadirAliOfficial](https://github.com/NadirAliOfficial)
 - [armin-panahi](https://github.com/armin-panahi)
 - [ccaptainred](https://github.com/ccaptainred)
-- [qtWillyG](https://github.com/qtWillyG)
 
 ## ⭐ Recent stars
 
