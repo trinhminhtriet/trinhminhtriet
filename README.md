@@ -45,16 +45,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
-- [mrsheraz33](https://github.com/mrsheraz33)
 - [nadir-ali-khan](https://github.com/nadir-ali-khan)
+- [IrshadChanna](https://github.com/IrshadChanna)
+- [HuaCheng-zu](https://github.com/HuaCheng-zu)
+- [mrsheraz33](https://github.com/mrsheraz33)
 - [kaviyapushpa398-sudo](https://github.com/kaviyapushpa398-sudo)
 - [white-night-eco-dev](https://github.com/white-night-eco-dev)
 - [Manisha6284Gupta](https://github.com/Manisha6284Gupta)
 - [jkdevcode](https://github.com/jkdevcode)
 - [madhavgadge01](https://github.com/madhavgadge01)
 - [r97221004](https://github.com/r97221004)
-- [PMTraderAdam](https://github.com/PMTraderAdam)
-- [mcdev7777](https://github.com/mcdev7777)
 
 ## ⭐ Recent stars
 
