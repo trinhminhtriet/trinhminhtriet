@@ -32,8 +32,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👷 Check out what I'm currently working on
 
-- [trinhminhtriet/awesome-job-boards](https://github.com/trinhminhtriet/awesome-job-boards) - 🚀 A curated list of awesome job boards for developers, designers, and tech enthusiasts. Find remote work, freelance gigs, or full-time positions. Contributions welcome!  (4 days ago)
-- [trinhminhtriet/pingy](https://github.com/trinhminhtriet/pingy) - ⚡ Pingy: A fast, concurrent Rust-based ping tool with real-time updates & visual charts! 📊🚀 (6 days ago)
+- [trinhminhtriet/awesome-job-boards](https://github.com/trinhminhtriet/awesome-job-boards) - 🚀 A curated list of awesome job boards for developers, designers, and tech enthusiasts. Find remote work, freelance gigs, or full-time positions. Contributions welcome!  (5 days ago)
+- [trinhminhtriet/pingy](https://github.com/trinhminhtriet/pingy) - ⚡ Pingy: A fast, concurrent Rust-based ping tool with real-time updates & visual charts! 📊🚀 (1 week ago)
 - [trinhminhtriet/gloc](https://github.com/trinhminhtriet/gloc) - 🚀 gloc – A blazing-fast LOC (Lines of Code) counter in Go, inspired by tokei. Simple & efficient! (4 weeks ago)
 - [trinhminhtriet/git-author](https://github.com/trinhminhtriet/git-author) - 🔍 git-author – Identify codebase authorship at a component level, beyond git blame, for better ownership insights. (4 weeks ago)
 - [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (7 months ago)
@@ -45,6 +45,9 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [mrsheraz33](https://github.com/mrsheraz33)
+- [nadir-ali-khan](https://github.com/nadir-ali-khan)
+- [kaviyapushpa398-sudo](https://github.com/kaviyapushpa398-sudo)
 - [white-night-eco-dev](https://github.com/white-night-eco-dev)
 - [Manisha6284Gupta](https://github.com/Manisha6284Gupta)
 - [jkdevcode](https://github.com/jkdevcode)
@@ -52,9 +55,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [r97221004](https://github.com/r97221004)
 - [PMTraderAdam](https://github.com/PMTraderAdam)
 - [mcdev7777](https://github.com/mcdev7777)
-- [Shubh2-0](https://github.com/Shubh2-0)
-- [SherazHaider907](https://github.com/SherazHaider907)
-- [8bitCAP](https://github.com/8bitCAP)
 
 ## ⭐ Recent stars
 
