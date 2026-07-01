@@ -32,10 +32,10 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👷 Check out what I'm currently working on
 
-- [trinhminhtriet/awesome-job-boards](https://github.com/trinhminhtriet/awesome-job-boards) - 🚀 A curated list of awesome job boards for developers, designers, and tech enthusiasts. Find remote work, freelance gigs, or full-time positions. Contributions welcome!  (5 days ago)
+- [trinhminhtriet/awesome-job-boards](https://github.com/trinhminhtriet/awesome-job-boards) - 🚀 A curated list of awesome job boards for developers, designers, and tech enthusiasts. Find remote work, freelance gigs, or full-time positions. Contributions welcome!  (6 days ago)
 - [trinhminhtriet/pingy](https://github.com/trinhminhtriet/pingy) - ⚡ Pingy: A fast, concurrent Rust-based ping tool with real-time updates & visual charts! 📊🚀 (1 week ago)
-- [trinhminhtriet/gloc](https://github.com/trinhminhtriet/gloc) - 🚀 gloc – A blazing-fast LOC (Lines of Code) counter in Go, inspired by tokei. Simple & efficient! (4 weeks ago)
-- [trinhminhtriet/git-author](https://github.com/trinhminhtriet/git-author) - 🔍 git-author – Identify codebase authorship at a component level, beyond git blame, for better ownership insights. (4 weeks ago)
+- [trinhminhtriet/gloc](https://github.com/trinhminhtriet/gloc) - 🚀 gloc – A blazing-fast LOC (Lines of Code) counter in Go, inspired by tokei. Simple & efficient! (1 month ago)
+- [trinhminhtriet/git-author](https://github.com/trinhminhtriet/git-author) - 🔍 git-author – Identify codebase authorship at a component level, beyond git blame, for better ownership insights. (1 month ago)
 - [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (7 months ago)
 - [nctl-io/nctl-branding](https://github.com/nctl-io/nctl-branding) - NCTL Branding 🖼️: Centralized assets and guidelines for consistent visual identity across NCTL projects and platforms. (8 months ago)
 - [nctl-io/nctl-homepage](https://github.com/nctl-io/nctl-homepage) - 🚀 Modern homepage for NCTL: fast, responsive, TypeScript-powered, open source, and easy to customize. (8 months ago)
@@ -45,16 +45,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
-- [nadir-ali-khan](https://github.com/nadir-ali-khan)
-- [IrshadChanna](https://github.com/IrshadChanna)
-- [HuaCheng-zu](https://github.com/HuaCheng-zu)
-- [mrsheraz33](https://github.com/mrsheraz33)
-- [kaviyapushpa398-sudo](https://github.com/kaviyapushpa398-sudo)
-- [white-night-eco-dev](https://github.com/white-night-eco-dev)
-- [Manisha6284Gupta](https://github.com/Manisha6284Gupta)
-- [jkdevcode](https://github.com/jkdevcode)
-- [madhavgadge01](https://github.com/madhavgadge01)
-- [r97221004](https://github.com/r97221004)
+- [DinoNguyen6](https://github.com/DinoNguyen6)
+- [yoshican](https://github.com/yoshican)
+- [glesmyno](https://github.com/glesmyno)
+- [liliyahoa](https://github.com/liliyahoa)
+- [dokejaker](https://github.com/dokejaker)
+- [uwuncyan](https://github.com/uwuncyan)
+- [arkobyne](https://github.com/arkobyne)
+- [neuslobe](https://github.com/neuslobe)
+- [nerihamura](https://github.com/nerihamura)
+- [yunawyner](https://github.com/yunawyner)
 
 ## ⭐ Recent stars
 
