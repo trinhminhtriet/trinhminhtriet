@@ -45,6 +45,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [tronful](https://github.com/tronful)
 - [hidankimi](https://github.com/hidankimi)
 - [DinoNguyen6](https://github.com/DinoNguyen6)
 - [yoshican](https://github.com/yoshican)
@@ -54,7 +55,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [uwuncyan](https://github.com/uwuncyan)
 - [arkobyne](https://github.com/arkobyne)
 - [neuslobe](https://github.com/neuslobe)
-- [nerihamura](https://github.com/nerihamura)
 
 ## ⭐ Recent stars
 
