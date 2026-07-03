@@ -45,6 +45,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [siamlabs](https://github.com/siamlabs)
+- [rajendragokhale18](https://github.com/rajendragokhale18)
 - [tronful](https://github.com/tronful)
 - [hidankimi](https://github.com/hidankimi)
 - [DinoNguyen6](https://github.com/DinoNguyen6)
@@ -53,8 +55,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [liliyahoa](https://github.com/liliyahoa)
 - [dokejaker](https://github.com/dokejaker)
 - [uwuncyan](https://github.com/uwuncyan)
-- [arkobyne](https://github.com/arkobyne)
-- [neuslobe](https://github.com/neuslobe)
 
 ## ⭐ Recent stars
 
