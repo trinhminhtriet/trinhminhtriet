@@ -45,16 +45,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
-- [rasidi3112](https://github.com/rasidi3112)
+- [holylance98](https://github.com/holylance98)
+- [masudranaph1](https://github.com/masudranaph1)
+- [lovelydev0309](https://github.com/lovelydev0309)
+- [Kangnagupta](https://github.com/Kangnagupta)
 - [ByteBunny777](https://github.com/ByteBunny777)
 - [yashdotin](https://github.com/yashdotin)
 - [inferioritievcomplex](https://github.com/inferioritievcomplex)
 - [siamlabs](https://github.com/siamlabs)
 - [rajendragokhale18](https://github.com/rajendragokhale18)
 - [tronful](https://github.com/tronful)
-- [hidankimi](https://github.com/hidankimi)
-- [DinoNguyen6](https://github.com/DinoNguyen6)
-- [yoshican](https://github.com/yoshican)
 
 ## ⭐ Recent stars
 
