@@ -45,6 +45,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [mikonyaa](https://github.com/mikonyaa)
+- [Sif247](https://github.com/Sif247)
 - [mahimarawat0707](https://github.com/mahimarawat0707)
 - [pranavgawasproject](https://github.com/pranavgawasproject)
 - [Yad4o](https://github.com/Yad4o)
@@ -53,8 +55,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [volasoarv](https://github.com/volasoarv)
 - [mc-bushpig](https://github.com/mc-bushpig)
 - [MuhammadRafay7](https://github.com/MuhammadRafay7)
-- [holylance98](https://github.com/holylance98)
-- [masudranaph1](https://github.com/masudranaph1)
 
 ## ⭐ Recent stars
 
