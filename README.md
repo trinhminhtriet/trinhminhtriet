@@ -53,7 +53,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [mahimarawat0707](https://github.com/mahimarawat0707)
 - [pranavgawasproject](https://github.com/pranavgawasproject)
 - [Yad4o](https://github.com/Yad4o)
-- [PONY-KUDO](https://github.com/PONY-KUDO)
+- [Xx-YAOITRON9000xX](https://github.com/Xx-YAOITRON9000xX)
 - [ponytown-confessions](https://github.com/ponytown-confessions)
 
 ## ⭐ Recent stars
