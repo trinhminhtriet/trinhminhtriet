@@ -45,6 +45,9 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [gavdevs](https://github.com/gavdevs)
+- [guevaraStian](https://github.com/guevaraStian)
+- [luiijoquiroz](https://github.com/luiijoquiroz)
 - [mikonyaa](https://github.com/mikonyaa)
 - [Sif247](https://github.com/Sif247)
 - [mahimarawat0707](https://github.com/mahimarawat0707)
@@ -52,9 +55,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Yad4o](https://github.com/Yad4o)
 - [PONY-KUDO](https://github.com/PONY-KUDO)
 - [ponytown-confessions](https://github.com/ponytown-confessions)
-- [volasoarv](https://github.com/volasoarv)
-- [mc-bushpig](https://github.com/mc-bushpig)
-- [MuhammadRafay7](https://github.com/MuhammadRafay7)
 
 ## ⭐ Recent stars
 
