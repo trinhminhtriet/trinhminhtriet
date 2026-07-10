@@ -45,6 +45,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [gaelfernandez](https://github.com/gaelfernandez)
 - [Dani-8](https://github.com/Dani-8)
 - [RaccoonFacts](https://github.com/RaccoonFacts)
 - [LambertArm](https://github.com/LambertArm)
@@ -54,7 +55,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [mikonyaa](https://github.com/mikonyaa)
 - [Sif247](https://github.com/Sif247)
 - [mahimarawat0707](https://github.com/mahimarawat0707)
-- [pranavgawasproject](https://github.com/pranavgawasproject)
 
 ## ⭐ Recent stars
 
