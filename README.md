@@ -45,7 +45,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
-- [yashdotin](https://github.com/yashdotin)
 - [waelodeh98](https://github.com/waelodeh98)
 - [quantferox](https://github.com/quantferox)
 - [kidde60](https://github.com/kidde60)
@@ -55,6 +54,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [RaccoonFacts](https://github.com/RaccoonFacts)
 - [LambertArm](https://github.com/LambertArm)
 - [gavdevs](https://github.com/gavdevs)
+- [guevaraStian](https://github.com/guevaraStian)
 
 ## ⭐ Recent stars
 
