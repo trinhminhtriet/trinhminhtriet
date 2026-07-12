@@ -45,8 +45,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
-- [waelodeh98](https://github.com/waelodeh98)
 - [quantferox](https://github.com/quantferox)
+- [waelodeh98](https://github.com/waelodeh98)
 - [kidde60](https://github.com/kidde60)
 - [infinityabundance](https://github.com/infinityabundance)
 - [gaelfernandez](https://github.com/gaelfernandez)
