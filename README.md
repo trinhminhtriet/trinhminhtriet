@@ -34,8 +34,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 - [trinhminhtriet/awesome-job-boards](https://github.com/trinhminhtriet/awesome-job-boards) - 🚀 A curated list of awesome job boards for developers, designers, and tech enthusiasts. Find remote work, freelance gigs, or full-time positions. Contributions welcome!  (2 weeks ago)
 - [trinhminhtriet/pingy](https://github.com/trinhminhtriet/pingy) - ⚡ Pingy: A fast, concurrent Rust-based ping tool with real-time updates & visual charts! 📊🚀 (2 weeks ago)
-- [trinhminhtriet/gloc](https://github.com/trinhminhtriet/gloc) - 🚀 gloc – A blazing-fast LOC (Lines of Code) counter in Go, inspired by tokei. Simple & efficient! (1 month ago)
 - [trinhminhtriet/git-author](https://github.com/trinhminhtriet/git-author) - 🔍 git-author – Identify codebase authorship at a component level, beyond git blame, for better ownership insights. (1 month ago)
+- [trinhminhtriet/gloc](https://github.com/trinhminhtriet/gloc) - 🚀 gloc – A blazing-fast LOC (Lines of Code) counter in Go, inspired by tokei. Simple & efficient! (1 month ago)
 - [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (8 months ago)
 - [nctl-io/nctl-branding](https://github.com/nctl-io/nctl-branding) - NCTL Branding 🖼️: Centralized assets and guidelines for consistent visual identity across NCTL projects and platforms. (9 months ago)
 - [nctl-io/nctl-homepage](https://github.com/nctl-io/nctl-homepage) - 🚀 Modern homepage for NCTL: fast, responsive, TypeScript-powered, open source, and easy to customize. (9 months ago)
@@ -45,16 +45,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [ns0416](https://github.com/ns0416)
+- [Erfandarzi](https://github.com/Erfandarzi)
+- [rkdahgus12](https://github.com/rkdahgus12)
+- [CLOUDWERX-DEV](https://github.com/CLOUDWERX-DEV)
+- [emanuelVINI01](https://github.com/emanuelVINI01)
 - [architect-system](https://github.com/architect-system)
 - [pawn1023](https://github.com/pawn1023)
 - [quantferox](https://github.com/quantferox)
 - [waelodeh98](https://github.com/waelodeh98)
 - [kidde60](https://github.com/kidde60)
-- [infinityabundance](https://github.com/infinityabundance)
-- [gaelfernandez](https://github.com/gaelfernandez)
-- [Dani-8](https://github.com/Dani-8)
-- [RaccoonFacts](https://github.com/RaccoonFacts)
-- [LambertArm](https://github.com/LambertArm)
 
 ## ⭐ Recent stars
 
