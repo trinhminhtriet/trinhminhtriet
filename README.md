@@ -45,8 +45,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [namenotavilable](https://github.com/namenotavilable)
 - [ns0416](https://github.com/ns0416)
-- [Erfandarzi](https://github.com/Erfandarzi)
 - [rkdahgus12](https://github.com/rkdahgus12)
 - [CLOUDWERX-DEV](https://github.com/CLOUDWERX-DEV)
 - [emanuelVINI01](https://github.com/emanuelVINI01)
