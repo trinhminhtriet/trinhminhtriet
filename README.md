@@ -45,6 +45,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [wowred60-ui](https://github.com/wowred60-ui)
 - [belomaxorka](https://github.com/belomaxorka)
 - [gapolli](https://github.com/gapolli)
 - [namenotavilable](https://github.com/namenotavilable)
@@ -54,7 +55,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [emanuelVINI01](https://github.com/emanuelVINI01)
 - [architect-system](https://github.com/architect-system)
 - [pawn1023](https://github.com/pawn1023)
-- [quantferox](https://github.com/quantferox)
 
 ## ⭐ Recent stars
 
