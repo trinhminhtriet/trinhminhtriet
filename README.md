@@ -45,6 +45,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Hossein-001](https://github.com/Hossein-001)
 - [Manan-Santoki](https://github.com/Manan-Santoki)
 - [bconder11-ai](https://github.com/bconder11-ai)
 - [quantferox](https://github.com/quantferox)
@@ -54,7 +55,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [belomaxorka](https://github.com/belomaxorka)
 - [gapolli](https://github.com/gapolli)
 - [namenotavilable](https://github.com/namenotavilable)
-- [ns0416](https://github.com/ns0416)
 
 ## ⭐ Recent stars
 
