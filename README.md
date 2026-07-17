@@ -45,6 +45,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [hlygrace](https://github.com/hlygrace)
 - [AuroraSpamAccount](https://github.com/AuroraSpamAccount)
 - [8bitCAP](https://github.com/8bitCAP)
 - [BhagwaniVishi](https://github.com/BhagwaniVishi)
@@ -54,7 +55,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [bconder11-ai](https://github.com/bconder11-ai)
 - [quantferox](https://github.com/quantferox)
 - [jineshkjose](https://github.com/jineshkjose)
-- [arslanranamuhammad59-del](https://github.com/arslanranamuhammad59-del)
 
 ## ⭐ Recent stars
 
