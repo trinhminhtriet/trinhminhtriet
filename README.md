@@ -45,6 +45,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [AnkitSaini491](https://github.com/AnkitSaini491)
 - [NachoOFC](https://github.com/NachoOFC)
 - [hlygrace](https://github.com/hlygrace)
 - [AuroraSpamAccount](https://github.com/AuroraSpamAccount)
@@ -54,7 +55,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Hossein-001](https://github.com/Hossein-001)
 - [Manan-Santoki](https://github.com/Manan-Santoki)
 - [bconder11-ai](https://github.com/bconder11-ai)
-- [quantferox](https://github.com/quantferox)
 
 ## ⭐ Recent stars
 
