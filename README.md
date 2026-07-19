@@ -45,6 +45,9 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Akarshjha03](https://github.com/Akarshjha03)
+- [Erfandarzi](https://github.com/Erfandarzi)
+- [Senthil455](https://github.com/Senthil455)
 - [supervnova](https://github.com/supervnova)
 - [Number1BartholomewHater](https://github.com/Number1BartholomewHater)
 - [AnkitSaini491](https://github.com/AnkitSaini491)
@@ -52,9 +55,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [hlygrace](https://github.com/hlygrace)
 - [AuroraSpamAccount](https://github.com/AuroraSpamAccount)
 - [BhagwaniVishi](https://github.com/BhagwaniVishi)
-- [mcox79207-lang](https://github.com/mcox79207-lang)
-- [Hossein-001](https://github.com/Hossein-001)
-- [Manan-Santoki](https://github.com/Manan-Santoki)
 
 ## ⭐ Recent stars
 
