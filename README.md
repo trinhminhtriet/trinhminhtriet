@@ -45,6 +45,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [haywardgg](https://github.com/haywardgg)
+- [Shubh2-0](https://github.com/Shubh2-0)
 - [kechape](https://github.com/kechape)
 - [aza-ali](https://github.com/aza-ali)
 - [xcontcom](https://github.com/xcontcom)
@@ -53,8 +55,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [raptr45](https://github.com/raptr45)
 - [Akarshjha03](https://github.com/Akarshjha03)
 - [Senthil455](https://github.com/Senthil455)
-- [supervnova](https://github.com/supervnova)
-- [partypoob](https://github.com/partypoob)
 
 ## ⭐ Recent stars
 
