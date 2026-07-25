@@ -45,6 +45,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [LxckyChxrm](https://github.com/LxckyChxrm)
+- [richardsilas099-blip](https://github.com/richardsilas099-blip)
 - [quantferox](https://github.com/quantferox)
 - [allen-ray-dev](https://github.com/allen-ray-dev)
 - [haviad](https://github.com/haviad)
@@ -53,8 +55,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [deepfates](https://github.com/deepfates)
 - [haywardgg](https://github.com/haywardgg)
 - [Shubh2-0](https://github.com/Shubh2-0)
-- [kechape](https://github.com/kechape)
-- [aza-ali](https://github.com/aza-ali)
 
 ## ⭐ Recent stars
 
