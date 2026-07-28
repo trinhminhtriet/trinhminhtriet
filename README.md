@@ -45,8 +45,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Erfandarzi](https://github.com/Erfandarzi)
 - [sarveshsea](https://github.com/sarveshsea)
-- [sauerfriedrich](https://github.com/sauerfriedrich)
 - [michael-abdo](https://github.com/michael-abdo)
 - [averywinston](https://github.com/averywinston)
 - [heisallaki](https://github.com/heisallaki)
