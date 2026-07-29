@@ -45,6 +45,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Erfandarzi](https://github.com/Erfandarzi)
+- [zoxilsi](https://github.com/zoxilsi)
 - [diegofervel](https://github.com/diegofervel)
 - [inolog](https://github.com/inolog)
 - [Andrzej43](https://github.com/Andrzej43)
@@ -53,8 +55,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [sarveshsea](https://github.com/sarveshsea)
 - [michael-abdo](https://github.com/michael-abdo)
 - [averywinston](https://github.com/averywinston)
-- [heisallaki](https://github.com/heisallaki)
-- [KOKlCHIOMA](https://github.com/KOKlCHIOMA)
 
 ## ⭐ Recent stars
 
