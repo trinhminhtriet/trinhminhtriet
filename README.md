@@ -45,16 +45,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [ldanblessup-ops](https://github.com/ldanblessup-ops)
+- [chidijoe84](https://github.com/chidijoe84)
+- [aza-ali](https://github.com/aza-ali)
+- [yonana-sahile](https://github.com/yonana-sahile)
+- [AhmadJeddi](https://github.com/AhmadJeddi)
 - [xcontcom](https://github.com/xcontcom)
 - [zoxilsi](https://github.com/zoxilsi)
 - [diegofervel](https://github.com/diegofervel)
 - [inolog](https://github.com/inolog)
 - [Andrzej43](https://github.com/Andrzej43)
-- [splincode](https://github.com/splincode)
-- [ellyxei](https://github.com/ellyxei)
-- [sarveshsea](https://github.com/sarveshsea)
-- [michael-abdo](https://github.com/michael-abdo)
-- [averywinston](https://github.com/averywinston)
 
 ## ⭐ Recent stars
 
