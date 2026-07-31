@@ -45,6 +45,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [nglimoj87](https://github.com/nglimoj87)
+- [ravishiomari-pixel](https://github.com/ravishiomari-pixel)
 - [ldanblessup-ops](https://github.com/ldanblessup-ops)
 - [chidijoe84](https://github.com/chidijoe84)
 - [aza-ali](https://github.com/aza-ali)
@@ -53,8 +55,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [xcontcom](https://github.com/xcontcom)
 - [zoxilsi](https://github.com/zoxilsi)
 - [diegofervel](https://github.com/diegofervel)
-- [inolog](https://github.com/inolog)
-- [Andrzej43](https://github.com/Andrzej43)
 
 ## ⭐ Recent stars
 
