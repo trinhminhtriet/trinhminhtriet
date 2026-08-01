@@ -45,6 +45,9 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [EimanTahir027](https://github.com/EimanTahir027)
+- [exmacxhinanetwork](https://github.com/exmacxhinanetwork)
+- [Sumersingpatil2694](https://github.com/Sumersingpatil2694)
 - [rich-iannone](https://github.com/rich-iannone)
 - [pawfuee](https://github.com/pawfuee)
 - [cryptoku39](https://github.com/cryptoku39)
@@ -52,9 +55,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [nglimoj87](https://github.com/nglimoj87)
 - [ravishiomari-pixel](https://github.com/ravishiomari-pixel)
 - [ldanblessup-ops](https://github.com/ldanblessup-ops)
-- [chidijoe84](https://github.com/chidijoe84)
-- [aza-ali](https://github.com/aza-ali)
-- [yonana-sahile](https://github.com/yonana-sahile)
 
 ## ⭐ Recent stars
 
