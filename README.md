@@ -45,6 +45,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Erfandarzi](https://github.com/Erfandarzi)
 - [happy-twogether](https://github.com/happy-twogether)
 - [nglimoj87](https://github.com/nglimoj87)
 - [Ali-hey-0](https://github.com/Ali-hey-0)
@@ -54,7 +55,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Sumersingpatil2694](https://github.com/Sumersingpatil2694)
 - [rich-iannone](https://github.com/rich-iannone)
 - [pawfuee](https://github.com/pawfuee)
-- [cryptoku39](https://github.com/cryptoku39)
 
 ## ⭐ Recent stars
 
