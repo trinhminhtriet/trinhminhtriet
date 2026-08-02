@@ -45,16 +45,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [happy-twogether](https://github.com/happy-twogether)
+- [nglimoj87](https://github.com/nglimoj87)
+- [Ali-hey-0](https://github.com/Ali-hey-0)
+- [nouman-zaib](https://github.com/nouman-zaib)
 - [EimanTahir027](https://github.com/EimanTahir027)
 - [exmacxhinanetwork](https://github.com/exmacxhinanetwork)
 - [Sumersingpatil2694](https://github.com/Sumersingpatil2694)
 - [rich-iannone](https://github.com/rich-iannone)
 - [pawfuee](https://github.com/pawfuee)
 - [cryptoku39](https://github.com/cryptoku39)
-- [jayamurka](https://github.com/jayamurka)
-- [nglimoj87](https://github.com/nglimoj87)
-- [ravishiomari-pixel](https://github.com/ravishiomari-pixel)
-- [ldanblessup-ops](https://github.com/ldanblessup-ops)
 
 ## ⭐ Recent stars
 
