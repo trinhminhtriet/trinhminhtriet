@@ -45,16 +45,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
-- [Erfandarzi](https://github.com/Erfandarzi)
+- [RichardHtunn](https://github.com/RichardHtunn)
+- [bunnypixels-com](https://github.com/bunnypixels-com)
+- [ResearchForumOnline](https://github.com/ResearchForumOnline)
+- [Mattral](https://github.com/Mattral)
 - [happy-twogether](https://github.com/happy-twogether)
 - [nglimoj87](https://github.com/nglimoj87)
 - [Ali-hey-0](https://github.com/Ali-hey-0)
 - [nouman-zaib](https://github.com/nouman-zaib)
 - [EimanTahir027](https://github.com/EimanTahir027)
 - [exmacxhinanetwork](https://github.com/exmacxhinanetwork)
-- [Sumersingpatil2694](https://github.com/Sumersingpatil2694)
-- [rich-iannone](https://github.com/rich-iannone)
-- [pawfuee](https://github.com/pawfuee)
 
 ## ⭐ Recent stars
 
