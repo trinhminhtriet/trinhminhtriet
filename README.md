@@ -45,6 +45,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [couple-town](https://github.com/couple-town)
+- [Erfandarzi](https://github.com/Erfandarzi)
 - [harrietbrooke](https://github.com/harrietbrooke)
 - [alishamari](https://github.com/alishamari)
 - [sanjanvandijk](https://github.com/sanjanvandijk)
@@ -52,9 +54,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [harukujo227](https://github.com/harukujo227)
 - [aLe3ouLa](https://github.com/aLe3ouLa)
 - [RichardHtunn](https://github.com/RichardHtunn)
-- [bunnypixels-com](https://github.com/bunnypixels-com)
 - [ResearchForumOnline](https://github.com/ResearchForumOnline)
-- [Mattral](https://github.com/Mattral)
 
 ## ⭐ Recent stars
 
