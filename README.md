@@ -45,6 +45,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Prithiv04](https://github.com/Prithiv04)
 - [123paynow](https://github.com/123paynow)
 - [couple-town](https://github.com/couple-town)
 - [harrietbrooke](https://github.com/harrietbrooke)
@@ -54,7 +55,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [harukujo227](https://github.com/harukujo227)
 - [aLe3ouLa](https://github.com/aLe3ouLa)
 - [RichardHtunn](https://github.com/RichardHtunn)
-- [ResearchForumOnline](https://github.com/ResearchForumOnline)
 
 ## ⭐ Recent stars
 
