@@ -45,8 +45,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [123paynow](https://github.com/123paynow)
 - [couple-town](https://github.com/couple-town)
-- [Erfandarzi](https://github.com/Erfandarzi)
 - [harrietbrooke](https://github.com/harrietbrooke)
 - [alishamari](https://github.com/alishamari)
 - [sanjanvandijk](https://github.com/sanjanvandijk)
