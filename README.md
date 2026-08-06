@@ -45,6 +45,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [cyanile](https://github.com/cyanile)
 - [rafaelbmateus](https://github.com/rafaelbmateus)
 - [cchongming](https://github.com/cchongming)
 - [Prithiv04](https://github.com/Prithiv04)
@@ -54,7 +55,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [alishamari](https://github.com/alishamari)
 - [sanjanvandijk](https://github.com/sanjanvandijk)
 - [miteshtrivedi10](https://github.com/miteshtrivedi10)
-- [harukujo227](https://github.com/harukujo227)
 
 ## ⭐ Recent stars
 
