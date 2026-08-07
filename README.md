@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 ## 👯 Check out my recent followers
 
 - [rasidi3112](https://github.com/rasidi3112)
+- [DanHouseman](https://github.com/DanHouseman)
 - [Shubh2-0](https://github.com/Shubh2-0)
 - [xcontcom](https://github.com/xcontcom)
 - [cyanile](https://github.com/cyanile)
@@ -54,7 +55,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Prithiv04](https://github.com/Prithiv04)
 - [123paynow](https://github.com/123paynow)
 - [couple-town](https://github.com/couple-town)
-- [harrietbrooke](https://github.com/harrietbrooke)
 
 ## ⭐ Recent stars
 
