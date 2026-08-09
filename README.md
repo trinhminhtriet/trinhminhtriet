@@ -45,6 +45,9 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [jay1466](https://github.com/jay1466)
+- [rastabrane](https://github.com/rastabrane)
+- [kristenalexa96-cmyk](https://github.com/kristenalexa96-cmyk)
 - [KoleCheckley](https://github.com/KoleCheckley)
 - [kohzhenjie](https://github.com/kohzhenjie)
 - [ksarith](https://github.com/ksarith)
@@ -52,9 +55,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Nk23dg](https://github.com/Nk23dg)
 - [TUARAN](https://github.com/TUARAN)
 - [samarthjtm](https://github.com/samarthjtm)
-- [DanHouseman](https://github.com/DanHouseman)
-- [Shubh2-0](https://github.com/Shubh2-0)
-- [xcontcom](https://github.com/xcontcom)
 
 ## ⭐ Recent stars
 
