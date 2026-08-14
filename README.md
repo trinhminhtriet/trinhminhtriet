@@ -45,16 +45,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [medincer](https://github.com/medincer)
+- [MHarisRaees](https://github.com/MHarisRaees)
+- [njtsb1](https://github.com/njtsb1)
+- [jhackon2024-codes](https://github.com/jhackon2024-codes)
 - [Nisyalz01](https://github.com/Nisyalz01)
 - [azkaabds](https://github.com/azkaabds)
 - [0xautohub](https://github.com/0xautohub)
 - [venxii](https://github.com/venxii)
 - [asmamuk99-prog](https://github.com/asmamuk99-prog)
 - [MatondoFilipe01](https://github.com/MatondoFilipe01)
-- [maendooh](https://github.com/maendooh)
-- [The-Telamon](https://github.com/The-Telamon)
-- [ElvinHasanov3d](https://github.com/ElvinHasanov3d)
-- [RashidSaeedAlMazrouei18](https://github.com/RashidSaeedAlMazrouei18)
 
 ## ⭐ Recent stars
 
