@@ -45,16 +45,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
-- [medincer](https://github.com/medincer)
-- [MHarisRaees](https://github.com/MHarisRaees)
-- [njtsb1](https://github.com/njtsb1)
-- [jhackon2024-codes](https://github.com/jhackon2024-codes)
-- [Nisyalz01](https://github.com/Nisyalz01)
-- [azkaabds](https://github.com/azkaabds)
-- [0xautohub](https://github.com/0xautohub)
-- [venxii](https://github.com/venxii)
-- [asmamuk99-prog](https://github.com/asmamuk99-prog)
-- [MatondoFilipe01](https://github.com/MatondoFilipe01)
+- [rasidi3112](https://github.com/rasidi3112)
+- [nordestediego](https://github.com/nordestediego)
+- [cambot86](https://github.com/cambot86)
+- [dweatherston11](https://github.com/dweatherston11)
+- [laloloco89](https://github.com/laloloco89)
+- [Endo1933](https://github.com/Endo1933)
+- [furkan012](https://github.com/furkan012)
+- [boomray](https://github.com/boomray)
+- [Sanghyun-0h](https://github.com/Sanghyun-0h)
+- [juandjesus20009](https://github.com/juandjesus20009)
 
 ## ⭐ Recent stars
 
