@@ -45,20 +45,20 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
-- [rasidi3112](https://github.com/rasidi3112)
+- [milsaware](https://github.com/milsaware)
+- [cayasde](https://github.com/cayasde)
+- [jameswang1010](https://github.com/jameswang1010)
+- [aghatechz](https://github.com/aghatechz)
+- [saravananbass12-tech](https://github.com/saravananbass12-tech)
+- [Yuri-Akishiho](https://github.com/Yuri-Akishiho)
+- [missionary5](https://github.com/missionary5)
 - [nordestediego](https://github.com/nordestediego)
 - [cambot86](https://github.com/cambot86)
 - [dweatherston11](https://github.com/dweatherston11)
-- [laloloco89](https://github.com/laloloco89)
-- [Endo1933](https://github.com/Endo1933)
-- [furkan012](https://github.com/furkan012)
-- [boomray](https://github.com/boomray)
-- [Sanghyun-0h](https://github.com/Sanghyun-0h)
-- [juandjesus20009](https://github.com/juandjesus20009)
 
 ## ⭐ Recent stars
 
-- [luubinhan/dev-proxy](https://github.com/luubinhan/dev-proxy) (7 months ago)
+- [luubinhan/dev-proxy](https://github.com/luubinhan/dev-proxy) (8 months ago)
 - [Aiano/FOC](https://github.com/Aiano/FOC) - A BLDC motor driver using FOC algorithm. (9 months ago)
 - [RollingGecko/VescUartControl](https://github.com/RollingGecko/VescUartControl) - Arduino library to interface with the VESC bldc over UART. (9 months ago)
 - [pekkaroi/bldc-drive](https://github.com/pekkaroi/bldc-drive) - Cheap and simple brushless DC motor driver designed for CNC applications using STM32 microcontroller (9 months ago)
