@@ -45,6 +45,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [aza-ali](https://github.com/aza-ali)
+- [peerachulaphiphop1996-hub](https://github.com/peerachulaphiphop1996-hub)
 - [milsaware](https://github.com/milsaware)
 - [cayasde](https://github.com/cayasde)
 - [jameswang1010](https://github.com/jameswang1010)
@@ -53,8 +55,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Yuri-Akishiho](https://github.com/Yuri-Akishiho)
 - [missionary5](https://github.com/missionary5)
 - [nordestediego](https://github.com/nordestediego)
-- [cambot86](https://github.com/cambot86)
-- [dweatherston11](https://github.com/dweatherston11)
 
 ## ⭐ Recent stars
 
