@@ -45,6 +45,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [holilayet](https://github.com/holilayet)
 - [aza-ali](https://github.com/aza-ali)
 - [peerachulaphiphop1996-hub](https://github.com/peerachulaphiphop1996-hub)
 - [milsaware](https://github.com/milsaware)
@@ -54,7 +55,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [saravananbass12-tech](https://github.com/saravananbass12-tech)
 - [Yuri-Akishiho](https://github.com/Yuri-Akishiho)
 - [missionary5](https://github.com/missionary5)
-- [nordestediego](https://github.com/nordestediego)
 
 ## ⭐ Recent stars
 
