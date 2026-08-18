@@ -45,6 +45,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [fatimatanveer956-gif](https://github.com/fatimatanveer956-gif)
+- [1t1sCooL](https://github.com/1t1sCooL)
 - [jojoamanie](https://github.com/jojoamanie)
 - [tensortech-ai](https://github.com/tensortech-ai)
 - [journaltraces](https://github.com/journaltraces)
@@ -53,8 +55,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [peerachulaphiphop1996-hub](https://github.com/peerachulaphiphop1996-hub)
 - [milsaware](https://github.com/milsaware)
 - [cayasde](https://github.com/cayasde)
-- [jameswang1010](https://github.com/jameswang1010)
-- [aghatechz](https://github.com/aghatechz)
 
 ## ⭐ Recent stars
 
