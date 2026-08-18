@@ -45,6 +45,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [jojoamanie](https://github.com/jojoamanie)
 - [tensortech-ai](https://github.com/tensortech-ai)
 - [journaltraces](https://github.com/journaltraces)
 - [holilayet](https://github.com/holilayet)
@@ -54,7 +55,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [cayasde](https://github.com/cayasde)
 - [jameswang1010](https://github.com/jameswang1010)
 - [aghatechz](https://github.com/aghatechz)
-- [saravananbass12-tech](https://github.com/saravananbass12-tech)
 
 ## ⭐ Recent stars
 
