@@ -45,7 +45,9 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
-- [Erfandarzi](https://github.com/Erfandarzi)
+- [Shifrozy](https://github.com/Shifrozy)
+- [rasidi3112](https://github.com/rasidi3112)
+- [drydenmitchell](https://github.com/drydenmitchell)
 - [ragibalasad](https://github.com/ragibalasad)
 - [iam1shel](https://github.com/iam1shel)
 - [iamgauravchhajer](https://github.com/iamgauravchhajer)
@@ -53,8 +55,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [1t1sCooL](https://github.com/1t1sCooL)
 - [jojoamanie](https://github.com/jojoamanie)
 - [tensortech-ai](https://github.com/tensortech-ai)
-- [journaltraces](https://github.com/journaltraces)
-- [holilayet](https://github.com/holilayet)
 
 ## ⭐ Recent stars
 
