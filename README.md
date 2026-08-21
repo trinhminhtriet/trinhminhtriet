@@ -45,9 +45,9 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [AAbdullahRajput](https://github.com/AAbdullahRajput)
 - [natedemoss](https://github.com/natedemoss)
 - [basaranbabur](https://github.com/basaranbabur)
-- [kgnio](https://github.com/kgnio)
 - [Erfandarzi](https://github.com/Erfandarzi)
 - [MLewickiy](https://github.com/MLewickiy)
 - [Shifrozy](https://github.com/Shifrozy)
