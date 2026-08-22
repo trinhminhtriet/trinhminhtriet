@@ -45,8 +45,9 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Erfandarzi](https://github.com/Erfandarzi)
+- [Surjeet-Singh1](https://github.com/Surjeet-Singh1)
 - [ashleyotooligan](https://github.com/ashleyotooligan)
-- [AAbdullahRajput](https://github.com/AAbdullahRajput)
 - [natedemoss](https://github.com/natedemoss)
 - [basaranbabur](https://github.com/basaranbabur)
 - [MLewickiy](https://github.com/MLewickiy)
@@ -54,7 +55,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [drydenmitchell](https://github.com/drydenmitchell)
 - [ragibalasad](https://github.com/ragibalasad)
 - [iam1shel](https://github.com/iam1shel)
-- [iamgauravchhajer](https://github.com/iamgauravchhajer)
 
 ## ⭐ Recent stars
 
