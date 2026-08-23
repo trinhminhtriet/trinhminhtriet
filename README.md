@@ -51,10 +51,10 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [ashleyotooligan](https://github.com/ashleyotooligan)
 - [natedemoss](https://github.com/natedemoss)
 - [basaranbabur](https://github.com/basaranbabur)
-- [MLewickiy](https://github.com/MLewickiy)
 - [Shifrozy](https://github.com/Shifrozy)
 - [drydenmitchell](https://github.com/drydenmitchell)
 - [ragibalasad](https://github.com/ragibalasad)
+- [iam1shel](https://github.com/iam1shel)
 
 ## ⭐ Recent stars
 
