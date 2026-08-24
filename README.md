@@ -45,16 +45,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
-- [Erfandarzi](https://github.com/Erfandarzi)
+- [martian56](https://github.com/martian56)
+- [LeonVernard](https://github.com/LeonVernard)
+- [fly233338](https://github.com/fly233338)
+- [codeyevsky](https://github.com/codeyevsky)
+- [Shubh2-0](https://github.com/Shubh2-0)
+- [procerezo](https://github.com/procerezo)
 - [rahadbhuiya](https://github.com/rahadbhuiya)
 - [nithingoud78](https://github.com/nithingoud78)
 - [SLX1CE](https://github.com/SLX1CE)
 - [erick-lara](https://github.com/erick-lara)
-- [Vikas9892](https://github.com/Vikas9892)
-- [Surjeet-Singh1](https://github.com/Surjeet-Singh1)
-- [ashleyotooligan](https://github.com/ashleyotooligan)
-- [natedemoss](https://github.com/natedemoss)
-- [basaranbabur](https://github.com/basaranbabur)
 
 ## ⭐ Recent stars
 
