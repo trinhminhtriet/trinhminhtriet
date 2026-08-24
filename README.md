@@ -32,8 +32,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👷 Check out what I'm currently working on
 
-- [trinhminhtriet/pingy](https://github.com/trinhminhtriet/pingy) - ⚡ Pingy: A fast, concurrent Rust-based ping tool with real-time updates & visual charts! 📊🚀 (3 days ago)
-- [trinhminhtriet/awesome-job-boards](https://github.com/trinhminhtriet/awesome-job-boards) - 🚀 A curated list of awesome job boards for developers, designers, and tech enthusiasts. Find remote work, freelance gigs, or full-time positions. Contributions welcome!  (3 days ago)
+- [trinhminhtriet/pingy](https://github.com/trinhminhtriet/pingy) - ⚡ Pingy: A fast, concurrent Rust-based ping tool with real-time updates & visual charts! 📊🚀 (4 days ago)
+- [trinhminhtriet/awesome-job-boards](https://github.com/trinhminhtriet/awesome-job-boards) - 🚀 A curated list of awesome job boards for developers, designers, and tech enthusiasts. Find remote work, freelance gigs, or full-time positions. Contributions welcome!  (4 days ago)
 - [trinhminhtriet/git-author](https://github.com/trinhminhtriet/git-author) - 🔍 git-author – Identify codebase authorship at a component level, beyond git blame, for better ownership insights. (1 month ago)
 - [trinhminhtriet/gloc](https://github.com/trinhminhtriet/gloc) - 🚀 gloc – A blazing-fast LOC (Lines of Code) counter in Go, inspired by tokei. Simple & efficient! (1 month ago)
 - [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (9 months ago)
@@ -45,16 +45,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Erfandarzi](https://github.com/Erfandarzi)
+- [rahadbhuiya](https://github.com/rahadbhuiya)
+- [nithingoud78](https://github.com/nithingoud78)
+- [SLX1CE](https://github.com/SLX1CE)
 - [erick-lara](https://github.com/erick-lara)
 - [Vikas9892](https://github.com/Vikas9892)
 - [Surjeet-Singh1](https://github.com/Surjeet-Singh1)
 - [ashleyotooligan](https://github.com/ashleyotooligan)
 - [natedemoss](https://github.com/natedemoss)
 - [basaranbabur](https://github.com/basaranbabur)
-- [Shifrozy](https://github.com/Shifrozy)
-- [drydenmitchell](https://github.com/drydenmitchell)
-- [ragibalasad](https://github.com/ragibalasad)
-- [iam1shel](https://github.com/iam1shel)
 
 ## ⭐ Recent stars
 
