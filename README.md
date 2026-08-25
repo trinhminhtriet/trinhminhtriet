@@ -45,16 +45,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [rasidi3112](https://github.com/rasidi3112)
+- [vquest07xV31777777777777](https://github.com/vquest07xV31777777777777)
+- [reaperdoll](https://github.com/reaperdoll)
 - [md-abu-kayser](https://github.com/md-abu-kayser)
-- [Erfandarzi](https://github.com/Erfandarzi)
 - [martian56](https://github.com/martian56)
 - [LeonVernard](https://github.com/LeonVernard)
 - [fly233338](https://github.com/fly233338)
 - [codeyevsky](https://github.com/codeyevsky)
 - [Shubh2-0](https://github.com/Shubh2-0)
 - [procerezo](https://github.com/procerezo)
-- [rahadbhuiya](https://github.com/rahadbhuiya)
-- [nithingoud78](https://github.com/nithingoud78)
 
 ## ⭐ Recent stars
 
