@@ -32,8 +32,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👷 Check out what I'm currently working on
 
-- [trinhminhtriet/pingy](https://github.com/trinhminhtriet/pingy) - ⚡ Pingy: A fast, concurrent Rust-based ping tool with real-time updates & visual charts! 📊🚀 (6 days ago)
-- [trinhminhtriet/awesome-job-boards](https://github.com/trinhminhtriet/awesome-job-boards) - 🚀 A curated list of awesome job boards for developers, designers, and tech enthusiasts. Find remote work, freelance gigs, or full-time positions. Contributions welcome!  (6 days ago)
+- [trinhminhtriet/pingy](https://github.com/trinhminhtriet/pingy) - ⚡ Pingy: A fast, concurrent Rust-based ping tool with real-time updates & visual charts! 📊🚀 (1 week ago)
+- [trinhminhtriet/awesome-job-boards](https://github.com/trinhminhtriet/awesome-job-boards) - 🚀 A curated list of awesome job boards for developers, designers, and tech enthusiasts. Find remote work, freelance gigs, or full-time positions. Contributions welcome!  (1 week ago)
 - [trinhminhtriet/git-author](https://github.com/trinhminhtriet/git-author) - 🔍 git-author – Identify codebase authorship at a component level, beyond git blame, for better ownership insights. (1 month ago)
 - [trinhminhtriet/gloc](https://github.com/trinhminhtriet/gloc) - 🚀 gloc – A blazing-fast LOC (Lines of Code) counter in Go, inspired by tokei. Simple & efficient! (1 month ago)
 - [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (9 months ago)
@@ -45,16 +45,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [mahirhir](https://github.com/mahirhir)
+- [draevour](https://github.com/draevour)
+- [Longed4you](https://github.com/Longed4you)
+- [canhtrong26-dev](https://github.com/canhtrong26-dev)
+- [Doyun-coding](https://github.com/Doyun-coding)
+- [zovas2024-svg](https://github.com/zovas2024-svg)
 - [Lxcardoza993](https://github.com/Lxcardoza993)
 - [lxl0825](https://github.com/lxl0825)
 - [hassenbrahim](https://github.com/hassenbrahim)
 - [alberto4442](https://github.com/alberto4442)
-- [fuad403273](https://github.com/fuad403273)
-- [Belucking](https://github.com/Belucking)
-- [tochifushii](https://github.com/tochifushii)
-- [Nemets87](https://github.com/Nemets87)
-- [justifysiddh](https://github.com/justifysiddh)
-- [vquest07xV31777777777777](https://github.com/vquest07xV31777777777777)
 
 ## ⭐ Recent stars
 
