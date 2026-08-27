@@ -45,6 +45,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [TbtTechnologies](https://github.com/TbtTechnologies)
+- [Timitempah-Group](https://github.com/Timitempah-Group)
 - [mahirhir](https://github.com/mahirhir)
 - [draevour](https://github.com/draevour)
 - [Longed4you](https://github.com/Longed4you)
@@ -53,8 +55,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [zovas2024-svg](https://github.com/zovas2024-svg)
 - [Lxcardoza993](https://github.com/Lxcardoza993)
 - [lxl0825](https://github.com/lxl0825)
-- [hassenbrahim](https://github.com/hassenbrahim)
-- [alberto4442](https://github.com/alberto4442)
 
 ## ⭐ Recent stars
 
