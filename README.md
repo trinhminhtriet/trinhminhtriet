@@ -45,6 +45,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [david006-DS](https://github.com/david006-DS)
 - [DIVYAbhagat17](https://github.com/DIVYAbhagat17)
 - [ghsaueressig](https://github.com/ghsaueressig)
 - [TbtTechnologies](https://github.com/TbtTechnologies)
@@ -54,7 +55,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Longed4you](https://github.com/Longed4you)
 - [canhtrong26-dev](https://github.com/canhtrong26-dev)
 - [Doyun-coding](https://github.com/Doyun-coding)
-- [zovas2024-svg](https://github.com/zovas2024-svg)
 
 ## ⭐ Recent stars
 
