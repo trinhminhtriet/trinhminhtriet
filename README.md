@@ -45,16 +45,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [nahladzulula](https://github.com/nahladzulula)
+- [cWemmbu](https://github.com/cWemmbu)
+- [evil-morti](https://github.com/evil-morti)
+- [vinamega](https://github.com/vinamega)
+- [RobbyDwk](https://github.com/RobbyDwk)
+- [irenascent](https://github.com/irenascent)
+- [cahcacah](https://github.com/cahcacah)
 - [david006-DS](https://github.com/david006-DS)
 - [DIVYAbhagat17](https://github.com/DIVYAbhagat17)
 - [ghsaueressig](https://github.com/ghsaueressig)
-- [TbtTechnologies](https://github.com/TbtTechnologies)
-- [Timitempah-Group](https://github.com/Timitempah-Group)
-- [mahirhir](https://github.com/mahirhir)
-- [draevour](https://github.com/draevour)
-- [Longed4you](https://github.com/Longed4you)
-- [canhtrong26-dev](https://github.com/canhtrong26-dev)
-- [Doyun-coding](https://github.com/Doyun-coding)
 
 ## ⭐ Recent stars
 
