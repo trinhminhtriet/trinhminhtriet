@@ -45,6 +45,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Pelirrojo](https://github.com/Pelirrojo)
 - [nahladzulula](https://github.com/nahladzulula)
 - [cWemmbu](https://github.com/cWemmbu)
 - [evil-morti](https://github.com/evil-morti)
@@ -54,7 +55,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [cahcacah](https://github.com/cahcacah)
 - [david006-DS](https://github.com/david006-DS)
 - [DIVYAbhagat17](https://github.com/DIVYAbhagat17)
-- [ghsaueressig](https://github.com/ghsaueressig)
 
 ## ⭐ Recent stars
 
