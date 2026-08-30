@@ -45,6 +45,9 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [aza-ali](https://github.com/aza-ali)
+- [rasidi3112](https://github.com/rasidi3112)
+- [Superfamily-kents](https://github.com/Superfamily-kents)
 - [Pelirrojo](https://github.com/Pelirrojo)
 - [nahladzulula](https://github.com/nahladzulula)
 - [cWemmbu](https://github.com/cWemmbu)
@@ -52,9 +55,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [vinamega](https://github.com/vinamega)
 - [RobbyDwk](https://github.com/RobbyDwk)
 - [irenascent](https://github.com/irenascent)
-- [cahcacah](https://github.com/cahcacah)
-- [david006-DS](https://github.com/david006-DS)
-- [DIVYAbhagat17](https://github.com/DIVYAbhagat17)
 
 ## ⭐ Recent stars
 
