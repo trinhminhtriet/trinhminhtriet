@@ -41,20 +41,20 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [nctl-io/nctl-branding](https://github.com/nctl-io/nctl-branding) - NCTL Branding 🖼️: Centralized assets and guidelines for consistent visual identity across NCTL projects and platforms. (10 months ago)
 - [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) - 🚀 All-in-one CLI toolkit for developers: scaffold, manage, automate, and boost productivity across languages! (11 months ago)
 - [lamhaison/aws-cli-utils](https://github.com/lamhaison/aws-cli-utils) - This is the project to collect helpful aws cli commandline with complex options to support your working (11 months ago)
-- [trinhminhtriet/dwipe](https://github.com/trinhminhtriet/dwipe) - 🧹 Fast, cross-platform disk cleanup tool with interactive UI for easy directory size visualization. (11 months ago)
+- [trinhminhtriet/dwipe](https://github.com/trinhminhtriet/dwipe) - 🧹 Fast, cross-platform disk cleanup tool with interactive UI for easy directory size visualization. (1 year ago)
 
 ## 👯 Check out my recent followers
 
+- [Rishhhaaabbb](https://github.com/Rishhhaaabbb)
+- [Erfandarzi](https://github.com/Erfandarzi)
+- [mohammad-fahad](https://github.com/mohammad-fahad)
 - [Ahmed-Islam-AI](https://github.com/Ahmed-Islam-AI)
 - [zhen-yang-syd](https://github.com/zhen-yang-syd)
 - [aza-ali](https://github.com/aza-ali)
-- [rasidi3112](https://github.com/rasidi3112)
 - [Superfamily-kents](https://github.com/Superfamily-kents)
 - [Pelirrojo](https://github.com/Pelirrojo)
 - [nahladzulula](https://github.com/nahladzulula)
 - [cWemmbu](https://github.com/cWemmbu)
-- [evil-morti](https://github.com/evil-morti)
-- [vinamega](https://github.com/vinamega)
 
 ## ⭐ Recent stars
 
