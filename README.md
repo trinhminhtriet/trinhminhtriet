@@ -45,16 +45,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [barbono](https://github.com/barbono)
+- [marineso888](https://github.com/marineso888)
+- [JlNXED](https://github.com/JlNXED)
+- [ShashankD210](https://github.com/ShashankD210)
 - [Rishhhaaabbb](https://github.com/Rishhhaaabbb)
-- [Erfandarzi](https://github.com/Erfandarzi)
 - [mohammad-fahad](https://github.com/mohammad-fahad)
 - [Ahmed-Islam-AI](https://github.com/Ahmed-Islam-AI)
 - [zhen-yang-syd](https://github.com/zhen-yang-syd)
 - [aza-ali](https://github.com/aza-ali)
 - [Superfamily-kents](https://github.com/Superfamily-kents)
-- [Pelirrojo](https://github.com/Pelirrojo)
-- [nahladzulula](https://github.com/nahladzulula)
-- [cWemmbu](https://github.com/cWemmbu)
 
 ## ⭐ Recent stars
 
