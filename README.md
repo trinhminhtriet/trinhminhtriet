@@ -45,6 +45,9 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [rasidi3112](https://github.com/rasidi3112)
+- [bunnypixel-com](https://github.com/bunnypixel-com)
+- [Tyche-MKR](https://github.com/Tyche-MKR)
 - [barbono](https://github.com/barbono)
 - [marineso888](https://github.com/marineso888)
 - [JlNXED](https://github.com/JlNXED)
@@ -52,9 +55,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Rishhhaaabbb](https://github.com/Rishhhaaabbb)
 - [mohammad-fahad](https://github.com/mohammad-fahad)
 - [Ahmed-Islam-AI](https://github.com/Ahmed-Islam-AI)
-- [zhen-yang-syd](https://github.com/zhen-yang-syd)
-- [aza-ali](https://github.com/aza-ali)
-- [Superfamily-kents](https://github.com/Superfamily-kents)
 
 ## ⭐ Recent stars
 
