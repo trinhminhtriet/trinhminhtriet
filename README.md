@@ -45,6 +45,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [hexarch](https://github.com/hexarch)
 - [rasidi3112](https://github.com/rasidi3112)
 - [bunnypixel-com](https://github.com/bunnypixel-com)
 - [Tyche-MKR](https://github.com/Tyche-MKR)
@@ -54,7 +55,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [ShashankD210](https://github.com/ShashankD210)
 - [Rishhhaaabbb](https://github.com/Rishhhaaabbb)
 - [mohammad-fahad](https://github.com/mohammad-fahad)
-- [Ahmed-Islam-AI](https://github.com/Ahmed-Islam-AI)
 
 ## ⭐ Recent stars
 
