@@ -45,6 +45,9 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [aevxofficial](https://github.com/aevxofficial)
+- [codeyevsky](https://github.com/codeyevsky)
+- [its-muchiri](https://github.com/its-muchiri)
 - [designAsign](https://github.com/designAsign)
 - [BlackDragon0828](https://github.com/BlackDragon0828)
 - [voidara-night](https://github.com/voidara-night)
@@ -52,9 +55,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [emilybarru](https://github.com/emilybarru)
 - [lgomesappj](https://github.com/lgomesappj)
 - [amurrayeqc](https://github.com/amurrayeqc)
-- [minseochoj](https://github.com/minseochoj)
-- [harutosati](https://github.com/harutosati)
-- [hexarch](https://github.com/hexarch)
 
 ## ⭐ Recent stars
 
