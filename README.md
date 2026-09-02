@@ -45,16 +45,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [designAsign](https://github.com/designAsign)
+- [BlackDragon0828](https://github.com/BlackDragon0828)
+- [voidara-night](https://github.com/voidara-night)
+- [whitakeroliver](https://github.com/whitakeroliver)
+- [emilybarru](https://github.com/emilybarru)
+- [lgomesappj](https://github.com/lgomesappj)
+- [amurrayeqc](https://github.com/amurrayeqc)
+- [minseochoj](https://github.com/minseochoj)
+- [harutosati](https://github.com/harutosati)
 - [hexarch](https://github.com/hexarch)
-- [rasidi3112](https://github.com/rasidi3112)
-- [bunnypixel-com](https://github.com/bunnypixel-com)
-- [Tyche-MKR](https://github.com/Tyche-MKR)
-- [barbono](https://github.com/barbono)
-- [marineso888](https://github.com/marineso888)
-- [JlNXED](https://github.com/JlNXED)
-- [ShashankD210](https://github.com/ShashankD210)
-- [Rishhhaaabbb](https://github.com/Rishhhaaabbb)
-- [mohammad-fahad](https://github.com/mohammad-fahad)
 
 ## ⭐ Recent stars
 
