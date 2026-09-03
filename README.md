@@ -45,6 +45,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [nicole-lihui](https://github.com/nicole-lihui)
+- [DigitalCurrensy](https://github.com/DigitalCurrensy)
 - [rasidi3112](https://github.com/rasidi3112)
 - [NspxMiguel](https://github.com/NspxMiguel)
 - [SakeyJakey](https://github.com/SakeyJakey)
@@ -53,8 +55,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [its-muchiri](https://github.com/its-muchiri)
 - [designAsign](https://github.com/designAsign)
 - [BlackDragon0828](https://github.com/BlackDragon0828)
-- [voidara-night](https://github.com/voidara-night)
-- [whitakeroliver](https://github.com/whitakeroliver)
 
 ## ⭐ Recent stars
 
