@@ -45,16 +45,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [lunadebugs](https://github.com/lunadebugs)
+- [poormikey80-create](https://github.com/poormikey80-create)
+- [filedonkey](https://github.com/filedonkey)
 - [nicole-lihui](https://github.com/nicole-lihui)
 - [DigitalCurrensy](https://github.com/DigitalCurrensy)
 - [rasidi3112](https://github.com/rasidi3112)
 - [NspxMiguel](https://github.com/NspxMiguel)
 - [SakeyJakey](https://github.com/SakeyJakey)
-- [aevaev](https://github.com/aevaev)
 - [codeyevsky](https://github.com/codeyevsky)
 - [its-muchiri](https://github.com/its-muchiri)
-- [designAsign](https://github.com/designAsign)
-- [BlackDragon0828](https://github.com/BlackDragon0828)
 
 ## ⭐ Recent stars
 
