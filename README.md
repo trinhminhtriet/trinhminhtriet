@@ -46,6 +46,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 ## 👯 Check out my recent followers
 
 - [Erfandarzi](https://github.com/Erfandarzi)
+- [AlisonTristao](https://github.com/AlisonTristao)
 - [beastdesign](https://github.com/beastdesign)
 - [lunadebugs](https://github.com/lunadebugs)
 - [poormikey80-create](https://github.com/poormikey80-create)
@@ -54,7 +55,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [DigitalCurrensy](https://github.com/DigitalCurrensy)
 - [rasidi3112](https://github.com/rasidi3112)
 - [NspxMiguel](https://github.com/NspxMiguel)
-- [SakeyJakey](https://github.com/SakeyJakey)
 
 ## ⭐ Recent stars
 
