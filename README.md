@@ -45,6 +45,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [abdulrdeveloper](https://github.com/abdulrdeveloper)
+- [luciano-veiga](https://github.com/luciano-veiga)
 - [minatofullstack-ops](https://github.com/minatofullstack-ops)
 - [iamuhammd](https://github.com/iamuhammd)
 - [HexCore8](https://github.com/HexCore8)
@@ -53,8 +55,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [beastdesign](https://github.com/beastdesign)
 - [lunadebugs](https://github.com/lunadebugs)
 - [poormikey80-create](https://github.com/poormikey80-create)
-- [filedonkey](https://github.com/filedonkey)
-- [nicole-lihui](https://github.com/nicole-lihui)
 
 ## ⭐ Recent stars
 
