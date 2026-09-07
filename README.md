@@ -45,15 +45,15 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 ## 👯 Check out my recent followers
 
 - [omar-maverick](https://github.com/omar-maverick)
-- [rasidi3112](https://github.com/rasidi3112)
 - [Blandskron](https://github.com/Blandskron)
 - [abdulrdeveloper](https://github.com/abdulrdeveloper)
 - [luciano-veiga](https://github.com/luciano-veiga)
 - [minatofullstack-ops](https://github.com/minatofullstack-ops)
 - [iamuhammd](https://github.com/iamuhammd)
-- [HexCore8](https://github.com/HexCore8)
 - [AlisonTristao](https://github.com/AlisonTristao)
 - [beastdesign](https://github.com/beastdesign)
+- [lunadebugs](https://github.com/lunadebugs)
+- [poormikey80-create](https://github.com/poormikey80-create)
 
 ## ⭐ Recent stars
 
