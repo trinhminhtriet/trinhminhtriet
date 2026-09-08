@@ -44,10 +44,10 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [its-me-drish](https://github.com/its-me-drish)
 - [omar-maverick](https://github.com/omar-maverick)
 - [Blandskron](https://github.com/Blandskron)
 - [abdulrdeveloper](https://github.com/abdulrdeveloper)
-- [luciano-veiga](https://github.com/luciano-veiga)
 - [minatofullstack-ops](https://github.com/minatofullstack-ops)
 - [iamuhammd](https://github.com/iamuhammd)
 - [AlisonTristao](https://github.com/AlisonTristao)
