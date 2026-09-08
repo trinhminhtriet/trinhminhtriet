@@ -44,6 +44,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [LARRYKIPKURUI](https://github.com/LARRYKIPKURUI)
+- [85599](https://github.com/85599)
 - [its-me-drish](https://github.com/its-me-drish)
 - [omar-maverick](https://github.com/omar-maverick)
 - [Blandskron](https://github.com/Blandskron)
@@ -52,8 +54,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [iamuhammd](https://github.com/iamuhammd)
 - [AlisonTristao](https://github.com/AlisonTristao)
 - [beastdesign](https://github.com/beastdesign)
-- [lunadebugs](https://github.com/lunadebugs)
-- [poormikey80-create](https://github.com/poormikey80-create)
 
 ## ⭐ Recent stars
 
