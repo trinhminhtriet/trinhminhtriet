@@ -44,6 +44,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [rasidi3112](https://github.com/rasidi3112)
+- [mohamed-sayed-elmahdy](https://github.com/mohamed-sayed-elmahdy)
 - [LARRYKIPKURUI](https://github.com/LARRYKIPKURUI)
 - [85599](https://github.com/85599)
 - [its-me-drish](https://github.com/its-me-drish)
@@ -52,15 +54,13 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [abdulrdeveloper](https://github.com/abdulrdeveloper)
 - [minatofullstack-ops](https://github.com/minatofullstack-ops)
 - [iamuhammd](https://github.com/iamuhammd)
-- [AlisonTristao](https://github.com/AlisonTristao)
-- [beastdesign](https://github.com/beastdesign)
 
 ## ⭐ Recent stars
 
 - [luubinhan/dev-proxy](https://github.com/luubinhan/dev-proxy) (8 months ago)
-- [Aiano/FOC](https://github.com/Aiano/FOC) - A BLDC motor driver using FOC algorithm. (9 months ago)
-- [RollingGecko/VescUartControl](https://github.com/RollingGecko/VescUartControl) - Arduino library to interface with the VESC bldc over UART. (9 months ago)
-- [pekkaroi/bldc-drive](https://github.com/pekkaroi/bldc-drive) - Cheap and simple brushless DC motor driver designed for CNC applications using STM32 microcontroller (9 months ago)
-- [xp4xbox/Python-Backdoor](https://github.com/xp4xbox/Python-Backdoor) - This project is a cross-platform backdoor/reverse shell and post-exploitation tool written in Python3 (9 months ago)
+- [Aiano/FOC](https://github.com/Aiano/FOC) - A BLDC motor driver using FOC algorithm. (10 months ago)
+- [RollingGecko/VescUartControl](https://github.com/RollingGecko/VescUartControl) - Arduino library to interface with the VESC bldc over UART. (10 months ago)
+- [pekkaroi/bldc-drive](https://github.com/pekkaroi/bldc-drive) - Cheap and simple brushless DC motor driver designed for CNC applications using STM32 microcontroller (10 months ago)
+- [xp4xbox/Python-Backdoor](https://github.com/xp4xbox/Python-Backdoor) - This project is a cross-platform backdoor/reverse shell and post-exploitation tool written in Python3 (10 months ago)
 
 ## 🔨 Latest Pull Requests I published
