@@ -44,6 +44,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [acid4you](https://github.com/acid4you)
 - [rasidi3112](https://github.com/rasidi3112)
 - [mohamed-sayed-elmahdy](https://github.com/mohamed-sayed-elmahdy)
 - [LARRYKIPKURUI](https://github.com/LARRYKIPKURUI)
@@ -53,7 +54,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Blandskron](https://github.com/Blandskron)
 - [abdulrdeveloper](https://github.com/abdulrdeveloper)
 - [minatofullstack-ops](https://github.com/minatofullstack-ops)
-- [iamuhammd](https://github.com/iamuhammd)
 
 ## ⭐ Recent stars
 
