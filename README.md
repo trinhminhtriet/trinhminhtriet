@@ -44,8 +44,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Nexlivo67](https://github.com/Nexlivo67)
 - [richechab](https://github.com/richechab)
-- [rasidi3112](https://github.com/rasidi3112)
 - [rksharma-owg](https://github.com/rksharma-owg)
 - [AceOnyx8](https://github.com/AceOnyx8)
 - [aza-ali](https://github.com/aza-ali)
