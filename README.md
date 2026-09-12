@@ -44,16 +44,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [LenaBrooks](https://github.com/LenaBrooks)
+- [mahmadmanzoor](https://github.com/mahmadmanzoor)
+- [HeavenlyDesires](https://github.com/HeavenlyDesires)
+- [talhakhalidmtk](https://github.com/talhakhalidmtk)
 - [georgelautech-byte](https://github.com/georgelautech-byte)
 - [Nexlivo67](https://github.com/Nexlivo67)
 - [richechab](https://github.com/richechab)
 - [rksharma-owg](https://github.com/rksharma-owg)
 - [AceOnyx8](https://github.com/AceOnyx8)
 - [aza-ali](https://github.com/aza-ali)
-- [Tech-Ninja1020](https://github.com/Tech-Ninja1020)
-- [acid4you](https://github.com/acid4you)
-- [mohamed-sayed-elmahdy](https://github.com/mohamed-sayed-elmahdy)
-- [LARRYKIPKURUI](https://github.com/LARRYKIPKURUI)
 
 ## ⭐ Recent stars
 
