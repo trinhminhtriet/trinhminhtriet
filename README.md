@@ -44,6 +44,9 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [LiamProsser77](https://github.com/LiamProsser77)
+- [sulcer](https://github.com/sulcer)
+- [WenZ0o](https://github.com/WenZ0o)
 - [kayanbadejo](https://github.com/kayanbadejo)
 - [njtsb1](https://github.com/njtsb1)
 - [LenaBrooks](https://github.com/LenaBrooks)
@@ -51,9 +54,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [HeavenlyDesires](https://github.com/HeavenlyDesires)
 - [talhakhalidmtk](https://github.com/talhakhalidmtk)
 - [georgelautech-byte](https://github.com/georgelautech-byte)
-- [Nexlivo67](https://github.com/Nexlivo67)
-- [richechab](https://github.com/richechab)
-- [rksharma-owg](https://github.com/rksharma-owg)
 
 ## ⭐ Recent stars
 
