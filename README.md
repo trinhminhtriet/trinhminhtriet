@@ -44,11 +44,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [njtsb1](https://github.com/njtsb1)
 - [LiamProsser77](https://github.com/LiamProsser77)
 - [sulcer](https://github.com/sulcer)
 - [WenZ0o](https://github.com/WenZ0o)
 - [kayanbadejo](https://github.com/kayanbadejo)
-- [njtsb1](https://github.com/njtsb1)
 - [LenaBrooks](https://github.com/LenaBrooks)
 - [mahmadmanzoor](https://github.com/mahmadmanzoor)
 - [HeavenlyDesires](https://github.com/HeavenlyDesires)
@@ -57,7 +57,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## ⭐ Recent stars
 
-- [luubinhan/dev-proxy](https://github.com/luubinhan/dev-proxy) (8 months ago)
+- [luubinhan/dev-proxy](https://github.com/luubinhan/dev-proxy) (9 months ago)
 - [Aiano/FOC](https://github.com/Aiano/FOC) - A BLDC motor driver using FOC algorithm. (10 months ago)
 - [RollingGecko/VescUartControl](https://github.com/RollingGecko/VescUartControl) - Arduino library to interface with the VESC bldc over UART. (10 months ago)
 - [pekkaroi/bldc-drive](https://github.com/pekkaroi/bldc-drive) - Cheap and simple brushless DC motor driver designed for CNC applications using STM32 microcontroller (10 months ago)
