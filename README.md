@@ -44,6 +44,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [BojanaLewi](https://github.com/BojanaLewi)
 - [njtsb1](https://github.com/njtsb1)
 - [LiamProsser77](https://github.com/LiamProsser77)
 - [sulcer](https://github.com/sulcer)
@@ -53,7 +54,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [mahmadmanzoor](https://github.com/mahmadmanzoor)
 - [HeavenlyDesires](https://github.com/HeavenlyDesires)
 - [talhakhalidmtk](https://github.com/talhakhalidmtk)
-- [georgelautech-byte](https://github.com/georgelautech-byte)
 
 ## ⭐ Recent stars
 
