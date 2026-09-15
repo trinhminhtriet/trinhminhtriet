@@ -44,6 +44,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [quiverdev](https://github.com/quiverdev)
+- [sribalagan](https://github.com/sribalagan)
 - [BojanaLewi](https://github.com/BojanaLewi)
 - [njtsb1](https://github.com/njtsb1)
 - [LiamProsser77](https://github.com/LiamProsser77)
@@ -52,8 +54,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [kayanbadejo](https://github.com/kayanbadejo)
 - [LenaBrooks](https://github.com/LenaBrooks)
 - [mahmadmanzoor](https://github.com/mahmadmanzoor)
-- [HeavenlyDesires](https://github.com/HeavenlyDesires)
-- [talhakhalidmtk](https://github.com/talhakhalidmtk)
 
 ## ⭐ Recent stars
 
