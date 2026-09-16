@@ -44,6 +44,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [vagnerso](https://github.com/vagnerso)
 - [quiverdev](https://github.com/quiverdev)
 - [sribalagan](https://github.com/sribalagan)
 - [BojanaLewi](https://github.com/BojanaLewi)
@@ -53,7 +54,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [WenZ0o](https://github.com/WenZ0o)
 - [kayanbadejo](https://github.com/kayanbadejo)
 - [LenaBrooks](https://github.com/LenaBrooks)
-- [mahmadmanzoor](https://github.com/mahmadmanzoor)
 
 ## ⭐ Recent stars
 
