@@ -44,6 +44,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [neaflow](https://github.com/neaflow)
 - [DonaFidele](https://github.com/DonaFidele)
 - [alfredshingai](https://github.com/alfredshingai)
 - [Berserk-hub150](https://github.com/Berserk-hub150)
@@ -53,7 +54,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [sribalagan](https://github.com/sribalagan)
 - [BojanaLewi](https://github.com/BojanaLewi)
 - [njtsb1](https://github.com/njtsb1)
-- [LiamProsser77](https://github.com/LiamProsser77)
 
 ## ⭐ Recent stars
 
