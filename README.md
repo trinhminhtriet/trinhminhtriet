@@ -44,6 +44,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [sungminwoo0612](https://github.com/sungminwoo0612)
 - [EhsanShahbazii](https://github.com/EhsanShahbazii)
 - [mmdverse](https://github.com/mmdverse)
 - [neaflow](https://github.com/neaflow)
@@ -53,7 +54,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Wilberforcedev](https://github.com/Wilberforcedev)
 - [vagnerso](https://github.com/vagnerso)
 - [sribalagan](https://github.com/sribalagan)
-- [BojanaLewi](https://github.com/BojanaLewi)
 
 ## ⭐ Recent stars
 
