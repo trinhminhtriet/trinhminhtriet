@@ -44,6 +44,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [binglin514](https://github.com/binglin514)
+- [H0llowAngel](https://github.com/H0llowAngel)
 - [sungminwoo0612](https://github.com/sungminwoo0612)
 - [EhsanShahbazii](https://github.com/EhsanShahbazii)
 - [mmdverse](https://github.com/mmdverse)
@@ -52,8 +54,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [alfredshingai](https://github.com/alfredshingai)
 - [Berserk-hub150](https://github.com/Berserk-hub150)
 - [Wilberforcedev](https://github.com/Wilberforcedev)
-- [vagnerso](https://github.com/vagnerso)
-- [sribalagan](https://github.com/sribalagan)
 
 ## ⭐ Recent stars
 
