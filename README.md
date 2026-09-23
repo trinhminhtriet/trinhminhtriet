@@ -43,6 +43,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [utsabzz](https://github.com/utsabzz)
 - [shahidazam2020-oss](https://github.com/shahidazam2020-oss)
 - [anton3892](https://github.com/anton3892)
 - [Imogirl](https://github.com/Imogirl)
@@ -52,7 +53,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [sungminwoo0612](https://github.com/sungminwoo0612)
 - [EhsanShahbazii](https://github.com/EhsanShahbazii)
 - [neaflow](https://github.com/neaflow)
-- [DonaFidele](https://github.com/DonaFidele)
 
 ## ⭐ Recent stars
 
