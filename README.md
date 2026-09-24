@@ -43,16 +43,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [soladdev](https://github.com/soladdev)
+- [Ali-hey-0](https://github.com/Ali-hey-0)
+- [BM-nkoo](https://github.com/BM-nkoo)
+- [hrsippingstuff123-png](https://github.com/hrsippingstuff123-png)
+- [sarthak5461](https://github.com/sarthak5461)
+- [SrishtiSaurav22](https://github.com/SrishtiSaurav22)
 - [umogal](https://github.com/umogal)
 - [Teagar](https://github.com/Teagar)
 - [utsabzz](https://github.com/utsabzz)
 - [shahidazam2020-oss](https://github.com/shahidazam2020-oss)
-- [anton3892](https://github.com/anton3892)
-- [Imogirl](https://github.com/Imogirl)
-- [samuelashu21](https://github.com/samuelashu21)
-- [binglin514](https://github.com/binglin514)
-- [H0llowAngel](https://github.com/H0llowAngel)
-- [sungminwoo0612](https://github.com/sungminwoo0612)
 
 ## ⭐ Recent stars
 
