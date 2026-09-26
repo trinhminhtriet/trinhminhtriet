@@ -43,16 +43,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [maiosx](https://github.com/maiosx)
+- [WeyMora](https://github.com/WeyMora)
+- [A-A-Double](https://github.com/A-A-Double)
+- [Elite588](https://github.com/Elite588)
 - [niharika1102](https://github.com/niharika1102)
 - [kgeminicdev](https://github.com/kgeminicdev)
 - [ChrisOwuor](https://github.com/ChrisOwuor)
 - [Berserk-hub150](https://github.com/Berserk-hub150)
 - [polystrategist](https://github.com/polystrategist)
 - [soladdev](https://github.com/soladdev)
-- [Ali-hey-0](https://github.com/Ali-hey-0)
-- [BM-nkoo](https://github.com/BM-nkoo)
-- [hrsippingstuff123-png](https://github.com/hrsippingstuff123-png)
-- [sarthak5461](https://github.com/sarthak5461)
 
 ## ⭐ Recent stars
 
