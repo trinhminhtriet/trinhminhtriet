@@ -43,6 +43,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [aza-ali](https://github.com/aza-ali)
 - [maiosx](https://github.com/maiosx)
 - [WeyMora](https://github.com/WeyMora)
 - [A-A-Double](https://github.com/A-A-Double)
@@ -52,7 +53,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [ChrisOwuor](https://github.com/ChrisOwuor)
 - [Berserk-hub150](https://github.com/Berserk-hub150)
 - [polystrategist](https://github.com/polystrategist)
-- [soladdev](https://github.com/soladdev)
 
 ## ⭐ Recent stars
 
