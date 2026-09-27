@@ -39,10 +39,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (10 months ago)
 - [nctl-io/nctl-homepage](https://github.com/nctl-io/nctl-homepage) - 🚀 Modern homepage for NCTL: fast, responsive, TypeScript-powered, open source, and easy to customize. (11 months ago)
 - [nctl-io/nctl-branding](https://github.com/nctl-io/nctl-branding) - NCTL Branding 🖼️: Centralized assets and guidelines for consistent visual identity across NCTL projects and platforms. (11 months ago)
-- [trinhminhtriet/DevPilot](https://github.com/trinhminhtriet/DevPilot) - 🚀 All-in-one CLI toolkit for developers: scaffold, manage, automate, and boost productivity across languages! (1 year ago)
 
 ## 👯 Check out my recent followers
 
+- [manodhiambo](https://github.com/manodhiambo)
+- [notjustyuvraj](https://github.com/notjustyuvraj)
 - [aza-ali](https://github.com/aza-ali)
 - [maiosx](https://github.com/maiosx)
 - [WeyMora](https://github.com/WeyMora)
@@ -51,8 +52,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [niharika1102](https://github.com/niharika1102)
 - [kgeminicdev](https://github.com/kgeminicdev)
 - [ChrisOwuor](https://github.com/ChrisOwuor)
-- [Berserk-hub150](https://github.com/Berserk-hub150)
-- [polystrategist](https://github.com/polystrategist)
 
 ## ⭐ Recent stars
 
