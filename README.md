@@ -48,10 +48,10 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [maiosx](https://github.com/maiosx)
 - [WeyMora](https://github.com/WeyMora)
 - [A-A-Double](https://github.com/A-A-Double)
-- [Elite588](https://github.com/Elite588)
 - [niharika1102](https://github.com/niharika1102)
 - [kgeminicdev](https://github.com/kgeminicdev)
 - [ChrisOwuor](https://github.com/ChrisOwuor)
+- [Berserk-hub150](https://github.com/Berserk-hub150)
 
 ## ⭐ Recent stars
 
