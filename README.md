@@ -42,6 +42,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Kenainy-aizen](https://github.com/Kenainy-aizen)
+- [GiorgioAntonelli94](https://github.com/GiorgioAntonelli94)
 - [Vaibhav2416](https://github.com/Vaibhav2416)
 - [Naveen2334](https://github.com/Naveen2334)
 - [mdirshadengineer](https://github.com/mdirshadengineer)
@@ -50,8 +52,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [aza-ali](https://github.com/aza-ali)
 - [maiosx](https://github.com/maiosx)
 - [WeyMora](https://github.com/WeyMora)
-- [A-A-Double](https://github.com/A-A-Double)
-- [niharika1102](https://github.com/niharika1102)
 
 ## ⭐ Recent stars
 
