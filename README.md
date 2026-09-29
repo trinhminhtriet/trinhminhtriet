@@ -42,6 +42,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Vaibhav2416](https://github.com/Vaibhav2416)
 - [Naveen2334](https://github.com/Naveen2334)
 - [mdirshadengineer](https://github.com/mdirshadengineer)
 - [manodhiambo](https://github.com/manodhiambo)
@@ -51,7 +52,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [WeyMora](https://github.com/WeyMora)
 - [A-A-Double](https://github.com/A-A-Double)
 - [niharika1102](https://github.com/niharika1102)
-- [kgeminicdev](https://github.com/kgeminicdev)
 
 ## ⭐ Recent stars
 
