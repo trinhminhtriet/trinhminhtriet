@@ -42,6 +42,9 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [mehrabja](https://github.com/mehrabja)
+- [jkdevcode](https://github.com/jkdevcode)
+- [00200200](https://github.com/00200200)
 - [yoyosan](https://github.com/yoyosan)
 - [njtsb1](https://github.com/njtsb1)
 - [alzabadiahed](https://github.com/alzabadiahed)
@@ -49,9 +52,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Kenainy-aizen](https://github.com/Kenainy-aizen)
 - [GiorgioAntonelli94](https://github.com/GiorgioAntonelli94)
 - [Vaibhav2416](https://github.com/Vaibhav2416)
-- [Naveen2334](https://github.com/Naveen2334)
-- [mdirshadengineer](https://github.com/mdirshadengineer)
-- [manodhiambo](https://github.com/manodhiambo)
 
 ## ⭐ Recent stars
 
