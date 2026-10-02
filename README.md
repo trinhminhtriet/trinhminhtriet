@@ -42,6 +42,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [takumi-sato0209](https://github.com/takumi-sato0209)
+- [amirali-cheraghi-cyber](https://github.com/amirali-cheraghi-cyber)
 - [mehrabja](https://github.com/mehrabja)
 - [jkdevcode](https://github.com/jkdevcode)
 - [00200200](https://github.com/00200200)
@@ -50,8 +52,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [alzabadiahed](https://github.com/alzabadiahed)
 - [gxammad](https://github.com/gxammad)
 - [Kenainy-aizen](https://github.com/Kenainy-aizen)
-- [GiorgioAntonelli94](https://github.com/GiorgioAntonelli94)
-- [Vaibhav2416](https://github.com/Vaibhav2416)
 
 ## ⭐ Recent stars
 
