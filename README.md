@@ -42,6 +42,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [qwathi-ai](https://github.com/qwathi-ai)
 - [takumi-sato0209](https://github.com/takumi-sato0209)
 - [amirali-cheraghi-cyber](https://github.com/amirali-cheraghi-cyber)
 - [mehrabja](https://github.com/mehrabja)
@@ -51,7 +52,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [njtsb1](https://github.com/njtsb1)
 - [alzabadiahed](https://github.com/alzabadiahed)
 - [gxammad](https://github.com/gxammad)
-- [Kenainy-aizen](https://github.com/Kenainy-aizen)
 
 ## ⭐ Recent stars
 
