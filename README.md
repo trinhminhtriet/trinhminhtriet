@@ -42,6 +42,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Sega757](https://github.com/Sega757)
 - [STD-DEEPANSHU](https://github.com/STD-DEEPANSHU)
 - [RMNO21](https://github.com/RMNO21)
 - [qwathi-ai](https://github.com/qwathi-ai)
@@ -49,7 +50,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [amirali-cheraghi-cyber](https://github.com/amirali-cheraghi-cyber)
 - [mehrabja](https://github.com/mehrabja)
 - [jkdevcode](https://github.com/jkdevcode)
-- [00200200](https://github.com/00200200)
 - [yoyosan](https://github.com/yoyosan)
 - [njtsb1](https://github.com/njtsb1)
 
