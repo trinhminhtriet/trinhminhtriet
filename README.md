@@ -42,16 +42,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [RealRaven](https://github.com/RealRaven)
+- [Mohamedelsaid584](https://github.com/Mohamedelsaid584)
+- [zubairtechai-droi](https://github.com/zubairtechai-droi)
+- [szubairmaqsood](https://github.com/szubairmaqsood)
+- [daster79](https://github.com/daster79)
 - [Sega757](https://github.com/Sega757)
 - [STD-DEEPANSHU](https://github.com/STD-DEEPANSHU)
 - [RMNO21](https://github.com/RMNO21)
 - [qwathi-ai](https://github.com/qwathi-ai)
 - [takumi-sato0209](https://github.com/takumi-sato0209)
-- [amirali-cheraghi-cyber](https://github.com/amirali-cheraghi-cyber)
-- [mehrabja](https://github.com/mehrabja)
-- [jkdevcode](https://github.com/jkdevcode)
-- [yoyosan](https://github.com/yoyosan)
-- [njtsb1](https://github.com/njtsb1)
 
 ## ⭐ Recent stars
 
