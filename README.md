@@ -42,6 +42,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [rasidi3112](https://github.com/rasidi3112)
+- [GavdzinskyiVeacheslav](https://github.com/GavdzinskyiVeacheslav)
 - [RealRaven](https://github.com/RealRaven)
 - [Mohamedelsaid584](https://github.com/Mohamedelsaid584)
 - [zubairtechai-droi](https://github.com/zubairtechai-droi)
@@ -50,8 +52,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Sega757](https://github.com/Sega757)
 - [STD-DEEPANSHU](https://github.com/STD-DEEPANSHU)
 - [RMNO21](https://github.com/RMNO21)
-- [qwathi-ai](https://github.com/qwathi-ai)
-- [takumi-sato0209](https://github.com/takumi-sato0209)
 
 ## ⭐ Recent stars
 
