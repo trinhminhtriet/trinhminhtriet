@@ -42,16 +42,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [josejairobaltazargallegos29-a11y](https://github.com/josejairobaltazargallegos29-a11y)
+- [Sadra138456](https://github.com/Sadra138456)
+- [mwakidenis](https://github.com/mwakidenis)
+- [lin-yang-2713](https://github.com/lin-yang-2713)
+- [andrewsavio](https://github.com/andrewsavio)
 - [GavdzinskyiVeacheslav](https://github.com/GavdzinskyiVeacheslav)
 - [RealRaven](https://github.com/RealRaven)
 - [Mohamedelsaid584](https://github.com/Mohamedelsaid584)
 - [zubairtechai-droi](https://github.com/zubairtechai-droi)
 - [szubairmaqsood](https://github.com/szubairmaqsood)
-- [daster79](https://github.com/daster79)
-- [Sega757](https://github.com/Sega757)
-- [STD-DEEPANSHU](https://github.com/STD-DEEPANSHU)
-- [RMNO21](https://github.com/RMNO21)
-- [qwathi-ai](https://github.com/qwathi-ai)
 
 ## ⭐ Recent stars
 
