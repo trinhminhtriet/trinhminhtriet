@@ -42,23 +42,23 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [shortcut119](https://github.com/shortcut119)
+- [sombraicwrath](https://github.com/sombraicwrath)
 - [josejairobaltazargallegos29-a11y](https://github.com/josejairobaltazargallegos29-a11y)
 - [Sadra138456](https://github.com/Sadra138456)
-- [mwakidenis](https://github.com/mwakidenis)
 - [lin-yang-2713](https://github.com/lin-yang-2713)
 - [andrewsavio](https://github.com/andrewsavio)
 - [GavdzinskyiVeacheslav](https://github.com/GavdzinskyiVeacheslav)
 - [RealRaven](https://github.com/RealRaven)
 - [Mohamedelsaid584](https://github.com/Mohamedelsaid584)
 - [zubairtechai-droi](https://github.com/zubairtechai-droi)
-- [szubairmaqsood](https://github.com/szubairmaqsood)
 
 ## ⭐ Recent stars
 
 - [luubinhan/dev-proxy](https://github.com/luubinhan/dev-proxy) (9 months ago)
-- [Aiano/FOC](https://github.com/Aiano/FOC) - A BLDC motor driver using FOC algorithm. (10 months ago)
-- [RollingGecko/VescUartControl](https://github.com/RollingGecko/VescUartControl) - Arduino library to interface with the VESC bldc over UART. (10 months ago)
-- [pekkaroi/bldc-drive](https://github.com/pekkaroi/bldc-drive) - Cheap and simple brushless DC motor driver designed for CNC applications using STM32 microcontroller (10 months ago)
-- [xp4xbox/Python-Backdoor](https://github.com/xp4xbox/Python-Backdoor) - This project is a cross-platform backdoor/reverse shell and post-exploitation tool written in Python3 (10 months ago)
+- [Aiano/FOC](https://github.com/Aiano/FOC) - A BLDC motor driver using FOC algorithm. (11 months ago)
+- [RollingGecko/VescUartControl](https://github.com/RollingGecko/VescUartControl) - Arduino library to interface with the VESC bldc over UART. (11 months ago)
+- [pekkaroi/bldc-drive](https://github.com/pekkaroi/bldc-drive) - Cheap and simple brushless DC motor driver designed for CNC applications using STM32 microcontroller (11 months ago)
+- [xp4xbox/Python-Backdoor](https://github.com/xp4xbox/Python-Backdoor) - This project is a cross-platform backdoor/reverse shell and post-exploitation tool written in Python3 (11 months ago)
 
 ## 🔨 Latest Pull Requests I published
