@@ -42,6 +42,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [89605502155](https://github.com/89605502155)
 - [shortcut119](https://github.com/shortcut119)
 - [sombraicwrath](https://github.com/sombraicwrath)
 - [josejairobaltazargallegos29-a11y](https://github.com/josejairobaltazargallegos29-a11y)
@@ -51,7 +52,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [GavdzinskyiVeacheslav](https://github.com/GavdzinskyiVeacheslav)
 - [RealRaven](https://github.com/RealRaven)
 - [Mohamedelsaid584](https://github.com/Mohamedelsaid584)
-- [zubairtechai-droi](https://github.com/zubairtechai-droi)
 
 ## ⭐ Recent stars
 
