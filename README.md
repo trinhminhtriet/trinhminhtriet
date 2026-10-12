@@ -44,7 +44,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 - [ofnq](https://github.com/ofnq)
 - [Taanveer22](https://github.com/Taanveer22)
-- [ftnimran](https://github.com/ftnimran)
 - [89605502155](https://github.com/89605502155)
 - [shortcut119](https://github.com/shortcut119)
 - [sombraicwrath](https://github.com/sombraicwrath)
@@ -52,6 +51,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Sadra138456](https://github.com/Sadra138456)
 - [lin-yang-2713](https://github.com/lin-yang-2713)
 - [andrewsavio](https://github.com/andrewsavio)
+- [GavdzinskyiVeacheslav](https://github.com/GavdzinskyiVeacheslav)
 
 ## ⭐ Recent stars
 
