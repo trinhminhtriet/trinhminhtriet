@@ -42,6 +42,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [tldrwtf](https://github.com/tldrwtf)
+- [rasidi3112](https://github.com/rasidi3112)
 - [ofnq](https://github.com/ofnq)
 - [Taanveer22](https://github.com/Taanveer22)
 - [89605502155](https://github.com/89605502155)
@@ -50,8 +52,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [josejairobaltazargallegos29-a11y](https://github.com/josejairobaltazargallegos29-a11y)
 - [Sadra138456](https://github.com/Sadra138456)
 - [lin-yang-2713](https://github.com/lin-yang-2713)
-- [andrewsavio](https://github.com/andrewsavio)
-- [GavdzinskyiVeacheslav](https://github.com/GavdzinskyiVeacheslav)
 
 ## ⭐ Recent stars
 
