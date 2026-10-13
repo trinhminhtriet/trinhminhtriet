@@ -42,8 +42,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [0vm](https://github.com/0vm)
 - [tldrwtf](https://github.com/tldrwtf)
-- [rasidi3112](https://github.com/rasidi3112)
 - [ofnq](https://github.com/ofnq)
 - [Taanveer22](https://github.com/Taanveer22)
 - [89605502155](https://github.com/89605502155)
