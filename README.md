@@ -42,6 +42,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [rajputanaaaa](https://github.com/rajputanaaaa)
+- [gedelabulliraju](https://github.com/gedelabulliraju)
 - [a4hmad1](https://github.com/a4hmad1)
 - [0vm](https://github.com/0vm)
 - [tldrwtf](https://github.com/tldrwtf)
@@ -50,8 +52,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [89605502155](https://github.com/89605502155)
 - [shortcut119](https://github.com/shortcut119)
 - [sombraicwrath](https://github.com/sombraicwrath)
-- [josejairobaltazargallegos29-a11y](https://github.com/josejairobaltazargallegos29-a11y)
-- [Sadra138456](https://github.com/Sadra138456)
 
 ## ⭐ Recent stars
 
