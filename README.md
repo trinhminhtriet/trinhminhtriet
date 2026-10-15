@@ -42,6 +42,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [rasidi3112](https://github.com/rasidi3112)
 - [rajputanaaaa](https://github.com/rajputanaaaa)
 - [gedelabulliraju](https://github.com/gedelabulliraju)
 - [a4hmad1](https://github.com/a4hmad1)
@@ -51,7 +52,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Taanveer22](https://github.com/Taanveer22)
 - [89605502155](https://github.com/89605502155)
 - [shortcut119](https://github.com/shortcut119)
-- [sombraicwrath](https://github.com/sombraicwrath)
 
 ## ⭐ Recent stars
 
