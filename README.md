@@ -42,6 +42,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [brianconlan2023](https://github.com/brianconlan2023)
+- [Gmentesh2](https://github.com/Gmentesh2)
 - [deveguru](https://github.com/deveguru)
 - [KaweMaximo](https://github.com/KaweMaximo)
 - [LeonardoM011](https://github.com/LeonardoM011)
@@ -50,8 +52,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [a4hmad1](https://github.com/a4hmad1)
 - [0vm](https://github.com/0vm)
 - [tldrwtf](https://github.com/tldrwtf)
-- [ofnq](https://github.com/ofnq)
-- [Taanveer22](https://github.com/Taanveer22)
 
 ## ⭐ Recent stars
 
