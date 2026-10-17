@@ -42,16 +42,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [shinobi-coder701](https://github.com/shinobi-coder701)
 - [brianconlan2023](https://github.com/brianconlan2023)
 - [Gmentesh2](https://github.com/Gmentesh2)
-- [deveguru](https://github.com/deveguru)
 - [KaweMaximo](https://github.com/KaweMaximo)
 - [LeonardoM011](https://github.com/LeonardoM011)
 - [rajputanaaaa](https://github.com/rajputanaaaa)
-- [gedelabulliraju](https://github.com/gedelabulliraju)
 - [a4hmad1](https://github.com/a4hmad1)
 - [0vm](https://github.com/0vm)
 - [tldrwtf](https://github.com/tldrwtf)
+- [spamdoku](https://github.com/spamdoku)
 
 ## ⭐ Recent stars
 
