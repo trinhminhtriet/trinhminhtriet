@@ -42,16 +42,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
-- [shinobi-coder701](https://github.com/shinobi-coder701)
-- [brianconlan2023](https://github.com/brianconlan2023)
-- [Gmentesh2](https://github.com/Gmentesh2)
-- [KaweMaximo](https://github.com/KaweMaximo)
-- [LeonardoM011](https://github.com/LeonardoM011)
-- [rajputanaaaa](https://github.com/rajputanaaaa)
-- [a4hmad1](https://github.com/a4hmad1)
-- [0vm](https://github.com/0vm)
-- [tldrwtf](https://github.com/tldrwtf)
-- [spamdoku](https://github.com/spamdoku)
+- [mohamedelmougy](https://github.com/mohamedelmougy)
+- [innayakendya](https://github.com/innayakendya)
+- [sucikhairida](https://github.com/sucikhairida)
+- [Tsanyamra](https://github.com/Tsanyamra)
+- [yhonaach](https://github.com/yhonaach)
+- [abigailmaria](https://github.com/abigailmaria)
+- [arby18](https://github.com/arby18)
+- [Fryankarangora](https://github.com/Fryankarangora)
+- [bagusprts](https://github.com/bagusprts)
+- [stephanes-dev](https://github.com/stephanes-dev)
 
 ## ⭐ Recent stars
 
