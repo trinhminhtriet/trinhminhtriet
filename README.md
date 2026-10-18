@@ -42,6 +42,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [altyebv](https://github.com/altyebv)
 - [mohamedelmougy](https://github.com/mohamedelmougy)
 - [innayakendya](https://github.com/innayakendya)
 - [sucikhairida](https://github.com/sucikhairida)
@@ -51,7 +52,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [arby18](https://github.com/arby18)
 - [Fryankarangora](https://github.com/Fryankarangora)
 - [bagusprts](https://github.com/bagusprts)
-- [stephanes-dev](https://github.com/stephanes-dev)
 
 ## ⭐ Recent stars
 
