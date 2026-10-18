@@ -42,16 +42,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
-- [altyebv](https://github.com/altyebv)
+- [Nuuriii](https://github.com/Nuuriii)
 - [mohamedelmougy](https://github.com/mohamedelmougy)
+- [Baculiform-Carburized9](https://github.com/Baculiform-Carburized9)
+- [altyebv](https://github.com/altyebv)
 - [innayakendya](https://github.com/innayakendya)
 - [sucikhairida](https://github.com/sucikhairida)
 - [Tsanyamra](https://github.com/Tsanyamra)
 - [yhonaach](https://github.com/yhonaach)
 - [abigailmaria](https://github.com/abigailmaria)
 - [arby18](https://github.com/arby18)
-- [Fryankarangora](https://github.com/Fryankarangora)
-- [bagusprts](https://github.com/bagusprts)
 
 ## ⭐ Recent stars
 
