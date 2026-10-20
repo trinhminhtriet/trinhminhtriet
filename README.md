@@ -40,6 +40,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [IanJakovanDunlap1](https://github.com/IanJakovanDunlap1)
 - [sky21kr](https://github.com/sky21kr)
 - [Dvurechensky](https://github.com/Dvurechensky)
 - [Git-FED](https://github.com/Git-FED)
@@ -49,7 +50,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [altyebv](https://github.com/altyebv)
 - [innayakendya](https://github.com/innayakendya)
 - [sucikhairida](https://github.com/sucikhairida)
-- [Tsanyamra](https://github.com/Tsanyamra)
 
 ## ⭐ Recent stars
 
