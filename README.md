@@ -40,6 +40,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Ayoola-tech2024](https://github.com/Ayoola-tech2024)
 - [IanJakovanDunlap1](https://github.com/IanJakovanDunlap1)
 - [sky21kr](https://github.com/sky21kr)
 - [Dvurechensky](https://github.com/Dvurechensky)
@@ -49,7 +50,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Baculiform-Carburized9](https://github.com/Baculiform-Carburized9)
 - [altyebv](https://github.com/altyebv)
 - [innayakendya](https://github.com/innayakendya)
-- [sucikhairida](https://github.com/sucikhairida)
 
 ## ⭐ Recent stars
 
