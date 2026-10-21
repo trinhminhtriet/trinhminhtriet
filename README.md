@@ -34,22 +34,22 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 - [trinhminhtriet/pingy](https://github.com/trinhminhtriet/pingy) - ⚡ Pingy: A fast, concurrent Rust-based ping tool with real-time updates & visual charts! 📊🚀 (2 months ago)
 - [trinhminhtriet/awesome-job-boards](https://github.com/trinhminhtriet/awesome-job-boards) - 🚀 A curated list of awesome job boards for developers, designers, and tech enthusiasts. Find remote work, freelance gigs, or full-time positions. Contributions welcome!  (2 months ago)
-- [trinhminhtriet/git-author](https://github.com/trinhminhtriet/git-author) - 🔍 git-author – Identify codebase authorship at a component level, beyond git blame, for better ownership insights. (2 months ago)
-- [trinhminhtriet/gloc](https://github.com/trinhminhtriet/gloc) - 🚀 gloc – A blazing-fast LOC (Lines of Code) counter in Go, inspired by tokei. Simple & efficient! (2 months ago)
+- [trinhminhtriet/git-author](https://github.com/trinhminhtriet/git-author) - 🔍 git-author – Identify codebase authorship at a component level, beyond git blame, for better ownership insights. (3 months ago)
+- [trinhminhtriet/gloc](https://github.com/trinhminhtriet/gloc) - 🚀 gloc – A blazing-fast LOC (Lines of Code) counter in Go, inspired by tokei. Simple & efficient! (3 months ago)
 - [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (11 months ago)
 
 ## 👯 Check out my recent followers
 
+- [coffsec](https://github.com/coffsec)
+- [CoderlunEureon](https://github.com/CoderlunEureon)
+- [sindhuja-tiwari](https://github.com/sindhuja-tiwari)
+- [steadydev7](https://github.com/steadydev7)
 - [Ayoola-tech2024](https://github.com/Ayoola-tech2024)
 - [IanJakovanDunlap1](https://github.com/IanJakovanDunlap1)
 - [sky21kr](https://github.com/sky21kr)
 - [Dvurechensky](https://github.com/Dvurechensky)
 - [Git-FED](https://github.com/Git-FED)
 - [Nuuriii](https://github.com/Nuuriii)
-- [mohamedelmougy](https://github.com/mohamedelmougy)
-- [Baculiform-Carburized9](https://github.com/Baculiform-Carburized9)
-- [altyebv](https://github.com/altyebv)
-- [innayakendya](https://github.com/innayakendya)
 
 ## ⭐ Recent stars
 
