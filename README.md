@@ -40,7 +40,9 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
-- [coffsec](https://github.com/coffsec)
+- [mohamedelmougy](https://github.com/mohamedelmougy)
+- [larpishere](https://github.com/larpishere)
+- [NexusGKSoftwares](https://github.com/NexusGKSoftwares)
 - [CoderlunEureon](https://github.com/CoderlunEureon)
 - [sindhuja-tiwari](https://github.com/sindhuja-tiwari)
 - [steadydev7](https://github.com/steadydev7)
@@ -48,8 +50,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [IanJakovanDunlap1](https://github.com/IanJakovanDunlap1)
 - [sky21kr](https://github.com/sky21kr)
 - [Dvurechensky](https://github.com/Dvurechensky)
-- [Git-FED](https://github.com/Git-FED)
-- [Nuuriii](https://github.com/Nuuriii)
 
 ## ⭐ Recent stars
 
