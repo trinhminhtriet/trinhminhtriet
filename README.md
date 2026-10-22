@@ -40,6 +40,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [datasifaw](https://github.com/datasifaw)
 - [gedelabulliraju](https://github.com/gedelabulliraju)
 - [mohamedelmougy](https://github.com/mohamedelmougy)
 - [Resolutefemi](https://github.com/Resolutefemi)
@@ -49,7 +50,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [CoderlunEureon](https://github.com/CoderlunEureon)
 - [sindhuja-tiwari](https://github.com/sindhuja-tiwari)
 - [steadydev7](https://github.com/steadydev7)
-- [Ayoola-tech2024](https://github.com/Ayoola-tech2024)
 
 ## ⭐ Recent stars
 
