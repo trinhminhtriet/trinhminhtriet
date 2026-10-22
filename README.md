@@ -40,16 +40,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [gedelabulliraju](https://github.com/gedelabulliraju)
 - [mohamedelmougy](https://github.com/mohamedelmougy)
+- [Resolutefemi](https://github.com/Resolutefemi)
+- [PUPPHAI](https://github.com/PUPPHAI)
 - [larpishere](https://github.com/larpishere)
 - [NexusGKSoftwares](https://github.com/NexusGKSoftwares)
 - [CoderlunEureon](https://github.com/CoderlunEureon)
 - [sindhuja-tiwari](https://github.com/sindhuja-tiwari)
 - [steadydev7](https://github.com/steadydev7)
 - [Ayoola-tech2024](https://github.com/Ayoola-tech2024)
-- [IanJakovanDunlap1](https://github.com/IanJakovanDunlap1)
-- [sky21kr](https://github.com/sky21kr)
-- [Dvurechensky](https://github.com/Dvurechensky)
 
 ## ⭐ Recent stars
 
