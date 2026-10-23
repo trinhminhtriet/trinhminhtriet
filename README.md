@@ -40,16 +40,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [lucasgm18](https://github.com/lucasgm18)
+- [njtsb1](https://github.com/njtsb1)
+- [mohamedelmougy](https://github.com/mohamedelmougy)
 - [datasifaw](https://github.com/datasifaw)
 - [gedelabulliraju](https://github.com/gedelabulliraju)
-- [mohamedelmougy](https://github.com/mohamedelmougy)
 - [Resolutefemi](https://github.com/Resolutefemi)
 - [PUPPHAI](https://github.com/PUPPHAI)
 - [larpishere](https://github.com/larpishere)
 - [NexusGKSoftwares](https://github.com/NexusGKSoftwares)
 - [CoderlunEureon](https://github.com/CoderlunEureon)
-- [sindhuja-tiwari](https://github.com/sindhuja-tiwari)
-- [steadydev7](https://github.com/steadydev7)
 
 ## ⭐ Recent stars
 
