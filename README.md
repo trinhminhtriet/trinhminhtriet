@@ -40,16 +40,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
-- [coffsec](https://github.com/coffsec)
+- [pouchanana6-a11y](https://github.com/pouchanana6-a11y)
+- [matigulin](https://github.com/matigulin)
+- [ssghost](https://github.com/ssghost)
+- [Kurganov1993](https://github.com/Kurganov1993)
 - [MuhammadRustamShomi](https://github.com/MuhammadRustamShomi)
 - [mohamedelmougy](https://github.com/mohamedelmougy)
 - [superposition](https://github.com/superposition)
 - [TizioQualunquee](https://github.com/TizioQualunquee)
 - [lucasgm18](https://github.com/lucasgm18)
 - [njtsb1](https://github.com/njtsb1)
-- [datasifaw](https://github.com/datasifaw)
-- [gedelabulliraju](https://github.com/gedelabulliraju)
-- [Resolutefemi](https://github.com/Resolutefemi)
 
 ## ⭐ Recent stars
 
