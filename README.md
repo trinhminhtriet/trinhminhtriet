@@ -40,6 +40,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [coffsec](https://github.com/coffsec)
 - [MuhammadRustamShomi](https://github.com/MuhammadRustamShomi)
 - [mohamedelmougy](https://github.com/mohamedelmougy)
 - [superposition](https://github.com/superposition)
@@ -49,7 +50,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [datasifaw](https://github.com/datasifaw)
 - [gedelabulliraju](https://github.com/gedelabulliraju)
 - [Resolutefemi](https://github.com/Resolutefemi)
-- [PUPPHAI](https://github.com/PUPPHAI)
 
 ## ⭐ Recent stars
 
