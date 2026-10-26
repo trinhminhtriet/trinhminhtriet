@@ -40,16 +40,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Hoshizorako](https://github.com/Hoshizorako)
+- [aixisstudio](https://github.com/aixisstudio)
+- [vishalrankhamb](https://github.com/vishalrankhamb)
+- [d79315](https://github.com/d79315)
+- [JYHWEN](https://github.com/JYHWEN)
+- [marcostegui](https://github.com/marcostegui)
 - [mohamedelmougy](https://github.com/mohamedelmougy)
 - [tarxemo](https://github.com/tarxemo)
 - [NovaMan777](https://github.com/NovaMan777)
 - [Seigiard](https://github.com/Seigiard)
-- [pouchanana6-a11y](https://github.com/pouchanana6-a11y)
-- [matigulin](https://github.com/matigulin)
-- [ssghost](https://github.com/ssghost)
-- [Kurganov1993](https://github.com/Kurganov1993)
-- [MuhammadRustamShomi](https://github.com/MuhammadRustamShomi)
-- [superposition](https://github.com/superposition)
 
 ## ⭐ Recent stars
 
