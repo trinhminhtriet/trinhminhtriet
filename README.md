@@ -40,6 +40,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [k1ns3](https://github.com/k1ns3)
+- [devlewicki](https://github.com/devlewicki)
 - [Hoshizorako](https://github.com/Hoshizorako)
 - [aixisstudio](https://github.com/aixisstudio)
 - [vishalrankhamb](https://github.com/vishalrankhamb)
@@ -48,8 +50,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [marcostegui](https://github.com/marcostegui)
 - [mohamedelmougy](https://github.com/mohamedelmougy)
 - [tarxemo](https://github.com/tarxemo)
-- [NovaMan777](https://github.com/NovaMan777)
-- [Seigiard](https://github.com/Seigiard)
 
 ## ⭐ Recent stars
 
