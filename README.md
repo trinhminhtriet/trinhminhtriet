@@ -40,16 +40,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [deathblock](https://github.com/deathblock)
+- [v1tor8](https://github.com/v1tor8)
+- [royerr34](https://github.com/royerr34)
+- [zmxdhc](https://github.com/zmxdhc)
+- [Anabelengil](https://github.com/Anabelengil)
+- [Davidst230404](https://github.com/Davidst230404)
+- [aza-ali](https://github.com/aza-ali)
 - [k1ns3](https://github.com/k1ns3)
 - [devlewicki](https://github.com/devlewicki)
 - [Hoshizorako](https://github.com/Hoshizorako)
-- [aixisstudio](https://github.com/aixisstudio)
-- [vishalrankhamb](https://github.com/vishalrankhamb)
-- [d79315](https://github.com/d79315)
-- [JYHWEN](https://github.com/JYHWEN)
-- [marcostegui](https://github.com/marcostegui)
-- [mohamedelmougy](https://github.com/mohamedelmougy)
-- [tarxemo](https://github.com/tarxemo)
 
 ## ⭐ Recent stars
 
