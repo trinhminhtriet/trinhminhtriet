@@ -40,6 +40,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Lewickiy](https://github.com/Lewickiy)
 - [deathblock](https://github.com/deathblock)
 - [v1tor8](https://github.com/v1tor8)
 - [royerr34](https://github.com/royerr34)
@@ -49,7 +50,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [aza-ali](https://github.com/aza-ali)
 - [k1ns3](https://github.com/k1ns3)
 - [devlewicki](https://github.com/devlewicki)
-- [Hoshizorako](https://github.com/Hoshizorako)
 
 ## ⭐ Recent stars
 
