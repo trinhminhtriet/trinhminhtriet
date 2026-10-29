@@ -40,6 +40,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [bluesky-520](https://github.com/bluesky-520)
 - [marciofelicioo](https://github.com/marciofelicioo)
 - [salikhussain71-code](https://github.com/salikhussain71-code)
 - [Lewickiy](https://github.com/Lewickiy)
@@ -49,7 +50,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [zmxdhc](https://github.com/zmxdhc)
 - [Anabelengil](https://github.com/Anabelengil)
 - [Davidst230404](https://github.com/Davidst230404)
-- [aza-ali](https://github.com/aza-ali)
 
 ## ⭐ Recent stars
 
