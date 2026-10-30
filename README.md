@@ -40,8 +40,9 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [rasidi3112](https://github.com/rasidi3112)
+- [MahdiKordian](https://github.com/MahdiKordian)
 - [mohamedelmougy](https://github.com/mohamedelmougy)
-- [coffsec](https://github.com/coffsec)
 - [Yonamine-Fernando](https://github.com/Yonamine-Fernando)
 - [Sumersingpatil2694](https://github.com/Sumersingpatil2694)
 - [bluesky-520](https://github.com/bluesky-520)
@@ -49,7 +50,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [salikhussain71-code](https://github.com/salikhussain71-code)
 - [Lewickiy](https://github.com/Lewickiy)
 - [deathblock](https://github.com/deathblock)
-- [v1tor8](https://github.com/v1tor8)
 
 ## ⭐ Recent stars
 
