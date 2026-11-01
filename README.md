@@ -40,16 +40,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [ILyasZobair](https://github.com/ILyasZobair)
+- [mohamedelmougy](https://github.com/mohamedelmougy)
 - [Alizerah](https://github.com/Alizerah)
 - [RubenHalman](https://github.com/RubenHalman)
 - [cooldev117](https://github.com/cooldev117)
-- [mohamedelmougy](https://github.com/mohamedelmougy)
 - [pr0sp3c7](https://github.com/pr0sp3c7)
 - [MahdiKordian](https://github.com/MahdiKordian)
 - [Yonamine-Fernando](https://github.com/Yonamine-Fernando)
 - [bluesky-520](https://github.com/bluesky-520)
 - [marciofelicioo](https://github.com/marciofelicioo)
-- [salikhussain71-code](https://github.com/salikhussain71-code)
 
 ## ⭐ Recent stars
 
