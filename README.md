@@ -32,8 +32,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👷 Check out what I'm currently working on
 
+- [trinhminhtriet/awesome-job-boards](https://github.com/trinhminhtriet/awesome-job-boards) - 🚀 A curated list of awesome job boards for developers, designers, and tech enthusiasts. Find remote work, freelance gigs, or full-time positions. Contributions welcome!  (today)
 - [trinhminhtriet/pingy](https://github.com/trinhminhtriet/pingy) - ⚡ Pingy: A fast, concurrent Rust-based ping tool with real-time updates & visual charts! 📊🚀 (2 months ago)
-- [trinhminhtriet/awesome-job-boards](https://github.com/trinhminhtriet/awesome-job-boards) - 🚀 A curated list of awesome job boards for developers, designers, and tech enthusiasts. Find remote work, freelance gigs, or full-time positions. Contributions welcome!  (2 months ago)
 - [trinhminhtriet/git-author](https://github.com/trinhminhtriet/git-author) - 🔍 git-author – Identify codebase authorship at a component level, beyond git blame, for better ownership insights. (3 months ago)
 - [trinhminhtriet/gloc](https://github.com/trinhminhtriet/gloc) - 🚀 gloc – A blazing-fast LOC (Lines of Code) counter in Go, inspired by tokei. Simple & efficient! (3 months ago)
 - [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (11 months ago)
@@ -45,11 +45,11 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [cooldev117](https://github.com/cooldev117)
 - [mohamedelmougy](https://github.com/mohamedelmougy)
 - [pr0sp3c7](https://github.com/pr0sp3c7)
-- [rasidi3112](https://github.com/rasidi3112)
 - [MahdiKordian](https://github.com/MahdiKordian)
 - [Yonamine-Fernando](https://github.com/Yonamine-Fernando)
 - [bluesky-520](https://github.com/bluesky-520)
 - [marciofelicioo](https://github.com/marciofelicioo)
+- [salikhussain71-code](https://github.com/salikhussain71-code)
 
 ## ⭐ Recent stars
 
