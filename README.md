@@ -40,6 +40,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [umarG9](https://github.com/umarG9)
+- [Git-FED](https://github.com/Git-FED)
 - [Travvissrapidd](https://github.com/Travvissrapidd)
 - [AnderiPopescu](https://github.com/AnderiPopescu)
 - [hoangdacviet](https://github.com/hoangdacviet)
@@ -48,8 +50,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Alizerah](https://github.com/Alizerah)
 - [RubenHalman](https://github.com/RubenHalman)
 - [cooldev117](https://github.com/cooldev117)
-- [pr0sp3c7](https://github.com/pr0sp3c7)
-- [MahdiKordian](https://github.com/MahdiKordian)
 
 ## ⭐ Recent stars
 
