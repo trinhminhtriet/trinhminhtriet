@@ -40,6 +40,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [mewwwaaaamem](https://github.com/mewwwaaaamem)
+- [mohamedelmougy](https://github.com/mohamedelmougy)
 - [K1OOL](https://github.com/K1OOL)
 - [poormikey80-create](https://github.com/poormikey80-create)
 - [umarG9](https://github.com/umarG9)
@@ -48,8 +50,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [AnderiPopescu](https://github.com/AnderiPopescu)
 - [hoangdacviet](https://github.com/hoangdacviet)
 - [ILyasZobair](https://github.com/ILyasZobair)
-- [mohamedelmougy](https://github.com/mohamedelmougy)
-- [Alizerah](https://github.com/Alizerah)
 
 ## ⭐ Recent stars
 
