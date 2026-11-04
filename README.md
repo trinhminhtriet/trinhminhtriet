@@ -33,13 +33,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 ## 👷 Check out what I'm currently working on
 
 - [trinhminhtriet/awesome-job-boards](https://github.com/trinhminhtriet/awesome-job-boards) - 🚀 A curated list of awesome job boards for developers, designers, and tech enthusiasts. Find remote work, freelance gigs, or full-time positions. Contributions welcome!  (today)
-- [trinhminhtriet/pingy](https://github.com/trinhminhtriet/pingy) - ⚡ Pingy: A fast, concurrent Rust-based ping tool with real-time updates & visual charts! 📊🚀 (today)
-- [trinhminhtriet/git-author](https://github.com/trinhminhtriet/git-author) - 🔍 git-author – Identify codebase authorship at a component level, beyond git blame, for better ownership insights. (today)
-- [trinhminhtriet/gloc](https://github.com/trinhminhtriet/gloc) - 🚀 gloc – A blazing-fast LOC (Lines of Code) counter in Go, inspired by tokei. Simple & efficient! (today)
+- [trinhminhtriet/pingy](https://github.com/trinhminhtriet/pingy) - ⚡ Pingy: A fast, concurrent Rust-based ping tool with real-time updates & visual charts! 📊🚀 (1 day ago)
+- [trinhminhtriet/git-author](https://github.com/trinhminhtriet/git-author) - 🔍 git-author – Identify codebase authorship at a component level, beyond git blame, for better ownership insights. (1 day ago)
+- [trinhminhtriet/gloc](https://github.com/trinhminhtriet/gloc) - 🚀 gloc – A blazing-fast LOC (Lines of Code) counter in Go, inspired by tokei. Simple & efficient! (1 day ago)
 - [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (11 months ago)
 
 ## 👯 Check out my recent followers
 
+- [Malaybhai11](https://github.com/Malaybhai11)
+- [Abduraxmonnn](https://github.com/Abduraxmonnn)
+- [pendraghon](https://github.com/pendraghon)
 - [mewwwaaaamem](https://github.com/mewwwaaaamem)
 - [mohamedelmougy](https://github.com/mohamedelmougy)
 - [K1OOL](https://github.com/K1OOL)
@@ -47,9 +50,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [umarG9](https://github.com/umarG9)
 - [Git-FED](https://github.com/Git-FED)
 - [Travvissrapidd](https://github.com/Travvissrapidd)
-- [AnderiPopescu](https://github.com/AnderiPopescu)
-- [hoangdacviet](https://github.com/hoangdacviet)
-- [ILyasZobair](https://github.com/ILyasZobair)
 
 ## ⭐ Recent stars
 
