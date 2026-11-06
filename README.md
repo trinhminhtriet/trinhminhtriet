@@ -40,16 +40,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Ishan756](https://github.com/Ishan756)
+- [Bigsnack7](https://github.com/Bigsnack7)
+- [stnvsm](https://github.com/stnvsm)
+- [mohamedelmougy](https://github.com/mohamedelmougy)
 - [salma1877](https://github.com/salma1877)
 - [jhorn83](https://github.com/jhorn83)
 - [DevStar1016](https://github.com/DevStar1016)
 - [cooldev227](https://github.com/cooldev227)
 - [arielshakaramiro](https://github.com/arielshakaramiro)
 - [Malaybhai11](https://github.com/Malaybhai11)
-- [Abduraxmonnn](https://github.com/Abduraxmonnn)
-- [pendraghon](https://github.com/pendraghon)
-- [mewwwaaaamem](https://github.com/mewwwaaaamem)
-- [mohamedelmougy](https://github.com/mohamedelmougy)
 
 ## ⭐ Recent stars
 
