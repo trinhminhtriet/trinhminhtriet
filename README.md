@@ -40,6 +40,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [rich-iannone](https://github.com/rich-iannone)
 - [mohamedelmougy](https://github.com/mohamedelmougy)
 - [haikaly89](https://github.com/haikaly89)
 - [Ishan756](https://github.com/Ishan756)
@@ -49,7 +50,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [DevStar1016](https://github.com/DevStar1016)
 - [cooldev227](https://github.com/cooldev227)
 - [arielshakaramiro](https://github.com/arielshakaramiro)
-- [Malaybhai11](https://github.com/Malaybhai11)
 
 ## ⭐ Recent stars
 
