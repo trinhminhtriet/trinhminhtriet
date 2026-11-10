@@ -32,14 +32,15 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👷 Check out what I'm currently working on
 
-- [trinhminhtriet/awesome-job-boards](https://github.com/trinhminhtriet/awesome-job-boards) - 🚀 A curated list of awesome job boards for developers, designers, and tech enthusiasts. Find remote work, freelance gigs, or full-time positions. Contributions welcome!  (5 days ago)
-- [trinhminhtriet/pingy](https://github.com/trinhminhtriet/pingy) - ⚡ Pingy: A fast, concurrent Rust-based ping tool with real-time updates & visual charts! 📊🚀 (6 days ago)
-- [trinhminhtriet/git-author](https://github.com/trinhminhtriet/git-author) - 🔍 git-author – Identify codebase authorship at a component level, beyond git blame, for better ownership insights. (6 days ago)
-- [trinhminhtriet/gloc](https://github.com/trinhminhtriet/gloc) - 🚀 gloc – A blazing-fast LOC (Lines of Code) counter in Go, inspired by tokei. Simple & efficient! (6 days ago)
+- [trinhminhtriet/awesome-job-boards](https://github.com/trinhminhtriet/awesome-job-boards) - 🚀 A curated list of awesome job boards for developers, designers, and tech enthusiasts. Find remote work, freelance gigs, or full-time positions. Contributions welcome!  (6 days ago)
+- [trinhminhtriet/pingy](https://github.com/trinhminhtriet/pingy) - ⚡ Pingy: A fast, concurrent Rust-based ping tool with real-time updates & visual charts! 📊🚀 (1 week ago)
+- [trinhminhtriet/git-author](https://github.com/trinhminhtriet/git-author) - 🔍 git-author – Identify codebase authorship at a component level, beyond git blame, for better ownership insights. (1 week ago)
+- [trinhminhtriet/gloc](https://github.com/trinhminhtriet/gloc) - 🚀 gloc – A blazing-fast LOC (Lines of Code) counter in Go, inspired by tokei. Simple & efficient! (1 week ago)
 - [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (1 year ago)
 
 ## 👯 Check out my recent followers
 
+- [princehamedfazz-ux](https://github.com/princehamedfazz-ux)
 - [rich-iannone](https://github.com/rich-iannone)
 - [mohamedelmougy](https://github.com/mohamedelmougy)
 - [haikaly89](https://github.com/haikaly89)
@@ -49,7 +50,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [jhorn83](https://github.com/jhorn83)
 - [DevStar1016](https://github.com/DevStar1016)
 - [cooldev227](https://github.com/cooldev227)
-- [arielshakaramiro](https://github.com/arielshakaramiro)
 
 ## ⭐ Recent stars
 
