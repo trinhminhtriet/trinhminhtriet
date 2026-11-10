@@ -40,9 +40,9 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [mohamedelmougy](https://github.com/mohamedelmougy)
 - [princehamedfazz-ux](https://github.com/princehamedfazz-ux)
 - [rich-iannone](https://github.com/rich-iannone)
-- [mohamedelmougy](https://github.com/mohamedelmougy)
 - [haikaly89](https://github.com/haikaly89)
 - [Ishan756](https://github.com/Ishan756)
 - [stnvsm](https://github.com/stnvsm)
