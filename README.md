@@ -40,6 +40,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [applecat88](https://github.com/applecat88)
+- [coffetobug](https://github.com/coffetobug)
 - [mohamedelmougy](https://github.com/mohamedelmougy)
 - [princehamedfazz-ux](https://github.com/princehamedfazz-ux)
 - [rich-iannone](https://github.com/rich-iannone)
@@ -48,8 +50,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [stnvsm](https://github.com/stnvsm)
 - [salma1877](https://github.com/salma1877)
 - [jhorn83](https://github.com/jhorn83)
-- [DevStar1016](https://github.com/DevStar1016)
-- [cooldev227](https://github.com/cooldev227)
 
 ## ⭐ Recent stars
 
