@@ -40,6 +40,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [ghostworker13](https://github.com/ghostworker13)
+- [applecat88](https://github.com/applecat88)
 - [AleksOBM](https://github.com/AleksOBM)
 - [mohamedelmougy](https://github.com/mohamedelmougy)
 - [SHlDOU](https://github.com/SHlDOU)
@@ -48,8 +50,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [haikaly89](https://github.com/haikaly89)
 - [Ishan756](https://github.com/Ishan756)
 - [quiethabit](https://github.com/quiethabit)
-- [salma1877](https://github.com/salma1877)
-- [jhorn83](https://github.com/jhorn83)
 
 ## ⭐ Recent stars
 
