@@ -40,16 +40,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [AnkitSaini491](https://github.com/AnkitSaini491)
+- [mktmansour](https://github.com/mktmansour)
+- [mohamedelmougy](https://github.com/mohamedelmougy)
 - [ghostworker13](https://github.com/ghostworker13)
 - [applecat88](https://github.com/applecat88)
 - [AleksOBM](https://github.com/AleksOBM)
-- [mohamedelmougy](https://github.com/mohamedelmougy)
 - [SHlDOU](https://github.com/SHlDOU)
 - [coffetobug](https://github.com/coffetobug)
 - [princehamedfazz-ux](https://github.com/princehamedfazz-ux)
 - [haikaly89](https://github.com/haikaly89)
-- [Ishan756](https://github.com/Ishan756)
-- [quiethabit](https://github.com/quiethabit)
 
 ## ⭐ Recent stars
 
