@@ -41,6 +41,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 ## 👯 Check out my recent followers
 
 - [mohamedelmougy](https://github.com/mohamedelmougy)
+- [FoxPhantom203](https://github.com/FoxPhantom203)
 - [synkotlg](https://github.com/synkotlg)
 - [cinic](https://github.com/cinic)
 - [AnkitSaini491](https://github.com/AnkitSaini491)
@@ -49,7 +50,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [applecat88](https://github.com/applecat88)
 - [AleksOBM](https://github.com/AleksOBM)
 - [SHlDOU](https://github.com/SHlDOU)
-- [coffetobug](https://github.com/coffetobug)
 
 ## ⭐ Recent stars
 
