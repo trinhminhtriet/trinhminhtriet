@@ -36,7 +36,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [trinhminhtriet/pingy](https://github.com/trinhminhtriet/pingy) - ⚡ Pingy: A fast, concurrent Rust-based ping tool with real-time updates & visual charts! 📊🚀 (1 week ago)
 - [trinhminhtriet/git-author](https://github.com/trinhminhtriet/git-author) - 🔍 git-author – Identify codebase authorship at a component level, beyond git blame, for better ownership insights. (1 week ago)
 - [trinhminhtriet/gloc](https://github.com/trinhminhtriet/gloc) - 🚀 gloc – A blazing-fast LOC (Lines of Code) counter in Go, inspired by tokei. Simple & efficient! (1 week ago)
-- [trinhminhtriet/leetcode](https://github.com/trinhminhtriet/leetcode) - 🔥 LeetCode solutions in any programming language. (1 year ago)
 
 ## 👯 Check out my recent followers
 
