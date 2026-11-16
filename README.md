@@ -47,8 +47,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [cinic](https://github.com/cinic)
 - [AnkitSaini491](https://github.com/AnkitSaini491)
 - [mktmansour](https://github.com/mktmansour)
-- [ghostworker13](https://github.com/ghostworker13)
 - [applecat88](https://github.com/applecat88)
+- [AleksOBM](https://github.com/AleksOBM)
 
 ## ⭐ Recent stars
 
