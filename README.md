@@ -39,6 +39,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [Hamidooh](https://github.com/Hamidooh)
+- [pechorin](https://github.com/pechorin)
 - [mohamedelmougy](https://github.com/mohamedelmougy)
 - [FoxPhantom203](https://github.com/FoxPhantom203)
 - [synkotlg](https://github.com/synkotlg)
@@ -47,8 +49,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [mktmansour](https://github.com/mktmansour)
 - [ghostworker13](https://github.com/ghostworker13)
 - [applecat88](https://github.com/applecat88)
-- [AleksOBM](https://github.com/AleksOBM)
-- [SHlDOU](https://github.com/SHlDOU)
 
 ## ⭐ Recent stars
 
