@@ -39,6 +39,9 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [gul-amd](https://github.com/gul-amd)
+- [suwandaryweny500-hue](https://github.com/suwandaryweny500-hue)
+- [mohamedelmougy](https://github.com/mohamedelmougy)
 - [Sadra138456](https://github.com/Sadra138456)
 - [Focustechco](https://github.com/Focustechco)
 - [DoveScribe](https://github.com/DoveScribe)
@@ -46,9 +49,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [gayestnerd](https://github.com/gayestnerd)
 - [MathematicalStatistics](https://github.com/MathematicalStatistics)
 - [Hamidooh](https://github.com/Hamidooh)
-- [pechorin](https://github.com/pechorin)
-- [mohamedelmougy](https://github.com/mohamedelmougy)
-- [FoxPhantom203](https://github.com/FoxPhantom203)
 
 ## ⭐ Recent stars
 
