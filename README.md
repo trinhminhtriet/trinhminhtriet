@@ -39,10 +39,10 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [mohamedelmougy](https://github.com/mohamedelmougy)
 - [SAPTARSHI-coder](https://github.com/SAPTARSHI-coder)
 - [gul-amd](https://github.com/gul-amd)
 - [suwandaryweny500-hue](https://github.com/suwandaryweny500-hue)
-- [mohamedelmougy](https://github.com/mohamedelmougy)
 - [Sadra138456](https://github.com/Sadra138456)
 - [Focustechco](https://github.com/Focustechco)
 - [DoveScribe](https://github.com/DoveScribe)
