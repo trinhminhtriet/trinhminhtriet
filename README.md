@@ -39,6 +39,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [SAPTARSHI-coder](https://github.com/SAPTARSHI-coder)
 - [gul-amd](https://github.com/gul-amd)
 - [suwandaryweny500-hue](https://github.com/suwandaryweny500-hue)
 - [mohamedelmougy](https://github.com/mohamedelmougy)
@@ -48,7 +49,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [deveguru](https://github.com/deveguru)
 - [gayestnerd](https://github.com/gayestnerd)
 - [MathematicalStatistics](https://github.com/MathematicalStatistics)
-- [Hamidooh](https://github.com/Hamidooh)
 
 ## ⭐ Recent stars
 
