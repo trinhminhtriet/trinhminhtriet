@@ -39,16 +39,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [pareochu2](https://github.com/pareochu2)
+- [AdailSilva](https://github.com/AdailSilva)
+- [TaroYamada08](https://github.com/TaroYamada08)
+- [milksense](https://github.com/milksense)
 - [mohamedelmougy](https://github.com/mohamedelmougy)
+- [abolfazlgoodam-art](https://github.com/abolfazlgoodam-art)
 - [SAPTARSHI-coder](https://github.com/SAPTARSHI-coder)
 - [gul-amd](https://github.com/gul-amd)
 - [suwandaryweny500-hue](https://github.com/suwandaryweny500-hue)
 - [Sadra138456](https://github.com/Sadra138456)
-- [Focustechco](https://github.com/Focustechco)
-- [DoveScribe](https://github.com/DoveScribe)
-- [deveguru](https://github.com/deveguru)
-- [gayestnerd](https://github.com/gayestnerd)
-- [MathematicalStatistics](https://github.com/MathematicalStatistics)
 
 ## ⭐ Recent stars
 
