@@ -39,6 +39,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [abdalrahman-alakhras](https://github.com/abdalrahman-alakhras)
+- [LaughingVzr](https://github.com/LaughingVzr)
 - [pareochu2](https://github.com/pareochu2)
 - [AdailSilva](https://github.com/AdailSilva)
 - [TaroYamada08](https://github.com/TaroYamada08)
@@ -47,8 +49,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [abolfazlgoodam-art](https://github.com/abolfazlgoodam-art)
 - [SAPTARSHI-coder](https://github.com/SAPTARSHI-coder)
 - [gul-amd](https://github.com/gul-amd)
-- [suwandaryweny500-hue](https://github.com/suwandaryweny500-hue)
-- [Sadra138456](https://github.com/Sadra138456)
 
 ## ⭐ Recent stars
 
