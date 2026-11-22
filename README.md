@@ -39,6 +39,7 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [njuj](https://github.com/njuj)
 - [abdalrahman-alakhras](https://github.com/abdalrahman-alakhras)
 - [LaughingVzr](https://github.com/LaughingVzr)
 - [pareochu2](https://github.com/pareochu2)
@@ -48,7 +49,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [mohamedelmougy](https://github.com/mohamedelmougy)
 - [abolfazlgoodam-art](https://github.com/abolfazlgoodam-art)
 - [SAPTARSHI-coder](https://github.com/SAPTARSHI-coder)
-- [gul-amd](https://github.com/gul-amd)
 
 ## ⭐ Recent stars
 
