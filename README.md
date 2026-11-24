@@ -39,6 +39,8 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [PaulKabyn](https://github.com/PaulKabyn)
+- [dogukan-cengiz](https://github.com/dogukan-cengiz)
 - [abolfazlgoodam-art](https://github.com/abolfazlgoodam-art)
 - [mohamedelmougy](https://github.com/mohamedelmougy)
 - [fanyzp](https://github.com/fanyzp)
@@ -47,8 +49,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [Stradivario](https://github.com/Stradivario)
 - [kosar-behjatpour](https://github.com/kosar-behjatpour)
 - [njuj](https://github.com/njuj)
-- [abdalrahman-alakhras](https://github.com/abdalrahman-alakhras)
-- [LaughingVzr](https://github.com/LaughingVzr)
 
 ## ⭐ Recent stars
 
