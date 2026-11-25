@@ -39,16 +39,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
-- [coffsec](https://github.com/coffsec)
+- [mohamedelmougy](https://github.com/mohamedelmougy)
 - [PaulKabyn](https://github.com/PaulKabyn)
 - [dogukan-cengiz](https://github.com/dogukan-cengiz)
 - [abolfazlgoodam-art](https://github.com/abolfazlgoodam-art)
-- [mohamedelmougy](https://github.com/mohamedelmougy)
 - [fanyzp](https://github.com/fanyzp)
 - [mrsystem-tz](https://github.com/mrsystem-tz)
 - [codematchbox](https://github.com/codematchbox)
 - [Stradivario](https://github.com/Stradivario)
 - [kosar-behjatpour](https://github.com/kosar-behjatpour)
+- [njuj](https://github.com/njuj)
 
 ## ⭐ Recent stars
 
