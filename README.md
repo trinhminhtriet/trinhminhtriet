@@ -39,6 +39,9 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
+- [caiba-red](https://github.com/caiba-red)
+- [programmerbnd](https://github.com/programmerbnd)
+- [infoversedev](https://github.com/infoversedev)
 - [mohamedelmougy](https://github.com/mohamedelmougy)
 - [PaulKabyn](https://github.com/PaulKabyn)
 - [dogukan-cengiz](https://github.com/dogukan-cengiz)
@@ -46,9 +49,6 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 - [fanyzp](https://github.com/fanyzp)
 - [mrsystem-tz](https://github.com/mrsystem-tz)
 - [codematchbox](https://github.com/codematchbox)
-- [Stradivario](https://github.com/Stradivario)
-- [kosar-behjatpour](https://github.com/kosar-behjatpour)
-- [njuj](https://github.com/njuj)
 
 ## ⭐ Recent stars
 
