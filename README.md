@@ -39,16 +39,16 @@ Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/triet-trinh) 
 
 ## 👯 Check out my recent followers
 
-- [rasidi3112](https://github.com/rasidi3112)
+- [mohamedelmougy](https://github.com/mohamedelmougy)
 - [caiba-red](https://github.com/caiba-red)
 - [programmerbnd](https://github.com/programmerbnd)
 - [infoversedev](https://github.com/infoversedev)
-- [mohamedelmougy](https://github.com/mohamedelmougy)
 - [PaulKabyn](https://github.com/PaulKabyn)
-- [dogukan-cengiz](https://github.com/dogukan-cengiz)
 - [abolfazlgoodam-art](https://github.com/abolfazlgoodam-art)
 - [fanyzp](https://github.com/fanyzp)
 - [mrsystem-tz](https://github.com/mrsystem-tz)
+- [codematchbox](https://github.com/codematchbox)
+- [Stradivario](https://github.com/Stradivario)
 
 ## ⭐ Recent stars
 
